@@ -412,12 +412,12 @@ confirmed by the project owner.
   loads <100ms and is cached on a file fingerprint, so a `git pull` of new data
   is picked up on the next request. Removes the `sqlite3` dependency and the
   binary, non-diffable, gitignored `.db` as the source of truth.
-- **Migration:** `tools/export_isps.py` exported the existing SQLite DB to
-  `data/` (verified: refs and transition endpoints preserved 1:1). The `db/`
-  schema+build tooling, `data/seed.json` and the Python list in
-  `tools/build_seed.py` are gone. `tools/qa_report.py` (orphan refs / broken
-  transitions are now structurally impossible) and `tools/layout_score.py` were
-  ported to read the JSON files.
+- **Migration:** a one-time `tools/export_isps.py` exported the existing SQLite
+  DB to `data/` (verified: refs and transition endpoints preserved 1:1), then was
+  removed once the migration was done. The `db/` schema+build tooling,
+  `data/seed.json` and the Python list in `tools/build_seed.py` are gone.
+  `tools/qa_report.py` (orphan refs / broken transitions are now structurally
+  impossible) and `tools/layout_score.py` were ported to read the JSON files.
 - **Alternatives rejected:** a single big `data.json` (PRs touch one huge file and
   conflict on ordering), JSONL (hard to hand-edit), keeping SQLite and writing a
   JSON export for PRs (two sources of truth).

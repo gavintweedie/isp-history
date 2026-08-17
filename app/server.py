@@ -19,6 +19,7 @@ from flask import (
     current_app,
     jsonify,
     render_template,
+    request,
     url_for,
 )
 
@@ -71,6 +72,16 @@ def set_security_headers(resp):
         "base-uri 'self'; "
         "form-action 'self'",
     )
+    # Browser caching: static assets and /api/graph are immutable for the
+    # lifetime of the data (a git pull invalidates the server-side graph cache),
+    # so cache them; HTML pages left uncached so a deploy/git pull shows fresh
+    # content immediately.
+    path = request.path
+    if path.startswith("/static/"):
+        resp.headers["Cache-Control"] = "public, max-age=3600"
+    elif path == "/api/graph":
+        resp.headers.setdefault("Cache-Control", "public, max-age=300")
+        resp.headers.setdefault("Vary", "Accept-Encoding")
     return resp
 
 

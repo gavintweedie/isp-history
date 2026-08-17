@@ -12,7 +12,8 @@ Build order for the project. Each phase ends in a working, committed state.
 - [x] `db/schema.sql` implementing the model in `docs/DATA_MODEL.md`.
       *(replaced 2026-08-17 by git-tracked JSON: `data/isps/<slug>.json` + `data/transitions.json`; see DECISIONS.md)*
 - [x] `db/build_db.py` to create `isp_history.db` from schema.
-      *(removed 2026-08-17; `tools/export_isps.py` migrates a legacy .db into `data/`)*
+      *(removed 2026-08-17 alongside the SQLite schema; data now lives in
+      `data/` as git-tracked JSON — see DECISIONS.md)*
 - [x] `app/db.py` store loader + query helpers (reads the JSON files, cached on fingerprint).
 - [x] Smoke test: create DB, insert a sample ISP + rename + split, query back.
 

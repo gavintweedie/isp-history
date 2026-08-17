@@ -4,6 +4,6 @@ __pycache__/
 venv/
 data/exports/
 
-# legacy SQLite backup left behind by tools/export_isps.py (not used by the app)
+# legacy SQLite files from the pre-JSON data layout (not used by the app)
 *.db
 *.db-journal

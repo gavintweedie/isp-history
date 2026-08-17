@@ -179,3 +179,15 @@ def test_security_headers_present(client):
     assert r.headers.get("Referrer-Policy") == "no-referrer"
     assert "default-src 'self'" in r.headers.get("Content-Security-Policy", "")
     assert "style-src 'self' 'unsafe-inline'" in r.headers["Content-Security-Policy"]
+
+
+def test_cache_headers(client):
+    r = client.get("/api/graph")
+    assert r.headers["Cache-Control"] == "public, max-age=300"
+    assert "Accept-Encoding" in r.headers["Vary"]
+
+    r = client.get("/static/graph.js")
+    assert r.headers["Cache-Control"] == "public, max-age=3600"
+
+    r = client.get("/")
+    assert "Cache-Control" not in r.headers
