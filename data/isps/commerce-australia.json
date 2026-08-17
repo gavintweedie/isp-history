@@ -1,0 +1,38 @@
+{
+  "name": "Commerce Australia",
+  "slug": "commerce-australia",
+  "birthplace": "Perth (Osborne Park), WA",
+  "status": "inactive",
+  "website": "https://ca.com.au",
+  "summary": "Perth ISP evolved from RLCC (Reg Lee Computing); exited ISP business ~2010, pivoted to real-estate software (MyDesktop).",
+  "names": [
+    {
+      "name": "Commerce Australia",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Evolved from RLCC, a Perth dial-up ISP of ~1995/96."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "ISP exit (site became MyDesktop real-estate only by Feb 2011); company wound up 2025."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001018104808/http://www.ca.com.au/",
+      "label": "Commerce Australia (Wayback 2000)"
+    }
+  ]
+}

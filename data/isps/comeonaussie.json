@@ -1,0 +1,31 @@
+{
+  "name": "ComeOnAussie.net",
+  "slug": "comeonaussie",
+  "birthplace": "Taree, NSW",
+  "status": "inactive",
+  "website": "https://comeonaussie.net",
+  "summary": "Mid-north coast NSW dialup/ADSL + hosting ISP (Stephen Spry, 2002-04); defunct.",
+  "names": [
+    {
+      "name": "ComeOnAussie.net",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Dialup, ADSL, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

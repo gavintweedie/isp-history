@@ -1,0 +1,31 @@
+{
+  "name": "Linknet Communications",
+  "slug": "linknet-communications",
+  "birthplace": "Northern Rivers, NSW",
+  "status": "inactive",
+  "website": "https://linknet.com.au",
+  "summary": "Northern Rivers NSW wireless broadband + dialup + co-location ISP (Linknet Communications NSW Pty Ltd, ACN 105 220 399, ~2003; ABG provider); defunct.",
+  "names": [
+    {
+      "name": "Linknet Communications",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Wireless broadband, dialup, co-location."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

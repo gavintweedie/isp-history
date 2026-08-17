@@ -1,0 +1,38 @@
+{
+  "name": "FrontierISP",
+  "slug": "frontierisp",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://frontierisp.net.au",
+  "summary": "Adelaide dialup/hosting ISP (Frontier ISP Pty Ltd, 2001); evolved into / absorbed by Ai Tel Pty Ltd (same 1800 number).",
+  "names": [
+    {
+      "name": "FrontierISP",
+      "start_year": 2001,
+      "start_disp": "2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Frontier ISP, Adelaide."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Evolved into / absorbed by Ai Tel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010223185120/http://www.frontierisp.net.au/",
+      "label": "FrontierISP (Wayback 2001)"
+    }
+  ]
+}

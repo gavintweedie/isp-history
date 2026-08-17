@@ -1,0 +1,38 @@
+{
+  "name": "Global Dial",
+  "slug": "global-dial",
+  "birthplace": "Claremont, Perth, WA",
+  "status": "inactive",
+  "website": "https://globaldial.com.au",
+  "summary": "Perth ISP (satellite/telephony, 1998); acquired by Highway 1 in 2010 (per user report).",
+  "names": [
+    {
+      "name": "Global Dial",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Top-rated ISP (Internet.AU survey Mar 1998); satellite from 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "2010",
+      "precision": "exact",
+      "details": "Acquired by Highway 1 (user report)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040616060628/http://www.globaldial.com.au/aboutus/history.html",
+      "label": "Global Dial history (Wayback 2004)"
+    }
+  ]
+}

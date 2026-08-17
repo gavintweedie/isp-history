@@ -1,0 +1,38 @@
+{
+  "name": "Bandwidth Unlimited",
+  "slug": "bandwidth-unlimited",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://bu.net.au",
+  "summary": "Canberra TransACT-only broadband brand ('bU', bu.net.au, opened 5 May 2003; $100/mo unlimited); operated by CBIT Internet's Paul Hampson; formally taken over by CBIT Internet 3 Nov 2005.",
+  "names": [
+    {
+      "name": "Bandwidth Unlimited",
+      "start_year": 2003,
+      "start_disp": "5 May 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "5 May 2003",
+      "precision": "exact",
+      "details": "Opened as a TransACT-only broadband provider."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "Nov 2005",
+      "precision": "exact",
+      "details": "Taken over by CBIT Internet (3 Nov 2005)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060411164816/http://www.bu.net.au/",
+      "label": "bU (Wayback 2006)"
+    }
+  ]
+}

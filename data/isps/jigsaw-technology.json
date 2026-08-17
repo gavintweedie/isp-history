@@ -1,0 +1,38 @@
+{
+  "name": "Jigsaw Technology",
+  "slug": "jigsaw-technology",
+  "birthplace": "Seven Hills (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://jigsaw.com.au",
+  "summary": "Sydney dialup ISP (Blacktown POP); defunct.",
+  "names": [
+    {
+      "name": "Jigsaw Technology",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1997)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "ISP era ~2000 (jigsaw.net.au last active 2006; domain later a NAV firm)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021221192255/http://www.cynosure.com.au/isp/jigsaw",
+      "label": "Jigsaw (Cynosure 2002)"
+    }
+  ]
+}

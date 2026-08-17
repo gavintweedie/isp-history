@@ -1,0 +1,31 @@
+{
+  "name": "Mosaic Security and Internet Services",
+  "slug": "mosaic-security-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://atlaswest.com.au",
+  "summary": "Security + internet services (atlaswest.com.au, ~1999-2000); renamed Qwestcom ~2001; defunct by ~2004.",
+  "names": [
+    {
+      "name": "Mosaic Security and Internet Services",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Security + internet services."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Renamed Qwestcom; defunct ~2004."
+    }
+  ]
+}

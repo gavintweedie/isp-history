@@ -1,0 +1,38 @@
+{
+  "name": "AcomNet",
+  "slug": "acomnet",
+  "birthplace": "Hornsby (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://acomnet.com.au",
+  "summary": "Sydney SMB ISP (dialup, permanent, e-commerce, intranet); dead mid-2000s.",
+  "names": [
+    {
+      "name": "AcomNet",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 2000)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020212181748/http://www.cynosure.com.au/isp/acomnet",
+      "label": "AcomNet (Cynosure 2002)"
+    }
+  ]
+}

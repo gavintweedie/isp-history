@@ -1,0 +1,31 @@
+{
+  "name": "AuNix",
+  "slug": "aunix",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://aunix.com.au",
+  "summary": "Nationwide ADSL + dialup + phone ISP (~2005); defunct.",
+  "names": [
+    {
+      "name": "AuNix",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "ADSL, dialup, phone."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

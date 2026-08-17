@@ -1,0 +1,38 @@
+{
+  "name": "Atlantic Digital",
+  "slug": "atlantic-digital",
+  "birthplace": "Paddington (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://atlanticdigital.net",
+  "summary": "Brisbane dialup/ISDN + hosting + internet cafe ISP, part of the Atlantic Internet group; dead ~2001.",
+  "names": [
+    {
+      "name": "Atlantic Digital",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Last known alive by 2001 (Wayback capture)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last capture 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030102004831/http://www.cynosure.com.au/isp/atlanticdigital",
+      "label": "Atlantic Digital (Cynosure 2003)"
+    }
+  ]
+}

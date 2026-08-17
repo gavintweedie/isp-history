@@ -1,0 +1,31 @@
+{
+  "name": "ihug",
+  "slug": "ihug",
+  "birthplace": "Auckland, NZ",
+  "status": "inactive",
+  "website": "ihug.co.nz",
+  "summary": "New Zealand ISP, one of NZ's first; acquired by iiNet, which kept its Sydney and Auckland ihug offices.",
+  "names": [
+    {
+      "name": "ihug",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Founded in New Zealand; one of the country's first ISPs."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Oct 2003",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

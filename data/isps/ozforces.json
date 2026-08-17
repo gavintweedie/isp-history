@@ -1,0 +1,38 @@
+{
+  "name": "OzForces",
+  "slug": "ozforces",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://ozforces.com.au",
+  "summary": "Australia's first national gaming ISP (2002); ISP business transferred to Australian Power Control Systems ~2007.",
+  "names": [
+    {
+      "name": "OzForces",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Launched 17 July 2002 as a Gaming ISP (GISP)."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "ISP business transferred to Australian Power Control Systems Pty Ltd (notice Jul 2007); ABN cancelled 2014."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020804071224/http://www.ozforces.com.au/",
+      "label": "OzForces (Wayback 2002)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Chime Communications",
+  "slug": "chime-communications",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://chime.net.au",
+  "summary": "Melbourne dialup ('virtual dial') + broadband + hosting ISP (by 2001); absorbed by iiNet (chime.net.au served iiNet content by 2008).",
+  "names": [
+    {
+      "name": "Chime Communications",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Dialup, broadband, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "by 2008",
+      "precision": "by",
+      "details": "Absorbed by iiNet."
+    }
+  ]
+}

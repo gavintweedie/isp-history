@@ -1,0 +1,31 @@
+{
+  "name": "Aussie Broadband",
+  "slug": "aussie-broadband",
+  "birthplace": "Morwell, VIC",
+  "status": "active",
+  "website": "https://www.aussiebroadband.com.au",
+  "summary": "Regional Victorian ISP founded in Gippsland that grew into a major national RSP and ASX-listed telecom group.",
+  "names": [
+    {
+      "name": "Aussie Broadband",
+      "start_year": 2008,
+      "start_disp": "2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Founded via amalgamation of Westvic Broadband and Wideband Networks (both trading since 2003)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aussie_Broadband",
+      "label": "Wikipedia: Aussie Broadband"
+    }
+  ]
+}

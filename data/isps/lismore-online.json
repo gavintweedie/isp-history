@@ -1,0 +1,31 @@
+{
+  "name": "Lismore Online",
+  "slug": "lismore-online",
+  "birthplace": "Lismore, NSW",
+  "status": "inactive",
+  "website": "https://lismoreonline.com.au",
+  "summary": "Lismore dialup ISP (65 POPs Australia-wide, ~2000; ran Nuclear Days gaming ISP and Grafton Internet); defunct.",
+  "names": [
+    {
+      "name": "Lismore Online",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Dialup, 65 POPs."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

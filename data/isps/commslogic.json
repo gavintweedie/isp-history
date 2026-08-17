@@ -1,0 +1,38 @@
+{
+  "name": "CommsLogic",
+  "slug": "commslogic",
+  "birthplace": "Gold Coast/Logan, QLD",
+  "status": "inactive",
+  "website": "https://commslogic.com.au",
+  "summary": "Queensland licensed carrier and wireless WiMax broadband + VoIP + VPN ISP (Motorola Canopy, unlimited plans); assets acquired by Cirrus Communications 2007.",
+  "names": [
+    {
+      "name": "CommsLogic",
+      "start_year": 2005,
+      "start_disp": "by 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "by 2005",
+      "precision": "by",
+      "details": "Operating by May 2005 (commslogic.com.au)."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "Aug 2007",
+      "precision": "exact",
+      "details": "Assets acquired by Cirrus Communications (customer notice 15 Aug 2007)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20070109224017/http://www.commslogic.com.au/",
+      "label": "CommsLogic (Wayback 2007)"
+    }
+  ]
+}

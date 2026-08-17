@@ -1,0 +1,38 @@
+{
+  "name": "Eastcoast Technology Group",
+  "slug": "eastcoast-technology-group",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://eastcoast.net.au",
+  "summary": "Canberra dialup ISP; defunct by 2004.",
+  "names": [
+    {
+      "name": "Eastcoast Technology Group",
+      "start_year": 1997,
+      "start_disp": "c. 1997-98"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997-98",
+      "precision": "approx",
+      "details": "Dialup, Canberra."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "by",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011223095143/http://www.cynosure.com.au/isp/eastcoast",
+      "label": "Cynosure: Eastcoast"
+    }
+  ]
+}

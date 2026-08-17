@@ -1,0 +1,38 @@
+{
+  "name": "OzServers",
+  "slug": "ozservers",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "https://www.ozservers.com.au",
+  "summary": "Brisbane hosting/dedicated-server provider (since 2000); acquired by Servers Australia Sept 2017, operates as their brand.",
+  "names": [
+    {
+      "name": "OzServers",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Founded Brisbane; own datacentre."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "Sep 2017",
+      "precision": "exact",
+      "details": "Acquired by Servers Australia (continues as brand)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20180811190841/https://www.ozservers.com.au/",
+      "label": "OzServers (Wayback 2018)"
+    }
+  ]
+}

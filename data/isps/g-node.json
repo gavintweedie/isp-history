@@ -1,0 +1,31 @@
+{
+  "name": "G-node",
+  "slug": "g-node",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://g-node.com.au",
+  "summary": "Gamer-focused low-latency ADSL ISP (free 10pm-7am unmetered, ~2006); defunct.",
+  "names": [
+    {
+      "name": "G-node",
+      "start_year": 2006,
+      "start_disp": "c. 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Low-latency ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

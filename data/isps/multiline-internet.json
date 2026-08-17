@@ -1,0 +1,38 @@
+{
+  "name": "Multiline Internet",
+  "slug": "multiline-internet",
+  "birthplace": "Mount Lawley (Perth), WA",
+  "status": "inactive",
+  "website": "https://multiline.com.au",
+  "summary": "Perth dialup/broadband ISP (1990 Multiline BBS Pty Ltd), evolved from Graeme & Gloria Platt's Multiline BBS (TBBS, online since 1984); one of Perth's first ISPs; voluntarily deregistered ~Oct 2016.",
+  "names": [
+    {
+      "name": "Multiline Internet",
+      "start_year": 1984,
+      "start_disp": "1984"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1984,
+      "date_disp": "1984",
+      "precision": "exact",
+      "details": "Multiline BBS online since 1984; ISP operation (one of Perth's first)."
+    },
+    {
+      "kind": "death",
+      "year": 2016,
+      "date_disp": "c. Oct 2016",
+      "precision": "approx",
+      "details": "Voluntary deregistration (ASIC)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20051231232610/http://www.multiline.com.au/",
+      "label": "Multiline (Wayback 2005)"
+    }
+  ]
+}

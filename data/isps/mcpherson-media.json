@@ -1,0 +1,31 @@
+{
+  "name": "McPherson Media Internet",
+  "slug": "mcpherson-media",
+  "birthplace": "Shepparton, VIC",
+  "status": "inactive",
+  "website": "https://mcmedia.com.au",
+  "summary": "Shepparton ISP arm of the Shepparton News publisher (dialup, from 1995); ISP arm wound down.",
+  "names": [
+    {
+      "name": "McPherson Media Internet",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Dialup + regional content."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "ISP arm wound down."
+    }
+  ]
+}

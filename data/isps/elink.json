@@ -1,0 +1,31 @@
+{
+  "name": "Elink",
+  "slug": "elink",
+  "birthplace": "Marmion (Perth), WA",
+  "status": "inactive",
+  "website": "https://elink.net.au",
+  "summary": "Perth dialup ISP + referral scheme (Elink Media Ltd, ABN 21 091 273 095; brands Elink Net, Firedream, OzyFast, Nerd Net, Optelglobal); defunct.",
+  "names": [
+    {
+      "name": "Elink",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Dialup ISP + referral scheme."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Mission Internet",
+  "slug": "mission-internet",
+  "birthplace": "Kalorama (Dandenong Ranges), VIC",
+  "status": "active",
+  "website": "https://mission.net.au",
+  "summary": "Dialup/ISDN ISP (51 national POPs), Mac specialist; renamed Internet Vision Technologies (IVT) 2000; still active as web dev.",
+  "names": [
+    {
+      "name": "Mission Internet",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Mission Internet, Dandenong Ranges VIC."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000301045147/http://www.mission.net.au/",
+      "label": "Mission (Wayback 2000)"
+    }
+  ]
+}

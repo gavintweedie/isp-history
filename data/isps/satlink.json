@@ -1,0 +1,38 @@
+{
+  "name": "Satlink Internet Services",
+  "slug": "satlink",
+  "birthplace": "Mount Eliza (Mornington Peninsula), VIC",
+  "status": "inactive",
+  "website": "https://satlink.com.au",
+  "summary": "Mornington Peninsula/Melbourne ISP (dialup, ISDN, satellite, ADSL); absorbed into Chariot Netconnect ~2004.",
+  "names": [
+    {
+      "name": "Satlink Internet Services",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Online by 2 Dec 1998 (satlink.com.au); trust ABN 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. mid-2004",
+      "precision": "approx",
+      "details": "Absorbed into Chariot Netconnect (ABN cancelled 1 Jul 2004)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981202200149/http://satlink.com.au/",
+      "label": "Satlink (Wayback 1998)"
+    }
+  ]
+}

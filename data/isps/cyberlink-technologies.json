@@ -1,0 +1,31 @@
+{
+  "name": "CyberLink Technologies",
+  "slug": "cyberlink-technologies",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://cyberlink.com.au",
+  "summary": "Perth dialup + satellite broadband ISP (since 1998; CyberLink Ultra via ihug); defunct.",
+  "names": [
+    {
+      "name": "CyberLink Technologies",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Dialup, satellite broadband, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

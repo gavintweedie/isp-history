@@ -1,0 +1,38 @@
+{
+  "name": "Matrix Internet",
+  "slug": "matrix-internet",
+  "birthplace": "Kalgoorlie, WA",
+  "status": "inactive",
+  "website": "https://matrix.net.au",
+  "summary": "Kalgoorlie/Goldfields ISP (Matrix Internet Services Pty Ltd), 'The Local Internet Specialists'; wound down, entity cancelled 2010.",
+  "names": [
+    {
+      "name": "Matrix Internet",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Incorporated ~1999-2000; first capture Feb 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Entity cancelled 18 Aug 2010."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010201055800/http://www.matrix.net.au/",
+      "label": "Matrix (Wayback 2001)"
+    }
+  ]
+}

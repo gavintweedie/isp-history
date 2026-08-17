@@ -1,0 +1,24 @@
+{
+  "name": "GigaComm",
+  "slug": "gigacomm",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://www.gigacomm.net.au/",
+  "summary": "Own gigabit fibre network ISP (100 Mbps-2 Gbps apartment FTTP, unlimited data); still active.",
+  "names": [
+    {
+      "name": "GigaComm",
+      "start_year": 2018,
+      "start_disp": "c. 2018"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2018,
+      "date_disp": "c. 2018",
+      "precision": "approx",
+      "details": "Apartment fibre."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Lavalink Internet Services",
+  "slug": "lavalink",
+  "birthplace": "St Kilda (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://lavalink.com.au",
+  "summary": "Melbourne dialup + web design + hosting ISP (IIA member); defunct.",
+  "names": [
+    {
+      "name": "Lavalink Internet Services",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "2009",
+      "precision": "exact",
+      "details": "Last active capture of lavalink.com.au (Oct 2009)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021203171536/http://www.cynosure.com.au/isp/lavalink",
+      "label": "Lavalink (Cynosure 2002)"
+    }
+  ]
+}

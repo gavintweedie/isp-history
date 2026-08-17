@@ -1,0 +1,38 @@
+{
+  "name": "Intervision Internet",
+  "slug": "intervision",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://intervision.net.au",
+  "summary": "Melbourne ISP (branded Intervision/ClubAOL); closed Aug 2002, customers continued by Nella Networks.",
+  "names": [
+    {
+      "name": "Intervision Internet",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "InterVision Internet ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "Aug 2002",
+      "precision": "exact",
+      "details": "Closed internet access business; customers transferred to Nella Networks."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030925071459/http://www.intervision.net.au/",
+      "label": "Intervision closure notice (Wayback 2003)"
+    }
+  ]
+}

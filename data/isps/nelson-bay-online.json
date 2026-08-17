@@ -1,0 +1,38 @@
+{
+  "name": "Nelson Bay Online",
+  "slug": "nelson-bay-online",
+  "birthplace": "Nelson Bay, NSW",
+  "status": "inactive",
+  "website": "https://nelsonbay.com",
+  "summary": "Port Stephens ISP + community portal; operated by Oghma Pty Ltd from 2007.",
+  "names": [
+    {
+      "name": "Nelson Bay Online",
+      "start_year": 1997,
+      "start_disp": "c. 1997-98"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997-98",
+      "precision": "approx",
+      "details": "Nelson Bay community ISP/portal."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Operated by Oghma Pty Ltd (business name from Feb 2007)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981202211755/http://www.nelsonbay.com/",
+      "label": "Nelson Bay Online (Wayback 1998)"
+    }
+  ]
+}

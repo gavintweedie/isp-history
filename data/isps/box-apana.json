@@ -1,0 +1,38 @@
+{
+  "name": "Box APANA node",
+  "slug": "box-apana",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://box.apana.org.au",
+  "summary": "APANA node box.apana.org.au (originally the bkroom.apana.org.au BBS), began selling internet access ~1993-94; merged with lemon.apana.org.au late 1995 to form South Australian Technologies (SATECH).",
+  "names": [
+    {
+      "name": "Box APANA node",
+      "start_year": 1993,
+      "start_disp": "c. 1993-94"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1993,
+      "date_disp": "c. 1993-94",
+      "precision": "approx",
+      "details": "bkroom BBS became box.apana.org.au selling internet access."
+    },
+    {
+      "kind": "death",
+      "year": 1995,
+      "date_disp": "late 1995",
+      "precision": "exact",
+      "details": "Merged with lemon to form SATECH (satech.net.au)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
+      "label": "APANA (Wayback 1997)"
+    }
+  ]
+}

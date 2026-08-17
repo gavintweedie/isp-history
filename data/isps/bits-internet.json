@@ -1,0 +1,38 @@
+{
+  "name": "BITS",
+  "slug": "bits-internet",
+  "birthplace": "Surry Hills (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://bits.com.au",
+  "summary": "Sydney dialup + permanent 56k + hosting ISP; dead ~2011.",
+  "names": [
+    {
+      "name": "BITS",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "c. 2011",
+      "precision": "approx",
+      "details": "Last capture Feb 2011."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021217021125/http://www.cynosure.com.au/isp/bits",
+      "label": "BITS (Cynosure 2002)"
+    }
+  ]
+}

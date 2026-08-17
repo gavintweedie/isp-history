@@ -1,0 +1,31 @@
+{
+  "name": "RuralNet",
+  "slug": "ruralnet",
+  "birthplace": "Rural Victoria",
+  "status": "inactive",
+  "website": "https://ruralnet.com.au",
+  "summary": "Rural Victorian ISP, brand of Local Telecom and Internet Ltd (with Tassienet); acquired by iiNet ~Jan 2003.",
+  "names": [
+    {
+      "name": "RuralNet",
+      "start_year": 1996,
+      "start_disp": "by Mar 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Mar 1996",
+      "precision": "by",
+      "details": "Regional Victorian dialup provider (part of Local Telecom and Internet Ltd)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Acquired by iiNet (with Tassienet, $2.25M for 15,000 customers)."
+    }
+  ]
+}

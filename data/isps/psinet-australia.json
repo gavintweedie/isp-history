@@ -1,0 +1,38 @@
+{
+  "name": "PSINet Australia",
+  "slug": "psinet-australia",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://zircon.com.au",
+  "summary": "PSINet Inc's Australian operation (rebrand of Zircon/Internet Plus, from ~2000; IP network carrier, managed hosting, ~650 corporate/SME clients); PSINet Inc filed Chapter 11 31 May 2001; AU assets sold to National Telecoms Group (2002).",
+  "names": [
+    {
+      "name": "PSINet Australia",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "PSINet acquired Zircon; rebranded as PSINet Australia ~2000."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "Jun 2002",
+      "precision": "exact",
+      "details": "AU assets sold to National Telecoms Group (<$1M, reported 5 Jun 2002)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010723000000/http://www.zircon.com.au/",
+      "label": "PSINet Australia (Wayback 2001)"
+    }
+  ]
+}

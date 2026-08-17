@@ -1,0 +1,38 @@
+{
+  "name": "OzWorld",
+  "slug": "ozworld",
+  "birthplace": "Carlingford (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://oz-world.com",
+  "summary": "Budget national dialup ISP (co-located on connect.com.au); defunct.",
+  "names": [
+    {
+      "name": "OzWorld",
+      "start_year": 1999,
+      "start_disp": "by Oct 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Oct 1999",
+      "precision": "by",
+      "details": "Operating by 8 Oct 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Last active capture of oz-world.com (Nov 2005); parked from 2008."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021201000000/http://www.cynosure.com.au/isp/ozworld",
+      "label": "OzWorld (Cynosure 2002)"
+    }
+  ]
+}

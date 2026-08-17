@@ -1,0 +1,43 @@
+{
+  "name": "Dove Australia",
+  "slug": "dove-australia",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://mtx.net.au",
+  "summary": "Adelaide ISP/web host (Dove Australia Pty Ltd); trading name 'Multi Transmission Xchange' (MTX, mtx.net.au was its original domain); acquired by Asia Online ~2000-01 (per user report); external administration Dec 2001, ABN cancelled 19 Oct 2004.",
+  "names": [
+    {
+      "name": "Dove Australia",
+      "start_year": 2004,
+      "start_disp": "Oct 2004"
+    }
+  ],
+  "aliases": [
+    "Multi Transmission Xchange",
+    "MTX",
+    "Innovative Network of South Australia"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of dove.net.au."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Oct 2004",
+      "precision": "exact",
+      "details": "External administration Dec 2001; ABN cancelled 19 Oct 2004."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961225022201/http://dove.net.au/",
+      "label": "Dove (Wayback 1996)"
+    }
+  ]
+}

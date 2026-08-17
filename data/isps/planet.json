@@ -1,0 +1,31 @@
+{
+  "name": "Planet",
+  "slug": "planet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "planet.net.au",
+  "summary": "ISP subsidiary of FlowCom; acquired by iiNet Feb 2004.",
+  "names": [
+    {
+      "name": "Planet",
+      "start_year": 2004,
+      "start_disp": "Feb 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Oct 1997",
+      "precision": "by",
+      "details": "Planet Internet Pty Ltd, ACN 080 326 156 (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "precision": "exact",
+      "details": "Acquired by iiNet via FlowCom."
+    }
+  ]
+}

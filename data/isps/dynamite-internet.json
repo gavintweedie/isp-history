@@ -1,0 +1,31 @@
+{
+  "name": "Dynamite Internet",
+  "slug": "dynamite-internet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://dynamite.com.au",
+  "summary": "Canberra ISP that acquired Netinfo in 1998; domain redirected to AustarMetro ~2001-02.",
+  "names": [
+    {
+      "name": "Dynamite Internet",
+      "start_year": 2001,
+      "start_disp": "c. 2001-02"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of dynamite.com.au (Canberra ISP)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001-02",
+      "precision": "approx",
+      "details": "Last Dynamite-branded snapshots early 2001; domain redirected to AustarMetro by 2002."
+    }
+  ]
+}

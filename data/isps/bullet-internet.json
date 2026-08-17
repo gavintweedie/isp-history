@@ -1,0 +1,31 @@
+{
+  "name": "Bullet Internet",
+  "slug": "bullet-internet",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://bullet.net.au",
+  "summary": "Sydney dialup + ADSL ISP (est. 2000 by SIS Group Pty Ltd, ACN 079 466 274); absorbed Dragon Net (~2006); folded into SIS Group (Amaze) by 2017.",
+  "names": [
+    {
+      "name": "Bullet Internet",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Dialup + ADSL (SIS Group Pty Ltd)."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "by May 2017",
+      "precision": "by",
+      "details": "Folded into SIS Group (Amaze)."
+    }
+  ]
+}

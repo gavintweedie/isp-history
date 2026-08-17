@@ -1,0 +1,38 @@
+{
+  "name": "Netway Internet",
+  "slug": "netway-internet",
+  "birthplace": "West Perth, WA",
+  "status": "inactive",
+  "website": "https://nw.com.au",
+  "summary": "Registered as Netway Technologies Pty Ltd (ACN 076 696 243); traded as Coastlink Internet Services then Netway Internet; acquired by Up'N'Away.",
+  "names": [
+    {
+      "name": "Netway Internet",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Netway Technologies Pty Ltd registered 6 Dec 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Acquired by Up'N'Away."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001018072533/http://www.nw.com.au/",
+      "label": "Netway Technologies (Wayback 2000)"
+    }
+  ]
+}

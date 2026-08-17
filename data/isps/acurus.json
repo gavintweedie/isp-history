@@ -1,0 +1,31 @@
+{
+  "name": "Acurus",
+  "slug": "acurus",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://acurus.com.au",
+  "summary": "Melbourne tech/IT services company; began as utility billing/IT consulting, later built the Anex ISP white-label broadband platform; acquired by Superloop.",
+  "names": [
+    {
+      "name": "Acurus",
+      "start_year": 2007,
+      "start_disp": "2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Founded in Melbourne by Marshall Thompson and Jason Matser (utility billing platforms and IT consulting)."
+    },
+    {
+      "kind": "death",
+      "year": 2022,
+      "date_disp": "May 2022",
+      "precision": "exact",
+      "details": "Acquired by Superloop (~A$15m)."
+    }
+  ]
+}

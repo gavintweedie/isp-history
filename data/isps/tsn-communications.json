@@ -1,0 +1,45 @@
+{
+  "name": "TSN Communications",
+  "slug": "tsn-communications",
+  "birthplace": "Port Macquarie, NSW",
+  "status": "inactive",
+  "website": "https://tsninternet.com.au",
+  "summary": "Family-run ISP from Port Macquarie, operating by 1998.",
+  "names": [
+    {
+      "name": "TSN Communications",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "First Wayback capture Dec 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20081217141913/http://www.tsninternet.com.au/about/",
+          "label": "First known reference"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "c. 2021",
+      "precision": "approx",
+      "details": "Site dead ~2021."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20081217141913/http://www.tsninternet.com.au/about/",
+      "label": "TSN about (Wayback 2008)"
+    }
+  ]
+}

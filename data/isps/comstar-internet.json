@@ -1,0 +1,31 @@
+{
+  "name": "Comstar Internet",
+  "slug": "comstar-internet",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://comstar.com.au",
+  "summary": "Brisbane dialup + hosting ISP (~2002); defunct.",
+  "names": [
+    {
+      "name": "Comstar Internet",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Dialup, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

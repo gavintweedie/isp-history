@@ -1,0 +1,24 @@
+{
+  "name": "SAT.ONE",
+  "slug": "sat-one",
+  "birthplace": "Welshpool (Perth), WA",
+  "status": "active",
+  "website": "https://www.sat.one/",
+  "summary": "Managed enterprise LEO satellite internet across ANZ (mining, maritime, govt; Sat.One Global); still active.",
+  "names": [
+    {
+      "name": "SAT.ONE",
+      "start_year": 2020,
+      "start_disp": "c. 2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "c. 2020",
+      "precision": "approx",
+      "details": "LEO satellite internet."
+    }
+  ]
+}

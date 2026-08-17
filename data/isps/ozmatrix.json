@@ -1,0 +1,38 @@
+{
+  "name": "Ozmatrix",
+  "slug": "ozmatrix",
+  "birthplace": "Seaford (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://ozmatrix.com.au",
+  "summary": "Melbourne ISDN/dialup ISP (low user:line ratio, $1/day, on-site training); defunct.",
+  "names": [
+    {
+      "name": "Ozmatrix",
+      "start_year": 1997,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Operating by Dec 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Last active capture of ozmatrix.com.au (Aug 2003); parked from 2013."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021226000000/http://www.cynosure.com.au/isp/ozmatrix",
+      "label": "Ozmatrix (Cynosure 2002)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Fastrac Internet Services",
+  "slug": "fastrac",
+  "birthplace": "Nowra, NSW",
+  "status": "inactive",
+  "website": "https://fastrac.com.au",
+  "summary": "Nowra ISP; merged with Shoalnet ~2000-01 under Tourist Facilities Pty Ltd (Shoalnet-Fastrac).",
+  "names": [
+    {
+      "name": "Fastrac Internet Services",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Independent Nowra ISP (fastrac.net.au, operating by Dec 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2000-01",
+      "precision": "approx",
+      "details": "Merged with Shoalnet under Tourist Facilities Pty Ltd."
+    }
+  ]
+}

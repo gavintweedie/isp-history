@@ -1,0 +1,38 @@
+{
+  "name": "DezzaNet",
+  "slug": "dezzanet",
+  "birthplace": "Moorabbin, VIC",
+  "status": "inactive",
+  "website": "https://dezzanet.net.au",
+  "summary": "Cheap dialup/ADSL ISP; became part of Aardvark Internet (late 2005).",
+  "names": [
+    {
+      "name": "DezzaNet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Cheap dialup with no download limits."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "late 2005",
+      "precision": "exact",
+      "details": "Became part of Aardvark Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050729084148/http://www.dezzanet.net.au/",
+      "label": "DezzaNet (Wayback 2005)"
+    }
+  ]
+}

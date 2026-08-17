@@ -1,0 +1,38 @@
+{
+  "name": "Hostech",
+  "slug": "hostech",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://hostech.com.au",
+  "summary": "ASX-listed Perth telecom shell (ex-Tennyson Minerals -> Tennyson Networks -> Fusia -> Mobi, renamed Hostech Limited 4 Feb 2009); under Peter Kazacos bought Anittel, Accord, Axxis and Aspirence Feb 2010; group renamed Anittel Group Limited Dec 2010.",
+  "names": [
+    {
+      "name": "Hostech",
+      "start_year": 2009,
+      "start_disp": "Feb 2009"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2009,
+      "date_disp": "Feb 2009",
+      "precision": "exact",
+      "details": "Mobi Limited renamed Hostech Limited (4 Feb 2009)."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "Dec 2010",
+      "precision": "exact",
+      "details": "Group renamed Anittel Group Limited."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20081029040431/http://www.hostech.com.au/",
+      "label": "Hostech (Wayback 2008)"
+    }
+  ]
+}

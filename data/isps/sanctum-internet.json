@@ -1,0 +1,31 @@
+{
+  "name": "Sanctum Internet",
+  "slug": "sanctum-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://sanctum.com.au",
+  "summary": "Internet/web presence provider (Sanctum Internet Pty Ltd, founded 1995; web page packages); not a retail access ISP.",
+  "names": [
+    {
+      "name": "Sanctum Internet",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Web presence provider."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

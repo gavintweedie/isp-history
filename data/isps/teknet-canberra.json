@@ -1,0 +1,38 @@
+{
+  "name": "TekNet Canberra",
+  "slug": "teknet-canberra",
+  "birthplace": "Canberra (Fyshwick), ACT",
+  "status": "inactive",
+  "website": "https://actweb.net",
+  "summary": "Canberra ISP (TekNet Computer Services est. 1986; ActWEB.NET brand); dormant ~2007-09.",
+  "names": [
+    {
+      "name": "TekNet Canberra",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Dialup, web hosting (ActWEB.NET brand)."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2007-09",
+      "precision": "approx",
+      "details": "Dormant."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980114045754/http://www.teknet.net.au/",
+      "label": "TekNet (Wayback 1998)"
+    }
+  ]
+}

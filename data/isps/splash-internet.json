@@ -1,0 +1,24 @@
+{
+  "name": "Splash Internet",
+  "slug": "splash-internet",
+  "birthplace": "Merimbula, NSW",
+  "status": "active",
+  "website": "https://www.splashinternet.com.au",
+  "summary": "Bega-Eden/Merimbula fixed-wireless + VoIP + hosting ISP (Splash Internet Pty Ltd, Licensed Carrier 285, founded 2009); still active.",
+  "names": [
+    {
+      "name": "Splash Internet",
+      "start_year": 2009,
+      "start_disp": "2009"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2009,
+      "date_disp": "2009",
+      "precision": "exact",
+      "details": "Fixed wireless, VoIP, hosting."
+    }
+  ]
+}

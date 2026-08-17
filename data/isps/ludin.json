@@ -1,0 +1,31 @@
+{
+  "name": "Ludin Computers",
+  "slug": "ludin",
+  "birthplace": "Kalgoorlie, WA",
+  "status": "inactive",
+  "website": "https://ludin.com.au",
+  "summary": "Kalgoorlie computer/ISP firm, also trading as Goldfields-Esperance Internet; merged with GoldNet to form Emerge Technologies 1999.",
+  "names": [
+    {
+      "name": "Ludin Computers",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by 1995",
+      "precision": "by",
+      "details": "Earliest web index records (Kalgoorlie computer/ISP firm)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Merged with GoldNet to form Emerge Technologies."
+    }
+  ]
+}

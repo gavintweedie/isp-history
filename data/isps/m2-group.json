@@ -1,0 +1,31 @@
+{
+  "name": "M2 Group",
+  "slug": "m2-group",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "m2.com.au",
+  "summary": "Aggressive consolidator that bought many ISPs (Dodo, iPrimus, People Telecom, Eftel); merged with Vocus in 2016.",
+  "names": [
+    {
+      "name": "M2 Group",
+      "start_year": 2004,
+      "start_disp": "2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "M2 Telecommunications Group established."
+    },
+    {
+      "kind": "death",
+      "year": 2016,
+      "date_disp": "2016",
+      "precision": "exact",
+      "details": "Merged with Vocus to form Vocus Group."
+    }
+  ]
+}

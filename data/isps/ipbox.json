@@ -1,0 +1,39 @@
+{
+  "name": "ipbox",
+  "slug": "ipbox",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "ipbox.com.au",
+  "summary": "ISP acquired by IDEAL Internet 2000 (per owner Darren Worley).",
+  "names": [
+    {
+      "name": "ipbox",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Earliest Wayback capture of ipbox.com.au."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Acquired by IDEAL Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000408201401/http://www.ipbox.com.au/",
+      "label": "ipbox (Wayback 2000)",
+      "year": 2000
+    }
+  ]
+}

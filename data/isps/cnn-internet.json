@@ -1,0 +1,38 @@
+{
+  "name": "C&N Newcastle (CNN Internet)",
+  "slug": "cnn-internet",
+  "birthplace": "Newcastle, NSW",
+  "status": "inactive",
+  "website": "https://cnn.net.au",
+  "summary": "Newcastle/Hunter regional ISP, internet arm of Techcel Computer Services; acquired by Chariot 2004.",
+  "names": [
+    {
+      "name": "C&N Newcastle (CNN Internet)",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "C & N Newcastle Pty Ltd started late 1995 (Techcel arm)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Acquired by Chariot ($400k: $200k shares + $200k cash)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010215161955/http://www.cnn.net.au/about.html",
+      "label": "CNN Internet about (Wayback 2001)"
+    }
+  ]
+}

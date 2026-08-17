@@ -1,0 +1,31 @@
+{
+  "name": "Corinthian Internet Services",
+  "slug": "corinthian",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://cis.net.au",
+  "summary": "One of Australia's earliest ISPs (Corinthian Engineering -> Corinthian Internet Services/CIS); now business network consultancy.",
+  "names": [
+    {
+      "name": "Corinthian Internet Services",
+      "start_year": 1992,
+      "start_disp": "1992"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1992,
+      "date_disp": "1992",
+      "precision": "exact",
+      "details": "Corinthian Engineering offered commercial internet services from 1992 (self-reported)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980111093751/http://www.cis.net.au:80/",
+      "label": "CIS (Wayback 1998)"
+    }
+  ]
+}

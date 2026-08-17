@@ -1,0 +1,31 @@
+{
+  "name": "Net Unlimited",
+  "slug": "net-unlimited",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://netunltd.com.au",
+  "summary": "Dialup ISP (netunltd.com.au, ~1999); marketed ADSL as 'OzAdsl'; defunct.",
+  "names": [
+    {
+      "name": "Net Unlimited",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Dialup (OzAdsl brand)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

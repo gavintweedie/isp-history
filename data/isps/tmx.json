@@ -1,0 +1,38 @@
+{
+  "name": "TMX",
+  "slug": "tmx",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://tmx.com.au",
+  "summary": "Sydney corporate ISP ('The Message eXchange'); involved with internet since 1989; ceased ~2005.",
+  "names": [
+    {
+      "name": "TMX",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of tmx.com.au (Sydney corporate ISP)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Ceased operations (last capture Feb 2005)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961222012638/http://www.tmx.com.au/tmx/tmx.html",
+      "label": "TMX (Wayback 1996)"
+    }
+  ]
+}

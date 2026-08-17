@@ -1,0 +1,41 @@
+{
+  "name": "Asia Connect",
+  "slug": "asia-connect",
+  "birthplace": "Bondi Junction (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://asiaconnect.com.au",
+  "summary": "Sydney dialup + permanent access ISP aimed at Asian business/private users; dead ~2001.",
+  "names": [
+    {
+      "name": "Asia Connect",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "aliases": [
+    "AsiaConnect"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Last known alive by 2001 (Wayback capture)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last capture Apr 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021217023131/http://www.cynosure.com.au/isp/asiaconnect",
+      "label": "Asia Connect (Cynosure 2002)"
+    }
+  ]
+}

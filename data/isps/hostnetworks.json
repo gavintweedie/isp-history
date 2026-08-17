@@ -1,0 +1,38 @@
+{
+  "name": "Host Networks",
+  "slug": "hostnetworks",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "https://hostnetworks.com.au",
+  "summary": "Web hosting / domain registrar (not a dial-up ISP); absorbed by Edge Centres Pty Ltd ~2023.",
+  "names": [
+    {
+      "name": "Host Networks",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Host Networks Pty Ltd, founded by Jeff Dykstra."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Absorbed/rebranded under Edge Centres Pty Ltd (between Mar-May 2023)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030528153418/http://www.hostnetworks.com.au/",
+      "label": "Host Networks (Wayback 2003)"
+    }
+  ]
+}

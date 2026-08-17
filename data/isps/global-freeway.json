@@ -1,0 +1,31 @@
+{
+  "name": "Global Freeway",
+  "slug": "global-freeway",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://globalfreeway.com.au",
+  "summary": "National free dialup ISP (site from Feb 2000, reportedly Japanese-backed); entered receivership ~19 Mar 2001 owing A$60m+; defunct.",
+  "names": [
+    {
+      "name": "Global Freeway",
+      "start_year": 2000,
+      "start_disp": "Feb 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "Feb 2000",
+      "precision": "exact",
+      "details": "Free dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "Mar 2001",
+      "precision": "exact",
+      "details": "Receivership ~19 Mar 2001."
+    }
+  ]
+}

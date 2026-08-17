@@ -1,0 +1,38 @@
+{
+  "name": "City Net Internet Services",
+  "slug": "city-net-internet-services",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://citynet.net.au",
+  "summary": "Perth dialup ISP; defunct ~2001-02.",
+  "names": [
+    {
+      "name": "City Net Internet Services",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Dialup 56k, Perth POP."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2001-02",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212023816/http://www.citynet.net.au/",
+      "label": "City Net (Wayback 1998)"
+    }
+  ]
+}

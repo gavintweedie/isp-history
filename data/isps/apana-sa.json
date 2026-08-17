@@ -1,0 +1,38 @@
+{
+  "name": "APANA SA node",
+  "slug": "apana-sa",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://sa.apana.org.au",
+  "summary": "APANA regional hub sa.apana.org.au / adelaide.apana.org.au; DNS records survive (no service). NOTE: the earlier SA nodes box and lemon merged into SATECH (1995); the later SA hub carried other machines (tierzero, chuckie, pasa).",
+  "names": [
+    {
+      "name": "APANA SA node",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "APANA SA regional hub (after box/lemon merged to SATECH)."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Regional nodes folded into the single National Region."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
+      "label": "APANA (Wayback 1997)"
+    }
+  ]
+}

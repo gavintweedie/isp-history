@@ -1,0 +1,38 @@
+{
+  "name": "Computers On The Run Internet",
+  "slug": "computers-on-the-run",
+  "birthplace": "Kilmore, VIC",
+  "status": "inactive",
+  "website": "https://ontherun.com.au",
+  "summary": "Kilmore region dialup ISP + web hosting; defunct ~Dec 2014.",
+  "names": [
+    {
+      "name": "Computers On The Run Internet",
+      "start_year": 1997,
+      "start_disp": "c. 1997-98"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997-98",
+      "precision": "approx",
+      "details": "Dialup, Kilmore region."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011223000000/http://www.cynosure.com.au/isp/ontherun",
+      "label": "Cynosure: On The Run"
+    }
+  ]
+}

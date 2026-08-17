@@ -1,0 +1,38 @@
+{
+  "name": "Chariot",
+  "slug": "chariot",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "chariot.net.au",
+  "summary": "Adelaide ISP; absorbed many SA ISPs (Cobweb, Newave, InterNex, Satlink, Pipeline, Ballarat); TPG took a controlling stake Feb 2007 but the Chariot netconnect brand continued under TPG/SP Telemedia until ~2010.",
+  "names": [
+    {
+      "name": "Chariot",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Adelaide-based ISP, ASX-listed (CTI)."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Brand folded into TPG/SP Telemedia (TPG control Feb 2007)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/TPG_(internet_service_provider)",
+      "label": "Wikipedia: TPG (ISP)"
+    }
+  ]
+}

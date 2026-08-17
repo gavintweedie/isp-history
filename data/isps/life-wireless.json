@@ -1,0 +1,31 @@
+{
+  "name": "Life Wireless",
+  "slug": "life-wireless",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://lifewireless.com.au",
+  "summary": "Melbourne fixed-wireless 'fibre beaming' ISP (Glen Waverley, ~2016); defunct.",
+  "names": [
+    {
+      "name": "Life Wireless",
+      "start_year": 2016,
+      "start_disp": "c. 2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "c. 2016",
+      "precision": "approx",
+      "details": "Fixed wireless broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "c. 2019",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

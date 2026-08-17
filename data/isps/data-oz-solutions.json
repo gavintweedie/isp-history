@@ -1,0 +1,31 @@
+{
+  "name": "Data Oz Solutions",
+  "slug": "data-oz-solutions",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://dataozsolutions.com.au",
+  "summary": "Nationwide dialup + ADSL + phone ISP (1996-2007); defunct.",
+  "names": [
+    {
+      "name": "Data Oz Solutions",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "56k, ADSL, phone, domains."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

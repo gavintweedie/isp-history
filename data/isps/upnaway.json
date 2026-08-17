@@ -1,0 +1,31 @@
+{
+  "name": "Up'N'Away",
+  "slug": "upnaway",
+  "birthplace": "South Perth, WA",
+  "status": "inactive",
+  "website": "upnaway.com",
+  "summary": "South Perth ISP (Up 'n' Away Net Solutions); acquired by iiNet (brought ~3,000 customers).",
+  "names": [
+    {
+      "name": "Up'N'Away",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Domain upnaway.com.au live from Dec 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

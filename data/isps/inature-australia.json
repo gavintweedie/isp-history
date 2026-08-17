@@ -1,0 +1,38 @@
+{
+  "name": "iNature Australia",
+  "slug": "inature-australia",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://inature.com.au",
+  "summary": "Perth-area online commerce/web firm (c.1997); wound down by 2005.",
+  "names": [
+    {
+      "name": "iNature Australia",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Online commerce solutions / web development."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Site redirected to shoponline.com.au; wound down."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980111134532/http://www.inature.com.au/",
+      "label": "iNature (Wayback 1998)"
+    }
+  ]
+}

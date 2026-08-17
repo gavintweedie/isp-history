@@ -1,0 +1,38 @@
+{
+  "name": "AUSOM",
+  "slug": "ausom",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://ausom.net.au",
+  "summary": "Apple Users' Society of Melbourne, volunteer Mac user group (not a commercial ISP); ran a BBS from ~1994, then its own 'AUSOM Internet' dialup/hosting/FirstClass; handed its 542 ISP users to Labyrinth Connections Oct 1999 (confirmed from email archive); now purely a user group.",
+  "names": [
+    {
+      "name": "AUSOM",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "AUSOM BBS became full-time internet ~1994 (est. as a user group 1982)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "Oct 1999",
+      "precision": "exact",
+      "details": "Handed its 542 ISP users to Labyrinth Connections (Oct 1999)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970430124015/http://www.ausom.net.au/",
+      "label": "AUSOM (Wayback 1997)"
+    }
+  ]
+}

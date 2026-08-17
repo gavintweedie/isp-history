@@ -1,0 +1,38 @@
+{
+  "name": "CyberOne",
+  "slug": "cyberone",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://cyberone.com.au",
+  "summary": "Canberra ISP (formerly ACT Online, 1996; TransACT/dialup); ISP service collapsed ~Jun 2012, customers absorbed by Apex Telecom (26 Jun 2012); pivoted to BPO/call-centre services.",
+  "names": [
+    {
+      "name": "CyberOne",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "ACT Online Internet became ISP Apr 1996; CyberOne Pty Ltd 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "Jun 2012",
+      "precision": "exact",
+      "details": "ISP customers absorbed by Apex Telecom (26 Jun 2012)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980529095040/http://www.cyberone.com.au/about.html",
+      "label": "CyberOne (Wayback 1998)"
+    }
+  ]
+}

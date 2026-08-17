@@ -1,0 +1,43 @@
+{
+  "name": "Internet Access Australia",
+  "slug": "internet-access-australia",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://iaa.com.au",
+  "summary": "Melbourne ISP (also traded as Iaccess); acquired by Asia Online 1999, base later to OzEmail.",
+  "names": [
+    {
+      "name": "Internet Access Australia",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Melbourne ISP trading as Iaccess."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Acquired by Asia Online (announced Oct 1999)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990125100054id_/http://www.iaa.com.au/",
+      "label": "Internet Access Australia (Wayback 1999)"
+    },
+    {
+      "kind": "news",
+      "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+      "label": "AFR: Asia Online spreads down under (Oct 1999)"
+    }
+  ]
+}

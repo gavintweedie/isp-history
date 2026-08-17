@@ -1,0 +1,31 @@
+{
+  "name": "Mission Control Systems",
+  "slug": "mission-control-systems",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://mcs.net.au",
+  "summary": "ISP (MCS Internet, mcs.net.au, ~1997); operations handed to Professional Internet Services; defunct as ISP.",
+  "names": [
+    {
+      "name": "Mission Control Systems",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Operations to Professional Internet Services."
+    }
+  ]
+}

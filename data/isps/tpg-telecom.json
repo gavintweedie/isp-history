@@ -1,0 +1,24 @@
+{
+  "name": "TPG Telecom",
+  "slug": "tpg-telecom",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.tpgtelecom.com.au",
+  "summary": "Result of the 2020 merger of TPG and Vodafone Australia; today one of Australia's largest telecoms.",
+  "names": [
+    {
+      "name": "TPG Telecom",
+      "start_year": 2020,
+      "start_disp": "2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "2020",
+      "precision": "exact",
+      "details": "TPG Telecom formed from the merger of TPG and Vodafone Australia."
+    }
+  ]
+}

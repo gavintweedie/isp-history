@@ -1,0 +1,38 @@
+{
+  "name": "Virgin Broadband",
+  "slug": "virgin-broadband",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "virginbroadband.com.au",
+  "summary": "Residential broadband brand run over Optus's network via the Virgin Mobile Australia JV; wound down by 2018.",
+  "names": [
+    {
+      "name": "Virgin Broadband",
+      "start_year": 2007,
+      "start_disp": "c. 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Virgin Mobile/Optus broadband brand; site captured 2007-2017."
+    },
+    {
+      "kind": "death",
+      "year": 2018,
+      "date_disp": "2018",
+      "precision": "exact",
+      "details": "Wound down as Optus phased out Virgin Mobile Australia."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Virgin_Mobile#Virgin_Mobile_Australia",
+      "label": "Wikipedia: Virgin Mobile Australia"
+    }
+  ]
+}

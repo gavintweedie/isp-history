@@ -1,0 +1,38 @@
+{
+  "name": "BMR.NET",
+  "slug": "bmr-net",
+  "birthplace": "Raymond Terrace, NSW",
+  "status": "inactive",
+  "website": "https://bmr.net.au",
+  "summary": "Raymond Terrace dial-up ISP + web hosting; acquired by C&N/CNN Internet ~2001-02.",
+  "names": [
+    {
+      "name": "BMR.NET",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "BMR.NET Internet Services, Raymond Terrace."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2001-02",
+      "precision": "approx",
+      "details": "Acquired by C&N/CNN Internet (Techcel)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981203062631/http://www.bmr.net.au/",
+      "label": "BMR.NET (Wayback 1998)"
+    }
+  ]
+}

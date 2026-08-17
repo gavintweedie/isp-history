@@ -1,0 +1,31 @@
+{
+  "name": "Outside the Square Solutions",
+  "slug": "otss",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://otss.com.au",
+  "summary": "ADSL + hosting + VPN + co-location ISP (OTSS, ~2002); defunct.",
+  "names": [
+    {
+      "name": "Outside the Square Solutions",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "ADSL, hosting, VPN."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

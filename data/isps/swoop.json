@@ -1,0 +1,31 @@
+{
+  "name": "Swoop Holdings",
+  "slug": "swoop",
+  "birthplace": "North Sydney, NSW",
+  "status": "active",
+  "website": "https://www.swoop.com.au",
+  "summary": "Fixed-wireless/NBN RSP; operated as Swoop from 2020 (acquiring DCSI, Connectivity I.T., CountryTell, Beam), ASX-listed May 2021 via reverse takeover of Stemify from Cirrus Communications + NodeOne; ASX:SWP.",
+  "names": [
+    {
+      "name": "Swoop Holdings",
+      "start_year": 2020,
+      "start_disp": "c. 2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "c. 2020",
+      "precision": "approx",
+      "details": "Swoop operating entity (acquired DCSI/Connectivity I.T. May 2020); ASX listing May 2021."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.marketindex.com.au/asx/swp",
+      "label": "Market Index: Swoop Holdings"
+    }
+  ]
+}

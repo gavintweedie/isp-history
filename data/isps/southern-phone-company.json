@@ -1,0 +1,24 @@
+{
+  "name": "Southern Phone Company",
+  "slug": "southern-phone-company",
+  "birthplace": "Regional NSW",
+  "status": "active",
+  "website": "https://www.southernphone.com.au",
+  "summary": "Regional NSW phone company (ABN 42 100 901 184, ~2002); later added broadband; still active.",
+  "names": [
+    {
+      "name": "Southern Phone Company",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Regional phone + broadband."
+    }
+  ]
+}

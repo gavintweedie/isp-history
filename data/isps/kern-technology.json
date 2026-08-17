@@ -1,0 +1,38 @@
+{
+  "name": "Kern Technology",
+  "slug": "kern-technology",
+  "birthplace": "Stepney (Adelaide), SA",
+  "status": "inactive",
+  "website": "https://kern.com.au",
+  "summary": "Adelaide dialup + hosting + e-commerce ISP (BankSA eCommerce partner, ISO 9002); defunct.",
+  "names": [
+    {
+      "name": "Kern Technology",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "ISP defunct; kern.com.au later a placeholder."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030106192143/http://www.cynosure.com.au/isp/kern",
+      "label": "Kern (Cynosure 2003)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "iaccess",
+  "slug": "iaccess",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://iaccess.com.au",
+  "summary": "Sydney dialup + web hosting ISP (iaccess.com.au, live by 1997); defunct.",
+  "names": [
+    {
+      "name": "iaccess",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Dialup, web hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

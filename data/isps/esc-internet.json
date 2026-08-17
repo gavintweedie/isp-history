@@ -1,0 +1,38 @@
+{
+  "name": "ESC Internet",
+  "slug": "esc-internet",
+  "birthplace": "Keswick (Adelaide), SA",
+  "status": "inactive",
+  "website": "https://esc.net.au",
+  "summary": "Adelaide ISP (esc.net.au, Keswick SA, operator Stavros Patiniotis); in the SA peering community by Feb 2000.",
+  "names": [
+    {
+      "name": "ESC Internet",
+      "start_year": 1996,
+      "start_disp": "by Dec 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "esc.net.au captured from Dec 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "No later records found."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000303110745/http://www.esc.net.au/",
+      "label": "ESC (Wayback 2000)"
+    }
+  ]
+}

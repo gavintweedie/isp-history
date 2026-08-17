@@ -1,0 +1,31 @@
+{
+  "name": "ISPX",
+  "slug": "ispx",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://ispx.com.au",
+  "summary": "ISP that succeeded DoveNetQ (Uniting Church ISP) ~2012; brand later shown by Planet Ozi (2018).",
+  "names": [
+    {
+      "name": "ISPX",
+      "start_year": 2012,
+      "start_disp": "c. 2012"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Succeeded DoveNetQ."
+    },
+    {
+      "kind": "death",
+      "year": 2018,
+      "date_disp": "by 2018",
+      "precision": "by",
+      "details": "Under Planet Ozi."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "AUS3 Internet",
+  "slug": "aus3-internet",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://aus3.com",
+  "summary": "Brisbane dialup/hosting ISP (formerly Ozlinx Internet); wound down by 2003, name reused by a marketing agency.",
+  "names": [
+    {
+      "name": "AUS3 Internet",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Dialup (56k), hosting, eBusiness."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2002-03",
+      "precision": "approx",
+      "details": "ISP wound down."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011214021018/http://www.cynosure.com.au/isp/aus3",
+      "label": "AUS3 (Cynosure 2002)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Impaq",
+  "slug": "impaq",
+  "birthplace": "Box Hill (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://impaq.net.au",
+  "summary": "Melbourne dialup/ISDN/satellite/wireless ISP, education VPN provider; defunct ~2006-07.",
+  "names": [
+    {
+      "name": "Impaq",
+      "start_year": 1997,
+      "start_disp": "c. 1997-98"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997-98",
+      "precision": "approx",
+      "details": "Dialup/ISDN/satellite/wireless."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2006-07",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212025837/http://www.impaq.net.au/",
+      "label": "Impaq (Wayback 1998)"
+    }
+  ]
+}

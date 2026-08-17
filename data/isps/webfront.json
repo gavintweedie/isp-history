@@ -1,0 +1,31 @@
+{
+  "name": "Webfront",
+  "slug": "webfront",
+  "birthplace": "Griffith, NSW",
+  "status": "inactive",
+  "website": "webfront.com.au",
+  "summary": "Regional NSW ISP serving Griffith/Leeton/Narrandera.",
+  "names": [
+    {
+      "name": "Webfront",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by May 1997",
+      "precision": "by",
+      "details": "Webfront Pty Ltd, ACN 078 775 510 (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

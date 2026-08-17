@@ -1,0 +1,38 @@
+{
+  "name": "Global Internet Communications",
+  "slug": "global-internet-communications",
+  "birthplace": "Perth/Fremantle, WA",
+  "status": "inactive",
+  "website": "https://gic.net.au",
+  "summary": "Perth-Fremantle dialup ISP (gic.net.au); defunct.",
+  "names": [
+    {
+      "name": "Global Internet Communications",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Last active capture of gic.net.au (Nov 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030212232848/http://www.cynosure.com.au/isp/gic",
+      "label": "GIC (Cynosure 2003)"
+    }
+  ]
+}

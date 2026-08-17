@@ -1,0 +1,31 @@
+{
+  "name": "Commander",
+  "slug": "commander",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "commander.com.au",
+  "summary": "Sydney telco/IT services group; parent of PBBA (iBurst wireless); collapsed 2009.",
+  "names": [
+    {
+      "name": "Commander",
+      "start_year": 1987,
+      "start_disp": "c. 1987"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1987,
+      "date_disp": "c. 1987",
+      "precision": "approx",
+      "details": "Commander Communications founded."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "2009",
+      "precision": "exact",
+      "details": "Collapsed/restructured."
+    }
+  ]
+}

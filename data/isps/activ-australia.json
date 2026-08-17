@@ -1,0 +1,39 @@
+{
+  "name": "Activ Australia",
+  "slug": "activ-australia",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "activ.net.au",
+  "summary": "Sydney IT/telecoms solutions firm (~10 years old); acquired by Access Providers Oct 2006.",
+  "names": [
+    {
+      "name": "Activ Australia",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Sydney IT/telecom solutions firm."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "Oct 2006",
+      "precision": "exact",
+      "details": "Acquired by Access Providers."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981111190413/http://www.activ.net.au/",
+      "label": "Activ Australia (Wayback 1998)",
+      "year": 1998
+    }
+  ]
+}

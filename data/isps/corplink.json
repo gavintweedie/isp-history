@@ -1,0 +1,38 @@
+{
+  "name": "CorpLink",
+  "slug": "corplink",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://corplink.com.au",
+  "summary": "Melbourne/Brisbane dialup + hosting ISP (brand of APAC Internet Ltd); redirected to Lexicon Internet by 2004, absorbed into EFTel by 2006.",
+  "names": [
+    {
+      "name": "CorpLink",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Dialup + web/domain hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Absorbed into EFTel (via Lexicon Internet)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2006/http://www.corplink.com.au/",
+      "label": "CorpLink (Wayback 2006)"
+    }
+  ]
+}

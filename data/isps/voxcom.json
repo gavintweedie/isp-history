@@ -1,0 +1,31 @@
+{
+  "name": "Voxcom",
+  "slug": "voxcom",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "voxcom.com.au",
+  "summary": "Telecom (business VoIP/numbers, 1300/1800; trading as Voxcom under Business Makeovers Group trust, ABN 99 179 175 277); acquired by Spirit Telecom 2012.",
+  "names": [
+    {
+      "name": "Voxcom",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Voxcom brand from ~1999-2003 (business VoIP from 2003)."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "2012",
+      "precision": "exact",
+      "details": "Acquired by Spirit Telecom."
+    }
+  ]
+}

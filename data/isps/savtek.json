@@ -1,0 +1,31 @@
+{
+  "name": "Savtek Internet Services",
+  "slug": "savtek",
+  "birthplace": "Fairfield, NSW",
+  "status": "inactive",
+  "website": "https://savtek.net",
+  "summary": "Sydney ISP (Fairfield/Wetherill Park, savtek.net; founded by Eugene Savva) that acquired Braenet ~2003 (whose only WA presence was a Wanneroo POP); no direct WA operation.",
+  "names": [
+    {
+      "name": "Savtek Internet Services",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Founded by Eugene Savva in 1997 (own about page)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2004-05",
+      "precision": "approx",
+      "details": "Closed ~2004-05."
+    }
+  ]
+}

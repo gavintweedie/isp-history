@@ -1,0 +1,38 @@
+{
+  "name": "Cybernex Networking",
+  "slug": "cybernex-networking",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://cybernex.net.au",
+  "summary": "Dialup + web hosting ISP (since ~1995); site frozen from 1998; no acquisition found.",
+  "names": [
+    {
+      "name": "Cybernex Networking",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Dialup + web hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Site frozen; defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19971224110549/http://cybernex.net.au/",
+      "label": "Cybernex (Wayback 1997)"
+    }
+  ]
+}

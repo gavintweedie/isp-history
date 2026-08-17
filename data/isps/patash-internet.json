@@ -1,0 +1,31 @@
+{
+  "name": "Patash Internet",
+  "slug": "patash-internet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://patash.com.au",
+  "summary": "Melbourne ISP (Patash Pty Ltd, ~1996); defunct.",
+  "names": [
+    {
+      "name": "Patash Internet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

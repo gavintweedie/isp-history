@@ -1,0 +1,38 @@
+{
+  "name": "Big.net.au",
+  "slug": "big-net",
+  "birthplace": "Lutwyche (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://big.net.au",
+  "summary": "Brisbane unlimited dialup ISP ($27/mo, QLD-wide POPs); dead (domain parked).",
+  "names": [
+    {
+      "name": "Big.net.au",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Last active capture of big.net.au (Apr 2005)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2002/http://www.cynosure.com.au/isp/big",
+      "label": "Big.net.au (Cynosure 2002)"
+    }
+  ]
+}

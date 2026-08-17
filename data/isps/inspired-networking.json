@@ -1,0 +1,38 @@
+{
+  "name": "Inspired Networking Services",
+  "slug": "inspired-networking",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://inspired.net.au",
+  "summary": "Canberra business ISP (dialup + semi-permanent, hosting, many regional domains e.g. goulburn.net, queanbeyan.net); IIA member; defunct.",
+  "names": [
+    {
+      "name": "Inspired Networking Services",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active capture of inspired.com.au (Aug 2006); parked from 2009."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021202124435/http://www.cynosure.com.au/isp/inspired",
+      "label": "Inspired (Cynosure 2002)"
+    }
+  ]
+}

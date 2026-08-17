@@ -1,0 +1,38 @@
+{
+  "name": "Atnet",
+  "slug": "atnet",
+  "birthplace": "Worongary (Gold Coast), QLD",
+  "status": "inactive",
+  "website": "https://atnet.net.au",
+  "summary": "Gold Coast dialup ISP (owners Neil & Dianne Pentland); dead.",
+  "names": [
+    {
+      "name": "Atnet",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1997)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active Wayback capture of atnet.net.au (Jan 2006); parked from ~2011."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030102010056/http://www.cynosure.com.au/isp/atnet",
+      "label": "Atnet (Cynosure 2003)"
+    }
+  ]
+}

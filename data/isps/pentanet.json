@@ -1,0 +1,31 @@
+{
+  "name": "Pentanet",
+  "slug": "pentanet",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "https://pentanet.com.au",
+  "summary": "Perth fixed-wireless/NBN/telecom (ASX: 5GG, listed 2021); absorbed Uniscope's WA assets 2019.",
+  "names": [
+    {
+      "name": "Pentanet",
+      "start_year": 2017,
+      "start_disp": "2017"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "Pentanet founded Perth (MD Stephen Cornish)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20170424000000/http://pentanet.com.au/",
+      "label": "Pentanet (Wayback 2017)"
+    }
+  ]
+}

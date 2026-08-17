@@ -1,0 +1,38 @@
+{
+  "name": "Mac Connect",
+  "slug": "mac-connect",
+  "birthplace": "Australia (national)",
+  "status": "inactive",
+  "website": "https://macconnect.net.au",
+  "summary": "Australia's only Macintosh-specific ISP (POPs via connect.com.au network), Mac consulting/hosting; defunct.",
+  "names": [
+    {
+      "name": "Mac Connect",
+      "start_year": 1998,
+      "start_disp": "by Dec 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Dec 1998",
+      "precision": "by",
+      "details": "Operating by 5 Dec 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Last active capture of macconnect.net.au (Apr 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021003135606/http://www.cynosure.com.au/isp/macconnect",
+      "label": "Mac Connect (Cynosure 2002)"
+    }
+  ]
+}

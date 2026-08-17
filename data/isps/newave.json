@@ -1,0 +1,38 @@
+{
+  "name": "Newave Internet Services",
+  "slug": "newave",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://newave.net.au",
+  "summary": "Adelaide's first 56K dialup provider (unlimited + block-hour plans, principal Tim Buchalka); merged into Chariot Internet by Jan 2003.",
+  "names": [
+    {
+      "name": "Newave Internet Services",
+      "start_year": 1997,
+      "start_disp": "by Jul 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Jul 1997",
+      "precision": "by",
+      "details": "Operating by 5 Jul 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "by Jan 2003",
+      "precision": "by",
+      "details": "Merged into Chariot (newave.net.au redirected to chariot.net.au)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990507000000/http://www.cynosure.com.au/isp/newave",
+      "label": "Newave (Cynosure 1999)"
+    }
+  ]
+}

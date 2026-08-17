@@ -1,0 +1,53 @@
+{
+  "name": "Veridas Communications",
+  "slug": "veridas",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://veridas.com.au",
+  "summary": "Brisbane wholesale ISP (wholesale dialup/ADSL/wireless to ~170 ISP clients); collapsed Sep 2006, receivership, ABN cancelled 2009.",
+  "names": [
+    {
+      "name": "Veridas Communications",
+      "start_year": 1993,
+      "start_disp": "1993"
+    }
+  ],
+  "aliases": [
+    "the affordable isp",
+    "Aztec ISP",
+    "Aspark Internet",
+    "BSP Internet Services",
+    "BTS Internet",
+    "ComputerXperts",
+    "Dominet Internet",
+    "Geckonet",
+    "KP Internet",
+    "Little Fish",
+    "Referral.net",
+    "TeeGee Internet",
+    "OZconnect"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1993,
+      "date_disp": "1993",
+      "precision": "exact",
+      "details": "Business roots 1993 (John Russell); Pty Ltd c.2002."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Collapsed Sep 2006; receivership Oct 2006; ABN cancelled 2009."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030905114526/http://www.veridas.com.au/index.html",
+      "label": "Veridas (Wayback 2003)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Access Sydnet",
+  "slug": "access-sydnet",
+  "birthplace": "Carlingford (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://syd.net.au",
+  "summary": "Sydney dialup + permanent-connection ISP; defunct.",
+  "names": [
+    {
+      "name": "Access Sydnet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Last active capture of syd.net.au (May 2000); parked from 2005."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021217021022/http://www.cynosure.com.au/isp/syd",
+      "label": "Access Sydnet (Cynosure 2002)"
+    }
+  ]
+}

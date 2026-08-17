@@ -1,0 +1,31 @@
+{
+  "name": "Helpdesk Network",
+  "slug": "helpdesk-network",
+  "birthplace": "Kelmscott (Perth), WA",
+  "status": "inactive",
+  "website": "https://helpnet.net.au",
+  "summary": "Perth PC support + dialup/ADSL ISP (HelpNet, ~2004); defunct.",
+  "names": [
+    {
+      "name": "Helpdesk Network",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "PC support, dialup, ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

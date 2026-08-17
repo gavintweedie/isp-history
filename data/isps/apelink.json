@@ -1,0 +1,38 @@
+{
+  "name": "APELink",
+  "slug": "apelink",
+  "birthplace": "Blackburn South (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://apelink.net.au",
+  "summary": "Melbourne national dialup ISP (Asia Pacific Enterprise Link Pty Ltd); gone by 2001.",
+  "names": [
+    {
+      "name": "APELink",
+      "start_year": 1998,
+      "start_disp": "Mar 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "Mar 1998",
+      "precision": "exact",
+      "details": "Asia Pacific Enterprise Link; launched Jun 1999 on connect.com.au."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000128212157/http://www.apelink.net.au/about.html",
+      "label": "APELink (Wayback 2000)"
+    }
+  ]
+}

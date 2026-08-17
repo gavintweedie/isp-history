@@ -1,0 +1,38 @@
+{
+  "name": "Ctel",
+  "slug": "ctel",
+  "birthplace": "North Adelaide, SA",
+  "status": "inactive",
+  "website": "https://www.ctel.com.au",
+  "summary": "Adelaide dialup + hosting ISP since 1996 (operator: ConnectWARE Network Australia); pivoted to a major non-bank payment gateway (Ctel Group) ~2000 — stopped offering internet services.",
+  "names": [
+    {
+      "name": "Ctel",
+      "start_year": 1996,
+      "start_disp": "by Nov 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Nov 1996",
+      "precision": "by",
+      "details": "Dialup + web hosting/design (Ctel, ConnectWARE Network Australia, 168 Melbourne St North Adelaide)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Ceased ISP services ~2000 (became Ctel Technologies payment gateway)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961101192745/http://www.ctel.com.au/",
+      "label": "Ctel (Wayback 1996)"
+    }
+  ]
+}

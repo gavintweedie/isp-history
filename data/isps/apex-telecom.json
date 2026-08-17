@@ -1,0 +1,38 @@
+{
+  "name": "Apex Telecom",
+  "slug": "apex-telecom",
+  "birthplace": "Braddon (Canberra), ACT",
+  "status": "inactive",
+  "website": "https://apextelecom.com.au",
+  "summary": "Canberra ISP brand renamed from Apex Internet ~Nov 2011; absorbed CyberOne customers Jun 2012; sold to NetSpeed Communications June 2012 (ultimate holding Velocity Internet).",
+  "names": [
+    {
+      "name": "Apex Telecom",
+      "start_year": 2011,
+      "start_disp": "Nov 2011"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2011,
+      "date_disp": "Nov 2011",
+      "precision": "exact",
+      "details": "Renamed from Apex Internet (~Nov 2011)."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "Jun 2012",
+      "precision": "exact",
+      "details": "Sold to NetSpeed Communications (June 2012)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20121226043507/http://apextelecom.com.au/",
+      "label": "Apex Telecom (Wayback 2012)"
+    }
+  ]
+}

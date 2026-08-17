@@ -1,0 +1,31 @@
+{
+  "name": "GTBnet",
+  "slug": "gtbnet",
+  "birthplace": "Cairns, QLD",
+  "status": "inactive",
+  "website": "https://gtbnet.com.au",
+  "summary": "Cairns VoIP/ADSL/xDSL + hosting provider (ABN 45 165 682 519, ~2007); defunct.",
+  "names": [
+    {
+      "name": "GTBnet",
+      "start_year": 2007,
+      "start_disp": "c. 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "VoIP, ADSL, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

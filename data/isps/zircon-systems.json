@@ -1,0 +1,38 @@
+{
+  "name": "Zircon Systems",
+  "slug": "zircon-systems",
+  "birthplace": "Mascot (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://zircon.com.au",
+  "summary": "Sydney business ISP (Zircon Systems Pty Ltd, ACN 003 233 421, reg. 1987; Zircon Centre, 925 Botany Rd Mascot); parent of Internet Plus; acquired by PSINet Inc (announced 26 Oct 1999).",
+  "names": [
+    {
+      "name": "Zircon Systems",
+      "start_year": 1987,
+      "start_disp": "3 Feb 1987"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1987,
+      "date_disp": "3 Feb 1987",
+      "precision": "exact",
+      "details": "Zircon Systems Pty Ltd registered (NSW)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "Oct 1999",
+      "precision": "exact",
+      "details": "Acquired by PSINet Inc (announced 26-28 Oct 1999)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961219000000/http://www.zircon.com.au/",
+      "label": "Zircon (Wayback 1996)"
+    }
+  ]
+}

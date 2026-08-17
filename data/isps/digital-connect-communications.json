@@ -1,0 +1,38 @@
+{
+  "name": "Digital Connect Communications",
+  "slug": "digital-connect-communications",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://dcc.net.au",
+  "summary": "Brisbane dialup (Quick Link) + games servers + hosting; later a managed-solutions provider.",
+  "names": [
+    {
+      "name": "Digital Connect Communications",
+      "start_year": 1997,
+      "start_disp": "by Jul 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Jul 1997",
+      "precision": "by",
+      "details": "Dialup, games servers, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020612041612/http://www.cynosure.com.au/isp/dcc",
+      "label": "DCC (Cynosure 2002)"
+    }
+  ]
+}

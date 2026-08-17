@@ -1,0 +1,38 @@
+{
+  "name": "Digitech Internet",
+  "slug": "digitech-internet",
+  "birthplace": "South Australia",
+  "status": "inactive",
+  "website": "https://digitech.net.au",
+  "summary": "Regional SA dialup ISP (digitech.net.au, SAIA/APNIC/TIO member); in the SA peering community by Nov 1997; defunct.",
+  "names": [
+    {
+      "name": "Digitech Internet",
+      "start_year": 1997,
+      "start_disp": "by Nov 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Nov 1997",
+      "precision": "by",
+      "details": "Active in SA peering community from Nov 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212024359/http://www.digitech.net.au/",
+      "label": "Digitech (Wayback 1998)"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "HarbourIT",
+  "slug": "harbourit",
+  "birthplace": "Western Australia",
+  "status": "active",
+  "website": "https://www.harbourit.com.au",
+  "summary": "WA IT/telecom services company (harbourit.com.au from Jul 2001); still active as a managed-IT provider; also ran satellite ISP HarbourSAT.",
+  "names": [
+    {
+      "name": "HarbourIT",
+      "start_year": 2001,
+      "start_disp": "by Jul 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by Jul 2001",
+      "precision": "by",
+      "details": "WA IT/telecom services."
+    }
+  ]
+}

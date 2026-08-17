@@ -1,0 +1,31 @@
+{
+  "name": "KRYTECH",
+  "slug": "krytech",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://krytech.net",
+  "summary": "Brisbane ADSL/dialup + phone + hosting ISP (launched May 2006); defunct.",
+  "names": [
+    {
+      "name": "KRYTECH",
+      "start_year": 2006,
+      "start_disp": "May 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "May 2006",
+      "precision": "exact",
+      "details": "ADSL, dialup, phone."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

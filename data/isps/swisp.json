@@ -1,0 +1,38 @@
+{
+  "name": "SWISP",
+  "slug": "swisp",
+  "birthplace": "South West WA",
+  "status": "inactive",
+  "website": "https://swisp.net.au",
+  "summary": "South West Internet Service Provider Pty Ltd; taken over by WestNet c.2001.",
+  "names": [
+    {
+      "name": "SWISP",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "ACN 084 350 381; served WA's South West (Bunbury region)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Taken over by WestNet; swisp.net.au redirected to westnet.com.au."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000415082107/http://www.swisp.net.au/",
+      "label": "SWISP (Wayback 2000)"
+    }
+  ]
+}

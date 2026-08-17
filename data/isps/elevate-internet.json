@@ -1,0 +1,24 @@
+{
+  "name": "Elevate Internet",
+  "slug": "elevate-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "active",
+  "website": "https://elevateinternet.com.au",
+  "summary": "Retail brand launched by CMvas for the former Uniti Wireless fixed-wireless customers (2025).",
+  "names": [
+    {
+      "name": "Elevate Internet",
+      "start_year": 2025,
+      "start_disp": "2025"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2025,
+      "date_disp": "2025",
+      "precision": "exact",
+      "details": "Launched by CMvas as the new retail brand for former Uniti Wireless fixed-wireless customers."
+    }
+  ]
+}

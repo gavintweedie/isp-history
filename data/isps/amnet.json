@@ -1,0 +1,38 @@
+{
+  "name": "AmNet",
+  "slug": "amnet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://amnet.com.au",
+  "summary": "Perth ISP/IT group (Amnet Limited; Amnet Internet Services, Amnet IT Services, Amnet IX, Ezsoftwrite); acquired by Amcom 1 Oct 2003; brand faded into Vocus after its 2015 acquisition of Amcom.",
+  "names": [
+    {
+      "name": "AmNet",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "amnet.com.au online from 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Oct 2003",
+      "precision": "exact",
+      "details": "Amcom acquired the Amnet group (A$2.14M)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020530200359/http://www.amnet.com.au/",
+      "label": "Amnet (Wayback 2002)"
+    }
+  ]
+}

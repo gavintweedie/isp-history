@@ -1,0 +1,38 @@
+{
+  "name": "SA Net",
+  "slug": "sa-net",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://sanet.com.au",
+  "summary": "Early Adelaide dialup/hosting ISP (SA Net Pty Ltd, sanet.com.au); defunct by early 2000s.",
+  "names": [
+    {
+      "name": "SA Net",
+      "start_year": 1996,
+      "start_disp": "by late 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by late 1996",
+      "precision": "by",
+      "details": "One of SA's first ISPs."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct; domain redirected to webmail then parked."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961219010632/http://sanet.com.au/",
+      "label": "SA Net (Wayback 1996)"
+    }
+  ]
+}

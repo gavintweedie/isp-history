@@ -1,0 +1,38 @@
+{
+  "name": "Lets Go",
+  "slug": "lets-go",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://letsgo.com.au",
+  "summary": "Discount ISP brand of Concept Networks (cheap ADSL, dialup, prepaid); parent Concept Networks bought by EFTel Sept 2008; Lets Go customers migrated to EFTel Feb 2009.",
+  "names": [
+    {
+      "name": "Lets Go",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Lets Go brand (Concept Networks)."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "Feb 2009",
+      "precision": "exact",
+      "details": "Customers migrated to EFTel (after Concept Networks purchase)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991129024135/http://letsgo.com.au/",
+      "label": "Lets Go (Wayback 1999)"
+    }
+  ]
+}

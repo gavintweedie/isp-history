@@ -1,0 +1,38 @@
+{
+  "name": "Boldnet",
+  "slug": "boldnet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://boldweb.com.au",
+  "summary": "SA ADSL-only provider (BoldWeb Internet, ~2002, alongside Adam & Airnet); domain later Boldweb Investments.",
+  "names": [
+    {
+      "name": "Boldnet",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "BoldWeb Internet (SA ADSL-only provider)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Domain to Boldweb Investments."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20091012074038/http://www.boldweb.com.au/",
+      "label": "BoldWeb (Wayback 2009)"
+    }
+  ]
+}

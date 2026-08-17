@@ -1,0 +1,24 @@
+{
+  "name": "Net2000",
+  "slug": "net2000",
+  "birthplace": "Springvale South (Melbourne), VIC",
+  "status": "active",
+  "website": "https://net2000.com.au",
+  "summary": "South-East Melbourne ISP (Net2000 Pty Ltd, ACN 073 565 447, ~1996; Pakenham/Cranbourne/Tyabb/Mornington/Dandenongs; dialup, hosting); still live.",
+  "names": [
+    {
+      "name": "Net2000",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "SE Melbourne dialup + hosting."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Personal Broadband Australia",
+  "slug": "pbba",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://pbba.com.au",
+  "summary": "Wholesale iBurst (ArrayComm) wireless broadband operator (ex-CKW Wireless); a subsidiary of Commander Australia; iBurst service shut down Dec 2008.",
+  "names": [
+    {
+      "name": "Personal Broadband Australia",
+      "start_year": 2003,
+      "start_disp": "by 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "by 2003",
+      "precision": "by",
+      "details": "pbba.com.au online from 2003."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "Dec 2008",
+      "precision": "exact",
+      "details": "iBurst service shut down."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20031029133804/http://www.pbba.com.au/",
+      "label": "PBBA (Wayback 2003)"
+    }
+  ]
+}

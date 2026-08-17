@@ -1,0 +1,38 @@
+{
+  "name": "GoTalk",
+  "slug": "gotalk",
+  "birthplace": "Sydney/Gold Coast",
+  "status": "inactive",
+  "website": "https://gotalk.com.au",
+  "summary": "Long-distance prepaid phonecard provider then telecom (gotalk Communications Pty Ltd, ACN 091 320 348; brand from ~2002); bought Wild IT's customer base 28 Mar 2007 ($240k); transferred post-paid services to ClubTelco ~late 2010, kept prepaid; ACCC undertaking 2008 re telemarketing.",
+  "names": [
+    {
+      "name": "GoTalk",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "GoTalk brand (long-distance prepaid)."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "2010",
+      "precision": "exact",
+      "details": "Post-paid services to ClubTelco; prepaid retained."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020720id_/http://www.gotalk.com.au/",
+      "label": "GoTalk (Wayback 2002)"
+    }
+  ]
+}

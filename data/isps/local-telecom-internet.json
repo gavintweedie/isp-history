@@ -1,0 +1,23 @@
+{
+  "name": "Local Telecom and Internet",
+  "slug": "local-telecom-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "summary": "Parent company of Tassienet and RuralNet; renamed Macarthurcook Ltd (2003).",
+  "names": [
+    {
+      "name": "Local Telecom and Internet",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Renamed Macarthurcook Ltd."
+    }
+  ]
+}

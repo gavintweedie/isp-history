@@ -1,0 +1,31 @@
+{
+  "name": "Ocean Internet",
+  "slug": "ocean-internet",
+  "birthplace": "Mornington Peninsula, VIC",
+  "status": "inactive",
+  "website": "https://oceaninternet.com.au",
+  "summary": "Mornington Peninsula wireless hotspot kits + ADSL installation provider (by 2008); defunct.",
+  "names": [
+    {
+      "name": "Ocean Internet",
+      "start_year": 2008,
+      "start_disp": "by 2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "by 2008",
+      "precision": "by",
+      "details": "Wireless hotspots, ADSL install."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

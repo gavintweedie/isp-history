@@ -1,0 +1,38 @@
+{
+  "name": "HoloHost",
+  "slug": "holohost",
+  "birthplace": "East Doncaster, VIC",
+  "status": "inactive",
+  "website": "https://holohost.net",
+  "summary": "Melbourne dialup/web-hosting/satellite/ADSL ISP (Beretvale Pty Ltd); changed name to Nella Networks, then Nella Telecommunications (separated from Beretvale); pivoted to VoIP then hosting; folded ~2013.",
+  "names": [
+    {
+      "name": "HoloHost",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Dialup, hosting, domain registration, satellite (SupaSat), ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "c. 2013",
+      "precision": "approx",
+      "details": "Quietly folded; domain no longer resolves."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021130014520/http://www.holohost.net/",
+      "label": "HoloHost (Wayback 2002)"
+    }
+  ]
+}

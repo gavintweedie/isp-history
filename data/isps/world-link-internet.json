@@ -1,0 +1,38 @@
+{
+  "name": "World-Link Internet",
+  "slug": "world-link-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://world-link.com.au",
+  "summary": "Adelaide ISP (world-link.com.au, operator Don); no connection fees; in the SA peering community by Jan 1998.",
+  "names": [
+    {
+      "name": "World-Link Internet",
+      "start_year": 1998,
+      "start_disp": "by Jan 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Jan 1998",
+      "precision": "by",
+      "details": "world-link.com.au in the SA peering community; online by Jan 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "No later records found."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001204230000/http://www.world-link.com.au/",
+      "label": "World-Link (Wayback 2000)"
+    }
+  ]
+}

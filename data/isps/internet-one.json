@@ -1,0 +1,30 @@
+{
+  "name": "Internet One",
+  "slug": "internet-one",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "summary": "ISP acquired by IDEAL Internet end 1999 (per owner Darren Worley).",
+  "names": [
+    {
+      "name": "Internet One",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture (isone.com.au)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Acquired by IDEAL Internet."
+    }
+  ]
+}

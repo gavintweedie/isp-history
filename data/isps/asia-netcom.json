@@ -1,0 +1,38 @@
+{
+  "name": "Asia Netcom",
+  "slug": "asia-netcom",
+  "birthplace": "Hong Kong",
+  "status": "inactive",
+  "website": "asianetcom.net",
+  "summary": "Pan-Asian submarine-cable carrier; merged with Pacific Internet to form Pacnet in 2008.",
+  "names": [
+    {
+      "name": "Asia Netcom",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Formed from Asia Global Crossing's assets (EAC cable)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Merged with Pacific Internet to form Pacnet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pacnet",
+      "label": "Wikipedia: Pacnet"
+    }
+  ]
+}

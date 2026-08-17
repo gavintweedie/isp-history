@@ -1,0 +1,31 @@
+{
+  "name": "CQnet",
+  "slug": "cqnet",
+  "birthplace": "North Rockhampton, QLD",
+  "status": "inactive",
+  "website": "https://cqnet.com.au",
+  "summary": "Central QLD dialup ISP (CQnet, by 1998; division of CompuSound Computer Centre); defunct.",
+  "names": [
+    {
+      "name": "CQnet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

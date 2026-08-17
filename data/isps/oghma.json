@@ -1,0 +1,31 @@
+{
+  "name": "Oghma",
+  "slug": "oghma",
+  "birthplace": "Raymond Terrace, NSW",
+  "status": "inactive",
+  "website": "oghma.net.au",
+  "summary": "Regional ISP/telecom group (Oghma Pty Ltd); held Nelson Bay Online, Myall Coast Internet, NoTrash brands; wound up ~2016-17.",
+  "names": [
+    {
+      "name": "Oghma",
+      "start_year": 2007,
+      "start_disp": "2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Oghma Pty Ltd incorporated 22 Feb 2007."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "ABN cancelled 5 Apr 2017; wound up."
+    }
+  ]
+}

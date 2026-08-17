@@ -1,0 +1,24 @@
+{
+  "name": "GoodTel",
+  "slug": "goodtel",
+  "birthplace": "Cremorne (Melbourne), VIC",
+  "status": "active",
+  "website": "https://www.goodtel.com.au/",
+  "summary": "Ethical NBN + mobile provider (Goodtel Australia, ~2020; 50% profits to charities, B Corp); still active.",
+  "names": [
+    {
+      "name": "GoodTel",
+      "start_year": 2020,
+      "start_disp": "c. 2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "c. 2020",
+      "precision": "approx",
+      "details": "NBN + mobile (ethical)."
+    }
+  ]
+}

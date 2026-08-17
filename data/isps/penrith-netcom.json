@@ -1,0 +1,31 @@
+{
+  "name": "Penrith NetCom",
+  "slug": "penrith-netcom",
+  "birthplace": "Penrith, NSW",
+  "status": "inactive",
+  "website": "https://pnc.com.au",
+  "summary": "Penrith local dialup ISP (pnc.com.au, ~1996); defunct.",
+  "names": [
+    {
+      "name": "Penrith NetCom",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Local dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Cirrus Communications",
+  "slug": "cirrus",
+  "birthplace": "Gosford, NSW",
+  "status": "inactive",
+  "website": "https://cirruscomms.com.au",
+  "summary": "Licensed fixed-wireless broadband carrier for regional Australia; serial acquirer of small regional wireless ISPs (CommsLogic 2007, WireFree 2008, UniSky 2008, LiSP wireless, My WiSP, Chariot wireless assets); rebranded Swoop ~2020.",
+  "names": [
+    {
+      "name": "Cirrus Communications",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Cirrus Communications founded, Gosford NSW (fixed wireless)."
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "May 2021",
+      "precision": "exact",
+      "details": "Rebranded Swoop; merged into Swoop Holdings via reverse takeover."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050712050200/http://www.cirruscomms.com.au/",
+      "label": "Cirrus (Wayback 2005)"
+    }
+  ]
+}

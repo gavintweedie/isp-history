@@ -1,0 +1,38 @@
+{
+  "name": "Dynamic Bell's NetWorld",
+  "slug": "dynamic-bells-networld",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://dbnw.com.au",
+  "summary": "National dialup ISP (V.90) of phone reseller Dynamic Bell Telecommunications; defunct ~1999.",
+  "names": [
+    {
+      "name": "Dynamic Bell's NetWorld",
+      "start_year": 1997,
+      "start_disp": "c. 1997-98"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997-98",
+      "precision": "approx",
+      "details": "National dialup, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990429200028/http://www.dbnw.com.au/pop.html",
+      "label": "DBNW (Wayback 1999)"
+    }
+  ]
+}

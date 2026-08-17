@@ -1,0 +1,31 @@
+{
+  "name": "Easy Surf",
+  "slug": "easy-surf",
+  "birthplace": "Carnegie (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://easysurf.com.au",
+  "summary": "Melbourne ADSL + hosting ISP (Easy Surf Pty Ltd, 80 Koornang Rd, ~2003); defunct.",
+  "names": [
+    {
+      "name": "Easy Surf",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "ADSL, hosting, domains."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

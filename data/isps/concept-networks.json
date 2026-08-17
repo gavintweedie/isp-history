@@ -1,0 +1,38 @@
+{
+  "name": "Concept Networks",
+  "slug": "concept-networks",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://conceptual.net.au",
+  "summary": "Perth ISP (Conceptual Internet Australia); taken over by Eftel c.2009.",
+  "names": [
+    {
+      "name": "Concept Networks",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Trading by Aug 2000; parent of budget brand LetsGo."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Taken over by Eftel; services migrated to Eftel's network."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001031204121/http://www.conceptual.net.au/",
+      "label": "Concept Networks (Wayback 2000)"
+    }
+  ]
+}

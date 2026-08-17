@@ -1,0 +1,31 @@
+{
+  "name": "metromesh",
+  "slug": "metromesh",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://metromesh.com.au",
+  "summary": "Perth CBD WiFi hotzone/roaming provider (by aCure Technology, launched 2005); defunct.",
+  "names": [
+    {
+      "name": "metromesh",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "WiFi hotzone."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

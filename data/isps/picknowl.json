@@ -1,0 +1,41 @@
+{
+  "name": "Picknowl",
+  "slug": "picknowl",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://picknowl.com.au",
+  "summary": "Adelaide ISP (Professionals In Computer Knowledge Pty Ltd), cheap prepaid dialup (~30k users); acquired by Chariot c.2002.",
+  "names": [
+    {
+      "name": "Picknowl",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "aliases": [
+    "Professionals in Computer Knowledge"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Founded in Adelaide; first capture Dec 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Acquired by Chariot (part of Chariot Netconnect by late 2002)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961219175501/http://www.picknowl.com.au/",
+      "label": "Picknowl (Wayback 1996)"
+    }
+  ]
+}

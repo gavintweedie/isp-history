@@ -1,0 +1,38 @@
+{
+  "name": "Eagles Internet",
+  "slug": "eagles-internet",
+  "birthplace": "Burwood (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://eagles.com.au",
+  "summary": "Sydney flat-rate dialup ISP (BBS lineage) + internet cafe; acquired by Netspace Sept 2000.",
+  "names": [
+    {
+      "name": "Eagles Internet",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Flat-rate dialup, cafe, Quake 2 server."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "Sep 2000",
+      "precision": "exact",
+      "details": "Acquired by Netspace."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2000/http://www.eagles.com.au/",
+      "label": "Eagles (Wayback 2000)"
+    }
+  ]
+}

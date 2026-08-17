@@ -1,0 +1,31 @@
+{
+  "name": "Cynergic Net Solutions",
+  "slug": "cynergic",
+  "birthplace": "Perth, WA / Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://cynergic.net.au",
+  "summary": "ISP + web/cloud hosting + managed IT + IP telephony (Cynergic Pty Ltd, by 2002); defunct.",
+  "names": [
+    {
+      "name": "Cynergic Net Solutions",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "ISP, hosting, managed IT, IP telephony."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

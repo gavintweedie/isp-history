@@ -1,0 +1,38 @@
+{
+  "name": "Mondial Net",
+  "slug": "mondial-net",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://mondial.net.au",
+  "summary": "Melbourne 56K V.90 dialup + prepaid access cards + unlimited plans + hosting ISP; defunct.",
+  "names": [
+    {
+      "name": "Mondial Net",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Last active capture of mondial.net.au (May 2000)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021203100000/http://www.cynosure.com.au/isp/mondial",
+      "label": "Mondial (Cynosure 2002)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Froggy dialup",
+  "slug": "froggy",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "froggy.com.au",
+  "summary": "Dial-up ISP, subsidiary of FlowCom; acquired by iiNet.",
+  "names": [
+    {
+      "name": "Froggy dialup",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Froggy Internet founded."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "precision": "exact",
+      "details": "Acquired by iiNet via FlowCom."
+    }
+  ]
+}

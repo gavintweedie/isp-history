@@ -1,0 +1,31 @@
+{
+  "name": "Nuclear Days Online",
+  "slug": "nuclear-days-online",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://nucleardaysonline.com.au",
+  "summary": "National gaming dialup + ADSL ISP of the Lismore Online Group (launched Nov 2002); defunct.",
+  "names": [
+    {
+      "name": "Nuclear Days Online",
+      "start_year": 2002,
+      "start_disp": "Nov 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "Nov 2002",
+      "precision": "exact",
+      "details": "Gaming dialup + ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

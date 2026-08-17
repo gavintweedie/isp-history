@@ -1,0 +1,31 @@
+{
+  "name": "Escape.Net",
+  "slug": "escape-net-dot",
+  "birthplace": "Adelaide, SA",
+  "status": "active",
+  "website": "https://www.esc.net.au",
+  "summary": "Adelaide operator (EscapeNet Pty Ltd / EscapeNet Trust, HQ 97 Pirie St) that used the escape.net.au brand ~1997-2022; now live at esc.net.au. DISTINCT from the original WA 'Escape Net' (Ashburton Group) — same domain/brand lineage, different company.",
+  "names": [
+    {
+      "name": "Escape.Net",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Adelaide EscapeNet ran escape.net.au from ~1997."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021204235136/http://www.cynosure.com.au/",
+      "label": "Cynosure Australian ISP List (Wayback 2002)"
+    }
+  ]
+}

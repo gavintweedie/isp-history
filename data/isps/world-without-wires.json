@@ -1,0 +1,31 @@
+{
+  "name": "World Without Wires",
+  "slug": "world-without-wires",
+  "birthplace": "Byron Bay (Northern Rivers), NSW",
+  "status": "inactive",
+  "website": "worldwithoutwires.com.au",
+  "summary": "Northern Rivers fixed-wireless ISP; rebranded Wires Broadband; acquired by Spirit Telecom 2017.",
+  "names": [
+    {
+      "name": "World Without Wires",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Microwave fixed-wireless ISP, Northern Rivers NSW."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "Acquired by Spirit Telecom (as Wires Broadband)."
+    }
+  ]
+}

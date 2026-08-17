@@ -1,0 +1,31 @@
+{
+  "name": "Midcoast Internet",
+  "slug": "midcoast-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "midcoast.com.au",
+  "summary": "Dialup ISP (site live by Nov 1995); defunct.",
+  "names": [
+    {
+      "name": "Midcoast Internet",
+      "start_year": 1995,
+      "start_disp": "by Nov 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by Nov 1995",
+      "precision": "by",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

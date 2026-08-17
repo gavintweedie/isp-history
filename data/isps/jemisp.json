@@ -1,0 +1,31 @@
+{
+  "name": "JemISP",
+  "slug": "jemisp",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://jemisp.com",
+  "summary": "Small ISP (jemisp.com, ~2001); defunct.",
+  "names": [
+    {
+      "name": "JemISP",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Small ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "AustarMetro",
+  "slug": "austarmetro",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://austarmetro.com.au",
+  "summary": "Dialup ISP (A$24.95 unlimited) in all capital cities; successor to ISP eisa after AUSTAR acquired it; folded as Austar's internet brands wound down.",
+  "names": [
+    {
+      "name": "AustarMetro",
+      "start_year": 2000,
+      "start_disp": "Dec 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "Dec 2000",
+      "precision": "exact",
+      "details": "Online as AustarMetro from Dec 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Superseded/wound down as Austar internet brands faded."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010607042553/http://www.austarmetro.com.au/aboutus.php",
+      "label": "AustarMetro about (Wayback 2001)"
+    }
+  ]
+}

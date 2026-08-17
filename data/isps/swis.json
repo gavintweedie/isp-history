@@ -1,0 +1,38 @@
+{
+  "name": "SouthWest Internet Systems",
+  "slug": "swis",
+  "birthplace": "Mandurah, WA",
+  "status": "inactive",
+  "website": "https://southwest.com.au",
+  "summary": "Mandurah WA regional ISP ('SWIS', southwest.com.au); acquired/absorbed by EFTel ~2002. DISTINCT from SWISP (Bunbury).",
+  "names": [
+    {
+      "name": "SouthWest Internet Systems",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Established in Mandurah WA by Paul Rolfe and Jurgen Steinert."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. early-mid 2002",
+      "precision": "approx",
+      "details": "Absorbed by EFTel (site branded 'Visit our parent company — EFTel')."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980210103858/http://www.southwest.com.au/about.html",
+      "label": "SWIS about (Wayback 1998)"
+    }
+  ]
+}

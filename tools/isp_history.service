@@ -1,0 +1,18 @@
+[Unit]
+Description=ISP History family tree (Flask)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/dev/isp_history
+ExecStart=/usr/bin/python3 app/server.py
+Restart=on-failure
+RestartSec=3
+
+# Optional overrides (data dir, prefix, port) can go in an EnvironmentFile;
+# the defaults in app/config.py are fine.
+Environment=ISP_HISTORY_PORT=4004
+Environment=ISP_HISTORY_BASE_PATH=/isp-history
+
+[Install]
+WantedBy=default.target

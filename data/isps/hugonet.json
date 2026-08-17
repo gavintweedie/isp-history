@@ -1,0 +1,31 @@
+{
+  "name": "HugoNet",
+  "slug": "hugonet",
+  "birthplace": "Geelong, VIC",
+  "status": "inactive",
+  "website": "https://hugonet.com.au",
+  "summary": "Geelong ISP, formerly HC Internet (2005); defunct.",
+  "names": [
+    {
+      "name": "HugoNet",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Broadband, dialup, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

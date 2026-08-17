@@ -1,0 +1,38 @@
+{
+  "name": "Healey Communications",
+  "slug": "healey-communications",
+  "birthplace": "Penrith/Sydney, NSW",
+  "status": "inactive",
+  "website": "https://healey.com.au",
+  "summary": "Sydney ISP (division of Healey Corporation); founded by Antony Healey (deceased); Campbelltown customers transferred to IDEAL Internet ~2002.",
+  "names": [
+    {
+      "name": "Healey Communications",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Founded by Antony Healey (Penrith origin; site ©1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2001-02",
+      "precision": "approx",
+      "details": "Closed ~2001-02; Campbelltown customers transferred to IDEAL Internet, Gosford customers to Terrigal Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961230192915/http://healey.com.au/",
+      "label": "Healey Communications (Wayback 1996)"
+    }
+  ]
+}

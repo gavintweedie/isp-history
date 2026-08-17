@@ -1,0 +1,38 @@
+{
+  "name": "Netinfo",
+  "slug": "netinfo",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://netinfo.net.au",
+  "summary": "ISP acquired by Canberra's Dynamite Internet in March 1998.",
+  "names": [
+    {
+      "name": "Netinfo",
+      "start_year": 1998,
+      "start_disp": "Mar 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by 1995",
+      "precision": "by",
+      "details": "Early South Australian dial-up ISP."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "Mar 1998",
+      "precision": "exact",
+      "details": "Acquired by Dynamite Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000520010059id_/http://www.netinfo.net.au/",
+      "label": "Netinfo (Wayback 2000)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "FX Network",
+  "slug": "fx-network",
+  "birthplace": "New Zealand",
+  "status": "inactive",
+  "website": "https://fx.net.nz",
+  "summary": "NZ ISP/network acquired by Vocus.",
+  "names": [
+    {
+      "name": "FX Network",
+      "start_year": 2014,
+      "start_disp": "2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by Nov 2002",
+      "precision": "by",
+      "details": "Company registered (NZ Companies Office)."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "2014",
+      "precision": "exact",
+      "details": "Acquired by Vocus."
+    }
+  ]
+}

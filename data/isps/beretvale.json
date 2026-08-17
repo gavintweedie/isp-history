@@ -1,0 +1,30 @@
+{
+  "name": "Beretvale",
+  "slug": "beretvale",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "summary": "Melbourne holding company (Beretvale Pty Ltd, trading as HoloHost then Nella Networks; ABN 93 132 994 466, R B Allen Family Trust); parent of HoloHost/Nella Networks; now deregistered.",
+  "names": [
+    {
+      "name": "Beretvale",
+      "start_year": 2000,
+      "start_disp": "24 Mar 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "24 Mar 2000",
+      "precision": "exact",
+      "details": "ABN active from 24 Mar 2000 (R B Allen Family Trust)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Nella Telecommunications separated out; Beretvale later deregistered."
+    }
+  ]
+}

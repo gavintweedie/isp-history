@@ -1,0 +1,31 @@
+{
+  "name": "Touch88",
+  "slug": "touch88",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "http://touch88.com.au",
+  "summary": "Perth ISP (United Sources Pty Ltd, ABN 12 083 103 762); details limited.",
+  "names": [
+    {
+      "name": "Touch88",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of touch88.com.au Dec 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Last Wayback capture of touch88.com.au Jan 2002."
+    }
+  ]
+}

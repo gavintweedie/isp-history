@@ -1,0 +1,38 @@
+{
+  "name": "Viper Internet",
+  "slug": "viper-internet",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://isp.net.au",
+  "summary": "Sydney ISP, division of Viper Communications; IDEAL acquired its operating assets (customers, equipment, staff) ~2000; the unacquired Viper shell later became part of Internet Service Providers Pty Ltd (isp.net.au) with Mark Russell.",
+  "names": [
+    {
+      "name": "Viper Internet",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Sydney ISP; site from 1996 (division of Viper Communications)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Unacquired shell merged into Internet Service Providers Pty Ltd."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970129055038/http://www.viper.net.au/",
+      "label": "Viper (Wayback 1997)"
+    }
+  ]
+}

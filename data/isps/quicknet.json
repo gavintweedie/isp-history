@@ -1,0 +1,38 @@
+{
+  "name": "QuickNet",
+  "slug": "quicknet",
+  "birthplace": "Springwood (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://quicknet.com.au",
+  "summary": "Springwood/Logan dialup ISP (quicknet.com.au); hosted Dick Johnson Racing's website. NOTE: claimed Dick Johnson/CostPlus ownership not verified — likely conflation of the DJR hosting relationship and Cost Plus Computers' Springwood presence.",
+  "names": [
+    {
+      "name": "QuickNet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Springwood (Brisbane) dialup ISP, late 1990s."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "ISP business wound down (~2007-08)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981205110831/http://www.quicknet.com.au/",
+      "label": "QuickNet (Wayback 1998)"
+    }
+  ]
+}

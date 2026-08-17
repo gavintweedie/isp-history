@@ -1,0 +1,31 @@
+{
+  "name": "MCI WorldCom",
+  "slug": "mci-worldcom",
+  "birthplace": "USA",
+  "status": "inactive",
+  "website": "https://mci.com",
+  "summary": "Global telco that acquired OzEmail in 1999; later MCI.",
+  "names": [
+    {
+      "name": "MCI WorldCom",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "MCI and WorldCom merged 1998 (MCI WorldCom)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Sold OzEmail's retail assets to iiNet."
+    }
+  ]
+}

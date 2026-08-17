@@ -1,0 +1,38 @@
+{
+  "name": "BroadbandNet",
+  "slug": "broadbandnet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://broadbandnet.com.au",
+  "summary": "Perth fixed-wireless broadband ISP (BroadbandNet Pty Ltd, ACN 105 565 222, founded 17 Jul 2003, MD Andrew Winterburn); started as a division of WestNet; administration ~Oct/Nov 2008; IIPC (Intelligent IP) acquired the network + customer base Dec 2008, rebranded as Intelligent IP Broadband (IIPB).",
+  "names": [
+    {
+      "name": "BroadbandNet",
+      "start_year": 2003,
+      "start_disp": "17 Jul 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "17 Jul 2003",
+      "precision": "exact",
+      "details": "BroadbandNet Pty Ltd registered (Perth WA)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "Dec 2008",
+      "precision": "exact",
+      "details": "Administration Oct/Nov 2008; network + customers acquired by IIPC (Intelligent IP)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20081118224118/http://www.broadbandnet.com.au/",
+      "label": "BroadbandNet (Wayback 2008)"
+    }
+  ]
+}

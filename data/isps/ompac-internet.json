@@ -1,0 +1,38 @@
+{
+  "name": "Ompac Internet",
+  "slug": "ompac-internet",
+  "birthplace": "Dandenong, VIC",
+  "status": "inactive",
+  "website": "https://ompac.net.au",
+  "summary": "Dialup/web-hosting ISP (Omni Pacific Networks); absorbed by Chariot Netconnect ~2004.",
+  "names": [
+    {
+      "name": "Ompac Internet",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Low-cost dialup ($9.95/mo), web hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Absorbed by Chariot Netconnect."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030622131215/http://www.ompac.net.au/contact.html",
+      "label": "Ompac (Wayback 2003)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "The Signal Co.",
+  "slug": "the-signal-co",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://thesignalco.com.au",
+  "summary": "Canberra fixed-wireless (hybrid wireless+fibre) broadband ISP (The Signal Connections Pty Ltd, ~2015); defunct.",
+  "names": [
+    {
+      "name": "The Signal Co.",
+      "start_year": 2015,
+      "start_disp": "c. 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Fixed wireless broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "c. 2019",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

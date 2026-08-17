@@ -1,0 +1,31 @@
+{
+  "name": "ADSL 4 YOU",
+  "slug": "adsl-4-you",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "https://adsl4you.com.au",
+  "summary": "Gold Coast ADSL reseller (~2002); defunct.",
+  "names": [
+    {
+      "name": "ADSL 4 YOU",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "ADSL reseller."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Spirit Networks",
+  "slug": "spirit-networks",
+  "birthplace": "Canberra (Kambah), ACT",
+  "status": "inactive",
+  "website": "https://spirit.net.au",
+  "summary": "Canberra dialup ISP since 1994; ISP wound down ~2001, pivoted to Metabrowser Systems.",
+  "names": [
+    {
+      "name": "Spirit Networks",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Dialup (56k K56Flex, ISDN), shell, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "ISP wound down; rebranded Metabrowser Systems."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980211084112/http://www.spirit.net.au/",
+      "label": "Spirit Networks (Wayback 1998)"
+    }
+  ]
+}

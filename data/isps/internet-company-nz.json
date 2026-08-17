@@ -1,0 +1,37 @@
+{
+  "name": "Internet Company of New Zealand",
+  "slug": "internet-company-nz",
+  "birthplace": "Auckland, NZ",
+  "status": "inactive",
+  "website": "iconz.co.nz",
+  "summary": "New Zealand ISP; acquired by Asia Online (announced Oct 1999).",
+  "names": [
+    {
+      "name": "Internet Company of New Zealand",
+      "start_year": 1999,
+      "start_disp": "Oct 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "Oct 1999",
+      "precision": "exact",
+      "details": "Acquired by Asia Online."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+      "label": "AFR: Asia Online spreads down under (Oct 1999)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961106093729/http://www.iconz.co.nz/",
+      "label": "Iconz (Wayback 1996)",
+      "year": 1996
+    }
+  ]
+}

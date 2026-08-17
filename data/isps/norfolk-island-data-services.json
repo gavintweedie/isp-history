@@ -1,0 +1,31 @@
+{
+  "name": "Norfolk Island Data Services",
+  "slug": "norfolk-island-data-services",
+  "birthplace": "Norfolk Island",
+  "status": "inactive",
+  "website": "https://ni.net",
+  "summary": "Norfolk Island's ISP (ni.net.nf online by Dec 1998); fate unverified.",
+  "names": [
+    {
+      "name": "Norfolk Island Data Services",
+      "start_year": 1998,
+      "start_disp": "by Dec 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of ni.net Dec 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

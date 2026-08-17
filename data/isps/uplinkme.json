@@ -1,0 +1,24 @@
+{
+  "name": "UplinkMe",
+  "slug": "uplinkme",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://uplinkme.com.au/",
+  "summary": "Local NBN + OptiComm fibre + fixed wireless + SmartWiFi ISP; still active.",
+  "names": [
+    {
+      "name": "UplinkMe",
+      "start_year": 2016,
+      "start_disp": "c. 2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "c. 2016",
+      "precision": "approx",
+      "details": "NBN, OptiComm fibre, fixed wireless."
+    }
+  ]
+}

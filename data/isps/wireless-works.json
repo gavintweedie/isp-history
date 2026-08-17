@@ -1,0 +1,31 @@
+{
+  "name": "Wireless Works",
+  "slug": "wireless-works",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://wirelessworks.com.au",
+  "summary": "Melbourne fixed-wireless ethernet/VPN/WAN + NBN provider (since 2001); rebranded Wirefreebroadband Pty Ltd.",
+  "names": [
+    {
+      "name": "Wireless Works",
+      "start_year": 2001,
+      "start_disp": "2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Fixed wireless, VPN, WAN, NBN."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Rebranded Wirefreebroadband."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "GetOnIt",
+  "slug": "getonit",
+  "birthplace": "Townsville, QLD",
+  "status": "inactive",
+  "website": "https://getonit.net.au",
+  "summary": "Townsville ISP (founded Jan 2000, Hyde Park); acquired Cairns Net Services + AussieWide ~Dec 2005; taken over by All Hours Communications Group 27 Mar 2008, ran as AussieWide; succeeded by RegionalConnect (domain redirected Feb 2011).",
+  "names": [
+    {
+      "name": "GetOnIt",
+      "start_year": 2000,
+      "start_disp": "Jan 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "Jan 2000",
+      "precision": "exact",
+      "details": "Commenced servicing locally in Hyde Park, Townsville."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "Feb 2011",
+      "precision": "exact",
+      "details": "Succeeded by RegionalConnect (domain redirected)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011203140628/http://www.getonit.net.au/",
+      "label": "GetOnIt (Wayback 2001)"
+    }
+  ]
+}

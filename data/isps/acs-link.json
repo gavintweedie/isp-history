@@ -1,0 +1,31 @@
+{
+  "name": "ACS-link",
+  "slug": "acs-link",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://acslink.net.au",
+  "summary": "ISP (acslink.net.au online by Dec 1996); fate unverified.",
+  "names": [
+    {
+      "name": "ACS-link",
+      "start_year": 1996,
+      "start_disp": "by Dec 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

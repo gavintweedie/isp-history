@@ -1,0 +1,31 @@
+{
+  "name": "Halenet",
+  "slug": "halenet",
+  "birthplace": "Stanthorpe, QLD",
+  "status": "active",
+  "website": "https://www.halenet.com.au",
+  "summary": "Regional ISP on the Granite Belt (Stanthorpe/Warwick/Allora/Clifton/Tenterfield), run by Tim & Vicki McCullagh (HaleNet Technical Pty Ltd); still active.",
+  "names": [
+    {
+      "name": "Halenet",
+      "start_year": 1997,
+      "start_disp": "by Mar 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Mar 1997",
+      "precision": "by",
+      "details": "Online by 27 Mar 1997."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970327105130/http://www.halenet.com.au/",
+      "label": "Halenet (Wayback 1997)"
+    }
+  ]
+}

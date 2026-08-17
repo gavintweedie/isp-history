@@ -1,0 +1,38 @@
+{
+  "name": "Grapevine",
+  "slug": "grapevine",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://grapevine.com.au",
+  "summary": "Canberra dialup/broadband ISP over TransACT's network; began as ActewAGL Net Connect (2003), rebranded Grapevine 2005 (ActewAGL + TransACT JV), wholly owned by TransACT from May 2010.",
+  "names": [
+    {
+      "name": "Grapevine",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Founded as ActewAGL Net Connect."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "May 2010",
+      "precision": "exact",
+      "details": "TransACT acquired ActewAGL's 50% share."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20111224061650/http://www.grapevine.com.au/about/whoIsGrapevine.aspx",
+      "label": "Grapevine: Who is Grapevine (Wayback 2011)"
+    }
+  ]
+}

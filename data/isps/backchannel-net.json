@@ -1,0 +1,30 @@
+{
+  "name": "Backchannel Net",
+  "slug": "backchannel-net",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "summary": "ISP acquired by IDEAL Internet 1999 (per owner Darren Worley).",
+  "names": [
+    {
+      "name": "Backchannel Net",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of backchannel.net.au."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Acquired by IDEAL Internet."
+    }
+  ]
+}

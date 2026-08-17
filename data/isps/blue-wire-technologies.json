@@ -1,0 +1,31 @@
+{
+  "name": "Blue Wire Technologies",
+  "slug": "blue-wire-technologies",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://bluewiretech.com.au",
+  "summary": "Perth ISP + computer sales/support (ACN 105 837 036, ~2001-03); defunct.",
+  "names": [
+    {
+      "name": "Blue Wire Technologies",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Dialup, ADSL, computers."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

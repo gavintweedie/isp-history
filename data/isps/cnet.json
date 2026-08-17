@@ -1,0 +1,38 @@
+{
+  "name": "Cnet",
+  "slug": "cnet",
+  "birthplace": "Morayfield (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://cnet.aunz.com",
+  "summary": "Brisbane computer retailer + dialup ISP (POPs Brisbane, Redcliffe); dead ~2005.",
+  "names": [
+    {
+      "name": "Cnet",
+      "start_year": 1999,
+      "start_disp": "by Mar 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Mar 1999",
+      "precision": "by",
+      "details": "In directory from Mar 1999."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 1999)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2002/http://www.cynosure.com.au/isp/cnet",
+      "label": "Cnet (Cynosure 2002)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "JBO Communications",
+  "slug": "jbo-communications",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://jbo.com.au",
+  "summary": "Sydney VoIP/telco provider (JBO Communications Pty Ltd, ACN 089 726 358; tele-housing, SIP/IAX termination); defunct ~2011-13.",
+  "names": [
+    {
+      "name": "JBO Communications",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "VoIP/telco provider."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2011-13",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

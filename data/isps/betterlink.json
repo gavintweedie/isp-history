@@ -1,0 +1,38 @@
+{
+  "name": "Betterlink",
+  "slug": "betterlink",
+  "birthplace": "Reservoir (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://beterlnk.com.au",
+  "summary": "Melbourne dialup ISP; dead ~2000.",
+  "names": [
+    {
+      "name": "Betterlink",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1999)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Last capture Aug 2000."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000820191354/http://www.cynosure.com.au/isp/beterlnk",
+      "label": "Betterlink (Cynosure 2000)"
+    }
+  ]
+}

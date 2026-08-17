@@ -1,0 +1,38 @@
+{
+  "name": "Joinet Internet",
+  "slug": "joinet-internet",
+  "birthplace": "Innaloo (Perth), WA",
+  "status": "inactive",
+  "website": "https://joinet.net.au",
+  "summary": "Perth dialup ISP (Joinet Internet); dead ~2005-06.",
+  "names": [
+    {
+      "name": "Joinet Internet",
+      "start_year": 1997,
+      "start_disp": "c. 1997-98"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997-98",
+      "precision": "approx",
+      "details": "Dialup, web hosting, training."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2005-06",
+      "precision": "approx",
+      "details": "Dead."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20051210134735/http://www.joinet.net.au/",
+      "label": "Joinet (Wayback 2005)"
+    }
+  ]
+}

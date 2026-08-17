@@ -1,0 +1,24 @@
+{
+  "name": "On Q Communications",
+  "slug": "on-q-communications",
+  "birthplace": "Queensland",
+  "status": "active",
+  "website": "https://onq.com.au",
+  "summary": "Telco/ISP (brand of Consol Telco, Consolidated Telecom group); acquired Connected Australia ~Dec 2023 and Pivit ~Dec 2025.",
+  "names": [
+    {
+      "name": "On Q Communications",
+      "start_year": 2007,
+      "start_disp": "2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Founded 2007."
+    }
+  ]
+}

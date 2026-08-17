@@ -1,0 +1,31 @@
+{
+  "name": "Riverland Internet",
+  "slug": "riverland-internet",
+  "birthplace": "Riverland, SA",
+  "status": "inactive",
+  "website": "https://riverland.net.au",
+  "summary": "Regional SA ISP (Riverland/Murray Mallee; riverland.net.au online by Jan 1997); fate unverified.",
+  "names": [
+    {
+      "name": "Riverland Internet",
+      "start_year": 1997,
+      "start_disp": "by Jan 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Jan 1997",
+      "precision": "by",
+      "details": "Regional SA ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

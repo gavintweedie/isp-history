@@ -1,0 +1,24 @@
+{
+  "name": "ECN Internet",
+  "slug": "ecn-internet",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.ecn.net.au",
+  "summary": "Melbourne dialup ISP (by 1996) that evolved into business internet, data centre co-lo, fibre, VoIP and wholesale; still active as a business telecom/data-centre provider.",
+  "names": [
+    {
+      "name": "ECN Internet",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Dialup -> business telecom, data centre, fibre, VoIP."
+    }
+  ]
+}

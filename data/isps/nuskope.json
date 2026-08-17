@@ -1,0 +1,31 @@
+{
+  "name": "NuSkope",
+  "slug": "nuskope",
+  "birthplace": "South Australia",
+  "status": "inactive",
+  "website": "nuskope.com.au",
+  "summary": "SA fixed-wireless ISP + network infrastructure, acquired by Superloop.",
+  "names": [
+    {
+      "name": "NuSkope",
+      "start_year": 2017,
+      "start_disp": "2017"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Fixed-wireless internet provider established 2007 (ABN)."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "Acquired by Superloop (~A$10m)."
+    }
+  ]
+}

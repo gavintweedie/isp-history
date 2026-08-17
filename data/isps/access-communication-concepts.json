@@ -1,0 +1,38 @@
+{
+  "name": "Access Communication Concepts",
+  "slug": "access-communication-concepts",
+  "birthplace": "Northmead (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://accc.net.au",
+  "summary": "Sydney dialup + hosting ISP + IT consulting; ISP era ended ~2004.",
+  "names": [
+    {
+      "name": "Access Communication Concepts",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Dialup, hosting, IT/network consulting."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "ISP defunct; domain repurposed."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011217221138/http://www.cynosure.com.au/isp/accc",
+      "label": "ACC (Cynosure 2002)"
+    }
+  ]
+}

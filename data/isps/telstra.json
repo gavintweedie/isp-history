@@ -1,0 +1,31 @@
+{
+  "name": "Telstra",
+  "slug": "telstra",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.telstra.com.au",
+  "summary": "Australia's largest telco. Consumer internet was run under the BigPond brand from 1997 until ~2015.",
+  "names": [
+    {
+      "name": "Telstra",
+      "start_year": 1975,
+      "start_disp": "1975"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1975,
+      "date_disp": "1975",
+      "precision": "exact",
+      "details": "Established as Australian Telecommunications Commission (Telecom Australia); renamed Telstra 1993/95."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telstra",
+      "label": "Wikipedia: Telstra"
+    }
+  ]
+}

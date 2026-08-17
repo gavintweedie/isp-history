@@ -1,0 +1,31 @@
+{
+  "name": "CyberLabs",
+  "slug": "cyberlabs",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://cyberlabs.com.au",
+  "summary": "'TurnKey ISP and Cafe' — ISP + internet cafe + systems integrator (ISDN workstations, proxying, ~1996); defunct.",
+  "names": [
+    {
+      "name": "CyberLabs",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "ISP + internet cafe + systems integrator."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

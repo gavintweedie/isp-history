@@ -1,0 +1,38 @@
+{
+  "name": "Prosat Internet Services",
+  "slug": "prosat",
+  "birthplace": "Minto Heights (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://prosat.com.au",
+  "summary": "Sydney dialup + hosting + training ISP (Liverpool POP via Paradox Digital); defunct.",
+  "names": [
+    {
+      "name": "Prosat Internet Services",
+      "start_year": 1999,
+      "start_disp": "by Apr 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Apr 1999",
+      "precision": "by",
+      "details": "Entry updated 13 Apr 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Last active capture of prosat.com.au (Feb 2005); parked from 2013."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021225000000/http://www.cynosure.com.au/isp/prosat",
+      "label": "Prosat (Cynosure 2002)"
+    }
+  ]
+}

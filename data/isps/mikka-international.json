@@ -1,0 +1,24 @@
+{
+  "name": "Mikka International",
+  "slug": "mikka-international",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://mikka.net.au",
+  "summary": "Melbourne ISP (Mikka International Pty Ltd, ACN 075 155 225); acquired Cosmos 2001, operating under the Cosmos name.",
+  "names": [
+    {
+      "name": "Mikka International",
+      "start_year": 1996,
+      "start_disp": "7 Aug 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "7 Aug 1996",
+      "precision": "exact",
+      "details": "Mikka International Pty Ltd registered (Burnside VIC); trading as Cosmos Internet Services."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Unistar Enterprises",
+  "slug": "unistar-enterprises",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "unistar.com.au",
+  "summary": "Star-Tech Communications / Unistar Enterprises Pty Ltd (ACN 077 123 767); telecom & wireless engineering firm (brand founded 1990, corporate vehicle 2000) whose wholesale managed ISP division supplied broadband to university colleges; acquired by BigAir in two steps: ISP assets 1 Jul 2010, all shares 22 Apr 2014 (A$1.2m).",
+  "names": [
+    {
+      "name": "Unistar Enterprises",
+      "start_year": 1990,
+      "start_disp": "1990"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1990,
+      "date_disp": "1990",
+      "precision": "exact",
+      "details": "Star-Tech brand founded (wireless engineering); corporate vehicle incorporated 25 Jan 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "Apr 2014",
+      "precision": "exact",
+      "details": "All shares acquired by BigAir (A$1.2m, completion 30 Apr 2014)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.itwire.com/it-industry-news/listed-tech/bigair-posts-record-ebitda-plans-network-expansion",
+      "label": "iTWire: BigAir/Star-Tech"
+    }
+  ]
+}

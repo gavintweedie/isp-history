@@ -1,0 +1,31 @@
+{
+  "name": "Schaelec",
+  "slug": "schaelec",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://schaelec.com.au",
+  "summary": "National dialup, wireless, ISDN, xDSL + IP phone ISP (gaming APGN, ~2003); defunct.",
+  "names": [
+    {
+      "name": "Schaelec",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Dialup, wireless, ISDN, xDSL."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

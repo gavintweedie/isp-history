@@ -1,0 +1,38 @@
+{
+  "name": "WiredCity",
+  "slug": "wiredcity",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://wiredcity.net.au",
+  "summary": "Perth business ADSL/VPN/fibre ISP (WiredCity ISP Pty Ltd, ACN 094 908 424, incorporated 27 Oct 2000); acquired by Amcom, customers migrated to Amnet 22 Mar 2004.",
+  "names": [
+    {
+      "name": "WiredCity",
+      "start_year": 2000,
+      "start_disp": "27 Oct 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "27 Oct 2000",
+      "precision": "exact",
+      "details": "WiredCity Pty Ltd incorporated (Perth)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Mar 2004",
+      "precision": "exact",
+      "details": "Acquired by Amcom; customers migrated to Amnet 22 Mar 2004."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20031015210105/http://www.wiredcity.net.au/",
+      "label": "WiredCity (Wayback 2003)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Pipeline Internet",
+  "slug": "pipeline-internet",
+  "birthplace": "Geelong West, VIC",
+  "status": "inactive",
+  "website": "https://pipeline.com.au",
+  "summary": "Geelong regional ISP (Pipeline Computing Services, 1996; dialup/ISDN then ADSL 2003, hosting, computer sales); became part of Chariot netconnect ~Aug 2003.",
+  "names": [
+    {
+      "name": "Pipeline Internet",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Geelong regional dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Aug 2003",
+      "precision": "exact",
+      "details": "Became part of Chariot netconnect."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030802000000/http://www.pipeline.com.au/",
+      "label": "Pipeline (Wayback 2003)"
+    }
+  ]
+}

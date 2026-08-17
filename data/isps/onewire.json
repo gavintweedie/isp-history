@@ -1,0 +1,31 @@
+{
+  "name": "Onewire",
+  "slug": "onewire",
+  "birthplace": "Rural/regional VIC/NSW",
+  "status": "inactive",
+  "website": "https://onewire.com.au",
+  "summary": "Radio + satellite broadband under Broadband Connect (Onewire, early 2000s); later rebranded Skyoptic; defunct.",
+  "names": [
+    {
+      "name": "Onewire",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Radio + satellite broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Rebranded Skyoptic; defunct."
+    }
+  ]
+}

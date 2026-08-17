@@ -1,0 +1,38 @@
+{
+  "name": "DIALix",
+  "slug": "dialix",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://dialix.com.au",
+  "summary": "One of Australia's earliest commercial ISPs (conceived late 1989 in Perth); brand absorbed by JustNet by 2000.",
+  "names": [
+    {
+      "name": "DIALix",
+      "start_year": 1989,
+      "start_disp": "1989"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1989,
+      "date_disp": "1989",
+      "precision": "exact",
+      "details": "Conceived in Perth, WA, late 1989; commercial dial-up from ~1992."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 1998-2000",
+      "precision": "approx",
+      "details": "Brand absorbed by JustNet Pty Ltd (Sydney)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980614093925/http://www.dialix.com.au/public/companyinfo.html",
+      "label": "DIALix company info (Wayback 1998)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "iGreen",
+  "slug": "igreen",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://igreen.com.au",
+  "summary": "ISP/telecom (dialup + broadband); iGreen's DSL division bought by FlowCom Apr 2003, then part of the iiNet acquisition.",
+  "names": [
+    {
+      "name": "iGreen",
+      "start_year": 2004,
+      "start_disp": "Feb 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Dec 1999",
+      "precision": "by",
+      "details": "iGreen Pty Ltd, ACN 090 922 478 (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "precision": "exact",
+      "details": "Acquired by iiNet via FlowCom."
+    }
+  ]
+}

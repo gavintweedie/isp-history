@@ -1,0 +1,43 @@
+{
+  "name": "Pegasus Networks",
+  "slug": "pegasus-networks",
+  "birthplace": "Byron Bay/Brisbane, NSW/QLD",
+  "status": "inactive",
+  "website": "https://pegasus.com.au",
+  "summary": "Australia's first public ISP, founded 14 Sep 1989 (Byron Bay, later South Brisbane); email, web, newsgroups, domains, virtual servers; closed ~1997-98 (APC Australia formed 1997 after its closure).",
+  "names": [
+    {
+      "name": "Pegasus Networks",
+      "start_year": 1989,
+      "start_disp": "1989"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1989,
+      "date_disp": "1989",
+      "precision": "exact",
+      "details": "Pioneer Australian non-profit ISP founded 1989 as part of the APC network."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "c. 1997-98",
+      "precision": "approx",
+      "details": "Closed; APC Australia (c2o) formed 1997."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pegasus_Networks",
+      "label": "Wikipedia: Pegasus Networks"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991114000000/http://www.cynosure.com.au/isp/pegasus",
+      "label": "Pegasus (Cynosure 1999)"
+    }
+  ]
+}

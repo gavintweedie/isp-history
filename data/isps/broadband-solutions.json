@@ -1,0 +1,31 @@
+{
+  "name": "Broadband Solutions",
+  "slug": "broadband-solutions",
+  "birthplace": "Melbourne/Sydney",
+  "status": "inactive",
+  "website": "https://broadbandsolutions.com.au",
+  "summary": "Broadband/VoIP specialist (ABN 68 114 405 248, ~2005); defunct.",
+  "names": [
+    {
+      "name": "Broadband Solutions",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "ADSL, VoIP, hosting, VPNs."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

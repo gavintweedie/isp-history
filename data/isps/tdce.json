@@ -1,0 +1,38 @@
+{
+  "name": "TDCE",
+  "slug": "tdce",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://tdce.com.au",
+  "summary": "Brisbane dialup + semi-permanent line ISP (TereDonn Computer Engineering), started Sep 1995 by Terry & Donna Giufre-Sweetser; AusBone/AUIX member; defunct.",
+  "names": [
+    {
+      "name": "TDCE",
+      "start_year": 1995,
+      "start_disp": "Sep 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "Sep 1995",
+      "precision": "exact",
+      "details": "TereDonn Computer Engineering (TDCE) started."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990224212055/http://www.tdce.com.au/profile.htm",
+      "label": "TDCE (Wayback 1999)"
+    }
+  ]
+}

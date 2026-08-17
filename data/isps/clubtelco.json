@@ -1,0 +1,38 @@
+{
+  "name": "ClubTelco",
+  "slug": "clubtelco",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "https://clubtelco.com.au",
+  "summary": "Consumer ADSL2+/NBN + phone + VoIP provider (ClubTelco Pty Ltd, ACN 144 488 620, incorporated 9 Jun 2010); took over GoTalk's post-paid customers ~late 2010 (Dodo-linked); reverse takeover of ASX-listed EFTel (bid 8 Apr 2011, 75.6% of merged entity); closed 21 Jul 2020 (M2 -> Vocus).",
+  "names": [
+    {
+      "name": "ClubTelco",
+      "start_year": 2010,
+      "start_disp": "9 Jun 2010"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2010,
+      "date_disp": "9 Jun 2010",
+      "precision": "exact",
+      "details": "ClubTelco Pty Ltd incorporated (Gold Coast)."
+    },
+    {
+      "kind": "death",
+      "year": 2020,
+      "date_disp": "Jul 2020",
+      "precision": "exact",
+      "details": "Closed 21 Jul 2020."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ClubTelco",
+      "label": "Wikipedia: ClubTelco"
+    }
+  ]
+}

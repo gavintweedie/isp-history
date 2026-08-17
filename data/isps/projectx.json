@@ -1,0 +1,38 @@
+{
+  "name": "ProjectX",
+  "slug": "projectx",
+  "birthplace": "Albert Park (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://projectx.com.au",
+  "summary": "Premium dialup + hosting + ISDN permanent connections + games server ISP, established 1995; defunct.",
+  "names": [
+    {
+      "name": "ProjectX",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Established in 1995."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active capture of projectx.com.au (May 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021203000000/http://www.cynosure.com.au/isp/projectx",
+      "label": "ProjectX (Cynosure 2002)"
+    }
+  ]
+}

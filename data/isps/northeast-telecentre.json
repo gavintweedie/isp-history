@@ -1,0 +1,39 @@
+{
+  "name": "NorthEast Telecentre",
+  "slug": "northeast-telecentre",
+  "birthplace": "Wangaratta, VIC",
+  "status": "inactive",
+  "website": "netc.net.au",
+  "summary": "Community telecentre at Ovens Street, Wangaratta (North East Telecommunications Co-operative Ltd, trading as North East Telecentre Inc), providing public telecom/internet access; ABN active 2000-2006.",
+  "names": [
+    {
+      "name": "NorthEast Telecentre",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Community telecentre operating in Wangaratta (photo 1994)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "Mar 2006",
+      "precision": "exact",
+      "details": "ABN cancelled 1 Mar 2006."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19971016003829/http://www.netc.net.au/",
+      "label": "NorthEast Telecentre (Wayback 1997)",
+      "year": 1997
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Instant Communications",
+  "slug": "instant-communications",
+  "birthplace": "Indooroopilly (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://in.com.au",
+  "summary": "Brisbane national dialup then ADSL ISP (in.com.au); absorbed by EFTel ~2006-07.",
+  "names": [
+    {
+      "name": "Instant Communications",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "National dialup POPs, later ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2006-07",
+      "precision": "approx",
+      "details": "Absorbed by EFTel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060203215651/http://in.com.au/",
+      "label": "Instant (Wayback 2006)"
+    }
+  ]
+}

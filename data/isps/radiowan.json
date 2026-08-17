@@ -1,0 +1,38 @@
+{
+  "name": "Radiowan",
+  "slug": "radiowan",
+  "birthplace": "North Perth, WA",
+  "status": "inactive",
+  "website": "https://radiowan.net.au",
+  "summary": "Perth wireless (radio) high-speed internet + VPNs; founded 1998, died ~2002.",
+  "names": [
+    {
+      "name": "Radiowan",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Wireless high-speed internet + VPNs."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Died (domain parked)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000304181029/http://www.radiowan.net.au/1About.htm",
+      "label": "Radiowan (Wayback 2000)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "OzISP",
+  "slug": "ozisp",
+  "birthplace": "Regional Australia",
+  "status": "inactive",
+  "website": "https://ozisp.com.au",
+  "summary": "Regional dialup ISP ('for Country Australia', unlimited hours/downloads, ~2001); defunct.",
+  "names": [
+    {
+      "name": "OzISP",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Regional dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

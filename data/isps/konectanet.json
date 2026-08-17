@@ -1,0 +1,38 @@
+{
+  "name": "KonectaNet",
+  "slug": "konectanet",
+  "birthplace": "Golden Grove (Adelaide), SA",
+  "status": "inactive",
+  "website": "https://konectanet.com.au",
+  "summary": "Adelaide dialup + hosting + web design ISP (Golden Grove Village); defunct.",
+  "names": [
+    {
+      "name": "KonectaNet",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1999)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Last active capture of konectanet.com.au (Nov 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030106194244/http://www.cynosure.com.au/isp/konectanet",
+      "label": "KonectaNet (Cynosure 2003)"
+    }
+  ]
+}

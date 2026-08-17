@@ -1,0 +1,38 @@
+{
+  "name": "Treko Internet",
+  "slug": "treko-internet",
+  "birthplace": "Narrogin, WA",
+  "status": "inactive",
+  "website": "https://treko.net.au",
+  "summary": "Rural/remote WA ISP (Narrogin); folded into WestNet c.2001.",
+  "names": [
+    {
+      "name": "Treko Internet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Treko Internet, rural and remote ISP for the Upper Great Southern."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Folded into WestNet; treko.net.au served WestNet pages from July 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001018095121/http://www.treko.net.au/",
+      "label": "Treko (Wayback 2000)"
+    }
+  ]
+}

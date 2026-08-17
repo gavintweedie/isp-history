@@ -1,0 +1,38 @@
+{
+  "name": "Jeack Internetworking",
+  "slug": "jeack",
+  "birthplace": "Coburg (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://jeack.com.au",
+  "summary": "Melbourne flat-rate dialup + hosting ISP (POPs Ringwood/Croydon); defunct.",
+  "names": [
+    {
+      "name": "Jeack Internetworking",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 1997)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021203171600/http://www.cynosure.com.au/isp/jeack",
+      "label": "Jeack (Cynosure 2002)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Granite Internet Services",
+  "slug": "granite-internet",
+  "birthplace": "Victor Harbor, SA",
+  "status": "inactive",
+  "website": "https://granite.net.au",
+  "summary": "South Australian regional ISP (granite.net.au) serving the Fleurieu Peninsula; defunct Oct 2002; userbase mostly acquired by RuralNet.",
+  "names": [
+    {
+      "name": "Granite Internet Services",
+      "start_year": 1998,
+      "start_disp": "late 1998/early 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "late 1998/early 1999",
+      "precision": "exact",
+      "details": "Established in Victor Harbor."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "Oct 2002",
+      "precision": "exact",
+      "details": "Defunct; userbase mostly to RuralNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://trove.nla.gov.au/newspaper/page/22010383",
+      "label": "Trove: page 22010383"
+    }
+  ]
+}

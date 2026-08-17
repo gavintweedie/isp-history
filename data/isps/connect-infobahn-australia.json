@@ -1,0 +1,38 @@
+{
+  "name": "Connect Infobahn Australia",
+  "slug": "connect-infobahn-australia",
+  "birthplace": "Sydney/Melbourne",
+  "status": "inactive",
+  "website": "https://cia.com.au",
+  "summary": "ISP (cia.com.au, 'Connect Infobahn Australia'); ran budget brands Dialup1, Host1, Virtual1; later became CIA Group (hosting/WebCity); wound down ~2010s.",
+  "names": [
+    {
+      "name": "Connect Infobahn Australia",
+      "start_year": 1997,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "CIA (Connect Infobahn Australia) budget ISP brands."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Wound down (as CIA Group)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212023754/http://www.cia.com.au/",
+      "label": "CIA (Wayback 1998)"
+    }
+  ]
+}

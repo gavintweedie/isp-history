@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}Graph — Australian ISP Family Tree{% endblock %}
+{% block main_class %}wide{% endblock %}
+{% block tabs %}
+<div class="tabs">
+  <button type="button" data-tab="tree">Tree</button>
+  <button type="button" data-tab="timeline" class="active">Timeline</button>
+  <a class="tablink" href="{{ url_for('directory') }}">Directory</a>
+</div>
+{% endblock %}
+{% block content %}
+<div id="tab-tree" class="tabpanel" hidden>
+  <p class="hint">Mergers, acquisitions, splits and renames as a family tree: parents above
+  children, each family a block, wide generations wrapped into columns so lines
+  stay short. Hover a box to trace where it ended up — its path downstream to
+  today's ISPs. Border colour:
+  green = active, red = inactive/absorbed, grey = unknown.
+  Drag to pan, scroll to zoom, click a box for details.
+  Type to search, then <b>Enter to focus</b> that ISP's family; clear the search to show all.
+  ISPs with no recorded transition are hidden by default (tick <i>unconnected</i> to show them).</p>
+  <div id="tree-toolbar">
+    <input type="search" id="tree-search" placeholder="Search ISP… (Enter to focus)">
+    <span class="checkgroup" role="group" aria-label="Status filters">
+      <span class="checkgroup-label">Status</span>
+      <label><input type="checkbox" data-status="active" checked> active</label>
+      <label><input type="checkbox" data-status="inactive" checked> inactive</label>
+      <label><input type="checkbox" data-status="unknown" checked> unknown</label>
+    </span>
+    <label title="ISPs with no mergers/acquisitions/splits/renames"><input type="checkbox" data-isolated> unconnected</label>
+    <span id="tree-hint" class="hint"></span>
+  </div>
+  <div id="tree-view" data-api="{{ url_for('api_graph') }}"></div>
+</div>
+<div id="tab-timeline" class="tabpanel">
+  <p class="hint">Each line is an ISP's lifespan (birth → death/merger), flowing through time left to right.
+  Branches show acquisitions/mergers at their year. Thick green = still active, red = inactive/absorbed,
+  grey = status unknown, dashed = unknown dates. Click a line for details.</p>
+  <div class="filterbar">
+    <label for="isp-filter">Focus:</label>
+    <input id="isp-filter" list="isp-options" placeholder="Type an ISP name…" autocomplete="off">
+    <datalist id="isp-options"></datalist>
+    <span class="era-picker" id="era-picker">
+      <button type="button" class="era-btn" id="era-btn" aria-haspopup="listbox" aria-expanded="false">Eras</button>
+      <div class="era-menu" id="era-menu" hidden></div>
+    </span>
+    <span id="filter-hint" class="hint"></span>
+    <span class="legend">Transitions:
+      <span class="lg ty-acquisition">acquisition</span>
+      <span class="lg ty-merger">merger</span>
+      <span class="lg ty-rename">rename</span>
+      <span class="lg ty-split">split</span>
+    </span>
+    <span class="legend" style="margin-left:14px">Dates:
+      <b class="prec-approx">~</b> approx ·
+      <b class="prec-by">≤</b> by ·
+      <b class="prec-unknown">?</b> unknown (hover a marker)
+    </span>
+  </div>
+  <div id="graph" class="graph-pane" data-api="{{ url_for('api_graph') }}"></div>
+</div>
+<div id="tooltip" style="display:none; position:fixed; background:#123; color:#fff; padding:4px 8px; border-radius:4px; font-size:0.8rem; pointer-events:none; z-index:10;"></div>
+{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', filename='vendor/cytoscape.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/dagre.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/cytoscape-dagre.js') }}"></script>
+<script src="{{ url_for('static', filename='tabs.js') }}"></script>
+<script src="{{ url_for('static', filename='tree.js') }}"></script>
+<script src="{{ url_for('static', filename='eras.js') }}"></script>
+<script src="{{ url_for('static', filename='graph.js') }}"></script>
+{% endblock %}

@@ -1,0 +1,31 @@
+{
+  "name": "ITG Internet",
+  "slug": "itg-internet",
+  "birthplace": "Griffith/Leeton/Narrandera, NSW",
+  "status": "inactive",
+  "website": "https://itginternet.net.au",
+  "summary": "Riverina NSW local dialup + ADSL ISP (The I.T. Group Pty Ltd, ~2002); defunct.",
+  "names": [
+    {
+      "name": "ITG Internet",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Local dialup + ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

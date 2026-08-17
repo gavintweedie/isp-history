@@ -1,0 +1,38 @@
+{
+  "name": "AXS Internet Services",
+  "slug": "axs-internet-services",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://axs.com.au",
+  "summary": "Melbourne dialup ISP (AXS Systems); customers handed to Hotkey Internet Services c.2002.",
+  "names": [
+    {
+      "name": "AXS Internet Services",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Dialup, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Customers to Hotkey Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980206100211/http://axs.com.au/",
+      "label": "AXS (Wayback 1998)"
+    }
+  ]
+}

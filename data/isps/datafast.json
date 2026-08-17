@@ -1,0 +1,31 @@
+{
+  "name": "Datafast",
+  "slug": "datafast",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "datafast.com.au",
+  "summary": "Telco (Datafast Telecommunications Ltd, ACN 073 238 178; ex-Goldminco NL, renamed Datafast Telecom 1999); took over Vivanet (2001); also sold ADSL products (resold via Swift Internet); became EFTel Ltd 2005.",
+  "names": [
+    {
+      "name": "Datafast",
+      "start_year": 1996,
+      "start_disp": "15 Mar 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "15 Mar 1996",
+      "precision": "exact",
+      "details": "Incorporated (Goldminco NL); renamed Datafast Telecommunications 5 Oct 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "Jun 2013",
+      "precision": "exact",
+      "details": "Delisted 14 Jun 2013 (M2 acquisition); became EFTel Pty Ltd."
+    }
+  ]
+}

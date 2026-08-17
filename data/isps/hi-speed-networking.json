@@ -1,0 +1,31 @@
+{
+  "name": "Hi-Speed Networking",
+  "slug": "hi-speed-networking",
+  "birthplace": "Forestville (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://hi-speed.net.au",
+  "summary": "Sydney dialup ISP (ACN 078 189 223, ~2001); defunct.",
+  "names": [
+    {
+      "name": "Hi-Speed Networking",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

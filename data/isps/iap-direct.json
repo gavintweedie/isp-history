@@ -1,0 +1,38 @@
+{
+  "name": "IAP Direct",
+  "slug": "iap-direct",
+  "birthplace": "Leederville, Perth, WA",
+  "status": "inactive",
+  "website": "https://iap.net.au",
+  "summary": "Perth ISP (IAP, Internet Access Providers); taken over by Highway 1 (per user report, 1997; Wayback takeover notice 1999).",
+  "names": [
+    {
+      "name": "IAP Direct",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "IAP Direct, Leederville Perth (archived from Dec 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Taken over by Highway 1 (user report; Wayback notice Oct 1999)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991004042817/http://www.iap.net.au/",
+      "label": "IAP takeover notice (Wayback 1999)"
+    }
+  ]
+}

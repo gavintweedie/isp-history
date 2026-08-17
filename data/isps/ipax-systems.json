@@ -1,0 +1,31 @@
+{
+  "name": "iPAX Systems",
+  "slug": "ipax-systems",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://ipax.com.au",
+  "summary": "Melbourne 'System Design, Management and Online Services' (IT consulting + internet, ~1996); defunct.",
+  "names": [
+    {
+      "name": "iPAX Systems",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "IT consulting + online services."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

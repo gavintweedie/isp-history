@@ -1,0 +1,31 @@
+{
+  "name": "Quikweb",
+  "slug": "quikweb",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://quikweb.net.au",
+  "summary": "ADSL (incl. 8Mb/384k) + dialup Australia-wide + hosting ISP (~2006); defunct.",
+  "names": [
+    {
+      "name": "Quikweb",
+      "start_year": 2006,
+      "start_disp": "c. 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "ADSL, dialup, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

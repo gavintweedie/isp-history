@@ -1,0 +1,38 @@
+{
+  "name": "Ultranet",
+  "slug": "ultranet",
+  "birthplace": "Townsville, QLD",
+  "status": "inactive",
+  "website": "ultranet.com.au",
+  "summary": "Townsville regional ISP (Gilbert International); ~5,000 subscribers; acquired by Austar United Communications May 2000.",
+  "names": [
+    {
+      "name": "Ultranet",
+      "start_year": 1996,
+      "start_disp": "c. 1995-96"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1995-96",
+      "precision": "approx",
+      "details": "Townsville's internet gateway (ultranet.com.au from 1997)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "May 2000",
+      "precision": "exact",
+      "details": "Acquired by Austar; customers migrated to austarnet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.internetnews.com/it-management/austar-strengthens-convergence-claims/",
+      "label": "Austar acquires Ultranet (May 2000)"
+    }
+  ]
+}

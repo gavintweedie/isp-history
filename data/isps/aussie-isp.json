@@ -1,0 +1,38 @@
+{
+  "name": "Aussie ISP",
+  "slug": "aussie-isp",
+  "birthplace": "Homebush Bay (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://aussieisp.com",
+  "summary": "Sydney budget dialup ISP (unlimited time/download $18.95/mo); dead.",
+  "names": [
+    {
+      "name": "Aussie ISP",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 2001)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 2004)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021217022745/http://www.cynosure.com.au/isp/aussieisp",
+      "label": "Aussie ISP (Cynosure 2002)"
+    }
+  ]
+}

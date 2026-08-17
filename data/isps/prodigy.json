@@ -1,0 +1,38 @@
+{
+  "name": "Prodigy",
+  "slug": "prodigy",
+  "birthplace": "Mordialloc (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://prodigy.net.au",
+  "summary": "Prodigy Group — wholesale/corporate dialup + VPN + prepaid cards + PCs (not the US Prodigy service); defunct.",
+  "names": [
+    {
+      "name": "Prodigy",
+      "start_year": 1999,
+      "start_disp": "by Oct 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Oct 1999",
+      "precision": "by",
+      "details": "Entry updated 30 Oct 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Last active capture of prodigy.net.au (Nov 2007); parked from 2020."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030223000000/http://www.cynosure.com.au/isp/prodigy",
+      "label": "Prodigy (Cynosure 2003)"
+    }
+  ]
+}

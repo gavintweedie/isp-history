@@ -1,0 +1,38 @@
+{
+  "name": "BackMeUp",
+  "slug": "backmeup",
+  "birthplace": "Casula (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://backmeup.net.au",
+  "summary": "Sydney dialup ISP (unlimited $29.95/mo) since 1996; dead ~2014.",
+  "names": [
+    {
+      "name": "BackMeUp",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Operating since 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Last ISP-era capture ~2014."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20140518103152/http://backmeup.net.au/",
+      "label": "BackMeUp (Wayback 2014)"
+    }
+  ]
+}

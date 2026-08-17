@@ -1,0 +1,31 @@
+{
+  "name": "N Cable",
+  "slug": "n-cable",
+  "birthplace": "Ballarat/Mildura, VIC",
+  "status": "inactive",
+  "website": "https://ncable.net.au",
+  "summary": "Regional cable TV + cable internet + dialup provider (Neighborhood Cable, ~2000); note: distinct from Neighbourhood Cable Ltd entity - verify.",
+  "names": [
+    {
+      "name": "N Cable",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Cable TV, cable internet."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

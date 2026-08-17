@@ -1,0 +1,38 @@
+{
+  "name": "Cobweb Internet Services",
+  "slug": "cobweb-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://cobweb.com.au",
+  "summary": "Adelaide dialup ISP (cobweb.com.au); in the SA peering community by Apr 1998; absorbed into Chariot netconnect by Dec 2003.",
+  "names": [
+    {
+      "name": "Cobweb Internet Services",
+      "start_year": 1998,
+      "start_disp": "by Apr 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Apr 1998",
+      "precision": "by",
+      "details": "Active in SA peering community from Apr 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "by Dec 2003",
+      "precision": "by",
+      "details": "Absorbed into Chariot netconnect."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980422231623/http://cobweb.com.au/",
+      "label": "Cobweb (Wayback 1998)"
+    }
+  ]
+}

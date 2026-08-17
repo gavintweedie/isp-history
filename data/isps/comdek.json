@@ -1,0 +1,31 @@
+{
+  "name": "Comdek",
+  "slug": "comdek",
+  "birthplace": "West Perth, WA",
+  "status": "inactive",
+  "website": "https://comdek.com.au",
+  "summary": "Perth computer sales + networks + ADSL/dialup + satellite comms provider (Comdek Ltd, by 2003); defunct.",
+  "names": [
+    {
+      "name": "Comdek",
+      "start_year": 2003,
+      "start_disp": "by 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "by 2003",
+      "precision": "by",
+      "details": "Computer sales, ADSL, satellite."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

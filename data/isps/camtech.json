@@ -1,0 +1,38 @@
+{
+  "name": "Camtech (SA)",
+  "slug": "camtech",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://camtech.com.au",
+  "summary": "University of Adelaide-owned IT/ISP company; sold its SA internet business to OzEmail March 1998.",
+  "names": [
+    {
+      "name": "Camtech (SA)",
+      "start_year": 1983,
+      "start_disp": "1983"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1983,
+      "date_disp": "1983",
+      "precision": "exact",
+      "details": "Campus Technologies established as University of Adelaide company; AARNet VAR from 1994."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "Mar 1998",
+      "precision": "exact",
+      "details": "OzEmail acquired Camtech's internet service business (31 March 1998)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000122191912/http://www.camtech.com.au/v3/corporate/coprofile_980507.html",
+      "label": "Camtech corporate profile (Wayback 2000)"
+    }
+  ]
+}

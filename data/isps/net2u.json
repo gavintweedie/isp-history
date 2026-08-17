@@ -1,0 +1,31 @@
+{
+  "name": "Net2u",
+  "slug": "net2u",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://net2u.com.au",
+  "summary": "National dialup ISP (~2001); defunct.",
+  "names": [
+    {
+      "name": "Net2u",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

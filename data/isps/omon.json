@@ -1,0 +1,38 @@
+{
+  "name": "Omon",
+  "slug": "omon",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://ussr.net",
+  "summary": "Perth ISP (brand lineage: USSR.net since 1995 -> Digital Media Corp -> Omon New Media -> Omon Group); folded into Indigo Networks c.2001.",
+  "names": [
+    {
+      "name": "Omon",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "USSR.net founded; became Digital Media Corporation T/A Omon Net, later Omon New Media/Omon Group."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Omon brand folded into Indigo Networks."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010201052700/http://www.omon.net.au/",
+      "label": "Omon Net (Wayback 2001)"
+    }
+  ]
+}

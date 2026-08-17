@@ -1,0 +1,31 @@
+{
+  "name": "Overflow Internet Services",
+  "slug": "overflow-internet",
+  "birthplace": "Logan Village, QLD",
+  "status": "inactive",
+  "website": "https://overflow.net.au",
+  "summary": "SE QLD web hosting + data comms + internet consulting/training (run by Brendan Pratt, ~1997); defunct as ISP.",
+  "names": [
+    {
+      "name": "Overflow Internet Services",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Web hosting, data comms, consulting."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct as ISP."
+    }
+  ]
+}

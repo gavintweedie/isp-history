@@ -1,0 +1,38 @@
+{
+  "name": "APANA ACT node",
+  "slug": "apana-act",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://act.apana.org.au",
+  "summary": "APANA regional hub act.apana.org.au / canberra.apana.org.au (webmaster Michael Moynihan); defunct.",
+  "names": [
+    {
+      "name": "APANA ACT node",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "APANA regional structure; ACT hub."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Regional nodes folded into the single National Region."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
+      "label": "APANA (Wayback 1997)"
+    }
+  ]
+}

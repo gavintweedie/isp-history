@@ -1,0 +1,24 @@
+{
+  "name": "Real World Technology Solutions",
+  "slug": "real-world-tech",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.rwts.com.au",
+  "summary": "NSW IT/ISP services company (2002); trades as HyperConnect Internet.",
+  "names": [
+    {
+      "name": "Real World Technology Solutions",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Real World Technology Solutions Pty Ltd active from July 2002."
+    }
+  ]
+}

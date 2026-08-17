@@ -1,0 +1,31 @@
+{
+  "name": "SkyNetGlobal",
+  "slug": "skynetglobal",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://skynetglobal.com",
+  "summary": "Wireless broadband / WiFi hotspot provider (ASX: SKG), founded 1999; built Australia's largest 802.11b network; wound down ~2005.",
+  "names": [
+    {
+      "name": "SkyNetGlobal",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Incorporated 18 Oct 1999, Sydney; WiFi hotspot operator."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Sold Singapore/Malaysia assets 2004; shares last traded ~2005; wound down."
+    }
+  ]
+}

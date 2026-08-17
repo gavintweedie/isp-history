@@ -1,0 +1,31 @@
+{
+  "name": "TasmaNet",
+  "slug": "tasmanet",
+  "birthplace": "Hobart, TAS",
+  "status": "active",
+  "website": "https://www.tasmanet.com.au",
+  "summary": "Tasmanian wireless/data carrier, founded 2004.",
+  "names": [
+    {
+      "name": "TasmaNet",
+      "start_year": 2004,
+      "start_disp": "2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Started in Tasmania in 2004."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080718174158/http://tasmanet.com.au/profile.html",
+      "label": "TasmaNet profile (Wayback 2008)"
+    }
+  ]
+}

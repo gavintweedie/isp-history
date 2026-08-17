@@ -1,0 +1,24 @@
+{
+  "name": "Arctel",
+  "slug": "arctel",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://arctel.com.au/",
+  "summary": "Budget NBN provider (Arctel Pty Ltd, ABN 45 679 504 146, ~2023); still active.",
+  "names": [
+    {
+      "name": "Arctel",
+      "start_year": 2023,
+      "start_disp": "c. 2023"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Budget NBN."
+    }
+  ]
+}

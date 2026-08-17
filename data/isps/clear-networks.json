@@ -1,0 +1,38 @@
+{
+  "name": "Clear Networks",
+  "slug": "clear-networks",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "clearnetworks.com.au",
+  "summary": "Melbourne NBN fibre/fixed-wireless + satellite (Sky Muster, IPSTAR) ISP (Clear Networks Pty Ltd, sister co. of Day3 via acquisition of Canberra's RBBS); acquired by SkyMesh 2022; brand continued as SkyMesh 'Clear Broadband'; infrastructure sold to Summit Internet 2023.",
+  "names": [
+    {
+      "name": "Clear Networks",
+      "start_year": 2004,
+      "start_disp": "2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Clear Networks Pty Ltd founded Melbourne."
+    },
+    {
+      "kind": "death",
+      "year": 2022,
+      "date_disp": "2022",
+      "precision": "exact",
+      "details": "Acquired by SkyMesh (from Uniti/Harbour ISP)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clear_Networks",
+      "label": "Wikipedia: Clear Networks"
+    }
+  ]
+}

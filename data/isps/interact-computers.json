@@ -1,0 +1,31 @@
+{
+  "name": "Interact Computers",
+  "slug": "interact-computers",
+  "birthplace": "Melville (Perth), WA",
+  "status": "active",
+  "website": "https://ic-net.com.au",
+  "summary": "Perth computer retailer + dialup ISP (IC-Net); still active as Interact Internet/IC Computers (O'Connor WA since 1994). NOTE: Gemini's interactit.com.au is a different, Tasmanian company.",
+  "names": [
+    {
+      "name": "Interact Computers",
+      "start_year": 1996,
+      "start_disp": "c. 1996-97"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996-97",
+      "precision": "approx",
+      "details": "Computer retail + dialup ISP."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20160730145023/http://ic-net.com.au/",
+      "label": "IC-Net (Wayback 2016)"
+    }
+  ]
+}

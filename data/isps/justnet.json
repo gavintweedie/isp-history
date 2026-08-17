@@ -1,0 +1,31 @@
+{
+  "name": "JustNet",
+  "slug": "justnet",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "just.net.au",
+  "summary": "Sydney ISP that absorbed the DIALix brand c.1998-2000; rebranded to Sublime IP ~2010-11.",
+  "names": [
+    {
+      "name": "JustNet",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of justnet.com.au."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010-11",
+      "precision": "approx",
+      "details": "Rebranded to Sublime IP (same company)."
+    }
+  ]
+}

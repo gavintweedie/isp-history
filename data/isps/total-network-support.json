@@ -1,0 +1,31 @@
+{
+  "name": "Total Network Support",
+  "slug": "total-network-support",
+  "birthplace": "South Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://tns.net.au",
+  "summary": "South Melbourne ISP, sister operation to Cynet (shared AS9324 'Cynet & Total Network Support'; dialup incl. semi-permanent, web hosting, site dev); deregistered.",
+  "names": [
+    {
+      "name": "Total Network Support",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Dialup, hosting, site dev."
+    },
+    {
+      "kind": "death",
+      "year": 2018,
+      "date_disp": "c. 2018",
+      "precision": "approx",
+      "details": "Company cancelled."
+    }
+  ]
+}

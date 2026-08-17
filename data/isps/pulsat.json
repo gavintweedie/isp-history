@@ -1,0 +1,31 @@
+{
+  "name": "Pulsat",
+  "slug": "pulsat",
+  "birthplace": "East Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://pulsat.com.au",
+  "summary": "ASX-listed carrier group (Pulsat Communications Limited, PUL; wireless + landline carrier, network design); reorganized as Pearl Healthcare Limited ~2003.",
+  "names": [
+    {
+      "name": "Pulsat",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Wireless/landline carrier."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Renamed Pearl Healthcare Limited."
+    }
+  ]
+}

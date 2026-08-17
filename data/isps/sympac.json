@@ -1,0 +1,31 @@
+{
+  "name": "Sympac",
+  "slug": "sympac",
+  "birthplace": "Warragul, VIC",
+  "status": "active",
+  "website": "https://www.sympac.com.au",
+  "summary": "Gippsland dialup ISP + retail software business (Sym-Pac Computing Pty Ltd, ACN 053 433 766, founded 1991 Warragul; 'Powered by Connect'/connect.com.au; 2,000+ ISP clients in Gippsland); AAV agreed to acquire all shares Apr 2000; renamed Sympac Solutions Pty Ltd 2007; continues as retail/POS software under Constellation Software/Vela APX.",
+  "names": [
+    {
+      "name": "Sympac",
+      "start_year": 1991,
+      "start_disp": "1991"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1991,
+      "date_disp": "1991",
+      "precision": "exact",
+      "details": "Sym-Pac Computing founded in Warragul VIC."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980110224139/http://www.sympac.com.au/",
+      "label": "Sympac (Wayback 1998)"
+    }
+  ]
+}

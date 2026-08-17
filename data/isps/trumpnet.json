@@ -1,0 +1,43 @@
+{
+  "name": "TrumpNet",
+  "slug": "trumpnet",
+  "birthplace": "Hobart, TAS",
+  "status": "inactive",
+  "website": "https://trump.net.au",
+  "summary": "Tasmania's first commercial ISP; the ISP division of Trumpet Software International (Trumpet Winsock, Peter Tattam); statewide dialup + web hosting; receivership mid-2007, customers to Internet Tasmania (Intas) 1 Aug 2007; domain later on iiNet infrastructure.",
+  "names": [
+    {
+      "name": "TrumpNet",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Started providing Internet access as Trumpet Software International in 1994."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "Aug 2007",
+      "precision": "exact",
+      "details": "Receivership mid-2007; customers to Intas 1 Aug 2007."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970418093457/http://www.trump.net.au/about.htm",
+      "label": "TrumpNet about (Wayback 1997)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080821044841/http://trump.net.au/announce.html",
+      "label": "TrumpNet takeover notice (Wayback 2008)"
+    }
+  ]
+}

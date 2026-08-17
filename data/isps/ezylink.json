@@ -1,0 +1,31 @@
+{
+  "name": "Ezylink",
+  "slug": "ezylink",
+  "birthplace": "Revesby (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://ezylink.net.au",
+  "summary": "Sydney dialup + web design + hosting ISP (1998); defunct.",
+  "names": [
+    {
+      "name": "Ezylink",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Dialup, web design, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

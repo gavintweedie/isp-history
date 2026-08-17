@@ -1,0 +1,38 @@
+{
+  "name": "Terra Communications (SA)",
+  "slug": "terra-communications-sa",
+  "birthplace": "Aldinga Beach (Adelaide), SA",
+  "status": "inactive",
+  "website": "https://terra.net.au",
+  "summary": "SA local-call dialup (Adelaide, Gawler, Tanunda, Willunga, Port Lincoln) + business access ISP (principal Luke Vanderfluit); gone by ~1999.",
+  "names": [
+    {
+      "name": "Terra Communications (SA)",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Gone from directory by ~1999."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990421000000/http://www.cynosure.com.au/isp/terra",
+      "label": "Terra SA (Cynosure 1999)"
+    }
+  ]
+}

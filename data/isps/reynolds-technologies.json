@@ -1,0 +1,38 @@
+{
+  "name": "Reynolds Technologies",
+  "slug": "reynolds-technologies",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://reynolds.net.au",
+  "summary": "Perth ISP/hosting firm; deregistered c.2016.",
+  "names": [
+    {
+      "name": "Reynolds Technologies",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Reynolds Technology Pty Ltd, ACN 078 831 740."
+    },
+    {
+      "kind": "death",
+      "year": 2016,
+      "date_disp": "c. 2016",
+      "precision": "approx",
+      "details": "Deregistered (ASIC notice Dec 2015)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030217041421/http://www.reynolds.net.au/",
+      "label": "Reynolds (Wayback 2003)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "GoConnect",
+  "slug": "goconnect",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://goconnect.com.au",
+  "summary": "Free ad-supported dialup ISP (goconnect.com.au from Nov 1999), ASX-listed (GCT); later pivoted to multimedia streaming, collapsed to penny stock and delisted.",
+  "names": [
+    {
+      "name": "GoConnect",
+      "start_year": 1999,
+      "start_disp": "Nov 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "Nov 1999",
+      "precision": "exact",
+      "details": "Free dialup ISP (Melbourne)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Collapsed; delisted."
+    }
+  ]
+}

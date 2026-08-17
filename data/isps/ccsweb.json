@@ -1,0 +1,38 @@
+{
+  "name": "CCSWEB",
+  "slug": "ccsweb",
+  "birthplace": "Pennant Hills (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://ccsweb.com.au",
+  "summary": "Sydney dialup ISP (Blacktown POP); dead ~2001-02.",
+  "names": [
+    {
+      "name": "CCSWEB",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Dialup, hosting, web design."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2001-02",
+      "precision": "approx",
+      "details": "Dead."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000619192426/http://www.ccsweb.com.au/",
+      "label": "CCSWEB (Wayback 2000)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Asgard.net",
+  "slug": "asgard-net",
+  "birthplace": "Moorooka (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://asgard.net.au",
+  "summary": "Brisbane dialup/ISDN + hosting ISP; rebranded Instant Communications ~2002, absorbed into EFTel ~2005-07.",
+  "names": [
+    {
+      "name": "Asgard.net",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of asgard.net.au Jan 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2005-07",
+      "precision": "approx",
+      "details": "Absorbed into EFTel (via Instant Communications)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020429051526/http://asgard.net.au/about.htm",
+      "label": "Asgard.net (Wayback 2002)"
+    }
+  ]
+}

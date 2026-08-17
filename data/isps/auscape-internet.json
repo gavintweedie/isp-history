@@ -1,0 +1,38 @@
+{
+  "name": "Auscape Internet",
+  "slug": "auscape-internet",
+  "birthplace": "Auburn, NSW",
+  "status": "inactive",
+  "website": "https://auscape.net.au",
+  "summary": "Sydney ISP (business-focused, served greater-Sydney); acquired by IDEAL Internet 1998 (per owner Darren Worley).",
+  "names": [
+    {
+      "name": "Auscape Internet",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of auscape.com.au."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Acquired by IDEAL Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990129073739/http://auscape.net.au/about.html",
+      "label": "Auscape about (Wayback 1999)"
+    }
+  ]
+}

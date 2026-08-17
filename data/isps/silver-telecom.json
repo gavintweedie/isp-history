@@ -1,0 +1,38 @@
+{
+  "name": "Silver Telecom",
+  "slug": "silver-telecom",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://silvertelecom.com.au",
+  "summary": "Sydney business telecom/ISP (silvertelecom.com.au -> silverconnect.com.au); business name 'OFFICELINK PLUS & SILVER TELECOM' registered by OfficeLink Plus Pty Ltd; brand an AKA of Anittel's network.",
+  "names": [
+    {
+      "name": "Silver Telecom",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "silverconnect.com.au online from 2002."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Brand absorbed into the Anittel web; parent entity cancelled 2014."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20090916011600/http://www.silvertelecom.com.au/",
+      "label": "Silver Telecom (Wayback 2009)"
+    }
+  ]
+}

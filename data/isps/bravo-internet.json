@@ -1,0 +1,31 @@
+{
+  "name": "Bravo Internet",
+  "slug": "bravo-internet",
+  "birthplace": "Merewether (Newcastle), NSW",
+  "status": "inactive",
+  "website": "https://bravo.net.au",
+  "summary": "Newcastle dialup/broadband ISP (bravo.net.au, PO Box 333 Merewether); defunct.",
+  "names": [
+    {
+      "name": "Bravo Internet",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Dialup/broadband ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

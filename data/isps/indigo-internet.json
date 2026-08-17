@@ -1,0 +1,24 @@
+{
+  "name": "Indigo Internet",
+  "slug": "indigo-internet",
+  "birthplace": "Mt Nebo (Brisbane), QLD",
+  "status": "active",
+  "website": "https://indigointernet.com.au",
+  "summary": "Fixed-wireless ISP around Mt Nebo/Brisbane hinterland (AP Telecom Holdings).",
+  "names": [
+    {
+      "name": "Indigo Internet",
+      "start_year": 2022,
+      "start_disp": "2022"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2022,
+      "date_disp": "2022",
+      "precision": "exact",
+      "details": "Indigo Internet business name under AP Telecom Holdings."
+    }
+  ]
+}

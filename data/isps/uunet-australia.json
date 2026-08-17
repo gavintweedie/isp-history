@@ -1,0 +1,38 @@
+{
+  "name": "UUNet Australia",
+  "slug": "uunet-australia",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "uunet.com",
+  "summary": "Australian operation of UUNet (MCI WorldCom subsidiary; launched AU/NZ 2 Sep 1999); inherited Access One's business services (rebranded UUNet 1999); corporate arm wound down after WorldCom's 2002 bankruptcy.",
+  "names": [
+    {
+      "name": "UUNet Australia",
+      "start_year": 1999,
+      "start_disp": "2 Sep 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "2 Sep 1999",
+      "precision": "exact",
+      "details": "UUNet launched in Australia/New Zealand."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Corporate arm wound down after WorldCom bankruptcy."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.computerworld.com/article/1653759/uunet-launches-in-australia.html",
+      "label": "Computerworld: UUNet launches in Australia (1999)"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Message Exchange",
+  "slug": "message-exchange",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://messageexchange.com.au",
+  "summary": "Sydney ISP; acquired by Asia Online ~2000-01 (per user report).",
+  "names": [
+    {
+      "name": "Message Exchange",
+      "start_year": 2001,
+      "start_disp": "c. 2000-01"
+    }
+  ],
+  "events": [
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2000-01",
+      "precision": "approx",
+      "details": "Acquired by Asia Online."
+    }
+  ]
+}

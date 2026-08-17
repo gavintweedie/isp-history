@@ -1,0 +1,38 @@
+{
+  "name": "AUSNet Services",
+  "slug": "ausnet-services",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://world.net",
+  "summary": "Sydney corporate ISP & systems integrator (world.net service); original ISP gone, domain later reused.",
+  "names": [
+    {
+      "name": "AUSNet Services",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Corporate ISP & systems integrator."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "Original ISP gone; domain reused by Kempsey operator from 2015."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981202142853/http://www.ausnet.net.au/about.html",
+      "label": "AUSNet (Wayback 1998)"
+    }
+  ]
+}

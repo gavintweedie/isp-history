@@ -1,0 +1,38 @@
+{
+  "name": "AskAussie",
+  "slug": "askaussie",
+  "birthplace": "Quakers Hill (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://www.askaussie.com",
+  "summary": "Sydney budget dialup ISP (plans from $5/mo, 0198 Dial Connect; POPs Melbourne/Perth/Kalgoorlie); defunct.",
+  "names": [
+    {
+      "name": "AskAussie",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Listed in the Cynosure Australian ISP directory (2002 era)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "No trace after early 2000s."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030407153325/http://www.cynosure.com.au/isp/askaussie",
+      "label": "AskAussie (Cynosure 2003)"
+    }
+  ]
+}

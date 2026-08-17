@@ -1,0 +1,31 @@
+{
+  "name": "HC Internet",
+  "slug": "hc-internet",
+  "birthplace": "Geelong, VIC",
+  "status": "inactive",
+  "website": "https://connect.com.au",
+  "summary": "Geelong + Surf Coast ISP (ABN 73 006 681 394, 1998-2002, via connect.com.au); later rebranded HugoNet.",
+  "names": [
+    {
+      "name": "HC Internet",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Dialup, domains, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Rebranded HugoNet."
+    }
+  ]
+}

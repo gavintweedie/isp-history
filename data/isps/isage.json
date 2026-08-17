@@ -1,0 +1,38 @@
+{
+  "name": "isage",
+  "slug": "isage",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://isage.net.au",
+  "summary": "ISP (iSage Internet Pty Ltd, ©1998-2012; dialup, ADSL, VoIP, hosting); after Veridas collapsed 2006, re-contracted with ispOne; site up to 2012.",
+  "names": [
+    {
+      "name": "isage",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "iSage Internet Pty Ltd."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "by 2012",
+      "precision": "by",
+      "details": "Site last captured 2012."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20121028063256/http://www.isage.net.au/",
+      "label": "isage (Wayback 2012)"
+    }
+  ]
+}

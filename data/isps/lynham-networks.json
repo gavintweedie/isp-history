@@ -1,0 +1,31 @@
+{
+  "name": "Lynham Networks",
+  "slug": "lynham-networks",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://lynham.net.au",
+  "summary": "FTTP wholesale network (incl. retail arm Lightning Broadband), acquired by Superloop.",
+  "names": [
+    {
+      "name": "Lynham Networks",
+      "start_year": 2015,
+      "start_disp": "2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "Founded (Lightning Broadband)."
+    },
+    {
+      "kind": "death",
+      "year": 2026,
+      "date_disp": "May 2026",
+      "precision": "exact",
+      "details": "Acquired by Superloop (~A$165m)."
+    }
+  ]
+}

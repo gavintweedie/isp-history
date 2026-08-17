@@ -1,0 +1,38 @@
+{
+  "name": "DNet Internet Services",
+  "slug": "dnet-internet-services",
+  "birthplace": "Wollongong, NSW",
+  "status": "inactive",
+  "website": "https://dnet.com.au",
+  "summary": "Wollongong national dialup ISP (38 POPs) + web design (Dynasty Networks); defunct ~2001.",
+  "names": [
+    {
+      "name": "DNet Internet Services",
+      "start_year": 1995,
+      "start_disp": "c. 1995-96"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995-96",
+      "precision": "approx",
+      "details": "National dialup, web design/hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000519224836/http://www.dnet.com.au/home.htm",
+      "label": "DNet (Wayback 2000)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Telecube",
+  "slug": "telecube",
+  "birthplace": "Docklands (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://telecube.com.au",
+  "summary": "Melbourne VoIP/hosted PABX + NBN/ADSL provider (Telecube Pty Ltd, founded April 2009); liquidation 29 Aug 2018; Siptalk took part of the customer base.",
+  "names": [
+    {
+      "name": "Telecube",
+      "start_year": 2009,
+      "start_disp": "Apr 2009"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2009,
+      "date_disp": "Apr 2009",
+      "precision": "exact",
+      "details": "Telecube Pty Ltd (Docklands, Melbourne)."
+    },
+    {
+      "kind": "death",
+      "year": 2018,
+      "date_disp": "Aug 2018",
+      "precision": "exact",
+      "details": "Liquidation 29 Aug 2018."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20180814054455/https://telecube.com.au/",
+      "label": "Telecube (Wayback 2018)"
+    }
+  ]
+}

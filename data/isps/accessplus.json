@@ -1,0 +1,38 @@
+{
+  "name": "AccessPlus",
+  "slug": "accessplus",
+  "birthplace": "Sunshine Coast, QLD",
+  "status": "inactive",
+  "website": "accessplus.com.au",
+  "summary": "Sunshine Coast student accommodation/hotel/motel internet provider (managed internet services), founded 1999 by Neil Thompson; acquired by BigAir for $5m (announced 5 Jan 2011); Neil Thompson stayed as BigAir senior management.",
+  "names": [
+    {
+      "name": "AccessPlus",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Founded Sunshine Coast (student accommodation internet)."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "Jan 2011",
+      "precision": "exact",
+      "details": "Acquired by BigAir for $5m."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.zdnet.com/home-and-office/networking/bigair-to-acquire-accessplus-for-5m/",
+      "label": "ZDNet: BigAir to acquire AccessPlus for $5m (Jan 2011)"
+    }
+  ]
+}

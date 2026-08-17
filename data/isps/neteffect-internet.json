@@ -1,0 +1,38 @@
+{
+  "name": "NetEffect Internet",
+  "slug": "neteffect-internet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://effect.net.au",
+  "summary": "Canberra dialup ISP (effect.net.au); customers absorbed by APEX Internet ~2003-04.",
+  "names": [
+    {
+      "name": "NetEffect Internet",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Dialup PPP, Kidz.Net, web hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2003-04",
+      "precision": "approx",
+      "details": "Customers absorbed by APEX Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970327090023/http://www.effect.net.au/",
+      "label": "NetEffect (Wayback 1997)"
+    }
+  ]
+}

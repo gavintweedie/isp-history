@@ -1,0 +1,31 @@
+{
+  "name": "Westlink",
+  "slug": "westlink",
+  "birthplace": "Fremantle, WA",
+  "status": "inactive",
+  "website": "https://westlink.net.au",
+  "summary": "Fremantle boutique dialup/ADSL ISP + domains/hosting (1999); rebranded Concept Networks (Concept Group).",
+  "names": [
+    {
+      "name": "Westlink",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Dialup, ADSL, domains, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Rebranded Concept Networks."
+    }
+  ]
+}

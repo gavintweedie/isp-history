@@ -1,0 +1,31 @@
+{
+  "name": "Active Utilities",
+  "slug": "active-utilities",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://activeutilities.com.au",
+  "summary": "Embedded-network utility provider (electricity/gas/telco) for multi-tenant properties; still operating.",
+  "names": [
+    {
+      "name": "Active Utilities",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Active Utilities Pty Ltd (ACN 116 498 803, reg. 4 Oct 2005, Essendon Fields)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20081226021617/http://activeutilities.com.au/",
+      "label": "Active Utilities (Wayback 2008)"
+    }
+  ]
+}

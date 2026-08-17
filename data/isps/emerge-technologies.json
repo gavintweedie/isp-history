@@ -1,0 +1,38 @@
+{
+  "name": "Emerge Technologies",
+  "slug": "emerge-technologies",
+  "birthplace": "Kalgoorlie, WA",
+  "status": "inactive",
+  "website": "https://emerge.net.au",
+  "summary": "Kalgoorlie ISP/IT firm, formed 1999 by the merger of Ludin Computers (also trading as Goldfields-Esperance Internet) and GoldNet; spun the ISP side back to GoldNet ~2013.",
+  "names": [
+    {
+      "name": "Emerge Technologies",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Founded July 1999 from the merger of Ludin Computers (trading as Goldfields-Esperance Internet) and Goldnet Internet Services."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "c. 2013",
+      "precision": "approx",
+      "details": "ISP side of the business spun back to GoldNet; Emerge continued as carrier-grade network services firm."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991128204146/http://emerge.net.au/",
+      "label": "Emerge (Wayback 1999)"
+    }
+  ]
+}

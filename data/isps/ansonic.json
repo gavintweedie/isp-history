@@ -1,0 +1,31 @@
+{
+  "name": "Ansonic",
+  "slug": "ansonic",
+  "birthplace": "Western Victoria",
+  "status": "inactive",
+  "website": "https://ansonic.com.au",
+  "summary": "Western Victorian provider (ansonic.com.au online by 1997; related to 'Westvic'); fate unverified.",
+  "names": [
+    {
+      "name": "Ansonic",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Regional provider."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

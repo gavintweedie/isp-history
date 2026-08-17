@@ -1,0 +1,38 @@
+{
+  "name": "Ace Online",
+  "slug": "ace-online",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://aceonline.com.au",
+  "summary": "Perth ISP founded Oct 1996; acquired Indigo Networks 2002; acquired by EFTel 17 Jul 2006.",
+  "names": [
+    {
+      "name": "Ace Online",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Founded October 1996 (ACN 075 343 136)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "Jul 2006",
+      "precision": "exact",
+      "details": "Acquired by EFTel (17 Jul 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.zdnet.com/home-and-office/networking/eftel-continues-isp-shopping-spree/",
+      "label": "ZDNet: EFTel continues ISP shopping spree (Jul 2006)"
+    }
+  ]
+}

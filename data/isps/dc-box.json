@@ -1,0 +1,38 @@
+{
+  "name": "DC Box",
+  "slug": "dc-box",
+  "birthplace": "Ashwood (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://dcbox.com.au",
+  "summary": "Sold the DC Box Linux router appliance for direct Telstra Wholesale connections (not a conventional ISP); defunct ~2007.",
+  "names": [
+    {
+      "name": "DC Box",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "DC Box Pty Ltd, Ashwood Melbourne."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000303111936/http://www.dcbox.com.au/",
+      "label": "DC Box (Wayback 2000)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Connexus",
+  "slug": "connexus",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://connexus.net.au",
+  "summary": "One of Australia's older ISPs (established 1989); acquired by Pennytel ~2022.",
+  "names": [
+    {
+      "name": "Connexus",
+      "start_year": 1989,
+      "start_disp": "1989"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1989,
+      "date_disp": "1989",
+      "precision": "exact",
+      "details": "Connexus Internet Service established, a division of InterNex Australia."
+    },
+    {
+      "kind": "death",
+      "year": 2022,
+      "date_disp": "c. 2022",
+      "precision": "approx",
+      "details": "Acquired by Pennytel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20101214045035/http://connexus.net.au/",
+      "label": "Connexus (Wayback 2010)"
+    }
+  ]
+}

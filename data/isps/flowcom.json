@@ -1,0 +1,31 @@
+{
+  "name": "FlowCom",
+  "slug": "flowcom",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "flowcom.com.au",
+  "summary": "Parent company (bought for A$6.3M by iiNet Feb 2004) that owned iGreen, Froggy Internet and Planet ISP.",
+  "names": [
+    {
+      "name": "FlowCom",
+      "start_year": 2004,
+      "start_disp": "Feb 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "by Mar 2003",
+      "precision": "by",
+      "details": "FlowCom company registered (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "precision": "exact",
+      "details": "Acquired by iiNet (~A$6.3M); subsidiaries iGreen, Froggy Internet, Planet ISP."
+    }
+  ]
+}

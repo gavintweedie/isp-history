@@ -1,0 +1,31 @@
+{
+  "name": "Firstlink",
+  "slug": "firstlink",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://firstlink.com.au",
+  "summary": "Sydney dialup + hosting + game zone ISP (First Link Communications Pty Ltd, George St, by 1997); defunct.",
+  "names": [
+    {
+      "name": "Firstlink",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Dialup, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

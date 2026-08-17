@@ -1,0 +1,29 @@
+{
+  "name": "BrisNet",
+  "slug": "brisnet",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "https://www.brisnet.org.au",
+  "summary": "Brisbane community (not-for-profit) internet service provider, still active.",
+  "names": [
+    {
+      "name": "BrisNet"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by 1995",
+      "precision": "by",
+      "details": "Brisbane community ISP; earliest Wayback capture of brisnet.org.au."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20031003001604/http://www.brisnet.org.au/",
+      "label": "BrisNet (Wayback 2003)"
+    }
+  ]
+}

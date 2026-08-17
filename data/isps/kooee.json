@@ -1,0 +1,31 @@
+{
+  "name": "Kooee",
+  "slug": "kooee",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://kooee.com.au",
+  "summary": "Australia's first 'free' ISP (Melbourne, launched 1998); collapsed ~1999.",
+  "names": [
+    {
+      "name": "Kooee",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Free dialup."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Collapsed."
+    }
+  ]
+}

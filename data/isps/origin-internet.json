@@ -1,0 +1,31 @@
+{
+  "name": "Origin Internet",
+  "slug": "origin-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "origin.net.au",
+  "summary": "Regional ISP acquired by iiNet.",
+  "names": [
+    {
+      "name": "Origin Internet",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Jul 1998",
+      "precision": "by",
+      "details": "Origin Internet Pty Ltd, ACN 083 456 041 (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Neptune Internet",
+  "slug": "neptune-internet",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.neptune.net.au",
+  "summary": "Modern NBN ISP (Neptune Internet Pty Ltd) offering residential and business plans with dedicated IPv4/IPv6, VPN and DNS filtering.",
+  "names": [
+    {
+      "name": "Neptune Internet",
+      "start_year": 2024,
+      "start_disp": "2024"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2024,
+      "date_disp": "2024",
+      "precision": "exact",
+      "details": "ABN 97 682 454 815 active from 20 Nov 2024."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://www.neptune.net.au/",
+      "label": "Neptune Internet website"
+    }
+  ]
+}

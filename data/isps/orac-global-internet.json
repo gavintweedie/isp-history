@@ -1,0 +1,38 @@
+{
+  "name": "ORAC Global Internet",
+  "slug": "orac-global-internet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://orac.net.au",
+  "summary": "Canberra dialup/hosting ISP (ORAC Global Pty Ltd); merged into APEX Internet ~2001.",
+  "names": [
+    {
+      "name": "ORAC Global Internet",
+      "start_year": 1996,
+      "start_disp": "c. 1996-97"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996-97",
+      "precision": "approx",
+      "details": "ORiginal ACcess to Customers; dialup + hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Merged into APEX Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980110232356/http://www.orac.net.au/",
+      "label": "ORAC (Wayback 1998)"
+    }
+  ]
+}

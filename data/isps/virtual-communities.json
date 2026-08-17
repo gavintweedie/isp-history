@@ -1,0 +1,31 @@
+{
+  "name": "Internet Services of Virtual Communities",
+  "slug": "virtual-communities",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "virtual.net.au",
+  "summary": "Melbourne-based ISP acquired by iiNet.",
+  "names": [
+    {
+      "name": "Internet Services of Virtual Communities",
+      "start_year": 2004,
+      "start_disp": "2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of virtual.net.au Dec 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

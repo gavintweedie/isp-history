@@ -1,0 +1,38 @@
+{
+  "name": "JTR Computers",
+  "slug": "jtr-computers",
+  "birthplace": "Adelaide Hills, SA",
+  "status": "inactive",
+  "website": "https://jtr.net.au",
+  "summary": "Adelaide Hills computer/internet services business (mini-ISP, jtr.net.au); hosted local Hills sites.",
+  "names": [
+    {
+      "name": "JTR Computers",
+      "start_year": 1999,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "JTR Computers internet services (Adelaide Hills)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000818174905/http://www.jtr.net.au/",
+      "label": "JTR (Wayback 2000)"
+    }
+  ]
+}

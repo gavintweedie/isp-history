@@ -1,0 +1,38 @@
+{
+  "name": "One.Tel",
+  "slug": "one-tel",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://one.net",
+  "summary": "Telco founded by Jodee Rich & Brad Keeling; mobile, long-distance and internet (One.Net brand); ASX IPO Nov 1997; collapsed 2001 (administrators 29 May 2001).",
+  "names": [
+    {
+      "name": "One.Tel",
+      "start_year": 1995,
+      "start_disp": "1 May 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1 May 1995",
+      "precision": "exact",
+      "details": "Launched 1 May 1995 in Sydney."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "May 2001",
+      "precision": "exact",
+      "details": "Collapsed; administrators appointed 29 May 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/One.Tel",
+      "label": "Wikipedia: One.Tel"
+    }
+  ]
+}

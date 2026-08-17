@@ -1,0 +1,31 @@
+{
+  "name": "Over the Wire",
+  "slug": "over-the-wire",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "overthe.com.au",
+  "summary": "Brisbane IT/voice/cloud business acquired by Aussie Broadband.",
+  "names": [
+    {
+      "name": "Over the Wire",
+      "start_year": 2022,
+      "start_disp": "2022"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Founded 2007 by Michael Omeros in Brisbane."
+    },
+    {
+      "kind": "death",
+      "year": 2022,
+      "date_disp": "2022",
+      "precision": "exact",
+      "details": "Acquired by Aussie Broadband (~A$344m), adding Tier-1 voice capability."
+    }
+  ]
+}

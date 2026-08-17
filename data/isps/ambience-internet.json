@@ -1,0 +1,38 @@
+{
+  "name": "Ambience Internet",
+  "slug": "ambience-internet",
+  "birthplace": "Ormeau (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://ambience.com.au",
+  "summary": "Queensland dialup + hosting ISP (Brisbane/Cairns/Townsville + Sydney); dead.",
+  "names": [
+    {
+      "name": "Ambience Internet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "c. 2013",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020207063555/http://www.cynosure.com.au/isp/ambience",
+      "label": "Ambience (Cynosure 2002)"
+    }
+  ]
+}

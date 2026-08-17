@@ -1,0 +1,38 @@
+{
+  "name": "CountryTell",
+  "slug": "countrytell",
+  "birthplace": "Newcastle, NSW",
+  "status": "inactive",
+  "website": "countrytell.com.au",
+  "summary": "Newcastle regional telco + data centre; 30+ wireless towers across NSW; acquired by Swoop for A$4.2m Oct 2021.",
+  "names": [
+    {
+      "name": "CountryTell",
+      "start_year": 2001,
+      "start_disp": "2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Founded Newcastle NSW."
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "Oct 2021",
+      "precision": "exact",
+      "details": "Acquired by Swoop ($2.1m cash + $2.1m shares)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.arnnet.com.au/article/1254883/swoop-buys-newcastles-countrytell-for-4-2m.html",
+      "label": "ARN: Swoop buys CountryTell for $4.2m"
+    }
+  ]
+}

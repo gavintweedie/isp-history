@@ -1,0 +1,38 @@
+{
+  "name": "Dragon Net",
+  "slug": "dragon-net",
+  "birthplace": "Sydney (Edgecliff), NSW",
+  "status": "inactive",
+  "website": "https://dragon.net.au",
+  "summary": "Sydney dialup SLIP/PPP ISP (The Hoath Family Trust, Mark Hoath; started 1995, AS7592); used Access One backbone; folded into Bullet Internet ~2006.",
+  "names": [
+    {
+      "name": "Dragon Net",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Started operations in Sydney (a computer and a few modems)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Folded into Bullet Internet (domain redirected from May 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991018195042/http://www.dragon.net.au/about.html",
+      "label": "Dragon Net about (Wayback 1999)"
+    }
+  ]
+}

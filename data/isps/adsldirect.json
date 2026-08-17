@@ -1,0 +1,31 @@
+{
+  "name": "ADSLDirect",
+  "slug": "adsldirect",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://adsldirect.com.au",
+  "summary": "Business ADSL/DSL specialist (2001-02); defunct.",
+  "names": [
+    {
+      "name": "ADSLDirect",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Business ADSL/DSL."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

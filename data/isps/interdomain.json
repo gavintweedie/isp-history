@@ -1,0 +1,38 @@
+{
+  "name": "InterDomain",
+  "slug": "interdomain",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://interdomain.net.au",
+  "summary": "Melbourne dialup/corporate ISP (InterDomain Pty Ltd, South Melbourne then Docklands); long-lived, operating to ~2008-2011.",
+  "names": [
+    {
+      "name": "InterDomain",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "InterDomain (Melbourne)."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "by 2014",
+      "precision": "by",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20110127022801/http://interdomain.net.au/",
+      "label": "InterDomain (Wayback 2011)"
+    }
+  ]
+}

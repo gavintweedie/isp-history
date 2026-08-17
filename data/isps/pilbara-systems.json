@@ -1,0 +1,38 @@
+{
+  "name": "Pilbara Systems Internet",
+  "slug": "pilbara-systems",
+  "birthplace": "Pilbara, WA",
+  "status": "inactive",
+  "website": "https://pilbara.net.au",
+  "summary": "WAIA member 2000; listed with WAIX as 'Pilbara Internet / Norcom'; site (pilbara.net.au, a dotnet dotau Pty Ltd service) went to a hosting default page Dec 2003, then Concept Networks 2004-06; domain later to Primus.",
+  "names": [
+    {
+      "name": "Pilbara Systems Internet",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Regional WA ISP serving North West towns, late 1990s."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2003-04",
+      "precision": "approx",
+      "details": "Site down Dec 2003; replaced by Concept Networks 2004-06."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001206153500/http://www.waia.asn.au/members/iap.html",
+      "label": "WAIA IAP member list (Wayback 2000)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "VivaNET",
+  "slug": "vivanet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://vivanet.com.au",
+  "summary": "Melbourne wholesale internet infrastructure ISP (VivaNET Limited, ASX VNT; ex-Fortuna Gold); delisted July 2001, taken over by Datafast Telecommunications (scheme of arrangement).",
+  "names": [
+    {
+      "name": "VivaNET",
+      "start_year": 2000,
+      "start_disp": "c. 1999-2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 1999-2000",
+      "precision": "approx",
+      "details": "Renamed Vivanet NL Jul 2000 (ex-Fortuna Gold Exploration)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "Jul 2001",
+      "precision": "exact",
+      "details": "Delisted 16 Jul 2001; taken over by Datafast."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010405115433/http://vivanet.com.au/",
+      "label": "Vivanet (Wayback 2001)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Field Solutions Group",
+  "slug": "field-solutions-group",
+  "birthplace": "Belrose (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://field-solutions.com.au",
+  "summary": "Regional telco/RSP (ASX:FSG); listed 2005 as Freshtel Holdings, rebranded Field Solutions Holdings 2017; RSP brands JustISP & Ant Communications; Optus MVNO Regional Australia Network; voluntary administration 19 Feb 2025.",
+  "names": [
+    {
+      "name": "Field Solutions Group",
+      "start_year": 2005,
+      "start_disp": "Apr 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "Apr 2005",
+      "precision": "exact",
+      "details": "Listed as Freshtel Holdings; rebranded FSG 28 Apr 2017."
+    },
+    {
+      "kind": "death",
+      "year": 2025,
+      "date_disp": "Feb 2025",
+      "precision": "exact",
+      "details": "Voluntary administration 19 Feb 2025."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2021/http://field-solutions.com.au/",
+      "label": "Field Solutions (Wayback 2021)"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "SIS Group (Amaze)",
+  "slug": "sis-group-amaze",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.amaze.com.au",
+  "summary": "Sydney web host / internet services (SIS Group Pty Ltd, ACN 079 466 274, since 2001; branded 'Amaze'); parent of Bullet Internet (2000); absorbed Bullet by 2017 and owns bullet.net.au/dragon.net.au; now Amaze Intelligence Pty Ltd.",
+  "names": [
+    {
+      "name": "SIS Group (Amaze)",
+      "start_year": 2001,
+      "start_disp": "2001"
+    }
+  ],
+  "aliases": [
+    "The Planet",
+    "Theplanet Internet Solutions"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "SIS Group (Amaze) web host, since 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20170219141001/https://www.amaze.com.au/about-us/",
+      "label": "Amaze/SIS Group about (Wayback 2017)"
+    }
+  ]
+}

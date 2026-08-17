@@ -1,0 +1,38 @@
+{
+  "name": "Foxgold Communications",
+  "slug": "foxgold-communications",
+  "birthplace": "Herdsman (Perth), WA",
+  "status": "inactive",
+  "website": "https://foxgold.net.au",
+  "summary": "Perth dialup + e-commerce/web hosting ISP (Microsoft Solution Provider); defunct ~2010.",
+  "names": [
+    {
+      "name": "Foxgold Communications",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Dialup, e-commerce, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2003/http://www.foxgold.net.au/",
+      "label": "Foxgold (Wayback 2003)"
+    }
+  ]
+}

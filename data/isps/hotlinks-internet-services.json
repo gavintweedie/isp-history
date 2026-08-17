@@ -1,0 +1,38 @@
+{
+  "name": "Hotlinks Internet Services",
+  "slug": "hotlinks-internet-services",
+  "birthplace": "Malvern East (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://hotlinks.net.au",
+  "summary": "Melbourne dialup ISP with nationwide agent network; acquired by EFTel (by 2005).",
+  "names": [
+    {
+      "name": "Hotlinks Internet Services",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Dialup 56k, hosting, web design."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "by 2005",
+      "precision": "by",
+      "details": "Acquired by EFTel (-> TPG)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001205122100/http://www.hotlinks.net.au/",
+      "label": "Hotlinks (Wayback 2000)"
+    }
+  ]
+}

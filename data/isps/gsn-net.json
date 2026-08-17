@@ -1,0 +1,31 @@
+{
+  "name": "Global Solutions Network",
+  "slug": "gsn-net",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://gsn.net",
+  "summary": "Broadband services provider (GSN.net, ~2003); defunct.",
+  "names": [
+    {
+      "name": "Global Solutions Network",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Residential/corporate broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

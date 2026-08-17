@@ -1,0 +1,38 @@
+{
+  "name": "APANA Melbourne node",
+  "slug": "apana-melbourne",
+  "birthplace": "Melbourne/Geelong, VIC",
+  "status": "inactive",
+  "website": "https://melbourne.apana.org.au",
+  "summary": "APANA regional hub melbourne.apana.org.au (Melbourne + Geelong); regional structure folded into the national region by ~2023; defunct as a separate node.",
+  "names": [
+    {
+      "name": "APANA Melbourne node",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "APANA regional structure; Melbourne hub."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Regional nodes folded into the single National Region."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
+      "label": "APANA (Wayback 1997)"
+    }
+  ]
+}

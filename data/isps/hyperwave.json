@@ -1,0 +1,31 @@
+{
+  "name": "Hyperwave",
+  "slug": "hyperwave",
+  "birthplace": "North Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://hyperwave.com.au",
+  "summary": "Melbourne fixed-wireless + VoIP + ADSL/NBN resale ISP (Hyperwave, ~2016); defunct.",
+  "names": [
+    {
+      "name": "Hyperwave",
+      "start_year": 2016,
+      "start_disp": "c. 2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "c. 2016",
+      "precision": "approx",
+      "details": "Fixed wireless, VoIP, NBN resale."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "c. 2019",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

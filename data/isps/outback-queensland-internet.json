@@ -1,0 +1,31 @@
+{
+  "name": "Outback Queensland Internet",
+  "slug": "outback-queensland-internet",
+  "birthplace": "Longreach, QLD",
+  "status": "inactive",
+  "website": "https://outbackqld.net.au",
+  "summary": "Longreach regional dialup ISP + computer sales/support + networking consultancy (GITC-accredited, ~1996); defunct.",
+  "names": [
+    {
+      "name": "Outback Queensland Internet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Regional dialup + computer services."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct (domain later Leading Edge Computers Longreach)."
+    }
+  ]
+}

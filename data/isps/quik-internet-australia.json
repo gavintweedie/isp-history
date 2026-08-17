@@ -1,0 +1,38 @@
+{
+  "name": "Quik Internet Australia",
+  "slug": "quik-internet-australia",
+  "birthplace": "Milton (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://bn.quik.com.au",
+  "summary": "Australian franchise arm of the US Quik Internet franchise network (Brisbane dialup + hosting + training); defunct.",
+  "names": [
+    {
+      "name": "Quik Internet Australia",
+      "start_year": 2000,
+      "start_disp": "by Jun 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by Jun 2000",
+      "precision": "by",
+      "details": "Entry updated 25 Jun 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "2012",
+      "precision": "exact",
+      "details": "Last active capture of quik.com.au (Jun 2012); parked 2013-16."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030111000000/http://www.cynosure.com.au/isp/quik",
+      "label": "Quik Australia (Cynosure 2003)"
+    }
+  ]
+}

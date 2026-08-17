@@ -1,0 +1,38 @@
+{
+  "name": "EtherTech Online!",
+  "slug": "ethertech-online",
+  "birthplace": "Dandenong, VIC",
+  "status": "inactive",
+  "website": "https://ethertech.com.au",
+  "summary": "Melbourne dialup/ISDN + broadband DSL + VPN ISP since 1994; operated to at least 2008.",
+  "names": [
+    {
+      "name": "EtherTech Online!",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Dialup/ISDN, broadband DSL, VPN."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "by 2008",
+      "precision": "by",
+      "details": "Operated to at least 2008."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2008/http://www.ethertech.com.au/",
+      "label": "EtherTech (Wayback 2008)"
+    }
+  ]
+}

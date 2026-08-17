@@ -1,0 +1,38 @@
+{
+  "name": "Unwired",
+  "slug": "unwired",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "unwired.com.au",
+  "summary": "Sydney fixed-wireless broadband provider (launched 2000); via Seven to Optus, network shut 2013.",
+  "names": [
+    {
+      "name": "Unwired",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Launched 11 Aug 2000, fixed-wireless broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "2013",
+      "precision": "exact",
+      "details": "Optus shut down the Unwired network Feb 2013 (after Seven 2008, Optus 2012)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Unwired",
+      "label": "Wikipedia: Unwired"
+    }
+  ]
+}

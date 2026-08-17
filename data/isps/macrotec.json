@@ -1,0 +1,38 @@
+{
+  "name": "MacroTec Computer/Internet Services",
+  "slug": "macrotec",
+  "birthplace": "Sydney/Melbourne (Croydon)",
+  "status": "inactive",
+  "website": "https://australia.net.au",
+  "summary": "Budget PPP dialup ISP, NSW/VIC (3 POPs), domains mt.net.au / australia.net.au; defunct.",
+  "names": [
+    {
+      "name": "MacroTec Computer/Internet Services",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Last active capture of mt.net.au (Feb 2005)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001219000000/http://www.cynosure.com.au/isp/mt",
+      "label": "MacroTec (Cynosure 2000)"
+    }
+  ]
+}

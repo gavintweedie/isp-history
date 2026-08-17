@@ -1,0 +1,38 @@
+{
+  "name": "CyberNet 2000",
+  "slug": "cybernet-2000",
+  "birthplace": "Forest Lake (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://cn2000.com.au",
+  "summary": "Brisbane budget dialup ISP; no info found beyond directory entry.",
+  "names": [
+    {
+      "name": "CyberNet 2000",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "No own-site captures found; last reference 1999."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000303002945/http://www.cynosure.com.au/isp/cn2000",
+      "label": "CyberNet 2000 (Cynosure 2000)"
+    }
+  ]
+}

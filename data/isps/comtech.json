@@ -1,0 +1,31 @@
+{
+  "name": "Comtech",
+  "slug": "comtech",
+  "birthplace": "WA",
+  "status": "inactive",
+  "website": "comtech.net.au",
+  "summary": "Perth-area ISP, post-IPO iiNet acquisition.",
+  "names": [
+    {
+      "name": "Comtech",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by mid-1996",
+      "precision": "by",
+      "details": "Comtech Albany business name registration (iiNet 1999 ASX prospectus)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

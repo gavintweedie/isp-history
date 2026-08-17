@@ -1,0 +1,31 @@
+{
+  "name": "EZ ADSL",
+  "slug": "ez-adsl",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://ezadsl.com.au",
+  "summary": "Unlimited ADSL ISP (EZ ADSL Pty Ltd, ABN 13 105 661 078, launched 1 Jul 2003, added Tasmania Nov 2003); defunct.",
+  "names": [
+    {
+      "name": "EZ ADSL",
+      "start_year": 2003,
+      "start_disp": "1 Jul 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "1 Jul 2003",
+      "precision": "exact",
+      "details": "Unlimited ADSL plans."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

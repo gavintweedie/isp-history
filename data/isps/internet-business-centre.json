@@ -1,0 +1,31 @@
+{
+  "name": "Internet Business Centre",
+  "slug": "internet-business-centre",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "https://www.ibc.com.au",
+  "summary": "Perth web development/hosting firm founded 1994; still trading as IBC Digital.",
+  "names": [
+    {
+      "name": "Internet Business Centre",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "IBC, one of Australia's leading Internet commerce consulting companies."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020126221831/http://www.ibc.com.au/",
+      "label": "IBC (Wayback 2002)"
+    }
+  ]
+}

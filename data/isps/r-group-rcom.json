@@ -1,0 +1,36 @@
+{
+  "name": "R-Group (R-COM)",
+  "slug": "r-group-rcom",
+  "birthplace": "Bentley (Perth), WA",
+  "status": "active",
+  "website": "https://www.r-group.com.au",
+  "summary": "Perth managed IT/telecom services provider (R Group International, ex-RNAS International, founded 2000); R-COM was its VoIP/communications brand, R-BOX its hosting brand; now a licensed carrier serving mine sites. Not a consumer ISP.",
+  "names": [
+    {
+      "name": "R-Group (R-COM)",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Founded in Perth as R-NAS (Remote Network Administration Services); RNAS International Pty Ltd registered Jan 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20161001192853/http://r-com.com.au/",
+      "label": "R-COM (Wayback 2016)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20180312021617/http://r-group.com.au/2015/02/16/r-group-celebrates-its-15-year-anniversary/",
+      "label": "R-Group 15-year anniversary (Wayback 2018)"
+    }
+  ]
+}

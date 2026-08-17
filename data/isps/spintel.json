@@ -1,0 +1,24 @@
+{
+  "name": "SpinTel",
+  "slug": "spintel",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.spintel.net.au",
+  "summary": "Sydney ISP, successor brand to Spin Internet (1996); absorbed Com-Cen ~2014-15.",
+  "names": [
+    {
+      "name": "SpinTel",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Spin Internet Services -> SpinTel brand."
+    }
+  ]
+}

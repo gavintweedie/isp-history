@@ -1,0 +1,38 @@
+{
+  "name": "Jazzline Internet Systems",
+  "slug": "jazzline",
+  "birthplace": "Mount Lawley (Perth), WA",
+  "status": "inactive",
+  "website": "https://jazzline.net.au",
+  "summary": "Perth dialup-via-ISDN ISP (uplink Paradox Digital); defunct.",
+  "names": [
+    {
+      "name": "Jazzline Internet Systems",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Last active capture of jazzline.net.au (Dec 2003)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021219070047/http://www.cynosure.com.au/isp/jazzline",
+      "label": "Jazzline (Cynosure 2002)"
+    }
+  ]
+}

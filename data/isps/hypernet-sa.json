@@ -1,0 +1,38 @@
+{
+  "name": "Hypernet SA",
+  "slug": "hypernet-sa",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://hyper.net.au",
+  "summary": "Adelaide dialup + web design ISP; dead (domain later a law firm).",
+  "names": [
+    {
+      "name": "Hypernet SA",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "In directory from 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Last active capture of hyper.net.au (May 2001); parked from 2008."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2002/http://www.cynosure.com.au/isp/hyper",
+      "label": "Hypernet SA (Cynosure 2002)"
+    }
+  ]
+}

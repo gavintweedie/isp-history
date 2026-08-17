@@ -1,0 +1,38 @@
+{
+  "name": "Smelly Black Dog",
+  "slug": "smelly-black-dog",
+  "birthplace": "Cairns (Clifton Beach), QLD",
+  "status": "inactive",
+  "website": "https://smellyblackdog.com.au",
+  "summary": "Cairns boutique ISP/IT provider (The Smelly Black Dog Company Pty Ltd); also traded as IP Networks and Cairns Internet Services; collapsed ~April 2014.",
+  "names": [
+    {
+      "name": "Smelly Black Dog",
+      "start_year": 2008,
+      "start_disp": "2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Founded early 2008, Tropical North Queensland."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "Apr 2014",
+      "precision": "exact",
+      "details": "Collapsed after wholesaler (Simtronic) cut services; ABN cancelled 2012 (Cairns Internet Services name to 2015)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20091101130623/http://www.smellyblackdog.com.au/",
+      "label": "Smelly Black Dog (Wayback 2009)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Angelnet",
+  "slug": "angelnet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://angelnet.com.au",
+  "summary": "Nationwide dialup/ADSL ISP (~2003); defunct.",
+  "names": [
+    {
+      "name": "Angelnet",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Dialup, ADSL, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

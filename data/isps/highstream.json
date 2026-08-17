@@ -1,0 +1,31 @@
+{
+  "name": "Highstream Communications",
+  "slug": "highstream",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://highstream.net.au",
+  "summary": "ISP/hosting/dedicated-server provider (~2004); defunct.",
+  "names": [
+    {
+      "name": "Highstream Communications",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "ISP, hosting, IT consulting."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

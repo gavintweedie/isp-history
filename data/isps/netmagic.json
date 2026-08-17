@@ -1,0 +1,31 @@
+{
+  "name": "NetMagic",
+  "slug": "netmagic",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://netmagic.net.au",
+  "summary": "Perth 56k dialup + ADSL ISP (by 2002); defunct.",
+  "names": [
+    {
+      "name": "NetMagic",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Dialup, ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

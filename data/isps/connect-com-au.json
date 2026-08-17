@@ -1,0 +1,38 @@
+{
+  "name": "connect.com.au",
+  "slug": "connect-com-au",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://connect.com.au",
+  "summary": "ABS-cited Australia's first commercial internet provider (1992); absorbed InterConnect by 1996; acquired by AAPT 3 Feb 1999.",
+  "names": [
+    {
+      "name": "connect.com.au",
+      "start_year": 1992,
+      "start_disp": "1992"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1992,
+      "date_disp": "1992",
+      "precision": "exact",
+      "details": "Founded in South Melbourne; first commercial ISP per ABS."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "3 Feb 1999",
+      "precision": "exact",
+      "details": "Acquired by AAPT."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000304060006/http://www.connect.com.au/info/about_connect.html",
+      "label": "connect.com.au about (Wayback 2000)"
+    }
+  ]
+}

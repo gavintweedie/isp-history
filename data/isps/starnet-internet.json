@@ -1,0 +1,38 @@
+{
+  "name": "Starnet Internet Services",
+  "slug": "starnet-internet",
+  "birthplace": "South Yarra (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://starnet.com.au",
+  "summary": "Melbourne ISP (Starnet I.S. Pty Ltd, ACN 073 659 819, ~1996); absorbed by Planet Internet by Oct 2000.",
+  "names": [
+    {
+      "name": "Starnet Internet Services",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Melbourne dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "by Oct 2000",
+      "precision": "by",
+      "details": "Absorbed by Planet Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970124000000/http://www.starnet.com.au/",
+      "label": "Starnet (Wayback 1997)"
+    }
+  ]
+}

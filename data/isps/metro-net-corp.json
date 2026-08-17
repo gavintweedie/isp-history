@@ -1,0 +1,38 @@
+{
+  "name": "Metro Net Corporation",
+  "slug": "metro-net-corp",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://metro.net.au",
+  "summary": "Melbourne metropolitan dialup ISP; defunct (domain parked).",
+  "names": [
+    {
+      "name": "Metro Net Corporation",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "Operating by 10 Apr 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active capture of metro.net.au (Aug 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021022000000/http://www.cynosure.com.au/isp/metronet",
+      "label": "Metro Net (Cynosure 2002)"
+    }
+  ]
+}

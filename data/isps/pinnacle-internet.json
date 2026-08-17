@@ -1,0 +1,38 @@
+{
+  "name": "Pinnacle Internet",
+  "slug": "pinnacle-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://pinnacle.net.au",
+  "summary": "Adelaide ISP (pinnacle.net.au), active in the SA peering community by Feb 2000.",
+  "names": [
+    {
+      "name": "Pinnacle Internet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "In the SA peering mailing list community (pinnacle.net.au)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "No later records found."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2000/http://www.pinnacle.net.au/",
+      "label": "Pinnacle (Wayback 2000)"
+    }
+  ]
+}

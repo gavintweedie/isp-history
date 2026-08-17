@@ -1,0 +1,38 @@
+{
+  "name": "CanTech Online",
+  "slug": "cantech-online",
+  "birthplace": "Perth (Bentley), WA",
+  "status": "inactive",
+  "website": "https://cantech.net.au",
+  "summary": "Perth ISP associated with Canning College; closed 31 Dec 2003.",
+  "names": [
+    {
+      "name": "CanTech Online",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "Canning College ISP, c. 1994-95."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Officially closed 31 Dec 2003."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980206121244/http://www.cantech.net.au/",
+      "label": "CanTech Online (Wayback 1998)"
+    }
+  ]
+}

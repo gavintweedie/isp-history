@@ -1,0 +1,38 @@
+{
+  "name": "Independent Service Providers",
+  "slug": "independent-service-providers",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://isp.net.au",
+  "summary": "ISP formed July 2001 from the A2U (ATU) + Viper merger at isp.net.au; ABN cancelled 2007, brand continued under successor entities.",
+  "names": [
+    {
+      "name": "Independent Service Providers",
+      "start_year": 2001,
+      "start_disp": "Jul 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "Jul 2001",
+      "precision": "exact",
+      "details": "Formed from the A2U + Viper merger (brand 'ISP')."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "ABN cancelled 20 Dec 2007; brand continued as 'Information Service Providers' under successor entities."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020921111635/http://about.isp.net.au/",
+      "label": "ISP about (Wayback 2002)"
+    }
+  ]
+}

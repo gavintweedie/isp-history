@@ -1,0 +1,38 @@
+{
+  "name": "Brisbane Internet Technology",
+  "slug": "brisbane-internet-technology",
+  "birthplace": "Fortitude Valley (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://bit.net.au",
+  "summary": "Brisbane dialup ISP (guaranteed no engaged tones); acquired by Asia Online ~2000-01 (per user report); dead ~2009.",
+  "names": [
+    {
+      "name": "Brisbane Internet Technology",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Last capture Sep 2009."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2002/http://www.cynosure.com.au/isp/bit",
+      "label": "BIT (Cynosure 2002)"
+    }
+  ]
+}

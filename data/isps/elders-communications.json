@@ -1,0 +1,31 @@
+{
+  "name": "Elders Communications",
+  "slug": "elders-communications",
+  "birthplace": "Victoria",
+  "status": "inactive",
+  "website": "https://elders.net.au",
+  "summary": "Internet/telco arm of the Elders agribusiness (late 1990s, elders.net.au); services discontinued.",
+  "names": [
+    {
+      "name": "Elders Communications",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Internet/telco arm of Elders."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Services discontinued."
+    }
+  ]
+}

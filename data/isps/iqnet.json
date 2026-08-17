@@ -1,0 +1,31 @@
+{
+  "name": "IQnet",
+  "slug": "iqnet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://iqnet.net.au",
+  "summary": "Perth dialup ISP distributed via MLM/network-marketing model (by 2000); defunct.",
+  "names": [
+    {
+      "name": "IQnet",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Dialup (MLM)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

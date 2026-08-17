@@ -1,0 +1,38 @@
+{
+  "name": "BigBlue",
+  "slug": "bigblue",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://bigblue.net.au",
+  "summary": "Consumer/prepaid ISP (bigblue.net.au); became part of the iiNet group by ~Nov 2005.",
+  "names": [
+    {
+      "name": "BigBlue",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "bigblue.net.au online from 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Part of the iiNet group."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20051123050907/http://www.bigblue.net.au/",
+      "label": "BigBlue (Wayback 2005)"
+    }
+  ]
+}

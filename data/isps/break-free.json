@@ -1,0 +1,38 @@
+{
+  "name": "Break Free",
+  "slug": "break-free",
+  "birthplace": "Coffs Harbour, NSW",
+  "status": "inactive",
+  "website": "https://breakfree.net.au",
+  "summary": "Coffs Harbour ADSL/bundle ISP (Break Free Communications Pty Ltd / Australia Power Control Systems); small provider to ~2017.",
+  "names": [
+    {
+      "name": "Break Free",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Break Free Communications (Coffs Harbour)."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "by 2017",
+      "precision": "by",
+      "details": "Last captured 2017."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20170912203128/http://breakfree.net.au/",
+      "label": "Break Free (Wayback 2017)"
+    }
+  ]
+}

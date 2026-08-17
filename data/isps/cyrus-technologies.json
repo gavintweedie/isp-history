@@ -1,0 +1,38 @@
+{
+  "name": "Cyrus Technologies",
+  "slug": "cyrus-technologies",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://cyrustech.com.au",
+  "summary": "No verifiable ISP history (first-ever 1999 capture already shows OzEmail homepage, so ceased ~1998/early 1999); domain cyrustech.com.au now deleted.",
+  "names": [
+    {
+      "name": "Cyrus Technologies",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Last known alive by 1999 (Wayback capture)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Ceased operating ~1998-99 (domain pointed to OzEmail by Jan 1999)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990125094613/http://www.cyrustech.com.au/",
+      "label": "Cyrus (Wayback 1999)"
+    }
+  ]
+}

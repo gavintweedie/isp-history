@@ -1,0 +1,31 @@
+{
+  "name": "Amcom Telecommunications",
+  "slug": "amcom",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "amcom.com.au",
+  "summary": "Perth-based telecommunications provider (DSL/voice/fibre for Perth/Adelaide/Darwin); acquired IP Systems (2010) and AmNet (2003); acquired by Vocus.",
+  "names": [
+    {
+      "name": "Amcom Telecommunications",
+      "start_year": 1988,
+      "start_disp": "1988"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1988,
+      "date_disp": "1988",
+      "precision": "exact",
+      "details": "Amcom founded in Perth (ASX-listed)."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "2014",
+      "precision": "exact",
+      "details": "Acquired by Vocus."
+    }
+  ]
+}

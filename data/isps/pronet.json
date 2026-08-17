@@ -1,0 +1,38 @@
+{
+  "name": "pronet",
+  "slug": "pronet",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://pronet.net.au",
+  "summary": "Brisbane consumer/business dialup ISP (Professional Internet Services Pty Ltd); liquidated July 1998, customers moved to Hotkey.",
+  "names": [
+    {
+      "name": "pronet",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Professional Internet Services, Milton Brisbane."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "Jul 1998",
+      "precision": "exact",
+      "details": "Liquidated 3 Jul 1998; customers transferred to Hotkey (Primus)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980524043104/http://www.pronet.net.au/",
+      "label": "Pronet (Wayback 1998)"
+    }
+  ]
+}

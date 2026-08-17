@@ -1,0 +1,38 @@
+{
+  "name": "Namadgi Corporation",
+  "slug": "namadgi",
+  "birthplace": "Fyshwick (Canberra), ACT",
+  "status": "inactive",
+  "website": "https://namadgi.com.au",
+  "summary": "Canberra business/govt internet + hosting + video conferencing + database dev ISP (Sydney POP); defunct.",
+  "names": [
+    {
+      "name": "Namadgi Corporation",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "Operating by 10 Apr 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active capture of namadgi.com.au (May 2006); parked from 2017."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021221000000/http://www.cynosure.com.au/isp/namadgi",
+      "label": "Namadgi (Cynosure 2002)"
+    }
+  ]
+}

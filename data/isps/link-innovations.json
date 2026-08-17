@@ -1,0 +1,38 @@
+{
+  "name": "Link Innovations",
+  "slug": "link-innovations",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "linkinnovations.com.au",
+  "summary": "Telecoms business (Link Innovations, founded Nov 1995); became a licensed carrier/WISP ~Oct 2003 (per Whirlpool rep, 2004); acquired by BigAir 29 Jun 2012.",
+  "names": [
+    {
+      "name": "Link Innovations",
+      "start_year": 1995,
+      "start_disp": "Nov 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "Nov 1995",
+      "precision": "exact",
+      "details": "Founded November 1995."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "Jun 2012",
+      "precision": "exact",
+      "details": "Acquired by BigAir (29 Jun 2012)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://whrl.pl/Rpyhf",
+      "label": "Whirlpool: Link Innovations rep (2004)"
+    }
+  ]
+}

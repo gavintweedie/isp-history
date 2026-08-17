@@ -1,0 +1,31 @@
+{
+  "name": "Apex Networks",
+  "slug": "apex-networks",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://apex.net.au",
+  "summary": "Australian ISP acquired by Superloop.",
+  "names": [
+    {
+      "name": "Apex Networks",
+      "start_year": 2015,
+      "start_disp": "2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "by Mar 2006",
+      "precision": "by",
+      "details": "Company registered (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "Acquired by Superloop (~A$5.8m)."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "HyperOz",
+  "slug": "hyperoz",
+  "birthplace": "Parramatta (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://hyperoz.com.au",
+  "summary": "ADSL provider (PO Box 3832, Parramatta BC; unlimited/usage ADSL, ~2003); defunct.",
+  "names": [
+    {
+      "name": "HyperOz",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "ADSL, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

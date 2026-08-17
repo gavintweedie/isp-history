@@ -1,0 +1,41 @@
+{
+  "name": "Crystal Internet Services",
+  "slug": "crystal-internet-services",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://crystal.com.au",
+  "summary": "Perth dialup ISP (16 public dialups); absorbed by EFTel ~2011.",
+  "names": [
+    {
+      "name": "Crystal Internet Services",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "aliases": [
+    "Crystal Internet Services Kelmscott"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Dialup, web design, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "c. 2011",
+      "precision": "approx",
+      "details": "Absorbed by EFTel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212013414/http://crystal.com.au/",
+      "label": "Crystal (Wayback 1998)"
+    }
+  ]
+}

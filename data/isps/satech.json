@@ -1,0 +1,38 @@
+{
+  "name": "SATECH",
+  "slug": "satech",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://satech.net.au",
+  "summary": "Adelaide dialup ISP ('South Australian Technologies', operated by Silicom Pty Ltd), formed late 1995 from the merger of the APANA nodes box.apana.org.au and lemon.apana.org.au; became Box Internet.",
+  "names": [
+    {
+      "name": "SATECH",
+      "start_year": 1995,
+      "start_disp": "late 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "late 1995",
+      "precision": "exact",
+      "details": "South Australian Technologies formed from the box + lemon APANA-node merger."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "c. 1997-98",
+      "precision": "approx",
+      "details": "Became Box Internet (satech.net.au redirected to box.net.au)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961219092058/http://www.satech.net.au/",
+      "label": "SATECH (Wayback 1996)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "GKY Internet",
+  "slug": "gky-internet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://gky.com.au",
+  "summary": "Canberra dialup ISP (gky.com.au, 14k4 only); delisted from Cynosure Aug 1998.",
+  "names": [
+    {
+      "name": "GKY Internet",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "Aug 1998",
+      "precision": "exact",
+      "details": "Delisted from Cynosure August 1998."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030106185534/http://www.cynosure.com.au/isp/gky",
+      "label": "GKY (Cynosure 2003)"
+    }
+  ]
+}

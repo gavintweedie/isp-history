@@ -1,0 +1,38 @@
+{
+  "name": "Better Net",
+  "slug": "better-net",
+  "birthplace": "Murwillumbah, QLD",
+  "status": "inactive",
+  "website": "https://better.net.au",
+  "summary": "Tweed Heads/Murwillumbah dialup ISP (Better Net Pty Ltd); acquired by Chariot by 2004 (-> TPG).",
+  "names": [
+    {
+      "name": "Better Net",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Dialup, web hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "by",
+      "details": "Acquired by Chariot (-> TPG)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040611140917/http://www.better.net.au/",
+      "label": "Better Net (Wayback 2004)"
+    }
+  ]
+}

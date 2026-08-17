@@ -1,0 +1,31 @@
+{
+  "name": "Big Button",
+  "slug": "big-button",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://bigbutton.com.au",
+  "summary": "Adelaide dialup ISP ('Adelaide's Easier Internet', ~2000); defunct.",
+  "names": [
+    {
+      "name": "Big Button",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

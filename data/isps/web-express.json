@@ -1,0 +1,31 @@
+{
+  "name": "Web Express",
+  "slug": "web-express",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://webexpress.net.au",
+  "summary": "Brisbane dialup ISP (8c/hour, web authoring, home page hosting, ~1997); defunct.",
+  "names": [
+    {
+      "name": "Web Express",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "APANA Hunter node",
+  "slug": "apana-hunter",
+  "birthplace": "Newcastle/Maitland, NSW",
+  "status": "inactive",
+  "website": "https://hunter.apana.org.au",
+  "summary": "APANA regional hub hunter.apana.org.au (Newcastle/Maitland, Hunter region, from ~1999); defunct.",
+  "names": [
+    {
+      "name": "APANA Hunter node",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "APANA Hunter region hub."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Regional nodes folded into the single National Region."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
+      "label": "APANA (Wayback 1997)"
+    }
+  ]
+}

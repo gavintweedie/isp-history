@@ -1,0 +1,24 @@
+{
+  "name": "Yomojo",
+  "slug": "yomojo",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://yomojo.com.au",
+  "summary": "Prepaid mobile (Optus 4G/5G, eSIM) + NBN + 4G/5G home wireless provider (Yomojo Pty Ltd, ~2015); still active.",
+  "names": [
+    {
+      "name": "Yomojo",
+      "start_year": 2015,
+      "start_disp": "c. 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Prepaid mobile, NBN, home wireless."
+    }
+  ]
+}

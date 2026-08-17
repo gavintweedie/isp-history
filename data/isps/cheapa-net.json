@@ -1,0 +1,38 @@
+{
+  "name": "Cheapa Net",
+  "slug": "cheapa-net",
+  "birthplace": "Bondi Junction (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://cheapa.net",
+  "summary": "Sydney cheap unlimited dialup ISP (IIA member), same address as Asia Connect; defunct.",
+  "names": [
+    {
+      "name": "Cheapa Net",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Last known alive by 2001 (Wayback capture)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Last active capture of cheapa.net.au (May 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021217021915/http://www.cynosure.com.au/isp/cheapa",
+      "label": "Cheapa Net (Cynosure 2002)"
+    }
+  ]
+}

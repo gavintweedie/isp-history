@@ -1,0 +1,41 @@
+{
+  "name": "SENET",
+  "slug": "senet",
+  "birthplace": "South Australia",
+  "status": "inactive",
+  "website": "https://senet.com.au",
+  "summary": "Early SA ISP (founded 1994); part of the OzEmail group.",
+  "names": [
+    {
+      "name": "SENET",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "aliases": [
+    "SE Net"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "SE Network Access, member of SA Internet Association."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Absorbed into the OzEmail group."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980202100132/http://www.senet.com.au/senet/about.html",
+      "label": "SENET about (Wayback 1998)"
+    }
+  ]
+}

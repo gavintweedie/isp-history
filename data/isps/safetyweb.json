@@ -1,0 +1,38 @@
+{
+  "name": "SafetyWeb",
+  "slug": "safetyweb",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://safetyweb.com.au",
+  "summary": "Canberra business-only corporate ISP (web dev, DB/CGI, hosting, 24hr phone support); gone by ~2000.",
+  "names": [
+    {
+      "name": "SafetyWeb",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1997)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Gone from directory by ~2000."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001207000000/http://www.cynosure.com.au/isp/safetyweb",
+      "label": "SafetyWeb (Cynosure 2000)"
+    }
+  ]
+}

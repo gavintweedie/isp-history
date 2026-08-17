@@ -1,0 +1,38 @@
+{
+  "name": "DCSI",
+  "slug": "dcsi",
+  "birthplace": "Drouin/Warragul, VIC",
+  "status": "inactive",
+  "website": "https://dcsi.net.au",
+  "summary": "Gippsland regional ISP (Drouin Computer Services & Internet, founded 1991 as computer retail; dialup from 1995); acquired by Swoop May 2020.",
+  "names": [
+    {
+      "name": "DCSI",
+      "start_year": 1991,
+      "start_disp": "1991"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1991,
+      "date_disp": "1991",
+      "precision": "exact",
+      "details": "Founded as Drouin Computer Services (computer retail); internet from 1995."
+    },
+    {
+      "kind": "death",
+      "year": 2020,
+      "date_disp": "May 2020",
+      "precision": "exact",
+      "details": "Acquired by Swoop (with Anycast Networks)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20180904123456/https://dcsi.net.au/about/our-company",
+      "label": "DCSI history (Wayback 2018)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "CRC Internet",
+  "slug": "crc-internet",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://crc.net.au",
+  "summary": "Small Brisbane dial-up ISP run by Craig Rawlins (CRC = Craig Rawlins Computers); active 1998-99, pivoted to web services.",
+  "names": [
+    {
+      "name": "CRC Internet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Craig Rawlins Computers Online Services (crc.net.au)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2000-01",
+      "precision": "approx",
+      "details": "Pivoted to web hosting/design; ISP wound down."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980120142934/http://www.crc.net.au/",
+      "label": "CRC Internet (Wayback 1998)"
+    }
+  ]
+}

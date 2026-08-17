@@ -1,0 +1,31 @@
+{
+  "name": "Voise",
+  "slug": "voise",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://voise.com.au",
+  "summary": "VoIP/internet-telephony provider (voise.com.au from 2005, archived to 2019); current status unverified.",
+  "names": [
+    {
+      "name": "Voise",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "VoIP provider."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "by 2019",
+      "precision": "by",
+      "details": "Last archived 2019."
+    }
+  ]
+}

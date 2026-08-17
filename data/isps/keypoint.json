@@ -1,0 +1,31 @@
+{
+  "name": "Keypoint",
+  "slug": "keypoint",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "keypoint.com.au",
+  "summary": "Consolidating ISP (formerly Labyrinth); acquired Southern Internet Services (Southcom) and 20+ small ISPs; acquired by Datafast (later EFTel).",
+  "names": [
+    {
+      "name": "Keypoint",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Founded as Labyrinth Connections; renamed KeyPoint ~2002."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "late 2003",
+      "precision": "exact",
+      "details": "Acquired by Datafast (renamed EFTel 2005)."
+    }
+  ]
+}

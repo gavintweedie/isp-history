@@ -1,0 +1,38 @@
+{
+  "name": "NetServ Communications",
+  "slug": "netserv-communications",
+  "birthplace": "Busselton, WA",
+  "status": "inactive",
+  "website": "https://netserv.net.au",
+  "summary": "Busselton and the Capes' first ISP (since 1995); absorbed by Silogen c.2007.",
+  "names": [
+    {
+      "name": "NetServ Communications",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "First ISP for Busselton and the Capes."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Absorbed by Silogen; netserv.net.au redirected to silogen.com.au."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000519223543/http://www.netserv.net.au/",
+      "label": "NetServ (Wayback 2000)"
+    }
+  ]
+}

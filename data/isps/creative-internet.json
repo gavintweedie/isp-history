@@ -1,0 +1,38 @@
+{
+  "name": "Creative Internet (SA)",
+  "slug": "creative-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://creative.net.au",
+  "summary": "Adelaide ISP (creative.net.au), active in the SA peering community by Mar 2000.",
+  "names": [
+    {
+      "name": "Creative Internet (SA)",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "In the SA peering mailing list community (creative.net.au)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "No later records found."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2000/http://www.creative.net.au/",
+      "label": "Creative (Wayback 2000)"
+    }
+  ]
+}

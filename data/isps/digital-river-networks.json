@@ -1,0 +1,38 @@
+{
+  "name": "Digital River Networks",
+  "slug": "digital-river-networks",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://digitalriver.com.au",
+  "summary": "Melbourne dark-fibre + Metro Ethernet provider (Digital River Networks Pty Ltd, ACN 098 597 329, founded ~Oct 2001); became a regional WISP via HIBIS/Broadband Connect grants (2004-06); dark-fibre assets and metro-Ethernet contracts sold to Vocus for $3.95m (announced 8 Apr 2011); members' voluntary liquidation 2020.",
+  "names": [
+    {
+      "name": "Digital River Networks",
+      "start_year": 2001,
+      "start_disp": "Oct 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "Oct 2001",
+      "precision": "exact",
+      "details": "Founded in Melbourne as a metro fibre infrastructure developer (ACN 098 597 329)."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "Apr 2011",
+      "precision": "exact",
+      "details": "Dark-fibre assets + contracts sold to Vocus ($3.95m cash)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.itnews.com.au/news/vocus-snaps-up-digital-river-fibre-network-253821",
+      "label": "iTnews: Vocus snaps up Digital River fibre network (Apr 2011)"
+    }
+  ]
+}

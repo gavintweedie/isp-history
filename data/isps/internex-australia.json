@@ -1,0 +1,41 @@
+{
+  "name": "InterNex Australia",
+  "slug": "internex-australia",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://internex.net.au",
+  "summary": "Melbourne dialup + business access + hosting ISP established 1995 (356 Collins St; POPs Melb/Perth/Bris/Adel); Internex Internet (Dandenong, ~8,000 customers) acquired by Chariot Nov 2003.",
+  "names": [
+    {
+      "name": "InterNex Australia",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "aliases": [
+    "Internex"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Established 1995."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Nov 2003",
+      "precision": "exact",
+      "details": "Internex Internet acquired by Chariot Ltd."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021203165408/http://www.cynosure.com.au/isp/internex",
+      "label": "InterNex Australia (Cynosure 2002)"
+    }
+  ]
+}

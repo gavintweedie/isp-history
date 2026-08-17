@@ -1,0 +1,38 @@
+{
+  "name": "WebCentral",
+  "slug": "webcentral",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "webcentral.com.au",
+  "summary": "Australia's first web-hosting business, spun off from PowerUp (Lloyd Ernst); ASX-listed 2004 as WebCentral Group; acquired by Melbourne IT 2006.",
+  "names": [
+    {
+      "name": "WebCentral",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Founded in Brisbane as a PowerUp spin-off."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "Sep 2006",
+      "precision": "exact",
+      "details": "Acquired by Melbourne IT (delisted 25 Sep 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Webcentral",
+      "label": "Wikipedia: Webcentral"
+    }
+  ]
+}

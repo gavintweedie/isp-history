@@ -1,0 +1,38 @@
+{
+  "name": "Bright Telecommunications",
+  "slug": "bright",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://bright.net.au",
+  "summary": "Telecom arm of Western Power (WA); Perth fibre network; sold to Silk Telecom 2006.",
+  "names": [
+    {
+      "name": "Bright Telecommunications",
+      "start_year": 2006,
+      "start_disp": "Dec 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "ABN registration date (Western Power telecom arm)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "Dec 2006",
+      "precision": "exact",
+      "details": "Sold to Silk Telecom."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://itwire.com/it-industry-news/deals/nextgen-networks-buys-silk-telecom.html",
+      "label": "iTWire: Nextgen buys Silk Telecom (2008)"
+    }
+  ]
+}

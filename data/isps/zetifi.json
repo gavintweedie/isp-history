@@ -1,0 +1,31 @@
+{
+  "name": "Zetifi",
+  "slug": "zetifi",
+  "birthplace": "Wagga Wagga, NSW",
+  "status": "active",
+  "website": "https://zetifi.com",
+  "summary": "Rural connectivity company (solar-powered off-grid Wi-Fi/telemetry for farms, then smart antennas); founded 2017 by Dan Winson; A$12M Series A 2022 co-led by Telstra & GrainCorp.",
+  "names": [
+    {
+      "name": "Zetifi",
+      "start_year": 2017,
+      "start_disp": "2017"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "Founded Wagga Wagga NSW."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2018/http://zetifi.com/",
+      "label": "Zetifi (Wayback 2018)"
+    }
+  ]
+}

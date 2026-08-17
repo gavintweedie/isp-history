@@ -1,0 +1,24 @@
+{
+  "name": "Zettagrid",
+  "slug": "zettagrid",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "https://www.zettagrid.com.au",
+  "summary": "Perth cloud/VMware provider; formed ~2010 from ZettaServe's ISP arm (formerly Highway 1); continues as a cloud provider (not a retail ISP).",
+  "names": [
+    {
+      "name": "Zettagrid",
+      "start_year": 2010,
+      "start_disp": "2010"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2010,
+      "date_disp": "2010",
+      "precision": "exact",
+      "details": "Zettagrid Pty Ltd, active from Feb 2010; formed from ZettaServe's ISP arm."
+    }
+  ]
+}

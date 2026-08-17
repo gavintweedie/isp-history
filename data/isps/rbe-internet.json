@@ -1,0 +1,31 @@
+{
+  "name": "RBE Internet",
+  "slug": "rbe-internet",
+  "birthplace": "Balaklava, SA",
+  "status": "inactive",
+  "website": "https://rbe.net.au",
+  "summary": "Regional SA dialup ISP (rbe.net.au, by 1998); defunct.",
+  "names": [
+    {
+      "name": "RBE Internet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Regional dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

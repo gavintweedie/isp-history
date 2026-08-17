@@ -1,0 +1,40 @@
+{
+  "name": "Ace Internet Services",
+  "slug": "ace-internet-services",
+  "birthplace": "Bowral (Southern Highlands), NSW",
+  "status": "active",
+  "website": "https://acenet.com.au",
+  "summary": "Southern Highlands ISP (computer business since 1987, internet from 1996); still active.",
+  "names": [
+    {
+      "name": "Ace Internet Services",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "aliases": [
+    "Australian Commercial Electronics"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Dialup/ISDN then ADSL/NBN, hosting, design."
+    },
+    {
+      "kind": "death",
+      "date_disp": "None",
+      "precision": "exact",
+      "details": "None"
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011218232946/http://www.cynosure.com.au/isp/ace",
+      "label": "Ace (Cynosure 2002)"
+    }
+  ]
+}

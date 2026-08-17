@@ -1,0 +1,31 @@
+{
+  "name": "Crusty DSL",
+  "slug": "crusty-dsl",
+  "birthplace": "Penrith, NSW",
+  "status": "inactive",
+  "website": "https://crustydsl.com.au",
+  "summary": "Business ADSL/SDSL ISP (Crusty Bread Technology Pty Ltd, ~2006); defunct.",
+  "names": [
+    {
+      "name": "Crusty DSL",
+      "start_year": 2006,
+      "start_disp": "c. 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Business ADSL/SDSL."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

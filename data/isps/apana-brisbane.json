@@ -1,0 +1,38 @@
+{
+  "name": "APANA Brisbane node",
+  "slug": "apana-brisbane",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://brisbane.apana.org.au",
+  "summary": "APANA regional hub brisbane.apana.org.au; by 2000 redirected to richardson.apana.org.au (a Brisbane PA site); defunct.",
+  "names": [
+    {
+      "name": "APANA Brisbane node",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "APANA regional structure; Brisbane hub."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Regional nodes folded into the single National Region."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
+      "label": "APANA (Wayback 1997)"
+    }
+  ]
+}

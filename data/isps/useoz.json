@@ -1,0 +1,38 @@
+{
+  "name": "useoz",
+  "slug": "useoz",
+  "birthplace": "Melton, VIC",
+  "status": "inactive",
+  "website": "https://useoz.com",
+  "summary": "Budget dialup ISP (National Data & Security Pty Ltd), $16.95 all-you-can-eat dialup (4-hour sessions); ran layer-2 via an On-Ramp 30 to a house in Melton, splitting traffic over a 30m service + squid proxy behind Telstra cable; administrator appointed 2002, ABN cancelled 2012; dialup base acquired by HotKey Internet.",
+  "names": [
+    {
+      "name": "useoz",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Budget dialup ISP, Melton VIC."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Administrator appointed 31 Oct 2002; dialup base to HotKey; ABN cancelled 2012."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020720135147/http://www.useoz.com/",
+      "label": "useoz (Wayback 2002)"
+    }
+  ]
+}

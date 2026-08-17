@@ -1,0 +1,31 @@
+{
+  "name": "Flow Communications",
+  "slug": "flow-communications",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://flow.com.au",
+  "summary": "Telecom provider ('new force in Australian telecommunications', ~2000); defunct.",
+  "names": [
+    {
+      "name": "Flow Communications",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Telecom services."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Fleet Broadband",
+  "slug": "fleet-broadband",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "fleetbroadband.com.au",
+  "summary": "Perth wholesale Internet infrastructure provider; acquired Paradox Digital c.2001; Eftel (Datafast) was a major investor; became DFT Wholesale.",
+  "names": [
+    {
+      "name": "Fleet Broadband",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Perth wholesale provider; existed by 2001 when it acquired Paradox Digital (Gemini ABN date of 2004 contradicted its 2002 Datafast deal)."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Became a partly-owned subsidiary of Datafast; rebranded DFT Wholesale Internet."
+    }
+  ]
+}

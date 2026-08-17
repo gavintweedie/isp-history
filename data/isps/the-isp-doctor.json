@@ -1,0 +1,31 @@
+{
+  "name": "The ISP Doctor",
+  "slug": "the-isp-doctor",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://ispdr.net.au",
+  "summary": "Small ISP (ispdr.net.au, 'For Complete Internet Solutions', est. 1998); defunct.",
+  "names": [
+    {
+      "name": "The ISP Doctor",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Small ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

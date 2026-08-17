@@ -1,0 +1,38 @@
+{
+  "name": "RegionalConnect",
+  "slug": "regionalconnect",
+  "birthplace": "Regional QLD",
+  "status": "inactive",
+  "website": "https://getonit.com.au",
+  "summary": "Regional QLD ISP ('formerly CairnsNet/AussieWide/GetOnIt'); took over the getonit.com.au domain from Feb 2011.",
+  "names": [
+    {
+      "name": "RegionalConnect",
+      "start_year": 2011,
+      "start_disp": "2011"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2011,
+      "date_disp": "2011",
+      "precision": "exact",
+      "details": "Successor brand to GetOnIt/AussieWide/CairnsNet."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Later wound down."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2011/http://www.regionalconnect.com.au/",
+      "label": "RegionalConnect (Wayback 2011)"
+    }
+  ]
+}

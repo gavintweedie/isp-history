@@ -1,0 +1,38 @@
+{
+  "name": "Internet Plus",
+  "slug": "internet-plus",
+  "birthplace": "Mascot (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://ip.net.au",
+  "summary": "Sydney dialup/dedicated + hosting ISP (a division of Zircon Systems Pty Ltd, ip.net.au; POPs Syd/Melb/Bris/Adel/Perth); went to PSINet (1999) as part of Zircon, then NTG (2002), then Nexon (2003-04).",
+  "names": [
+    {
+      "name": "Internet Plus",
+      "start_year": 1996,
+      "start_disp": "by Dec 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "Internet Plus, division of Zircon Systems (Mascot)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021202222937/http://www.cynosure.com.au/isp/ip",
+      "label": "Internet Plus (Cynosure 2002)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Vianet Australia",
+  "slug": "vianet-australia",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://vianet.net.au",
+  "summary": "One of WA's leading ISPs, founded 1995; acquired by Eftel in 2005.",
+  "names": [
+    {
+      "name": "Vianet Australia",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Vianet Communications Pty Ltd, one of WA's leading ISPs."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Acquired by Eftel; vianet.net.au redirected to w3.eftel.com."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961219062242/http://vianet.net.au/",
+      "label": "Vianet (Wayback 1996)"
+    }
+  ]
+}

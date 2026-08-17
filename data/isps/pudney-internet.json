@@ -1,0 +1,38 @@
+{
+  "name": "Pudney Internet Solutions",
+  "slug": "pudney-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://pudney.net.au",
+  "summary": "Adelaide web dev (since 1993) + hosting (from 1995) provider (Pudney Pty Ltd, director Phillip Pudney); connected via Chariot.",
+  "names": [
+    {
+      "name": "Pudney Internet Solutions",
+      "start_year": 1993,
+      "start_disp": "1993"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1993,
+      "date_disp": "1993",
+      "precision": "exact",
+      "details": "Web development from 1993; hosting from 1995."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991014004641/http://www.pudney.net.au/about/",
+      "label": "Pudney (Wayback 1999)"
+    }
+  ]
+}

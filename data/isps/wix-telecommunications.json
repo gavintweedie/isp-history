@@ -1,0 +1,31 @@
+{
+  "name": "Wix Telecommunications",
+  "slug": "wix-telecommunications",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://wix.com.au",
+  "summary": "Pre-paid dialup provider (~2001); acquired by Blitz Telecom ~2007-08.",
+  "names": [
+    {
+      "name": "Wix Telecommunications",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Pre-paid dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2007-08",
+      "precision": "approx",
+      "details": "Acquired by Blitz Telecom."
+    }
+  ]
+}

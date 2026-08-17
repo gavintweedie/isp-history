@@ -1,0 +1,31 @@
+{
+  "name": "Ozramp",
+  "slug": "ozramp",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://ozramp.com.au",
+  "summary": "Melbourne dialup ISP (oZramp Pty Ltd, 1995, AS9332; later 'full national coverage'); run under Phoneware Online Pty Ltd (also t/a Lexicon Internet Services), which went into administration ~May 2002.",
+  "names": [
+    {
+      "name": "Ozramp",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Melbourne dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "May 2002",
+      "precision": "exact",
+      "details": "Phoneware Online administration."
+    }
+  ]
+}

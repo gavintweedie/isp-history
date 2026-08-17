@@ -1,0 +1,38 @@
+{
+  "name": "Officelink Plus",
+  "slug": "officelink-plus",
+  "birthplace": "Cronulla (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://silvertelecom.com.au",
+  "summary": "Business telecom/ISP (OfficeLink Plus Pty Ltd, ex-ACIS Pty Ltd); business name 'OFFICELINK PLUS' registered to Anittel Communications 2010-2016; brand an AKA of Anittel's network.",
+  "names": [
+    {
+      "name": "Officelink Plus",
+      "start_year": 2004,
+      "start_disp": "Dec 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "Dec 2004",
+      "precision": "exact",
+      "details": "OfficeLink Plus Pty Ltd (ex-ACIS) from Dec 2004."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Parent entity renamed ACIS Consulting (Jul 2010), cancelled 2014."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20090916011600/http://www.silvertelecom.com.au/",
+      "label": "Silver/Officelink (Wayback 2009)"
+    }
+  ]
+}

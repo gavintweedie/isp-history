@@ -1,0 +1,31 @@
+{
+  "name": "Techex Communications",
+  "slug": "techex",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://techex.net.au",
+  "summary": "Melbourne business ISP ('Best Business Broadband', NOC, 24x7 helpdesk, hosting); techex.net.au redirected to techex.com.au by 2002; defunct.",
+  "names": [
+    {
+      "name": "Techex Communications",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Business ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

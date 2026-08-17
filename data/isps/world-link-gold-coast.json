@@ -1,0 +1,31 @@
+{
+  "name": "World Link Internet (Gold Coast)",
+  "slug": "world-link-gold-coast",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "https://worldlink.com.au",
+  "summary": "Gold Coast dialup ISP (worldlink.com.au, no hyphen; local content, ~1995-96); defunct ~2000. NOTE: distinct from Adelaide's World-Link (world-link.com.au).",
+  "names": [
+    {
+      "name": "World Link Internet (Gold Coast)",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

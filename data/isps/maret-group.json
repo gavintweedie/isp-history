@@ -1,0 +1,24 @@
+{
+  "name": "Maret Group",
+  "slug": "maret-group",
+  "birthplace": "Brendale, QLD",
+  "status": "active",
+  "website": "https://maret.com.au",
+  "summary": "Private telecom infrastructure group (acquiring and operating wireless telecom companies); acquired Spirit Technology's fixed-wireless infrastructure 2022. Structure: wireless via MarchNet (New Wave Infrastructure), DC/core via XYZ Telecom (AS38790), which resells MarchNet fixed wireless.",
+  "names": [
+    {
+      "name": "Maret Group",
+      "start_year": 2021,
+      "start_disp": "2021"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2021,
+      "date_disp": "2021",
+      "precision": "exact",
+      "details": "Maret Group Pty Ltd (Brendale QLD)."
+    }
+  ]
+}

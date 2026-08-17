@@ -1,0 +1,31 @@
+{
+  "name": "Caznet",
+  "slug": "caznet",
+  "birthplace": "Adelaide, SA",
+  "status": "active",
+  "website": "https://www.caznet.com.au",
+  "summary": "Adelaide business telco/ISP (site first captured 2005).",
+  "names": [
+    {
+      "name": "Caznet",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Per site schema; Adelaide-based."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050615080955/http://www.caznet.com.au/",
+      "label": "Caznet (Wayback 2005)"
+    }
+  ]
+}

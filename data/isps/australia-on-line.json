@@ -1,0 +1,31 @@
+{
+  "name": "Australia On Line",
+  "slug": "australia-on-line",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://australiaonline.net.au",
+  "summary": "Melbourne ISP + e-business software developer (australiaonline.net.au / ozonline.com.au, 'since 1994'; home/corporate connections, hosting). NOTE: distinct from aol.com.au's Australia OnLine.",
+  "names": [
+    {
+      "name": "Australia On Line",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "ISP + e-business software."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

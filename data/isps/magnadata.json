@@ -1,0 +1,38 @@
+{
+  "name": "Magnadata",
+  "slug": "magnadata",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://magnadata.com.au",
+  "summary": "Early consumer ISP (unlimited dialup); became NTT Australia via Davnet.",
+  "names": [
+    {
+      "name": "Magnadata",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "MagnaData Internet Services (unlimited-data dialup)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 1999-2001",
+      "precision": "approx",
+      "details": "Became NTT Australia (via Davnet)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20110815121522/http://magnadata.com.au/",
+      "label": "magnadata.com.au (Wayback 2011, parked)"
+    }
+  ]
+}

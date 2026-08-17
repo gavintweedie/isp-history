@@ -1,0 +1,31 @@
+{
+  "name": "Silogen",
+  "slug": "silogen",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "silogen.com.au",
+  "summary": "WA IT/ISP firm; absorbed Powerband (2007) and NetServ Communications (c.2007); rebranded Starwon, run by PlanetOzi; services cut off ~Feb 2011.",
+  "names": [
+    {
+      "name": "Silogen",
+      "start_year": 2007,
+      "start_disp": "2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Commenced telecommunications operations 29 May 2007."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "c. Feb 2011",
+      "precision": "approx",
+      "details": "Services cut off; customers churned to Platform Networks/PlanetOzi; ABN cancelled 2010."
+    }
+  ]
+}

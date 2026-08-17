@@ -1,0 +1,38 @@
+{
+  "name": "IDEAL Internet",
+  "slug": "ideal-internet",
+  "birthplace": "Leumeah/Campbelltown, NSW",
+  "status": "inactive",
+  "website": "https://ideal.net.au",
+  "summary": "Macarthur region (SW Sydney) ISP, 'Macarthur's oldest internet service provider'; owner Darren Worley; company sold EoFY 2006 (owner retained the domain).",
+  "names": [
+    {
+      "name": "IDEAL Internet",
+      "start_year": 1994,
+      "start_disp": "mid 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "mid 1994",
+      "precision": "exact",
+      "details": "Ran as a private dialup entity from mid 1994; officially launched commercial services 1 July 1995 (per owner Darren Worley)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Company (IDEAL Internet Pty Ltd) sold end of financial year 2006; owner retained *.au domain and phone numbers."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970606200519/http://www.ideal.net.au/",
+      "label": "IDEAL Internet (Wayback 1997)"
+    }
+  ]
+}

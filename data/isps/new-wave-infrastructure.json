@@ -1,0 +1,24 @@
+{
+  "name": "New Wave Infrastructure",
+  "slug": "new-wave-infrastructure",
+  "birthplace": "Brendale, QLD",
+  "status": "active",
+  "website": "https://newwave.net.au",
+  "summary": "Wholesale operator of fixed-wireless & 5G networks (Maret Infrastructure Pty Ltd, reg. 16 Dec 2021; renamed New Wave Infrastructure 28 Jun 2025; relocated to VIC 2025); 650+ PoPs; still active.",
+  "names": [
+    {
+      "name": "New Wave Infrastructure",
+      "start_year": 2021,
+      "start_disp": "16 Dec 2021"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2021,
+      "date_disp": "16 Dec 2021",
+      "precision": "exact",
+      "details": "Maret Infrastructure Pty Ltd registered (ACN 656 106 044)."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bendigo Community Telco",
+  "slug": "bendigo-community-telco",
+  "birthplace": "Bendigo, VIC",
+  "status": "inactive",
+  "website": "https://bendigotelco.com.au",
+  "summary": "Bendigo community phone company (2001; local/STD/ISD calls + internet); defunct.",
+  "names": [
+    {
+      "name": "Bendigo Community Telco",
+      "start_year": 2001,
+      "start_disp": "2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Community telecom + internet."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

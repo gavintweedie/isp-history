@@ -1,0 +1,24 @@
+{
+  "name": "Spirit Telecom",
+  "slug": "spirit-telecom",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.spirit.com.au",
+  "summary": "FTTB apartment fibre + wireless ISP; acquired Voxcom (2012), My Telecom (2015), Phone Names + World Without Wires (2017), LinkOne (2019); renamed Spirit Technology Solutions (2020) then Infotrust (2025).",
+  "names": [
+    {
+      "name": "Spirit Telecom",
+      "start_year": 2004,
+      "start_disp": "2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Spirit Telecom (Australia) Pty Ltd, Melbourne."
+    }
+  ]
+}

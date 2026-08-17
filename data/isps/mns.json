@@ -1,0 +1,31 @@
+{
+  "name": "MNS",
+  "slug": "mns",
+  "birthplace": "WA",
+  "status": "inactive",
+  "website": "mns.net.au",
+  "summary": "Perth-area ISP, post-IPO iiNet acquisition.",
+  "names": [
+    {
+      "name": "MNS",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of mns.net.au Jan 1997."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

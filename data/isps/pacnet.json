@@ -1,0 +1,38 @@
+{
+  "name": "Pacnet",
+  "slug": "pacnet",
+  "birthplace": "Singapore",
+  "status": "inactive",
+  "website": "pacnet.com",
+  "summary": "Result of the 2008 Pacific Internet + Asia Netcom merger; acquired by Telstra 2015.",
+  "names": [
+    {
+      "name": "Pacnet",
+      "start_year": 2008,
+      "start_disp": "2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Pacnet formed 8 Jan 2008."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "Acquired by Telstra (completed April 2015)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pacnet",
+      "label": "Wikipedia: Pacnet"
+    }
+  ]
+}

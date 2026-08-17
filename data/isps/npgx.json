@@ -1,0 +1,38 @@
+{
+  "name": "NPGX",
+  "slug": "npgx",
+  "birthplace": "Liverpool (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://npgx.com.au",
+  "summary": "BBS/filebase/email/telnet/ftp/web + online gaming provider (Liverpool POP); defunct.",
+  "names": [
+    {
+      "name": "NPGX",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "Operating by 10 Apr 1997."
+    },
+    {
+      "kind": "death",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 1997)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021221000000/http://www.cynosure.com.au/isp/npgx",
+      "label": "NPGX (Cynosure 2002)"
+    }
+  ]
+}

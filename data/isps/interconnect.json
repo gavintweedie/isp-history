@@ -1,0 +1,38 @@
+{
+  "name": "InterConnect Australia",
+  "slug": "interconnect",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://connect.com.au",
+  "summary": "Early Australian ISP; supported as a direct product of connect.com.au by late 1996.",
+  "names": [
+    {
+      "name": "InterConnect Australia",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by 1995",
+      "precision": "by",
+      "details": "Early commercial ISP; earliest reference."
+    },
+    {
+      "kind": "death",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Absorbed into connect.com.au."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961230115711/http://www.interconnect.com.au/",
+      "label": "InterConnect (Wayback 1996)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "BigAir",
+  "slug": "bigair",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "bigair.com.au",
+  "summary": "Enterprise fixed-wireless network provider; acquired Unistar/Star-Tech (2010), AccessPlus (2011), Clever (2011), Allegro (2012), Link Innovations (2012), Intelligent IP (2013), Anittel (2014), Everywhere Internet (2015), IDL (2015); acquired by Superloop.",
+  "names": [
+    {
+      "name": "BigAir",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Founded as BigAir (fixed wireless)."
+    },
+    {
+      "kind": "death",
+      "year": 2016,
+      "date_disp": "2016",
+      "precision": "exact",
+      "details": "Acquired by Superloop (~A$104m)."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Symbio",
+  "slug": "symbio",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "symbio.com.au",
+  "summary": "Wholesale telecoms business; acquired by Aussie Broadband after Superloop withdrew.",
+  "names": [
+    {
+      "name": "Symbio",
+      "start_year": 2024,
+      "start_disp": "2024"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Founded as Symbio Networks by Rene Sugo and Andy Miller."
+    },
+    {
+      "kind": "death",
+      "year": 2024,
+      "date_disp": "2024",
+      "precision": "exact",
+      "details": "Acquired by Aussie Broadband (completed 28 Feb 2024)."
+    }
+  ]
+}

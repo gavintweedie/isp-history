@@ -1,0 +1,38 @@
+{
+  "name": "Crox Developments",
+  "slug": "crox-developments",
+  "birthplace": "Midland (Perth), WA",
+  "status": "inactive",
+  "website": "https://crox.com.au",
+  "summary": "Perth IT & telecoms company (trading name of the Crockett Family Trust, from 2003); IT management, VoIP/PABX, business internet; brand an AKA of Anittel's network (AS7631); later name reused by a Perth computer retailer.",
+  "names": [
+    {
+      "name": "Crox Developments",
+      "start_year": 2003,
+      "start_disp": "Feb 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "Feb 2003",
+      "precision": "exact",
+      "details": "Crox Development trading name active from 4 Feb 2003."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Brand folded into the Anittel web (AS7631)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20070204060133/http://www.crox.com.au/",
+      "label": "Crox (Wayback 2007)"
+    }
+  ]
+}

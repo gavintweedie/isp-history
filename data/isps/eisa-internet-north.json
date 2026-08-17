@@ -1,0 +1,37 @@
+{
+  "name": "Eisa Internet North",
+  "slug": "eisa-internet-north",
+  "birthplace": "Woree (Cairns), QLD",
+  "status": "inactive",
+  "website": "https://internetnorth.com.au",
+  "summary": "First and biggest ISP in Far North Queensland (~4500+ clients; POPs Cairns, Mossman, Innisfail, Atherton); an Eisa-branded operation; defunct.",
+  "names": [
+    {
+      "name": "Eisa Internet North",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "~4 years service as of 2000."
+    },
+    {
+      "kind": "death",
+      "date_disp": "None",
+      "precision": "exact",
+      "details": "None"
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021203150211/http://www.cynosure.com.au/isp/internetnorth",
+      "label": "Internet North (Cynosure 2002)"
+    }
+  ]
+}

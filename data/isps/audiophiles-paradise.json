@@ -1,0 +1,38 @@
+{
+  "name": "Audiophiles Paradise",
+  "slug": "audiophiles-paradise",
+  "birthplace": "Mentone (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://vds.net.au",
+  "summary": "Melbourne dialup + network consultancy ISP (audiophiles.com.au / vds.net.au); operated as a Video Data Service (VDS) service/domain; defunct.",
+  "names": [
+    {
+      "name": "Audiophiles Paradise",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active capture of vds.net.au (Feb 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030202152342/http://www.cynosure.com.au/isp/audio",
+      "label": "Audiophiles (Cynosure 2003)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Soft-Tech Information Services",
+  "slug": "soft-tech-information",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://st.net.au",
+  "summary": "Brisbane BBS + ISP (Soft-Tech, ~1996); defunct.",
+  "names": [
+    {
+      "name": "Soft-Tech Information Services",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "BBS + ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Spitfire Internet",
+  "slug": "spitfire-internet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://spitfire.net.au",
+  "summary": "Canberra dialup/ADSL/TransACT ISP + IT services (Spitfire Internet Services Pty Ltd, ~1999); merged into CBIT Internet 2 Feb 2009.",
+  "names": [
+    {
+      "name": "Spitfire Internet",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Canberra ISP + IT services."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "Feb 2009",
+      "precision": "exact",
+      "details": "Merged into CBIT Internet (2 Feb 2009)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2017/http://spitfire.net.au/",
+      "label": "Spitfire redirect (Wayback 2017)"
+    }
+  ]
+}

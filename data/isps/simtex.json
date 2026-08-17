@@ -1,0 +1,38 @@
+{
+  "name": "Simtex",
+  "slug": "simtex",
+  "birthplace": "Osborne Park, Perth, WA",
+  "status": "inactive",
+  "website": "https://simtex.com.au",
+  "summary": "Perth VoIP/SIP provider; origin as Up'N'Away's VoIP arm, acquired by Highway 1 in 2009; later a division of Highway 1 (ZettaNet), now a division of Zettagrid.",
+  "names": [
+    {
+      "name": "Simtex",
+      "start_year": 2004,
+      "start_disp": "2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Simtex Communications (from Platinum Calling); VoIP/SIP."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "2009",
+      "precision": "exact",
+      "details": "Acquired by Highway 1 (user report; Up'N'Away VoIP)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20120426220420/http://www.simtex.com.au/about-us/",
+      "label": "Simtex about (Wayback 2012)"
+    }
+  ]
+}

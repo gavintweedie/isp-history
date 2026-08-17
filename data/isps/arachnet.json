@@ -1,0 +1,38 @@
+{
+  "name": "Arachnet",
+  "slug": "arachnet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://arachnet.com.au",
+  "summary": "Perth ISP founded 1996; acquired by Amcom Telecommunications c.2005.",
+  "names": [
+    {
+      "name": "Arachnet",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Founded June 1996; sister company of WAData."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Acquired by Amcom Telecommunications; site redirected to amcom.com.au/arachnet by 2006."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040902040024/http://www.arachnet.com.au/about/company_profile/",
+      "label": "Arachnet company profile (Wayback 2004)"
+    }
+  ]
+}

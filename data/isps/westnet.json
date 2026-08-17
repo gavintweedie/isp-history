@@ -1,0 +1,31 @@
+{
+  "name": "Westnet",
+  "slug": "westnet",
+  "birthplace": "Geraldton/Perth, WA",
+  "status": "inactive",
+  "website": "westnet.com.au",
+  "summary": "WA ISP, founded in Geraldton, moved to Perth; acquired by iiNet for $81M in 2008.",
+  "names": [
+    {
+      "name": "Westnet",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Founded by Chris and Rhonda Thomas in Geraldton WA; moved to Perth 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Acquired by iiNet for $81 million."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Lemon APANA node",
+  "slug": "lemon-apana",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://lemon.apana.org.au",
+  "summary": "APANA node lemon.apana.org.au (originally arrakis.apana.org.au, which sold internet access), renamed lemon in 1995; merged with box.apana.org.au late 1995 to form South Australian Technologies (SATECH).",
+  "names": [
+    {
+      "name": "Lemon APANA node",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "arrakis.apana.org.au renamed lemon.apana.org.au in 1995."
+    },
+    {
+      "kind": "death",
+      "year": 1995,
+      "date_disp": "late 1995",
+      "precision": "exact",
+      "details": "Merged with box to form SATECH (satech.net.au)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
+      "label": "APANA (Wayback 1997)"
+    }
+  ]
+}

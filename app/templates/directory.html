@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}Directory — Australian ISP Family Tree{% endblock %}
+{% block tabs %}
+<div class="tabs">
+  <a class="tablink" href="{{ url_for('index') }}#tree">Tree</a>
+  <a class="tablink" href="{{ url_for('index') }}#timeline">Timeline</a>
+  <a class="tablink active" href="{{ url_for('directory') }}">Directory</a>
+</div>
+{% endblock %}
+{% block content %}
+<p class="hint">Text listing of every ISP in the database.
+  Click a name to view its full record.
+  Domain is the ISP's own website, or the host of its oldest archived reference.
+  Data is maintained via pull request — see the project README.</p>
+<div class="filterbar">
+  <label for="dir-search">Filter:</label>
+  <input type="search" id="dir-search" placeholder="Type a name or domain…" autocomplete="off">
+  <span class="checkgroup" role="group" aria-label="Status filters">
+    <span class="checkgroup-label">Status</span>
+    <label><input type="checkbox" id="dir-active" checked> active</label>
+    <label><input type="checkbox" id="dir-inactive" checked> inactive</label>
+    <label><input type="checkbox" id="dir-unknown" checked> unknown</label>
+  </span>
+  <span id="dir-count" class="hint"></span>
+</div>
+<table id="dir-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Domain</th>
+      <th>Birth</th>
+      <th>Death</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for e in entries %}
+      <tr data-name="{{ e.name }}" data-domain="{{ e.domain }}" data-status="{{ e.status }}">
+        <td><a href="{{ e.url }}">{{ e.name }}</a>
+          <span class="status {{ e.status }}">{{ e.status }}</span></td>
+        <td>{{ e.domain }}</td>
+        <td>{{ e.birth_disp or e.birth_year or '' }}</td>
+        <td>{{ e.death_disp or e.death_year or '' }}</td>
+      </tr>
+    {% else %}
+      <tr><td colspan="4" class="empty">No ISPs recorded.</td></tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}
+{% block scripts %}
+<script src="{{ url_for('static', filename='directory.js') }}"></script>
+{% endblock %}

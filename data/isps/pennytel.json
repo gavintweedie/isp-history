@@ -1,0 +1,24 @@
+{
+  "name": "Pennytel",
+  "slug": "pennytel",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.pennytel.com.au",
+  "summary": "Sydney VoIP/telecom provider that acquired several business telcos including Connexus.",
+  "names": [
+    {
+      "name": "Pennytel",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Pennytel founded in Sydney."
+    }
+  ]
+}

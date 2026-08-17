@@ -1,0 +1,38 @@
+{
+  "name": "Goldweb Internet",
+  "slug": "goldweb-internet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://goldweb.com.au",
+  "summary": "Canberra dialup then ADSL ISP; defunct ~2012.",
+  "names": [
+    {
+      "name": "Goldweb Internet",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Dialup, later ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Defunct (domain reused)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980127101903/http://www.goldweb.com.au/",
+      "label": "Goldweb (Wayback 1998)"
+    }
+  ]
+}

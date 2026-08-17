@@ -1,0 +1,38 @@
+{
+  "name": "Pipe Networks",
+  "slug": "pipe-networks",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://pipe.net.au",
+  "summary": "Brisbane corporate data/telecom provider (PIPE = Public Internet Peering Exchange), founded 2001 by Bevan Slattery & Steve Baxter; metro fibre (from May 2002), data centres, dark fibre, corporate/wholesale internet backhaul (not a consumer ISP); listed ASX 2005 (PWK); acquired by TPG (SP Telemedia) 2010 (~$373M); fibre later to Vocus 2025.",
+  "names": [
+    {
+      "name": "Pipe Networks",
+      "start_year": 2001,
+      "start_disp": "2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "PIPE Networks founded (Brisbane)."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "Mar 2010",
+      "precision": "exact",
+      "details": "Acquired by TPG/SP Telemedia (~$373M, approved 17 Mar 2010)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/PIPE_Networks",
+      "label": "Wikipedia: PIPE Networks"
+    }
+  ]
+}

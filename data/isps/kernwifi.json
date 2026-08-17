@@ -1,0 +1,31 @@
+{
+  "name": "KernWi-Fi",
+  "slug": "kernwifi",
+  "birthplace": "Adelaide, SA",
+  "status": "active",
+  "website": "https://kernwifi.com.au",
+  "summary": "Adelaide NBN/fixed-wireless/VoIP provider, founded ~2016.",
+  "names": [
+    {
+      "name": "KernWi-Fi",
+      "start_year": 2016,
+      "start_disp": "c. 2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "c. 2016",
+      "precision": "approx",
+      "details": "KernWi-Fi Pty Ltd, site live since 2017."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20170601000000/https://kernwifi.com.au/",
+      "label": "KernWi-Fi (Wayback 2017)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Zeta Internet",
+  "slug": "zeta-internet",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://zeta.org.au",
+  "summary": "One of Australia's earliest ISPs (Zeta Microcomputer Software, later Kralizec Pty Ltd); family-owned by Nick and Masami Andrew; Riverstone POP (02 9837 exchange) for western-Sydney local calls; acquired by Pacific Internet Dec 1999.",
+  "names": [
+    {
+      "name": "Zeta Internet",
+      "start_year": 1994,
+      "start_disp": "May 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "May 1994",
+      "precision": "exact",
+      "details": "First commercial Internet access (9600bps, 3 dial-in lines); BBS from 1985; domain zeta.org.au 1991."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "Dec 1999",
+      "precision": "exact",
+      "details": "Acquired by Pacific Internet (with Hub Communications, ~7,000 subscribers)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000524033055/http://www.zeta.org.au/timeline.html",
+      "label": "Zeta timeline (Wayback 2000)"
+    }
+  ]
+}

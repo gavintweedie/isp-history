@@ -1,0 +1,38 @@
+{
+  "name": "PowerUp",
+  "slug": "powerup",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://powerup.com.au",
+  "summary": "Brisbane ISP, began as a community BBS (Morningside, Lloyd Ernst); became Qld's largest ISP; spun off WebCentral; sold to OzEmail.",
+  "names": [
+    {
+      "name": "PowerUp",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by 1995",
+      "precision": "by",
+      "details": "Major early Queensland ISP; earliest Wayback capture of powerup.com.au."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Sold to OzEmail; PowerUp split and WebCentral was formed."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000303092740/http://www.home.powerup.com.au/about.htm",
+      "label": "PowerUp about (Wayback 2000)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Eftel",
+  "slug": "eftel",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "eftel.com",
+  "summary": "ISP (formerly Datafast) that grew by acquisitions; completed a reverse takeover by ClubTelco 2011 (ClubTelco interests took 75.6% of the listed shell); acquired by M2 Group 2013, closed 2022.",
+  "names": [
+    {
+      "name": "Eftel",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Predecessor Datafast commenced in Victoria; Eftel ISP brand from 2000 in Perth."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "2013",
+      "precision": "exact",
+      "details": "Reverse takeover by ClubTelco 2011; acquired by M2 Group (~A$44.1m); business unit closed 2022."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eftel",
+      "label": "Wikipedia: Eftel"
+    }
+  ]
+}

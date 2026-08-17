@@ -1,0 +1,38 @@
+{
+  "name": "AIT Communications",
+  "slug": "ait-communications",
+  "birthplace": "Blackburn (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://aitnet.net",
+  "summary": "Melbourne national dialup ISP (Australian Internet Technologies); ceased operations by ~2000.",
+  "names": [
+    {
+      "name": "AIT Communications",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1999)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Cynosure delisted: provider ceased operations."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020421052249/http://www.cynosure.com.au/isp/aitnet",
+      "label": "AIT (Cynosure 2002)"
+    }
+  ]
+}

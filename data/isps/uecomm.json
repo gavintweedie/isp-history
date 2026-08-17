@@ -1,0 +1,38 @@
+{
+  "name": "Uecomm",
+  "slug": "uecomm",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://uecomm.com.au",
+  "summary": "Corporate fibre network/enterprise IP provider (from United Energy Telecom); acquired by Optus.",
+  "names": [
+    {
+      "name": "Uecomm",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "United Energy Telecommunications founded 1996; renamed Uecomm 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Aug 2004",
+      "precision": "exact",
+      "details": "Acquired by Optus (~A$227m)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uecomm",
+      "label": "Wikipedia: Uecomm"
+    }
+  ]
+}

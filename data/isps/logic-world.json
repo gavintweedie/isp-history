@@ -1,0 +1,38 @@
+{
+  "name": "Logic World",
+  "slug": "logic-world",
+  "birthplace": "Underwood (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://logicworld.com.au",
+  "summary": "Brisbane full-service ISP (LogicWorld Pty Ltd, ACN 076 084 743, ~1996; dialup, ISDN, virtual domains, hosting; 'Logic Dimensions' was its hardware/software division); absorbed by Fuzion Pty Ltd by 2002.",
+  "names": [
+    {
+      "name": "Logic World",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Dialup, ISDN, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "by Nov 2002",
+      "precision": "by",
+      "details": "Absorbed by Fuzion Pty Ltd."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990427014623/http://www.logicworld.com.au/",
+      "label": "Logic World (Wayback 1999)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Pacific Internet",
+  "slug": "pacific-internet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "pacific.net.sg",
+  "summary": "Singapore's Pacific Internet's Australia arm (1999); merged into Pacnet 2008.",
+  "names": [
+    {
+      "name": "Pacific Internet",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Entered Australia by acquiring Australian ISPs incl. Zip World (Sydney)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Merged with Asia Netcom to form Pacnet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pacnet",
+      "label": "Wikipedia: Pacnet"
+    }
+  ]
+}

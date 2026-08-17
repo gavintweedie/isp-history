@@ -1,0 +1,31 @@
+{
+  "name": "Maxx Communications",
+  "slug": "maxx-communications",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://maxxcomm.com.au",
+  "summary": "Melbourne dialup/ADSL/wireless ISP (MaxxComm / Hyperdrive, ~2006); defunct.",
+  "names": [
+    {
+      "name": "Maxx Communications",
+      "start_year": 2006,
+      "start_disp": "c. 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Dialup, ADSL, wireless."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

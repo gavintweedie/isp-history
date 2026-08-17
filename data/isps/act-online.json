@@ -1,0 +1,38 @@
+{
+  "name": "ACT Online",
+  "slug": "act-online",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://actonline.com.au",
+  "summary": "Canberra premium dialup ISP (parent CyberOne Pty Ltd); wound down c.2010-15.",
+  "names": [
+    {
+      "name": "ACT Online",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2010-15",
+      "precision": "approx",
+      "details": "Wound down; domain later parked."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020611181659/http://www.cynosure.com.au/isp/actonline",
+      "label": "ACT Online (Cynosure 2002)"
+    }
+  ]
+}

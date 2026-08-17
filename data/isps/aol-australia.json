@@ -1,0 +1,43 @@
+{
+  "name": "AOL Australia",
+  "slug": "aol-australia",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://aol.net.au",
+  "summary": "America Online's Australian service; 50/50 JV with Bertelsmann announced Oct 1997, launched 1998 (dialup + AOL portal); restructured as AOL7 with Seven Network (from 2002), later Primus-AOL (2004); AOL access for Australian subscribers withdrawn 31 May 2010; AOL7 ABN cancelled 2012.",
+  "names": [
+    {
+      "name": "AOL Australia",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "AOL Australia JV announced 7 Oct 1997 (with Bertelsmann); service launched 1998 (beta from late April 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "May 2010",
+      "precision": "exact",
+      "details": "AOL dialup/broadband access withdrawn 31 May 2010; ABN cancelled 1 Jun 2012."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980425150741/http://aol.net.au/",
+      "label": "AOL Australia (Wayback 1998)"
+    },
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AOL",
+      "label": "Wikipedia: AOL"
+    }
+  ]
+}

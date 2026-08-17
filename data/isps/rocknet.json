@@ -1,0 +1,31 @@
+{
+  "name": "RockNet",
+  "slug": "rocknet",
+  "birthplace": "Rockhampton, QLD",
+  "status": "inactive",
+  "website": "rocknet.com.au",
+  "summary": "Rockhampton/Central Queensland ISP.",
+  "names": [
+    {
+      "name": "RockNet",
+      "start_year": 2002,
+      "start_disp": "early 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "RockNet Pty Ltd, ACN 078 300 135 (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "early 2002",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

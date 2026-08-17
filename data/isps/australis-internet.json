@@ -1,0 +1,38 @@
+{
+  "name": "Australis Internet",
+  "slug": "australis-internet",
+  "birthplace": "Stafford (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://australis.net",
+  "summary": "Brisbane dialup ISP (~30 POPs QLD/NSW/WA/NT, city prices to regional Australia); shared network with Blaze (aunz.com group); dead.",
+  "names": [
+    {
+      "name": "Australis Internet",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Online from 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active capture of australis.aunz.com (Sep 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021219071429/http://www.cynosure.com.au/isp/australis2",
+      "label": "Australis (Cynosure 2002)"
+    }
+  ]
+}

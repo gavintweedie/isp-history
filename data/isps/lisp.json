@@ -1,0 +1,38 @@
+{
+  "name": "LiSP",
+  "slug": "lisp",
+  "birthplace": "Lithgow, NSW",
+  "status": "inactive",
+  "website": "https://lisp.com.au",
+  "summary": "Regional NSW ISP (LiSP Pty Ltd, 'Local Internet Service Provider, Penrith and Blue Mountains to Bourke'; ©1995-2007); dialup, ADSL, wireless (Lithgow), IPSTAR satellite; split ~2008 with wireless arm to Cirrus Communications and satellite to GoBush; satellite service cut off by IPSTAR ~Oct 2008.",
+  "names": [
+    {
+      "name": "LiSP",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "LiSP (Lithgow) in operation from 1995-96."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Wireless to Cirrus, satellite collapsed ~Oct 2008."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080915170125/http://www.lisp.com.au/",
+      "label": "LiSP (Wayback 2008)"
+    }
+  ]
+}

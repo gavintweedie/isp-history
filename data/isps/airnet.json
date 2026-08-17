@@ -1,0 +1,38 @@
+{
+  "name": "Airnet",
+  "slug": "airnet",
+  "birthplace": "South Australia",
+  "status": "inactive",
+  "website": "https://airnet.net.au",
+  "summary": "Small SA ISP (airnet.net.au); domain parked from Sep 2001.",
+  "names": [
+    {
+      "name": "Airnet",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of airnet.net.au."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Domain parked by NetRegistry from Sep 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010902140929/http://airnet.net.au/",
+      "label": "airnet.net.au (Wayback 2001, parked)"
+    }
+  ]
+}

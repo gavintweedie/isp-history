@@ -1,0 +1,38 @@
+{
+  "name": "Australian Internet Company",
+  "slug": "australian-internet-company",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://aic.net.au",
+  "summary": "Sydney dialup ISP (aic.net.au); dead ~2009.",
+  "names": [
+    {
+      "name": "Australian Internet Company",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 1998)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021019233609/http://www.cynosure.com.au/isp/aic",
+      "label": "AIC (Cynosure 2002)"
+    }
+  ]
+}

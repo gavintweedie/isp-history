@@ -1,0 +1,31 @@
+{
+  "name": "Infinite Data",
+  "slug": "infinite-data",
+  "birthplace": "WA",
+  "status": "inactive",
+  "website": "infinitedata.com.au",
+  "summary": "Perth-area ISP, post-IPO iiNet acquisition.",
+  "names": [
+    {
+      "name": "Infinite Data",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Oct 1998",
+      "precision": "by",
+      "details": "Company registered (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

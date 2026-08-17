@@ -1,0 +1,38 @@
+{
+  "name": "Bondi Internet Services",
+  "slug": "bondi-internet-services",
+  "birthplace": "Bondi Junction (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://bondinet.com.au",
+  "summary": "Sydney dialup ISP (BondiNet); dead by ~2002.",
+  "names": [
+    {
+      "name": "Bondi Internet Services",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Dialup 56k, web hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Dead (site dark after Nov 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011130120501/http://www.bondinet.com.au/",
+      "label": "BondiNet (Wayback 2001)"
+    }
+  ]
+}

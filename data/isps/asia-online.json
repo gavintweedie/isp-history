@@ -1,0 +1,38 @@
+{
+  "name": "Asia Online",
+  "slug": "asia-online",
+  "birthplace": "Hong Kong / Sydney, NSW",
+  "status": "inactive",
+  "website": "https://asiaonline.net",
+  "summary": "Pan-Asia-Pacific ISP (Softbank-led from 1999); acquired Access Australia, InterACT, Internet Company NZ (Oct 1999), then Spirit Internet, Brisbane Internet Technology, Dove, Message Exchange; Australian ops in Sydney/Adelaide/Melbourne; went bust late 2001, subscriber base to OzEmail.",
+  "names": [
+    {
+      "name": "Asia Online",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Asia Online Ltd formed from Softbank-led consortium adopting the Asia Online name."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Went bust late 2001; dial-up subscriber base sold to OzEmail."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961029091429/http://www.asiaonline.net/",
+      "label": "Asia On-Line (Wayback 1996)"
+    }
+  ]
+}

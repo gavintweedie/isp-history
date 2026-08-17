@@ -1,0 +1,38 @@
+{
+  "name": "Ocean Broadband",
+  "slug": "ocean-broadband",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://oceanbroadband.com.au",
+  "summary": "Perth fixed-wireless ISP (Ocean Broadband Ltd, ACN 110 380 820, founded 5 Aug 2004; ABG-subsidised rural wireless south of Perth); exited NSW ~Feb 2010; network run by Daniel Mills ('Ocean Broadband Mk2', AS38595); acquired by Red Broadband mid-2015; deregistered 10 Jan 2021.",
+  "names": [
+    {
+      "name": "Ocean Broadband",
+      "start_year": 2004,
+      "start_disp": "5 Aug 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "5 Aug 2004",
+      "precision": "exact",
+      "details": "Ocean Broadband Ltd registered (Nedlands, Perth)."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "mid-2015",
+      "precision": "exact",
+      "details": "Acquired by Red Broadband; deregistered 2021."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2009/http://www.oceanbroadband.com.au/",
+      "label": "Ocean Broadband (Wayback 2009)"
+    }
+  ]
+}

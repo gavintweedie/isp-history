@@ -1,0 +1,31 @@
+{
+  "name": "My Telecom",
+  "slug": "my-telecom",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "mytelecom.com.au",
+  "summary": "Telecom (My Telecom Holdings Pty Ltd, ACN 080 661 525; originally J.B.V.W Pty Ltd); acquired by Spirit Telecom 2015.",
+  "names": [
+    {
+      "name": "My Telecom",
+      "start_year": 1997,
+      "start_disp": "6 Nov 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "6 Nov 1997",
+      "precision": "exact",
+      "details": "Incorporated (as J.B.V.W Pty Ltd); renamed My Telecom Holdings 2017."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "Acquired by Spirit Telecom."
+    }
+  ]
+}

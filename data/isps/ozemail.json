@@ -1,0 +1,31 @@
+{
+  "name": "OzEmail",
+  "slug": "ozemail",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://www.ozemail.com.au",
+  "summary": "Major early Australian ISP; listed on NASDAQ (1996) and ASX; bought by MCI WorldCom in 1999; retail assets sold to iiNet in 2005.",
+  "names": [
+    {
+      "name": "OzEmail",
+      "start_year": 1992,
+      "start_disp": "1992"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1992,
+      "date_disp": "1992",
+      "precision": "exact",
+      "details": "Founded by Sean Howard as Oz-E-mail; relaunched as ISP OzEmail in 1994."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Retail/internet assets acquired by iiNet on 28 Feb 2005; brand discontinued."
+    }
+  ]
+}

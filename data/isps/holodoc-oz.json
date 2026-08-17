@@ -1,0 +1,38 @@
+{
+  "name": "Holodoc OZ",
+  "slug": "holodoc-oz",
+  "birthplace": "East Doncaster, Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://holodoc.net.au",
+  "summary": "Melbourne ISP/dial-up + web hosting (holodoc.net.au), also a medical-info portal; acquired by Amaze Communications Aug 2000.",
+  "names": [
+    {
+      "name": "Holodoc OZ",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Holodoc OZ Internet, north-eastern Melbourne."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "Aug 2000",
+      "precision": "exact",
+      "details": "Acquired by Amaze Communications (Sydney); access ceased Oct 2000."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000821230704/http://www.holodoc.net.au/",
+      "label": "Holodoc OZ (Wayback 2000)"
+    }
+  ]
+}

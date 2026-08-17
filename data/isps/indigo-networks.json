@@ -1,0 +1,31 @@
+{
+  "name": "Indigo Networks",
+  "slug": "indigo-networks",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "indigo.net.au",
+  "summary": "Perth ISP; took over Omon's business c.2001, then acquired by Ace Online 2002.",
+  "names": [
+    {
+      "name": "Indigo Networks",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "WA internet provider, operational by Oct 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Acquired by Ace Online."
+    }
+  ]
+}

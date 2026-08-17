@@ -1,0 +1,31 @@
+{
+  "name": "Netbay Internet",
+  "slug": "netbay-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://netbay.com.au",
+  "summary": "Home/business dialup + internet solutions ISP (Netbay Internet Pty Ltd, ~2000); defunct.",
+  "names": [
+    {
+      "name": "Netbay Internet",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

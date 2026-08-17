@@ -1,0 +1,38 @@
+{
+  "name": "Internet Academy",
+  "slug": "internet-academy",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://academy.net.au",
+  "summary": "Small Adelaide ISP (academy.net.au) + web design + internet training; defunct ~2003.",
+  "names": [
+    {
+      "name": "Internet Academy",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Adelaide ISP/web design/training (site from Dec 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct by ~2003 (no sale recorded)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961219144521/http://www.academy.net.au/",
+      "label": "Internet Academy (Wayback 1996)"
+    }
+  ]
+}

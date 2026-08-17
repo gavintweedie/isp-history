@@ -1,0 +1,38 @@
+{
+  "name": "Global Info-Links",
+  "slug": "global-info-links",
+  "birthplace": "Ipswich, QLD",
+  "status": "inactive",
+  "website": "https://gil.com.au",
+  "summary": "Ipswich regional ISP, began as an Ipswich City Council initiative (1994); shares acquired by iTEL Community Telco 2001; brand later South East Qld Community Telco / Bendigo Bank Telco.",
+  "names": [
+    {
+      "name": "Global Info-Links",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Ipswich City Council information services initiative (gil.com.au from 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "Sep 2001",
+      "precision": "exact",
+      "details": "All shares acquired by iTEL Community Telco (3 Sep 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961221165638/http://gil.com.au/",
+      "label": "GIL (Wayback 1996)"
+    }
+  ]
+}

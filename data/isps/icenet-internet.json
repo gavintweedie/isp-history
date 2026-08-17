@@ -1,0 +1,38 @@
+{
+  "name": "Icenet Internet Services",
+  "slug": "icenet-internet",
+  "birthplace": "East Perth, WA",
+  "status": "inactive",
+  "website": "https://icenet.com.au",
+  "summary": "Perth dialup + networking consultancy ISP (LAN, wireless, VPN, co-location, hosting); dead ~2008.",
+  "names": [
+    {
+      "name": "Icenet Internet Services",
+      "start_year": 1996,
+      "start_disp": "by Dec 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "In directory from Dec 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Last capture Nov 2008."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20081121143720/http://icenet.com.au/",
+      "label": "Icenet (Wayback 2008)"
+    }
+  ]
+}

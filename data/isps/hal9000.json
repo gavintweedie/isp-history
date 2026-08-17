@@ -1,0 +1,31 @@
+{
+  "name": "HAL9000 Networking",
+  "slug": "hal9000",
+  "birthplace": "South Australia",
+  "status": "inactive",
+  "website": "https://hal9000.net.au",
+  "summary": "Early SA dialup + hosting ISP (site from Dec 1996); defunct.",
+  "names": [
+    {
+      "name": "HAL9000 Networking",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Dialup, web hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

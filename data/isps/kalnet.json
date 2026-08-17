@@ -1,0 +1,38 @@
+{
+  "name": "Kalnet",
+  "slug": "kalnet",
+  "birthplace": "Kalgoorlie-Boulder, WA",
+  "status": "inactive",
+  "website": "https://kalnet.com.au",
+  "summary": "Kalgoorlie ISP (Kalnet Internet Services); ran own Cisco AS5200s buying transit/IPs from Emerge; exited ISP business ~2011-12, pivoted to hosting (Ausmade).",
+  "names": [
+    {
+      "name": "Kalnet",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Kalnet Internet Services, Kalgoorlie-Boulder (first capture Nov 1999)."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "c. 2011-12",
+      "precision": "approx",
+      "details": "Rebranded from 'Internet Services' to 'Computer Services' (hosting)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991127183522/http://kalnet.com.au/",
+      "label": "Kalnet (Wayback 1999)"
+    }
+  ]
+}

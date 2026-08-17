@@ -1,0 +1,24 @@
+{
+  "name": "Future Broadband",
+  "slug": "future-broadband",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "https://futurebroadband.com.au",
+  "summary": "Perth NBN/fixed-wireless + business fibre + voice ISP (ABN 24 615 117 998, ~2016); still active.",
+  "names": [
+    {
+      "name": "Future Broadband",
+      "start_year": 2016,
+      "start_disp": "c. 2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "c. 2016",
+      "precision": "approx",
+      "details": "NBN, fixed wireless, business fibre."
+    }
+  ]
+}

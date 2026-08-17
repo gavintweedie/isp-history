@@ -1,0 +1,38 @@
+{
+  "name": "Foxnet Australia",
+  "slug": "foxnet-australia",
+  "birthplace": "Mount Eliza (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://fox.net.au",
+  "summary": "Mornington Peninsula dialup ISP; absorbed/succeeded by Satlink Internet Services by 2003.",
+  "names": [
+    {
+      "name": "Foxnet Australia",
+      "start_year": 1997,
+      "start_disp": "by 1997-98"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997-98",
+      "precision": "by",
+      "details": "Dialup (Melbourne/Mornington Peninsula local call)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "by 2003",
+      "precision": "by",
+      "details": "Absorbed by Satlink."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2003/http://www.fox.net.au/",
+      "label": "Foxnet (Wayback 2003)"
+    }
+  ]
+}

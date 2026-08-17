@@ -1,0 +1,31 @@
+{
+  "name": "Connected Australia",
+  "slug": "connected-australia",
+  "birthplace": "Toowoomba, QLD",
+  "status": "inactive",
+  "website": "connected.net.au",
+  "summary": "Telco/ISP (brands: Connected Australia, Lemonade Broadband); acquired by On Q Communications ~Dec 2023.",
+  "names": [
+    {
+      "name": "Connected Australia",
+      "start_year": 2015,
+      "start_disp": "2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "Founded 2015."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "Dec 2023",
+      "precision": "exact",
+      "details": "Acquired by On Q Communications (~Dec 2023)."
+    }
+  ]
+}

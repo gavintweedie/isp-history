@@ -1,0 +1,43 @@
+{
+  "name": "IP Systems",
+  "slug": "ip-systems",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://ipsystems.com.au",
+  "summary": "Enterprise VoIP/IP-telephony provider (IP Systems Pty Ltd, ex-Consultant Connections 1994, renamed IP Systems ~2001); one of Australia's first ASPs and first to offer hosted IP telephony on BroadSoft; NOCs incl. Perth; acquired by Amcom 25 Feb 2010 (up to ~$20.5m); entity now AMCOM IP TEL Pty Ltd.",
+  "names": [
+    {
+      "name": "IP Systems",
+      "start_year": 1994,
+      "start_disp": "Nov 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "Nov 1994",
+      "precision": "exact",
+      "details": "Founded (Consultant Connections (Aust) Pty Ltd, registered 9 Jun 1994); became IP Systems ~2001."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "May 2010",
+      "precision": "exact",
+      "details": "Acquired by Amcom Telecommunications (settled 26 May 2010)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020407075727/http://www.ipsystems.com.au/aboutus_corp.html",
+      "label": "IP Systems corporate profile (Wayback 2002)"
+    },
+    {
+      "kind": "news",
+      "url": "https://www.itwire.com/it-industry-news/deals/amcom-moves-into-enterprise-telephony-buys-ip-systems",
+      "label": "iTWire: Amcom buys IP Systems (2010)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Universal Networks Australia",
+  "slug": "universal-networks",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://universal.net.au",
+  "summary": "Brisbane dialup ISP with reseller program (Level 5, 46 Edward St, ~1997-98); absorbed into Chariot netconnect (~2004).",
+  "names": [
+    {
+      "name": "Universal Networks Australia",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Dialup ISP + reseller program."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Absorbed into Chariot netconnect."
+    }
+  ]
+}

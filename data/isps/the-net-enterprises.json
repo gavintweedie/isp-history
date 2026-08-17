@@ -1,0 +1,38 @@
+{
+  "name": "The Net Enterprises",
+  "slug": "the-net-enterprises",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://tne.net.au",
+  "summary": "Adelaide ISP (tne.net.au), founded Oct 1995; liquidated mid-2002, brand continued under Fleet Internet SA to ~2014.",
+  "names": [
+    {
+      "name": "The Net Enterprises",
+      "start_year": 1995,
+      "start_disp": "Oct 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "Oct 1995",
+      "precision": "exact",
+      "details": "Founded by Michael Lambert and Tony Onofrio."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "mid-2002",
+      "precision": "exact",
+      "details": "Liquidated (in liquidation from Jul 2002); brand carried by Fleet Internet SA."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000126201519/http://www.tne.net.au/tne1999/company/company_history.html",
+      "label": "TNE company history (Wayback 2000)"
+    }
+  ]
+}

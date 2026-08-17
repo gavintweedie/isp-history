@@ -1,0 +1,31 @@
+{
+  "name": "Foxtel",
+  "slug": "foxtel",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.foxtel.com.au",
+  "summary": "Pay-TV JV (News Corp + Telstra). Operated as an NBN retail ISP (Foxtel Broadband) from 2016.",
+  "names": [
+    {
+      "name": "Foxtel",
+      "start_year": 2016,
+      "start_disp": "2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "2016",
+      "precision": "exact",
+      "details": "Foxtel Broadband launched as an NBN retail provider (consumer internet only)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Foxtel",
+      "label": "Wikipedia: Foxtel"
+    }
+  ]
+}

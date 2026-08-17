@@ -1,0 +1,31 @@
+{
+  "name": "Vonex",
+  "slug": "vonex",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "https://www.vonex.com.au",
+  "summary": "NBN/voice/wholesale provider (ASX: VNX); acquired MyNetFone's direct business 2021; acquired by MaxoTel 2025.",
+  "names": [
+    {
+      "name": "Vonex",
+      "start_year": 2010,
+      "start_disp": "2010"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2010,
+      "date_disp": "2010",
+      "precision": "exact",
+      "details": "IP Voice & Data Pty Ltd registered Nov 2010; traded as Vonex Telecom from 2014."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vonex",
+      "label": "Wikipedia: Vonex"
+    }
+  ]
+}

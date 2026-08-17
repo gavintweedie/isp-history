@@ -1,0 +1,31 @@
+{
+  "name": "Airlan",
+  "slug": "airlan",
+  "birthplace": "Snowy Mountains, NSW",
+  "status": "inactive",
+  "website": "https://airlan.com.au",
+  "summary": "Snowy Mountains wireless/WiFi broadband carrier (Cooma, Jindabyne, Thredbo, Perisher; ~2004-08); defunct.",
+  "names": [
+    {
+      "name": "Airlan",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Regional wireless broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

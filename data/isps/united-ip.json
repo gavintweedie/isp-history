@@ -1,0 +1,31 @@
+{
+  "name": "United IP",
+  "slug": "united-ip",
+  "birthplace": "Seven Hills/Parramatta (Sydney), NSW",
+  "status": "active",
+  "website": "https://www.unitedip.net.au",
+  "summary": "Wholesale DSL/wireless/fibre/transit + reseller ISP (AS23669; brand launched 1 Mar 2003 as new identity of Mediadome Pty Ltd); still active.",
+  "names": [
+    {
+      "name": "United IP",
+      "start_year": 2003,
+      "start_disp": "1 Mar 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "1 Mar 2003",
+      "precision": "exact",
+      "details": "United IP brand launched (ex-Mediadome)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030416014800/http://www.unitedip.net.au:80/",
+      "label": "United IP (Wayback 2003)"
+    }
+  ]
+}

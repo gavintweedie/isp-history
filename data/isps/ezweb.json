@@ -1,0 +1,38 @@
+{
+  "name": "EZWeb",
+  "slug": "ezweb",
+  "birthplace": "Eagle Farm (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://ezweb.com.au",
+  "summary": "Brisbane unlimited dialup (national, 38 POPs); absorbed into EFTel by 2006.",
+  "names": [
+    {
+      "name": "EZWeb",
+      "start_year": 2000,
+      "start_disp": "c. 2000-01"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000-01",
+      "precision": "approx",
+      "details": "Unlimited dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Absorbed into EFTel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2006/http://www.ezweb.com.au/",
+      "label": "EZWeb (Wayback 2006)"
+    }
+  ]
+}

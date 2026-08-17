@@ -1,0 +1,24 @@
+{
+  "name": "Servers Australia",
+  "slug": "servers-australia",
+  "birthplace": "Tuggerah, NSW",
+  "status": "active",
+  "website": "https://www.serversaustralia.com.au",
+  "summary": "Australia's largest web host (Nexigen Digital group); acquired OzServers Sept 2017.",
+  "names": [
+    {
+      "name": "Servers Australia",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Servers Australia founded."
+    }
+  ]
+}

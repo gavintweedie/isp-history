@@ -1,0 +1,38 @@
+{
+  "name": "portal.net.au",
+  "slug": "portal-net",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://portal.net",
+  "summary": "Adelaide ISP (portal.net, SAIA member) operating from ~1996; research could not verify the claimed 1998 merger with InterWeb Connections or 1999 sale to ihug (both operated independently into 2000-01).",
+  "names": [
+    {
+      "name": "portal.net.au",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "portal.net operated from ~1996."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last captures ~2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990209064013id_/http://www.portal.net.au/",
+      "label": "portal.net.au (Wayback 1999)"
+    }
+  ]
+}

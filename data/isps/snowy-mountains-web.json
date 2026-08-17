@@ -1,0 +1,31 @@
+{
+  "name": "Snowy Mountains Web Server",
+  "slug": "snowy-mountains-web",
+  "birthplace": "Snowy Mountains, NSW",
+  "status": "inactive",
+  "website": "https://snowy.net.au",
+  "summary": "Snowy Mountains NSW local ISP (snowy.net.au, live by 1997); defunct.",
+  "names": [
+    {
+      "name": "Snowy Mountains Web Server",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Local ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

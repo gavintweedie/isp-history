@@ -1,0 +1,38 @@
+{
+  "name": "DFS Web",
+  "slug": "dfs-web",
+  "birthplace": "Glendenning (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://dfs-web.net.au",
+  "summary": "Sydney unlimited dialup + hosting ISP; dead by Sep 2003.",
+  "names": [
+    {
+      "name": "DFS Web",
+      "start_year": 1999,
+      "start_disp": "c. 1999-2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999-2000",
+      "precision": "approx",
+      "details": "Unlimited dialup + hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "by Sep 2003",
+      "precision": "by",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030924191111/http://www.dfs-web.net.au/",
+      "label": "DFS Web (Wayback 2003)"
+    }
+  ]
+}

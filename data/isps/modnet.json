@@ -1,0 +1,31 @@
+{
+  "name": "ModNet Internet Services",
+  "slug": "modnet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://modnet.com.au",
+  "summary": "Dialup ISP + file archive + game servers (Modnet, ~1999); defunct.",
+  "names": [
+    {
+      "name": "ModNet Internet Services",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Dialup, game servers."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

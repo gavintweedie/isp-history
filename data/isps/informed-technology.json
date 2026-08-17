@@ -1,0 +1,38 @@
+{
+  "name": "Informed Technology",
+  "slug": "informed-technology",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://informed.net.au",
+  "summary": "Perth dial-up ISP, WAIA member 2000; no evidence of operation after ~2006.",
+  "names": [
+    {
+      "name": "Informed Technology",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Perth-based IT/ISP company, mid-1990s."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "No evidence of operation after ~2006."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001025083941/http://www.waia.asn.au/members/iap.html",
+      "label": "WAIA IAP member list (Wayback 2000)"
+    }
+  ]
+}

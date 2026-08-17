@@ -1,0 +1,38 @@
+{
+  "name": "Mr Bean's Internet",
+  "slug": "mr-beans-internet",
+  "birthplace": "Mackay, QLD",
+  "status": "inactive",
+  "website": "https://mrbean.net.au",
+  "summary": "Mackay/Whitsundays dialup + ADSL ISP (Mr Bean's Internet, 1998, Chariot netconnect reseller); ABN matches Chariot Limited; brand later served Chariot netconnect.",
+  "names": [
+    {
+      "name": "Mr Bean's Internet",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Mr Bean's Internet, Mackay QLD."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Under Chariot netconnect."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981202141735/http://www.mrbean.net.au/",
+      "label": "Mr Bean's (Wayback 1998)"
+    }
+  ]
+}

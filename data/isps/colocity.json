@@ -1,0 +1,24 @@
+{
+  "name": "Colocity",
+  "slug": "colocity",
+  "birthplace": "Adelaide, SA",
+  "status": "active",
+  "website": "https://www.colocity.com",
+  "summary": "Adelaide co-location/data-centre and network services provider; confirmed still operating (no longer focused on retail ISP services).",
+  "names": [
+    {
+      "name": "Colocity",
+      "start_year": 2007,
+      "start_disp": "2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Design and planning began 2005; data centre operations launched 2007."
+    }
+  ]
+}

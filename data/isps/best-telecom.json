@@ -1,0 +1,31 @@
+{
+  "name": "Best Telecom",
+  "slug": "best-telecom",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "https://besttelecom.com.au",
+  "summary": "Telemarketing-driven landline/ADSL churner (BEST Internet & Telecom Pty Ltd, ACN 127 715 360, ~2008; later Best Telecom Group); repeated TIO complaints. NOTE: the claim that it was a Wild IT 'phoenix' business is unverified.",
+  "names": [
+    {
+      "name": "Best Telecom",
+      "start_year": 2008,
+      "start_disp": "c. 2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "BEST Internet & Telecom Pty Ltd."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Successor Best Telecom Group active."
+    }
+  ]
+}

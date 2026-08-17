@@ -1,0 +1,31 @@
+{
+  "name": "yless4u",
+  "slug": "yless4u",
+  "birthplace": "Bungendore/Canberra, ACT",
+  "status": "inactive",
+  "website": "https://yless4u.com.au",
+  "summary": "Fixed-wireless carrier/RSP (founder Anthony Goonan); acquired by CMvas 2024.",
+  "names": [
+    {
+      "name": "yless4u",
+      "start_year": 2004,
+      "start_disp": "Nov 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "Nov 2004",
+      "precision": "exact",
+      "details": "Carrier licence Nov 2004; retail services launched Feb 2005."
+    },
+    {
+      "kind": "death",
+      "year": 2024,
+      "date_disp": "2024",
+      "precision": "exact",
+      "details": "Acquired by CMvas (per owner info)."
+    }
+  ]
+}

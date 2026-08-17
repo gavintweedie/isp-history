@@ -1,0 +1,31 @@
+{
+  "name": "TransACT",
+  "slug": "transact",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "transact.com.au",
+  "summary": "Canberra broadband provider; acquired by iiNet in 2011.",
+  "names": [
+    {
+      "name": "TransACT",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "TransACT Capital Communications established (network launched 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "2011",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

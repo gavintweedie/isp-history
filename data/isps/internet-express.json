@@ -1,0 +1,31 @@
+{
+  "name": "Internet Express",
+  "slug": "internet-express",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "internetexpress.com.au",
+  "summary": "Perth ISP; acquired/merged into EFTel May 2000.",
+  "names": [
+    {
+      "name": "Internet Express",
+      "start_year": 2000,
+      "start_disp": "May 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by c. 1995",
+      "precision": "by",
+      "details": "Earliest Wayback capture (ix.net.au)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "May 2000",
+      "precision": "exact",
+      "details": "Acquired/merged into EFTel."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Brown Bear Internet",
+  "slug": "brown-bear-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://brownbear.net.au",
+  "summary": "Budget dialup ISP (from $9.95; dialup, ADSL, ISDN, hosting, ~2005); defunct.",
+  "names": [
+    {
+      "name": "Brown Bear Internet",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Dialup, ADSL, ISDN, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

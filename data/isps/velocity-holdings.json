@@ -1,0 +1,24 @@
+{
+  "name": "Velocity Internet Holdings",
+  "slug": "velocity-holdings",
+  "birthplace": "Canberra, ACT",
+  "status": "active",
+  "website": "https://www.velocitynet.com.au",
+  "summary": "Combined entity formed c.2010 from the merger of Netspeed and Velocity Internet; both brands continued.",
+  "names": [
+    {
+      "name": "Velocity Internet Holdings",
+      "start_year": 2010,
+      "start_disp": "c. 2010"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Formed from the Netspeed + Velocity Internet merger."
+    }
+  ]
+}

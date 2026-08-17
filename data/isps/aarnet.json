@@ -1,0 +1,23 @@
+{
+  "name": "AARNet",
+  "slug": "aarnet",
+  "birthplace": "Australia (national)",
+  "status": "active",
+  "website": "https://www.aarnet.edu.au",
+  "names": [
+    {
+      "name": "AARNet",
+      "start_year": 1990,
+      "start_disp": "1990"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1990,
+      "date_disp": "1990",
+      "precision": "exact",
+      "details": "Australia's first internet service provider, serving the academic/research community."
+    }
+  ]
+}

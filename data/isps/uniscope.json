@@ -1,0 +1,38 @@
+{
+  "name": "Uniscope Communications",
+  "slug": "uniscope",
+  "birthplace": "Wangara, WA",
+  "status": "inactive",
+  "website": "https://uniscope.com.au",
+  "summary": "Perth WISP + business telecoms (AS133895); wound down ~2019, WA assets acquired by Pentanet (AS10214/AS132458).",
+  "names": [
+    {
+      "name": "Uniscope Communications",
+      "start_year": 2014,
+      "start_disp": "c. 2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Uniscope Communications Pty Ltd, Wangara WA."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "c. 2019",
+      "precision": "approx",
+      "details": "Wound down; WA assets acquired by Pentanet; ABN cancelled 2023."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20141018120000/http://uniscope.com.au/",
+      "label": "Uniscope (Wayback 2014)"
+    }
+  ]
+}

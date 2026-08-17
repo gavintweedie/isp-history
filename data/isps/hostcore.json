@@ -1,0 +1,38 @@
+{
+  "name": "HostCore",
+  "slug": "hostcore",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://hostcore.com.au",
+  "summary": "Perth hosting/DSL/telecom (HostCore Australia, Daniel Mills, from 2006); ABNs cancelled 18 Oct 2007; ceased trading in odd circumstances (per Whirlpool).",
+  "names": [
+    {
+      "name": "HostCore",
+      "start_year": 2006,
+      "start_disp": "23 May 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "23 May 2006",
+      "precision": "exact",
+      "details": "HostCore Australia registered (Perth)."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "Oct 2007",
+      "precision": "exact",
+      "details": "ABNs cancelled 18 Oct 2007."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2007/http://www.hostcore.com.au/",
+      "label": "HostCore (Wayback 2007)"
+    }
+  ]
+}

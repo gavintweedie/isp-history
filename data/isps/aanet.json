@@ -1,0 +1,38 @@
+{
+  "name": "aaNet",
+  "slug": "aanet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://aanet.com.au",
+  "summary": "Independent Melbourne broadband ISP; acquired by Eftel 2006.",
+  "names": [
+    {
+      "name": "aaNet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Independent Melbourne specialist broadband ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Acquired by Eftel; carried on as an Eftel brand."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20041231033220/http://www.aanet.com.au/",
+      "label": "aaNet (Wayback 2004)"
+    }
+  ]
+}

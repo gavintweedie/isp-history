@@ -1,0 +1,38 @@
+{
+  "name": "Microtronics",
+  "slug": "microtronics",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://microtronics.com.au",
+  "summary": "Adelaide ISP (Microtronics Online Pty Ltd, 305 Morphett St); separate from Dove Australia; went under Dec 2001 with the same administrator as Dove (suggesting common ownership).",
+  "names": [
+    {
+      "name": "Microtronics",
+      "start_year": 2001,
+      "start_disp": "Dec 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "by 1994",
+      "precision": "by",
+      "details": "Earliest Wayback capture of microtronics.com.au (Adelaide dial-up, later Dove)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "Dec 2001",
+      "precision": "exact",
+      "details": "External administration Dec 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970405102535/http://www.microtronics.com.au/",
+      "label": "Microtronics (Wayback 1997)"
+    }
+  ]
+}

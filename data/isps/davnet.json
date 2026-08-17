@@ -1,0 +1,38 @@
+{
+  "name": "Davnet",
+  "slug": "davnet",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "davnet.com.au",
+  "summary": "ASX-listed (Davnet Ltd, DVT) high-speed wireless/communications business; its DavTel arm (est. 1998) ran ISP/datacentre/voice, acquired Magna Data Feb 1999; receivership 2001; NTT Australia took DavTel (49% Dec 1999, 51% 2001); Davnet renamed DVT Holdings 2002 then UXC 2002.",
+  "names": [
+    {
+      "name": "Davnet",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Listed Jan 1997 as Davnet Ltd (ex-Golden Hills Mining)."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "DavTel to NTT Australia; shell renamed UXC."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://www.delisted.com.au/company/davnet-limited",
+      "label": "Delisted: Davnet Limited"
+    }
+  ]
+}

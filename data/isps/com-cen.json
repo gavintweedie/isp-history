@@ -1,0 +1,38 @@
+{
+  "name": "Com-Cen",
+  "slug": "com-cen",
+  "birthplace": "Camperdown (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://comcen.com.au",
+  "summary": "Sydney dialup/ISDN/frame relay ISP; absorbed by Spintel ~2014-15.",
+  "names": [
+    {
+      "name": "Com-Cen",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Dialup/ISDN/permanent connections, virtual hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "c. 2014-15",
+      "precision": "approx",
+      "details": "Absorbed by Spintel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970722025644/http://www.comcen.com.au/",
+      "label": "Com-Cen (Wayback 1997)"
+    }
+  ]
+}

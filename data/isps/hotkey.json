@@ -1,0 +1,38 @@
+{
+  "name": "HotKey Internet",
+  "slug": "hotkey",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://hotkey.net.au",
+  "summary": "Melbourne SMB ISP founded 1996; Primus acquired 60% March 1998, remaining 40% January 1999, but the HotKey brand continued as a Primus subsidiary (18 franchises) acquiring more ISPs through 2004.",
+  "names": [
+    {
+      "name": "HotKey Internet",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "HotKey Internet founded October 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Brand wound down after last acquisitions (still a Primus subsidiary)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20110220203127/http://www.hotkey.net.au/about-us/history.html",
+      "label": "HotKey history (Wayback 2011)"
+    }
+  ]
+}

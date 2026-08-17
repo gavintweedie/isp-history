@@ -1,0 +1,24 @@
+{
+  "name": "Melbourne IT",
+  "slug": "melbourne-it",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://melbourneit.com.au",
+  "summary": "Domain registrar/web services company; acquired WebCentral Group 2006; later Arq Group / Webcentral Group.",
+  "names": [
+    {
+      "name": "Melbourne IT",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Melbourne IT established (domain registrar)."
+    }
+  ]
+}

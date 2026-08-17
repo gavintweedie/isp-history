@@ -1,0 +1,38 @@
+{
+  "name": "Saise Telecom",
+  "slug": "saise-telecom",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://saise.com.au",
+  "summary": "Melbourne business telecom/voice/mobile provider (founded 1998); acquired by Access Providers Nov 2005.",
+  "names": [
+    {
+      "name": "Saise Telecom",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Saise Telecom founded, Melbourne."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "Nov 2005",
+      "precision": "exact",
+      "details": "Acquired by Access Providers (wholly-owned subsidiary)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030625043748/http://www.saise.com.au/about/about.htm",
+      "label": "Saise about (Wayback 2003)"
+    }
+  ]
+}

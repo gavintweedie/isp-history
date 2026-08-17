@@ -1,0 +1,38 @@
+{
+  "name": "Swift Internet",
+  "slug": "swift-internet",
+  "birthplace": "Regional Australia",
+  "status": "inactive",
+  "website": "https://swift.net.au",
+  "summary": "Regional ISP (swift.net.au) selling dialup and ADSL, reselling NEXTEP and Datafast ADSL products; active 2000-2003+.",
+  "names": [
+    {
+      "name": "Swift Internet",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "swift.net.au live from 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2003-04",
+      "precision": "approx",
+      "details": "No verified acquisition; site ended ~2004."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030221000000/http://www.swift.net.au/",
+      "label": "Swift Internet (Wayback 2003)"
+    }
+  ]
+}

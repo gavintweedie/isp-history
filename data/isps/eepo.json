@@ -1,0 +1,38 @@
+{
+  "name": "EEPO",
+  "slug": "eepo",
+  "birthplace": "Osborne Park (Perth), WA",
+  "status": "inactive",
+  "website": "https://eepo.com.au",
+  "summary": "Perth batched dialup (TimeSaver) + hosting (MiniWeb) ISP; appears to have been an Ausconnect brand.",
+  "names": [
+    {
+      "name": "EEPO",
+      "start_year": 1997,
+      "start_disp": "by Feb 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Feb 1997",
+      "precision": "by",
+      "details": "Batched dialup, web hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Redirected to Ausconnect."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2005/http://www.eepo.com.au/",
+      "label": "EEPO (Wayback 2005)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Flowernet",
+  "slug": "flowernet",
+  "birthplace": "Kalgoorlie, WA",
+  "status": "inactive",
+  "website": "https://flowernet.com.au",
+  "summary": "Reported local Kalgoorlie ISP; flowernet.com.au was Hawkins Nursery + a member-login portal (ISP branding) 1997-2011; domain parked by Jan 2014, since deleted. No APNIC record.",
+  "names": [
+    {
+      "name": "Flowernet",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of flowernet.com.au (Oct 1997; local source places it in Kalgoorlie)."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "c. 2011-13",
+      "precision": "approx",
+      "details": "Site dead ~2011; domain parked Jan 2014, later deleted."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19971010115607/http://www.flowernet.com.au/",
+      "label": "Flowernet (Wayback 1997)"
+    }
+  ]
+}

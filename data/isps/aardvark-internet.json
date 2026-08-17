@@ -1,0 +1,31 @@
+{
+  "name": "Aardvark Internet",
+  "slug": "aardvark-internet",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.aardvark.net.au",
+  "summary": "Melbourne low-cost dialup ISP since 1994 (APANA-based); absorbed DezzaNet (2005) and Aspire/Funnelweb (2013); still operating as a micro-ISP.",
+  "names": [
+    {
+      "name": "Aardvark Internet",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Low-cost dialup since 1994."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010107100200/http://www.cynosure.com.au/isp/aardvark",
+      "label": "Cynosure: Aardvark"
+    }
+  ]
+}

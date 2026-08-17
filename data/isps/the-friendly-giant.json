@@ -1,0 +1,31 @@
+{
+  "name": "The Friendly Giant",
+  "slug": "the-friendly-giant",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://giant.net.au",
+  "summary": "Small ISP + web design (giant.net.au, by Jessie Pitt, ~1998); defunct.",
+  "names": [
+    {
+      "name": "The Friendly Giant",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Small ISP + web design."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

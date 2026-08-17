@@ -1,0 +1,31 @@
+{
+  "name": "Escape Net",
+  "slug": "escape-net",
+  "birthplace": "Western Australia",
+  "status": "active",
+  "website": "https://www.escape.net.au",
+  "summary": "WA ISP founded ~1996 (The Ashburton Group Pty Ltd); now broadband/hosting provider. NOTE: distinct from Adelaide's EscapeNet Pty Ltd (97 Pirie St, which used the escape.net.au brand 2011-2022) and from Melbourne's 'Escape Online Internet' — see those entries.",
+  "names": [
+    {
+      "name": "Escape Net",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Founded by The Ashburton Group Pty Ltd, WA."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970330115231/http://www.escape.net.au/",
+      "label": "Escape Net (Wayback 1997)"
+    }
+  ]
+}

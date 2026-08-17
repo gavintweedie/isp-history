@@ -1,0 +1,38 @@
+{
+  "name": "National Data & Security",
+  "slug": "national-data-security",
+  "birthplace": "Melton, VIC",
+  "status": "inactive",
+  "website": "https://nds.com.au",
+  "summary": "Parent company of the useoz budget dialup ISP (National Data & Security Pty Ltd); went into administration 2 Oct 2002 (per ASIC); ABN cancelled 2012.",
+  "names": [
+    {
+      "name": "National Data & Security",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Earliest Wayback capture of nds.com.au Jan 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "2 Oct 2002",
+      "precision": "exact",
+      "details": "Administration (ASIC)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990129094613/http://www.nds.com.au/",
+      "label": "NDS (Wayback 1999)"
+    }
+  ]
+}

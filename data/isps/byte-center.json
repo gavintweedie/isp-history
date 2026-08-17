@@ -1,0 +1,38 @@
+{
+  "name": "Byte Center (Townsville)",
+  "slug": "byte-center",
+  "birthplace": "Townsville, QLD",
+  "status": "inactive",
+  "website": "https://bytecentre.com.au",
+  "summary": "North QLD computer retailer (The Byte Centre Townsville/Cairns/Rockhampton); KPMG administrator Apr 2001, liquidated (Townsville 3 Apr 2001, Cairns 24 Apr 2001).",
+  "names": [
+    {
+      "name": "Byte Center (Townsville)",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Computer retailer, bytecentre.com.au from Apr 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "Apr 2001",
+      "precision": "exact",
+      "details": "Administration/liquidation Apr 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970401045123/http://www.bytecentre.com.au/",
+      "label": "Byte Centre (Wayback 1997)"
+    }
+  ]
+}

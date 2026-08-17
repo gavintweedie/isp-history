@@ -1,0 +1,31 @@
+{
+  "name": "I-net Internet Services",
+  "slug": "i-net-internet",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://i-net.net.au",
+  "summary": "Dialup + web/IT services ISP (i-net.net.au, ~1998); evolved into 'Internetwork Solutions' (Sydney web design/hosting, 2008-12); dormant after.",
+  "names": [
+    {
+      "name": "I-net Internet Services",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Dialup + web/IT services."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Dormant."
+    }
+  ]
+}

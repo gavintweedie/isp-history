@@ -1,0 +1,38 @@
+{
+  "name": "Baylink Internet Services",
+  "slug": "baylink-internet-services",
+  "birthplace": "Carrum (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://baylink.com.au",
+  "summary": "Melbourne dialup ISP + cyber cafe; defunct ~2004.",
+  "names": [
+    {
+      "name": "Baylink Internet Services",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Dialup for home/business + Carrum cyber cafe."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001206204100/http://www.baylink.com.au/",
+      "label": "Baylink (Wayback 2000)"
+    }
+  ]
+}

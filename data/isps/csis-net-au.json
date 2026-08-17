@@ -1,0 +1,38 @@
+{
+  "name": "CSiS.net.au",
+  "slug": "csis-net-au",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://csis.net.au",
+  "summary": "ISP; no detailed records found.",
+  "names": [
+    {
+      "name": "CSiS.net.au",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Last active capture of csis.net.au (Feb 2007)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021204235136/http://www.cynosure.com.au/",
+      "label": "Cynosure (Wayback 2002)"
+    }
+  ]
+}

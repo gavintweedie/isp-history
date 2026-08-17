@@ -1,0 +1,38 @@
+{
+  "name": "GigaNet",
+  "slug": "giganet",
+  "birthplace": "St Leonards (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://giga.net.au",
+  "summary": "Sydney dialup ISP + web app development; absorbed by Hotkey Internet by ~2003.",
+  "names": [
+    {
+      "name": "GigaNet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Dialup + web application development."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "by May 2003",
+      "precision": "by",
+      "details": "Absorbed by Hotkey Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961105092300/http://www.giga.net.au/",
+      "label": "GigaNet (Wayback 1996)"
+    }
+  ]
+}

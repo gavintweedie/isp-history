@@ -1,0 +1,38 @@
+{
+  "name": "A I Superlink",
+  "slug": "a-i-superlink",
+  "birthplace": "Marrickville (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://aisl.com.au",
+  "summary": "Sydney dialup ISP (A I Superlink Pty Ltd); gone by ~2002.",
+  "names": [
+    {
+      "name": "A I Superlink",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Dialup ISP, Marrickville."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Gone (last ISP-era capture Mar 2000)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980207210902/http://www.aisl.com.au/",
+      "label": "A I Superlink (Wayback 1998)"
+    }
+  ]
+}

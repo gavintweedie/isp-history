@@ -1,0 +1,38 @@
+{
+  "name": "AlwaysONLINE",
+  "slug": "alwaysonline",
+  "birthplace": "Glebe (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://alwaysonline.net.au",
+  "summary": "Sydney business-grade dialup ISP on First Link network; dead c.2012.",
+  "names": [
+    {
+      "name": "AlwaysONLINE",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 2001)."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Domain parked."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020212184804/http://www.cynosure.com.au/isp/alwaysonline",
+      "label": "AlwaysONLINE (Cynosure 2002)"
+    }
+  ]
+}

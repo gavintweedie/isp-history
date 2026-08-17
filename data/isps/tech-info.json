@@ -1,0 +1,31 @@
+{
+  "name": "Tech Info",
+  "slug": "tech-info",
+  "birthplace": "Briar Hill (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://techinfo.com.au",
+  "summary": "Melbourne ISP + PC/printer sales + networking + hosting (online since Mar 1997); defunct.",
+  "names": [
+    {
+      "name": "Tech Info",
+      "start_year": 1997,
+      "start_disp": "Mar 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "Mar 1997",
+      "precision": "exact",
+      "details": "ISP + computer sales."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

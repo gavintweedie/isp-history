@@ -1,0 +1,24 @@
+{
+  "name": "Virtutel",
+  "slug": "virtutel",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.virtutel.com.au",
+  "summary": "Wholesale-only B2B telecom connected to all 121 NBN POIs.",
+  "names": [
+    {
+      "name": "Virtutel",
+      "start_year": 2010,
+      "start_disp": "2010"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2010,
+      "date_disp": "2010",
+      "precision": "exact",
+      "details": "Virtutel Pty Ltd, active from Feb 2010."
+    }
+  ]
+}

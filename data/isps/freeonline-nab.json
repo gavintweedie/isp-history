@@ -1,0 +1,31 @@
+{
+  "name": "Freeonline (NAB)",
+  "slug": "freeonline-nab",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://freeonline.com.au",
+  "summary": "Melbourne free ISP founded 1999 by Sydney Low & Bill Lang, NAB co-branded/backed (launched Oct 1999); peak 300k+ users; shut down ~Aug 2001.",
+  "names": [
+    {
+      "name": "Freeonline (NAB)",
+      "start_year": 1999,
+      "start_disp": "Oct 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "Oct 1999",
+      "precision": "exact",
+      "details": "Free dialup ISP (NAB-backed)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "Aug 2001",
+      "precision": "exact",
+      "details": "Shut down ~Aug 2001."
+    }
+  ]
+}

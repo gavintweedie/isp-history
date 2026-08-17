@@ -1,0 +1,24 @@
+{
+  "name": "Mate Communicate",
+  "slug": "mate-communicate",
+  "birthplace": "Wetherill Park (Sydney), NSW",
+  "status": "active",
+  "website": "https://www.letsbemates.com.au",
+  "summary": "NBN + mobile provider (part of Conxxion group / Activ8me stable, since 2016); still active.",
+  "names": [
+    {
+      "name": "Mate Communicate",
+      "start_year": 2016,
+      "start_disp": "2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "2016",
+      "precision": "exact",
+      "details": "NBN + mobile."
+    }
+  ]
+}

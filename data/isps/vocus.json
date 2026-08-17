@@ -1,0 +1,24 @@
+{
+  "name": "Vocus",
+  "slug": "vocus",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.vocus.com.au",
+  "summary": "Business and wholesale telco; grew via acquisitions into a major ISP/backbone player.",
+  "names": [
+    {
+      "name": "Vocus",
+      "start_year": 2008,
+      "start_disp": "2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Vocus Communications founded."
+    }
+  ]
+}

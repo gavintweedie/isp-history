@@ -1,0 +1,31 @@
+{
+  "name": "iTEL Community Telco",
+  "slug": "itel-community-telco",
+  "birthplace": "Ipswich, QLD",
+  "status": "inactive",
+  "website": "itel.net.au",
+  "summary": "Ipswich community-buying-group telco (Community Developments Australia/Bendigo Bank franchise); acquired GIL and Flexinet 2001; later South East Qld Community Telco, folded into Bendigo Bank Telco.",
+  "names": [
+    {
+      "name": "iTEL Community Telco",
+      "start_year": 2001,
+      "start_disp": "2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "iTEL Community Telco Limited incorporated 3 Sep 2001."
+    },
+    {
+      "kind": "death",
+      "year": 2020,
+      "date_disp": "2020",
+      "precision": "exact",
+      "details": "ABN cancelled 24 Jul 2020 (brand under Bendigo Bank Telco)."
+    }
+  ]
+}

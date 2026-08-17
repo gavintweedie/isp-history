@@ -1,0 +1,24 @@
+{
+  "name": "Jazmin Communications",
+  "slug": "jazmin",
+  "birthplace": "Lyndoch, SA",
+  "status": "active",
+  "website": "https://www.jazmin.net.au",
+  "summary": "South Australian VoIP/telco (Barossa Valley).",
+  "names": [
+    {
+      "name": "Jazmin Communications",
+      "start_year": 2007,
+      "start_disp": "c. 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "ABN suggests ~2007 (unverified)."
+    }
+  ]
+}

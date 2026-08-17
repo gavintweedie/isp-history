@@ -1,0 +1,38 @@
+{
+  "name": "Beam Internet",
+  "slug": "beam-internet",
+  "birthplace": "Barossa Valley, SA",
+  "status": "inactive",
+  "website": "https://beaminternet.com.au",
+  "summary": "Barossa Valley fixed-wireless WISP (Beam Barossa / Beam Internet by Kodo Technologies); acquired by Swoop for A$6.7m July 2021.",
+  "names": [
+    {
+      "name": "Beam Internet",
+      "start_year": 2014,
+      "start_disp": "c. 2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Wan Solutions Pty Ltd (Beam Barossa business name 2015)."
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "Jul 2021",
+      "precision": "exact",
+      "details": "Acquired by Swoop ($6m cash + $0.7m shares)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20170929182147/http://beaminternet.com.au/",
+      "label": "Beam Internet (Wayback 2017)"
+    }
+  ]
+}

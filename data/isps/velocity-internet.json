@@ -1,0 +1,31 @@
+{
+  "name": "Velocity Internet",
+  "slug": "velocity-internet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://velocity.net.au",
+  "summary": "Canberra ISP; merged with Netspeed c.2010 under Velocity Internet Holdings.",
+  "names": [
+    {
+      "name": "Velocity Internet",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Commenced telecommunications operations August 2003."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Merged into Velocity Internet Holdings."
+    }
+  ]
+}

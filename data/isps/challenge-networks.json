@@ -1,0 +1,31 @@
+{
+  "name": "Challenge Networks",
+  "slug": "challenge-networks",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://challenge.net.au",
+  "summary": "Network provider acquired by Vocus.",
+  "names": [
+    {
+      "name": "Challenge Networks",
+      "start_year": 2023,
+      "start_disp": "2023"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by Mar 2002",
+      "precision": "by",
+      "details": "Company registered (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "2023",
+      "precision": "exact",
+      "details": "Acquired by Vocus."
+    }
+  ]
+}

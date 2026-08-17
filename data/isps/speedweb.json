@@ -1,0 +1,38 @@
+{
+  "name": "Speedweb",
+  "slug": "speedweb",
+  "birthplace": "Morwell, VIC",
+  "status": "inactive",
+  "website": "speedweb.com.au",
+  "summary": "Gippsland/Latrobe Valley fixed-wireless WISP (Kallistrate Pty Ltd); acquired by Swoop July 2021.",
+  "names": [
+    {
+      "name": "Speedweb",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Kallistrate Pty Ltd, Morwell VIC (fixed wireless)."
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "Jul 2021",
+      "precision": "exact",
+      "details": "Acquired by Swoop ($1.75M; completed 1 Jul 2021)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.techpartner.news/news/swoop-acquires-regional-victoria-based-network-operator-speedweb-566210",
+      "label": "Swoop acquires Speedweb"
+    }
+  ]
+}

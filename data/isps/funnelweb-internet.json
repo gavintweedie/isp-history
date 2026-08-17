@@ -1,0 +1,38 @@
+{
+  "name": "FunnelWeb Internet (Canberra)",
+  "slug": "funnelweb-internet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://atrax.net.au",
+  "summary": "Canberra dialup ISP (atrax.net.au) — a separate operation from the famous Melbourne FunnelWeb absorbed by OzEmail; defunct.",
+  "names": [
+    {
+      "name": "FunnelWeb Internet (Canberra)",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1997)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Last active capture of atrax.net.au (Nov 2001); parked from 2016."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970410103150/http://www.cynosure.com.au/isp/funnelweb",
+      "label": "FunnelWeb Canberra (Cynosure 1997)"
+    }
+  ]
+}

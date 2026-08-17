@@ -1,0 +1,31 @@
+{
+  "name": "CIA DSL",
+  "slug": "cia-dsl",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://ciadsl.com.au",
+  "summary": "ADSL arm of Connect Infobahn Australia (CIA, ~2003); defunct with CIA.",
+  "names": [
+    {
+      "name": "CIA DSL",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "SOHO/SME ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Defunct with CIA."
+    }
+  ]
+}

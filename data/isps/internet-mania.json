@@ -1,0 +1,39 @@
+{
+  "name": "Internet Mania",
+  "slug": "internet-mania",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "mania.com.au",
+  "summary": "ISP acquired by IDEAL Internet 1998 (per owner Darren Worley).",
+  "names": [
+    {
+      "name": "Internet Mania",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture (mania.com.au)."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Acquired by IDEAL Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961225003658/http://www.mania.com.au/",
+      "label": "Internet Mania (Wayback 1996)",
+      "year": 1996
+    }
+  ]
+}

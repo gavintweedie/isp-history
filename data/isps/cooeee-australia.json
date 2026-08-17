@@ -1,0 +1,38 @@
+{
+  "name": "Cooeee Australia",
+  "slug": "cooeee-australia",
+  "birthplace": "Marrickville (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://cooeee.com",
+  "summary": "Sydney dialup ISP (Sydney + Perth POPs); dead ~2002-03.",
+  "names": [
+    {
+      "name": "Cooeee Australia",
+      "start_year": 1999,
+      "start_disp": "c. 1999-2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999-2000",
+      "precision": "approx",
+      "details": "Dialup, communicating the Australian Way."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2002-03",
+      "precision": "approx",
+      "details": "Dead."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010722191805/http://www.cooeee.com/",
+      "label": "Cooeee (Wayback 2001)"
+    }
+  ]
+}

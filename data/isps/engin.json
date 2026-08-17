@@ -1,0 +1,38 @@
+{
+  "name": "Engin",
+  "slug": "engin",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://engin.com.au",
+  "summary": "Melbourne VoIP provider (Engin Pty Ltd, established 2004, Australia's first commercial VoIP network); Seven Group acquired it Jul 2011; sold to EFTel for A$9.1m 24 Sep 2012; brand retired (M2 -> Vocus).",
+  "names": [
+    {
+      "name": "Engin",
+      "start_year": 2004,
+      "start_disp": "2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Engin Pty Ltd, first commercial VoIP network in Australia."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "Sep 2012",
+      "precision": "exact",
+      "details": "Sold to EFTel (A$9.1m); brand retired."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080219142403/http://www.engin.com.au/Products/Products.aspx",
+      "label": "Engin (Wayback 2008)"
+    }
+  ]
+}

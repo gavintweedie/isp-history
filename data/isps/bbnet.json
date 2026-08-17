@@ -1,0 +1,31 @@
+{
+  "name": "BBNET",
+  "slug": "bbnet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://bbnet.com.au",
+  "summary": "Wireless DSL + satellite + business wireless ISP (Bunbury, Kalgoorlie, Geraldton, Wheatbelt; early 2000s); defunct.",
+  "names": [
+    {
+      "name": "BBNET",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Wireless DSL, satellite."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

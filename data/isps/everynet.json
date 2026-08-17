@@ -1,0 +1,31 @@
+{
+  "name": "EveryNet",
+  "slug": "everynet",
+  "birthplace": "Canberra, ACT",
+  "status": "inactive",
+  "website": "https://everynet.com.au",
+  "summary": "Canberra ADSL2+/naked DSL + TransACT broadband + hosting ISP (everynet.com.au, ~2009); defunct.",
+  "names": [
+    {
+      "name": "EveryNet",
+      "start_year": 2009,
+      "start_disp": "c. 2009"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "ADSL2+, TransACT broadband, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "c. 2013",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

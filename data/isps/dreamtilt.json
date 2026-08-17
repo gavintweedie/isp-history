@@ -1,0 +1,31 @@
+{
+  "name": "Dreamtilt",
+  "slug": "dreamtilt",
+  "birthplace": "Gladstone, QLD",
+  "status": "active",
+  "website": "https://www.dreamtilt.com.au",
+  "summary": "Gladstone wireless/NBN ISP, founded 1999.",
+  "names": [
+    {
+      "name": "Dreamtilt",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Dreamtilt Service Provider founded 10 Oct 1999."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dreamtilt",
+      "label": "Wikipedia: Dreamtilt"
+    }
+  ]
+}

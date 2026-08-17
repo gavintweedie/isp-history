@@ -1,0 +1,38 @@
+{
+  "name": "Ballarat NetConnect",
+  "slug": "ballarat-netconnect",
+  "birthplace": "Ballarat, VIC",
+  "status": "inactive",
+  "website": "https://netconnect.com.au",
+  "summary": "Ballarat ISP; absorbed into Chariot (netconnect.com.au redirected to chariot.net.au by 2010).",
+  "names": [
+    {
+      "name": "Ballarat NetConnect",
+      "start_year": 2010,
+      "start_disp": "by 2010"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Regional Victorian ISP; earliest Wayback capture of netconnect.com.au."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "by 2010",
+      "precision": "by",
+      "details": "Absorbed into Chariot."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980201185145/http://www.netconnect.com.au/",
+      "label": "Ballarat NetConnect (Wayback 1998)"
+    }
+  ]
+}

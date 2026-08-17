@@ -1,0 +1,31 @@
+{
+  "name": "QConnect Internet",
+  "slug": "qconnect-internet",
+  "birthplace": "Queensland",
+  "status": "inactive",
+  "website": "https://qconnect.net.au",
+  "summary": "QLD-wide dialup ISP (56k/V92, no joining fees, ~2002); defunct.",
+  "names": [
+    {
+      "name": "QConnect Internet",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

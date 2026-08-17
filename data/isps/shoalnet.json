@@ -1,0 +1,31 @@
+{
+  "name": "Shoalnet",
+  "slug": "shoalnet",
+  "birthplace": "Nowra, NSW",
+  "status": "active",
+  "website": "https://www.shoal.net.au",
+  "summary": "Shoalhaven (Nowra) ISP; merged with Fastrac Internet Services ~2000-01 under Tourist Facilities Pty Ltd (Shoalnet-Fastrac).",
+  "names": [
+    {
+      "name": "Shoalnet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Shoalnet Pty Ltd, Nowra (operating by Dec 1998)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981206084530/http://www.shoal.net.au/",
+      "label": "Shoalnet (Wayback 1998)"
+    }
+  ]
+}

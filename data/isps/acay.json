@@ -1,0 +1,38 @@
+{
+  "name": "ACAY",
+  "slug": "acay",
+  "birthplace": "Chatswood (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://acay.com.au",
+  "summary": "Sydney dialup ISP (since 1994); brand absorbed into VentraIP by 2012.",
+  "names": [
+    {
+      "name": "ACAY",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "Dialup across Sydney suburbs + Canberra."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "by 2012",
+      "precision": "by",
+      "details": "Brand absorbed into VentraIP."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20131203111809/http://www.acay.com.au/",
+      "label": "ACAY (Wayback 2013)"
+    }
+  ]
+}

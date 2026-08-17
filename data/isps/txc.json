@@ -1,0 +1,38 @@
+{
+  "name": "TXC",
+  "slug": "txc",
+  "birthplace": "Wayville (Adelaide), SA",
+  "status": "inactive",
+  "website": "https://txc.net.au",
+  "summary": "SA internet/communications provider (TX Communications Pty Ltd, ABN 89 079 028 247, established 19 Aug 1997); defunct ~2004-05.",
+  "names": [
+    {
+      "name": "TXC",
+      "start_year": 1997,
+      "start_disp": "19 Aug 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "19 Aug 1997",
+      "precision": "exact",
+      "details": "TX Communications Pty Ltd established (Wayville SA)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2004-05",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980110132037/http://txc.net.au/",
+      "label": "TXC (Wayback 1998)"
+    }
+  ]
+}

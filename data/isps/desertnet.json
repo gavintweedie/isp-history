@@ -1,0 +1,30 @@
+{
+  "name": "DesertNet",
+  "slug": "desertnet",
+  "birthplace": "Kalgoorlie, WA",
+  "status": "inactive",
+  "summary": "Early Goldfields WA internet provider, reported operating 1994-1997 (local knowledge; no archival evidence found).",
+  "names": [
+    {
+      "name": "DesertNet",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Reported 1994-1997 (unverified, local source)."
+    },
+    {
+      "kind": "death",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Reported ceased 1997 (unverified, local source)."
+    }
+  ]
+}

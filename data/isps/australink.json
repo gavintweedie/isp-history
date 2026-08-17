@@ -1,0 +1,31 @@
+{
+  "name": "Australink",
+  "slug": "australink",
+  "birthplace": "Miami (Gold Coast), QLD",
+  "status": "inactive",
+  "website": "https://australink.com.au",
+  "summary": "Gold Coast telecom/ISP (AustraLink Communications Pty Ltd, ACN 078 167 192; ~2001); defunct.",
+  "names": [
+    {
+      "name": "Australink",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Telecom/ISP services."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

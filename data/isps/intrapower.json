@@ -1,0 +1,31 @@
+{
+  "name": "IntraPower",
+  "slug": "intrapower",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://intrapower.com.au",
+  "summary": "Managed private-network/cloud provider (ASX: IPX); acquired by TPG Telecom July 2011.",
+  "names": [
+    {
+      "name": "IntraPower",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "IntraPower founded (Brisbane); private national IP networks."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "Jul 2011",
+      "precision": "exact",
+      "details": "Acquired by TPG Telecom (~A$12.8m)."
+    }
+  ]
+}

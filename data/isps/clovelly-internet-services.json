@@ -1,0 +1,38 @@
+{
+  "name": "Clovelly Internet Services",
+  "slug": "clovelly-internet-services",
+  "birthplace": "Clovelly (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://clovelly.net.au",
+  "summary": "Sydney ISP; no homepage ever archived (only a 2003 robots.txt); domain held by original owners but suspended/offline and marked ineligible for renewal ~2025-26.",
+  "names": [
+    {
+      "name": "Clovelly Internet Services",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Listed in the Cynosure Australian ISP directory (2002 era)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "by 2003",
+      "precision": "by",
+      "details": "Evidence of existence by 2003; defunct by current registry/DNS state."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030125061211/http://www.clovelly.net.au/robots.txt",
+      "label": "Clovelly robots.txt (Wayback 2003)"
+    }
+  ]
+}

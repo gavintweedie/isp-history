@@ -1,0 +1,31 @@
+{
+  "name": "yourhub",
+  "slug": "yourhub",
+  "birthplace": "Townsville, QLD",
+  "status": "inactive",
+  "website": "https://yourhub.com.au",
+  "summary": "Townsville dialup/ADSL/wireless + hosting ISP (part of Internet Solutions Pty Ltd / Webs-U-See, ~2004); defunct.",
+  "names": [
+    {
+      "name": "yourhub",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Dialup, ADSL, wireless, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Cosmos Internet Services",
+  "slug": "cosmos-internet-services",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://cosmos.net.au",
+  "summary": "Melbourne low-cost dialup then hosting/data-centre provider; acquired by Mikka International 2001, still operating under Cosmos name.",
+  "names": [
+    {
+      "name": "Cosmos Internet Services",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Low-cost dialup."
+    },
+    {
+      "kind": "death",
+      "date_disp": "None",
+      "precision": "exact",
+      "details": "None"
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961229021418/http://cosmos.net.au/",
+      "label": "Cosmos (Wayback 1996)"
+    }
+  ]
+}

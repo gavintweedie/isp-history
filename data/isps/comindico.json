@@ -1,0 +1,43 @@
+{
+  "name": "Comindico",
+  "slug": "comindico",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://comindico.com.au",
+  "summary": "Australia's first IP convergent voice and data carrier, founded 2000; investors AGL, AMP, Consolidated Press Holdings (Packer), JP Morgan, Queensland Press; spent ~$400M (incl. $175M Cisco vendor financing); voluntary administration 23 Sep 2004; receiver McGrathNicol appointed by Cisco 25 Sep 2004.",
+  "names": [
+    {
+      "name": "Comindico",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Founded in 2000 as Australia's first IP convergent voice and data carrier."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Sep 2004",
+      "precision": "exact",
+      "details": "Voluntary administration 23 Sep 2004; Cisco-appointed receivers 25 Sep 2004."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://itwire.com/it-industry-news/development/comindico-in-administration",
+      "label": "iTWire: Comindico in administration (23 Sep 2004)"
+    },
+    {
+      "kind": "news",
+      "url": "https://www.theage.com.au/business/cisco-pulls-plug-on-comindico-20040925-gdyoud.html",
+      "label": "The Age: Cisco pulls plug on Comindico (25 Sep 2004)"
+    }
+  ]
+}

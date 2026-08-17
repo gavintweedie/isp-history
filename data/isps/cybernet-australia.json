@@ -1,0 +1,38 @@
+{
+  "name": "Cyber*net (Australia)",
+  "slug": "cybernet-australia",
+  "birthplace": "Duncraig (Perth), WA",
+  "status": "inactive",
+  "website": "https://cybernet.net.au",
+  "summary": "Perth dialup + web page creation/marketing ISP; defunct ~2002.",
+  "names": [
+    {
+      "name": "Cyber*net (Australia)",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of cybernet.net.au Nov 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2001/http://www.cybernet.net.au/",
+      "label": "Cyber*net (Wayback 2001)"
+    }
+  ]
+}

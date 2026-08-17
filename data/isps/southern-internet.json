@@ -1,0 +1,38 @@
+{
+  "name": "Southern Internet Services",
+  "slug": "southern-internet",
+  "birthplace": "Hobart, TAS",
+  "status": "inactive",
+  "website": "https://southcom.com.au",
+  "summary": "Tasmanian ISP (southcom.com.au); bought by Keypoint, then EFTel.",
+  "names": [
+    {
+      "name": "Southern Internet Services",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Founded in Hobart."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Acquired by Keypoint."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961206115012/http://southcom.com.au/",
+      "label": "Southcom (Wayback 1996)"
+    }
+  ]
+}

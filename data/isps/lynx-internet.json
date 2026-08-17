@@ -1,0 +1,38 @@
+{
+  "name": "Lynx Internet Connections",
+  "slug": "lynx-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://lynx.net.au",
+  "summary": "Adelaide flat-fee dialup + hosting ISP (parent Net Media Solutions); defunct.",
+  "names": [
+    {
+      "name": "Lynx Internet Connections",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "Operating by 10 Apr 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Domain lapsed."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030106192658/http://www.cynosure.com.au/isp/lynx",
+      "label": "Lynx (Cynosure 2003)"
+    }
+  ]
+}

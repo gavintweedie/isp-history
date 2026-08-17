@@ -1,0 +1,24 @@
+{
+  "name": "Central Telecoms",
+  "slug": "central-telecoms",
+  "birthplace": "West Gosford, NSW",
+  "status": "active",
+  "website": "https://centraltelecoms.com.au",
+  "summary": "Central Coast NSW ISP/telco (business & home NBN, VoIP, IT support); founder/CEO Graeme Johnston.",
+  "names": [
+    {
+      "name": "Central Telecoms",
+      "start_year": 2012,
+      "start_disp": "c. 2012"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Central Telecoms (ABN ~Dec 2012); marketing itself since 2016."
+    }
+  ]
+}

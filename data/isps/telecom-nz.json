@@ -1,0 +1,31 @@
+{
+  "name": "Telecom New Zealand",
+  "slug": "telecom-nz",
+  "birthplace": "Auckland, NZ",
+  "status": "inactive",
+  "website": "telecom.co.nz",
+  "summary": "New Zealand incumbent telco; owned AAPT from 2000; later Spark NZ.",
+  "names": [
+    {
+      "name": "Telecom New Zealand",
+      "start_year": 1987,
+      "start_disp": "1987"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1987,
+      "date_disp": "1987",
+      "precision": "exact",
+      "details": "Telecom NZ established (privatised 1990)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Acquired AAPT; renamed Spark New Zealand in 2014."
+    }
+  ]
+}

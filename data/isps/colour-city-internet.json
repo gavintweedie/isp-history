@@ -1,0 +1,39 @@
+{
+  "name": "Colour City Internet",
+  "slug": "colour-city-internet",
+  "birthplace": "Orange, NSW",
+  "status": "inactive",
+  "website": "colourcity.com.au",
+  "summary": "Orange NSW local ISP (Redback Web, ~2002); defunct.",
+  "names": [
+    {
+      "name": "Colour City Internet",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Local ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20091024144102/http://www.colourcity.com.au/",
+      "label": "Colour City Internet (Wayback 2009)",
+      "year": 2009
+    }
+  ]
+}

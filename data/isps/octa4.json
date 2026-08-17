@@ -1,0 +1,31 @@
+{
+  "name": "Octa4",
+  "slug": "octa4",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "octa4.com.au",
+  "summary": "ISP acquired by iiNet.",
+  "names": [
+    {
+      "name": "Octa4",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by Oct 1995",
+      "precision": "by",
+      "details": "Company registered (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

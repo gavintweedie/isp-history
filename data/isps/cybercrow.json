@@ -1,0 +1,38 @@
+{
+  "name": "CyberCrow",
+  "slug": "cybercrow",
+  "birthplace": "Myrtle Bank (Adelaide), SA",
+  "status": "inactive",
+  "website": "https://cybercrow.net.au",
+  "summary": "Adelaide dialup ISP + PC training/consulting; defunct ~1999.",
+  "names": [
+    {
+      "name": "CyberCrow",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "Dialup (Adelaide/McLaren Vale/Salisbury), PC training."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021025164444/http://www.cynosure.com.au/isp/cybercrow",
+      "label": "CyberCrow (Cynosure 2002)"
+    }
+  ]
+}

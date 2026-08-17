@@ -1,0 +1,38 @@
+{
+  "name": "Beehive Internet",
+  "slug": "beehive-internet",
+  "birthplace": "Roseville, NSW",
+  "status": "inactive",
+  "website": "https://beehive.inoz.com",
+  "summary": "Sydney dialup/web-host ISP (Breakfast Bytes Pty Limited, domains beehive.inoz.com / beehive.inoz.au; shareholder Suzanne Todd, related to Adam Todd's AHNet); vanished by ~2003.",
+  "names": [
+    {
+      "name": "Beehive Internet",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Breakfast Bytes Pty Ltd (ACN 081 726 669); homepage 'Created 17/09/98'."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 2002)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010211010826/http://www.cynosure.com.au/isp/beehive",
+      "label": "Cynosure: Beehive"
+    }
+  ]
+}

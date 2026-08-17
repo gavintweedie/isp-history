@@ -1,0 +1,31 @@
+{
+  "name": "Betem Wireless Broadband",
+  "slug": "betem",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://betem.com.au",
+  "summary": "Brisbane wireless broadband ISP (Betem Pty Ltd, ABN 40 106 072 500, ~2003-04); defunct.",
+  "names": [
+    {
+      "name": "Betem Wireless Broadband",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Wireless broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

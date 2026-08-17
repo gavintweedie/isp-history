@@ -1,0 +1,31 @@
+{
+  "name": "Starlink",
+  "slug": "starlink",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://www.starlink.com",
+  "summary": "SpaceX satellite broadband; launched in Australia April 2021.",
+  "names": [
+    {
+      "name": "Starlink",
+      "start_year": 2021,
+      "start_disp": "2021"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2021,
+      "date_disp": "2021",
+      "precision": "exact",
+      "details": "Starlink service went live in Australia April 2021."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.abc.net.au/news/2021-04-13/starlink-australia-internet-access-satellites-elon-musk/100067664",
+      "label": "ABC News: Starlink arrives in Australia (Apr 2021)"
+    }
+  ]
+}

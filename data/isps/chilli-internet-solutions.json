@@ -1,0 +1,38 @@
+{
+  "name": "Chilli Internet Solutions",
+  "slug": "chilli-internet-solutions",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://chilli.net.au",
+  "summary": "Sydney dialup/web-hosting ISP; defunct (domain parked by 2025).",
+  "names": [
+    {
+      "name": "Chilli Internet Solutions",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Dialup, web hosting; later 3G/iBurst resale."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010s",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970625144853/http://www.chilli.net.au/",
+      "label": "Chilli (Wayback 1997)"
+    }
+  ]
+}

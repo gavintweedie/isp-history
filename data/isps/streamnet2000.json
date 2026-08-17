@@ -1,0 +1,38 @@
+{
+  "name": "StreamNet2000",
+  "slug": "streamnet2000",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://streamnet2000.com",
+  "summary": "Tiny personal/hobby ISP (streamnet internet services, 2002-03); domain parked by Dec 2005.",
+  "names": [
+    {
+      "name": "StreamNet2000",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "streamnet internet services."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "by Dec 2005",
+      "precision": "by",
+      "details": "Domain parked."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20031120031053/http://www.streamnet2000.com/",
+      "label": "StreamNet2000 (Wayback 2003)"
+    }
+  ]
+}

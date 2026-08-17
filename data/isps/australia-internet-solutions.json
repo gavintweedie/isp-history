@@ -1,0 +1,38 @@
+{
+  "name": "Australia Internet Solutions",
+  "slug": "australia-internet-solutions",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://ains.net.au",
+  "summary": "Melbourne dialup/ISDN + leased line/frame relay to 2Mb + hosting + internet cafe ISP; POPs Melbourne, Sydney, Perth; dead ~2006.",
+  "names": [
+    {
+      "name": "Australia Internet Solutions",
+      "start_year": 1997,
+      "start_disp": "by Dec 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Dec 1997",
+      "precision": "by",
+      "details": "Online by Dec 1997 (ains.net.au)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Last capture Aug 2006."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060821035625/http://ains.net.au/",
+      "label": "AINS (Wayback 2006)"
+    }
+  ]
+}

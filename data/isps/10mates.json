@@ -1,0 +1,24 @@
+{
+  "name": "10MATES",
+  "slug": "10mates",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://10mates.com.au/",
+  "summary": "Budget NBN + zero-frills mobile SIM provider (Infrared Group Pty Ltd); still active.",
+  "names": [
+    {
+      "name": "10MATES",
+      "start_year": 2015,
+      "start_disp": "c. 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Budget NBN + mobile."
+    }
+  ]
+}

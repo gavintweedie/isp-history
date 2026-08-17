@@ -1,0 +1,31 @@
+{
+  "name": "Tangent Internet",
+  "slug": "tangent-internet",
+  "birthplace": "Victoria",
+  "status": "inactive",
+  "website": "https://tangnt.com.au",
+  "summary": "Victorian dialup ISP (tangnt.com.au, 1996, 1800 68 44 07); defunct.",
+  "names": [
+    {
+      "name": "Tangent Internet",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

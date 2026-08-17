@@ -1,0 +1,41 @@
+{
+  "name": "Charon Information Systems",
+  "slug": "charon-information-systems",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://charon.net.au",
+  "summary": "Melbourne unlimited dialup ISP (PO Box 12065 A'Beckett St; Clayton POP; charon.net.au), 15MB free web space; defunct. Trading name \"Charon Information Services\".",
+  "names": [
+    {
+      "name": "Charon Information Systems",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "Charon Information Services"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1997)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Last active capture of charon.net.au (Dec 2005)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021203163950/http://www.cynosure.com.au/isp/charon",
+      "label": "Charon (Cynosure 2002)"
+    }
+  ]
+}

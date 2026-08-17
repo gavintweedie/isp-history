@@ -1,0 +1,31 @@
+{
+  "name": "Macarthurcook",
+  "slug": "macarthurcook",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://macarthurcook.com.au",
+  "summary": "New name of Local Telecom and Internet Ltd from 2003 (ASX-listed, code MCK); property funds manager; delisted 4 Sep 2009 after compulsory acquisition by AIMS Securities; corporate shell continues as AIMS Real Estate Group.",
+  "names": [
+    {
+      "name": "Macarthurcook",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Renamed from Local Telecom and Internet Ltd."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "Sep 2009",
+      "precision": "exact",
+      "details": "Delisted 4 Sep 2009 (AIMS compulsory acquisition)."
+    }
+  ]
+}

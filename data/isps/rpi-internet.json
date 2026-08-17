@@ -1,0 +1,38 @@
+{
+  "name": "RPI Internet",
+  "slug": "rpi-internet",
+  "birthplace": "Glendenning (Blacktown), NSW",
+  "status": "inactive",
+  "website": "https://isp.net.au",
+  "summary": "Budget western-Sydney dialup ISP (owner Robert Thomas); ceased trading ~Aug 2001; customers reportedly absorbed by Independent Service Providers (isp.net.au).",
+  "names": [
+    {
+      "name": "RPI Internet",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Budget 56K/ISDN dialup; first capture Dec 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Ceased trading ~Aug 2001; customers absorbed by ISP (isp.net.au)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961223005045/http://www.rpi.net.au/",
+      "label": "RPI Internet (Wayback 1996)"
+    }
+  ]
+}

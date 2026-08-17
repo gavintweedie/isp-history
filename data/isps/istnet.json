@@ -1,0 +1,31 @@
+{
+  "name": "ISTnet",
+  "slug": "istnet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://istnet.net.au",
+  "summary": "Perth full-service dialup + permanent-connection + hosting ISP (ISTNet, Greenwood, ~1997); defunct.",
+  "names": [
+    {
+      "name": "ISTnet",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Dialup, permanent connections, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

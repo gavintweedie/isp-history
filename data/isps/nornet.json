@@ -1,0 +1,31 @@
+{
+  "name": "NORNET",
+  "slug": "nornet",
+  "birthplace": "Northern Rivers, NSW",
+  "status": "inactive",
+  "website": "https://nor.com.au",
+  "summary": "Northern Rivers NSW regional dialup ISP + local directories (site live by Nov 1995); defunct.",
+  "names": [
+    {
+      "name": "NORNET",
+      "start_year": 1995,
+      "start_disp": "by Nov 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "by Nov 1995",
+      "precision": "by",
+      "details": "Regional dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Blitz Telecom (Australia)",
+  "slug": "blitz-telecom",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://blitztelecom.com.au",
+  "summary": "Telecom reseller (UK/US/AU; Aug 2007 acquired Koala Telecom's business); defunct.",
+  "names": [
+    {
+      "name": "Blitz Telecom (Australia)",
+      "start_year": 2007,
+      "start_disp": "Aug 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "Aug 2007",
+      "precision": "exact",
+      "details": "Acquired Koala Telecom business."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

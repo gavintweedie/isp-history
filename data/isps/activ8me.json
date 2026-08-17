@@ -1,0 +1,31 @@
+{
+  "name": "Activ8me",
+  "slug": "activ8me",
+  "birthplace": "Melbourne/Preston, VIC",
+  "status": "active",
+  "website": "https://www.activ8me.net.au",
+  "summary": "Australian Private Networks Pty Ltd; satellite (Sky Muster) + NBN fixed-wireless/fibre RSP; largest Sky Muster RSP; bought Boom Broadband 2018; still active.",
+  "names": [
+    {
+      "name": "Activ8me",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Australian Private Networks Pty Ltd, SA; trading as Activ8me from 2005."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Activ8me",
+      "label": "Wikipedia: Activ8me"
+    }
+  ]
+}

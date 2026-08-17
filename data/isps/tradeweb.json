@@ -1,0 +1,31 @@
+{
+  "name": "Tradeweb",
+  "slug": "tradeweb",
+  "birthplace": "Oatlands (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://tradeweb.com.au",
+  "summary": "Trades-member dialup ISP (Tradeweb Internet Services, ~1996); defunct.",
+  "names": [
+    {
+      "name": "Tradeweb",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

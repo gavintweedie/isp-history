@@ -1,0 +1,38 @@
+{
+  "name": "CSCCS Internet",
+  "slug": "csccs-internet",
+  "birthplace": "Calwell (Canberra), ACT",
+  "status": "inactive",
+  "website": "https://cs.net.au",
+  "summary": "Canberra dialup + hosting ISP (cs.net.au); defunct.",
+  "names": [
+    {
+      "name": "CSCCS Internet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Last active capture of cs.net.au (Apr 1999); parked from 2004."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021217021157/http://www.cynosure.com.au/isp/cs",
+      "label": "CSCCS (Cynosure 2002)"
+    }
+  ]
+}

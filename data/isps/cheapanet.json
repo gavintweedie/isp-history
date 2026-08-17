@@ -1,0 +1,38 @@
+{
+  "name": "Cheapanet",
+  "slug": "cheapanet",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://cheapanet.com.au",
+  "summary": "Sydney unlimited dialup ISP ($19.95/mo, 2:1 ratio); defunct.",
+  "names": [
+    {
+      "name": "Cheapanet",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 2001)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Last active capture of cheapanet.com.au (Nov 2005); parked from 2006."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021019234457/http://www.cynosure.com.au/isp/cheapanet",
+      "label": "Cheapanet (Cynosure 2002)"
+    }
+  ]
+}

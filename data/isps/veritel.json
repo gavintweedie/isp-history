@@ -1,0 +1,38 @@
+{
+  "name": "Veritel",
+  "slug": "veritel",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://veritel.com.au",
+  "summary": "ISP offering dialup, DSL and iBurst wireless (branded 'Freedom'); iBurst customers folded into BigAir 2006, iBurst service shut down 2009.",
+  "names": [
+    {
+      "name": "Veritel",
+      "start_year": 2004,
+      "start_disp": "by 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "by",
+      "details": "veritel.com.au captured from 2004."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "iBurst business acquired by BigAir."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040622224828/http://www.veritel.com.au/",
+      "label": "Veritel (Wayback 2004)"
+    }
+  ]
+}

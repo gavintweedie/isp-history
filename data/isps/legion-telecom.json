@@ -1,0 +1,24 @@
+{
+  "name": "Legion Telecom",
+  "slug": "legion-telecom",
+  "birthplace": "Sunshine Coast, QLD",
+  "status": "active",
+  "website": "https://legiontelecom.com.au",
+  "summary": "Sunshine Coast licensed carrier building business fibre (up to 10 Gbps).",
+  "names": [
+    {
+      "name": "Legion Telecom",
+      "start_year": 2020,
+      "start_disp": "2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "2020",
+      "precision": "exact",
+      "details": "Legion Telecom Pty Ltd, Sunshine Coast."
+    }
+  ]
+}

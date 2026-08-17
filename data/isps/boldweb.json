@@ -1,0 +1,38 @@
+{
+  "name": "BOLDWeb",
+  "slug": "boldweb",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://bold.net.au",
+  "summary": "Adelaide dialup ISP (BOLDWeb), owned by Binary Logic Pty Ltd (BOLD computer maker), SAIA member; in SA peering from Sep 1997; defunct.",
+  "names": [
+    {
+      "name": "BOLDWeb",
+      "start_year": 1997,
+      "start_disp": "by Sep 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Sep 1997",
+      "precision": "by",
+      "details": "In SA peering community from Sep 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991009114346/http://www.bold.net.au/aboutus.htm",
+      "label": "BOLDWeb (Wayback 1999)"
+    }
+  ]
+}

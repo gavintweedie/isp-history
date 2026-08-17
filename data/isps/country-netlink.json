@@ -1,0 +1,31 @@
+{
+  "name": "Country Netlink",
+  "slug": "country-netlink",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "countrynetlink.com.au",
+  "summary": "Regional ISP acquired by iiNet.",
+  "names": [
+    {
+      "name": "Country Netlink",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Aug 1997",
+      "precision": "by",
+      "details": "Company registered (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

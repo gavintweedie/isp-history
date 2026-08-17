@@ -1,0 +1,31 @@
+{
+  "name": "Maxi Internet Services",
+  "slug": "maxi-internet-services",
+  "birthplace": "Sydney (Leichhardt), NSW",
+  "status": "active",
+  "website": "https://www.maxi.net.au",
+  "summary": "Sydney ISP since 1997, now business ISP/VoIP provider trading as Maxinet; still active.",
+  "names": [
+    {
+      "name": "Maxi Internet Services",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Maxi Internet Services, Sydney."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980113200152/http://www.maxi.net.au/",
+      "label": "Maxi (Wayback 1998)"
+    }
+  ]
+}

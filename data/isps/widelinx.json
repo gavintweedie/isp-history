@@ -1,0 +1,31 @@
+{
+  "name": "Widelinx",
+  "slug": "widelinx",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://widelinx.com.au",
+  "summary": "ISP (widelinx.com.au online by Jun 2006); fate unverified.",
+  "names": [
+    {
+      "name": "Widelinx",
+      "start_year": 2006,
+      "start_disp": "by Jun 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "by Jun 2006",
+      "precision": "by",
+      "details": "ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

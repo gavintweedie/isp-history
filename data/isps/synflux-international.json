@@ -1,0 +1,31 @@
+{
+  "name": "Synflux International",
+  "slug": "synflux-international",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://synflux.com.au",
+  "summary": "ISP access + web hosting + network/security consulting (from late Dec 1995); fate unknown.",
+  "names": [
+    {
+      "name": "Synflux International",
+      "start_year": 1995,
+      "start_disp": "Dec 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "Dec 1995",
+      "precision": "exact",
+      "details": "ISP, hosting, security consulting."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

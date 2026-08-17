@@ -1,0 +1,38 @@
+{
+  "name": "Down Under Internet Services",
+  "slug": "down-under-internet-services",
+  "birthplace": "Stuart Park (Darwin), NT",
+  "status": "inactive",
+  "website": "https://downunder.net.au",
+  "summary": "Darwin national dialup (71 POPs) + hosting + internet cafe; defunct ~2003-04.",
+  "names": [
+    {
+      "name": "Down Under Internet Services",
+      "start_year": 1998,
+      "start_disp": "by Dec 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Dec 1998",
+      "precision": "by",
+      "details": "National dialup, hosting, web design."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2003-04",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981202105341/http://www.downunder.net.au/",
+      "label": "Down Under (Wayback 1998)"
+    }
+  ]
+}

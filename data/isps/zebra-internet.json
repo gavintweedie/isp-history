@@ -1,0 +1,31 @@
+{
+  "name": "Zebra Internet",
+  "slug": "zebra-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://zebrainternet.com.au",
+  "summary": "'Black and white Internet with no hidden catches' — dialup + ADSL ISP (~2003); defunct.",
+  "names": [
+    {
+      "name": "Zebra Internet",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Dialup + ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

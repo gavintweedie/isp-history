@@ -1,0 +1,38 @@
+{
+  "name": "ION Internet Services",
+  "slug": "ion-internet-services",
+  "birthplace": "Southport (Gold Coast), QLD",
+  "status": "inactive",
+  "website": "https://ion.com.au",
+  "summary": "Gold Coast dialup ISP since 1995 (national hourly + unlimited, ISDN, permanent 56k, global roaming); dead ~2001.",
+  "names": [
+    {
+      "name": "ION Internet Services",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "In business since 1995."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last capture May 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970613221649/http://www.ion.com.au/",
+      "label": "ION (Wayback 1997)"
+    }
+  ]
+}

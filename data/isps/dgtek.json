@@ -1,0 +1,24 @@
+{
+  "name": "DGtek",
+  "slug": "dgtek",
+  "birthplace": "Elwood (Melbourne), VIC",
+  "status": "active",
+  "website": "https://dgtek.net/",
+  "summary": "Registered carrier building/operating FTTP network (100k+ premises, since 2014); sells wholesale via partners.",
+  "names": [
+    {
+      "name": "DGtek",
+      "start_year": 2014,
+      "start_disp": "2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "2014",
+      "precision": "exact",
+      "details": "FTTP network builder/operator."
+    }
+  ]
+}

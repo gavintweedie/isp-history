@@ -1,0 +1,31 @@
+{
+  "name": "Leaptel",
+  "slug": "leaptel",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://leaptel.com.au",
+  "summary": "Melbourne NBN/business ISP founded 2015; known for high-speed NBN plans.",
+  "names": [
+    {
+      "name": "Leaptel",
+      "start_year": 2015,
+      "start_disp": "2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "Leap Telecommunications Pty Ltd, founded by Matthew Enger."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20161206055910/http://leaptel.com.au/",
+      "label": "Leaptel (Wayback 2016)"
+    }
+  ]
+}

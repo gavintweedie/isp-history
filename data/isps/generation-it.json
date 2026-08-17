@@ -1,0 +1,38 @@
+{
+  "name": "Generation IT",
+  "slug": "generation-it",
+  "birthplace": "Subiaco (Perth), WA",
+  "status": "inactive",
+  "website": "https://git.net.au",
+  "summary": "Perth dialup (56k/64k) + web design ISP; dead (domain reused).",
+  "names": [
+    {
+      "name": "Generation IT",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "In directory from 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active capture of git.net.au (Aug 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2002/http://www.cynosure.com.au/isp/git",
+      "label": "Generation IT (Cynosure 2002)"
+    }
+  ]
+}

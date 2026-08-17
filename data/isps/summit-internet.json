@@ -1,0 +1,24 @@
+{
+  "name": "Summit Internet",
+  "slug": "summit-internet",
+  "birthplace": "Blackburn/Doncaster East (Melbourne), VIC",
+  "status": "active",
+  "website": "https://summitinternet.com.au/",
+  "summary": "Business fixed wireless + fibre + MPLS + hosted PBX + datacentre provider (Summit Group, ACMA carrier 388, ~2005); still active.",
+  "names": [
+    {
+      "name": "Summit Internet",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Business fixed wireless, fibre, MPLS, hosted PBX."
+    }
+  ]
+}

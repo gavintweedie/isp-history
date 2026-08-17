@@ -1,0 +1,38 @@
+{
+  "name": "Agile Communications",
+  "slug": "agile-communications",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://agile.com.au",
+  "summary": "Adelaide licensed IP telecom carrier (Agile Pty Ltd), subsidiary of Internode (from 1999); Ethernet-based data + IP voice; folded into the Internode/iiNet/TPG line.",
+  "names": [
+    {
+      "name": "Agile Communications",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Agile Communications, Internode's carrier arm (Adelaide)."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "2011",
+      "precision": "exact",
+      "details": "Folded into Internode/iiNet line."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991111101548/http://www.agile.com.au/",
+      "label": "Agile (Wayback 1999)"
+    }
+  ]
+}

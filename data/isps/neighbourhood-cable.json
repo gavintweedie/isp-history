@@ -1,0 +1,38 @@
+{
+  "name": "Neighbourhood Cable",
+  "slug": "neighbourhood-cable",
+  "birthplace": "Mildura/Ballarat/Geelong, VIC",
+  "status": "inactive",
+  "website": "neighbourhoodcable.com.au",
+  "summary": "Regional Victorian HFC cable provider (Mildura, Ballarat, Geelong); acquired by TransACT 2007, brand dropped 2011.",
+  "names": [
+    {
+      "name": "Neighbourhood Cable",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Network rollout commenced Mildura 1 March 1996; listed as Neighbourhood Cable Ltd 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "2011",
+      "precision": "exact",
+      "details": "Brand dropped; rebranded as TransACT (which iiNet acquired Nov 2011)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neighbourhood_Cable",
+      "label": "Wikipedia: Neighbourhood Cable"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Intercode",
+  "slug": "intercode",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://intercode.com.au",
+  "summary": "Sydney ISP + Linux development + systems integration + hosting (Intercode Pty Ltd, ACN 075 186 051, ~1995-96); defunct. NOTE: claimed iiNet acquisition unverified.",
+  "names": [
+    {
+      "name": "Intercode",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "ISP + Linux + hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

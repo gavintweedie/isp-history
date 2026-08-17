@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+{% block title %}{{ isp.name }} — Australian ISP Family Tree{% endblock %}
+{% block content %}
+<h1>{{ isp.name }}
+  <span class="status {{ isp.status }}">{{ isp.status }}</span>
+</h1>
+{% if isp.summary %}<p>{{ isp.summary }}</p>{% endif %}
+<p class="meta">
+  {% if isp.birthplace %}Founded in {{ isp.birthplace }}.{% endif %}
+  {% if isp.website %}<a href="{{ isp.website }}">{{ isp.website }}</a>{% endif %}
+</p>
+
+<section>
+  <h2>Name history</h2>
+  <table>
+    <tr><th>Name</th><th>From</th><th>To</th></tr>
+    {% for n in names %}
+      <tr>
+        <td>{{ n.name }}</td>
+        <td>{{ n.start_disp or n.start_year or '' }}</td>
+        <td>{{ n.end_disp or n.end_year or '' }}</td>
+      </tr>
+    {% else %}
+      <tr><td colspan="3" class="empty">No name history recorded.</td></tr>
+    {% endfor %}
+  </table>
+</section>
+
+{% if aliases %}
+<section>
+  <h2>Aliases</h2>
+  <ul>
+    {% for a in aliases %}
+      <li>{{ a.name }}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section>
+  <h2>Lifecycle</h2>
+  <table>
+    <tr><th>Kind</th><th>Date</th><th>Details</th><th>Refs</th></tr>
+    {% for e in events %}
+      <tr>
+        <td>{{ e.event.kind }}</td>
+        <td>{{ e.event.date_disp or e.event.year or '' }}
+          {% if e.event.precision and e.event.precision != 'exact' %}
+            <span class="prec" title="date precision: {{ e.event.precision }}">{{ e.event.precision }}</span>
+          {% endif %}
+        </td>
+        <td>{{ e.event.details }}</td>
+        <td>{% set refs = e.refs %}{% include "_refs.html" %}</td>
+      </tr>
+    {% else %}
+      <tr><td colspan="4" class="empty">No lifecycle events recorded.</td></tr>
+    {% endfor %}
+  </table>
+</section>
+
+<section>
+  <h2>Transitions</h2>
+  <table>
+    <tr><th>Direction</th><th>Type</th><th>Other party</th><th>Arm / notes</th><th>Year</th><th>Refs</th></tr>
+    {% for t in transitions %}
+      <tr>
+        <td>{{ 'incoming' if t.incoming else 'outgoing' }}</td>
+        <td>{{ t.transition.type }}</td>
+        <td>
+          {% if t.other %}
+            <a href="{{ url_for('isp_detail', slug=t.other.slug) }}">{{ t.other.name }}</a>
+          {% endif %}
+        </td>
+        <td>{% if t.transition.arm_label %}<strong>{{ t.transition.arm_label }}</strong><br>{% endif %}{{ t.transition.notes }}</td>
+        <td>{{ t.transition.date_disp or t.transition.year or '' }}</td>
+        <td>{% set refs = t.refs %}{% include "_refs.html" %}</td>
+      </tr>
+    {% else %}
+      <tr><td colspan="6" class="empty">No transitions recorded.</td></tr>
+    {% endfor %}
+  </table>
+</section>
+
+<section>
+  <h2>References</h2>
+  <ul>
+    {% for r in refs %}
+      <li>
+        <a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.label or r.url }}</a>
+        <span class="kind">[{{ r.kind }}]</span>
+        <a href="https://web.archive.org/web/2/{{ r.url }}" target="_blank" rel="noopener">Wayback</a>
+      </li>
+    {% else %}
+      <li class="empty">No references recorded.</li>
+    {% endfor %}
+  </ul>
+</section>
+
+<p class="meta"><a href="{{ url_for('index') }}">← back to graph</a></p>
+{% endblock %}

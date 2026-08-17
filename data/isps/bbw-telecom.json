@@ -1,0 +1,38 @@
+{
+  "name": "BBW Telecom",
+  "slug": "bbw-telecom",
+  "birthplace": "Hobart, TAS",
+  "status": "inactive",
+  "website": "https://bbw.net.au",
+  "summary": "Hobart wireless telco (Broadband Wireless Pty Ltd); acquired Intas 2009; absorbed by iiNet directly ~late Feb 2012.",
+  "names": [
+    {
+      "name": "BBW Telecom",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Founded in Hobart (to serve Thrifty Car Rental franchise)."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "late Feb 2012",
+      "precision": "exact",
+      "details": "Absorbed by iiNet directly (per user report; no public announcement)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20091030054947/http://www.bbw.net.au/",
+      "label": "BBW Telecom (Wayback 2009)"
+    }
+  ]
+}

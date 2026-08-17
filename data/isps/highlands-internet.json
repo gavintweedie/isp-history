@@ -1,0 +1,31 @@
+{
+  "name": "Highlands Internet",
+  "slug": "highlands-internet",
+  "birthplace": "Southern Highlands, NSW",
+  "status": "inactive",
+  "website": "https://hinet.net.au",
+  "summary": "Southern Highlands NSW dialup ISP (hinet.net.au, ~1996); original ISP defunct.",
+  "names": [
+    {
+      "name": "Highlands Internet",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

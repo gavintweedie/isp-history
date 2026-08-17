@@ -1,0 +1,38 @@
+{
+  "name": "Accord Technologies",
+  "slug": "accord-technologies",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://crox.com.au",
+  "summary": "WA Microsoft-specialist IT integrator (Accord Technologies Pty Ltd, name from 20 Mar 2000); bought by Hostech in the Feb 2010 Kazacos merger and folded into the Anittel Group.",
+  "names": [
+    {
+      "name": "Accord Technologies",
+      "start_year": 2000,
+      "start_disp": "Mar 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "Mar 2000",
+      "precision": "exact",
+      "details": "Registered as Accord Technologies Pty Ltd (20 Mar 2000)."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "Feb 2010",
+      "precision": "exact",
+      "details": "Bought by Hostech; folded into Anittel Group."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20070204060133/http://www.crox.com.au/",
+      "label": "Crox/Accord (Wayback 2007)"
+    }
+  ]
+}

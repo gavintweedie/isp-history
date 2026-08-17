@@ -1,0 +1,38 @@
+{
+  "name": "Everywhere Internet",
+  "slug": "everywhere-internet",
+  "birthplace": "Surry Hills (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://everywhereinternet.com.au",
+  "summary": "Everywhere Internet (Holdings + Systems Pty Ltd); began as an internet-cafe/kiosk chain on its own fibre network (~2004/05), pivoted to national pay-as-you-go kiosks + managed WiFi; acquired by BigAir (share-sale agreement 4 Dec 2015, A$750k cash + earnout up to A$3.5m).",
+  "names": [
+    {
+      "name": "Everywhere Internet",
+      "start_year": 2004,
+      "start_disp": "c. 2004/05"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004/05",
+      "precision": "approx",
+      "details": "Internet services business since ~2004/05 (Sydney)."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "Dec 2015",
+      "precision": "exact",
+      "details": "Acquired by BigAir (control from 4 Dec 2015)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20051223064252/http://www.everywhereinternet.com.au/",
+      "label": "Everywhere Internet (Wayback 2005)"
+    }
+  ]
+}

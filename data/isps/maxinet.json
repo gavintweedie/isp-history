@@ -1,0 +1,31 @@
+{
+  "name": "Maxinet",
+  "slug": "maxinet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "maxinet.com.au",
+  "summary": "Dialup ISP (local-call access all capitals, ~1997); defunct.",
+  "names": [
+    {
+      "name": "Maxinet",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

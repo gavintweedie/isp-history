@@ -1,0 +1,38 @@
+{
+  "name": "Free Net",
+  "slug": "free-net",
+  "birthplace": "Parramatta (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://free.net.au",
+  "summary": "Sydney free ad-funded unlimited dialup; became paid ISP PremiumNet by 2004, gone by 2006.",
+  "names": [
+    {
+      "name": "Free Net",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Free ad-funded unlimited dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Became PremiumNet, then gone."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2004/http://www.free.net.au/",
+      "label": "Free Net (Wayback 2004)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "JaziNET",
+  "slug": "jazinet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://jazi.net",
+  "summary": "WA-owned dialup ISP (PAYG/Casual/Home/Premium plans; POPs Perth + Busselton); defunct.",
+  "names": [
+    {
+      "name": "JaziNET",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 2000)."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "2009",
+      "precision": "exact",
+      "details": "Last active capture of jazi.net (Feb 2009)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021219070007/http://www.cynosure.com.au/isp/jazi",
+      "label": "JaziNET (Cynosure 2002)"
+    }
+  ]
+}

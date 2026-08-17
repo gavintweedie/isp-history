@@ -1,0 +1,31 @@
+{
+  "name": "itXpress",
+  "slug": "itxpress",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://itxpress.com.au",
+  "summary": "Brisbane + Central QLD dialup + hosting + domains ISP (~2000); defunct.",
+  "names": [
+    {
+      "name": "itXpress",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Dialup, hosting, domains."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

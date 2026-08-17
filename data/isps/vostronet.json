@@ -1,0 +1,31 @@
+{
+  "name": "VostroNet",
+  "slug": "vostronet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "vostronet.com.au",
+  "summary": "B2B ISP/wholesaler, acquired by Superloop.",
+  "names": [
+    {
+      "name": "VostroNet",
+      "start_year": 2022,
+      "start_disp": "2022"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "2014",
+      "precision": "exact",
+      "details": "Wholesale gigabit fibre/Wi-Fi network provider established 2014 (ABN)."
+    },
+    {
+      "kind": "death",
+      "year": 2022,
+      "date_disp": "2022",
+      "precision": "exact",
+      "details": "Acquired by Superloop (~A$35m)."
+    }
+  ]
+}

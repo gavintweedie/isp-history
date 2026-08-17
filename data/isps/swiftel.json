@@ -1,0 +1,31 @@
+{
+  "name": "Swiftel",
+  "slug": "swiftel",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://swiftel.net.au",
+  "summary": "Perth business network carrier; became an ASX shell reverse-taken-over by People Telecom.",
+  "names": [
+    {
+      "name": "Swiftel",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Swiftel Pty Ltd established; ASX-listed 2000 via reverse takeover of Roebuck Resources."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Reverse-taken-over by People Telecom."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Vine Networks",
+  "slug": "vine-networks",
+  "birthplace": "Sunshine Coast, QLD",
+  "status": "active",
+  "website": "https://vinenetworks.com.au",
+  "summary": "Fibre-broadband operator (Vine Networks Pty Ltd, ABN 97 633 076 383, commenced 24 Apr 2019, Sunshine Coast QLD); renamed Diverse Networks Group Pty Ltd 23 Apr 2026. NOTE: vine.com.au (Penrith) was an unrelated ClickMedia printing bureau.",
+  "names": [
+    {
+      "name": "Vine Networks",
+      "start_year": 2019,
+      "start_disp": "24 Apr 2019"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2019,
+      "date_disp": "24 Apr 2019",
+      "precision": "exact",
+      "details": "Vine Networks Pty Ltd commenced (business name from 24 Apr 2019)."
+    }
+  ]
+}

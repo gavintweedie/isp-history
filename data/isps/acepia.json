@@ -1,0 +1,38 @@
+{
+  "name": "Acepia",
+  "slug": "acepia",
+  "birthplace": "Croydon (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://acepia.net.au",
+  "summary": "Melbourne premium dialup + hosting + e-commerce ISP; dead c.2008.",
+  "names": [
+    {
+      "name": "Acepia",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Last capture Nov 2008."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020219214457/http://www.cynosure.com.au/isp/acepia",
+      "label": "Acepia (Cynosure 2002)"
+    }
+  ]
+}

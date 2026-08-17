@@ -1,0 +1,43 @@
+{
+  "name": "Karratha Internet Support Services",
+  "slug": "karratha-internet",
+  "birthplace": "Karratha, WA",
+  "status": "inactive",
+  "website": "https://kisser.net.au",
+  "summary": "WAIA corporate member 2000; ran 'Karratha Online' (kisser.net.au, 32 dial-in lines, 2x64K ISDN reseller); taken over by EscapeNet by Apr 2013 (domain redirect + registrar transfer).",
+  "names": [
+    {
+      "name": "Karratha Internet Support Services",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Regional Pilbara ISP, c. 1997-98."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "by Apr 2013",
+      "precision": "by",
+      "details": "Taken over by EscapeNet (kisser.net.au redirect/transfer)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001206145600/http://www.waia.asn.au/members/corporate.html",
+      "label": "WAIA corporate members (Wayback 2000)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20130408164540/http://kisser.net.au/",
+      "label": "KISS redirect (Wayback 2013)"
+    }
+  ]
+}

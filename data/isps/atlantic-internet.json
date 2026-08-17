@@ -1,0 +1,38 @@
+{
+  "name": "Atlantic Internet",
+  "slug": "atlantic-internet",
+  "birthplace": "Paddington (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://atlantech.com.au",
+  "summary": "Brisbane dialup + hosting + internet cafe (The Computer Cafe, 2Mbit HDSL) ISP; shareholder Radtek Pty Ltd; dead.",
+  "names": [
+    {
+      "name": "Atlantic Internet",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1999)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Last active capture of atlantech.com.au (Dec 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030217094843/http://www.cynosure.com.au/isp/computercafe",
+      "label": "Atlantic Internet (Cynosure 2003)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Blue Planet Internet",
+  "slug": "blue-planet-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://bluep.com",
+  "summary": "Early FreeBSD-based dialup + hosting ISP (bluep.com, 1996); defunct.",
+  "names": [
+    {
+      "name": "Blue Planet Internet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Dialup, hosting, Tucows mirror."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

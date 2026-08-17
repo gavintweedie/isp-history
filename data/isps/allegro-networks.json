@@ -1,0 +1,31 @@
+{
+  "name": "Allegro Networks",
+  "slug": "allegro-networks",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "allegro.com.au",
+  "summary": "Network/telecoms business (Allegro Networks Pty Ltd, registered as Broadband 2U Pty Ltd 2002, renamed Allegro Networks Nov 2005); acquired by BigAir 22 May 2012.",
+  "names": [
+    {
+      "name": "Allegro Networks",
+      "start_year": 2002,
+      "start_disp": "19 Jul 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "19 Jul 2002",
+      "precision": "exact",
+      "details": "Registered as Broadband 2U Pty Ltd (ACN 101 425 094); renamed Allegro Networks 10 Nov 2005."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "May 2012",
+      "precision": "exact",
+      "details": "Acquired by BigAir (22 May 2012)."
+    }
+  ]
+}

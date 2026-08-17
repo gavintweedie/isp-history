@@ -1,0 +1,38 @@
+{
+  "name": "Ram Network Services",
+  "slug": "ram-network-services",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://ram.net",
+  "summary": "Sydney dialup + web dev + networking ISP (Ram Network Services Pty Ltd, 'Ram.Net', 1996); domain later served AlchemyIT.",
+  "names": [
+    {
+      "name": "Ram Network Services",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Ram.Net (Sydney)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "Domain later AlchemyIT."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970101113716/http://www.ram.net.au/service.html",
+      "label": "Ram.Net (Wayback 1997)"
+    }
+  ]
+}

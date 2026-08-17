@@ -1,0 +1,38 @@
+{
+  "name": "Amitar Internet Services",
+  "slug": "amitar-internet-services",
+  "birthplace": "Kelmscott (Perth), WA",
+  "status": "inactive",
+  "website": "https://amitar.com.au",
+  "summary": "Perth dialup/web-hosting ISP; defunct as ISP (domain repurposed as Amitar Publishing).",
+  "names": [
+    {
+      "name": "Amitar Internet Services",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Dialup, web hosting, web design."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "Defunct as ISP."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980212045003/http://www.amitar.com.au/",
+      "label": "Amitar (Wayback 1998)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Cinenet Systems",
+  "slug": "cinenet-systems",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://cine.net.au",
+  "summary": "High-speed data network for the film/media industries; built infrastructure linking Brisbane, Sydney, Melbourne, Adelaide and Los Angeles; acquired by Superloop.",
+  "names": [
+    {
+      "name": "Cinenet Systems",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Commenced operations; founded by Tony Clark (co-founder of Rising Sun Pictures) and media partners."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "Dec 2015",
+      "precision": "exact",
+      "details": "Acquired by Superloop (agreement Nov 2015; completed Dec 2015)."
+    }
+  ]
+}

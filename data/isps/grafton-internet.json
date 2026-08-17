@@ -1,0 +1,31 @@
+{
+  "name": "Grafton Internet",
+  "slug": "grafton-internet",
+  "birthplace": "Grafton, NSW",
+  "status": "inactive",
+  "website": "https://graftoninternet.com.au",
+  "summary": "North-coast NSW dialup/broadband ISP run by Lismore Online (2001-03); defunct.",
+  "names": [
+    {
+      "name": "Grafton Internet",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Dialup, broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

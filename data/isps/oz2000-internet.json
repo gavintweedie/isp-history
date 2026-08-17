@@ -1,0 +1,38 @@
+{
+  "name": "OZ2000 Internet",
+  "slug": "oz2000-internet",
+  "birthplace": "Toongabbie (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://oz2000.com",
+  "summary": "Sydney dialup ISP with national POPs; dormant ~2009.",
+  "names": [
+    {
+      "name": "OZ2000 Internet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Dialup 56k v.90, web hosting, later ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Dormant."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212031659/http://www.oz2000.com/",
+      "label": "OZ2000 (Wayback 1998)"
+    }
+  ]
+}

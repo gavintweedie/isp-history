@@ -1,0 +1,31 @@
+{
+  "name": "WebOne",
+  "slug": "webone",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "webone.com.au",
+  "summary": "ISP acquired by iiNet.",
+  "names": [
+    {
+      "name": "WebOne",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Jun 1998",
+      "precision": "by",
+      "details": "Company registered (ASIC)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Swiftlink Communications",
+  "slug": "swiftlink",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://swiftlink.net.au",
+  "summary": "Dialup ISP (swiftlink.net.au, 1998-99); defunct.",
+  "names": [
+    {
+      "name": "Swiftlink Communications",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

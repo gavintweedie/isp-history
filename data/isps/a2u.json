@@ -1,0 +1,38 @@
+{
+  "name": "A2U Internet",
+  "slug": "a2u",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://atu.net.au",
+  "summary": "Sydney web-hosting/dialup ISP ('Adap-2-Us', ATU Internet Pty Ltd, est. 1997); merged with Viper to form Independent Service Providers 2001.",
+  "names": [
+    {
+      "name": "A2U Internet",
+      "start_year": 1997,
+      "start_disp": "early 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "early 1997",
+      "precision": "exact",
+      "details": "Adap-2-Us established (ATU Internet Pty Ltd)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "Jul 2001",
+      "precision": "exact",
+      "details": "Merged with Viper.net.au to create Independent Service Providers (isp.net.au)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000519231804/http://www.atu.net.au/",
+      "label": "A2U/ATU (Wayback 2000)"
+    }
+  ]
+}

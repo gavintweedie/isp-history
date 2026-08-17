@@ -1,0 +1,38 @@
+{
+  "name": "Amisoft Internet",
+  "slug": "amisoft-internet",
+  "birthplace": "Kalamunda (Perth), WA",
+  "status": "inactive",
+  "website": "https://ami.com.au",
+  "summary": "Perth OS/2-based dialup + hosting ISP; dead by ~2005.",
+  "names": [
+    {
+      "name": "Amisoft Internet",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of ami.com.au Apr 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "by 2005",
+      "precision": "by",
+      "details": "Site labelled \"Archive Site\" by 2005."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050118000000/http://www.ami.com.au/",
+      "label": "Amisoft (Wayback 2005)"
+    }
+  ]
+}

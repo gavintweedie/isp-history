@@ -1,0 +1,38 @@
+{
+  "name": "Pivit",
+  "slug": "pivit",
+  "birthplace": "Underwood (Brisbane), QLD",
+  "status": "active",
+  "website": "https://pivit.com.au",
+  "summary": "Fibre/wireless carrier and NBN RSP (est. 2004); acquired by On Q Communications/Consolidated Telecom ~Dec 2025.",
+  "names": [
+    {
+      "name": "Pivit",
+      "start_year": 2004,
+      "start_disp": "2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Pivit Group founded, SE Queensland."
+    },
+    {
+      "kind": "death",
+      "year": 2025,
+      "date_disp": "Dec 2025",
+      "precision": "exact",
+      "details": "Acquired by On Q Communications (Consolidated Telecom group)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060822002637/http://www.pivit.com.au/",
+      "label": "Pivit (Wayback 2006)"
+    }
+  ]
+}

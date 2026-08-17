@@ -1,0 +1,31 @@
+{
+  "name": "ABCdsl.net",
+  "slug": "abcdsl",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://abcdsl.com.au",
+  "summary": "ADSL ISP (brand of Alias Internet web agency, 2002); defunct.",
+  "names": [
+    {
+      "name": "ABCdsl.net",
+      "start_year": 2002,
+      "start_disp": "2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "ADSL brand of Alias Internet."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

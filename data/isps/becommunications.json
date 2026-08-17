@@ -1,0 +1,31 @@
+{
+  "name": "BeCommunications",
+  "slug": "becommunications",
+  "birthplace": "Geelong, VIC",
+  "status": "inactive",
+  "website": "https://becom.com.au",
+  "summary": "Geelong BeWireless wireless broadband + business services + phone preselection (BeCom, ~2004); defunct.",
+  "names": [
+    {
+      "name": "BeCommunications",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Wireless broadband, business services."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

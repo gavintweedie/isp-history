@@ -1,0 +1,31 @@
+{
+  "name": "Fast Access Network",
+  "slug": "fast-access-network",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://fastaccess.com.au",
+  "summary": "Perth dialup ISP + PC/network support (Fast Access Network Pty Ltd, AS7611, ~1996-97); company defunct, founder continued as sole trader.",
+  "names": [
+    {
+      "name": "Fast Access Network",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Dialup + PC/network support."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct as company."
+    }
+  ]
+}

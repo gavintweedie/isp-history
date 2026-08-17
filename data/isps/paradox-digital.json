@@ -1,0 +1,45 @@
+{
+  "name": "Paradox Digital",
+  "slug": "paradox-digital",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://paradox.net.au",
+  "summary": "Perth wholesale Internet carrier (bandwidth/transit/peering for retail ISPs); acquired by Fleet Broadband c.2001, folded into Datafast/Eftel.",
+  "names": [
+    {
+      "name": "Paradox Digital",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Operating by Feb 1998 (Wayback capture); wholesale Internet carrier.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980215130024/http://www.paradox.net.au/",
+          "label": "First Wayback capture Feb 1998"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Acquired by Fleet Broadband; became DFT Wholesale under Datafast/Eftel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980215130024/http://www.paradox.net.au/",
+      "label": "Paradox Digital (Wayback 1998)"
+    }
+  ]
+}

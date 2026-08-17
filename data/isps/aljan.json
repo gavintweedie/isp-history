@@ -1,0 +1,31 @@
+{
+  "name": "Aljan",
+  "slug": "aljan",
+  "birthplace": "Newcastle, NSW",
+  "status": "inactive",
+  "website": "https://aljan.com.au",
+  "summary": "Newcastle dialup/ISDN + hosting ISP (AJM Services Pty Ltd, ACN 076 512 064, 1997); defunct.",
+  "names": [
+    {
+      "name": "Aljan",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Dialup, ISDN, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

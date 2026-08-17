@@ -1,0 +1,38 @@
+{
+  "name": "Hub Communications",
+  "slug": "hub-communications",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://thehub.net.au",
+  "summary": "Brisbane dialup ISP ('The Hub', run from an internet cafe, founded 1995, rival of PowerUp); acquired by Pacific Internet Dec 1999.",
+  "names": [
+    {
+      "name": "Hub Communications",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Founded Brisbane (The Hub); Qld IT&T award 1996 & 1997."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "Dec 1999",
+      "precision": "exact",
+      "details": "Acquired by Pacific Internet (with Zeta Internet)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981202000000/http://www.thehub.net.au/",
+      "label": "The Hub (Wayback 1998)"
+    }
+  ]
+}

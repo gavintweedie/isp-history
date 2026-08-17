@@ -1,0 +1,38 @@
+{
+  "name": "EON Technology",
+  "slug": "eon-technology",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://eon.net.au",
+  "summary": "WA-wide ISP founded c.1997; acquired by Highway 1 (ZettaServe Group) in 2010.",
+  "names": [
+    {
+      "name": "EON Technology",
+      "start_year": 1997,
+      "start_disp": "c. 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "ACN 079 355 490; WA-wide regional dial-up/ADSL2+ ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "2010",
+      "precision": "exact",
+      "details": "Acquired by Highway 1 (later ZettaNet/Zettagrid)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980703130937/http://www.eon.net.au/",
+      "label": "EON Technology (Wayback 1998)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Regional Wireless",
+  "slug": "regional-wireless",
+  "birthplace": "Warrnambool/Morwell, VIC",
+  "status": "inactive",
+  "website": "https://regionalwireless.com.au",
+  "summary": "Fixed-wireless broadband provider for western + eastern Victoria; joint venture of Wideband Networks (Morwell) and Westvic Broadband (Warrnambool); parents amalgamated into Aussie Broadband 2008.",
+  "names": [
+    {
+      "name": "Regional Wireless",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Regional Wireless Pty Ltd."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Parents Wideband + Westvic amalgamated into Aussie Broadband."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040609005651/http://www.regionalwireless.com.au/",
+      "label": "Regional Wireless (Wayback 2004)"
+    }
+  ]
+}

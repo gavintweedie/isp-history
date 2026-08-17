@@ -1,0 +1,38 @@
+{
+  "name": "Broad Net Internet Services",
+  "slug": "broad-net-internet-services",
+  "birthplace": "Burleigh Heads (Gold Coast), QLD",
+  "status": "inactive",
+  "website": "https://broad.net.au",
+  "summary": "Gold Coast dialup/ADSL ISP (Broadnet Pty Ltd); acquired by Chariot netconnect ~2004-05.",
+  "names": [
+    {
+      "name": "Broad Net Internet Services",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Dialup, ADSL, web design."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2004-05",
+      "precision": "approx",
+      "details": "Acquired by Chariot netconnect (-> TPG)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040208230316/http://broad.net.au/",
+      "label": "Broad Net (Wayback 2004)"
+    }
+  ]
+}

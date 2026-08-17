@@ -1,0 +1,38 @@
+{
+  "name": "CSI Connect",
+  "slug": "csi-connect",
+  "birthplace": "Charlestown, NSW",
+  "status": "inactive",
+  "website": "https://csiconnect.com.au",
+  "summary": "Newcastle business ISP (Complete Systems Integration Pty Ltd); ADSL/VoIP/WiFi; defunct ~2015.",
+  "names": [
+    {
+      "name": "CSI Connect",
+      "start_year": 2008,
+      "start_disp": "c. 2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Business ISP, Charlestown Newcastle."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Defunct (domain dead after ~2015)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080723232853/http://www.csiconnect.com.au/",
+      "label": "CSI Connect (Wayback 2008)"
+    }
+  ]
+}

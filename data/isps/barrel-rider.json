@@ -1,0 +1,38 @@
+{
+  "name": "Barrel Rider",
+  "slug": "barrel-rider",
+  "birthplace": "Wavell Heights (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://barrelrider.net.au",
+  "summary": "Brisbane/Gold Coast dialup + portal ISP; dead ~2003.",
+  "names": [
+    {
+      "name": "Barrel Rider",
+      "start_year": 1999,
+      "start_disp": "by Apr 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Apr 1999",
+      "precision": "by",
+      "details": "Online from Apr 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Last capture Oct 2003."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030828102558/http://www.barrelrider.net.au/64123.asp",
+      "label": "Barrel Rider (Wayback 2003)"
+    }
+  ]
+}

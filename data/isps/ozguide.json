@@ -1,0 +1,31 @@
+{
+  "name": "OzGuide",
+  "slug": "ozguide",
+  "birthplace": "East Brighton (Melbourne), VIC",
+  "status": "active",
+  "website": "http://www.ozguide.com/",
+  "summary": "National dialup + hosting + design/training ISP (POPs via connect.com.au); domain still live.",
+  "names": [
+    {
+      "name": "OzGuide",
+      "start_year": 1999,
+      "start_disp": "by May 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by May 1999",
+      "precision": "by",
+      "details": "Operating by 7 May 1999."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030202000000/http://www.cynosure.com.au/isp/ozguide",
+      "label": "OzGuide (Cynosure 2003)"
+    }
+  ]
+}

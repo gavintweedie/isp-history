@@ -1,0 +1,31 @@
+{
+  "name": "123 easyDSL",
+  "slug": "123-easydsl",
+  "birthplace": "Surry Hills (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://123-easydsl.com",
+  "summary": "ADSL-only ISP (17 Chapman St, Surry Hills; ABN 97 562 994 794, ~2003); defunct by 2006.",
+  "names": [
+    {
+      "name": "123 easyDSL",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "ADSL-only ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Defunct."
+    }
+  ]
+}

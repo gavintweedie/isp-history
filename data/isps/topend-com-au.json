@@ -1,0 +1,38 @@
+{
+  "name": "Topend.Com.Au",
+  "slug": "topend-com-au",
+  "birthplace": "Darwin, NT",
+  "status": "inactive",
+  "website": "https://topend.com.au",
+  "summary": "NT/QLD dialup ISP (Darwin, Katherine, Alice Springs, Tennant Creek, Mt Isa, Cloncurry, Townsville hubs); defunct.",
+  "names": [
+    {
+      "name": "Topend.Com.Au",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "Operating by 10 Apr 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Last active capture of topend.com.au (Aug 2006)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021226000000/http://www.cynosure.com.au/isp/topend",
+      "label": "Topend (Cynosure 2002)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "ANS Communications",
+  "slug": "ans-communications",
+  "birthplace": "Glebe (Sydney), NSW",
+  "status": "active",
+  "website": "https://ans.com.au",
+  "summary": "Sydney ISP since 1996; still trading as a web-hosting/domain business.",
+  "names": [
+    {
+      "name": "ANS Communications",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Dialup then ADSL, now web hosting."
+    },
+    {
+      "kind": "death",
+      "date_disp": "None",
+      "precision": "exact",
+      "details": "None"
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011214024226/http://www.cynosure.com.au/isp/ans",
+      "label": "ANS (Cynosure 2002)"
+    }
+  ]
+}

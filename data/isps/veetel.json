@@ -1,0 +1,31 @@
+{
+  "name": "VeeTel",
+  "slug": "veetel",
+  "birthplace": "Maroubra (Sydney), NSW",
+  "status": "active",
+  "website": "https://veetel.com.au",
+  "summary": "Small Sydney ISP/telecom (VeeTel Pty Limited, ACN 118 924 146, reg. 22 Mar 2006; NBN, ADSL2+, home phone, mobile SIM, IPTV); still active.",
+  "names": [
+    {
+      "name": "VeeTel",
+      "start_year": 2006,
+      "start_disp": "22 Mar 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "22 Mar 2006",
+      "precision": "exact",
+      "details": "VeeTel Pty Limited registered (Maroubra NSW)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20160110020557/http://veetel.com.au/",
+      "label": "VeeTel (Wayback 2016)"
+    }
+  ]
+}

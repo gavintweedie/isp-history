@@ -1,0 +1,24 @@
+{
+  "name": "Rural Fibre Co",
+  "slug": "rural-fibre-co",
+  "birthplace": "Gippsland, VIC",
+  "status": "active",
+  "website": "https://www.ruralfibre.co/",
+  "summary": "Regional Gippsland FTTP operator (up to 2500 Mbps residential / 10 Gbps business); still active.",
+  "names": [
+    {
+      "name": "Rural Fibre Co",
+      "start_year": 2020,
+      "start_disp": "c. 2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "c. 2020",
+      "precision": "approx",
+      "details": "FTTP regional fibre."
+    }
+  ]
+}

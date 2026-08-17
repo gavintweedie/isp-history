@@ -1,0 +1,38 @@
+{
+  "name": "Lexicon Internet Services",
+  "slug": "lexicon-internet-services",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://lexicon.net.au",
+  "summary": "Melbourne dialup + hosting ISP (lexicon.net.au, principal Lex Giezen); had a Perth POP/service area (Cynosure 2000); absorbed CorpLink by 2004, absorbed into EFTel by 2006.",
+  "names": [
+    {
+      "name": "Lexicon Internet Services",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Founded ~1996 (about page Jan 1997: 'just about to celebrate its first birthday'; lexicon.net.au live by 21 Dec 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Absorbed into EFTel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2006/http://www.corplink.com.au/",
+      "label": "CorpLink -> Lexicon (Wayback 2006)"
+    }
+  ]
+}

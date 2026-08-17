@@ -1,0 +1,38 @@
+{
+  "name": "Interworld",
+  "slug": "interworld",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://interworld.com.au",
+  "summary": "Perth dialup + hosting ISP (Interworld Communications); acquired by Wantree Development by Nov 1996.",
+  "names": [
+    {
+      "name": "Interworld",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Interworld Communications (Perth)."
+    },
+    {
+      "kind": "death",
+      "year": 1996,
+      "date_disp": "by Nov 1996",
+      "precision": "by",
+      "details": "Acquired by Wantree Development."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961107050544/http://www.interworld.com.au/",
+      "label": "Interworld (Wayback 1996)"
+    }
+  ]
+}

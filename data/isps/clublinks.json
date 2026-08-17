@@ -1,0 +1,38 @@
+{
+  "name": "Clublinks Telco",
+  "slug": "clublinks",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://clublinks.net.au",
+  "summary": "Telco serving master-planned golf/resort communities (Sandhurst, Sanctuary Lakes); defunct, ABN cancelled 2024.",
+  "names": [
+    {
+      "name": "Clublinks Telco",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Clublinks Utilities Pty Ltd (12 May 2005); trading as Clublinks Telco."
+    },
+    {
+      "kind": "death",
+      "year": 2024,
+      "date_disp": "2024",
+      "precision": "exact",
+      "details": "ABN cancelled 10 Jan 2024; carrier licence surrendered."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20170602211317/http://clublinks.net.au/",
+      "label": "Clublinks Telco (Wayback 2017)"
+    }
+  ]
+}

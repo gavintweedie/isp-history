@@ -1,0 +1,31 @@
+{
+  "name": "Alphalink",
+  "slug": "alphalink",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://alphalink.net.au",
+  "summary": "Melbourne ISP; ABN cancelled 2017, site unreachable.",
+  "names": [
+    {
+      "name": "Alphalink",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Commenced operations 7 January 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "ABN cancelled 20 Sep 2017."
+    }
+  ]
+}

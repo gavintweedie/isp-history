@@ -1,0 +1,38 @@
+{
+  "name": "HunterLink",
+  "slug": "hunterlink",
+  "birthplace": "Newcastle, NSW",
+  "status": "inactive",
+  "website": "https://hunterlink.net.au",
+  "summary": "Hunter Valley's largest local ISP (founded by two Newcastle University students); became part of the Pacific Internet Group 2000.",
+  "names": [
+    {
+      "name": "HunterLink",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Newcastle-based dialup/ADSL ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Became part of the Pacific Internet Group."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040901153419/http://www.hunterlink.net.au/",
+      "label": "HunterLink (Wayback 2004)"
+    }
+  ]
+}

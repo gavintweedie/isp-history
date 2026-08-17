@@ -1,0 +1,38 @@
+{
+  "name": "Myaccess",
+  "slug": "myaccess",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://myaccess.com.au",
+  "summary": "Melbourne dialup/ADSL ISP; customers/services moved to EFTel ~2009.",
+  "names": [
+    {
+      "name": "Myaccess",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Premium dialup/ADSL ISP, Melbourne."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Moved to EFTel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010410051135/http://www.myaccess.com.au/about.htm",
+      "label": "Myaccess (Wayback 2001)"
+    }
+  ]
+}

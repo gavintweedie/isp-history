@@ -1,0 +1,38 @@
+{
+  "name": "Red Broadband",
+  "slug": "red-broadband",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://redbroadband.com.au",
+  "summary": "Perth fixed-wireless WISP (Red Broadband Pty Ltd, Daniel Mills, founded 4 Jun 2013; Yanchep to Dunsborough); acquired Ocean Broadband network + customers mid-2015; ABN cancelled 5 Dec 2019.",
+  "names": [
+    {
+      "name": "Red Broadband",
+      "start_year": 2013,
+      "start_disp": "4 Jun 2013"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2013,
+      "date_disp": "4 Jun 2013",
+      "precision": "exact",
+      "details": "Red Broadband Pty Ltd registered (Perth)."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "Dec 2019",
+      "precision": "exact",
+      "details": "ABN cancelled 5 Dec 2019."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2015/http://redbroadband.com.au/",
+      "label": "Red Broadband (Wayback 2015)"
+    }
+  ]
+}

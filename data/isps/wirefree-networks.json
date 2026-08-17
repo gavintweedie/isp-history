@@ -1,0 +1,38 @@
+{
+  "name": "WireFree Networks",
+  "slug": "wirefree-networks",
+  "birthplace": "Goulburn, NSW",
+  "status": "inactive",
+  "website": "https://cirruscomms.com.au",
+  "summary": "Rural fixed-wireless ISP (Motorola Canopy, 802.16a) serving Goulburn/Coffs Harbour/Tumut; acquired by Cirrus Communications ~May 2008.",
+  "names": [
+    {
+      "name": "WireFree Networks",
+      "start_year": 2004,
+      "start_disp": "Nov 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "Nov 2004",
+      "precision": "exact",
+      "details": "WireFree Networks Pty Ltd incorporated (ABN 44 111 818 896)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "May 2008",
+      "precision": "exact",
+      "details": "Sold to Cirrus Communications (shareholder May 2008)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080723212255/http://wirefree.cirruscomms.com.au/index.php",
+      "label": "WireFree under Cirrus (Wayback 2008)"
+    }
+  ]
+}

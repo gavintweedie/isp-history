@@ -1,0 +1,31 @@
+{
+  "name": "FastLink",
+  "slug": "fastlink",
+  "birthplace": "Central Coast (Empire Bay), NSW",
+  "status": "inactive",
+  "website": "https://fastlink.com.au",
+  "summary": "Central Coast dialup ISP + Worldgroup (Galacticomm) BBS platform (Fastlink Communications Pty Ltd, ACN 069 755 237, ~1995-96); defunct ~2002.",
+  "names": [
+    {
+      "name": "FastLink",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Dialup ISP + BBS."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

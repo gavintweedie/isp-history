@@ -1,0 +1,31 @@
+{
+  "name": "Capital Fibre Networks",
+  "slug": "capital-fibre-networks",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.capitalfibre.com.au",
+  "summary": "Builds/operates wholesale NBN-compliant FTTP networks for property developers; licensed carrier.",
+  "names": [
+    {
+      "name": "Capital Fibre Networks",
+      "start_year": 2017,
+      "start_disp": "2017"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "Capital Fibre Networks Pty Ltd, registered 25 May 2017."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20200809064829/https://www.capitalfibre.com.au/",
+      "label": "Capital Fibre Networks (Wayback 2020)"
+    }
+  ]
+}

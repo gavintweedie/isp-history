@@ -1,0 +1,38 @@
+{
+  "name": "Netlink WA",
+  "slug": "netlink-wa",
+  "birthplace": "Nedlands (Perth), WA",
+  "status": "inactive",
+  "website": "https://netlinkwa.com.au",
+  "summary": "Perth business internet access + server/network setup + hosting ISP; defunct.",
+  "names": [
+    {
+      "name": "Netlink WA",
+      "start_year": 1998,
+      "start_disp": "by Aug 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Aug 1998",
+      "precision": "by",
+      "details": "Entry updated 29 Aug 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Last active capture of netlinkwa.com.au (Jan 2002)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001208000000/http://www.cynosure.com.au/isp/netlinkwa",
+      "label": "Netlink WA (Cynosure 2000)"
+    }
+  ]
+}

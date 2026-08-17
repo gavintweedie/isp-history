@@ -1,0 +1,31 @@
+{
+  "name": "5G Networks",
+  "slug": "5g-networks",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "5gnetworks.net.au",
+  "summary": "Data-centre/cloud/network company (ASX: 5GN); delisted 2021 via Webcentral Group scheme.",
+  "names": [
+    {
+      "name": "5G Networks",
+      "start_year": 2013,
+      "start_disp": "2013"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2013,
+      "date_disp": "2013",
+      "precision": "exact",
+      "details": "5G Networks Pty Ltd (Melbourne); ASX-listed 2017."
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "2021",
+      "precision": "exact",
+      "details": "Delisted via Webcentral Group acquisition (2 Webcentral per 5GN share)."
+    }
+  ]
+}

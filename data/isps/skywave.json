@@ -1,0 +1,38 @@
+{
+  "name": "SkyWave",
+  "slug": "skywave",
+  "birthplace": "Newcastle, NSW",
+  "status": "inactive",
+  "website": "skywave.net.au",
+  "summary": "Newcastle wireless broadband (WISP) provider; wound up ~2007-09.",
+  "names": [
+    {
+      "name": "SkyWave",
+      "start_year": 2003,
+      "start_disp": "c. 2001-03"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2001-03",
+      "precision": "approx",
+      "details": "SkyWave Communications Australia; wireless broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "c. 2007-09",
+      "precision": "approx",
+      "details": "Wound up; ABN cancelled 2009."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040906094440/http://www.skywave.biz/",
+      "label": "SkyWave (Wayback 2004)"
+    }
+  ]
+}

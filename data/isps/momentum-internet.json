@@ -1,0 +1,38 @@
+{
+  "name": "Momentum Internet",
+  "slug": "momentum-internet",
+  "birthplace": "Glenelg (Adelaide), SA",
+  "status": "inactive",
+  "website": "https://momentuminternet.com.au",
+  "summary": "SA ADSL/dialup ISP; merged with BettaNet ~2006-07 (Betta Momentum Internet); absorbed by Adam Internet 1 Aug 2008.",
+  "names": [
+    {
+      "name": "Momentum Internet",
+      "start_year": 2005,
+      "start_disp": "by Dec 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "by Dec 2005",
+      "precision": "by",
+      "details": "Momentum Internet, Glenelg SA."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "Aug 2008",
+      "precision": "exact",
+      "details": "Absorbed by Adam Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060615005847/http://www.momentuminternet.com.au/",
+      "label": "Momentum (Wayback 2006)"
+    }
+  ]
+}

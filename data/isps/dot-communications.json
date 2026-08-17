@@ -1,0 +1,38 @@
+{
+  "name": "Dot Communications",
+  "slug": "dot-communications",
+  "birthplace": "Sydney CBD, NSW",
+  "status": "inactive",
+  "website": "https://dot.net.au",
+  "summary": "Sydney dialup/ISDN + hosting + VISP wholesale ISP; pivoted to Viper ISP billing platform; later defunct.",
+  "names": [
+    {
+      "name": "Dot Communications",
+      "start_year": 1996,
+      "start_disp": "by Dec 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "Dialup/ISDN, hosting, VISP wholesale."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Focused on Viper billing platform; later defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2006/http://www.dot.net.au/",
+      "label": "Dot (Wayback 2006)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Nemesis",
+  "slug": "nemesis",
+  "birthplace": "Essendon (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://nemesis.com.au",
+  "summary": "Melbourne dialup + hosting + mail gateways + LAN integration ISP (est. ~1990 as an online service); defunct.",
+  "names": [
+    {
+      "name": "Nemesis",
+      "start_year": 1990,
+      "start_disp": "c. 1990"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1990,
+      "date_disp": "c. 1990",
+      "precision": "approx",
+      "details": "Online service for over 8 years as of 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "exact",
+      "details": "Last active capture of nemesis.com.au (Apr 2001); domain repurposed."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030217000000/http://www.cynosure.com.au/isp/nemesis",
+      "label": "Nemesis (Cynosure 2003)"
+    }
+  ]
+}

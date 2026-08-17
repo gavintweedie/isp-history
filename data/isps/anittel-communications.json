@@ -1,0 +1,31 @@
+{
+  "name": "Anittel Communications",
+  "slug": "anittel-communications",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://anittel.com.au",
+  "summary": "Hosting/telecoms subsidiary of the Anittel Group (ex-Hostech Communications / AK Communications Australia); acquired by BigAir ~2014 (completed Feb 2014 per ABN rename to BigAir Cloud Managed Services 13 May 2014).",
+  "names": [
+    {
+      "name": "Anittel Communications",
+      "start_year": 2007,
+      "start_disp": "c. 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "AK Communications (Australia) Pty Ltd; renamed Hostech Communications, then Anittel Communications."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "Feb 2014",
+      "precision": "exact",
+      "details": "Acquired by BigAir (announced Dec 2013/Jan 2014; completed ~Feb 2014)."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Microplex",
+  "slug": "microplex",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "microplex.com.au",
+  "summary": "Early Sydney dial-up ISP; acquired Pegasus Networks 1996, then Optus 1998.",
+  "names": [
+    {
+      "name": "Microplex",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "Sydney dial-up ISP, operating by March 1994."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Purchased by Optus; subsumed into OptusNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Optus",
+      "label": "Wikipedia: Optus (OptusNet section)"
+    }
+  ]
+}

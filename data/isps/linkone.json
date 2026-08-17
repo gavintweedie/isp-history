@@ -1,0 +1,31 @@
+{
+  "name": "LinkOne",
+  "slug": "linkone",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "linkone.net.au",
+  "summary": "Wholesale fixed-point wireless carrier; acquired by Spirit Telecom 2019; carrier licence surrendered.",
+  "names": [
+    {
+      "name": "LinkOne",
+      "start_year": 2015,
+      "start_disp": "c. 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Licensed carrier, wholesale fixed-point wireless."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "2019",
+      "precision": "exact",
+      "details": "Acquired by Spirit Telecom (5th acquisition)."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Access Net Australia",
+  "slug": "access-net-australia",
+  "birthplace": "South Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://access.net.au",
+  "summary": "Business dialup/permanent-connection ISP (Access Net Internet Services Pty Ltd); wound down ~2013-15.",
+  "names": [
+    {
+      "name": "Access Net Australia",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Business dialup, cohosting, national local-call dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "c. 2013-15",
+      "precision": "approx",
+      "details": "Wound down; no acquisition found."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010107100200/http://www.cynosure.com.au/isp/access",
+      "label": "Cynosure: Access Net Australia"
+    }
+  ]
+}

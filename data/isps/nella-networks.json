@@ -1,0 +1,34 @@
+{
+  "name": "Nella Networks",
+  "slug": "nella-networks",
+  "birthplace": "Melbourne (Doncaster East), VIC",
+  "status": "inactive",
+  "website": "nella.net.au",
+  "summary": "Melbourne ISP; HoloHost (under Beretvale Pty Ltd) became Nella Networks, then Nella Telecommunications after separating from Beretvale; took over Intervision customers (2002); clients merged into Bordernet Oct 2004.",
+  "names": [
+    {
+      "name": "Nella Networks",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "aliases": [
+    "Nella Telecommunications"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Evolved from HoloHost under Beretvale Pty Ltd."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Oct 2004",
+      "precision": "exact",
+      "details": "ISP clients merged into Bordernet; entity wound up 2008."
+    }
+  ]
+}

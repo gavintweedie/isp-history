@@ -1,0 +1,31 @@
+{
+  "name": "Netspeed",
+  "slug": "netspeed",
+  "birthplace": "Canberra, ACT",
+  "status": "active",
+  "website": "https://www.netspeed.com.au",
+  "summary": "Canberra ISP, one of the territory's largest; merged with Velocity Internet c.2010 under Velocity Internet Holdings, continues as a separate brand.",
+  "names": [
+    {
+      "name": "Netspeed",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "NetSpeed Communications established in Canberra."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961221094406/http://www.netspeed.com.au/",
+      "label": "Netspeed (Wayback 1996)"
+    }
+  ]
+}

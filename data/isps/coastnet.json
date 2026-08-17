@@ -1,0 +1,31 @@
+{
+  "name": "Coastnet",
+  "slug": "coastnet",
+  "birthplace": "Nambour (Sunshine Coast), QLD",
+  "status": "inactive",
+  "website": "https://coastnet.net.au",
+  "summary": "Sunshine + Fraser Coasts dialup ISP (PPP/UUCP, POPs Nambour + Maryborough, ~1997); defunct.",
+  "names": [
+    {
+      "name": "Coastnet",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

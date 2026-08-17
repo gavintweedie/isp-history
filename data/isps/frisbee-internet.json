@@ -1,0 +1,31 @@
+{
+  "name": "Frisbee Internet",
+  "slug": "frisbee-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://frisbee.net.au",
+  "summary": "Adelaide dialup ISP (frisbee.net.au, 1996); defunct.",
+  "names": [
+    {
+      "name": "Frisbee Internet",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

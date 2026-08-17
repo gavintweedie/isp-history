@@ -1,0 +1,38 @@
+{
+  "name": "Direct Net Solutions",
+  "slug": "direct-net-solutions",
+  "birthplace": "Osborne Park (Perth), WA",
+  "status": "inactive",
+  "website": "https://directnet.com.au",
+  "summary": "Perth dialup + network consulting + hosting ISP; brand succeeded by AustralianIT ~2005 (unverified).",
+  "names": [
+    {
+      "name": "Direct Net Solutions",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Dialup, network consulting, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Brand succeeded by AustralianIT."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2005/http://www.directnet.com.au/",
+      "label": "Direct Net (Wayback 2005)"
+    }
+  ]
+}

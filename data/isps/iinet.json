@@ -1,0 +1,31 @@
+{
+  "name": "iiNet",
+  "slug": "iinet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://www.iinet.net.au",
+  "summary": "Perth-based ISP that grew into one of Australia's largest, acquired by TPG in 2015.",
+  "names": [
+    {
+      "name": "iiNet",
+      "start_year": 1993,
+      "start_disp": "1993"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1993,
+      "date_disp": "1993",
+      "precision": "exact",
+      "details": "Founded in Perth by Michael Malone."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "Acquired by TPG; operated as a TPG brand."
+    }
+  ]
+}

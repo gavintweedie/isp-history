@@ -1,0 +1,31 @@
+{
+  "name": "Beyond Net",
+  "slug": "beyond-net",
+  "birthplace": "Townsville, QLD",
+  "status": "inactive",
+  "website": "https://beyond.net.au",
+  "summary": "Townsville dialup + web design + hardware retail ISP (by 1998); defunct.",
+  "names": [
+    {
+      "name": "Beyond Net",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Dialup, web design."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

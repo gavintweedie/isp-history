@@ -1,0 +1,6 @@
+{# Renders a list of refs; expects `refs` in context. #}
+{% if refs %}
+  {% for r in refs %}
+    <a href="{{ r.url }}" target="_blank" rel="noopener" title="{{ r.label }}">{{ r.kind }}</a>
+  {% endfor %}
+{% endif %}

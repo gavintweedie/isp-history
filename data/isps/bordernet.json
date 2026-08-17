@@ -1,0 +1,38 @@
+{
+  "name": "Bordernet",
+  "slug": "bordernet",
+  "birthplace": "Deniliquin NSW / Echuca VIC",
+  "status": "inactive",
+  "website": "https://ozsky.net",
+  "summary": "Rural satellite/dial-up/ADSL ISP; began as Ozsky.net (1997) + Murray River Internet Solutions (2001); absorbed Nella Networks clients (2004); acquired by Bigblu Broadband (SkyMesh parent) 2017.",
+  "names": [
+    {
+      "name": "Bordernet",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Ozsky.net founded Deniliquin NSW; became Bordernet Dec 2001."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "Mar 2017",
+      "precision": "exact",
+      "details": "Acquired by Bigblu Broadband (SkyMesh group)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040828162711/http://www.bordernet.com.au/",
+      "label": "Bordernet (Wayback 2004)"
+    }
+  ]
+}

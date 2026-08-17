@@ -1,0 +1,38 @@
+{
+  "name": "Silk Telecom",
+  "slug": "silk-telecom",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "silktel.com.au",
+  "summary": "Carrier formed 2005 from the telecom businesses of ETSA, Powercor and Citipower; acquired Bright (2006), then Nextgen (2008).",
+  "names": [
+    {
+      "name": "Silk Telecom",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Formed from ETSA/Powercor/Citipower telecom arms."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "Jun 2008",
+      "precision": "exact",
+      "details": "Acquired by Nextgen Networks."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://itwire.com/it-industry-news/deals/nextgen-networks-buys-silk-telecom.html",
+      "label": "iTWire: Nextgen buys Silk Telecom (2008)"
+    }
+  ]
+}

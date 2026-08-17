@@ -1,0 +1,31 @@
+{
+  "name": "BFM Telecoms",
+  "slug": "bfm-telecoms",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://bfm.net.au",
+  "summary": "Community-fundraising telecom + ISP (~2007); defunct.",
+  "names": [
+    {
+      "name": "BFM Telecoms",
+      "start_year": 2007,
+      "start_disp": "c. 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Phone/internet/mobile/VoIP."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

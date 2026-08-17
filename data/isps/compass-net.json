@@ -1,0 +1,38 @@
+{
+  "name": "Compass Net",
+  "slug": "compass-net",
+  "birthplace": "Bankstown (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://compassnet.com.au",
+  "summary": "Sydney dialup ISP (Bankstown POP); defunct ~2007, domain later reused.",
+  "names": [
+    {
+      "name": "Compass Net",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "Dialup (PPP/SLIP/UNIX shell)."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021217023028/http://www.cynosure.com.au/isp/compassnet",
+      "label": "Compass Net (Cynosure 2002)"
+    }
+  ]
+}

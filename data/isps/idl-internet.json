@@ -1,0 +1,38 @@
+{
+  "name": "IDL Internet",
+  "slug": "idl-internet",
+  "birthplace": "Newcastle, NSW",
+  "status": "inactive",
+  "website": "https://idl.com.au",
+  "summary": "Newcastle/Hunter ISP (Integrated Data Labs Pty Ltd); dial-up then ADSL/wireless/VoIP; acquired by BigAir 19 Feb 2015.",
+  "names": [
+    {
+      "name": "IDL Internet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Integrated Data Labs Pty Ltd (ACN 076 582 280); live from 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "Feb 2015",
+      "precision": "exact",
+      "details": "Acquired by BigAir (19 Feb 2015)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970701142438/http://www.idl.com.au/",
+      "label": "IDL (Wayback 1997)"
+    }
+  ]
+}

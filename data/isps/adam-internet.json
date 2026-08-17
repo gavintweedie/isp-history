@@ -1,0 +1,31 @@
+{
+  "name": "Adam Internet",
+  "slug": "adam-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "adam.com.au",
+  "summary": "Major South Australian ISP, acquired by iiNet in 2013.",
+  "names": [
+    {
+      "name": "Adam Internet",
+      "start_year": 1992,
+      "start_disp": "1992"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1992,
+      "date_disp": "1992",
+      "precision": "exact",
+      "details": "Founded as an ISP (origins: Adelaide Amiga Club 1986, BBS 1987, commercial TBBS 1989)."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "2013",
+      "precision": "exact",
+      "details": "Acquired by iiNet for ~$60 million; customers moved to iiNet 2015."
+    }
+  ]
+}

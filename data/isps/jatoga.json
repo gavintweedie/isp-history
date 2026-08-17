@@ -1,0 +1,31 @@
+{
+  "name": "Jatoga Online",
+  "slug": "jatoga",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "https://jatoga.net.au",
+  "summary": "Brisbane dialup ISP with subscriber subdomains + web directory (run by Jarrod Friedland, ~1998); wound down, domain became personal blog.",
+  "names": [
+    {
+      "name": "Jatoga Online",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Dialup ISP + web directory."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Wound down."
+    }
+  ]
+}

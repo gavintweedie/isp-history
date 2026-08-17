@@ -1,0 +1,38 @@
+{
+  "name": "Pintech Internet Services",
+  "slug": "pintech",
+  "birthplace": "Pinjarra, WA",
+  "status": "inactive",
+  "website": "https://pintech.net.au",
+  "summary": "Regional WA dialup (Pinjarra/Mandurah/Bunbury) + web design + training ISP; defunct.",
+  "names": [
+    {
+      "name": "Pintech Internet Services",
+      "start_year": 1999,
+      "start_disp": "by Jan 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Jan 1999",
+      "precision": "by",
+      "details": "Entry updated 7 Jan 1999."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Last active capture of pintech.net.au (Jul 2008)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021219000000/http://www.cynosure.com.au/isp/pintech",
+      "label": "Pintech (Cynosure 2002)"
+    }
+  ]
+}

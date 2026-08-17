@@ -1,0 +1,38 @@
+{
+  "name": "Accsoft Internet Services",
+  "slug": "accsoft-internet-services",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://accsoft.com.au",
+  "summary": "Sydney dialup + telephony + Asian-language web services; defunct ~2010s.",
+  "names": [
+    {
+      "name": "Accsoft Internet Services",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1996)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last Wayback capture of own domain (c. 2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020219155423/http://www.cynosure.com.au/isp/accsoft",
+      "label": "Accsoft (Cynosure 2002)"
+    }
+  ]
+}

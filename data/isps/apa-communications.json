@@ -1,0 +1,38 @@
+{
+  "name": "APA Communications",
+  "slug": "apa-communications",
+  "birthplace": "Sydney CBD, NSW",
+  "status": "inactive",
+  "website": "https://apanet.com.au",
+  "summary": "Sydney dialup + hosting ISP (also sold ISP billing software); dead ~2000.",
+  "names": [
+    {
+      "name": "APA Communications",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Site last captured June 2000."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011223121905/http://www.cynosure.com.au/isp/apanet",
+      "label": "APA (Cynosure 2002)"
+    }
+  ]
+}

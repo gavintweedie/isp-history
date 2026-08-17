@@ -1,0 +1,38 @@
+{
+  "name": "GIST Internet",
+  "slug": "gist-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://gist.net.au",
+  "summary": "Adelaide dialup/training ISP (Global-Link Internet Services & Training); in the SA peering community by Mar 1998; defunct.",
+  "names": [
+    {
+      "name": "GIST Internet",
+      "start_year": 1998,
+      "start_disp": "by Mar 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of gist.net.au Apr 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980624055723/http://www.gist.net.au/about.html",
+      "label": "GIST (Wayback 1998)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "UniSky",
+  "slug": "unisky",
+  "birthplace": "South-East Queensland",
+  "status": "inactive",
+  "website": "https://unisky.com.au",
+  "summary": "Queensland wireless ISP + hosting/data centre (formerly Wireless Broadband Services Pty Ltd), serving SE Qld + northern NSW; acquired by Cirrus Communications 24 Jul 2008.",
+  "names": [
+    {
+      "name": "UniSky",
+      "start_year": 2006,
+      "start_disp": "c. 2006-07"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "c. 2006-07",
+      "precision": "approx",
+      "details": "Renamed UniSky from Wireless Broadband Services ~2006-07."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "Jul 2008",
+      "precision": "exact",
+      "details": "Acquired by Cirrus Communications (24 Jul 2008)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080424132018/http://www.unisky.com.au/about_us",
+      "label": "UniSky about (Wayback 2008)"
+    }
+  ]
+}

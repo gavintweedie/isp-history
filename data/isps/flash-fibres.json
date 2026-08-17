@@ -1,0 +1,24 @@
+{
+  "name": "Flash Fibres",
+  "slug": "flash-fibres",
+  "birthplace": "Sunshine Coast (Caloundra), QLD",
+  "status": "active",
+  "website": "https://flashfibres.com.au",
+  "summary": "Sunshine Coast fixed-wireless network (100+ sites, residential + commercial, since 2007); still active.",
+  "names": [
+    {
+      "name": "Flash Fibres",
+      "start_year": 2007,
+      "start_disp": "2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "Fixed wireless broadband."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NTT Australia",
+  "slug": "ntt-australia",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://ntt.com.au",
+  "summary": "Australian arm of NTT Communications; absorbed Davnet (ex-MagnaData); still operating (ABNs active; ntt.com.au domain lapsed from ~2018).",
+  "names": [
+    {
+      "name": "NTT Australia"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Entity registration date."
+    }
+  ]
+}

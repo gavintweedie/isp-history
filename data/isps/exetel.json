@@ -1,0 +1,31 @@
+{
+  "name": "Exetel",
+  "slug": "exetel",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "exetel.com.au",
+  "summary": "Sydney consumer ISP, one of Australia's largest indie RSPs; acquired by Superloop for retail scale.",
+  "names": [
+    {
+      "name": "Exetel",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Founded by John Linton."
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "2021",
+      "precision": "exact",
+      "details": "Acquired by Superloop (~A$110m)."
+    }
+  ]
+}

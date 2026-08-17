@@ -1,0 +1,31 @@
+{
+  "name": "FG Telecom",
+  "slug": "fg-telecom",
+  "birthplace": "Port Melbourne, VIC",
+  "status": "active",
+  "website": "https://fgtelecom.com.au",
+  "summary": "SME fibre internet/telecom provider, founded 2014.",
+  "names": [
+    {
+      "name": "FG Telecom",
+      "start_year": 2014,
+      "start_disp": "2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "2014",
+      "precision": "exact",
+      "details": "Began as a 3km fibre loop in Port Melbourne."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20190308213348/https://fgtelecom.com.au/who-we-are/",
+      "label": "FG Telecom (Wayback 2019)"
+    }
+  ]
+}

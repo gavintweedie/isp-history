@@ -1,0 +1,38 @@
+{
+  "name": "Next Online",
+  "slug": "next-online",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://next.com.au",
+  "summary": "Melbourne ISP (1995-1997 era), linked to Nextmedia publishing; ISP operations wound down early 2000s.",
+  "names": [
+    {
+      "name": "Next Online",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Next Online, Melbourne."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "early 2000s",
+      "precision": "exact",
+      "details": "ISP operations wound down."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980204072254/http://www.next.com.au/",
+      "label": "Next Online (Wayback 1998)"
+    }
+  ]
+}

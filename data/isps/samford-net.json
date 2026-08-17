@@ -1,0 +1,31 @@
+{
+  "name": "Samford Net / ISX",
+  "slug": "samford-net",
+  "birthplace": "Enoggera (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://isx.com.au",
+  "summary": "Brisbane local ADSL/broadband + network consulting + hosting (ISX, 355 Samford Rd Enoggera, ~2002); defunct.",
+  "names": [
+    {
+      "name": "Samford Net / ISX",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "ADSL, network consulting, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

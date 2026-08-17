@@ -1,0 +1,31 @@
+{
+  "name": "NoWires",
+  "slug": "nowires",
+  "birthplace": "Tamworth, NSW",
+  "status": "inactive",
+  "website": "https://nowires.com.au",
+  "summary": "Tamworth wireless (802.11b) broadband + point-to-point provider (NoWires Pty Ltd, ~2003); defunct.",
+  "names": [
+    {
+      "name": "NoWires",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Wireless broadband."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

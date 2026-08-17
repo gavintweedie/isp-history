@@ -1,0 +1,38 @@
+{
+  "name": "iPrimus",
+  "slug": "iprimus",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://www.iprimus.com.au",
+  "summary": "Consumer ISP brand of Primus Telecommunications Australia, launched 1999; acquired by M2 Group 2012.",
+  "names": [
+    {
+      "name": "iPrimus",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "iPrimus brand launched by US parent Primus Telecommunications."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "2012",
+      "precision": "exact",
+      "details": "Acquired by M2 Group ($192M)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IPrimus",
+      "label": "Wikipedia: iPrimus"
+    }
+  ]
+}

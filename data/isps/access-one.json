@@ -1,0 +1,38 @@
+{
+  "name": "Access One",
+  "slug": "access-one",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://aone.net.au",
+  "summary": "Melbourne ISP strong in corporate sector; acquired by OzEmail (by Dec 1997); business rebranded UUNet 1999.",
+  "names": [
+    {
+      "name": "Access One",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Founded in Melbourne; email domains @aone.net.au."
+    },
+    {
+      "kind": "death",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Acquired by OzEmail (already an OzEmail subsidiary by Dec 1997)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980111063029/http://www.aone.net.au/main.htm",
+      "label": "Access One (Wayback 1998)"
+    }
+  ]
+}

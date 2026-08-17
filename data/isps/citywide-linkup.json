@@ -1,0 +1,38 @@
+{
+  "name": "Citywide Linkup",
+  "slug": "citywide-linkup",
+  "birthplace": "Frankston (Melbourne), VIC",
+  "status": "inactive",
+  "website": "https://oz2.com",
+  "summary": "Melbourne dialup + permanent access + hosting + internet cafe ISP (shareholder Terramax Pty Ltd); dead.",
+  "names": [
+    {
+      "name": "Citywide Linkup",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1999)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Last active capture of ozmedia.net (Jan 2005)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021019133311/http://www.cynosure.com.au/isp/ozmedia",
+      "label": "Citywide Linkup (Cynosure 2002)"
+    }
+  ]
+}

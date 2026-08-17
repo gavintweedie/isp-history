@@ -1,0 +1,31 @@
+{
+  "name": "Harvest Road",
+  "slug": "harvest-road",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://harvestroad.com.au",
+  "summary": "Perth content development + virtual serving + internet access + training company (HarvestRoad Ltd, est. 1996, ASX-listed Sept 1999); web-services arm gone; later e-learning software.",
+  "names": [
+    {
+      "name": "Harvest Road",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Content development, virtual serving, internet access."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Web-services arm gone; later e-learning software."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Ozzienet",
+  "slug": "ozzienet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://ozzienet.com.au",
+  "summary": "Wholesale + retail internet access provider ('become your own ISP', ~2001); defunct.",
+  "names": [
+    {
+      "name": "Ozzienet",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Wholesale + retail access."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

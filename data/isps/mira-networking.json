@@ -1,0 +1,38 @@
+{
+  "name": "Mira Networking",
+  "slug": "mira-networking",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://pacific.net.au",
+  "summary": "Melbourne ISP (POPs in Perth/Brisbane/Adelaide/Sydney); acquired by Pacific Internet May 1999.",
+  "names": [
+    {
+      "name": "Mira Networking",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Founded in Melbourne."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "May 1999",
+      "precision": "exact",
+      "details": "Acquired by Pacific Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010208131730/http://www.pacific.net.au/aboutPI/press/1999/990520.html",
+      "label": "Pacific Internet acquires Mira (1999)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Quantum Access",
+  "slug": "quantum-access",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://qa.net.au",
+  "summary": "Adelaide dialup ISP (qa.net.au); dead by late 2000s.",
+  "names": [
+    {
+      "name": "Quantum Access",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Dialup, Adelaide POP."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2000-08",
+      "precision": "approx",
+      "details": "ISP dead (domain a shop by 2008)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970413221312/http://www.qa.net.au/",
+      "label": "Quantum Access (Wayback 1997)"
+    }
+  ]
+}

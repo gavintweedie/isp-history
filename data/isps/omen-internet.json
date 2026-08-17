@@ -1,0 +1,31 @@
+{
+  "name": "Omen Internet",
+  "slug": "omen-internet",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "omen.com.au",
+  "summary": "Perth ISP, post-IPO iiNet acquisition.",
+  "names": [
+    {
+      "name": "Omen Internet",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Early Perth dialup ISP, c. 1995."
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}

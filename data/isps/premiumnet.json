@@ -1,0 +1,31 @@
+{
+  "name": "PremiumNet",
+  "slug": "premiumnet",
+  "birthplace": "Parramatta (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://free.net.au",
+  "summary": "Paid dialup ISP that succeeded Free Net on free.net.au by 2004; gone by 2006.",
+  "names": [
+    {
+      "name": "PremiumNet",
+      "start_year": 2004,
+      "start_disp": "by 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "by",
+      "details": "Succeeded Free Net as paid ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Defunct."
+    }
+  ]
+}

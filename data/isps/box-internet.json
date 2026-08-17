@@ -1,0 +1,38 @@
+{
+  "name": "Box Internet",
+  "slug": "box-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://box.net.au",
+  "summary": "Adelaide ISP (S@t Internet Services, Silicom Pty Ltd), successor to SATECH; taken over by Chariot.",
+  "names": [
+    {
+      "name": "Box Internet",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Box Internet (same Silicom entity as SATECH)."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Taken over by Chariot."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980512000000id_/http://www.box.net.au/",
+      "label": "Box Internet (Wayback 1998)"
+    }
+  ]
+}

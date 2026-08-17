@@ -1,0 +1,31 @@
+{
+  "name": "E-SOUL",
+  "slug": "e-soul",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://e-soul.net",
+  "summary": "National ADSL ISP (E-SOUL Computer Network, ABN 24 742 750 952, ~2005); defunct.",
+  "names": [
+    {
+      "name": "E-SOUL",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "ADSL, modems."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

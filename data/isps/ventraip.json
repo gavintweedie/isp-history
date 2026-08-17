@@ -1,0 +1,24 @@
+{
+  "name": "VentraIP",
+  "slug": "ventraip",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.ventraip.com.au",
+  "summary": "Melbourne web-hosting and domain registrar; absorbed ACAY's web brand by 2012.",
+  "names": [
+    {
+      "name": "VentraIP",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Founded as a hosting/domain business."
+    }
+  ]
+}

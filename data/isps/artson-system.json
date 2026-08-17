@@ -1,0 +1,31 @@
+{
+  "name": "Artson System",
+  "slug": "artson-system",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "https://onthenet.com.au",
+  "summary": "Corporate entity (Artson System Pty Ltd, ACN 054 001 759) that traded as 'On The Net'; the live onthenet.com.au ISP later sat under Network Technology (Aust) Pty Ltd t/as OntheNet.",
+  "names": [
+    {
+      "name": "Artson System",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Trading as 'On The Net' ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "ISP operation under Network Technology (Aust)."
+    }
+  ]
+}

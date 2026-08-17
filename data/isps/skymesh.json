@@ -1,0 +1,24 @@
+{
+  "name": "SkyMesh",
+  "slug": "skymesh",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "https://www.skymesh.net.au",
+  "summary": "Satellite/fixed-line RSP; acquired Bordernet 2017 and Clear Networks 2022; sold its fixed-line NBN business to Superloop 2018, continued as satellite specialist under Bigblu Broadband then Salter Brothers (2024).",
+  "names": [
+    {
+      "name": "SkyMesh",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Founded Brisbane."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "CybaNet Internet Services",
+  "slug": "cybanet-internet-services",
+  "birthplace": "Kerang, VIC",
+  "status": "inactive",
+  "website": "https://cybanet.com.au",
+  "summary": "Regional VIC dialup ISP (Kerang/Swan Hill/Cohuna/Bendigo); folded into EFTel by 2012.",
+  "names": [
+    {
+      "name": "CybaNet Internet Services",
+      "start_year": 1996,
+      "start_disp": "c. 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Regional dialup; tied to Cybatech Computing."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "by 2012",
+      "precision": "by",
+      "details": "Folded into EFTel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010720075951/http://www.cybanet.com.au/",
+      "label": "CybaNet (Wayback 2001)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "eCITE Internet",
+  "slug": "ecite-internet",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://ecite.com.au",
+  "summary": "Adelaide dialup/ADSL + hosting ISP (149 Hutt St; formerly BigBlue; ~2001-02); defunct.",
+  "names": [
+    {
+      "name": "eCITE Internet",
+      "start_year": 2001,
+      "start_disp": "c. 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Dialup, ADSL, hosting, co-location."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "MarchNet",
+  "slug": "marchnet",
+  "birthplace": "Strathpine/Brendale, QLD",
+  "status": "active",
+  "website": "https://marchnet.com.au",
+  "summary": "Fixed-wireless carrier; business name of March IT Pty Ltd (est. 2012), related to Maret Group; carries Maret's wireless network.",
+  "names": [
+    {
+      "name": "MarchNet",
+      "start_year": 2012,
+      "start_disp": "2012"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2012,
+      "date_disp": "2012",
+      "precision": "exact",
+      "details": "March IT Pty Ltd (MarchNet business name from 2018)."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Northlink Communications",
+  "slug": "northlink",
+  "birthplace": "Wahroonga (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://nlc.net.au",
+  "summary": "Sydney dialup ISP (nlc.net.au, 28.8K/33.6K, local business directory, ~1996); defunct.",
+  "names": [
+    {
+      "name": "Northlink Communications",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

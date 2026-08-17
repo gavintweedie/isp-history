@@ -1,0 +1,31 @@
+{
+  "name": "Au1.Net",
+  "slug": "au1-net",
+  "birthplace": "Australia (national)",
+  "status": "inactive",
+  "website": "https://au1.net",
+  "summary": "Nationwide 56k ISP + hosting (au1.net, ~1998-2000); defunct.",
+  "names": [
+    {
+      "name": "Au1.Net",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Dialup (all capitals), hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

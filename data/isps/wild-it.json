@@ -1,0 +1,38 @@
+{
+  "name": "Wild IT",
+  "slug": "wild-it",
+  "birthplace": "NSW",
+  "status": "inactive",
+  "website": "https://wilddsl.com.au",
+  "summary": "National ADSL/xDSL + iBurst wireless + VoIP ISP (Wild Internet & Telecom Pty Ltd, reg. 4 Feb 2000); voluntary administration Feb 2007; customer base sold to Gotalk Communications for $240k (28 Mar 2007).",
+  "names": [
+    {
+      "name": "Wild IT",
+      "start_year": 2000,
+      "start_disp": "4 Feb 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "4 Feb 2000",
+      "precision": "exact",
+      "details": "Wild Internet & Telecom Pty Ltd registered."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "Mar 2007",
+      "precision": "exact",
+      "details": "VA Feb 2007; customer base to Gotalk ($240k)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050507111120/http://www.wilddsl.com.au/",
+      "label": "Wild IT (Wayback 2005)"
+    }
+  ]
+}

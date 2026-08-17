@@ -1,0 +1,31 @@
+{
+  "name": "Internet Information Group",
+  "slug": "internet-information-group",
+  "birthplace": "Cairns, QLD",
+  "status": "inactive",
+  "website": "https://iig.com.au",
+  "summary": "Cairns dialup/broadband ISP + hosting + VoIP (IIG, ~1995); defunct by ~2009.",
+  "names": [
+    {
+      "name": "Internet Information Group",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Dialup/broadband ISP + hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "by 2009",
+      "precision": "by",
+      "details": "Defunct."
+    }
+  ]
+}

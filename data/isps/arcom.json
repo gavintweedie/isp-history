@@ -1,0 +1,38 @@
+{
+  "name": "Arcom",
+  "slug": "arcom",
+  "birthplace": "Adelaide, SA",
+  "status": "inactive",
+  "website": "https://aandr.com.au",
+  "summary": "Adelaide ISP (ARCOMNET, operated by A&R Computer Services); redirected to aandr.com.au ~2000.",
+  "names": [
+    {
+      "name": "Arcom",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "ARCOMNET, Adelaide's Premier Internet Service."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Redirected to A&R Computer Services (aandr.com.au)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980430141741/http://www.arcom.com.au/",
+      "label": "Arcom (Wayback 1998)"
+    }
+  ]
+}

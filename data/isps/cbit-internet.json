@@ -1,0 +1,38 @@
+{
+  "name": "CBIT Internet",
+  "slug": "cbit-internet",
+  "birthplace": "Fyshwick (Canberra), ACT",
+  "status": "inactive",
+  "website": "https://cbit.net.au",
+  "summary": "Canberra dialup/TransACT/ADSL2+ + hosting + business IT ISP (CBIT Internet Pty Ltd, 16/65 Tennant St Fyshwick); absorbed Bandwidth Unlimited (2005) and merged with Spitfire Internet Services (2 Feb 2009); ISP wound down, later CBIT Business IT Solutions.",
+  "names": [
+    {
+      "name": "CBIT Internet",
+      "start_year": 2005,
+      "start_disp": "by Jun 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "by Jun 2005",
+      "precision": "by",
+      "details": "CBIT Internet Pty Ltd (Fyshwick ACT)."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "ISP wound down; pivoted to IT consultancy."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20130303013015/http://www.cbit.net.au/merger.html",
+      "label": "CBIT merger (Wayback 2013)"
+    }
+  ]
+}

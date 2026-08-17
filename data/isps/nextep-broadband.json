@@ -1,0 +1,38 @@
+{
+  "name": "NEXTEP Broadband",
+  "slug": "nextep-broadband",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://nextep.com.au",
+  "summary": "Business broadband provider backed by NEC Australia; sold ADSL/SDSL/secure networking via channel/agent model (incl. Swift Internet as an agent).",
+  "names": [
+    {
+      "name": "NEXTEP Broadband",
+      "start_year": 2001,
+      "start_disp": "Feb 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "Feb 2001",
+      "precision": "exact",
+      "details": "Site live from 20 Feb 2001."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "NEC venture; no clear record of end."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050615035750/http://nextep.com.au/",
+      "label": "NEXTEP (Wayback 2005)"
+    }
+  ]
+}

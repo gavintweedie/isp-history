@@ -1,0 +1,38 @@
+{
+  "name": "Lamp Internet",
+  "slug": "lamp-internet",
+  "birthplace": "Deception Bay (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://lampis.aunz.com",
+  "summary": "Queensland dialup ISP (Australia-wide via 0198 Dial Connect; POPs Melbourne, Newcastle, Bathurst, Perth, Kalgoorlie; aunz.com network); defunct.",
+  "names": [
+    {
+      "name": "Lamp Internet",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Listed in the Cynosure Australian ISP directory (2002 era)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Last active capture of lamp.net (May 2008)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021003215435/http://www.cynosure.com.au/isp/lampis",
+      "label": "Lamp (Cynosure 2002)"
+    }
+  ]
+}

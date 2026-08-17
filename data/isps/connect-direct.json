@@ -1,0 +1,31 @@
+{
+  "name": "Connect Direct Internet",
+  "slug": "connect-direct",
+  "birthplace": "Rye (Mornington Peninsula), VIC",
+  "status": "inactive",
+  "website": "https://cdi.com.au",
+  "summary": "Mornington Peninsula/Melbourne dial-up + ISDN + web design/hosting ISP (CDI, ~1997); defunct.",
+  "names": [
+    {
+      "name": "Connect Direct Internet",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Dial-up/ISDN ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

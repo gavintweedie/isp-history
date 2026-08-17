@@ -1,0 +1,38 @@
+{
+  "name": "BlazeNet",
+  "slug": "blazenet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://blaze.net.au",
+  "summary": "Melbourne dialup ISP (reboot of Doctor Blaze BBS); folded into Hotkey Internet Services ~2001 (via parent ISP Ltd).",
+  "names": [
+    {
+      "name": "BlazeNet",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Reboot of Doctor Blaze BBS."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Folded into Hotkey Internet Services."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991008224311/http://www.blaze.net.au/blaze_about.html",
+      "label": "BlazeNet about (Wayback 1999)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Ecomtel",
+  "slug": "ecomtel",
+  "birthplace": "Australia (national)",
+  "status": "inactive",
+  "website": "https://ecomtel.com.au",
+  "summary": "National telco/ISP (Ecomtel Pty Ltd, ~1999; landline 'Phoneclub', mobile, dialup, ADSL/SDSL, VoIP); active to ~2008.",
+  "names": [
+    {
+      "name": "Ecomtel",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Ecomtel (national offices)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Active to ~2008."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040613234920/http://www.ecomtel.com.au/",
+      "label": "Ecomtel (Wayback 2004)"
+    }
+  ]
+}

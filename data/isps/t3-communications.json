@@ -1,0 +1,38 @@
+{
+  "name": "T3 Communications",
+  "slug": "t3-communications",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://t3.com.au",
+  "summary": "Sydney carrier/wholesale voice + data reseller for SMBs (T3 Communication Partners Pty Ltd group, incl. T3 Communications Pty Ltd; founded 2002, MD Carlos Perez); launched consumer iBurst 'T3 Wireless' retail arm FY2004/05; acquired by Pacific Internet for up to $5m (SPA 31 Oct 2005); T3's ~800 iBurst customers sold to BigAir June 2006.",
+  "names": [
+    {
+      "name": "T3 Communications",
+      "start_year": 2002,
+      "start_disp": "1 Feb 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "1 Feb 2002",
+      "precision": "exact",
+      "details": "Commenced operations 2002 (Sydney, North Sydney)."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "Oct 2005",
+      "precision": "exact",
+      "details": "Acquired by Pacific Internet (up to A$5m; SPA dated 31 Oct 2005)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.sec.gov/Archives/edgar/data/1074245/000114554906000944/u92779exv4w41.htm",
+      "label": "SEC: Pacific Internet T3 Share Sale Agreement (Oct 2005)"
+    }
+  ]
+}

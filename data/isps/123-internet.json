@@ -1,0 +1,31 @@
+{
+  "name": "123 Internet",
+  "slug": "123-internet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://123.net.au",
+  "summary": "Budget dialup + ADSL ISP (~2002, unlimited $15/mo dialup); defunct.",
+  "names": [
+    {
+      "name": "123 Internet",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Budget dialup/ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "HarbourSAT",
+  "slug": "harboursat",
+  "birthplace": "Western Australia",
+  "status": "inactive",
+  "website": "https://harboursat.com.au",
+  "summary": "Satellite-internet arm of HarbourIT (harboursat.com.au from Feb 2007); fate unverified.",
+  "names": [
+    {
+      "name": "HarbourSAT",
+      "start_year": 2007,
+      "start_disp": "by Feb 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "by Feb 2007",
+      "precision": "by",
+      "details": "Satellite internet."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Fate unverified."
+    }
+  ]
+}

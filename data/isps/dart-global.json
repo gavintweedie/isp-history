@@ -1,0 +1,38 @@
+{
+  "name": "Dart Global",
+  "slug": "dart-global",
+  "birthplace": "Surry Hills, NSW",
+  "status": "inactive",
+  "website": "https://dpl.com.au",
+  "summary": "Corporate dialup/ISDN/leased-line ISP (Dart Global Pty Ltd, CEO Rodney Cohen; Direct Data / DPL Technology); acquired by Hotkey Internet Services Nov 2004.",
+  "names": [
+    {
+      "name": "Dart Global",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "dart/global established in 1997 (own about page)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Nov 2004",
+      "precision": "exact",
+      "details": "Acquired by Hotkey Internet Services."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001010234251/http://www.cynosure.com.au/isp/dartglobal",
+      "label": "Cynosure: Dart Global"
+    }
+  ]
+}

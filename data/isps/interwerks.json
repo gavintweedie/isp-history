@@ -1,0 +1,31 @@
+{
+  "name": "Interwerks",
+  "slug": "interwerks",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://interwerks.net.au",
+  "summary": "Sydney dialup + corporate access + hosting ISP (Interwerks Pty Ltd, ~2000); defunct.",
+  "names": [
+    {
+      "name": "Interwerks",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Dialup, corporate access, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

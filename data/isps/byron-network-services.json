@@ -1,0 +1,38 @@
+{
+  "name": "Byron Network Services",
+  "slug": "byron-network-services",
+  "birthplace": "Byron Bay, NSW",
+  "status": "inactive",
+  "website": "https://bns.com.au",
+  "summary": "Byron Bay-region dialup ISP (bns.com.au); by 1998 already 'once a dial up ISP', run by John Lindsay (later Chariot GM).",
+  "names": [
+    {
+      "name": "Byron Network Services",
+      "start_year": 1995,
+      "start_disp": "c. 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Dialup ISP in the Byron Bay region."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "No longer a dialup ISP by 1998."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212023308/http://www.bns.com.au/",
+      "label": "BNS (Wayback 1998)"
+    }
+  ]
+}

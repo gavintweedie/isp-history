@@ -1,0 +1,31 @@
+{
+  "name": "Teleron",
+  "slug": "teleron",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://esc.net.au",
+  "summary": "Australian nbn/ADSL/mobile RSP (launched Sep 2016); listed on Adelaide EscapeNet's esc.net.au login banner (with Planet Ozi, Click & Motion), suggesting an EscapeNet relationship.",
+  "names": [
+    {
+      "name": "Teleron",
+      "start_year": 2016,
+      "start_disp": "Sep 2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "Sep 2016",
+      "precision": "exact",
+      "details": "Launched as an nbn-era RSP."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20160830120348/http://teleron.com.au/",
+      "label": "Teleron (Wayback 2016)"
+    }
+  ]
+}

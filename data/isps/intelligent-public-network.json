@@ -1,0 +1,38 @@
+{
+  "name": "Intelligent Public Network",
+  "slug": "intelligent-public-network",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://ipn.com.au",
+  "summary": "Melbourne managed-services carrier/ISP (dialup, SDSL, VPN); defunct ~2009-10.",
+  "names": [
+    {
+      "name": "Intelligent Public Network",
+      "start_year": 1999,
+      "start_disp": "c. 1999-2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999-2000",
+      "precision": "approx",
+      "details": "National managed-services carrier."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2009-10",
+      "precision": "approx",
+      "details": "Defunct (domain reused by unrelated medical group)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000816025544/http://www.ipn.com.au/",
+      "label": "IPN (Wayback 2000)"
+    }
+  ]
+}

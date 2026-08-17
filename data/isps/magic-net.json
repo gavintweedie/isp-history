@@ -1,0 +1,38 @@
+{
+  "name": "Magic Net",
+  "slug": "magic-net",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://magicnet.net.au",
+  "summary": "Sydney dialup ISP (MagicNet Internet, ©1995); personal + corporate clients; defunct.",
+  "names": [
+    {
+      "name": "Magic Net",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "MagicNet Internet (Sydney)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980109224109/http://magicnet.net.au/",
+      "label": "Magic Net (Wayback 1998)"
+    }
+  ]
+}

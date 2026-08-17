@@ -1,0 +1,31 @@
+{
+  "name": "Platform Networks",
+  "slug": "platform-networks",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://platformnetworks.net",
+  "summary": "Hosting, broadband, wholesale provider (1300 85 4678, ~2003); defunct.",
+  "names": [
+    {
+      "name": "Platform Networks",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Hosting, broadband, wholesale."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

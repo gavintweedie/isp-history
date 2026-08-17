@@ -1,0 +1,31 @@
+{
+  "name": "Snoopa Hervey Bay",
+  "slug": "snoopa-hervey-bay",
+  "birthplace": "Hervey Bay, QLD",
+  "status": "inactive",
+  "website": "https://snoopa.com.au",
+  "summary": "Hervey Bay QLD ISP (snoopa.com.au online by Jan 2005); fate unverified.",
+  "names": [
+    {
+      "name": "Snoopa Hervey Bay",
+      "start_year": 2005,
+      "start_disp": "by Jan 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "by Jan 2005",
+      "precision": "by",
+      "details": "Local ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

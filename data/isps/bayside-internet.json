@@ -1,0 +1,31 @@
+{
+  "name": "Bayside Internet",
+  "slug": "bayside-internet",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "https://bayside.net.au",
+  "summary": "Gold Coast ISP (trading as Female Technologies, 07 5526 7767; dialup, ISDN, ADSL, ~2004); defunct.",
+  "names": [
+    {
+      "name": "Bayside Internet",
+      "start_year": 2004,
+      "start_disp": "c. 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Dialup, ISDN, ADSL, VoIP."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

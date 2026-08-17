@@ -1,0 +1,24 @@
+{
+  "name": "ZipFibre",
+  "slug": "zipfibre",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://www.zipfibre.com.au",
+  "summary": "National NBN reseller (cheap plans, no lock-in); still active.",
+  "names": [
+    {
+      "name": "ZipFibre",
+      "start_year": 2015,
+      "start_disp": "c. 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "NBN plans."
+    }
+  ]
+}

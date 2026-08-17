@@ -1,0 +1,51 @@
+{
+  "name": "Dragnet",
+  "slug": "dragnet",
+  "birthplace": "Albury/Wagga Wagga, NSW",
+  "status": "inactive",
+  "website": "https://dragnet.com.au",
+  "summary": "Rural southern NSW/NE Vic ISP (DragNet Internet Services Pty Ltd, ACN 073 567 781; first POP Junee 1996, base later Albury/Wodonga); dialup then ADSL/satellite/wireless; acquired by Enterprise IT Global 2011 (which went into administration Sep 2011); customer base sold to EFTel ~2013.",
+  "names": [
+    {
+      "name": "Dragnet",
+      "start_year": 1996,
+      "start_disp": "Apr 1996"
+    }
+  ],
+  "aliases": [
+    "Asitis",
+    "Asitis.net.au",
+    "Simplex ISP",
+    "Internet Temora",
+    "Australia Internet Services",
+    "Intemora Net"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "Apr 1996",
+      "precision": "exact",
+      "details": "Operating since April 1996 (first POP Junee NSW)."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "c. 2013",
+      "precision": "approx",
+      "details": "Customer base sold to Eftel (satellite business kept separate); deregistered 2015, ABN cancelled 2017."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19971022032622/http://www.dragnet.com.au/mainone.html",
+      "label": "Dragnet (Wayback 1997)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20130723002635/http://www.dragnet.com.au/",
+      "label": "Dragnet -> EFTel notice (Wayback 2013)"
+    }
+  ]
+}

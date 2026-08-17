@@ -1,0 +1,38 @@
+{
+  "name": "APANA WA node",
+  "slug": "apana-wa",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://wa.apana.org.au",
+  "summary": "APANA regional hub wa.apana.org.au ('Apana West'); main server Odyssey; defunct.",
+  "names": [
+    {
+      "name": "APANA WA node",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "APANA regional structure; WA hub."
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Regional nodes folded into the single National Region."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
+      "label": "APANA (Wayback 1997)"
+    }
+  ]
+}

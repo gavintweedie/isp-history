@@ -1,0 +1,31 @@
+{
+  "name": "i-Blue Internet",
+  "slug": "i-blue-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://iblue.com.au",
+  "summary": "Dialup-era ISP (iblue.com.au); defunct.",
+  "names": [
+    {
+      "name": "i-Blue Internet",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Dialup ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

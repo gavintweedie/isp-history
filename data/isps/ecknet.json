@@ -1,0 +1,38 @@
+{
+  "name": "ECKnet",
+  "slug": "ecknet",
+  "birthplace": "Seymour, VIC",
+  "status": "inactive",
+  "website": "https://eck.net.au",
+  "summary": "Regional VIC dialup ISP (E.C.K. Computers, Melbourne/Seymour POPs), later ADSL; dead by 2009.",
+  "names": [
+    {
+      "name": "ECKnet",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "Dialup, then ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "by 2009",
+      "precision": "by",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030529/http://www.eck.net.au/",
+      "label": "ECKnet (Wayback 2003)"
+    }
+  ]
+}

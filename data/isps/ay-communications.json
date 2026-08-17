@@ -1,0 +1,38 @@
+{
+  "name": "AY Communications",
+  "slug": "ay-communications",
+  "birthplace": "Queenscliff (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://ay.com.au",
+  "summary": "Sydney dialup/hosting ISP + Linux consulting; dead c.2008.",
+  "names": [
+    {
+      "name": "AY Communications",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of own domain (by 1998)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Last capture Nov 2008."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020212183726/http://www.cynosure.com.au/isp/ay",
+      "label": "AY (Cynosure 2002)"
+    }
+  ]
+}

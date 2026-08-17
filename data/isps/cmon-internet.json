@@ -1,0 +1,31 @@
+{
+  "name": "Cmon Internet",
+  "slug": "cmon-internet",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "https://cmon.com.au",
+  "summary": "Dialup + ADSL ISP ('Cmon 24/7', ~2005); defunct.",
+  "names": [
+    {
+      "name": "Cmon Internet",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Dialup, residential ADSL."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ]
+}

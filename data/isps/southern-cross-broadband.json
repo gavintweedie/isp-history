@@ -1,0 +1,31 @@
+{
+  "name": "Southern Cross Broadband",
+  "slug": "southern-cross-broadband",
+  "birthplace": "Southern Cross, WA",
+  "status": "active",
+  "website": "https://sxbb.com.au",
+  "summary": "Regional WA fixed-wireless/NBN provider founded 2022 by Brendon Forrester; named after the WA wheatbelt town Southern Cross.",
+  "names": [
+    {
+      "name": "Southern Cross Broadband",
+      "start_year": 2022,
+      "start_disp": "2022"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2022,
+      "date_disp": "2022",
+      "precision": "exact",
+      "details": "Southern Cross Broadband Pty Ltd, regional WA."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20250319083634/https://sxbb.com.au/",
+      "label": "Southern Cross Broadband (Wayback 2025)"
+    }
+  ]
+}

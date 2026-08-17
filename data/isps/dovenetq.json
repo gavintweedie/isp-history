@@ -1,0 +1,38 @@
+{
+  "name": "DoveNetQ",
+  "slug": "dovenetq",
+  "birthplace": "Auchenflower (Brisbane), QLD",
+  "status": "inactive",
+  "website": "https://dovenetq.net.au",
+  "summary": "Brisbane ISP of the Uniting Church in Australia (national dialup, 71 POPs); rebranded ISPX ~2012, then Planet Ozi by 2018.",
+  "names": [
+    {
+      "name": "DoveNetQ",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "National dialup, broadband, hosting."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Rebranded ISPX."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2012/http://www.dovenetq.net.au/",
+      "label": "DoveNetQ (Wayback 2012)"
+    }
+  ]
+}

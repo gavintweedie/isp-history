@@ -1,0 +1,38 @@
+{
+  "name": "Internet Vision Technologies",
+  "slug": "internet-vision-technologies",
+  "birthplace": "Croydon, VIC",
+  "status": "active",
+  "website": "https://www.ivt.com.au",
+  "summary": "Successor to Mission Internet (formerly Mission Internet Marketing, est. 1994); web development/hosting firm, now software for associations (Association Online); acquired by ASI (Advanced Solutions International) June 2017.",
+  "names": [
+    {
+      "name": "Internet Vision Technologies",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Established 1994 (as Mission Internet Marketing); incorporated as IVT from Mission Internet 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "Jun 2017",
+      "precision": "exact",
+      "details": "Acquired by ASI (Advanced Solutions International)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020205131103/http://www.ivt.com.au/about.php",
+      "label": "IVT about (Wayback 2002)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Select Communications",
+  "slug": "select-communications",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://select.net.au",
+  "summary": "Perth telecom (Select Communications (Australia) Pty Ltd, Daniel Mills, founded 7 Mar 2009); ABN cancelled 13 Jun 2014.",
+  "names": [
+    {
+      "name": "Select Communications",
+      "start_year": 2009,
+      "start_disp": "7 Mar 2009"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2009,
+      "date_disp": "7 Mar 2009",
+      "precision": "exact",
+      "details": "Select Communications (Australia) Pty Ltd registered."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "Jun 2014",
+      "precision": "exact",
+      "details": "ABN cancelled 13 Jun 2014."
+    }
+  ]
+}

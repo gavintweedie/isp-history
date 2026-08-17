@@ -1,0 +1,36 @@
+{
+  "name": "Tassienet",
+  "slug": "tassienet",
+  "birthplace": "Tasmania",
+  "status": "inactive",
+  "website": "https://tassie.net",
+  "summary": "Tasmanian ISP; began as Tasmania's Access Server ('Tas Access', 1996), listed on ASX as Tassie.net Ltd; brand of Local Telecom and Internet Ltd (with RuralNet); acquired by iiNet ~Jan 2003.",
+  "names": [
+    {
+      "name": "Tassienet",
+      "start_year": 1996,
+      "start_disp": "Sep 1996"
+    }
+  ],
+  "aliases": [
+    "Tas Access",
+    "Tasmania's Access Server",
+    "Tassie.net"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "Sep 1996",
+      "precision": "exact",
+      "details": "Tasmania's Access Server (Tas Access) company registered."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Acquired by iiNet (with RuralNet, $2.25M for 15,000 customers)."
+    }
+  ]
+}

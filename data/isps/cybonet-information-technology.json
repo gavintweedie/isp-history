@@ -1,0 +1,38 @@
+{
+  "name": "Cybonet Information Technology",
+  "slug": "cybonet-information-technology",
+  "birthplace": "Mount Druitt (Sydney), NSW",
+  "status": "inactive",
+  "website": "https://cybonet.com.au",
+  "summary": "Sydney dialup/web-hosting ISP; sold internet operations to Internet Depot Feb 2001, continued as IT company.",
+  "names": [
+    {
+      "name": "Cybonet Information Technology",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Dialup, hosting, networking (ISP from Oct 1999)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "Feb 2001",
+      "precision": "exact",
+      "details": "Internet operations sold to Internet Depot."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030603214817/http://www.cybonet.com.au/aboutus.html",
+      "label": "Cybonet (Wayback 2003)"
+    }
+  ]
+}

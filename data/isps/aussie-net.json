@@ -1,0 +1,38 @@
+{
+  "name": "aussie.net",
+  "slug": "aussie-net",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://aussie.net",
+  "summary": "Sydney ISP (aussie.net Pty Ltd, ACN 074 677 231) offering transit, virtual-ISP, server-farm, dialup; helped found SNAP (Sydney NAP) and AusBone; defunct.",
+  "names": [
+    {
+      "name": "aussie.net",
+      "start_year": 1996,
+      "start_disp": "1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "aussie.net Pty Ltd founded (Zetland, Sydney)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "c. 2000s",
+      "precision": "approx",
+      "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980520105254/http://www.aussie.net/about.shtml",
+      "label": "aussie.net (Wayback 1998)"
+    }
+  ]
+}
