@@ -1,0 +1,38 @@
+{
+  "name": "Visage Telecom",
+  "slug": "visage-telecom",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "http://www.visage.com.au",
+  "summary": "Sydney small-business voice/ISP provider (Visage Telecom Pty Ltd), owned by interests associated with John Beville; acquired by EFTel (announced 6 Aug 2012) for $450k ($225k cash + $225k shares at 17.5c).",
+  "names": [
+    {
+      "name": "Visage Telecom",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Sydney voice product service provider to small and medium businesses."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "Aug 2012",
+      "precision": "exact",
+      "details": "Acquired by EFTel (announced 6 Aug 2012) for $450k."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.itnews.com.au/news/eftel-buys-small-sydney-isp-311074",
+      "label": "iTnews: Eftel buys small Sydney ISP (Visage Telecom, Aug 2012)"
+    }
+  ]
+}

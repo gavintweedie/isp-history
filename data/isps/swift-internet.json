@@ -1,10 +1,10 @@
 {
   "name": "Swift Internet",
   "slug": "swift-internet",
-  "birthplace": "Regional Australia",
+  "birthplace": "Geelong, VIC",
   "status": "inactive",
   "website": "https://swift.net.au",
-  "summary": "Regional ISP (swift.net.au) selling dialup and ADSL, reselling NEXTEP and Datafast ADSL products; active 2000-2003+.",
+  "summary": "Geelong (VIC) regional ISP (swift.net.au) selling dialup and ADSL, reselling NEXTEP and Datafast ADSL products; acquired by Neighbourhood Cable (Jan 2004).",
   "names": [
     {
       "name": "Swift Internet",
@@ -23,9 +23,9 @@
     {
       "kind": "death",
       "year": 2004,
-      "date_disp": "c. 2003-04",
-      "precision": "approx",
-      "details": "No verified acquisition; site ended ~2004."
+      "date_disp": "Jan 2004",
+      "precision": "exact",
+      "details": "Acquired by Neighbourhood Cable (Jan 2004)."
     }
   ],
   "refs": [

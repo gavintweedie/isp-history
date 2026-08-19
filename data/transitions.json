@@ -3068,6 +3068,110 @@
       "notes": "Optus established Dingo Blue as a wholly-owned subsidiary web-based telco/ISP retailer; sold to AGL (Dec 2000), wound up May 2002.",
       "from": "optus",
       "to": "dingo-blue"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2012,
+      "date_disp": "Jul 2012",
+      "notes": "EFTel acquired West Australian Networks (trading as 'Westnet' on westnet.net.au); ~1,500 customers transferred from 2 Jul 2012, incl. the westnet.net.au domain.",
+      "from": "west-australian-networks",
+      "to": "eftel",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/eftel-buys-small-western-australian-isp-306295",
+          "label": "iTnews: EFTel buys small Western Australian ISP (Jun 2012)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2011,
+      "date_disp": "Sep 2011",
+      "notes": "iiNet acquired Melbourne residential ISP Supernerd (early Sep 2011); ~4,000 customers migrated.",
+      "from": "supernerd",
+      "to": "iinet",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/iinet-acquires-melbourne-isp-supernerd-272632",
+          "label": "iTnews: iiNet acquires Melbourne ISP Supernerd (Sep 2011)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "Dec 2004",
+      "notes": "Comdek acquired Hobart satellite broadband ISP eSat Communications (agreement Sep 2004) for 5.3M shares + 6.7M convertible notes, gaining eSat's HiBIS regional accreditation.",
+      "from": "esat",
+      "to": "comdek"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2012,
+      "date_disp": "Aug 2012",
+      "notes": "EFTel acquired Sydney small-business voice/ISP provider Visage Telecom (announced 6 Aug 2012) for $450k.",
+      "from": "visage-telecom",
+      "to": "eftel"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2011,
+      "date_disp": "Aug 2011",
+      "notes": "EFTel acquired wholesale aggregator Platform Networks (Aug 2011); brought 80 wholesale customers.",
+      "from": "platform-networks",
+      "to": "eftel"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2012,
+      "date_disp": "Sep 2012",
+      "notes": "EFTel acquired Engin from Seven Group (24 Sep 2012, A$9.1m); 85,000 VoIP services.",
+      "from": "engin",
+      "to": "eftel"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "Jan 2004",
+      "notes": "Neighbourhood Cable bought Geelong ISP Swift Internet (Jan 2004).",
+      "from": "swift-internet",
+      "to": "neighbourhood-cable"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2005,
+      "date_disp": "Jul 2005",
+      "notes": "Access Providers bought business internet provider Online 2000 (Jul 2005).",
+      "from": "online-2000",
+      "to": "access-providers"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "customer base",
+      "year": 2010,
+      "date_disp": "Apr 2010",
+      "notes": "Comcen inherited a few hundred TSN Communications customers (churn neared completion Apr 2010).",
+      "from": "tsn-communications",
+      "to": "com-cen"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "DSL customers",
+      "year": 2004,
+      "date_disp": "Dec 2004",
+      "notes": "Destra, via subsidiary Techex Communications, acquired Veritel's DSL customers (Dec 2004).",
+      "from": "veritel",
+      "to": "techex"
     }
   ]
 }

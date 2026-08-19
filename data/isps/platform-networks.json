@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://platformnetworks.net",
-  "summary": "Hosting, broadband, wholesale provider (1300 85 4678, ~2003); defunct.",
+  "summary": "Sydney wholesale/broadband aggregator (Platform Networks Pty Ltd, formed 2003); served small and largely regional service providers; acquired by EFTel (Aug 2011).",
   "names": [
     {
       "name": "Platform Networks",
@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2011,
+      "date_disp": "Aug 2011",
+      "precision": "exact",
+      "details": "Acquired by EFTel (brought 80 wholesale customers)."
     }
   ]
 }
