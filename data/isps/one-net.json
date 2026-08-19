@@ -1,0 +1,34 @@
+{
+  "name": "One.Net",
+  "slug": "one-net",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "http://www.one.net.au",
+  "summary": "Australian ISP (one.net.au, AS7617); a participant on the AusBone Brisbane (BIX) exchange; NOC contact listed at a Sydney number.",
+  "aliases": [
+    "one.net.au"
+  ],
+  "names": [
+    {
+      "name": "One.Net",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by Apr 2001",
+      "precision": "by",
+      "details": "AusBone Brisbane (BIX) participant (AS7617)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010406105734/http://www.ausbone.net/brisbane.htm",
+      "label": "AusBone Brisbane (BIX) participants (Wayback 2001)"
+    }
+  ]
+}

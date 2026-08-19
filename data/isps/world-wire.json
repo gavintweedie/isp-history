@@ -1,0 +1,39 @@
+{
+  "name": "World Wire",
+  "slug": "world-wire",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "http://www.wire.net.au",
+  "summary": "Melbourne ISP (AusBone Melbourne NAP participant; contact Mark White); ran the tucows.wire.net.au mirror. Distinct from World Without Wires ('Wires Broadband').",
+  "aliases": [
+    "wire.net.au"
+  ],
+  "names": [
+    {
+      "name": "World Wire",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of wire.net.au 30 Dec 1996."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961230122637/http://wire.net.au/",
+      "label": "World Wire (Wayback Dec 1996)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990420091946/http://www.ausbone.net/melbourne.htm",
+      "label": "AusBone Melbourne participants (Wayback 1999)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "VICNET",
+  "slug": "vicnet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "http://www.vicnet.net.au",
+  "summary": "Victorian community/education ISP run by the State Library of Victoria and RMIT (AS7637); launched May 1995 to provide free and low-cost internet access, hosting and web services to communities, public libraries and non-profits; a Victoria Internet Exchange (VIX) member; connectivity role wound down from the late 2000s. Distinct from the modern vicnet.com.au network-monitoring firm.",
+  "aliases": [
+    "Victoria's Network"
+  ],
+  "names": [
+    {
+      "name": "VICNET",
+      "start_year": 1995,
+      "start_disp": "May 1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "May 1995",
+      "precision": "exact",
+      "details": "Communally launched by the State Library of Victoria and RMIT to bring internet access to Victorian communities and libraries."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "31 Jan 2014",
+      "precision": "exact",
+      "details": "Vicnet closed as a business unit by the State Library of Victoria; not sold/acquired."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060615025444/http://vix.asn.au/members.htm",
+      "label": "VIX members (Wayback 2006)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://rtsak.com/en/as-numbers/AS7637",
+      "label": "AS7637 State Library of Victoria / VICNET (RTSAK)"
+    }
+  ]
+}

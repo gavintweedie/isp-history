@@ -1,0 +1,39 @@
+{
+  "name": "Terrigal Net",
+  "slug": "terrigal-net",
+  "birthplace": "Terrigal (Central Coast), NSW",
+  "status": "inactive",
+  "website": "http://www.terrigal.net.au",
+  "summary": "Small Central Coast NSW (Terrigal/Gosford area) dialup/ISDN ISP; an AusBone Sydney NAP participant from 1997 (128k ISDN, ASN 7489 lot, IP 198.32.232.13).",
+  "aliases": [
+    "terrigal.net.au"
+  ],
+  "names": [
+    {
+      "name": "Terrigal Net",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "AusBone Sydney participant since 1997; earliest Wayback capture of terrigal.net.au Dec 1998."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981206203012/http://www.terrigal.net.au/",
+      "label": "Terrigal Net (Wayback Dec 1998)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990128134902/http://www.ausbone.net/sydney.htm",
+      "label": "AusBone Sydney participants (Wayback 1999)"
+    }
+  ]
+}

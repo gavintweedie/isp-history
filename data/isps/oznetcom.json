@@ -1,0 +1,34 @@
+{
+  "name": "Oznetcom",
+  "slug": "oznetcom",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "http://www.oznetcom.com.au",
+  "summary": "Brisbane ISP (oznetcom.com.au, AS9382); a participant on the AusBone Brisbane (BIX) exchange; peering contact Alan Westacott.",
+  "aliases": [
+    "oznetcom.com.au"
+  ],
+  "names": [
+    {
+      "name": "Oznetcom",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by Apr 2001",
+      "precision": "by",
+      "details": "AusBone Brisbane (BIX) participant (AS9382)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010406105734/http://www.ausbone.net/brisbane.htm",
+      "label": "AusBone Brisbane (BIX) participants (Wayback 2001)"
+    }
+  ]
+}

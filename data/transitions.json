@@ -3059,6 +3059,15 @@
       "notes": "Uniti acquired OptiComm for $532m; OptiComm retained as the wholesale/infrastructure market brand and the LBNCo brand was retired.",
       "from": "opticomm",
       "to": "uniti-wireless"
+    },
+    {
+      "type": "split",
+      "arm_label": "founded by Optus",
+      "year": 1999,
+      "date_disp": "1999",
+      "notes": "Optus established Dingo Blue as a wholly-owned subsidiary web-based telco/ISP retailer; sold to AGL (Dec 2000), wound up May 2002.",
+      "from": "optus",
+      "to": "dingo-blue"
     }
   ]
 }

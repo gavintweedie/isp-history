@@ -1,0 +1,35 @@
+{
+  "name": "ISP Ltd",
+  "slug": "isp-ltd",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "http://www.ispau.net",
+  "summary": "Melbourne ISP operator trading as ispau.net (AS4752); an AusBone Melbourne (MEL-BONE) exchange participant; referred to as the parent of budget brand BlazeNet, which folded into Hotkey Internet Services.",
+  "aliases": [
+    "Internet Service Providers Ltd",
+    "ispau.net"
+  ],
+  "names": [
+    {
+      "name": "ISP Ltd",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "AusBone Melbourne (MEL-BONE) participant (AS4752); parent of the BlazeNet brand."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010214080158/http://www.ausbone.net/melbourne.htm",
+      "label": "AusBone Melbourne (MEL-BONE) participants (Wayback 2001)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Australian Netlink",
+  "slug": "australian-netlink",
+  "birthplace": "South Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://netlink.com.au",
+  "summary": "Melbourne ISP (PeeVee Software Solutions Pty Ltd T/A Australian Netlink, South Melbourne, AS7601); founded ~1994 by Peter Vaskess; at peak >7000 dialup customers and >500 hosted domains; a Victoria Internet Exchange (VIX) member; business closed 2005 and customer base sold (buyer not identified in public records), so no successor transition is possible.",
+  "aliases": [
+    "Australian Netlink Pty Ltd",
+    "PeeVee Software Solutions Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Australian Netlink",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "Early Melbourne ISP (AS7601); Australia-wide dialup."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Business closed and customer base sold (per Managing Director Peter Vaskess); buyer not identified."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060615025444/http://vix.asn.au/members.htm",
+      "label": "VIX members (Wayback 2006)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://bgp.tools/as/7601",
+      "label": "AS7601 Australian NetLink (bgp.tools)"
+    }
+  ]
+}
