@@ -1,38 +1,53 @@
 {
   "name": "Concept Networks",
   "slug": "concept-networks",
-  "birthplace": "Perth, WA",
+  "birthplace": "Fremantle (Perth), WA",
   "status": "inactive",
-  "website": "https://conceptual.net.au",
-  "summary": "Perth ISP (Conceptual Internet Australia); taken over by Eftel c.2009.",
+  "website": "http://www.conceptual.net.au",
+  "summary": "Fremantle/Perth WA ISP trading as 'Concept Networks' on conceptual.net.au (Conceptual Internet Australia Pty Ltd, ABN 49 087 624 619, formerly Genium Pty Ltd); dial-up, ADSL broadband, web hosting, domain names and web design; business names included Nerd Net, Smiley's Internet Services, Pips.net.au; wound down by the 2010s.",
+  "aliases": [
+    "Conceptual Internet Australia",
+    "Concept Networks",
+    "Genium Pty Ltd"
+  ],
   "names": [
     {
       "name": "Concept Networks",
-      "start_year": 2000,
-      "start_disp": "c. 2000"
+      "start_year": 1999,
+      "start_disp": "Nov 1999"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2000,
-      "date_disp": "c. 2000",
-      "precision": "approx",
-      "details": "Trading by Aug 2000; parent of budget brand LetsGo."
+      "year": 1999,
+      "date_disp": "Nov 1999",
+      "precision": "exact",
+      "details": "Genium Pty Ltd registered 1 Nov 1999, trading as Concept Networks; renamed Conceptual Internet Australia Pty Ltd 18 Feb 2000; earliest Wayback capture of conceptual.net.au Aug 2000."
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2009",
+      "year": 2010,
+      "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "Taken over by Eftel; services migrated to Eftel's network."
+      "details": "Last live Wayback capture of conceptual.net.au Apr 2009 (then redirects); ABN cancelled 5 Apr 2017."
     }
   ],
   "refs": [
     {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View/49087624619",
+      "label": "ABN Lookup: Conceptual Internet Australia Pty Ltd"
+    },
+    {
       "kind": "archive",
-      "url": "https://web.archive.org/web/20001031204121/http://www.conceptual.net.au/",
+      "url": "https://web.archive.org/web/20000816174757/http://www.conceptual.net.au/",
       "label": "Concept Networks (Wayback 2000)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060209031243/http://conceptual.net.au/",
+      "label": "Concept Networks broadband (Wayback 2006)"
     }
   ]
 }

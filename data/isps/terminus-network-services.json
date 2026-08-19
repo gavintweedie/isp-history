@@ -1,0 +1,43 @@
+{
+  "name": "Terminus Network Services",
+  "slug": "terminus-network-services",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "http://www.terminus.net.au",
+  "summary": "Small Perth ISP and open-source IT firm founded and run by Jeremy Malcolm (manager/MD 1998-2005); internet connectivity, web design, consultancy, training and networking solutions based on Debian/open-source software; ~3 staff; defunct by mid-2000s.",
+  "names": [
+    {
+      "name": "Terminus Network Services",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "approx",
+      "details": "Established 1998 by Jeremy Malcolm (Perth); earliest Wayback capture of terminus.net.au Aug 2000."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Founded and run 1998-2005 by Jeremy Malcolm; domain later repurposed (2009+)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000824151558/http://www.terminus.net.au/",
+      "label": "Terminus (Wayback 2000)"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.icann.org/sites/default/files/packages/applications-16nov15/malcolm-cv-16nov15-en.pdf",
+      "label": "Jeremy Malcolm CV (1998-2005 Managing Director)"
+    }
+  ]
+}
