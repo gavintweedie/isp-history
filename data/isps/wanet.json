@@ -1,0 +1,36 @@
+{
+  "name": "WAnet",
+  "slug": "wanet",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "https://wanet.com.au",
+  "summary": "Perth ISP (WAnet); office on Beaufort Street, Mount Lawley in the early 2000s with OPAL dial-in modem pools; broadband, hosting and 'premium internet services and support'; still active.",
+  "names": [
+    {
+      "name": "WAnet",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Earliest Wayback capture of wanet.com.au Jun 1997; staffed in Perth from at least Apr 1997."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970605010446/http://www.wanet.com.au/",
+      "label": "WAnet (Wayback 1997)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20031119204305/http://www.wanet.com.au/home.shtml",
+      "label": "WAnet contact details (Wayback 2003)"
+    }
+  ]
+}

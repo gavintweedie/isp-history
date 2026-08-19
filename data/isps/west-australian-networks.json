@@ -1,0 +1,48 @@
+{
+  "name": "West Australian Networks",
+  "slug": "west-australian-networks",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "http://www.westnet.net.au",
+  "summary": "WA-owned ISP trading as 'Westnet' on westnet.net.au — unrelated to Westnet (westnet.com.au, bought by iiNet); dialup, ISDN, ADSL2+, mobile broadband, VoIP, hosting and web design, with a focus on rural, regional and remote areas; TIO and WAIA member; defunct c. 2012-13.",
+  "names": [
+    {
+      "name": "West Australian Networks",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of westnet.net.au Dec 1998; company claimed to have provided Internet and IT services since 1995."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "Last live Wayback capture Aug 2012; domain returned 302/403 from early 2013 and is now dead."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981206114453/http://www.westnet.net.au/",
+      "label": "West Australian Networks (Wayback 1998)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20100712211040/http://www.westnet.net.au/public_html/aboutus-overview.php",
+      "label": "About West Australian Networks (Wayback 2010)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20120829124416/http://www.westnet.net.au/",
+      "label": "Last capture (Wayback 2012)"
+    }
+  ]
+}

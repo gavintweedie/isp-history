@@ -2987,6 +2987,15 @@
       "notes": "Optus acquired vividwireless from Seven Group (A$230M).",
       "from": "vividwireless",
       "to": "optus"
+    },
+    {
+      "type": "split",
+      "arm_label": "ISP arm (retail)",
+      "year": 2025,
+      "date_disp": "2025",
+      "notes": "Splice Internet is the retail ISP arm of Rural Fibre Co's wholesale Gippsland fibre network; first customers connected late 2025.",
+      "from": "rural-fibre-co",
+      "to": "splice-internet"
     }
   ]
 }

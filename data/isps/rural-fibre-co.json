@@ -1,24 +1,41 @@
 {
   "name": "Rural Fibre Co",
   "slug": "rural-fibre-co",
-  "birthplace": "Gippsland, VIC",
+  "birthplace": "Morwell (Gippsland), VIC",
   "status": "active",
   "website": "https://www.ruralfibre.co/",
-  "summary": "Regional Gippsland FTTP operator (up to 2500 Mbps residential / 10 Gbps business); still active.",
+  "summary": "Gippsland wholesale fibre infrastructure builder and network operator (Rural Fibre Co Pty Ltd, ABN 44 682 917 924); founded and funded by Phillip Britt, co-founder of Aussie Broadband; ACMA carrier licence 2025; its retail ISP arm is Splice Internet; still active.",
   "names": [
     {
       "name": "Rural Fibre Co",
-      "start_year": 2020,
-      "start_disp": "c. 2020"
+      "start_year": 2024,
+      "start_disp": "6 Dec 2024"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2020,
-      "date_disp": "c. 2020",
-      "precision": "approx",
-      "details": "FTTP regional fibre."
+      "year": 2024,
+      "date_disp": "6 Dec 2024",
+      "precision": "exact",
+      "details": "Rural Fibre Co Pty Ltd registered (ABN 44 682 917 924); founding announced Jan 2025, team started 3 Mar 2025; first residential fibre build (Hazelwood North) 2025-26."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?id=44682917924",
+      "label": "ABN Lookup: Rural Fibre Co Pty Ltd"
+    },
+    {
+      "kind": "official",
+      "url": "https://ruralfibre.co/media/phillip-britt-founds-rural-fibre-co",
+      "label": "Phillip Britt founds Rural Fibre Co (Jan 2025)"
+    },
+    {
+      "kind": "official",
+      "url": "https://ruralfibre.co/about",
+      "label": "Rural Fibre Co: About"
     }
   ]
 }
