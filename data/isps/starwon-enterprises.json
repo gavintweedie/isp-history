@@ -1,0 +1,38 @@
+{
+  "name": "Starwon Enterprises",
+  "slug": "starwon-enterprises",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "http://www.starwon.com.au",
+  "summary": "Perth ISP 'Starwon Internet' (starwon.com.au); dialup, pricing/status/support portal; WAIA WAIX-class member; absorbed into the Perth ispX (formed July 2004 with Starwon, Karratha Internet and Netserv Connect).",
+  "names": [
+    {
+      "name": "Starwon Enterprises",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of starwon.com.au Dec 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Jul 2004",
+      "precision": "approx",
+      "details": "Absorbed into the Perth ispX, formed early July 2004 from Starwon Internet, Karratha Internet and Netserv Connect."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961228025035/http://www.starwon.com.au/",
+      "label": "Starwon Internet (Wayback 1996)"
+    }
+  ]
+}

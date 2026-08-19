@@ -2996,6 +2996,15 @@
       "notes": "Splice Internet is the retail ISP arm of Rural Fibre Co's wholesale Gippsland fibre network; first customers connected late 2025.",
       "from": "rural-fibre-co",
       "to": "splice-internet"
+    },
+    {
+      "type": "split",
+      "arm_label": "consumer ISP brand",
+      "year": 1999,
+      "date_disp": "1999",
+      "notes": "Primus Telecom launched the iPrimus consumer brand (1999) while retaining the Primus brand for business.",
+      "from": "primus-telecom-australia",
+      "to": "iprimus"
     }
   ]
 }

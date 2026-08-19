@@ -1,0 +1,38 @@
+{
+  "name": "Avon Global Communications",
+  "slug": "avon-global",
+  "birthplace": "Avon Valley (Northam), WA",
+  "status": "inactive",
+  "website": "http://www.avon.net.au",
+  "summary": "Early Avon Valley / Perth ISP (avon.net.au); home-page creation, internet classes and gateway for local business/tourism; WAIA and TIO member; operated from 1996 into the 2010s.",
+  "names": [
+    {
+      "name": "Avon Global Communications",
+      "start_year": 1996,
+      "start_disp": "by 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Earliest Wayback capture of avon.net.au Dec 1996; WAIA/TIO member from 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "c. 2011",
+      "precision": "approx",
+      "details": "Website last captured 2005; still listed on TIO/WAIX into 2011."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961229103620/http://www.avon.net.au/",
+      "label": "Avon Global (Wayback 1996)"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Alias Internet",
+  "slug": "alias-internet",
+  "birthplace": "North Perth, WA",
+  "status": "inactive",
+  "website": "http://www.alias.net.au",
+  "summary": "Small North Perth ISP (PO Box 449, North Perth); dialup, permanent dial-up/ADSL and hosting; WAIA member; defunct by ~2004.",
+  "names": [
+    {
+      "name": "Alias Internet",
+      "start_year": 2001,
+      "start_disp": "by 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Earliest Wayback capture of alias.net.au Aug 2001; WAIA WAIX-class member 2004."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Last real ISP page Feb 2003; alias.net.au a default page by Sep 2004; AS18232 (Alias Internet) later inactive."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010803144312/http://www.alias.net.au/",
+      "label": "Alias Internet (Wayback 2001)"
+    }
+  ]
+}

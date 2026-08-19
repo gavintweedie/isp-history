@@ -1,0 +1,42 @@
+{
+  "name": "Primus Telecommunications Australia",
+  "slug": "primus-telecom-australia",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://www.iprimus.com.au",
+  "summary": "Australian arm of US PTGi; among the first carriers licensed at full deregulation in July 1997 (entered via Axicorp 1996); ran its own fibre in the five capitals; launched the iPrimus consumer brand 1999; acquired by M2 Group (June 2012), later part of Vocus.",
+  "aliases": [
+    "Primus Telecom",
+    "Primus Telecommunications (Australia) Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Primus Telecommunications Australia",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "One of the first carriers licensed when competition opened in Australia (1 July 1997); entered via Axicorp 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "Jun 2012",
+      "precision": "exact",
+      "details": "Acquired by M2 Group for A$192.4m (announced 16 Apr 2012, completed 1 Jun 2012); M2 merged into Vocus 2016."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Primus_Telecommunications_(Australia)",
+      "label": "Wikipedia: Primus Telecommunications (Australia)"
+    }
+  ]
+}

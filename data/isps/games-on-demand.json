@@ -1,0 +1,38 @@
+{
+  "name": "Games On Demand",
+  "slug": "games-on-demand",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "http://www.gamesondemand.com.au",
+  "summary": "Perth gaming-optimised online network 'Games-on-Demand (G.O.D.)' (Games On Demand Pty Ltd, ACN 105 421 743); members dialled a VPN to play games and download demos; WAIX-class member; defunct by ~2006.",
+  "names": [
+    {
+      "name": "Games On Demand",
+      "start_year": 2003,
+      "start_disp": "by 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "by 2003",
+      "precision": "by",
+      "details": "Earliest Wayback capture of gamesondemand.com.au Feb 2003."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "c. 2006",
+      "precision": "approx",
+      "details": "Site last captured Oct 2005; WAIRComm shows it operating into 2006."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030809024703/http://www.gamesondemand.com.au/",
+      "label": "Games On Demand (Wayback 2003)"
+    }
+  ]
+}

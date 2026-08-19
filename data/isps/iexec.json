@@ -1,0 +1,42 @@
+{
+  "name": "IExec",
+  "slug": "iexec",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "http://www.iexec.com.au",
+  "summary": "Data networking/ISP 'iExec Pty Ltd' (ABN 21 010 874 978), trading as iClub.com.au ('Your Local Internet Gateway', dialup/permanent links ~2000-02) and iExec Corporate Data Solutions (~2003+); WAIX member and peer; absorbed into Brennan IT ~2008.",
+  "aliases": [
+    "iClub",
+    "iExec Corporate Data Solutions"
+  ],
+  "names": [
+    {
+      "name": "IExec",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "iClub/iExec site from May 2001; 'grown from two staff in 2000'."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Absorbed into Brennan IT (iexec.com.au served a Brennan homepage from Nov 2008)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010721112600/http://www.iexec.com.au/",
+      "label": "iExec/iClub (Wayback 2001)"
+    }
+  ]
+}
