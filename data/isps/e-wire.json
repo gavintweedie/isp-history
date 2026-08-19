@@ -1,0 +1,39 @@
+{
+  "name": "E-Wire",
+  "slug": "e-wire",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "http://www.e-wire.net.au",
+  "summary": "Perth residential-estate communications network: broadband internet, free-to-air TV, VoIP and Foxtel over underground cable to housing estates (a division of Broadcast Engineering Services (Australia) Pty Ltd); distinct from Over the Wire; still active.",
+  "aliases": [
+    "e-wire.net.au"
+  ],
+  "names": [
+    {
+      "name": "E-Wire",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Earliest Wayback capture of e-wire.net.au Jul 2002."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20071012032534/http://www.waia.asn.au/waix/participants.shtml",
+      "label": "WAIA WAIX participants (Wayback 2007)"
+    },
+    {
+      "kind": "official",
+      "url": "http://www.e-wire.net.au",
+      "label": "E-Wire"
+    }
+  ]
+}

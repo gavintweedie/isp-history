@@ -1,0 +1,36 @@
+{
+  "name": "Ciphertel",
+  "slug": "ciphertel",
+  "birthplace": "Bunbury/Perth, WA",
+  "status": "active",
+  "website": "https://ciphertel.com",
+  "summary": "WA licensed carrier and ISP (fixed wireless, microwave and fibre) serving regional Western Australia; Perth-origin, later based in Bunbury; still active.",
+  "names": [
+    {
+      "name": "Ciphertel",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Perth communications company (SMS/GSM products) from 2002; later a licensed WA carrier ISP."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20071012032534/http://www.waia.asn.au/waix/participants.shtml",
+      "label": "WAIA WAIX participants (Wayback 2007)"
+    },
+    {
+      "kind": "official",
+      "url": "https://ciphertel.com",
+      "label": "Ciphertel"
+    }
+  ]
+}

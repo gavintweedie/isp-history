@@ -1,0 +1,43 @@
+{
+  "name": "PowerTel",
+  "slug": "powertel",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "http://www.powertel.com.au",
+  "summary": "PowerTel Limited (ASX: PWT) — Australia's second-largest fixed broadband and inter-city fibre carrier; built the ~2500km Melbourne-to-Brisbane backbone; acquired Request Broadband (2004) and NTT Australia (2004); absorbed into AAPT (Telecom NZ) May 2007.",
+  "names": [
+    {
+      "name": "PowerTel",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Carrier formed late 1990s; ASX-listed Feb 2001."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "May 2007",
+      "precision": "exact",
+      "details": "Acquired by Telecom NZ (A$357m incl. debt, $2.30/share) for the AAPT group; PowerTel name retired."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.reuters.com/article/business/media-telecom/nzs-telecom-bids-for-australias-powertel-idUSWEL26892/",
+      "label": "Reuters: Telecom NZ bids for PowerTel (2007)"
+    },
+    {
+      "kind": "news",
+      "url": "https://www.smh.com.au/national/powertel-to-acquire-ntt-australia-20041026-gdjzp1.html",
+      "label": "SMH: PowerTel to acquire NTT Australia (2004)"
+    }
+  ]
+}

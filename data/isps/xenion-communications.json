@@ -1,0 +1,38 @@
+{
+  "name": "Xenion Communications",
+  "slug": "xenion-communications",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "http://www.xenion.com.au",
+  "summary": "Perth ISP and network-design company: virtual hosting, VPS, colocation, caching and transit (Xenion Pty Ltd); WAIX-connected; defunct by the mid-2010s.",
+  "names": [
+    {
+      "name": "Xenion Communications",
+      "start_year": 2007,
+      "start_disp": "by 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "by 2007",
+      "precision": "by",
+      "details": "First captured Jan 2007; news archive from Jun 2008."
+    },
+    {
+      "kind": "death",
+      "year": 2016,
+      "date_disp": "c. 2016",
+      "precision": "approx",
+      "details": "ISP/hosting site last confirmed Feb 2016."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20071012032534/http://www.waia.asn.au/waix/participants.shtml",
+      "label": "WAIA WAIX participants (Wayback 2007)"
+    }
+  ]
+}

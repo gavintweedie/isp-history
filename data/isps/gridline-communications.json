@@ -1,0 +1,38 @@
+{
+  "name": "Gridline Communications",
+  "slug": "gridline-communications",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "http://www.gridline-australia.com.au",
+  "summary": "Perth 'broadband over power lines' (BPL) ISP — internet, VoIP and security delivered via the electrical outlet; founded 2003; short-lived, gone by late 2007.",
+  "names": [
+    {
+      "name": "Gridline Communications",
+      "start_year": 2006,
+      "start_disp": "by 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Company founded by telecom/utility executives 2003; site first captured 2006."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "approx",
+      "details": "Last capture Oct 2007; services gone as Australian BPL trials ended."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20071012032534/http://www.waia.asn.au/waix/participants.shtml",
+      "label": "WAIA WAIX participants (Wayback 2007)"
+    }
+  ]
+}

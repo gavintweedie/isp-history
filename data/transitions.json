@@ -3005,6 +3005,24 @@
       "notes": "Primus Telecom launched the iPrimus consumer brand (1999) while retaining the Primus brand for business.",
       "from": "primus-telecom-australia",
       "to": "iprimus"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "2004",
+      "notes": "PowerTel acquired Request Broadband.",
+      "from": "request-broadband",
+      "to": "powertel"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2007,
+      "date_disp": "May 2007",
+      "notes": "PowerTel absorbed into AAPT (Telecom NZ), A$357m incl. debt.",
+      "from": "powertel",
+      "to": "aapt"
     }
   ]
 }
