@@ -1,0 +1,47 @@
+{
+  "name": "Service Elements",
+  "slug": "service-elements",
+  "birthplace": "Sydney, NSW",
+  "status": "unknown",
+  "website": "https://selements.com.au",
+  "summary": "Sydney (Gladesville) ICT/telecommunications firm: business data & telephony, hosted/managed IT and the design, build and management of FTTH networks. Associated with the Broadcast Engineering Services / E-Wire group (ACCC lists 'Service Elements / Fuze Connect / eWire / BES' together as estate-network operators).",
+  "aliases": [
+    "Service Elements Pty Ltd",
+    "Sydney Cognitive Development Centre"
+  ],
+  "names": [
+    {
+      "name": "Service Elements",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Trading as Service Elements since c. 2000 (in business ~20 years per company); Service Elements Pty Ltd ACN 600 341 008 registered Jun 2014."
+    },
+    {
+      "kind": "note",
+      "year": 2012,
+      "date_disp": "by 2012",
+      "precision": "by",
+      "details": "Grouped with Broadcast Engineering Services, E-Wire and Fuze Connect as one estate-network operator group (ACCC, 2012)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://www.accc.gov.au/system/files/OptiComm%20submission%20-%2023%20March%202012.pdf",
+      "label": "ACCC: OptiComm submission listing Service Elements/Fuze/eWire/BES"
+    },
+    {
+      "kind": "official",
+      "url": "https://selements.com.au",
+      "label": "Service Elements"
+    }
+  ]
+}

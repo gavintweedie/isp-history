@@ -1,0 +1,46 @@
+{
+  "name": "OptiComm",
+  "slug": "opticomm",
+  "birthplace": "Port Melbourne, VIC",
+  "status": "active",
+  "website": "https://opticomm.com.au",
+  "summary": "Independent FTTP access-network builder/operator for new residential estates, apartments and commercial developments; ASX-listed 2019, acquired by Uniti Group 2020 and kept as the market/wholesale brand. Took over operation of several former E-Wire estate networks in WA (2011).",
+  "aliases": [
+    "OptiComm Co Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "OptiComm",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "exact",
+      "details": "Founded in Port Melbourne, Victoria."
+    },
+    {
+      "kind": "note",
+      "year": 2011,
+      "date_disp": "Nov 2011",
+      "precision": "exact",
+      "details": "Acquired the rights to operate the former E-Wire HFC/FTTH network (e.g. Brighton estate, WA), upgrading the cable network to DOCSIS 3.0."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.itnews.com.au/news/opticomm-no-technical-barrier-to-open-access-cable-290926",
+      "label": "iTnews: Opticomm takes over former E-Wire network"
+    },
+    {
+      "kind": "official",
+      "url": "https://opticomm.com.au",
+      "label": "OptiComm"
+    }
+  ]
+}

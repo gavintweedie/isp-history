@@ -1,0 +1,47 @@
+{
+  "name": "LBNCo",
+  "slug": "lbnet",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://www.lbnco.com.au",
+  "summary": "The Local Broadband Network Company — builder/operator of open-access fibre-to-the-premises networks for multi-dwelling units and residential estates; billed as Australia's first FTTH operator. PE-backed (ROC Partners MBO) then acquired by Uniti for $100m (2019); brand retired when Uniti consolidated its wholesale business into OptiComm (2020).",
+  "aliases": [
+    "The Local Broadband Network Company",
+    "LBN Co"
+  ],
+  "names": [
+    {
+      "name": "LBNCo",
+      "start_year": 2000,
+      "start_disp": "c. 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": ">20 years' experience in FTTH (legal profile); connecting households to its private network since 2007."
+    },
+    {
+      "kind": "death",
+      "year": 2020,
+      "date_disp": "Nov 2020",
+      "precision": "exact",
+      "details": "LBNCo brand retired when Uniti adopted OptiComm as its wholesale/infrastructure market brand."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.arnnet.com.au/article/1264718/uniti-group-to-buy-fibre-company-lbnco-for-100m.html",
+      "label": "ARN: Uniti Group to buy fibre company LBNCo for $100M"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.lbnco.com.au",
+      "label": "LBNCo (now part of OptiComm)"
+    }
+  ]
+}

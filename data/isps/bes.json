@@ -1,0 +1,46 @@
+{
+  "name": "Broadcast Engineering Services",
+  "slug": "bes",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "summary": "Western Australian broadcast engineering and communications company (Broadcast Engineering Services (Australia) Pty Ltd, Malaga WA); parent/owner of E-Wire, its residential-estate communications division. Listed by OptiComm with Service Elements, Fuze Connect and eWire as a group of estate-network operators.",
+  "aliases": [
+    "BES",
+    "Broadcast Engineering Services (Australia) Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Broadcast Engineering Services",
+      "start_year": 2000,
+      "start_disp": "by 2000",
+      "end_year": 2002,
+      "end_disp": "c. 2002"
+    },
+    {
+      "name": "Broadcast Engineering Services (Australia) Pty Ltd",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Established 2000 (per business listing; ABN 29 066 971 533); ran E-Wire's Perth residential-estate networks."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.itnews.com.au/news/opticomm-exits-greenfield-lobby-237423",
+      "label": "iTnews: GFOA members included Service Elements and Broadcast Engineering Services"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.accc.gov.au/system/files/OptiComm%20submission%20-%2023%20March%202012.pdf",
+      "label": "ACCC: OptiComm submission listing Service Elements/Fuze/eWire/BES"
+    }
+  ]
+}

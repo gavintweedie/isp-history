@@ -3023,6 +3023,42 @@
       "notes": "PowerTel absorbed into AAPT (Telecom NZ), A$357m incl. debt.",
       "from": "powertel",
       "to": "aapt"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "division",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "notes": "E-Wire operated as the residential-estate communications division of Broadcast Engineering Services (Australia) Pty Ltd.",
+      "from": "e-wire",
+      "to": "bes"
+    },
+    {
+      "type": "split",
+      "arm_label": "WA estate networks",
+      "year": 2011,
+      "date_disp": "Nov 2011",
+      "notes": "OptiComm acquired the rights to operate former E-Wire HFC/FTTH networks (e.g. Brighton estate) and upgraded the cable network to DOCSIS 3.0.",
+      "from": "e-wire",
+      "to": "opticomm"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2019,
+      "date_disp": "Aug 2019",
+      "notes": "Uniti acquired LBNCo (The Local Broadband Network Company), Australia's first FTTH operator, for $100m.",
+      "from": "lbnet",
+      "to": "uniti-wireless"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2020,
+      "date_disp": "Nov 2020",
+      "notes": "Uniti acquired OptiComm for $532m; OptiComm retained as the wholesale/infrastructure market brand and the LBNCo brand was retired.",
+      "from": "opticomm",
+      "to": "uniti-wireless"
     }
   ]
 }
