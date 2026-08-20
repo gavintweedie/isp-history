@@ -1,0 +1,45 @@
+{
+  "name": "Interphone",
+  "slug": "interphone",
+  "birthplace": "Osborne Park (Perth), WA",
+  "status": "active",
+  "website": "https://fibrenet.com.au",
+  "summary": "Perth fibre/satellite ISP (Interphone Pty Ltd, ABN 163 794 483, AS134980), trading as Fibrenet; distributed GPON fibre network for developers, lifestyle/retirement villages, businesses and homes; one of the few Perth fibre providers.",
+  "aliases": [
+    "Fibrenet",
+    "Interphone Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Interphone",
+      "start_year": 2015,
+      "start_disp": "by Dec 2015"
+    },
+    {
+      "name": "Fibrenet",
+      "start_year": 2015,
+      "start_disp": "by Dec 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "by Dec 2015",
+      "precision": "by",
+      "details": "AS134980 allocated 16 Dec 2015; Perth GPON fibre ISP trading as Fibrenet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://fibrenet.com.au",
+      "label": "Fibrenet"
+    },
+    {
+      "kind": "archive",
+      "url": "https://www.peeringdb.com/asn/134980",
+      "label": "AS134980 Interphone (PeeringDB)"
+    }
+  ]
+}
