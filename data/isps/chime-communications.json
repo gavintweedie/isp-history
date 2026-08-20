@@ -1,31 +1,49 @@
 {
   "name": "Chime Communications",
   "slug": "chime-communications",
-  "birthplace": "Melbourne, VIC",
+  "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://chime.net.au",
-  "summary": "Melbourne dialup ('virtual dial') + broadband + hosting ISP (by 2001); absorbed by iiNet (chime.net.au served iiNet content by 2008).",
+  "summary": "iiNet fully owned subidiary providing wholesale dialup and bandwidth.",
   "names": [
+    {
+      "name": "iiTel",
+      "start_year": 2000,
+      "start_disp": "by 2000"
+    },
     {
       "name": "Chime Communications",
       "start_year": 2001,
-      "start_disp": "by 2001"
+      "start_disp": "15 Feb 2001"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "by 2001",
-      "precision": "by",
-      "details": "Dialup, broadband, hosting."
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by"
     },
     {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Carrier interconnect with Telstra",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=199524&documentDate=2000-08-23&documentNumber=182972",
+          "label": "ASX: Telstra to Acquire Carriage Services from iinet"
+        }
+      ]
+    },
+        {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "by 2008",
-      "precision": "by",
-      "details": "Absorbed by iiNet."
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Defunct with TPG acquisition of iiNet."
     }
   ]
 }

@@ -67,10 +67,17 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 1999,
-      "date_disp": "1999",
-      "notes": "Post-IPO Perth-area acquisition.",
+      "date_disp": "28 July 1999",
+      "notes": "Perth-area acquisition.",
       "from": "wantree",
-      "to": "iinet"
+      "to": "iinet",
+            "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=304322&documentDate=1999-10-05&documentNumber=167713",
+          "label": "ASX: Settlement of Acquisition"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -79,16 +86,30 @@
       "date_disp": "1999",
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "omen-internet",
-      "to": "iinet"
+      "to": "iinet",
+            "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=314653&documentDate=1999-11-29&documentNumber=170667",
+          "label": "ASX: To Acquire Omen Internet and Net Trek Online Services"
+        }
+      ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 1999,
-      "date_disp": "1999",
+      "year": 2000,
+      "date_disp": "2000",
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "networx",
-      "to": "iinet"
+      "to": "iinet",
+            "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=160337&documentDate=2000-02-09&documentNumber=173923",
+          "label": "ASX: Further Acquisition for Leading Perth ISP"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -97,16 +118,46 @@
       "date_disp": "1999",
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "nettrek",
-      "to": "iinet"
+      "to": "iinet",
+            "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=314653&documentDate=1999-11-29&documentNumber=170667",
+          "label": "ASX: To Acquire Omen Internet and Net Trek Online Services"
+        }
+      ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 1999,
-      "date_disp": "1999",
+      "year": 2000,
+      "date_disp": "2000",
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "infinite-data",
-      "to": "iinet"
+      "to": "iinet",
+            "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=160337&documentDate=2000-02-09&documentNumber=173923",
+          "label": "ASX: Further Acquisition for Leading Perth ISP"
+        }
+      ]
+    },
+        {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2000,
+      "date_disp": "2000",
+      "notes": "Post-IPO Perth-area acquisition.",
+      "from": "octal",
+      "to": "iinet",
+            "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=160337&documentDate=2000-02-09&documentNumber=173923",
+          "label": "ASX: Further Acquisition for Leading Perth ISP"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -151,7 +202,15 @@
       "date_disp": "2003",
       "notes": "Regional acquisition.",
       "from": "ruralnet",
-      "to": "iinet"
+      "to": "iinet",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=662104&documentDate=2002-12-31&documentNumber=199673",
+          "label": "ASX: LOC`s: Conditional Agreement with IIN for Sale of ISP Assets"
+        }
+      ]
+
     },
     {
       "type": "acquisition",
@@ -160,7 +219,15 @@
       "date_disp": "2003",
       "notes": "Tasmanian acquisition (Tassienet, ex-Tasmania's Access Server).",
       "from": "tassienet",
-      "to": "iinet"
+      "to": "iinet",
+       "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=662104&documentDate=2002-12-31&documentNumber=199673",
+          "label": "ASX: LOC`s: Conditional Agreement with IIN for Sale of ISP Assets"
+        }
+      ]
+
     },
     {
       "type": "acquisition",
@@ -295,7 +362,14 @@
       "date_disp": "Feb 2004",
       "notes": "iiNet acquired FlowCom (~A$6.3M) including iGreen, Froggy Internet, Planet ISP.",
       "from": "flowcom",
-      "to": "iinet"
+      "to": "iinet",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://announcements.asx.com.au/asxpdf/20040225/pdf/3krm5qfht26rh.pdf",
+          "label": "ASX: Acquisition of Froggy and Flow ADSL"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -313,7 +387,14 @@
       "date_disp": "2004",
       "notes": "Melbourne-based; added ~35,000 customers.",
       "from": "virtual-communities",
-      "to": "iinet"
+      "to": "iinet",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://announcements.asx.com.au/asxpdf/20040920/pdf/3mwy6jk9ym54h.pdf",
+          "label": "ASX: iiNet Acquires Internet Service Provision Business"
+        }
+      ]
     },
     {
       "type": "acquisition",

@@ -1,0 +1,16 @@
+{
+  "name": "Octal",
+  "slug": "octal",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "summary": "ISP acquired by iiNet.",
+  "events": [
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "Acquired by iiNet."
+    }
+  ]
+}
