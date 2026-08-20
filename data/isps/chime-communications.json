@@ -38,7 +38,14 @@
         }
       ]
     },
-        {
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Founded as an iiNet fully-owned subsidiary (as iiTel, renamed Chime Communications Feb 2001), providing wholesale dialup and bandwidth."
+    },
+    {
       "kind": "death",
       "year": 2015,
       "date_disp": "c. 2015",

@@ -71,7 +71,7 @@
       "notes": "Perth-area acquisition.",
       "from": "wantree",
       "to": "iinet",
-            "refs": [
+      "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=304322&documentDate=1999-10-05&documentNumber=167713",
@@ -87,7 +87,7 @@
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "omen-internet",
       "to": "iinet",
-            "refs": [
+      "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=314653&documentDate=1999-11-29&documentNumber=170667",
@@ -103,7 +103,7 @@
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "networx",
       "to": "iinet",
-            "refs": [
+      "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=160337&documentDate=2000-02-09&documentNumber=173923",
@@ -119,7 +119,7 @@
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "nettrek",
       "to": "iinet",
-            "refs": [
+      "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=314653&documentDate=1999-11-29&documentNumber=170667",
@@ -135,7 +135,7 @@
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "infinite-data",
       "to": "iinet",
-            "refs": [
+      "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=160337&documentDate=2000-02-09&documentNumber=173923",
@@ -143,7 +143,7 @@
         }
       ]
     },
-        {
+    {
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2000,
@@ -151,7 +151,7 @@
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "octal",
       "to": "iinet",
-            "refs": [
+      "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=160337&documentDate=2000-02-09&documentNumber=173923",
@@ -220,7 +220,7 @@
       "notes": "Tasmanian acquisition (Tassienet, ex-Tasmania's Access Server).",
       "from": "tassienet",
       "to": "iinet",
-       "refs": [
+      "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=662104&documentDate=2002-12-31&documentNumber=199673",

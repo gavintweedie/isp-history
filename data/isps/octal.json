@@ -4,7 +4,21 @@
   "birthplace": "Australia",
   "status": "inactive",
   "summary": "ISP acquired by iiNet.",
+  "names": [
+    {
+      "name": "Octal",
+      "start_year": 1999,
+      "start_disp": "c. 1999"
+    }
+  ],
   "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "Perth-area ISP."
+    },
     {
       "kind": "death",
       "year": 2000,
