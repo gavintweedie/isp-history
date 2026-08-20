@@ -3220,6 +3220,33 @@
           "label": "BNA: Comms Group picks up TasmaNet from Field Solutions for $10m (2025)"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "notes": "Linear G absorbed Northern Rivers Gateway (NRG), and also Nornet, Big River Internet and OMCS, to consolidate the Lismore/Northern Rivers market.",
+      "from": "northern-rivers-gateway",
+      "to": "linear-g"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100% (brand)",
+      "year": 2015,
+      "date_disp": "Mar 2015",
+      "notes": "Barefoot Telecom name/brand taken over by MATE Communicate (formerly Orofino); barefoottelecom.com.au now redirects to MATE.",
+      "from": "barefoot-telecom",
+      "to": "mate-communicate"
+    },
+    {
+      "type": "split",
+      "arm_label": "Christmas Island service",
+      "year": 2017,
+      "date_disp": "Mar 2017",
+      "notes": "Speedcast took over running Christmas Island's wireless/4G internet after CIIA ceased services on 1 Mar 2017 (interim Australian Government agreement), operating until Oct 2021.",
+      "from": "cia",
+      "to": "speedcast"
     }
   ]
 }

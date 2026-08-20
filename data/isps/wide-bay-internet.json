@@ -1,0 +1,35 @@
+{
+  "name": "Wide Bay Internet",
+  "slug": "wide-bay-internet",
+  "birthplace": "Bundaberg, QLD",
+  "status": "inactive",
+  "website": "http://www.widebay.net.au",
+  "summary": "WideBay Internet Services, Bundaberg/Wide Bay QLD dialup ISP serving Bundaberg, Gin Gin, Maryborough and Hervey Bay; operating from at least 1998; now defunct.",
+  "aliases": [
+    "WideBay Internet Services",
+    "widebay.net.au"
+  ],
+  "names": [
+    {
+      "name": "Wide Bay Internet",
+      "start_year": 1998,
+      "start_disp": "by 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Oct 1998",
+      "precision": "by",
+      "details": "Serving Bundaberg, Gin Gin, Maryborough and Hervey Bay; site counter from 5 Oct 1998."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2000/http://widebay.net.au/",
+      "label": "Wide Bay Internet (Wayback)"
+    }
+  ]
+}

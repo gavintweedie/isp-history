@@ -1,0 +1,41 @@
+{
+  "name": "Epic Broadband",
+  "slug": "epic-broadband",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "http://www.epicbroadband.com.au",
+  "summary": "Epic Infotech Pty Ltd trading as Epic Broadband; national NBN RSP launched ~late 2020; collapsed May 2021 when wholesale partner Vocus cut services over unpaid bills; company deregistered Dec 2021.",
+  "aliases": [
+    "Epic Infotech Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Epic Broadband",
+      "start_year": 2020,
+      "start_disp": "late 2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "late 2020",
+      "precision": "approx",
+      "details": "National NBN RSP launched."
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "May 2021",
+      "precision": "exact",
+      "details": "Collapsed; Vocus cut wholesale services over unpaid bills; deregistered Dec 2021."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2021/http://epicbroadband.com.au/",
+      "label": "Epic Broadband (Wayback 2021)"
+    }
+  ]
+}

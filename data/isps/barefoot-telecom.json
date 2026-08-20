@@ -1,0 +1,41 @@
+{
+  "name": "Barefoot Telecom",
+  "slug": "barefoot-telecom",
+  "birthplace": "Bangalow (Northern Rivers), NSW",
+  "status": "inactive",
+  "website": "https://barefoottelecom.com.au",
+  "summary": "Northern Rivers NSW local telco (Barefoot Telecom, ABN active 2009) offering landline/mobile/internet; from ~Mar 2015 the Barefoot Telecom name was held by MATE Communicate (formerly Orofino), and barefoottelecom.com.au now redirects to MATE's site - confirmed link to MATE.",
+  "aliases": [
+    "Barefoot Telecom Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Barefoot Telecom",
+      "start_year": 2009,
+      "start_disp": "2009"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2009,
+      "date_disp": "Dec 2009",
+      "precision": "exact",
+      "details": "Northern Rivers NSW telco (landline, mobile, internet)."
+    },
+    {
+      "kind": "note",
+      "year": 2015,
+      "date_disp": "Mar 2015",
+      "precision": "approx",
+      "details": "Barefoot Telecom name taken over by MATE Communicate; brand folded into MATE (~2018)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://barefoottelecom.com.au",
+      "label": "Barefoot Telecom (now MATE)"
+    }
+  ]
+}

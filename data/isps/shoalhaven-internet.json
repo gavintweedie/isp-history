@@ -1,0 +1,35 @@
+{
+  "name": "Shoalhaven Internet",
+  "slug": "shoalhaven-internet",
+  "birthplace": "Nowra, NSW",
+  "status": "active",
+  "website": "http://www.shoalhaven.net.au",
+  "summary": "Nowra/Shoalhaven NSW internet provider (Shoalhaven Internet Services, Michael Parnell Pty Ltd); business name since 2000, company registered ~1996; still active.",
+  "aliases": [
+    "Shoalhaven Internet Services",
+    "SIS"
+  ],
+  "names": [
+    {
+      "name": "Shoalhaven Internet",
+      "start_year": 2000,
+      "start_disp": "by May 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Company registered (Michael Parnell Pty Ltd); business name Shoalhaven Internet from 6 May 2000."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "http://www.shoalhaven.net.au",
+      "label": "Shoalhaven Internet"
+    }
+  ]
+}

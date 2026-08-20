@@ -1,0 +1,35 @@
+{
+  "name": "Goulburn Internet",
+  "slug": "goulburn-internet",
+  "birthplace": "Goulburn, NSW",
+  "status": "inactive",
+  "website": "http://www.goulburn.net.au",
+  "summary": "Goulburn NSW regional ISP ('Goulburn Internet', incorporated 1995, MD David Booth); local-call dialup, later ADSL/ISDN and hosting; domain now redirects to Next Telecom (a Comms Group business).",
+  "aliases": [
+    "goulburn.net.au",
+    "Tablelands Internet"
+  ],
+  "names": [
+    {
+      "name": "Goulburn Internet",
+      "start_year": 1995,
+      "start_disp": "1995"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "exact",
+      "details": "Incorporated; branded Goulburn Internet / Tablelands Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/1998/http://www.goulburn.net.au/",
+      "label": "Goulburn Internet (Wayback 1998)"
+    }
+  ]
+}

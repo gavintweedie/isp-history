@@ -1,0 +1,35 @@
+{
+  "name": "FNQNet",
+  "slug": "fnqnet",
+  "birthplace": "Cairns, QLD",
+  "status": "unknown",
+  "website": "http://www.fnq.net.au",
+  "summary": "FNQ.net.au, a Cairns/Far North Queensland regional ISP portal (sign-up, payments, support), active 2008-2013; status unknown.",
+  "aliases": [
+    "fnq.net.au",
+    "Far North Queensland Net"
+  ],
+  "names": [
+    {
+      "name": "FNQNet",
+      "start_year": 2008,
+      "start_disp": "by 2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "by 2008",
+      "precision": "by",
+      "details": "Cairns/FNQ regional ISP portal."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2008/http://www.fnq.net.au/",
+      "label": "FNQNet (Wayback 2008)"
+    }
+  ]
+}

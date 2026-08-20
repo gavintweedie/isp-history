@@ -1,0 +1,35 @@
+{
+  "name": "GippsNET",
+  "slug": "gippsnet",
+  "birthplace": "Sarsfield (Latrobe Valley), VIC",
+  "status": "inactive",
+  "website": "http://www.gippsnet.com.au",
+  "summary": "Gippsland community information/networking service (gippsnet.com.au), run by Sarsfield Solutions, providing public internet terminals and local information; live by 1997; community net rather than a classic retail ISP.",
+  "aliases": [
+    "GippslandNet",
+    "gippsnet.com.au"
+  ],
+  "names": [
+    {
+      "name": "GippsNET",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Gippsland community net operated by Sarsfield Solutions."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2000/http://www.gippsnet.com.au/",
+      "label": "GippsNET (Wayback)"
+    }
+  ]
+}

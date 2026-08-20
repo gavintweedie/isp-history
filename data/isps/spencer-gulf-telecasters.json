@@ -1,0 +1,37 @@
+{
+  "name": "Spencer Gulf Telecasters",
+  "slug": "spencer-gulf-telecasters",
+  "birthplace": "Port Pirie, SA",
+  "status": "inactive",
+  "website": "http://www.sgt.com.au",
+  "summary": "Regional SA broadcaster (Spencer Gulf Telecasters, Port Pirie) which also ran a suite of internet products for the Spencer Gulf region under ISP business names 'Central Internet', 'Central Gateway' and 'Central Online' (1998-2001).",
+  "aliases": [
+    "Central Internet",
+    "Central Gateway",
+    "Central Online",
+    "SGT"
+  ],
+  "names": [
+    {
+      "name": "Spencer Gulf Telecasters",
+      "start_year": 1998,
+      "start_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "approx",
+      "details": "Ran ISP business names Central Internet, Central Gateway, Central Online (1998-2001)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2000/http://www.sgt.com.au/",
+      "label": "Spencer Gulf Telecasters (Wayback)"
+    }
+  ]
+}

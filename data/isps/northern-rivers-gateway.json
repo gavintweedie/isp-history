@@ -1,0 +1,43 @@
+{
+  "name": "Northern Rivers Gateway",
+  "slug": "northern-rivers-gateway",
+  "birthplace": "Lismore, NSW",
+  "status": "inactive",
+  "website": "http://www.nrg.com.au",
+  "summary": "Lismore/Northern Rivers NSW regional ISP (Northern Rivers Gateway, NRG; nrg.com.au live by 1997); later run as NRG Internet; absorbed (with Nornet, Big River Internet, OMCS) by Linear G.",
+  "aliases": [
+    "NRG",
+    "NRG Internet",
+    "nrg.com.au"
+  ],
+  "names": [
+    {
+      "name": "Northern Rivers Gateway",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Northern Rivers regional ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Absorbed by Linear G."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/1998/http://www.nrg.com.au/",
+      "label": "Northern Rivers Gateway (Wayback 1998)"
+    }
+  ]
+}

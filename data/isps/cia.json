@@ -1,0 +1,55 @@
+{
+  "name": "Christmas Island Internet Administration",
+  "slug": "cia",
+  "birthplace": "Christmas Island (Australian Indian Ocean Territory)",
+  "status": "inactive",
+  "website": "http://www.cia.org.cx",
+  "summary": "Community-owned, non-profit ISP (Christmas Island Internet Administration Limited, CIIA) serving Christmas Island and the Cocos (Keeling) Islands; established Mar 2000 from the assets of IOComm; the sole ISP for the Indian Ocean Territories from c. 2001; also operator of the .cx ccTLD; ceased services 1 Mar 2017.",
+  "aliases": [
+    "CIIA",
+    "Christmas Island Internet Administration Limited",
+    "CIA"
+  ],
+  "names": [
+    {
+      "name": "Christmas Island Internet Administration",
+      "start_year": 2000,
+      "start_disp": "Mar 2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "Mar 2000",
+      "precision": "exact",
+      "details": "Established as a community-owned non-profit; purchased the assets of former ISP IOComm."
+    },
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "Nov 2001",
+      "precision": "exact",
+      "details": "Assumed the Cocos (Keeling) Islands ISP infrastructure (assets gifted by eNIC in 2005)."
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "1 Mar 2017",
+      "precision": "exact",
+      "details": "Ceased internet services; could not compete with the subsidised NBN; service taken over by Speedcast."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://en.wikipedia.org/wiki/Internet_in_Christmas_Island",
+      "label": "Wikipedia: Internet in Christmas Island"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.legislation.gov.au/C2016G01003/asmade",
+      "label": "Grant of carrier licence (2016)"
+    }
+  ]
+}

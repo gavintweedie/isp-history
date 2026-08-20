@@ -1,0 +1,35 @@
+{
+  "name": "Mackay Internet",
+  "slug": "mackay-internet",
+  "birthplace": "Mackay, QLD",
+  "status": "inactive",
+  "website": "http://www.mackay.net.au",
+  "summary": "Mackay QLD ISP and regional portal (mackay.net.au, copyright 1997), active 1998-2000+; 'MackayNET'; now defunct.",
+  "aliases": [
+    "MackayNET",
+    "mackay.net.au"
+  ],
+  "names": [
+    {
+      "name": "Mackay Internet",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Mackay ISP and regional portal."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/1998/http://www.mackay.net.au/",
+      "label": "Mackay Internet (Wayback 1998)"
+    }
+  ]
+}

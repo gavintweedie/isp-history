@@ -1,0 +1,54 @@
+{
+  "name": "Speedcast",
+  "slug": "speedcast",
+  "birthplace": "Australia (global; Hong Kong HQ)",
+  "status": "inactive",
+  "website": "https://www.speedcast.com",
+  "summary": "Global satellite communications provider (Speedcast International, ASX:SDA) that supplied satellite backhaul to the Christmas Island ISP CIIA from 2015 (SES O3b MEO), then took over running Christmas Island's wireless/4G internet from Mar 2017 after CIIA's closure, operating until Oct 2021.",
+  "aliases": [
+    "Speedcast International",
+    "Speedcast International Limited"
+  ],
+  "names": [
+    {
+      "name": "Speedcast",
+      "start_year": 2015,
+      "start_disp": "2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "approx",
+      "details": "Supplied O3b trunking/backhaul for the Christmas Island ISP CIIA, delivering the island's first true broadband."
+    },
+    {
+      "kind": "note",
+      "year": 2017,
+      "date_disp": "Mar 2017",
+      "precision": "exact",
+      "details": "Assumed operation of Christmas Island's wireless/4G internet after CIIA's closure (interim govt agreement)."
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "Oct 2021",
+      "precision": "exact",
+      "details": "Ceased operations on Christmas Island."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://en.wikipedia.org/wiki/Internet_in_Christmas_Island",
+      "label": "Wikipedia: Internet in Christmas Island"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.speedcast.com/newsroom/press-releases/2017/speedcast-returns-internet-services-to-christmas-island/",
+      "label": "Speedcast press release (Mar 2017)"
+    }
+  ]
+}

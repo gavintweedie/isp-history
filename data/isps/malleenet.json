@@ -1,0 +1,36 @@
+{
+  "name": "Malleenet",
+  "slug": "malleenet",
+  "birthplace": "Kerang, VIC",
+  "status": "inactive",
+  "website": "http://www.malleenet.net.au",
+  "summary": "Small regional ISP (Malleenet Internet Services, 44 Scoresby St Kerang VIC) offering dialup, dedicated/satellite links and web hosting; by Dec 2006 the domain served the iiNet homepage, consistent with iiNet absorption.",
+  "aliases": [
+    "Malleenet Internet Services",
+    "MalleeNet",
+    "malleenet.net.au"
+  ],
+  "names": [
+    {
+      "name": "Malleenet",
+      "start_year": 1999,
+      "start_disp": "1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Kerang VIC dialup/satellite ISP."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/1999/http://www.malleenet.net.au/",
+      "label": "Malleenet (Wayback 1999)"
+    }
+  ]
+}
