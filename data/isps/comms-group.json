@@ -1,0 +1,41 @@
+{
+  "name": "Comms Group",
+  "slug": "comms-group",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://commsgroup.com.au",
+  "summary": "ASX-listed telecommunications provider (ASX: CCG); acquired TasmaNet from the receivers of Field Solutions Holdings (May 2025) for $10m, gaining TasmaNet's fixed-wireless network, Hobart CBD fibre, and cloud/data centre assets.",
+  "aliases": [
+    "Comms Group Limited"
+  ],
+  "names": [
+    {
+      "name": "Comms Group",
+      "start_year": 2011,
+      "start_disp": "c. 2011"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2011,
+      "date_disp": "c. 2011",
+      "precision": "approx",
+      "details": "ASX-listed telecoms provider (formerly over-the-counter/merchant services)."
+    },
+    {
+      "kind": "note",
+      "year": 2025,
+      "date_disp": "May 2025",
+      "precision": "exact",
+      "details": "Signed $10m deal (16 May 2025) to acquire TasmaNet's business from Field Solutions' receivers; expected to complete before end-May 2025."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.businessnewsaustralia.com/articles/comms-group-picks-up-tasmanet-from-field-solutions-in--10m-deal-.html",
+      "label": "Business News Australia: Comms Group picks up TasmaNet from Field Solutions for $10m (2025)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Building Connect",
+  "slug": "building-connect",
+  "birthplace": "North Richmond, NSW",
+  "status": "inactive",
+  "website": "http://www.buildingconnect.com.au",
+  "summary": "Sydney/Western Sydney wholesale telecoms carrier (Building Connect Pty Ltd, AS134093) with a fixed-wireless network covering 31 buildings and business parks and 200+ business customers; acquired by Spirit Telecom (May 2019, $300k).",
+  "aliases": [
+    "Building Connect Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Building Connect",
+      "start_year": 2015,
+      "start_disp": "c. 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Sydney telco wholesaler; AS134093 allocated 26 Jul 2017."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "May 2019",
+      "precision": "exact",
+      "details": "Acquired by Spirit Telecom (May 2019, $300k); team and Western Sydney fixed-wireless network retained."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "https://www.crn.com.au/news/spirit-telecom-acquires-telco-wholesaler-building-connect-524878",
+      "label": "CRN: Spirit Telecom acquires telco wholesaler Building Connect (2019)"
+    }
+  ]
+}

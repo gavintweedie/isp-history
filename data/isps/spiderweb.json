@@ -1,0 +1,34 @@
+{
+  "name": "SpiderWeb",
+  "slug": "spiderweb",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "http://www.spiderweb.com.au",
+  "summary": "Australian ISP operating on spiderweb.com.au from Dec 1998 into the 2000s (also served from www2.spiderweb.com.au); ~1,000+ Wayback captures attest to an active, long-lived provider.",
+  "aliases": [
+    "spiderweb.com.au"
+  ],
+  "names": [
+    {
+      "name": "SpiderWeb",
+      "start_year": 1998,
+      "start_disp": "by Dec 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Dec 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture of spiderweb.com.au 12 Dec 1998; site active throughout the late 1990s-2000s."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212032947/http://www.spiderweb.com.au/",
+      "label": "SpiderWeb (Wayback Dec 1998)"
+    }
+  ]
+}

@@ -3172,6 +3172,54 @@
       "notes": "Destra, via subsidiary Techex Communications, acquired Veritel's DSL customers (Dec 2004).",
       "from": "veritel",
       "to": "techex"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2019,
+      "date_disp": "May 2019",
+      "notes": "Spirit Telecom acquired Building Connect for $300k, gaining a Western Sydney fixed-wireless network across 31 buildings/business parks (~200 business customers).",
+      "from": "building-connect",
+      "to": "spirit-telecom",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/spirit-telecom-acquires-telco-wholesaler-building-connect-524878",
+          "label": "CRN: Spirit Telecom acquires telco wholesaler Building Connect (2019)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2021,
+      "date_disp": "21 Dec 2021",
+      "notes": "Field Solutions Group acquired TasmaNet (announced 29 Oct 2021; ~$13M upfront, up to $15M with earn-out).",
+      "from": "tasmanet",
+      "to": "field-solutions-group",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.abnnewswire.net/press/en/108641/Field-Solutions-Holdings-Ltd-(ASX-FSG)-Completes-TasmaNet-Acquisition.html",
+          "label": "FSG completes TasmaNet acquisition (Dec 2021)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100% (from receivers)",
+      "year": 2025,
+      "date_disp": "May 2025",
+      "notes": "Comms Group signed a $10m deal (16 May 2025) to acquire TasmaNet from the receivers of collapsed Field Solutions Holdings; 30 FSG employees plus TasmaNet's fixed-wireless network, Hobart CBD fibre and cloud/data centres.",
+      "from": "tasmanet",
+      "to": "comms-group",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnewsaustralia.com/articles/comms-group-picks-up-tasmanet-from-field-solutions-in--10m-deal-.html",
+          "label": "BNA: Comms Group picks up TasmaNet from Field Solutions for $10m (2025)"
+        }
+      ]
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Hobart, TAS",
   "status": "active",
   "website": "https://www.tasmanet.com.au",
-  "summary": "Tasmanian wireless/data carrier, founded 2004.",
+  "summary": "Tasmanian wireless/data carrier, founded 2004; acquired by Field Solutions Group (Dec 2021), then by Comms Group from FSG's receivers (May 2025).",
   "names": [
     {
       "name": "TasmaNet",
@@ -19,6 +19,20 @@
       "date_disp": "2004",
       "precision": "exact",
       "details": "Started in Tasmania in 2004."
+    },
+    {
+      "kind": "note",
+      "year": 2021,
+      "date_disp": "21 Dec 2021",
+      "precision": "exact",
+      "details": "TasmaNet acquired by Field Solutions Group (announced 29 Oct 2021, ~$13M)."
+    },
+    {
+      "kind": "note",
+      "year": 2025,
+      "date_disp": "May 2025",
+      "precision": "exact",
+      "details": "TasmaNet business acquired by Comms Group from Field Solutions' receivers after FSG entered administration 19 Feb 2025."
     }
   ],
   "refs": [
