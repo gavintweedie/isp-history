@@ -20,6 +20,20 @@
       "precision": "exact",
       "details": "Founded in Perth by Michael Malone."
     },
+   {
+      "kind": "note",
+      "year": 1999,
+      "date_disp": "14 Sep 1999",
+      "precision": "exact",
+      "details": "Listed on ASX as IIN",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=300065&documentDate=1999-09-15&documentNumber=166441",
+          "label": "ASX: Admission to Official List"
+        }
+      ]
+    },
     {
       "kind": "death",
       "year": 2015,
