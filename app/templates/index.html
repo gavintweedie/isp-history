@@ -50,7 +50,7 @@
       <span class="lg ty-rename">rename</span>
       <span class="lg ty-split">split</span>
     </span>
-    <span class="legend" style="margin-left:14px">Dates:
+    <span class="legend legend-dates">Dates:
       <b class="prec-approx">~</b> approx ·
       <b class="prec-by">≤</b> by ·
       <b class="prec-unknown">?</b> unknown (hover a marker)
@@ -58,7 +58,7 @@
   </div>
   <div id="graph" class="graph-pane" data-api="{{ url_for('api_graph') }}"></div>
 </div>
-<div id="tooltip" style="display:none; position:fixed; background:#123; color:#fff; padding:4px 8px; border-radius:4px; font-size:0.8rem; pointer-events:none; z-index:10;"></div>
+<div id="tooltip"></div>
 {% endblock %}
 {% block scripts %}
 <script src="{{ url_for('static', filename='vendor/cytoscape.min.js') }}"></script>

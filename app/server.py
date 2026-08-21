@@ -106,11 +106,12 @@ def set_security_headers(resp):
     resp.headers.setdefault(
         "Content-Security-Policy",
         "default-src 'self'; "
-        "style-src 'self' 'unsafe-inline'; "  # 'unsafe-inline' needed for dynamic SVG layout positioning in graph.js
+        "style-src 'self'; "
         "img-src 'self' data:; "
         "frame-ancestors 'none'; "
         "base-uri 'self'; "
-        "form-action 'self'",
+        "form-action 'self'; "
+        "object-src 'none'",
     )
     # Browser caching: static assets and /api/graph are immutable for the
     # lifetime of the data (a git pull invalidates the server-side graph cache),

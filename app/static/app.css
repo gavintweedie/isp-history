@@ -119,6 +119,8 @@ svg.tg text.tg-era-label { font-size: 10px; fill: #445; font-weight: 600; pointe
 .era-menu .era-row, .era-menu .era-master { white-space: nowrap; }
 .era-menu input[type="checkbox"] { width: 14px; height: 14px; margin: 0; flex: none; }
 .era-swatch { display: inline-block; width: 12px; height: 12px; border-radius: 2px; border: 1px solid rgba(0,0,0,0.15); flex: none; }
+.legend-dates { margin-left: 14px; }
+#tooltip { display: none; position: fixed; background: #123; color: #fff; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; pointer-events: none; z-index: 10; }
 /* sticky year-axis + era-title band pinned to the top of the scrolling SVG */
 .era-header { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #ddd; box-shadow: 0 2px 6px rgba(0,0,0,0.08); z-index: 5; overflow: hidden; min-height: 46px; }
 .era-header span { position: absolute; white-space: nowrap; pointer-events: none; }

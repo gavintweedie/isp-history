@@ -177,8 +177,11 @@ def test_security_headers_present(client):
     assert r.headers.get("X-Content-Type-Options") == "nosniff"
     assert r.headers.get("X-Frame-Options") == "DENY"
     assert r.headers.get("Referrer-Policy") == "no-referrer"
-    assert "default-src 'self'" in r.headers.get("Content-Security-Policy", "")
-    assert "style-src 'self' 'unsafe-inline'" in r.headers["Content-Security-Policy"]
+    csp = r.headers.get("Content-Security-Policy", "")
+    assert "default-src 'self'" in csp
+    assert "style-src 'self'" in csp
+    assert "'unsafe-inline'" not in csp
+    assert "object-src 'none'" in csp
 
 
 def test_cache_headers(client):
