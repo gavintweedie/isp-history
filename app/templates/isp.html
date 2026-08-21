@@ -7,7 +7,7 @@
 {% if isp.summary %}<p>{{ isp.summary }}</p>{% endif %}
 <p class="meta">
   {% if isp.birthplace %}Founded in {{ isp.birthplace }}.{% endif %}
-  {% if isp.website and is_safe_url(isp.website) %}<a href="{{ isp.website }}">{{ isp.website }}</a>{% elif isp.website %}{{ isp.website }}{% endif %}
+  {% if isp.website and is_safe_url(isp.website) %}<a href="{{ 'https://' + isp.website if '://' not in isp.website else isp.website }}">{{ isp.website }}</a>{% elif isp.website %}{{ isp.website }}{% endif %}
 </p>
 
 <section>

@@ -96,7 +96,21 @@ def _validate_refs(refs, context):
 
 
 def _validate_website(url, context):
-    if url is not None and url != "" and not _is_safe_url(url):
+    if url is None or url == "":
+        return
+    url = url.strip()
+    if not url:
+        return
+    # Website may be a bare host like "example.com" (no scheme) — treat
+    # "http://"+url as the test. Reject only javascript:/data:/etc.
+    if _is_safe_url(url) or _is_safe_url("http://" + url):
+        return
+    # Also reject if it looks like a dangerous scheme even without slashes
+    low = url.lower()
+    if low.startswith("javascript:") or low.startswith("data:") or low.startswith("vbscript:"):
+        raise ValueError(f"unsafe website url in {context}: {url!r}")
+    # Fallback: if it still doesn't look like a host, reject
+    if " " in url or "\n" in url or "<" in url or ">" in url:
         raise ValueError(f"unsafe website url in {context}: {url!r}")
 
 
