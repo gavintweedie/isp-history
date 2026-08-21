@@ -7,7 +7,7 @@
 {% if isp.summary %}<p>{{ isp.summary }}</p>{% endif %}
 <p class="meta">
   {% if isp.birthplace %}Founded in {{ isp.birthplace }}.{% endif %}
-  {% if isp.website %}<a href="{{ isp.website }}">{{ isp.website }}</a>{% endif %}
+  {% if isp.website and is_safe_url(isp.website) %}<a href="{{ isp.website }}">{{ isp.website }}</a>{% elif isp.website %}{{ isp.website }}{% endif %}
 </p>
 
 <section>
@@ -86,9 +86,15 @@
   <ul>
     {% for r in refs %}
       <li>
-        <a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.label or r.url }}</a>
+        {% if is_safe_url(r.url) %}
+          <a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.label or r.url }}</a>
+        {% else %}
+          <span>{{ r.label or r.url }}</span>
+        {% endif %}
         <span class="kind">[{{ r.kind }}]</span>
-        <a href="https://web.archive.org/web/2/{{ r.url }}" target="_blank" rel="noopener">Wayback</a>
+        {% if is_safe_url(r.url) %}
+          <a href="https://web.archive.org/web/2/{{ r.url }}" target="_blank" rel="noopener">Wayback</a>
+        {% endif %}
       </li>
     {% else %}
       <li class="empty">No references recorded.</li>

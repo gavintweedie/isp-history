@@ -55,9 +55,29 @@ class BasePathMiddleware:
 app.wsgi_app = BasePathMiddleware(app.wsgi_app, BASE_PATH)
 
 
+def _is_safe_url(url):
+    """Jinja helper: allow only http/https (defense-in-depth vs stored XSS)."""
+    if not url or not isinstance(url, str):
+        return False
+    try:
+        p = urlsplit(url.strip())
+    except ValueError:
+        return False
+    return p.scheme in ("http", "https") and bool(p.netloc)
+
+
+# Expose to Jinja directly (so get_template().render works) and via context
+app.jinja_env.globals["is_safe_url"] = _is_safe_url
+
+
 @app.context_processor
 def inject_globals():
-    return {"base_path": BASE_PATH}
+    return {"base_path": BASE_PATH, "is_safe_url": _is_safe_url}
+
+
+@app.template_filter("safe_url")
+def _safe_url_filter(url):
+    return url if _is_safe_url(url) else ""
 
 
 @app.after_request

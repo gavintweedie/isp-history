@@ -1,6 +1,11 @@
-{# Renders a list of refs; expects `refs` in context. #}
+{# Renders a list of refs; expects `refs` in context. Defense-in-depth:
+   db.py rejects non-http(s) at load, but template also guards. #}
 {% if refs %}
   {% for r in refs %}
-    <a href="{{ r.url }}" target="_blank" rel="noopener" title="{{ r.label }}">{{ r.kind }}</a>
+    {% if is_safe_url(r.url) %}
+      <a href="{{ r.url }}" target="_blank" rel="noopener" title="{{ r.label }}">{{ r.kind }}</a>
+    {% else %}
+      <span title="{{ r.label }}">{{ r.kind }}</span>
+    {% endif %}
   {% endfor %}
 {% endif %}

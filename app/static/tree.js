@@ -20,7 +20,11 @@
   window.loadGraph(API)
     .then(render)
     .catch(err => {
-      el.innerHTML = '<p class="hint">Failed to load graph: ' + err + '</p>';
+      el.textContent = '';
+      const p = document.createElement('p');
+      p.className = 'hint';
+      p.textContent = 'Failed to load graph: ' + String(err);
+      el.appendChild(p);
     });
 
   const toInt = nd => parseInt(nd.id().substring(1), 10);

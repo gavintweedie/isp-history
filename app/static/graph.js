@@ -40,7 +40,11 @@
   window.loadGraph(API)
     .then(setup)
     .catch(err => {
-      GRAPH.innerHTML = '<p class="hint">Failed to load graph: ' + err + '</p>';
+      GRAPH.textContent = '';
+      const p = document.createElement('p');
+      p.className = 'hint';
+      p.textContent = 'Failed to load graph: ' + String(err);
+      GRAPH.appendChild(p);
     });
 
   let allData = null;

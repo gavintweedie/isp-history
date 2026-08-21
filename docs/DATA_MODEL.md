@@ -127,7 +127,10 @@ optional `label`, optional `archive_url`, optional `year` (the approximate year
 the source confirms). Refs are **nested inside the entity they back** (an ISP,
 one of its events, or a transition), which makes orphaned/stale references
 structurally impossible. The frontend uses `url` directly and offers a Wayback
-link; if `archive_url` is set it is preferred.
+link; if `archive_url` is set it is preferred. `url` and `archive_url` must be
+`http`/`https` with a host — other schemes (`javascript:`, `data:`, `ftp:`) are
+rejected at load time (`app/db.py:_validate_refs`) to prevent stored XSS
+(templates in `app/templates/_refs.html` also guard).
 
 ## Date convention (D4)
 

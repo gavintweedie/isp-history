@@ -20,8 +20,10 @@ import glob
 import hashlib
 import json
 import os
+import re
 import threading
 import time
+from urllib.parse import urlsplit
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.environ.get("ISP_HISTORY_DATA", os.path.join(BASE_DIR, "data"))
@@ -68,6 +70,36 @@ def _fingerprint():
     return fp
 
 
+def _is_safe_url(url):
+    """Allow only http/https URLs with a host (defense against javascript: etc)."""
+    if not url or not isinstance(url, str):
+        return False
+    url = url.strip()
+    if not url:
+        return False
+    try:
+        p = urlsplit(url)
+    except ValueError:
+        return False
+    return p.scheme in ("http", "https") and bool(p.netloc)
+
+
+def _validate_refs(refs, context):
+    """Fail fast on unsafe ref URLs so a bad PR cannot land stored XSS."""
+    for r in refs or []:
+        url = r.get("url")
+        if url is not None and not _is_safe_url(url):
+            raise ValueError(f"unsafe ref url in {context}: {url!r} (must be http/https)")
+        archive = r.get("archive_url")
+        if archive is not None and not _is_safe_url(archive):
+            raise ValueError(f"unsafe archive_url in {context}: {archive!r}")
+
+
+def _validate_website(url, context):
+    if url is not None and url != "" and not _is_safe_url(url):
+        raise ValueError(f"unsafe website url in {context}: {url!r}")
+
+
 def _fingerprint_etag(fp=None):
     """Stable weak ETag for a fingerprint (first 16 hex chars of sha256)."""
     if fp is None:
@@ -100,6 +132,12 @@ def _load():
         isp.setdefault("events", [])
         isp.setdefault("refs", [])
         isp.setdefault("status", "unknown")
+        _validate_website(isp.get("website"), f"isps/{isp['slug']}.json:website")
+        _validate_refs(isp.get("refs"), f"isps/{isp['slug']}.json:refs")
+        for n in isp.get("names", []):
+            _validate_refs(n.get("refs"), f"isps/{isp['slug']}.json:names[{n.get('name')!r}].refs")
+        for e in isp.get("events", []):
+            _validate_refs(e.get("refs"), f"isps/{isp['slug']}.json:events[{e.get('kind')!r}].refs")
         _sort_children(isp)
         by_slug[isp["slug"]] = isp
         isps.append(isp)
@@ -126,6 +164,7 @@ def _load():
     transitions = []
     for t in data.get("transitions", []):
         t.setdefault("refs", [])
+        _validate_refs(t.get("refs"), f"transitions.json:{t.get('from')!r}->{t.get('to')!r}.refs")
         transitions.append(t)
     transitions.sort(
         key=lambda t: (
