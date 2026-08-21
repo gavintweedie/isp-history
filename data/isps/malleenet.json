@@ -24,6 +24,21 @@
       "date_disp": "1999",
       "precision": "exact",
       "details": "Kerang VIC dialup/satellite ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "8 Oct 2004",
+      "precision": "exact",
+      "details": "Business names Malleenet ISP / Malleenet Internet transferred to Connect West Pty Ltd ACN 073 156 779; by Dec 2006 malleenet.net.au served iiNet homepage.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/connect-west-pty-ltd-073156779/",
+          "label": "Connect West business names: Malleenet ISP 08 Oct 2004 - 05 Jun 2009",
+          "year": 2004
+        }
+      ]
     }
   ],
   "refs": [

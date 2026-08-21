@@ -8,11 +8,32 @@
   "names": [
     {
       "name": "Internet Company of New Zealand",
-      "start_year": 1999,
-      "start_disp": "Oct 1999"
+      "start_year": 1992,
+      "start_disp": "1992"
     }
   ],
   "events": [
+    {
+      "kind": "birth",
+      "year": 1992,
+      "date_disp": "1992",
+      "precision": "exact",
+      "details": "Founded 1992 by Chris Thorpe and Jon Clarke in Clarke's garage; by 1994 had 18 dial-up lines and 48K MDDS circuit.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/ICONZ",
+          "label": "Wikipedia: ICONZ \u2014 Founded 1992",
+          "year": 1992
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961106093729/http://www.iconz.co.nz/",
+          "label": "Iconz (Wayback 1996)",
+          "year": 1996
+        }
+      ]
+    },
     {
       "kind": "death",
       "year": 1999,

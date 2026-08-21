@@ -210,7 +210,6 @@
           "label": "ASX: LOC`s: Conditional Agreement with IIN for Sale of ISP Assets"
         }
       ]
-
     },
     {
       "type": "acquisition",
@@ -227,7 +226,6 @@
           "label": "ASX: LOC`s: Conditional Agreement with IIN for Sale of ISP Assets"
         }
       ]
-
     },
     {
       "type": "acquisition",
@@ -3328,6 +3326,74 @@
       "notes": "Speedcast took over running Christmas Island's wireless/4G internet after CIIA ceased services on 1 Mar 2017 (interim Australian Government agreement), operating until Oct 2021.",
       "from": "cia",
       "to": "speedcast"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "notes": "Datafast Telecommunications Ltd announced agreement to acquire NSW ISP Planet Netcom (15,000 accounts) 17 Feb 2004; finalised end Mar 2004.",
+      "from": "planet-netcomm",
+      "to": "datafast",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/fast-facts-20040217-k2cbl",
+          "label": "AFR: Datafast to acquire Planet Netcom (17 Feb 2004)",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "8 Oct 2004",
+      "notes": "Malleenet ISP / Malleenet Internet business names transferred to Connect West Pty Ltd ACN 073 156 779; by Dec 2006 domain served iiNet homepage (iiNet absorption).",
+      "from": "malleenet",
+      "to": "iinet",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/connect-west-pty-ltd-073156779/",
+          "label": "Connect West: Malleenet ISP 08 Oct 2004 - 05 Jun 2009",
+          "year": 2004
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2000,
+      "date_disp": "Oct 2000",
+      "notes": "Eisa regional ISP businesses including Internet North sold to Austar United Broadband Pty Ltd under Sale and Purchase Agreement 05 Oct 2000 approved 06 Oct 2000 (NSWSC 940).",
+      "from": "eisa-internet-north",
+      "to": "austarnet",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2000/940.html",
+          "label": "NSWSC 940: Eisa sale to Austar (06 Oct 2000)",
+          "year": 2000
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2010,
+      "date_disp": "Jun 2010",
+      "notes": "Acquired by ZettaNet Pty Ltd (trading as Highway 1) 01 Jun 2010; merged into Highway 1/ZettaNet, later Zettagrid.",
+      "from": "global-dial-internet",
+      "to": "highway-1",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Global Dial \u2014 acquired by ZettaNet 2010",
+          "year": 2010
+        }
+      ]
     }
   ]
 }

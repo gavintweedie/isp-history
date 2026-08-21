@@ -22,6 +22,21 @@
       "date_disp": "by Apr 2001",
       "precision": "by",
       "details": "AusBone Sydney (SIX) participant (AS7694, 2M DDS)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "precision": "approx",
+      "details": "Announced agreement to be acquired by Datafast Telecommunications Ltd 17 Feb 2004 (15,000 accounts); finalised end Mar 2004, merged into Datafast/EFTel group (later M2/Vocus).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/fast-facts-20040217-k2cbl",
+          "label": "AFR: Datafast to acquire Planet Netcom (17 Feb 2004)",
+          "year": 2004
+        }
+      ]
     }
   ],
   "refs": [

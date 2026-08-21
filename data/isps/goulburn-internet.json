@@ -23,6 +23,21 @@
       "date_disp": "1995",
       "precision": "exact",
       "details": "Incorporated; branded Goulburn Internet / Tablelands Internet."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "12 Dec 2014",
+      "precision": "exact",
+      "details": "ABN 79 074 159 729 cancelled 12 Dec 2014; GST cancelled 11 Dec 2014. Goulburn Internet Pty Ltd incorporated 1995.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=79074159729",
+          "label": "ABN Lookup: GOULBURN INTERNET PTY LTD ABN 79 074 159 729 \u2014 Cancelled 12 Dec 2014",
+          "year": 2014
+        }
+      ]
     }
   ],
   "refs": [

@@ -25,6 +25,21 @@
       "date_disp": "1998",
       "precision": "approx",
       "details": "Ran ISP business names Central Internet, Central Gateway, Central Online (1998-2001)."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "21 Oct 2001",
+      "precision": "exact",
+      "details": "Business names Central Internet and Central Gateway (Spencer Gulf Telecasters Pty Ltd ACN 007 658 782) cancelled 21 Oct 2001; Central Online survived to 02 Dec 2007. TV licences acquired by Southern Cross Broadcasting 01 Apr 2002.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.aubiz.net/company/spencer-gulf-telecasters-pty-limited-007658782/",
+          "label": "Spencer Gulf Telecasters: Central Internet 16 Mar 2000 - 21 Oct 2001",
+          "year": 2001
+        }
+      ]
     }
   ],
   "refs": [

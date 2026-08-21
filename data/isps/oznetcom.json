@@ -22,6 +22,21 @@
       "date_disp": "by Apr 2001",
       "precision": "by",
       "details": "AusBone Brisbane (BIX) participant (AS9382)."
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "1 Aug 2003",
+      "precision": "exact",
+      "details": "Trading name Oznetcom Internet moved from The It Farm Pty Ltd ACN 100 815 414 (01 Jul 2002 - 01 Aug 2003); successor Hot Shot Hosting from 15 Sep 2004.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/the-it-farm-pty-ltd-100815414/",
+          "label": "The It Farm: Oznetcom Internet 01 Jul 2002 - 01 Aug 2003",
+          "year": 2003
+        }
+      ]
     }
   ],
   "refs": [

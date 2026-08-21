@@ -22,9 +22,18 @@
     },
     {
       "kind": "death",
-      "date_disp": "None",
+      "year": 2010,
+      "date_disp": "Jun 2010",
       "precision": "exact",
-      "details": "None"
+      "details": "Acquired by ZettaNet Pty Ltd (trading as Highway 1) 01 Jun 2010; merged into Highway 1/ZettaNet, later Zettagrid 2024. Founded Sep 1994.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Global Dial \u2014 Established 1994, acquired by ZettaNet 2010",
+          "year": 2010
+        }
+      ]
     }
   ],
   "refs": [

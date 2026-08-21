@@ -23,6 +23,21 @@
       "date_disp": "1997",
       "precision": "exact",
       "details": "Mackay ISP and regional portal."
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "26 Oct 2006",
+      "precision": "exact",
+      "details": "Business name MACKAY INTERNET deregistered 26 Oct 2006 (registered 01 Nov 1999). Regional portal mackay.net.au defunct.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?abn=31088377860",
+          "label": "ABN History: MACKAY INTERNET \u2014 01 Nov 1999 - 26 Oct 2006",
+          "year": 2006
+        }
+      ]
     }
   ],
   "refs": [

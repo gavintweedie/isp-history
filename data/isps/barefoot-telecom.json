@@ -29,6 +29,21 @@
       "date_disp": "Mar 2015",
       "precision": "approx",
       "details": "Barefoot Telecom name taken over by MATE Communicate; brand folded into MATE (~2018)."
+    },
+    {
+      "kind": "death",
+      "year": 2018,
+      "date_disp": "26 Jul 2018",
+      "precision": "exact",
+      "details": "Business name 'Barefoot Telecom' (held by MATE Communicate Pty Ltd ABN 33 165 670 413 from 12 Mar 2015) deregistered 26 Jul 2018; barefoottelecom.com.au now redirects to MATE.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=33165670413",
+          "label": "ABN History: Barefoot Telecom business name 12 Mar 2015 - 26 Jul 2018",
+          "year": 2018
+        }
+      ]
     }
   ],
   "refs": [

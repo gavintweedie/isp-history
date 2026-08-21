@@ -29,6 +29,21 @@
       "date_disp": "by 2000",
       "precision": "by",
       "details": "Established 2000 (per business listing; ABN 29 066 971 533); ran E-Wire's Perth residential-estate networks."
+    },
+    {
+      "kind": "death",
+      "year": 2015,
+      "date_disp": "12 Mar 2015",
+      "precision": "exact",
+      "details": "ABN 29 066 971 533 cancelled 12 Mar 2015; GST cancelled 31 Mar 2014; LinkedIn reports operations terminated Apr 2014. Parent of E-Wire estate FTTH networks (Perth).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=29066971533",
+          "label": "ABN Lookup: Broadcast Engineering Services ABN 29 066 971 533 \u2014 Cancelled 12 Mar 2015",
+          "year": 2015
+        }
+      ]
     }
   ],
   "refs": [

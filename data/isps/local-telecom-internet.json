@@ -13,6 +13,27 @@
   ],
   "events": [
     {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "31 Jan 2000",
+      "precision": "exact",
+      "details": "Renamed from MBL Holdings Ltd (08 Nov 1996\u201331 Jan 2000, formerly McDonald Brushware Ltd listed 11 Apr 1991); pivot to telecom operating Tassienet (Sep 1996) and RuralNet brands.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/local-telecom-and-internet-limited",
+          "label": "Delisted: LOCAL TELECOM AND INTERNET LIMITED \u2014 Former Names MBL Holdings 08/11/1996\u201331/01/2000",
+          "year": 2000
+        },
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/macarthurcook-limited",
+          "label": "Delisted: MACARTHURCOOK \u2014 Date of Listing 11 Apr 1991",
+          "year": 2000
+        }
+      ]
+    },
+    {
       "kind": "death",
       "year": 2003,
       "date_disp": "2003",

@@ -14,6 +14,21 @@
   ],
   "events": [
     {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Sydney ISP acquired by Asia Online ~2000-01 per user report; no earlier Wayback for messageexchange.com.au (earliest 2017); entity EVISION PTY LTD ABN 73076521161 GST from 01 Jul 2000.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=73076521161",
+          "label": "ABN Lookup: EVISION PTY LIMITED ABN 73076521161 \u2014 Active from 01 Jul 2000",
+          "year": 2000
+        }
+      ]
+    },
+    {
       "kind": "death",
       "year": 2001,
       "date_disp": "c. 2000-01",
