@@ -11,15 +11,17 @@ The app reads everything from environment variables:
 | Variable | Default | Meaning |
 |----------|---------|---------|
 | `ISP_HISTORY_PORT` | `4004` | Port Flask binds to on 127.0.0.1 |
-| `ISP_HISTORY_BASE_PATH` | `/isp-history` | URL prefix Caddy serves this under |
+| `ISP_HISTORY_BASE_PATH` | `` (empty, root) | URL prefix Caddy serves this under |
 | `ISP_HISTORY_DATA` | `<repo>/data` | Directory holding the git-tracked data files (`isps/*.json` + `transitions.json`) |
 
 The app is **read-only**: there is no login, no session secret, and no write
 routes. Data is edited via pull request against `data/` (see the repo README).
 
-> **Deployed at `https://code.narx.net/isp-history/`** (Caddy `handle_path /isp-history/*`
-> → `reverse_proxy localhost:4004`). Note: `/ixp-history` is a *different* existing app
-> (IXP-History, port 4005) — don't confuse the two.
+> **Deployed at `https://isp-history.narx.net/`** at root (`reverse_proxy
+> localhost:4004`). Legacy prefix `https://code.narx.net/isp-history/` is still
+> handled (Caddy `handle_path /isp-history/*` + Flask `BasePathMiddleware` strips
+> `/isp-history` and sets `SCRIPT_NAME` so old links keep working). `https://code.narx.net/isp-history/` and
+> `https://isp-history.narx.net/isp-history/` both still serve, but canonical is root.
 
 ## 2. systemd unit
 
@@ -42,11 +44,20 @@ unit if you want to be certain.
 
 ## 3. Caddy
 
-Add a block to your existing `code.narx.net` config, following the same pattern as
-the other apps:
+Primary host (canonical):
 
 ```
-	# ISP-History (Flask, backend :4004)
+# ISP History — dedicated host at root
+isp-history.narx.net {
+	encode gzip zstd
+	reverse_proxy localhost:4004
+}
+```
+
+Legacy path on the shared host (kept for old links):
+
+```
+# ISP-History (Flask, backend :4004) — keep for https://code.narx.net/isp-history/* old links
 	redir /isp-history /isp-history/ 301
 	handle_path /isp-history/* {
 		reverse_proxy localhost:4004
@@ -67,14 +78,14 @@ it was failed). The app itself sends `ETag`/`Cache-Control` for `/api/graph`
 (`app/server.py`), so Caddy’s `encode` compresses the 277 KB graph to ~38 KB
 and revalidation returns `304`.
 
-**How the prefix works:** Caddy's `handle_path` strips the `/isp-history` prefix
-before proxying, so Flask only ever sees `/`, `/isp/<slug>`, etc. The app sets
-`SCRIPT_NAME=/isp-history` (via `BasePathMiddleware` in `app/server.py`) so all
-generated URLs (`url_for`, graph links, redirects) include the prefix. Change the
-Caddy path and `ISP_HISTORY_BASE_PATH` together and they must match.
-
-> Note: if you use a prefix that is *not* `/isp-history`, set
-> `ISP_HISTORY_BASE_PATH` to match exactly (no trailing slash).
+**How the prefix works:** On the dedicated host `isp-history.narx.net` the app is
+served at root (`BASE_PATH=""`), so Flask sees `/`, `/isp/<slug>` etc directly.
+On the legacy path `code.narx.net/isp-history/*`, Caddy's `handle_path` strips the
+`/isp-history` prefix before proxying, so Flask still sees `/`. `BasePathMiddleware`
+(`app/server.py`) auto-detects a leading `/isp-history` in `PATH_INFO` and sets
+`SCRIPT_NAME` accordingly, so `url_for` emits the correct prefix per request
+(root on the dedicated host, `/isp-history` on the legacy path). `ISP_HISTORY_BASE_PATH`
+is empty by default; set it only if you re-introduce a non-root prefix.
 
 ## 4. Local development
 

@@ -1,29 +1,29 @@
-/* ISP lineage timeline, in the style of the Linux Distribution Timeline.
+/* Timeline — horizontal Gantt (promoted from beta)
  *
- * x-axis = time (years). Each ISP is a diagonal line from its birth year to its
- * death / merger year (dashed + evidence floor when birth is unknown; active
- * ISPs extend to the present). ISPs are stacked vertically as families: each
- * connected lineage (and a shared pool of isolated ISPs) occupies a contiguous
- * row band ordered by founding year, parents above children. Rows are packed so
- * lines never coincide and never pass within MIN_SEP px of a concurrent line.
- *
- * A search box filters the view to the connected subgraph around a chosen ISP.
+ * Keeps the same family/band + free-direction layering + barycenter + staggering
+ * as the main timeline, but renders ISP lifespans as horizontal bars (SLOPE=0)
+ * instead of diagonals. No MIN_SEP buffer rows (unneeded when lines are
+ * horizontal). Pool stays visible, same as production.
  */
 (function () {
   const GRAPH = document.getElementById('graph');
+  if (!GRAPH) return;
   const API = GRAPH.dataset.api;
   const SEARCH = document.getElementById('isp-filter');
-  const W = 42;          // px per year
-  const PADX = 100;      // left padding (labels)
-  const PADT = 40;       // top padding (year axis)
-  const SLOPE = 0.8;     // px per year the line descends over its lifetime
-  const TRACK_H = 34;    // vertical space per row
-  const LAYER_GAP = 6;   // extra vertical space between family bands
-  const MIN_SEP = 6;     // keep any two concurrent lines at least this far apart
-  const CURRENT = new Date().getFullYear();
-  const UNKNOWN_BIRTH = 1985;   // floor for ISPs with no birth evidence
+  const W = 42;
+  const PADX = 100;
+  const PADT = 40;
+  const SLOPE = 0;          // horizontal
+  const TRACK_H = 24;       // 18 overlapped labels; 24 gives 2px gap (bar 5-13 vs next label)
 
-  // date-precision badges shown next to non-exact years (hover for explanation)
+  const LAYER_GAP = 6;
+  const MIN_SEP = 0;        // no diagonal proximity check
+  const CURRENT = new Date().getFullYear();
+  const UNKNOWN_BIRTH = 1985;
+  const BAR_H = 8;          // thickness of the horizontal bar (centered in track)
+  const BAR_GAP = 8;        // min px gap between abutting bars on same row (W=42 px/yr)
+  const BAR_GAP_YEARS = BAR_GAP / W;
+
   const PREC_MARK = { approx: '~', by: '≤', unknown: '?' };
   const precExpl = (what, prec, year, disp) => {
     const shown = disp || year || '?';
@@ -48,27 +48,24 @@
     });
 
   let allData = null;
-  let currentFocus = null;   // ISP currently focused by the search box
-  let eraTitles = [];        // {x, text} era title positions (SVG px)
-  let headerItems = [];      // {kind:'year'|'tick', x, label} year-axis items
-  let eraHeader = null;      // sticky HTML band that holds both rows
-  let svgWIDTH = 0;          // last-rendered timeline width (SVG units)
+  let currentFocus = null;
+  let lockedId = null;           // click-locked lineage (upstream+downstream)
+  let showDates = false;         // toggle for year labels on bars
+  try { showDates = JSON.parse(localStorage.getItem('isp-show-dates') || 'false'); } catch(e) {}
+  let eraTitles = [];
+  let headerItems = [];
+  let eraHeader = null;
+  let svgWIDTH = 0;
 
-  // ---- era overlays: display-only connectivity context ----
-  // Defaults: the four broadband/mobile-era bands that frame the ISP history
-  // are on; the mobile bands overlap them heavily, so those stay off unless
-  // the user picks them. Anything the user saves overrides the defaults.
   const ERAS = window.ERAS || [];
   const DEFAULT_ERAS = new Set(['dialup', 'predialup', 'dsl', 'nbn']);
-  const eraEnabled = {};   // era id -> bool
+  const eraEnabled = {};
   ERAS.forEach(e => { eraEnabled[e.id] = DEFAULT_ERAS.has(e.id); });
   try {
     const saved = JSON.parse(localStorage.getItem('isp-era-toggles') || '{}');
     ERAS.forEach(e => { if (typeof saved[e.id] === 'boolean') eraEnabled[e.id] = saved[e.id]; });
-  } catch (e) { /* corrupted state — ignore, stay with defaults */ }
+  } catch (e) {}
 
-  // Position the sticky era-title band so its spans line up with the eras'
-  // band rects inside the (possibly scaled) SVG, in screen px.
   function formatEraHeader() {
     if (!eraHeader) return;
     const svg = document.querySelector('#graph svg.tg');
@@ -87,7 +84,6 @@
 
   function setup(data) {
     allData = data;
-    // Build a datalist of ISP names for the search box.
     const dl = document.getElementById('isp-options');
     data.nodes.forEach(n => {
       const o = document.createElement('option');
@@ -99,11 +95,12 @@
     SEARCH.addEventListener('input', () => {
       const q = SEARCH.value.trim().toLowerCase();
       const hint = document.getElementById('filter-hint');
-      if (!q) { currentFocus = null; render(null); hint.textContent = ''; return; }
+      if (!q) { currentFocus = null; lockedId = null; render(null); hint.textContent = ''; return; }
       const match = data.nodes.find(n =>
         n.slug === q || n.label.toLowerCase().includes(q));
       if (match) {
         currentFocus = match;
+        lockedId = null;
         render(match);
         hint.textContent = `Showing ${match.label} and everything connected to it. Clear to show all.`;
       } else {
@@ -114,15 +111,32 @@
       const q = SEARCH.value.trim().toLowerCase();
       const match = data.nodes.find(n =>
         n.slug === q || n.label.toLowerCase() === q);
-      if (match) { currentFocus = match; render(match); }
+      if (match) { currentFocus = match; lockedId = null; render(match); }
     });
 
     buildEraUI();
 
+    const showDatesBox = document.getElementById('show-dates');
+    if (showDatesBox) {
+      showDatesBox.checked = showDates;
+      showDatesBox.addEventListener('change', () => {
+        showDates = showDatesBox.checked;
+        try { localStorage.setItem('isp-show-dates', JSON.stringify(showDates)); } catch(e) {}
+        render(currentFocus);
+      });
+    }
+
+    // Esc clears locked lineage or search filter
+    document.addEventListener('keydown', ev => {
+      if (ev.key === 'Escape') {
+        if (lockedId != null) { lockedId = null; const svg = document.querySelector('#graph svg.tg'); if(svg) svg.querySelectorAll('g.tg-line.hot,g.tg-line.dimmed,path.tg-edge.hot,path.tg-edge.dimmed').forEach(el=>el.classList.remove('hot','dimmed')); document.getElementById('filter-hint').textContent = ''; }
+        else if (SEARCH.value) { SEARCH.value=''; currentFocus=null; render(null); document.getElementById('filter-hint').textContent=''; }
+      }
+    });
+
     render(null);
   }
 
-  // Build the era multi-select dropdown (per-era rows + master "all") from ERAS.
   function buildEraUI() {
     const btn = document.getElementById('era-btn');
     const menu = document.getElementById('era-menu');
@@ -137,7 +151,6 @@
       btn.textContent = n ? `Eras (${n})` : 'Eras';
       btn.classList.toggle('has-selection', !!n);
     };
-    // master "all" row
     const masterLab = document.createElement('label');
     masterLab.classList.add('era-master');
     const master = document.createElement('input');
@@ -181,7 +194,6 @@
       menu.appendChild(label);
     });
     master.checked = ERAS.every(e => eraEnabled[e.id]);
-    // open/close the dropdown
     btn.addEventListener('click', e => {
       e.stopPropagation();
       const open = menu.hidden;
@@ -189,7 +201,7 @@
       btn.setAttribute('aria-expanded', String(!open));
     });
     document.addEventListener('click', e => {
-      if (!e.target.closest('.era-picker')) {
+      if (!e.target.closest('#era-picker')) {
         menu.hidden = true;
         btn.setAttribute('aria-expanded', 'false');
       }
@@ -203,7 +215,6 @@
     updateBtn();
   }
 
-  // Return the ids of every node connected (in either direction) to the focus.
   function connectedSubgraph(focusId, allNodes, allEdges) {
     const adj = {};
     allNodes.forEach(n => adj[n.id] = []);
@@ -226,7 +237,6 @@
     const data = allData;
     const byId = {};
 
-    // Filter to the connected subgraph when focused.
     let nodeList = data.nodes;
     let edgeList = data.edges;
     if (focus) {
@@ -238,21 +248,14 @@
     const base = nodeList.map(n => ({ ...n }));
     base.forEach(n => { byId[n.id] = n; });
 
-    // usable edges (need both endpoints and a year to place on the timeline)
     const edges = edgeList
       .filter(e => byId[e.from] && byId[e.to] && e.year != null)
       .map(e => ({ ...e }));
 
-    // earliest evidence year per ISP (birth, or the earliest "by" date that
-    // proves existence, or the earliest transition year touching it) so
-    // unknown births anchor at a defensible year instead of eating the whole
-    // timeline — keeps rows shareable.
     const earliestProof = {};
     base.forEach(n => {
       let ev = n.birth;
       if (ev == null && n.death != null && n.death_precision === 'by') {
-        // a "by YYYY" death still proves the ISP existed by then — use it
-        // as the line's start rather than the fixed UNKNOWN_BIRTH floor.
         ev = n.death;
       }
       earliestProof[n.id] = ev;
@@ -267,22 +270,16 @@
     const nodes = base.map(n => {
       n.x0 = n.birth || earliestProof[n.id] || UNKNOWN_BIRTH;
       n.x1 = n.death || CURRENT;
-      if (n.x0 > n.x1) n.x0 = n.x1;   // never start after we end
+      if (n.x0 > n.x1) n.x0 = n.x1;
       return n;
     });
 
-    // ---- vertical ordering (families first, then levels, then lifespan) ----
-    // Connected components (undirected) are treated as "families": each gets a
-    // contiguous row band ordered by founding year, with members spread above
-    // and below their consolidator (see the layering below). Isolated ISPs
-    // with no transitions share one pool band, packed so their lanes get
-    // reused.
     const adj = {};
     nodes.forEach(n => { adj[n.id] = new Set(); });
     edges.forEach(e => { adj[e.from].add(e.to); adj[e.to].add(e.from); });
 
     const compOf = {};
-    const comps = [];      // {id, members, isPool}
+    const comps = [];
     let compCursor = 0;
     nodes.forEach(n => {
       if (compOf[n.id] != null) return;
@@ -300,7 +297,6 @@
       compCursor++;
     });
 
-    // every singleton becomes one shared pool band (no ordering constraints)
     const familyComps = comps.filter(c => c.members.length > 1);
     const pool = [].concat(...comps.filter(c => c.members.length === 1).map(c => c.members));
     const poolSet = new Set(pool);
@@ -310,13 +306,6 @@
       : familyComps;
     ordered.sort((a, b) => (a.minStart - b.minStart) || (a.id - b.id));
 
-    // ---- vertical layering (free direction) ----
-    // Rather than forcing every parent above its child, each family is rooted
-    // at its highest-degree ISP (the consolidator) and every other member is
-    // spread above *or* below it — so an acquirer's purchases fan on both
-    // sides of its line and transitions may point either way. Neighbours are
-    // kept one level apart (levels balanced above/below), which measurably
-    // cuts connectors running through other timelines.
     const levelOf = {};
     const longLeaves = new Set();
     familyComps.forEach(c => {
@@ -325,7 +314,6 @@
         if (adj[i].size > adj[root].size ||
             (adj[i].size === adj[root].size && i > root)) root = i;
       });
-      // spanning tree via BFS from the root (deterministic neighbour order)
       const par = {};
       const order = [root];
       const seen = new Set([root]);
@@ -337,15 +325,10 @@
           if (!seen.has(v)) { seen.add(v); par[v] = u; queue.push(v); order.push(v); }
         });
       }
-      // signed levels: a child sits one level from its parent, on whichever
-      // side currently holds fewer ISPs, so the fan uses both sides evenly
       const counts = new Map([[0, 1]]);
       levelOf[root] = 0;
       order.slice(1).forEach(u => {
         const p = par[u];
-        // A long-lived family-leaf (e.g. Telstra) would run a decades-long
-        // line straight through the acquirer's fan. It is swept to the very
-        // top of the family below.
         const longLeaf = [...adj[u]].filter(v => c.members.includes(v)).length === 1
           && (byId[u].x1 - byId[u].x0) >= 30;
         if (longLeaf) longLeaves.add(u);
@@ -361,8 +344,6 @@
         counts.set(lv, (counts.get(lv) || 0) + 1);
       });
     });
-    // Sweep long-lived leaves to the top of their family, above every member's
-    // fan, so no connector runs through their decades-long line.
     familyComps.forEach(c => {
       const leaves = c.members.filter(i => longLeaves.has(i));
       if (!leaves.length) return;
@@ -373,7 +354,6 @@
     pool.forEach(i => { levelOf[i] = 0; });
     const memo = levelOf;
 
-    // layers: ordered top→bottom = family band → level. One stack of rows.
     const layers = [];
     ordered.forEach(comp => {
       if (comp.isPool) {
@@ -389,13 +369,6 @@
         .forEach(d => layers.push({ key: comp.id + '/' + d, nodes: byLevel[d] }));
     });
 
-    // row packing per layer: no two ISPs in a row may be alive at the same year
-    // (lines would coincide), and a row is skipped when a new line would pass
-    // within MIN_SEP px of a concurrently-alive line in a neighbouring row.
-    // Rows are filled longest-lived-first (latest death on top): a company's
-    // acquisition line drops from near the bottom of its own band into near the
-    // top of the successor's band, so the vertical connector crosses as few
-    // other companies' lines as possible.
     function packLayer(layer, presorted) {
       const band = presorted
         ? layer.nodes.map(i => byId[i])
@@ -404,44 +377,20 @@
       const tracks = [];
       const conflict = (n, t) => {
         for (const v of tracks[t]) {
-          if (n.x0 < v.x1 && n.x1 > v.x0) return true;
+          if (n.x0 < v.x1 + BAR_GAP_YEARS && n.x1 + BAR_GAP_YEARS > v.x0) return true;
         }
-        for (const otherT of [t - 1, t + 1]) {
-          const row = tracks[otherT];
-          if (!row) continue;
-          for (const v of row) {
-            if (n.x0 >= v.x1 || n.x1 <= v.x0) continue;
-            if (Math.abs(TRACK_H - SLOPE * Math.abs(v.x0 - n.x0)) < MIN_SEP) return true;
-          }
-        }
-        return false;
+        return false; // MIN_SEP=0, but enforce small end-to-start gap
       };
       band.forEach(n => {
         let placed = false;
-        // Bottom-most row first: early-dead lines sink to the bottom of the
-        // band, keeping rows beneath a dying company empty of lines alive on
-        // its death date, so its acquisition connector crosses nothing there.
         for (let t = tracks.length - 1; t >= 0; t--) {
           if (!conflict(n, t)) { tracks[t].push(n); placed = true; break; }
         }
         if (placed) return;
-        // Starting a new bottom row: the line must still keep MIN_SEP from the
-        // row directly above it. If it wouldn't, leave an empty buffer row so
-        // the two lines are not neighbours (first-fit skips this check).
-        if (tracks.length) {
-          for (const v of tracks[tracks.length - 1]) {
-            if (n.x0 < v.x1 && n.x1 > v.x0 &&
-                Math.abs(TRACK_H - SLOPE * Math.abs(v.x0 - n.x0)) < MIN_SEP) {
-              tracks.push([]);
-              break;
-            }
-          }
-        }
         tracks.push([n]);
       });
       return tracks;
     }
-    // ---- geometry ----
     const years = [
       ...nodes.map(n => n.x0), ...nodes.map(n => n.x1),
       ...edges.map(e => e.year),
@@ -451,7 +400,6 @@
     const maxYear = Math.max(...years);
     const X = y => PADX + (y - minYear) * W;
 
-    // eras visible in this window; when shown, reserve a title band above the data
     const ERAS_H = 24;
     const visibleEras = ERAS.filter(era => {
       if (!eraEnabled[era.id]) return false;
@@ -483,12 +431,6 @@
 
     repack(false);
 
-    // Barycenter sweeps: reorder each layer's rows so every ISP sits near the
-    // median row of its neighbours — shortens connectors that point up as well
-    // as down (e.g. Camtech → OzEmail) without moving anyone's band. Ties
-    // (fan-ins to one child) break by transition year: the earliest parent sits
-    // adjacent to the child, so its connector never slices through a sibling's
-    // line (e.g. Simtex between EON and Highway 1).
     const minYearOf = {};
     edges.forEach(e => {
       if (e.year == null) return;
@@ -509,8 +451,6 @@
         const medJ = pairs[m][1];
         if (pairs.length % 2 === 0) medY = (pairs[m - 1][0] + medY) / 2;
         tgt[n.id] = medY;
-        // child below -> connector points down -> earliest parent sinks to the
-        // bottom (processed last); child above -> earliest parent on top
         const below = bandOf(medJ) > bandOf(n.id);
         const y = minYearOf[n.id] || 0;
         signed[n.id] = below ? -y : y;
@@ -529,15 +469,14 @@
     svgWIDTH = WIDTH;
     const HEIGHT = height;
     const Y0 = rowY;
-    // y of an ISP's line at a given year (descends SLOPE px per year of life)
-    const lineY = (n, year) => Y0(n) + SLOPE * (year - n.x0);
+    const lineY = (n, year) => Y0(n) + TRACK_H / 2; // center of track (horizontal)
 
     const ns = 'http://www.w3.org/2000/svg';
     const svg = document.createElementNS(ns, 'svg');
     svg.setAttribute('viewBox', `0 0 ${WIDTH} ${HEIGHT}`);
     svg.classList.add('tg');
+    svg.classList.add('tg-beta');
 
-    // ---- year axis: collected here and drawn in the sticky header band ----
     headerItems.length = 0;
     for (let y = minYear; y <= maxYear; y++) {
       const x = X(y);
@@ -546,12 +485,11 @@
       headerItems.push({ kind: 'year', x: x + 2, label: String(y) });
     }
 
-    // ---- arrowhead defs (one per transition type, coloured to match) ----
     const TYPES = ['acquisition', 'merger', 'rename', 'split'];
     const defs = document.createElementNS(ns, 'defs');
     TYPES.forEach(ty => {
       const marker = document.createElementNS(ns, 'marker');
-      marker.setAttribute('id', 'tg-arrow-' + ty);
+      marker.setAttribute('id', 'tg-beta-arrow-' + ty);
       marker.setAttribute('markerWidth', '8'); marker.setAttribute('markerHeight', '8');
       marker.setAttribute('refX', '7'); marker.setAttribute('refY', '4');
       marker.setAttribute('orient', 'auto');
@@ -564,12 +502,11 @@
     });
     svg.appendChild(defs);
 
-    // ---- era bands (drawn first, behind transitions and lines) ----
     const eraBandTop = dataTop - ERAS_H;
     visibleEras.forEach(era => {
       const endYear = era.end == null ? CURRENT : era.end;
       const x0 = X(Math.max(era.start, minYear));
-      const x1 = X(Math.min(endYear, maxYear) + 1);   // end inclusive
+      const x1 = X(Math.min(endYear, maxYear) + 1);
       const rect = document.createElementNS(ns, 'rect');
       rect.setAttribute('x', x0);
       rect.setAttribute('y', eraBandTop);
@@ -579,9 +516,6 @@
       rect.classList.add('tg-era');
       svg.appendChild(rect);
     });
-    // era titles live in a sticky header (eraHeader) so they stay visible up the
-    // top while the user scrolls the tall SVG. Keep the per-title positions here
-    // (x in SVG px), laid left→right so they never overlap each other.
     eraTitles.length = 0;
     let eraLabelX = -Infinity;
     [...visibleEras]
@@ -590,18 +524,11 @@
         const text = `${era.label} (${era.start}–${era.end == null ? 'present' : era.end})`;
         const x = Math.max(X(Math.max(era.start, minYear)) + 4, eraLabelX);
         eraTitles.push({ x, text, color: era.color });
-        eraLabelX = x + text.length * 5.4 + 8 + 16;   // +16 for the colour chip
+        eraLabelX = x + text.length * 5.4 + 8 + 16;
       });
 
-    // ---- transition connector tracks ----
-    // Each transition is drawn as a vertical line from the parent's line down
-    // to the child's line at x = X(year). When several transitions happen in
-    // one year (e.g. the 2001–03 ISP-bust acquisition waves) they'd overlap
-    // exactly, so each year's connectors are spread across small horizontal
-    // tracks: connectors whose vertical extents overlap get distinct x
-    // positions (interval-graph track assignment), the rest share a track.
-    const CONN_STEP_MAX = 4;        // max px between connector tracks
-    const connOff = {};             // edge id -> px offset from X(year)
+    const CONN_STEP_MAX = 4;
+    const connOff = {};
     {
       const byYear = new Map();
       edges.forEach(e => {
@@ -616,36 +543,35 @@
       });
       byYear.forEach(list => {
         list.sort((p, q) => p.yTop - q.yTop);
-        const trackEnd = [];        // last yBot placed on each track
-        const trackOf = {};
+        const trackEnd = [];
+        const trackOfLocal = {};
         list.forEach(it => {
           let t = 0;
           while (t < trackEnd.length && trackEnd[t] > it.yTop) t++;
           if (t === trackEnd.length) trackEnd.push(it.yBot);
           else trackEnd[t] = it.yBot;
-          trackOf[it.id] = t;
+          trackOfLocal[it.id] = t;
         });
         const step = Math.min(CONN_STEP_MAX, (W - 4) / Math.max(1, trackEnd.length));
         list.forEach(it => {
-          connOff[it.id] = (trackOf[it.id] - (trackEnd.length - 1) / 2) * step;
+          connOff[it.id] = (trackOfLocal[it.id] - (trackEnd.length - 1) / 2) * step;
         });
       });
     }
 
-    // ---- transitions (drawn first, beneath the lines) ----
     edges.forEach(e => {
       const a = byId[e.from], b = byId[e.to];
       const year = e.year;
       const cx = X(year) + (connOff[e.id] || 0);
-      const yearAt = (cx - PADX) / W + minYear;
-      const cy0 = lineY(a, Math.min(Math.max(yearAt, a.x0), a.x1));
-      const cy1 = lineY(b, Math.min(Math.max(yearAt, b.x0), b.x1));
+      const cy0 = lineY(a, year);
+      const cy1 = lineY(b, year);
       const path = document.createElementNS(ns, 'path');
       path.setAttribute('d', `M ${cx} ${cy0} L ${cx} ${cy1}`);
       path.classList.add('tg-edge');
       const ty = TYPES.includes(e.type) ? e.type : 'acquisition';
       path.classList.add('ty-' + ty);
-      path.setAttribute('marker-end', `url(#tg-arrow-${ty})`);
+      path.setAttribute('marker-end', `url(#tg-beta-arrow-${ty})`);
+      path.dataset.id = String(e.id);
       path.dataset.from = a.slug; path.dataset.to = b.slug;
       path.dataset.type = e.type; path.dataset.arm = e.arm || '';
       path.dataset.year = e.year;
@@ -662,58 +588,69 @@
       }
     });
 
-    // ---- ISP lines ----
     nodes.forEach(n => {
       const x0 = X(n.x0), x1 = X(n.x1);
-      const y0 = lineY(n, n.x0), y1 = lineY(n, n.x1);
+      const y = Y0(n) + (TRACK_H - BAR_H) / 2;
       const g = document.createElementNS(ns, 'g');
       g.classList.add('tg-line');
+      g.classList.add('tg-beta-line');
       g.style.cursor = 'pointer';
-      g.addEventListener('click', () => { window.location = n.url; });
+      g.addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        if (lockedId === n.id) { window.location = n.url; return; }
+        lockedId = n.id;
+        highlightConnected(n.id);
+        const hint = document.getElementById('filter-hint');
+        if (hint) hint.textContent = `Locked on ${n.label} — click again to open, Esc or click background to clear.`;
+      });
 
-      const path = document.createElementNS(ns, 'path');
-      path.setAttribute('d', `M ${x0} ${y0} L ${x1} ${y1}`);
-      path.classList.add(n.status === 'active' ? 'st-active'
+      const rect = document.createElementNS(ns, 'rect');
+      rect.setAttribute('x', x0);
+      rect.setAttribute('y', y);
+      rect.setAttribute('width', Math.max(2, x1 - x0));
+      rect.setAttribute('height', BAR_H);
+      rect.setAttribute('rx', 3);
+      rect.classList.add(n.status === 'active' ? 'st-active'
         : n.status === 'inactive' ? 'st-inactive' : 'st-unknown');
-      if (!n.birth) path.classList.add('st-placeholder');
-      // no death year: thick solid line when known to be still alive;
-      // dashed "extends" only when the death date (or liveness) is unknown
-      if (!n.death && n.status === 'active') path.classList.add('st-alive');
-      else if (!n.death) path.classList.add('st-extends');
-      g.appendChild(path);
+      if (!n.birth) rect.classList.add('st-placeholder');
+      if (!n.death && n.status === 'active') rect.classList.add('st-alive');
+      else if (!n.death) rect.classList.add('st-extends');
+      g.appendChild(rect);
 
       const lab = document.createElementNS(ns, 'text');
       lab.setAttribute('x', x0 + 4);
-      lab.setAttribute('y', y0 + 12);
+      lab.setAttribute('y', y - 6);
       lab.textContent = n.label;
       lab.classList.add('tg-label');
       g.appendChild(lab);
 
-      // year range as tspans so precision badges sit right after their year
-      const yearTxt = document.createElementNS(ns, 'text');
-      yearTxt.setAttribute('x', x0 + 4);
-      yearTxt.setAttribute('y', y0 + 25);
-      yearTxt.classList.add('tg-yearlabel');
-      const addYears = (text, prec, expl) => {
-        const ts = document.createElementNS(ns, 'tspan');
-        ts.textContent = text;
-        yearTxt.appendChild(ts);
-        if (prec && prec !== 'exact') {
-          const badge = document.createElementNS(ns, 'tspan');
-          badge.setAttribute('dx', 1.5);
-          badge.textContent = PREC_MARK[prec] || '?';
-          badge.classList.add('tg-prec');
-          badge.classList.add('prec-' + prec);
-          badge.dataset.expl = expl;
-          yearTxt.appendChild(badge);
-        }
-      };
-      addYears(String(n.birth || '?'), n.birth && n.birth_precision,
-               precExpl('Birth date', n.birth_precision, n.birth, n.birth_disp));
-      addYears(n.death ? ' – ' + n.death : ' – present', n.death && n.death_precision,
-               precExpl('Death date', n.death_precision, n.death, n.death_disp));
-      g.appendChild(yearTxt);
+      if (showDates) {
+        const yearTxt = document.createElementNS(ns, 'text');
+        yearTxt.setAttribute('x', x0 + 4);
+        yearTxt.setAttribute('y', y + BAR_H + 11);
+        yearTxt.classList.add('tg-yearlabel');
+        const addYears = (text, prec, expl) => {
+          const ts = document.createElementNS(ns, 'tspan');
+          ts.textContent = text;
+          yearTxt.appendChild(ts);
+          if (prec && prec !== 'exact') {
+            const badge = document.createElementNS(ns, 'tspan');
+            badge.setAttribute('dx', 1.5);
+            badge.textContent = PREC_MARK[prec] || '?';
+            badge.classList.add('tg-prec');
+            badge.classList.add('prec-' + prec);
+            badge.dataset.expl = expl;
+            yearTxt.appendChild(badge);
+          }
+        };
+        addYears(String(n.birth || '?'), n.birth && n.birth_precision,
+                 precExpl('Birth date', n.birth_precision, n.birth, n.birth_disp));
+        addYears(n.death ? ' – ' + n.death : ' – present', n.death && n.death_precision,
+                 precExpl('Death date', n.death_precision, n.death, n.death_disp));
+        g.appendChild(yearTxt);
+      }
 
+      g.dataset.id = String(n.id);
       g.dataset.slug = n.slug;
       g.dataset.birth = (n.birth || '?') + precMarkOf(n.birth_precision);
       g.dataset.death = n.death
@@ -722,7 +659,6 @@
       svg.appendChild(g);
     });
 
-    // ---- hover tooltip ----
     const tip = document.getElementById('tooltip');
     svg.addEventListener('mousemove', ev => {
       const prec = ev.target.closest('.tg-prec');
@@ -747,11 +683,83 @@
         tip.style.display = 'none';
       }
     });
-    svg.addEventListener('mouseleave', () => { tip.style.display = 'none'; });
+    svg.addEventListener('mouseleave', () => { tip.style.display = 'none'; if (lockedId == null) clearHighlight(); });
+
+    // hover highlight — upstream + downstream only (not whole family)
+    function clearHighlight() {
+      svg.querySelectorAll('g.tg-line.hot, g.tg-line.dimmed, path.tg-edge.hot, path.tg-edge.dimmed')
+        .forEach(el => el.classList.remove('hot','dimmed'));
+    }
+    function lineage(focusId) {
+      // directed reachability: ancestors (can reach focus) + descendants (focus can reach)
+      const fwd = new Map(), rev = new Map();
+      allData.edges.forEach(e => {
+        if (!fwd.has(e.from)) fwd.set(e.from, []);
+        fwd.get(e.from).push(e.to);
+        if (!rev.has(e.to)) rev.set(e.to, []);
+        rev.get(e.to).push(e.from);
+      });
+      const down = new Set([focusId]);
+      const stackD = [focusId];
+      while (stackD.length) {
+        const cur = stackD.pop();
+        (fwd.get(cur) || []).forEach(n => { if (!down.has(n)) { down.add(n); stackD.push(n); } });
+      }
+      const up = new Set([focusId]);
+      const stackU = [focusId];
+      while (stackU.length) {
+        const cur = stackU.pop();
+        (rev.get(cur) || []).forEach(n => { if (!up.has(n)) { up.add(n); stackU.push(n); } });
+      }
+      const keep = new Set([...down, ...up]);
+      // edges on those directed paths
+      const keepEdges = new Set(allData.edges.filter(e =>
+        (down.has(e.from) && down.has(e.to)) || (up.has(e.from) && up.has(e.to))
+      ).map(e => String(e.id)));
+      return { keep, keepEdges };
+    }
+    function highlightConnected(focusId) {
+      const { keep, keepEdges } = lineage(focusId);
+      svg.querySelectorAll('g.tg-line').forEach(g => {
+        const id = g.dataset.id;
+        const inKeep = keep.has(Number(id));
+        g.classList.toggle('hot', inKeep);
+        g.classList.toggle('dimmed', !inKeep);
+      });
+      svg.querySelectorAll('path.tg-edge').forEach(p => {
+        const inKeep = keepEdges.has(p.dataset.id);
+        p.classList.toggle('hot', inKeep);
+        p.classList.toggle('dimmed', !inKeep);
+      });
+    }
+    svg.addEventListener('mouseover', ev => {
+      if (lockedId != null) return;
+      const g = ev.target.closest('g.tg-line');
+      const e = ev.target.closest('path.tg-edge');
+      if (g && g.dataset.id) { highlightConnected(Number(g.dataset.id)); return; }
+      if (e && e.dataset.type) {
+        const fromNode = allData.nodes.find(n => n.slug === e.dataset.from);
+        if (fromNode) highlightConnected(fromNode.id);
+      }
+    });
+    svg.addEventListener('mouseout', ev => {
+      if (lockedId != null) return;
+      const leaving = ev.target.closest('g.tg-line, path.tg-edge');
+      if (leaving) clearHighlight();
+    });
+    // click background clears lock
+    svg.addEventListener('click', ev => {
+      if (ev.target.closest('g.tg-line, path.tg-edge')) return;
+      if (lockedId != null) {
+        lockedId = null;
+        clearHighlight();
+        const hint = document.getElementById('filter-hint');
+        if (hint && !currentFocus) hint.textContent = '';
+      }
+    });
 
     const container = document.getElementById('graph');
     container.innerHTML = '';
-    // sticky year-axis + era-title band goes first so it pins to the container
     eraHeader = document.createElement('div');
     eraHeader.className = 'era-header';
     headerItems.forEach(it => {
@@ -772,5 +780,12 @@
     container.appendChild(eraHeader);
     container.appendChild(svg);
     formatEraHeader();
+    if (lockedId != null) {
+      // re-apply lock after re-render (e.g. era toggle)
+      try { highlightConnected(lockedId); } catch(e) {}
+      const n = allData.nodes.find(x => x.id === lockedId);
+      const hint = document.getElementById('filter-hint');
+      if (hint && n) hint.textContent = `Locked on ${n.label} — click again to open, Esc or click background to clear.`;
+    }
   }
 })();

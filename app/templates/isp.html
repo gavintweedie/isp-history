@@ -102,5 +102,6 @@
   </ul>
 </section>
 
-<p class="meta"><a href="{{ url_for('index') }}">← back to graph</a></p>
+<p class="meta"><a href="{{ url_for('index') }}" id="back-link" onclick="if(history.length>1){history.back();return false;}">← back</a></p>
+<script>try{var r=document.referrer&&new URL(document.referrer,location.origin);if(r&&r.origin===location.origin){var p=r.pathname;if(p.startsWith('/directory')||p.startsWith('/isp/')||p==='/'||p.startsWith('/#')){document.getElementById('back-link').href=r.pathname+r.search+r.hash||'/';}}}catch(e){}</script>
 {% endblock %}

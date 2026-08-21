@@ -12,7 +12,7 @@ RestartSec=3
 # Optional overrides (data dir, prefix, port) can go in an EnvironmentFile;
 # the defaults in app/config.py are fine.
 Environment=ISP_HISTORY_PORT=4004
-Environment=ISP_HISTORY_BASE_PATH=/isp-history
+Environment=ISP_HISTORY_BASE_PATH=
 
 [Install]
 WantedBy=default.target

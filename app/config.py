@@ -8,7 +8,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Path prefix the app is served under, e.g. "/isp-history" behind Caddy's
 # `handle_path /isp-history/*`. Empty string when running directly.
-BASE_PATH = os.environ.get("ISP_HISTORY_BASE_PATH", "/isp-history").rstrip("/")
+BASE_PATH = os.environ.get("ISP_HISTORY_BASE_PATH", "").rstrip("/")
 
 PORT = int(os.environ.get("ISP_HISTORY_PORT", "4004"))
 

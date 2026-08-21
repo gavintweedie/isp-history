@@ -34,9 +34,10 @@ app = Flask(__name__)
 class BasePathMiddleware:
     """Tells Werkzeug to generate URLs prefixed with BASE_PATH.
 
-    Caddy strips the /isp-history prefix before proxying, so Flask only ever
-    sees path=/,/isp/<slug> etc. By setting SCRIPT_NAME, url_for() emits the
-    full /isp-history/... paths the browser needs.
+    When BASE_PATH is empty the app is served at root (isp-history.narx.net).
+    For backwards compat with Caddy's `handle_path /isp-history/*` on
+    code.narx.net, also strip a leading /isp-history if present and set
+    SCRIPT_NAME accordingly so old links keep working.
     """
 
     def __init__(self, wsgi_app, prefix):
@@ -44,11 +45,18 @@ class BasePathMiddleware:
         self.prefix = prefix
 
     def __call__(self, environ, start_response):
+        path = environ.get("PATH_INFO", "")
+        # Legacy prefix support even when BASE_PATH is empty
+        if path.startswith("/isp-history"):
+            environ["SCRIPT_NAME"] = "/isp-history"
+            environ["PATH_INFO"] = path[len("/isp-history"):] or "/"
+            return self.wsgi_app(environ, start_response)
         if self.prefix:
             environ["SCRIPT_NAME"] = self.prefix
-            path = environ.get("PATH_INFO", "")
             if path.startswith(self.prefix):
                 environ["PATH_INFO"] = path[len(self.prefix):]
+        else:
+            environ["SCRIPT_NAME"] = ""
         return self.wsgi_app(environ, start_response)
 
 

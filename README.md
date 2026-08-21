@@ -13,9 +13,11 @@ per-family blocks, wide generations wrapped into columns so it fits a typical
 screen width and uses vertical space; ISPs with no recorded transition are
 hidden by default behind an "unconnected" toggle, and pressing **Enter** on a
 search result focuses that ISP's whole connected family)
-and a **timeline** (lifespans flowing left-to-right through the years, stacked
-vertically by family and founding era so related chains stay together and lines
-never overlap). The timeline can overlay Australian connectivity **eras** (Dialup,
+and a **timeline** (horizontal Gantt bars left-to-right, stacked
+vertically by family and founding era so related chains stay together and bars
+never overlap; hover highlights the upstream/downstream lineage, click to lock,
+`dates` toggle adds year labels, and a small gap prevents abutting bars from
+looking joined). The timeline can overlay Australian connectivity **eras** (Dialup,
 DSL/Cable, NBN, 2G–5G Mobile, …) as translucent background bands, picked from the
 "Eras" multi-select dropdown (individual eras, or all at once). Pre-Dialup,
 Dialup, DSL/Cable and NBN are on by default.
@@ -71,7 +73,7 @@ changes, so a `git pull` is all a deploy needs. See `docs/DEPLOYMENT.md`.
 |------------|---------------------------------------------------------------------|
 | Backend    | Python (Flask 3.1.3, already installed)                             |
 | Data       | JSON files in git (`data/isps/*.json`, `data/transitions.json`) — no database dependency |
-| Frontend   | Tabbed graph: cytoscape.js + dagre tree view (vendored, no build step) + custom SVG timeline |
+| Frontend   | Tabbed graph: cytoscape.js + dagre tree view (vendored, no build step) + custom SVG horizontal Gantt timeline |
 | Data entry | Git pull requests; run `tools/qa_report.py` to check data health    |
 
 ## Repository layout

@@ -32,9 +32,9 @@
   <div id="tree-view" data-api="{{ url_for('api_graph') }}"></div>
 </div>
 <div id="tab-timeline" class="tabpanel">
-  <p class="hint">Each line is an ISP's lifespan (birth → death/merger), flowing through time left to right.
-  Branches show acquisitions/mergers at their year. Thick green = still active, red = inactive/absorbed,
-  grey = status unknown, dashed = unknown dates. Click a line for details.</p>
+  <p class="hint">Each bar is an ISP's lifespan (birth → death/merger), flowing through time left to right.
+  Vertical lines show acquisitions/mergers at their year. Green = still active, red = inactive/absorbed,
+  grey = status unknown. Click a bar to lock its lineage (upstream + downstream); click again to open.</p>
   <div class="filterbar">
     <label for="isp-filter">Focus:</label>
     <input id="isp-filter" list="isp-options" placeholder="Type an ISP name…" autocomplete="off">
@@ -43,6 +43,7 @@
       <button type="button" class="era-btn" id="era-btn" aria-haspopup="listbox" aria-expanded="false">Eras</button>
       <div class="era-menu" id="era-menu" hidden></div>
     </span>
+    <label title="Show birth/death years under each bar"><input type="checkbox" id="show-dates"> dates</label>
     <span id="filter-hint" class="hint"></span>
     <span class="legend">Transitions:
       <span class="lg ty-acquisition">acquisition</span>
