@@ -35,12 +35,14 @@ sudo systemctl enable --now isp_history
 sudo systemctl status isp_history
 ```
 
-The unit runs `python3 app/server.py` from the repo directory as the current user.
+The unit runs `gunicorn -w 4 -b 127.0.0.1:4004 --chdir /home/gav/dev/isp_history/app server:app`
+from the repo directory (4 workers, `gunicorn==26.1.0` in `requirements.txt`). `Werkzeug`
+`app.run()` is for local dev only (`python3 app/server.py`).
 
 Because the data is the git-tracked `data/` directory, deploying a data update is
 just a `git pull` — the app notices the changed files (it re-reads the store when
 their mtime/size change) and serves the new graph on the next request. Restart the
-unit if you want to be certain.
+unit if you want to be certain (`systemctl --user restart isp_history`).
 
 ## 3. Caddy
 

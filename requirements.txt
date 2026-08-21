@@ -8,3 +8,4 @@ itsdangerous==2.2.0
 click==8.3.1
 MarkupSafe==3.0.3
 blinker==1.9.0
+gunicorn==26.1.0
