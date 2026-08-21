@@ -8,6 +8,8 @@ Run under Caddy: see docs/DEPLOYMENT.md (reverse_proxy localhost:4004 with a
 `handle_path /isp-history/*` block; the app serves paths relative to BASE_PATH).
 """
 
+import hashlib
+import json
 import re
 import threading
 
@@ -138,22 +140,52 @@ def directory():
     return render_template("directory.html", entries=entries)
 
 
+def _etag_matches(inm, etag):
+    """True if If-None-Match header matches our ETag (handles lists and *)."""
+    if not inm:
+        return False
+    inm = inm.strip()
+    if inm == "*":
+        return True
+    for tag in (t.strip() for t in inm.split(",")):
+        if tag == etag:
+            return True
+    return False
+
+
 # In-memory cache for /api/graph, invalidated by data content changes. The
 # graph is read-only and only changes on a git pull, so caching it avoids
-# re-deriving the ~911 nodes every page load. db.store_fingerprint() is cheap
-# (stat of the data files) and reloads the store when a file changes. Skipped
-# under TESTING.
-_graph_cache = {"key": None, "data": None}
+# re-deriving the ~911 nodes every page load. db.store_fingerprint() is
+# memoized (TTL ~1s) so the per-request stat storm collapses to ~0.01ms.
+# We cache both the dict (for internal use) and the serialized body + ETag
+# so cache hits skip json serialization and support 304 Not Modified.
+# Skipped under TESTING.
+_graph_cache = {"key": None, "data": None, "body": None, "etag": None}
 _graph_lock = threading.Lock()
 
 
 @app.route("/api/graph")
 def api_graph():
+    # Single fingerprint/ETag per request; reused for cache check, build,
+    # and store so we pay the ~3ms stat cost at most once (memoized to
+    # ~0.01ms on warm hits).
     if not current_app.config.get("TESTING"):
         key = db.store_fingerprint()
+        etag = db.fingerprint_etag(key)
+        inm = request.headers.get("If-None-Match")
+        if _etag_matches(inm, etag):
+            resp = current_app.response_class("", status=304)
+            resp.headers["ETag"] = etag
+            return resp
         with _graph_lock:
-            if _graph_cache["key"] == key and _graph_cache["data"] is not None:
-                return jsonify(_graph_cache["data"])
+            if _graph_cache["key"] == key and _graph_cache["body"] is not None:
+                if _etag_matches(inm, _graph_cache["etag"]):
+                    resp = current_app.response_class("", status=304)
+                    resp.headers["ETag"] = _graph_cache["etag"]
+                    return resp
+                resp = current_app.response_class(_graph_cache["body"], mimetype="application/json")
+                resp.headers["ETag"] = _graph_cache["etag"]
+                return resp
 
     nodes = []
     for r in db.graph_nodes():
@@ -185,9 +217,20 @@ def api_graph():
         })
     data = {"nodes": nodes, "edges": edges}
     if not current_app.config.get("TESTING"):
+        body = json.dumps(data, separators=(",", ":")).encode("utf-8")
         with _graph_lock:
-            _graph_cache["key"] = db.store_fingerprint()
+            _graph_cache["key"] = key
             _graph_cache["data"] = data
+            _graph_cache["body"] = body
+            _graph_cache["etag"] = etag
+        inm = request.headers.get("If-None-Match")
+        if _etag_matches(inm, etag):
+            resp = current_app.response_class("", status=304)
+            resp.headers["ETag"] = etag
+            return resp
+        resp = current_app.response_class(body, mimetype="application/json")
+        resp.headers["ETag"] = etag
+        return resp
     return jsonify(data)
 
 

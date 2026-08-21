@@ -17,9 +17,11 @@ loaded.
 """
 
 import glob
+import hashlib
 import json
 import os
 import threading
+import time
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.environ.get("ISP_HISTORY_DATA", os.path.join(BASE_DIR, "data"))
@@ -30,8 +32,18 @@ _TRANSITIONS_PATH = os.path.join(DATA_DIR, "transitions.json")
 _store = None
 _lock = threading.Lock()
 
+# Fast fingerprint for the per-request cache check (server.py). Stats
+# ~970 files (~3ms) so we memoize for a short TTL. This is *not* used
+# for correctness in _ensure_loaded/store_fingerprint — those always
+# stat fresh so tests and `git pull` are seen immediately. The memoized
+# path may be up to _FP_TTL stale (acceptable for the read-only site;
+# a restart is instant and the next miss rebuilds).
+_FP_TTL = 1.0
+_fp_memo = {"fp": None, "at": 0.0}
+_fp_memo_lock = threading.Lock()
 
-def _fingerprint():
+
+def _fingerprint_uncached():
     parts = []
     for path in sorted(glob.glob(_ISPS_GLOB)) + [_TRANSITIONS_PATH]:
         try:
@@ -41,6 +53,27 @@ def _fingerprint():
         else:
             parts.append((path, st.st_mtime, st.st_size))
     return tuple(parts)
+
+
+def _fingerprint():
+    """Memoized (fast) fingerprint — for server cache checks only."""
+    now = time.monotonic()
+    with _fp_memo_lock:
+        if _fp_memo["fp"] is not None and (now - _fp_memo["at"]) < _FP_TTL:
+            return _fp_memo["fp"]
+    fp = _fingerprint_uncached()
+    with _fp_memo_lock:
+        _fp_memo["fp"] = fp
+        _fp_memo["at"] = time.monotonic()
+    return fp
+
+
+def _fingerprint_etag(fp=None):
+    """Stable weak ETag for a fingerprint (first 16 hex chars of sha256)."""
+    if fp is None:
+        fp = _fingerprint()
+    h = hashlib.sha256(repr(fp).encode()).hexdigest()[:16]
+    return f'W/"{h}"'
 
 
 def _sort_children(isp):
@@ -118,22 +151,49 @@ def _load():
 
 def _ensure_loaded():
     global _store
-    fp = _fingerprint()
+    # Correctness path: always use uncached fingerprint so a `git pull`
+    # or test file write is seen immediately (no TTL staleness).
+    fp = _fingerprint_uncached()
     if _store is not None and _store["_fp"] == fp:
+        # Prime the fast memo so server's next `_fingerprint()` (memoized)
+        # is cheap, but the authoritative check above is always fresh.
+        with _fp_memo_lock:
+            _fp_memo["fp"] = fp
+            _fp_memo["at"] = time.monotonic()
         return _store
     with _lock:
-        fp = _fingerprint()
-        if _store is not None and _store["_fp"] == fp:
+        # Re-stat inside the lock so a concurrent `git pull` between the
+        # first check and the lock is not missed.
+        fp2 = _fingerprint_uncached()
+        if _store is not None and _store["_fp"] == fp2:
+            with _fp_memo_lock:
+                _fp_memo["fp"] = fp2
+                _fp_memo["at"] = time.monotonic()
             return _store
+        # Also handle the case where another thread already reloaded to fp
+        # (outside check used fp, inside uses fp2 which may differ if file
+        # changed between the two stats — use the fresh fp2).
+        if _store is not None and _store["_fp"] == fp:
+            # fp and fp2 differ only if file changed between stats; if store
+            # still matches the *old* fp, we still need to reload to fp2.
+            pass
         store = _load()
-        store["_fp"] = fp
+        store["_fp"] = fp2
         _store = store
+        with _fp_memo_lock:
+            _fp_memo["fp"] = fp2
+            _fp_memo["at"] = time.monotonic()
         return _store
 
 
 def store_fingerprint():
     """Fingerprint of the current data files; changes when data changes."""
     return _ensure_loaded()["_fp"]
+
+
+def fingerprint_etag(fp=None):
+    """Public ETag helper (memoized fingerprint -> weak ETag)."""
+    return _fingerprint_etag(fp)
 
 
 def get_isp(isp_id):

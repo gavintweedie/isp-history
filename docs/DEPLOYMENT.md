@@ -53,7 +53,19 @@ the other apps:
 	}
 ```
 
-Then `caddy reload`.
+Enable compression globally (once, for all apps) inside `code.narx.net {`:
+
+```
+code.narx.net {
+	encode gzip zstd
+	# ... existing handle_path blocks
+}
+```
+
+Then `caddy fmt --overwrite && systemctl reload caddy` (or `systemctl start caddy` if
+it was failed). The app itself sends `ETag`/`Cache-Control` for `/api/graph`
+(`app/server.py`), so Caddy’s `encode` compresses the 277 KB graph to ~38 KB
+and revalidation returns `304`.
 
 **How the prefix works:** Caddy's `handle_path` strips the `/isp-history` prefix
 before proxying, so Flask only ever sees `/`, `/isp/<slug>`, etc. The app sets
