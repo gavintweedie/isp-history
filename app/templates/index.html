@@ -12,10 +12,10 @@
 <div id="tab-tree" class="tabpanel" hidden>
   <p class="hint">Mergers, acquisitions, splits and renames as a family tree: parents above
   children, each family a block, wide generations wrapped into columns so lines
-  stay short. Hover a box to trace where it ended up — its path downstream to
-  today's ISPs. Border colour:
+  stay short. Hover a box to highlight its full lineage (upstream + downstream);
+  click to lock, Esc or click background to clear. Border colour:
   green = active, red = inactive/absorbed, grey = unknown.
-  Drag to pan, scroll to zoom, click a box for details.
+  Drag to pan, scroll to zoom, double-click a box for details.
   Type to search, then <b>Enter to focus</b> that ISP's family; clear the search to show all.
   ISPs with no recorded transition are hidden by default (tick <i>unconnected</i> to show them).</p>
   <div id="tree-toolbar">
@@ -27,6 +27,7 @@
       <label><input type="checkbox" data-status="unknown" checked> unknown</label>
     </span>
     <label title="ISPs with no mergers/acquisitions/splits/renames"><input type="checkbox" data-isolated> unconnected</label>
+    <label title="Show birth/death years under each box"><input type="checkbox" id="tree-show-dates"> dates</label>
     <span id="tree-hint" class="hint"></span>
   </div>
   <div id="tree-view" data-api="{{ url_for('api_graph') }}"></div>
@@ -62,11 +63,11 @@
 <div id="tooltip"></div>
 {% endblock %}
 {% block scripts %}
-<script src="{{ url_for('static', filename='vendor/cytoscape.min.js') }}"></script>
-<script src="{{ url_for('static', filename='vendor/dagre.min.js') }}"></script>
-<script src="{{ url_for('static', filename='vendor/cytoscape-dagre.js') }}"></script>
-<script src="{{ url_for('static', filename='tabs.js') }}"></script>
-<script src="{{ url_for('static', filename='tree.js') }}"></script>
-<script src="{{ url_for('static', filename='eras.js') }}"></script>
-<script src="{{ url_for('static', filename='graph.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/cytoscape.min.js') }}?v={{ static_hash('vendor/cytoscape.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/dagre.min.js') }}?v={{ static_hash('vendor/dagre.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vendor/cytoscape-dagre.js') }}?v={{ static_hash('vendor/cytoscape-dagre.js') }}"></script>
+<script src="{{ url_for('static', filename='tabs.js') }}?v={{ static_hash('tabs.js') }}"></script>
+<script src="{{ url_for('static', filename='tree.js') }}?v={{ static_hash('tree.js') }}"></script>
+<script src="{{ url_for('static', filename='eras.js') }}?v={{ static_hash('eras.js') }}"></script>
+<script src="{{ url_for('static', filename='graph.js') }}?v={{ static_hash('graph.js') }}"></script>
 {% endblock %}

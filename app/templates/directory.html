@@ -48,5 +48,5 @@
 </table>
 {% endblock %}
 {% block scripts %}
-<script src="{{ url_for('static', filename='directory.js') }}"></script>
+<script src="{{ url_for('static', filename='directory.js') }}?v={{ static_hash('directory.js') }}"></script>
 {% endblock %}

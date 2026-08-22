@@ -10,6 +10,7 @@ Run under Caddy: see docs/DEPLOYMENT.md (reverse_proxy localhost:4004 with a
 
 import hashlib
 import json
+import os
 import re
 import threading
 
@@ -29,6 +30,34 @@ from config import BASE_PATH, PORT
 import db
 
 app = Flask(__name__)
+
+# Content-hash for static assets (mtime+hash would also work, but hash is
+# exact: local vim or git pull that changes content busts cache, unchanged
+# vendor files keep 1y immutable cache).
+_static_hash_cache = {}  # filename -> (mtime, hash)
+
+
+def static_hash(filename):
+    """8-char sha256 of app/static/<filename>, cached by mtime."""
+    # filename is trusted (from templates), join safely inside static_folder
+    path = os.path.join(app.static_folder, filename)
+    try:
+        st = os.stat(path)
+    except OSError:
+        return "0"
+    cached = _static_hash_cache.get(filename)
+    if cached and cached[0] == st.st_mtime:
+        return cached[1]
+    try:
+        with open(path, "rb") as f:
+            h = hashlib.sha256(f.read()).hexdigest()[:8]
+    except OSError:
+        h = "0"
+    _static_hash_cache[filename] = (st.st_mtime, h)
+    return h
+
+
+app.jinja_env.globals["static_hash"] = static_hash
 
 
 class BasePathMiddleware:
@@ -121,13 +150,19 @@ def set_security_headers(resp):
         "form-action 'self'; "
         "object-src 'none'",
     )
-    # Browser caching: static assets and /api/graph are immutable for the
-    # lifetime of the data (a git pull invalidates the server-side graph cache),
-    # so cache them; HTML pages left uncached so a deploy/git pull shows fresh
-    # content immediately.
+    # Browser caching: static assets with ?v=<hash> are immutable (hash
+    # changes on any local edit or git pull), so 1y; without ?v fall back
+    # to 1h. HTML pages left uncached so a deploy shows fresh content.
+    # /api/graph is 5m + ETag (304) + gzip via Caddy.
     path = request.path
     if path.startswith("/static/"):
-        resp.headers["Cache-Control"] = "public, max-age=3600"
+        if request.args.get("v"):
+            # Hashed URL: content never changes without URL changing
+            resp.headers["Cache-Control"] = "public, max-age=31536000, immutable"
+        elif path.startswith("/static/vendor/"):
+            resp.headers["Cache-Control"] = "public, max-age=31536000, immutable"
+        else:
+            resp.headers["Cache-Control"] = "public, max-age=3600"
     elif path == "/api/graph":
         resp.headers.setdefault("Cache-Control", "public, max-age=300")
         resp.headers.setdefault("Vary", "Accept-Encoding")
