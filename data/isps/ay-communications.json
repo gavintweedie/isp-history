@@ -16,9 +16,16 @@
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1998)."
+      "date_disp": "20 Jan 1998",
+      "precision": "exact",
+      "details": "Sydney dialup/hosting ISP + Linux consulting; earliest Wayback capture 20 Jan 1998 (©1997 footer).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980120000000/http://www.ay.com.au/",
+          "label": "AY Communications (Wayback 20 Jan 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

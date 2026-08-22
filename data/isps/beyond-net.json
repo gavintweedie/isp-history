@@ -9,16 +9,23 @@
     {
       "name": "Beyond Net",
       "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_disp": "24 Feb 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
+      "date_disp": "24 Feb 1998",
       "precision": "by",
-      "details": "Dialup, web design."
+      "details": "Earliest email use 24 Feb 1998 (dave-james@beyond.net.au); earliest capture 12 Dec 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981212023203/http://www.beyond.net.au/",
+          "label": "Beyond Net (Wayback 12 Dec 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

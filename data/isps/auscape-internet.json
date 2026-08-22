@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Auscape Internet",
-      "start_year": 1996,
-      "start_disp": "by 1996"
+      "start_year": 1998,
+      "start_disp": "3 Dec 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "by 1996",
+      "year": 1998,
+      "date_disp": "3 Dec 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture of auscape.com.au."
+      "details": "Earliest Wayback capture 3 Dec 1998 (auscape.net.au); acquired by IDEAL Internet 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981203045529/http://auscape.net.au/",
+          "label": "Auscape Internet (Wayback 3 Dec 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

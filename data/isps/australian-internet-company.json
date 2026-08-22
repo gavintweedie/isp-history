@@ -9,16 +9,23 @@
     {
       "name": "Australian Internet Company",
       "start_year": 1996,
-      "start_disp": "by 1996"
+      "start_disp": "1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "by 1996",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1996)."
+      "date_disp": "1996",
+      "precision": "approx",
+      "details": "The Australian Internet Company Pty Ltd established 1996 (footer \u00a91996-2026, aboutus Established since 1996).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.aic.net.au/aboutus.php",
+          "label": "AIC \u2014 Established since 1996, \u00a91996"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "BITS",
-      "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_year": 1996,
+      "start_disp": "Mar 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1998)."
+      "year": 1996,
+      "date_disp": "Mar 1996",
+      "precision": "approx",
+      "details": "BITS was first established Mar 1996 (ISP brand); company Bits Pty Ltd ACN 059639771 incorporated 31 Mar 1993.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.bitstech.com.au/services.htm",
+          "label": "BITS \u2014 first established Mar 1996"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 1996,
-      "date_disp": "1996",
+      "year": 1995,
+      "date_disp": "Dec 1995",
       "precision": "exact",
-      "details": "Acquired by iiNet."
+      "details": "Acquired by iiNet (Dec 1995).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980224153402/www.iinet.net.au/about/timeline.html",
+          "label": "iiNet timeline — Dec 1995 Access Communications acquisition"
+        }
+      ]
     }
   ]
 }

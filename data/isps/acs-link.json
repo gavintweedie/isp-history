@@ -4,21 +4,33 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://acslink.net.au",
-  "summary": "ISP (acslink.net.au online by Dec 1996); fate unverified.",
+  "summary": "ACS Internet service (acslink.net.au); launched 17 Mar 1994 by Canberra Branch of Australian Computer Society, service commenced 8 Nov 1994.",
   "names": [
     {
       "name": "ACS-link",
-      "start_year": 1996,
-      "start_disp": "by Dec 1996"
+      "start_year": 1994,
+      "start_disp": "17 Mar 1994"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "by Dec 1996",
-      "precision": "by",
-      "details": "ISP."
+      "year": 1994,
+      "date_disp": "17 Mar 1994",
+      "precision": "exact",
+      "details": "Inaugurated 17 Mar 1994 at National Press Club by David Lamont (ACT Legislative Assembly); service commenced 8 Nov 1994 (4,000 members online).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.tomw.net.au/irc/irc12c.html",
+          "label": "ACS Data Highway Launch 17 Mar 1994"
+        },
+        {
+          "kind": "archive",
+          "url": "http://www.tomw.net.au/acsintpr.html",
+          "label": "ACS Internet service commenced 8 Nov 1994"
+        }
+      ]
     },
     {
       "kind": "death",

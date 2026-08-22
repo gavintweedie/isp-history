@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "APEX Internet",
-      "start_year": 1999,
-      "start_disp": "by 1999"
+      "start_year": 1997,
+      "start_disp": "1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Earliest Wayback capture of apex.net.au Dec 1998."
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "approx",
+      "details": "Apex Internet operating since 1997 (one of Canberra's leading ISPs since 97); earliest capture 5 Dec 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981205071838/http://www.apex.net.au:80/",
+          "label": "Apex Internet (Wayback 5 Dec 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

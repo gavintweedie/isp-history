@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Arcom",
-      "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_year": 1997,
+      "start_disp": "1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "ARCOMNET, Adelaide's Premier Internet Service."
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "approx",
+      "details": "ARCOM COMPUTER PTY LTD ABN 87080253309 incorporated 1997 (took over A & R Computer Services 1993); earliest website capture 30 Apr 1998.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=87080253309",
+          "label": "ABN Lookup: Arcom Computer 87 080 253 309"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -9,16 +9,23 @@
     {
       "name": "AmNet",
       "start_year": 2000,
-      "start_disp": "by 2000"
+      "start_disp": "13 Apr 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2000,
-      "date_disp": "by 2000",
-      "precision": "by",
-      "details": "amnet.com.au online from 2000."
+      "date_disp": "13 Apr 2000",
+      "precision": "exact",
+      "details": "AMNET IT SERVICES PTY LTD ACN 092472350 registered 13 Apr 2000; ABN 38 092472350 active 13 Apr 2000; earliest website capture 13 Jun 2000.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=38092472350",
+          "label": "ABN Lookup: AMNET IT SERVICES PTY LTD \u2014 Registered 13 Apr 2000"
+        }
+      ]
     },
     {
       "kind": "death",

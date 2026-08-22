@@ -9,16 +9,23 @@
     {
       "name": "Acepia",
       "start_year": 1996,
-      "start_disp": "by 1996"
+      "start_disp": "19 Dec 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "by 1996",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1996)."
+      "date_disp": "19 Dec 1996",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 19 Dec 1996 (acepia.net.au); Usenet active 1997-98.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961219233132/http://www.acepia.net.au:80/",
+          "label": "Acepia (Wayback 19 Dec 1996)"
+        }
+      ]
     },
     {
       "kind": "death",

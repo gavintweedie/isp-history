@@ -9,7 +9,7 @@
     {
       "name": "Asia Connect",
       "start_year": 2001,
-      "start_disp": "by 2001"
+      "start_disp": "17 Apr 2001"
     }
   ],
   "aliases": [
@@ -19,9 +19,16 @@
     {
       "kind": "birth",
       "year": 2001,
-      "date_disp": "by 2001",
-      "precision": "by",
-      "details": "Last known alive by 2001 (Wayback capture)."
+      "date_disp": "17 Apr 2001",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 17 Apr 2001 (asiaconnect.com.au); Sydney ISP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010417002359/http://asiaconnect.com.au/",
+          "label": "Asia Connect (Wayback 17 Apr 2001)"
+        }
+      ]
     },
     {
       "kind": "death",

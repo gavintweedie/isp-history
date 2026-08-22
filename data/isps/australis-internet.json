@@ -9,16 +9,23 @@
     {
       "name": "Australis Internet",
       "start_year": 2000,
-      "start_disp": "by 2000"
+      "start_disp": "2 Mar 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2000,
-      "date_disp": "by 2000",
+      "date_disp": "2 Mar 2000",
       "precision": "by",
-      "details": "Online from 2000."
+      "details": "Earliest Wayback capture 2 Mar 2000 (australis.aunz.com); shared with Blaze via aunz.com group.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000302035735/http://australis.aunz.com/",
+          "label": "Australis Internet (Wayback 2 Mar 2000)"
+        }
+      ]
     },
     {
       "kind": "death",

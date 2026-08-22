@@ -9,16 +9,23 @@
     {
       "name": "AIT Communications",
       "start_year": 1999,
-      "start_disp": "by 1999"
+      "start_disp": "25 Jan 1999"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1999,
-      "date_disp": "by 1999",
+      "date_disp": "25 Jan 1999",
       "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1999)."
+      "details": "Earliest Wayback capture 25 Jan 1999 (aitnet.net); headline Monday January 25, 1999.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990125084537/http://aitnet.net/",
+          "label": "AIT Communications (Wayback 25 Jan 1999)"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Atnet",
-      "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_year": 1996,
+      "start_disp": "1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1997)."
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "approx",
+      "details": "ATNET Pty Ltd set up 1996 by Neil & Dianne Pentland (4 Handel Ave Worongary); IP block 203.32.216.0/24 allocated 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://sterlinglawqld.com/neil-andrew-pentland-found-not-guilty-of-murder-of-philip-carlyle/",
+          "label": "Atnet Pty Ltd set up 1996"
+        }
+      ]
     },
     {
       "kind": "death",

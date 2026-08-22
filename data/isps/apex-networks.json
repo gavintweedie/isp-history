@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Apex Networks",
-      "start_year": 2015,
-      "start_disp": "2015"
+      "start_year": 2005,
+      "start_disp": "13 Apr 2005"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2006,
-      "date_disp": "by Mar 2006",
-      "precision": "by",
-      "details": "Company registered (ASIC)."
+      "year": 2005,
+      "date_disp": "13 Apr 2005",
+      "precision": "exact",
+      "details": "APEXN PTY LTD ACN 113804569 registered 13 Apr 2005; business name Apex Networks 26 Jun 2006; founder Ryan Crouch.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/apexn-pty-ltd-113804569/",
+          "label": "APEXN PTY LTD ACN 113804569 \u2014 registered 13 Apr 2005"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -9,16 +9,23 @@
     {
       "name": "Access Only",
       "start_year": 2002,
-      "start_disp": "by 2002"
+      "start_disp": "19 Oct 2002"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2002,
-      "date_disp": "by 2002",
-      "precision": "by",
-      "details": "Prepaid dialup."
+      "date_disp": "19 Oct 2002",
+      "precision": "approx",
+      "details": "Earliest Wayback capture 19 Oct 2002 (accessonly.com.au); no earlier captures 1996-2002.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021019084954/http://www.accessonly.com.au/",
+          "label": "Access Only (Wayback 19 Oct 2002)"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Amisoft Internet",
-      "start_year": 2002,
-      "start_disp": "by 2002"
+      "start_year": 1997,
+      "start_disp": "6 Apr 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Earliest Wayback capture of ami.com.au Apr 1997."
+      "date_disp": "6 Apr 1997",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 6 Apr 1997 (ami.com.au); ISP operation late 1995-1996 via CodeLand BBS2WEB.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970406081220/http://www.ami.com.au:80/",
+          "label": "Amisoft (Wayback 6 Apr 1997)"
+        }
+      ]
     },
     {
       "kind": "death",

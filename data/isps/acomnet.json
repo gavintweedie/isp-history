@@ -9,16 +9,23 @@
     {
       "name": "AcomNet",
       "start_year": 2000,
-      "start_disp": "by 2000"
+      "start_disp": "17 Sep 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2000,
-      "date_disp": "by 2000",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 2000)."
+      "date_disp": "17 Sep 2000",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 17 Sep 2000 (acomnet.com.au); Hornsby NSW ISP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000917004800/http://www.acomnet.com.au:80/",
+          "label": "AcomNet (Wayback 17 Sep 2000)"
+        }
+      ]
     },
     {
       "kind": "death",

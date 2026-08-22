@@ -7,16 +7,25 @@
   "summary": "Brisbane community (not-for-profit) internet service provider, still active.",
   "names": [
     {
-      "name": "BrisNet"
+      "name": "BrisNet",
+      "start_year": 1996,
+      "start_disp": "30 Oct 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1995,
-      "date_disp": "by 1995",
+      "year": 1996,
+      "date_disp": "30 Oct 1996",
       "precision": "by",
-      "details": "Brisbane community ISP; earliest Wayback capture of brisnet.org.au."
+      "details": "Earliest Wayback capture 30 Oct 1996 (brisnet.org.au); last changed 26 Oct 1996; March 1996 minutes linked; community ISP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961030192625/http://www.brisnet.org.au:80/",
+          "label": "BrisNet (Wayback 30 Oct 1996)"
+        }
+      ]
     }
   ],
   "refs": [

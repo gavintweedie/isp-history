@@ -9,16 +9,23 @@
     {
       "name": "BOLDWeb",
       "start_year": 1997,
-      "start_disp": "by Sep 1997"
+      "start_disp": "Jun 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "by Sep 1997",
-      "precision": "by",
-      "details": "In SA peering community from Sep 1997."
+      "date_disp": "Jun 1997",
+      "precision": "approx",
+      "details": "About BOLD \u2014 Since Jun 1997 we have had total of about 30 minutes ...; Binary Logic Pty Ltd ACN 008092859; Ethernet to SAIX.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991009114346/http://www.bold.net.au/aboutus.htm",
+          "label": "Boldweb \u2014 Since Jun 1997"
+        }
+      ]
     },
     {
       "kind": "death",

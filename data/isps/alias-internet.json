@@ -9,16 +9,23 @@
     {
       "name": "Alias Internet",
       "start_year": 2001,
-      "start_disp": "by 2001"
+      "start_disp": "3 Aug 2001"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2001,
-      "date_disp": "by 2001",
-      "precision": "by",
-      "details": "Earliest Wayback capture of alias.net.au Aug 2001; WAIA WAIX-class member 2004."
+      "date_disp": "3 Aug 2001",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 3 Aug 2001 (alias.net.au); ASN AS18232 allocated 31 May 2002.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010803144312/http://www.alias.net.au:80/",
+          "label": "Alias Internet (Wayback 3 Aug 2001)"
+        }
+      ]
     },
     {
       "kind": "death",

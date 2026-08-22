@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Bayside Internet",
-      "start_year": 2004,
-      "start_disp": "c. 2004"
+      "start_year": 1997,
+      "start_disp": "14 Apr 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 1997,
+      "date_disp": "14 Apr 1997",
       "precision": "approx",
-      "details": "Dialup, ISDN, ADSL, VoIP."
+      "details": "Earliest Wayback capture 14 Apr 1997 (bayside.net.au); footer ACN 078668505 (Queensland Internet Services) incorporated 14 May 1997; ISDN link up.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970414083038/http://www.bayside.net.au:80/",
+          "label": "Bayside Internet (Wayback 14 Apr 1997)"
+        }
+      ]
     },
     {
       "kind": "death",

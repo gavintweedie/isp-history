@@ -9,16 +9,23 @@
     {
       "name": "AAA Computers",
       "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_disp": "3 Dec 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
+      "date_disp": "3 Dec 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1998)."
+      "details": "Earliest Wayback capture 3 Dec 1998 (aaanet.net.au); footer \u00a91996-1998, last modified 29 Sep 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981203035102/http://www.aaanet.net.au/",
+          "label": "AAA Computers (Wayback 3 Dec 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

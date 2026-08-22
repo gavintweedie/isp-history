@@ -16,9 +16,16 @@
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Dialup, hosting."
+      "date_disp": "6 Feb 1998",
+      "precision": "exact",
+      "details": "Dialup, hosting; earliest Wayback capture 6 Feb 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980206100211/http://axs.com.au/",
+          "label": "AXS (Wayback 6 Feb 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Bravo Internet",
-      "start_year": 2000,
-      "start_disp": "by 2000"
+      "start_year": 1997,
+      "start_disp": "29 Apr 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2000,
-      "date_disp": "by 2000",
-      "precision": "by",
-      "details": "Dialup/broadband ISP."
+      "year": 1997,
+      "date_disp": "29 Apr 1997",
+      "precision": "exact",
+      "details": "BRAVO INTERNET PTY LTD ACN 078354588 registered 29 Apr 1997.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.aubiz.net/company/bravo-internet-pty-ltd-078354588/",
+          "label": "Bravo Internet ACN 078354588 \u2014 29 Apr 1997"
+        }
+      ]
     },
     {
       "kind": "death",

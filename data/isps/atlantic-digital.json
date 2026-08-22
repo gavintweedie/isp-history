@@ -9,16 +9,23 @@
     {
       "name": "Atlantic Digital",
       "start_year": 2001,
-      "start_disp": "by 2001"
+      "start_disp": "17 Oct 2001"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2001,
-      "date_disp": "by 2001",
-      "precision": "by",
-      "details": "Last known alive by 2001 (Wayback capture)."
+      "date_disp": "17 Oct 2001",
+      "precision": "exact",
+      "details": "Business name ATLANTIC DIGITAL registered 17 Oct 2001 under RADTEK PTY LTD ACN 083304894 (incorporated 07 Jul 1998); domain capture 20 Jul 2001.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=55083304894",
+          "label": "ABN Lookup: RADTEK PTY LTD \u2014 Atlantic Digital 17 Oct 2001"
+        }
+      ]
     },
     {
       "kind": "death",

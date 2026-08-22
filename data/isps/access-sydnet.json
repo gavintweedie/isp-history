@@ -9,16 +9,23 @@
     {
       "name": "Access Sydnet",
       "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_disp": "9 Jan 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1998)."
+      "date_disp": "9 Jan 1998",
+      "precision": "exact",
+      "details": "Sydnet Group Pty Ltd; earliest Wayback capture 9 Jan 1998 (syd.net.au) showing merger with Systems7.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980109073726/http://syd.net.au:80/",
+          "label": "Access Sydnet (Wayback 9 Jan 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

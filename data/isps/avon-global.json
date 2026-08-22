@@ -9,16 +9,23 @@
     {
       "name": "Avon Global Communications",
       "start_year": 1996,
-      "start_disp": "by 1996"
+      "start_disp": "24 Oct 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "by 1996",
-      "precision": "by",
-      "details": "Earliest Wayback capture of avon.net.au Dec 1996; WAIA/TIO member from 1998."
+      "date_disp": "24 Oct 1996",
+      "precision": "approx",
+      "details": "Site counter since 24 Oct 1996; page \u00a91996 Avon Global Communications; TIO member 21 Jul 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961229103620/http://www.avon.net.au/",
+          "label": "Avon Global \u2014 counter since 24 Oct 1996"
+        }
+      ]
     },
     {
       "kind": "death",

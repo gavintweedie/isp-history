@@ -9,16 +9,23 @@
     {
       "name": "Ansonic",
       "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_disp": "29 Mar 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Regional provider."
+      "date_disp": "29 Mar 1997",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 29 Mar 1997 (ansonic.com.au); Warrnambool ISP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970329171333/http://www.ansonic.com.au:80/",
+          "label": "Ansonic (Wayback 29 Mar 1997)"
+        }
+      ]
     },
     {
       "kind": "death",

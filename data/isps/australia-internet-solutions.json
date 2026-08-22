@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Australia Internet Solutions",
-      "start_year": 1997,
-      "start_disp": "by Dec 1997"
+      "start_year": 1996,
+      "start_disp": "29 Nov 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by Dec 1997",
-      "precision": "by",
-      "details": "Online by Dec 1997 (ains.net.au)."
+      "year": 1996,
+      "date_disp": "29 Nov 1996",
+      "precision": "exact",
+      "details": "AUSTRALIA INTERNET SOLUTIONS PTY LTD ACN 076598582 registered 29 Nov 1996; Founded 1996.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=59076598582",
+          "label": "ABN Lookup: Australia Internet Solutions 59 076 598 582 \u2014 29 Nov 1996"
+        }
+      ]
     },
     {
       "kind": "death",

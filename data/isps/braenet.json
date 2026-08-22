@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Braenet",
-      "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_year": 1996,
+      "start_disp": "Dec 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Corporate ISP, national dialup POPs."
+      "year": 1996,
+      "date_disp": "Dec 1996",
+      "precision": "exact",
+      "details": "Braenet was founded Dec 1996 by Braemac Pty Ltd; Cisco Regional ISP status 1 Jul 1999.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://braenet.com.au/about.html",
+          "label": "Braenet \u2014 founded Dec 1996 by Braemac"
+        }
+      ]
     },
     {
       "kind": "death",

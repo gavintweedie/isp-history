@@ -16,9 +16,16 @@
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "by 1996",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1996)."
+      "date_disp": "23 Aug 1996",
+      "precision": "exact",
+      "details": "ACT Online premium dialup ISP (parent CyberOne Pty Ltd); ACN registration 23 Aug 1996.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961220000000/http://www.actonline.com.au/",
+          "label": "ACT Online (Wayback 20 Dec 1996)"
+        }
+      ]
     },
     {
       "kind": "death",

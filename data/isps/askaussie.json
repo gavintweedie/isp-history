@@ -9,16 +9,23 @@
     {
       "name": "AskAussie",
       "start_year": 2002,
-      "start_disp": "by 2002"
+      "start_disp": "4 Jun 2002"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2002,
-      "date_disp": "by 2002",
-      "precision": "by",
-      "details": "Listed in the Cynosure Australian ISP directory (2002 era)."
+      "date_disp": "4 Jun 2002",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 4 Jun 2002 (askaussie.com); later customers to Wild IT / Veridas.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020604024511/http://www.askaussie.com:80/",
+          "label": "AskAussie (Wayback 4 Jun 2002)"
+        }
+      ]
     },
     {
       "kind": "death",

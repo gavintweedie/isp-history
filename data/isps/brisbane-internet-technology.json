@@ -9,16 +9,23 @@
     {
       "name": "Brisbane Internet Technology",
       "start_year": 1996,
-      "start_disp": "by 1996"
+      "start_disp": "10 May 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "by 1996",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1996)."
+      "date_disp": "10 May 1996",
+      "precision": "approx",
+      "details": "Visitors since 10 May 1996 (counter); last modified 15 Dec 1996; \u00a91996 Brisbane Internet Technology Pty Ltd.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961222093104/http://bit.net.au:80/",
+          "label": "Brisbane Internet Technology (Wayback 22 Dec 1996) \u2014 since 10 May 1996"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Bondi Internet Services",
-      "start_year": 1999,
-      "start_disp": "c. 1999"
+      "start_year": 2000,
+      "start_disp": "21 Aug 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "c. 1999",
-      "precision": "approx",
-      "details": "Dialup 56k, web hosting."
+      "year": 2000,
+      "date_disp": "21 Aug 2000",
+      "precision": "by",
+      "details": "Earliest Wayback capture 21 Aug 2000 (bondinet.com.au); footer \u00a92000.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000821000000/http://www.bondinet.com.au/",
+          "label": "Bondi Internet Services (Wayback 21 Aug 2000)"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -9,16 +9,23 @@
     {
       "name": "Ambience Internet",
       "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_disp": "21 Jan 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1998)."
+      "date_disp": "21 Jan 1998",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 21 Jan 1998 (ambience.com.au); Brisbane/Cairns/Townsville ISP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980121130722/http://ambience.com.au:80/",
+          "label": "Ambience Internet (Wayback 21 Jan 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

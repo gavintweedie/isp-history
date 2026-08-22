@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Atlantic Internet",
-      "start_year": 1999,
-      "start_disp": "by 1999"
+      "start_year": 2000,
+      "start_disp": "9 Mar 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "by 1999",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1999)."
+      "year": 2000,
+      "date_disp": "9 Mar 2000",
+      "precision": "exact",
+      "details": "Business name ATLANTIC INTERNET registered 09 Mar 2000 under RADTEK PTY LTD ACN 083304894; informal operation by 1999.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=55083304894",
+          "label": "ABN Lookup: RADTEK \u2014 Atlantic Internet 09 Mar 2000"
+        }
+      ]
     },
     {
       "kind": "death",

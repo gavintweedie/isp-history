@@ -9,16 +9,23 @@
     {
       "name": "Barrel Rider",
       "start_year": 1999,
-      "start_disp": "by Apr 1999"
+      "start_disp": "29 Apr 1999"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1999,
-      "date_disp": "by Apr 1999",
+      "date_disp": "29 Apr 1999",
       "precision": "by",
-      "details": "Online from Apr 1999."
+      "details": "Earliest Wayback capture 29 Apr 1999 (barrelrider.net.au).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990429085308/http://www.barrelrider.net.au:80/",
+          "label": "Barrel Rider (Wayback 29 Apr 1999)"
+        }
+      ]
     },
     {
       "kind": "death",

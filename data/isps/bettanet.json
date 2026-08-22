@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "BettaNet",
-      "start_year": 2001,
-      "start_disp": "by 2001"
+      "start_year": 1998,
+      "start_disp": "6 Dec 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
+      "date_disp": "6 Dec 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture of bettanet.net.au Dec 1998."
+      "details": "Earliest Wayback capture 6 Dec 1998 (bettanet.net.au); Glenelg SA ISP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981206161120/http://www.bettanet.net.au/",
+          "label": "Bettanet (Wayback 6 Dec 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

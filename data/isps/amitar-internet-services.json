@@ -9,16 +9,23 @@
     {
       "name": "Amitar Internet Services",
       "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_disp": "12 Feb 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Dialup, web hosting, web design."
+      "date_disp": "12 Feb 1998",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 12 Feb 1998 (amitar.com.au); Usenet active Jun-Sep 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980212045003/http://www.amitar.com.au/",
+          "label": "Amitar (Wayback 12 Feb 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Audiophiles Paradise",
-      "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_year": 1997,
+      "start_disp": "10 Mar 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1998)."
+      "year": 1997,
+      "date_disp": "10 Mar 1997",
+      "precision": "approx",
+      "details": "Counter Since 10 Mar 1997 (vds.net.au); earliest capture 11 Jan 1998; Video Data Service / Audiophiles Paradise.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980111085104/http://vds.net.au/",
+          "label": "Audiophiles Paradise (Wayback 11 Jan 1998) \u2014 Since 10 Mar 1997"
+        }
+      ]
     },
     {
       "kind": "death",
