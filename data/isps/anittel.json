@@ -26,6 +26,20 @@
       "date_disp": "2015",
       "precision": "exact",
       "details": "IT-services business sold to Inabox (completed ~2015); 5G Networks bought Anittel from Inabox Aug 2018."
+    },
+    {
+      "kind": "note",
+      "year": 2010,
+      "date_disp": "1 Dec 2010",
+      "precision": "exact",
+      "details": "Listed shell Hostech Limited (ASX:HTC) renamed Anittel Group Limited 1 Dec 2010, giving Anittel its ASX listing (ASX:AYG).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.investogain.com.au/company/hostech-limited",
+          "label": "InvestoGain: Hostech Limited \u2192 Anittel Group Limited, 1 Dec 2010"
+        }
+      ]
     }
   ],
   "refs": [

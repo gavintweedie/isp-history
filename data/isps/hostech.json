@@ -25,7 +25,14 @@
       "year": 2010,
       "date_disp": "Dec 2010",
       "precision": "exact",
-      "details": "Group renamed Anittel Group Limited."
+      "details": "Group renamed Anittel Group Limited.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.investogain.com.au/company/hostech-limited",
+          "label": "InvestoGain: Hostech Limited (ASX:HTC) \u2014 renamed Anittel Group Limited 1 Dec 2010"
+        }
+      ]
     }
   ],
   "refs": [

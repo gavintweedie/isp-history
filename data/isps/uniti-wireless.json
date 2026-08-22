@@ -19,6 +19,20 @@
       "date_disp": "2014",
       "precision": "exact",
       "details": "Founded in Adelaide as Uniti Wireless (fixed wireless)."
+    },
+    {
+      "kind": "note",
+      "year": 2022,
+      "date_disp": "5 Aug 2022",
+      "precision": "exact",
+      "details": "ASX-listed (UWL) from 13 Feb 2019 (as Uniti Wireless, renamed Uniti Group 25 Sep 2019); taken private 5 Aug 2022 via scheme of arrangement (Morrison & Co-led consortium, $5.00/share).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/uniti-group-limited/",
+          "label": "deListed Australia: Uniti Group Limited (ASX:UWL) \u2014 delisted 5 Aug 2022"
+        }
+      ]
     }
   ],
   "refs": [

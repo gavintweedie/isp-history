@@ -19,6 +19,20 @@
       "date_disp": "2008",
       "precision": "exact",
       "details": "Vocus Communications founded."
+    },
+    {
+      "kind": "note",
+      "year": 2021,
+      "date_disp": "23 Jul 2021",
+      "precision": "exact",
+      "details": "ASX-listed (VOC) from 1999 (as First Wine Fund, renamed Vocus Communications 2010, Vocus Group 2017); taken private 23 Jul 2021 via scheme of arrangement (Macquarie Infrastructure/PSP Investments consortium, $5.50/share).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/vocus-group-limited/",
+          "label": "deListed Australia: Vocus Group Limited (ASX:VOC) \u2014 delisted 23 Jul 2021"
+        }
+      ]
     }
   ]
 }

@@ -18,7 +18,14 @@
       "year": 1996,
       "date_disp": "1996",
       "precision": "exact",
-      "details": "Content development, virtual serving, internet access."
+      "details": "Content development, virtual serving, internet access.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/harvestroad-limited/",
+          "label": "deListed Australia: HarvestRoad Limited (ASX:HRD) \u2014 listed 7 Sep 1999"
+        }
+      ]
     },
     {
       "kind": "death",

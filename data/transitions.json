@@ -34,7 +34,14 @@
       "date_disp": "2020",
       "notes": "TPG merged with Vodafone Australia to form TPG Telecom.",
       "from": "tpg-internet",
-      "to": "tpg-telecom"
+      "to": "tpg-telecom",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02249175",
+          "label": "ASX: \"Scheme becomes effective\" (TPM/TPG-Vodafone merger, 29 Jun 2020)"
+        }
+      ]
     },
     {
       "type": "merger",
@@ -434,10 +441,22 @@
       "type": "acquisition",
       "arm_label": "retail/internet assets",
       "year": 2005,
-      "date_disp": "2005",
-      "notes": "Made iiNet third-largest ISP; >620,000 customers.",
+      "date_disp": "15-28 Feb 2005",
+      "notes": "Made iiNet third-largest ISP; >620,000 customers. ASX-announced 15 Feb 2005, completed 28 Feb 2005.",
       "from": "ozemail",
-      "to": "iinet"
+      "to": "iinet",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=00498363",
+          "label": "ASX: \"IINet to Acquire OzEmail\" (iiNet, 15 Feb 2005)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=00502586",
+          "label": "ASX: \"Completes Acquisition of OzEmail\" (iiNet, 28 Feb 2005)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -464,7 +483,14 @@
       "date_disp": "2000",
       "notes": "Telecom New Zealand acquired AAPT (staged takeover; delisted).",
       "from": "telecom-nz",
-      "to": "aapt"
+      "to": "aapt",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/aapt-limited",
+          "label": "deListed Australia: AAPT Limited (ASX:AAP) \u2014 delisted 9 Nov 2000 (Telecom NZ takeover)"
+        }
+      ]
     },
     {
       "type": "split",
@@ -536,7 +562,14 @@
       "date_disp": "Jul 2021",
       "notes": "Vonex acquired MyNetFone's direct small-business and residential business for $31M.",
       "from": "mynetfone",
-      "to": "vonex"
+      "to": "vonex",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://vonex.com.au/mnf-group-closes-31m-direct-biz-sale-to-vonex",
+          "label": "Vonex: \"MNF Group closes $31m direct biz sale to Vonex\" (Jul 2021)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3101,7 +3134,14 @@
       "date_disp": "May 2007",
       "notes": "PowerTel absorbed into AAPT (Telecom NZ), A$357m incl. debt.",
       "from": "powertel",
-      "to": "aapt"
+      "to": "aapt",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=00723080",
+          "label": "ASX: \"Removal from Official List\" (PWT, 22 May 2007)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3137,7 +3177,14 @@
       "date_disp": "Nov 2020",
       "notes": "Uniti acquired OptiComm for $532m; OptiComm retained as the wholesale/infrastructure market brand and the LBNCo brand was retired.",
       "from": "opticomm",
-      "to": "uniti-wireless"
+      "to": "uniti-wireless",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/opticomm-ltd/",
+          "label": "deListed Australia: OptiComm Ltd (ASX:OPC) \u2014 delisted 23 Nov 2020 (Uniti Group scheme of arrangement)"
+        }
+      ]
     },
     {
       "type": "split",

@@ -25,7 +25,14 @@
       "year": 2001,
       "date_disp": "May 2001",
       "precision": "exact",
-      "details": "Collapsed; administrators appointed 29 May 2001."
+      "details": "Collapsed; administrators appointed 29 May 2001.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=header&issuerId=3831&documentNumber=236086&documentDate=2001-05-30",
+          "label": "ASX: \"Appt of Administrator/Renounceable rights issue withdrawn\" (ONE, 30 May 2001)"
+        }
+      ]
     }
   ],
   "refs": [
