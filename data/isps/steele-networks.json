@@ -1,0 +1,33 @@
+{
+  "name": "Steele Networks",
+  "slug": "steele-networks",
+  "birthplace": "Forbes, NSW",
+  "status": "active",
+  "website": "https://www.stech.com.au",
+  "summary": "Regional wireless and NBN ISP serving Forbes and surrounds via own wireless network.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Steele Networks",
+      "start_year": 2019,
+      "start_disp": "13 May 2019"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2019,
+      "date_disp": "13 May 2019",
+      "precision": "exact",
+      "details": "STEELE TECHNOLOGY PTY LTD ACN 633412718 ABN 54 633412718 registered 13 May 2019.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=54633412718",
+          "label": "ABN Lookup: Steele Technology 54 633412718"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

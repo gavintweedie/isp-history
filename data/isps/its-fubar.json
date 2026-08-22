@@ -1,0 +1,33 @@
+{
+  "name": "IT'S FUBAR Technology Services",
+  "slug": "its-fubar",
+  "birthplace": "Armstrong Creek, VIC",
+  "status": "active",
+  "website": "https://www.itsfubar.com.au",
+  "summary": "Geelong family-owned ISP offering NBN, Opticomm, fixed wireless and VoIP Australia-wide.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "IT'S FUBAR Technology Services",
+      "start_year": 2012,
+      "start_disp": "2012"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2012,
+      "date_disp": "2012",
+      "precision": "approx",
+      "details": "Founded as sole-trader side gig 2012; Pty Ltd IT'S FUBAR PTY LTD ACN 665189748 registered 23 Jan 2023.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.itsfubar.com.au",
+          "label": "IT'S FUBAR Technology Services"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

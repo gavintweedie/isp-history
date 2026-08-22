@@ -1,0 +1,33 @@
+{
+  "name": "Puddlenet",
+  "slug": "puddlenet",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "http://www.clearstream.com.au",
+  "summary": "Brisbane wireless ISP operating as Puddlenet/Clearstream.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Puddlenet",
+      "start_year": 2013,
+      "start_disp": "2013"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2013,
+      "date_disp": "2013",
+      "precision": "approx",
+      "details": "Puddlenet offering wireless broadband in Brisbane.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.clearstream.com.au",
+          "label": "Puddlenet"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

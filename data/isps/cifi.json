@@ -1,0 +1,33 @@
+{
+  "name": "CiFi",
+  "slug": "cifi",
+  "birthplace": "Christmas Island",
+  "status": "active",
+  "website": "https://cifi.com.au",
+  "summary": "Niche fibre ISP providing Christmas Island Fibre Internet to residents on Christmas Island, partnered with Vocus.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "CiFi",
+      "start_year": 2019,
+      "start_disp": "20 Nov 2019"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2019,
+      "date_disp": "20 Nov 2019",
+      "precision": "exact",
+      "details": "CIFI PTY LTD ACN 637574317 ABN 93 637574317 registered 20 Nov 2019; ASN AS140065 allocated 27 Jan 2020.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=93637574317",
+          "label": "ABN Lookup: CiFi 93 637 574 317"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

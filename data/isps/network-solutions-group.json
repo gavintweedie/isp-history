@@ -1,0 +1,33 @@
+{
+  "name": "Network Solutions Group",
+  "slug": "network-solutions-group",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "https://www.netsg.co",
+  "summary": "Brisbane managed ISP and network solutions provider.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Network Solutions Group",
+      "start_year": 2000,
+      "start_disp": "2000"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "approx",
+      "details": "Network Solutions Group offering managed connectivity.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.netsg.co",
+          "label": "Network Solutions Group"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

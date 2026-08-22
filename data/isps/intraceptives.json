@@ -1,0 +1,33 @@
+{
+  "name": "Intraceptives",
+  "slug": "intraceptives",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "http://www.intraceptives.com.au",
+  "summary": "Managed IT and ISP services provider.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Intraceptives",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "INTRACEPTIVES PTY LTD founded 1997; managed IT and connectivity.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.intraceptives.com.au",
+          "label": "Intraceptives"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

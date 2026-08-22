@@ -1,0 +1,33 @@
+{
+  "name": "Telair",
+  "slug": "telair-au",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.telair.com.au",
+  "summary": "Business ISP offering Small Business nbn, Enterprise Ethernet and wireless internet; 20 years Australian support.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Telair",
+      "start_year": 2006,
+      "start_disp": "2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2006,
+      "date_disp": "2006",
+      "precision": "exact",
+      "details": "Telair Pty Ltd ABN 92 119713745; footer Copyright 2006-2026; 20 years banner.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.telair.com.au",
+          "label": "Telair"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

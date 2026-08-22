@@ -1,0 +1,33 @@
+{
+  "name": "NetVault",
+  "slug": "netvault",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "http://www.netvault.net.au",
+  "summary": "Sydney-based ISP and vault/hosting provider.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "NetVault",
+      "start_year": 2005,
+      "start_disp": "2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "approx",
+      "details": "NetVault offering NBN and vault services.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.netvault.net.au",
+          "label": "NetVault"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

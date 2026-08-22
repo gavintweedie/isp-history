@@ -1,0 +1,33 @@
+{
+  "name": "Multiline",
+  "slug": "multiline",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "http://www.multiline.au",
+  "summary": "Wholesale and retail ISP offering multiline voice and data services.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Multiline",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "MULTILINE PTY LTD offering voice and data since 1994.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.multiline.au",
+          "label": "Multiline"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

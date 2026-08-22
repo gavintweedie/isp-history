@@ -1,0 +1,33 @@
+{
+  "name": "Miniport",
+  "slug": "miniport",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "http://miniport.com.au",
+  "summary": "Perth ISP offering NBN and business connectivity.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Miniport",
+      "start_year": 2013,
+      "start_disp": "2013"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2013,
+      "date_disp": "2013",
+      "precision": "approx",
+      "details": "MINIPORT PTY LTD offering NBN services in Perth.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://miniport.com.au",
+          "label": "Miniport"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "NET360",
+  "slug": "net360",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "https://net360.com.au",
+  "summary": "Brisbane ISP offering NBN, fibre and managed network services.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "NET360",
+      "start_year": 2015,
+      "start_disp": "2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "approx",
+      "details": "NET360 offering business NBN and managed services.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://net360.com.au",
+          "label": "NET360"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

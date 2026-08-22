@@ -1,0 +1,33 @@
+{
+  "name": "Occom",
+  "slug": "occom",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.occom.com.au",
+  "summary": "Sydney NBN ISP offering residential and business broadband.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Occom",
+      "start_year": 2016,
+      "start_disp": "2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "2016",
+      "precision": "exact",
+      "details": "OCCOM offering NBN services since 2016.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.occom.com.au",
+          "label": "Occom"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

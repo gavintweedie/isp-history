@@ -1,0 +1,33 @@
+{
+  "name": "Infinite Networks",
+  "slug": "infinite-networks",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "http://www.infinite.net.au",
+  "summary": "Sydney-based ISP offering NBN connectivity and enterprise network services.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Infinite Networks",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "approx",
+      "details": "Active wholesale/retail ISP with NBN services; PeeringDB Cable/DSL/ISP.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.infinite.net.au",
+          "label": "Infinite Networks"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

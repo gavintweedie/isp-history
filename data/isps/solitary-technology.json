@@ -1,0 +1,33 @@
+{
+  "name": "Solitary Technology",
+  "slug": "solitary-technology",
+  "birthplace": "Coffs Harbour, NSW",
+  "status": "active",
+  "website": "https://solitarytech.com.au",
+  "summary": "Coffs Harbour local nbn provider offering fast local reliable internet.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Solitary Technology",
+      "start_year": 2021,
+      "start_disp": "2021"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2021,
+      "date_disp": "2021",
+      "precision": "exact",
+      "details": "Solitary Technology founded 2021 in Coffs Harbour; ASN AS153836 allocated 28 Apr 2025.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://solitarytech.com.au",
+          "label": "Solitary Technology"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

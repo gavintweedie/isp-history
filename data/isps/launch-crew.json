@@ -1,0 +1,33 @@
+{
+  "name": "Launch Crew",
+  "slug": "launch-crew",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://twofatmonkeys.com",
+  "summary": "Creative agency and ISP services via Two Fat Monkeys.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Launch Crew",
+      "start_year": 2019,
+      "start_disp": "2019"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2019,
+      "date_disp": "2019",
+      "precision": "approx",
+      "details": "Launch Crew / Two Fat Monkeys offering connectivity and creative services.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://twofatmonkeys.com",
+          "label": "Two Fat Monkeys"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

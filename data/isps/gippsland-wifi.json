@@ -1,0 +1,33 @@
+{
+  "name": "Gippsland Wifi",
+  "slug": "gippsland-wifi",
+  "birthplace": "Sale, VIC",
+  "status": "active",
+  "website": "https://gippswifi.com.au",
+  "summary": "Gippsland fixed-wireless ISP serving Sale and surrounds with residential and business unlimited plans.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Gippsland Wifi",
+      "start_year": 2015,
+      "start_disp": "18 Aug 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "18 Aug 2015",
+      "precision": "exact",
+      "details": "GIPPSLAND WIFI PTY LTD ACN 607708476 ABN 17 607708476 registered 18 Aug 2015.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=17607708476",
+          "label": "ABN Lookup: Gippsland Wifi 17 607708476"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Wi-Sky",
+  "slug": "wi-sky",
+  "birthplace": "Gundagai, NSW",
+  "status": "active",
+  "website": "https://wi-sky.com.au",
+  "summary": "Rural fixed wireless retail ISP building own broadband network across paddocks and ridgelines in Riverina.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Wi-Sky",
+      "start_year": 2015,
+      "start_disp": "2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "approx",
+      "details": "Wi-Sky (NSW) Pty Ltd building rural networks ~2015-2016; 370+ poles, 8 LGAs.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://wi-sky.com.au",
+          "label": "Wi-Sky"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

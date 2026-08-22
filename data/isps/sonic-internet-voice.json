@@ -1,0 +1,33 @@
+{
+  "name": "Sonic Internet & Voice",
+  "slug": "sonic-internet-voice",
+  "birthplace": "Erina, NSW",
+  "status": "active",
+  "website": "https://sonicnet.net.au",
+  "summary": "Central Coast ISP offering Home & Business nbn, SUPA fibre, mobile and voice services.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Sonic Internet & Voice",
+      "start_year": 2011,
+      "start_disp": "2011"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2011,
+      "date_disp": "2011",
+      "precision": "exact",
+      "details": "Coastal IT Solutions t/a Sonic Internet & Voice established 2011 as Oncue Web Solutions; restructure 2019.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://sonicnet.net.au",
+          "label": "Sonic Internet & Voice"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Next Telecom",
+  "slug": "next-telecom",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.nexttelecom.com.au",
+  "summary": "Sydney-based business ISP offering NBN, fibre and voice services.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Next Telecom",
+      "start_year": 2008,
+      "start_disp": "2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "NEXT TELECOM offering business connectivity since 2008.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.nexttelecom.com.au",
+          "label": "Next Telecom"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

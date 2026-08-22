@@ -1,0 +1,33 @@
+{
+  "name": "Rapid Internet",
+  "slug": "rapid-internet",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "https://www.rapidinternet.com.au",
+  "summary": "Brisbane ISP offering rapid NBN and wireless broadband.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Rapid Internet",
+      "start_year": 2015,
+      "start_disp": "2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "approx",
+      "details": "Rapid Internet offering NBN services.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.rapidinternet.com.au",
+          "label": "Rapid Internet"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

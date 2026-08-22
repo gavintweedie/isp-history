@@ -1,0 +1,33 @@
+{
+  "name": "Nehos Communications",
+  "slug": "nehos-communications",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "https://www.nehos.net",
+  "summary": "Perth ISP offering NBN and business communications.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Nehos Communications",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "NEHOS COMMUNICATIONS offering connectivity since 2003.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.nehos.net",
+          "label": "Nehos Communications"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

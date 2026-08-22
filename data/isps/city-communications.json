@@ -1,0 +1,33 @@
+{
+  "name": "City Communications",
+  "slug": "city-communications",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://citycomms.com.au",
+  "summary": "Niche Sydney-based ISP offering NBN/Opticomm/fibre and Layer2/3 data centre services across Asia Pacific.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "City Communications",
+      "start_year": 2014,
+      "start_disp": "25 Mar 2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "25 Mar 2014",
+      "precision": "exact",
+      "details": "CITY COMMUNICATIONS PTY LTD ACN 168731913 ABN 48 168731913 registered 25 Mar 2014; AS135555.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=48168731913",
+          "label": "ABN Lookup: City Communications 48 168 731 913"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

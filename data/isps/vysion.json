@@ -1,0 +1,33 @@
+{
+  "name": "Vysion",
+  "slug": "vysion",
+  "birthplace": "Stratford, VIC",
+  "status": "active",
+  "website": "https://vysion.com.au",
+  "summary": "Gippsland/Stratford fixed wireless WISP and nbn reseller with exclusive network in Stratford.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Vysion",
+      "start_year": 2025,
+      "start_disp": "2025"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2025,
+      "date_disp": "2025",
+      "precision": "exact",
+      "details": "Vysion Group Pty Ltd; ASN AS153613 allocated 18 Feb 2025; private fixed wireless network.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://vysion.com.au",
+          "label": "Vysion"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

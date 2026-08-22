@@ -1,0 +1,33 @@
+{
+  "name": "Belong",
+  "slug": "belong",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.belong.com.au",
+  "summary": "Telstra-owned budget retail ISP offering NBN broadband and mobile plans; launched Oct 2013.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Belong",
+      "start_year": 2013,
+      "start_disp": "Oct 2013"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2013,
+      "date_disp": "Oct 2013",
+      "precision": "approx",
+      "details": "Telstra announced Belong as low-cost ADSL2+ ISP Oct 2013 (70GB/250GB plans); wholly owned Telstra brand.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/telstra-launches-low-cost-isp-361446",
+          "label": "iTnews: Telstra launches low-cost ISP Belong (Oct 2013)"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

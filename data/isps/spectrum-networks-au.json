@@ -1,0 +1,33 @@
+{
+  "name": "Spectrum Networks",
+  "slug": "spectrum-networks-au",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.spectrum.com.au",
+  "summary": "Business-only ISP offering NBN Enterprise Ethernet, Fast Fibre and dark fibre since 1991.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Spectrum Networks",
+      "start_year": 1991,
+      "start_disp": "1991"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1991,
+      "date_disp": "1991",
+      "precision": "exact",
+      "details": "Originally founded as Spectrum Consulting in 1991; rebranded Spectrum Networks Pty Ltd ACN 090112913 25 Oct 1999.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.spectrum.com.au/about.html",
+          "label": "Spectrum Networks \u2014 since 1991"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

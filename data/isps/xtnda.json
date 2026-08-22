@@ -1,0 +1,33 @@
+{
+  "name": "Xtnda",
+  "slug": "xtnda",
+  "birthplace": "Geraldton, WA",
+  "status": "active",
+  "website": "https://xtnda.net",
+  "summary": "Geraldton regional ISP delivering unlimited internet to regional and remote communities.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Xtnda",
+      "start_year": 2017,
+      "start_disp": "2017"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "NDB ENTERPRISES PTY LTD AS138502; ABN 59 919107015; active at least 2017.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://xtnda.net",
+          "label": "Xtnda"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

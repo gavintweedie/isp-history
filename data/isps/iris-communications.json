@@ -1,0 +1,33 @@
+{
+  "name": "Iris Communications",
+  "slug": "iris-communications",
+  "birthplace": "Eight Mile Plains, QLD",
+  "status": "active",
+  "website": "https://iriscommunications.net.au",
+  "summary": "Brisbane commercial ISP providing business internet, private WAN, voice and cloud connectivity.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Iris Communications",
+      "start_year": 2017,
+      "start_disp": "22 Aug 2017"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2017,
+      "date_disp": "22 Aug 2017",
+      "precision": "exact",
+      "details": "IRIS COMMUNICATIONS PTY LTD ACN 621226168 ABN 33 621226168 registered 22 Aug 2017.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=33621226168",
+          "label": "ABN Lookup: Iris Communications 33 621226168"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

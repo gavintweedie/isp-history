@@ -1,0 +1,33 @@
+{
+  "name": "BitWave Networks",
+  "slug": "bitwave-networks",
+  "birthplace": "Parkes, NSW",
+  "status": "active",
+  "website": "https://www.bitwave.com.au",
+  "summary": "Regional fixed wireless ISP providing broadband via owned wireless network in Parkes/Forbes/Central West NSW.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "BitWave Networks",
+      "start_year": 2014,
+      "start_disp": "23 Oct 2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "23 Oct 2014",
+      "precision": "exact",
+      "details": "BITWAVE NETWORKS PTY LTD ACN 602494931 ABN 31 602494931 Registered 23 Oct 2014; licensed carrier.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=31602494931",
+          "label": "ABN Lookup: BitWave Networks 31 602494931"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

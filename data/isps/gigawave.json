@@ -1,0 +1,33 @@
+{
+  "name": "Gigawave",
+  "slug": "gigawave",
+  "birthplace": "Neerim South, VIC",
+  "status": "active",
+  "website": "https://gigawave.com.au",
+  "summary": "West Gippsland fixed-wireless and fibre ISP for residential and business customers in Warragul, Drouin and surrounds.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Gigawave",
+      "start_year": 2018,
+      "start_disp": "14 Apr 2018"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2018,
+      "date_disp": "14 Apr 2018",
+      "precision": "exact",
+      "details": "ABN 36 625 580 332 registered 14 Apr 2018; business name Gigawave Communications from 02 Apr 2019; AS140994 allocated 2020-08-12.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=36625580332",
+          "label": "ABN Lookup: Gigawave 36 625 580 332"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

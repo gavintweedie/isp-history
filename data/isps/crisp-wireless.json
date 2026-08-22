@@ -1,0 +1,33 @@
+{
+  "name": "Crisp Wireless",
+  "slug": "crisp-wireless",
+  "birthplace": "Narrogin, WA",
+  "status": "active",
+  "website": "https://www.crispwireless.com.au",
+  "summary": "Regional Western Australia fixed wireless and NBN ISP based in Narrogin serving homes, farms and businesses across regional WA.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Crisp Wireless",
+      "start_year": 2016,
+      "start_disp": "12 Oct 2016"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2016,
+      "date_disp": "12 Oct 2016",
+      "precision": "exact",
+      "details": "CRISP WIRELESS PTY LTD ACN 615297491 ABN 46 615297491 registered 12 Oct 2016; licensed carrier 18 Nov 2019.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=46615297491",
+          "label": "ABN Lookup: Crisp Wireless 46 615297491"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

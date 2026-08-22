@@ -1,0 +1,33 @@
+{
+  "name": "Zero Point Networks",
+  "slug": "zero-point-networks",
+  "birthplace": "Gosnells, WA",
+  "status": "active",
+  "website": "https://zeropointnetworks.com",
+  "summary": "Perth business ISP and managed network provider offering internet, Wi-Fi, voice and failover.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Zero Point Networks",
+      "start_year": 2014,
+      "start_disp": "1 Feb 2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "1 Feb 2014",
+      "precision": "exact",
+      "details": "Zero Point Networks Pty Ltd ACN 167827947 ABN 30 167827947 registered 01 Feb 2014; ASN AS153336 allocated 17 Sep 2024.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=30167827947",
+          "label": "ABN Lookup: Zero Point Networks 30 167827947"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

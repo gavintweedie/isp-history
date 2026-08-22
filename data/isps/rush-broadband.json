@@ -1,0 +1,33 @@
+{
+  "name": "Rush Broadband",
+  "slug": "rush-broadband",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.rushbroadband.com.au",
+  "summary": "Sydney MDU/apartment broadband ISP on Gigafy wholesale network.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Rush Broadband",
+      "start_year": 2024,
+      "start_disp": "13 May 2024"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2024,
+      "date_disp": "13 May 2024",
+      "precision": "exact",
+      "details": "Myport Pty Ltd t/as Rush Broadband; AS152855 allocated 13 May 2024; operates on Gigafy wholesale network.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.rushbroadband.com.au",
+          "label": "Rush Broadband"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

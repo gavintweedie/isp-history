@@ -1,0 +1,33 @@
+{
+  "name": "NETRO",
+  "slug": "netro",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "http://www.netro.com.au",
+  "summary": "Sydney ISP and web hosting provider.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "NETRO",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "NETRO offering internet and hosting since 1994.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.netro.com.au",
+          "label": "NETRO"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

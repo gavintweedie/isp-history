@@ -1,0 +1,33 @@
+{
+  "name": "URL Networks",
+  "slug": "url-networks-au",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.url.net.au",
+  "summary": "Melbourne wholesale/retail telco offering nbn internet, Enterprise Fibre and cloud PBX.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "URL Networks",
+      "start_year": 2007,
+      "start_disp": "2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2007,
+      "date_disp": "2007",
+      "precision": "exact",
+      "details": "ABN 14 122756138 registered 01 Jan 2007; ACN 122756138 20 Nov 2006; ASN AS56087 allocated 11 Feb 2011.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=14122756138",
+          "label": "ABN Lookup: URL Networks 14 122756138"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}
