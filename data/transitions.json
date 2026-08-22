@@ -3394,6 +3394,42 @@
           "year": 2010
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2002,
+      "date_disp": "by 2 Aug 2002",
+      "from": "netstra",
+      "to": "hotkey",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020802080228/http://www.netstra.com.au/",
+          "label": "Netstra \u2192 Hotkey Internet Services migration notice (Wayback, 2 Aug 2002)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 1999,
+      "date_disp": "16 Aug 1999",
+      "notes": "AAPT acquired AT&T EasyLink Services Australia (B2B e-commerce/EDI); rebranded AAPT@commerce, integrated with connect.com.au.",
+      "from": "att-easylink",
+      "to": "aapt",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.telecompaper.com/news/aapt-acquires-at-t-easylink-services-australia--200068",
+          "label": "Telecompaper: AAPT Acquires AT&T EasyLink Services Australia (16 Aug 1999)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www2.computerworld.com.au/article/105904/aapt_buys_t_easylink_service/",
+          "label": "Computerworld: AAPT buys AT&T EasyLink Service"
+        }
+      ]
     }
   ]
 }
