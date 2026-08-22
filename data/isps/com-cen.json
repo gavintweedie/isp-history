@@ -18,7 +18,14 @@
       "year": 1996,
       "date_disp": "c. 1996",
       "precision": "approx",
-      "details": "Dialup/ISDN/permanent connections, virtual hosting."
+      "details": "Dialup/ISDN/permanent connections, virtual hosting.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970102082714/http://www.comcen.com.au/",
+          "label": "Com-Cen (Wayback 2 Jan 1997) \u2014 predates existing Jul 1997 ref"
+        }
+      ]
     },
     {
       "kind": "death",

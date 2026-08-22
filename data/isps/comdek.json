@@ -8,24 +8,31 @@
   "names": [
     {
       "name": "Comdek",
-      "start_year": 2003,
-      "start_disp": "by 2003"
+      "start_year": 1993,
+      "start_disp": "4 May 1993"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2003,
-      "date_disp": "by 2003",
-      "precision": "by",
-      "details": "Computer sales, ADSL, satellite."
+      "year": 1993,
+      "date_disp": "4 May 1993",
+      "precision": "exact",
+      "details": "COMDEK COMPUTERS (W.A.) PTY LTD ACN 059950337 registered 04 May 1993; renamed Comdek Limited 18 Apr 2002; Comdek Connect BN from 6 Mar 2001 (connectivity arm).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=59950337",
+          "label": "ABN History: Comdek Limited ACN 059950337"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2006,
       "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Administration 7 Mar 2006, receiver-manager 14 Mar 2006; renamed Resource Generation Limited Sep 2008. Comdek Connect BN cancelled 12 Apr 2004."
     }
   ]
 }

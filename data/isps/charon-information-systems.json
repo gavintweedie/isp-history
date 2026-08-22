@@ -8,8 +8,8 @@
   "names": [
     {
       "name": "Charon Information Systems",
-      "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_year": 1996,
+      "start_disp": "by Dec 1996"
     }
   ],
   "aliases": [
@@ -18,10 +18,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1997",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
       "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1997)."
+      "details": "charon.net.au captured 5 Jan 1997 with Last modified 22 Dec 1996, \u00a91996; 33.6k modem upgrade announced 24 Dec 1996.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970105024220/http://charon.net.au/",
+          "label": "Charon (Wayback 5 Jan 1997)"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -9,7 +9,7 @@
     {
       "name": "iiTel",
       "start_year": 2000,
-      "start_disp": "by 2000"
+      "start_disp": "May 2000"
     },
     {
       "name": "Chime Communications",
@@ -20,9 +20,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "by 1999",
-      "precision": "by"
+      "year": 2000,
+      "date_disp": "May 2000",
+      "precision": "approx",
+      "details": "iiNet renamed entity Iitel Pty Ltd 02 May 2000 (as new wholesale telco business), then Chime Communications Pty Ltd 15 Feb 2001. ACN 073119285 registered 01 Mar 1996 as unrelated Arkane Pty Ltd.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/chime-communications-pty-ltd-073119285/",
+          "label": "ABN Lookup: Chime Communications ACN 073119285"
+        }
+      ]
     },
     {
       "kind": "note",

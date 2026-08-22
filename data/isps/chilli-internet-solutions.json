@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Chilli Internet Solutions",
-      "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_year": 1996,
+      "start_disp": "22 Aug 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Dialup, web hosting; later 3G/iBurst resale."
+      "year": 1996,
+      "date_disp": "22 Aug 1996",
+      "precision": "exact",
+      "details": "CHILLI INTERNET SOLUTIONS PTY LTD ACN 075333881 registered 22 Aug 1996 (formerly OneWorld Internet Pty Ltd); chilli.net.au live by 25 Jun 1997.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://creditorwatch.com.au/credit/profile/11075333881/chilli-internet-solutions-pty-ltd",
+          "label": "Chilli Internet Solutions ACN 075333881 \u2014 22 Aug 1996"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Clovelly Internet Services",
-      "start_year": 2002,
-      "start_disp": "by 2002"
+      "start_year": 2000,
+      "start_disp": "30 Apr 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2002,
-      "date_disp": "by 2002",
-      "precision": "by",
-      "details": "Listed in the Cynosure Australian ISP directory (2002 era)."
+      "year": 2000,
+      "date_disp": "30 Apr 2000",
+      "precision": "exact",
+      "details": "ABN registration; birthplace Albury NSW/SA border (not Sydney).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/",
+          "label": "ABR: Clovelly Internet Services \u2014 ABN active 30 Apr 2000"
+        }
+      ]
     },
     {
       "kind": "death",

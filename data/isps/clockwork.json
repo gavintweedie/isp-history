@@ -9,16 +9,16 @@
     {
       "name": "Clockwork",
       "start_year": 2000,
-      "start_disp": "by 2000"
+      "start_disp": "Feb 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2000,
-      "date_disp": "by 2000",
+      "date_disp": "Feb 2000",
       "precision": "by",
-      "details": "Dialup + ADSL."
+      "details": "Earliest evidence Feb 2000."
     },
     {
       "kind": "death",

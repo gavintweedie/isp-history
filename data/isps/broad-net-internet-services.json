@@ -9,16 +9,23 @@
     {
       "name": "Broad Net Internet Services",
       "start_year": 2000,
-      "start_disp": "by 2000"
+      "start_disp": "18 Jan 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2000,
-      "date_disp": "by 2000",
+      "date_disp": "18 Jan 2000",
       "precision": "by",
-      "details": "Dialup, ADSL, web design."
+      "details": "Earliest Wayback capture 18 Jan 2000 (broad.net.au); BROADNET PTY LTD trading name from 17 Mar 2000.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000118205849/http://www.broad.net.au:80/",
+          "label": "Broad Net (Wayback 18 Jan 2000)"
+        }
+      ]
     },
     {
       "kind": "death",

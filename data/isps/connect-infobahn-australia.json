@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Connect Infobahn Australia",
-      "start_year": 1997,
-      "start_disp": "by 1998"
+      "start_year": 1996,
+      "start_disp": "1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1998",
+      "year": 1996,
+      "date_disp": "1996",
       "precision": "by",
-      "details": "CIA (Connect Infobahn Australia) budget ISP brands."
+      "details": "cia.com.au captured 22 Jan 1997 with footer Copyright \u00a9 1996 Connect Infobahn Australia; in Australian ISP List by 10 Apr 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970122212400/http://www.cia.com.au/",
+          "label": "Connect Infobahn (Wayback 22 Jan 1997) \u2014 \u00a91996"
+        }
+      ]
     },
     {
       "kind": "death",

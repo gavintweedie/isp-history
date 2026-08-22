@@ -8,24 +8,31 @@
   "names": [
     {
       "name": "Country Netlink",
-      "start_year": 2003,
-      "start_disp": "2003"
+      "start_year": 1995,
+      "start_disp": "3 Jul 1995"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by Aug 1997",
-      "precision": "by",
-      "details": "Company registered (ASIC)."
+      "year": 1995,
+      "date_disp": "3 Jul 1995",
+      "precision": "exact",
+      "details": "COUNTRY NETLINK PTY LTD ACN 069744896 registered 03 Jul 1995 (Cobram VIC); POPs Benalla/Cobram/Shepparton.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://creditorwatch.com.au/credit/profile/069744896",
+          "label": "Country Netlink Pty Ltd ACN 069744896 \u2014 registered 03 Jul 1995"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2003,
       "date_disp": "2003",
       "precision": "exact",
-      "details": "Acquired by iiNet."
+      "details": "Acquired by iiNet.; company deregistered 08 Apr 2005."
     }
   ]
 }

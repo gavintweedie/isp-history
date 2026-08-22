@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Cheapanet",
-      "start_year": 2001,
-      "start_disp": "by 2001"
+      "start_year": 1999,
+      "start_disp": "7 Jun 1999"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "by 2001",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 2001)."
+      "year": 1999,
+      "date_disp": "7 Jun 1999",
+      "precision": "exact",
+      "details": "CHEAPANET PTY LIMITED ACN 087951004 registered 07 Jun 1999; ABN from 1 Nov 1999. Renamed PIP TOTAL IT SOLUTIONS PTY LTD 16 Apr 2014.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=52087951004",
+          "label": "ABN History: Cheapanet Pty Limited ACN 087951004"
+        }
+      ]
     },
     {
       "kind": "death",

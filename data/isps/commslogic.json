@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "CommsLogic",
-      "start_year": 2005,
-      "start_disp": "by 2005"
+      "start_year": 2004,
+      "start_disp": "12 May 2004"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2005,
-      "date_disp": "by 2005",
-      "precision": "by",
-      "details": "Operating by May 2005 (commslogic.com.au)."
+      "year": 2004,
+      "date_disp": "12 May 2004",
+      "precision": "exact",
+      "details": "CommsLogic Pty Ltd ABN registered 12 May 2004.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/",
+          "label": "ABR: CommsLogic Pty Ltd \u2014 ABN registered 12 May 2004"
+        }
+      ]
     },
     {
       "kind": "death",

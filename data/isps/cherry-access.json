@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Cherry Access",
-      "start_year": 2002,
-      "start_disp": "by 2002"
+      "start_year": 1996,
+      "start_disp": "30 Sep 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2002,
-      "date_disp": "by 2002",
-      "precision": "by",
-      "details": "Listed in the Cynosure Australian ISP directory (2002 era)."
+      "year": 1996,
+      "date_disp": "30 Sep 1996",
+      "precision": "exact",
+      "details": "CHERRY ACCESS PTY LTD ACN 075816045 registered 30 Sep 1996 as Rising Technology Pty Ltd; Cynosure listing by Apr 1997.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://creditorwatch.com.au/credit/profile/61075816045/cherry-access-pty-ltd",
+          "label": "Cherry Access Pty Ltd ACN 075816045"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Colour City Internet",
-      "start_year": 2002,
-      "start_disp": "c. 2002"
+      "start_year": 2000,
+      "start_disp": "Feb 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2000,
+      "date_disp": "Feb 2000",
       "precision": "approx",
-      "details": "Local ISP."
+      "details": "Business commenced early 1995 as Colour City Computers; commenced own internet service February 2000 with dial-up and broadband access.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20091024145444/http://www.colourcity.com.au/about.htm",
+          "label": "Colour City Internet about page \u2014 Feb 2000"
+        }
+      ]
     },
     {
       "kind": "death",

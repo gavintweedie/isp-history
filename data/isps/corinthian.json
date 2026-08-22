@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Corinthian Internet Services",
-      "start_year": 1992,
-      "start_disp": "1992"
+      "start_year": 1995,
+      "start_disp": "by 1995"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1992,
-      "date_disp": "1992",
-      "precision": "exact",
-      "details": "Corinthian Engineering offered commercial internet services from 1992 (self-reported)."
+      "year": 1995,
+      "date_disp": "by 1995",
+      "precision": "by",
+      "details": "Site footer Copyright \u00a9 Corinthian Internet Services 1995, 1996; in Australian ISP List by Apr 1997. Self-reported commercial internet from 1992 unverified.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970110101447/http://www.cis.net.au:80/",
+          "label": "Corinthian Internet Services (Wayback 10 Jan 1997) \u2014 \u00a91995"
+        }
+      ]
     }
   ],
   "refs": [

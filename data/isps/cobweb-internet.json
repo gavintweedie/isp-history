@@ -9,16 +9,23 @@
     {
       "name": "Cobweb Internet Services",
       "start_year": 1998,
-      "start_disp": "by Apr 1998"
+      "start_disp": "9 Jan 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by Apr 1998",
-      "precision": "by",
-      "details": "Active in SA peering community from Apr 1998."
+      "date_disp": "9 Jan 1998",
+      "precision": "exact",
+      "details": "Earliest Wayback capture 9 Jan 1998 (cobweb.com.au); self-described Cobweb Internet Services Pty Ltd Adelaide.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980109183525/http://cobweb.com.au/",
+          "label": "Cobweb (Wayback 9 Jan 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

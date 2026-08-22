@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Citywide Linkup",
-      "start_year": 1999,
-      "start_disp": "by 1999"
+      "start_year": 1998,
+      "start_disp": "by Nov 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "by 1999",
+      "year": 1998,
+      "date_disp": "by Nov 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1999)."
+      "details": "Cynosure entry last updated 1 Nov 1998; oz2.com \u00a9Copyright 1998 Terramax Pty Ltd ACN 082592452; domain captured 25 Jan 1999.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990125101917/http://oz2.com/",
+          "label": "Citywide Linkup / oz2.com (Wayback 25 Jan 1999)"
+        }
+      ]
     },
     {
       "kind": "death",
