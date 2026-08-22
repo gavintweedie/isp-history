@@ -21,6 +21,14 @@
       "details": "Access Communications (WA) Pty Ltd, ACN 068 763 609 (ASIC)."
     },
     {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=access.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
+    },
+    {
       "kind": "death",
       "year": 1995,
       "date_disp": "Dec 1995",
@@ -30,7 +38,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19980224153402/www.iinet.net.au/about/timeline.html",
-          "label": "iiNet timeline — Dec 1995 Access Communications acquisition"
+          "label": "iiNet timeline \u2014 Dec 1995 Access Communications acquisition"
         }
       ]
     }

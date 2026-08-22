@@ -4,7 +4,7 @@
   "birthplace": "Mordialloc (Melbourne), VIC",
   "status": "inactive",
   "website": "https://prodigy.net.au",
-  "summary": "Prodigy Group — wholesale/corporate dialup + VPN + prepaid cards + PCs (not the US Prodigy service); defunct.",
+  "summary": "Prodigy Group \u2014 wholesale/corporate dialup + VPN + prepaid cards + PCs (not the US Prodigy service); defunct.",
   "names": [
     {
       "name": "Prodigy",
@@ -19,6 +19,14 @@
       "date_disp": "by Oct 1999",
       "precision": "by",
       "details": "Entry updated 30 Oct 1999."
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=prodigy.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
     },
     {
       "kind": "death",

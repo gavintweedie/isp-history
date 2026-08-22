@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Down Under Internet Services",
-      "start_year": 1998,
-      "start_disp": "by Dec 1998"
+      "start_year": 1996,
+      "start_disp": "1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by Dec 1998",
-      "precision": "by",
-      "details": "National dialup, hosting, web design."
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "approx",
+      "details": "Footer Copyright \u00a9 Dayworld and Down Under Internet Services 1996-1997; later contact page \u00a9 1995-2001. Darwin NT ISP operated with Dayworld.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981206065603/http://www.downunder.net.au/access.html",
+          "label": "Down Under Internet Services \u2014 \u00a9 1996-97"
+        }
+      ]
     },
     {
       "kind": "death",

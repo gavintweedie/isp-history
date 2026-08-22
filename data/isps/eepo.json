@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "EEPO",
-      "start_year": 1997,
-      "start_disp": "by Feb 1997"
+      "start_year": 1992,
+      "start_disp": "1992-93"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by Feb 1997",
-      "precision": "by",
-      "details": "Batched dialup, web hosting."
+      "year": 1992,
+      "date_disp": "1992-93",
+      "precision": "approx",
+      "details": "EEPO started running trial UUCP service in 1992-93 fed from DIALix; domain registered 1994; own dial-in SL/IP link to iiNet 20 Sep 1995. Perth ISP by Paul Meleng and Peter Brien.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970719113503/http://www.eepo.com.au/eepo/history.html",
+          "label": "EEPO history page \u2014 1992-93 origins"
+        }
+      ]
     },
     {
       "kind": "death",

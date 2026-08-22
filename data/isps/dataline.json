@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Dataline.net.au",
-      "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_year": 1996,
+      "start_disp": "28 Aug 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "Wholesale VISP/ISP provider."
+      "year": 1996,
+      "date_disp": "28 Aug 1996",
+      "precision": "exact",
+      "details": "DATALINE.NET.AU PTY LTD ACN 075400529 registered 28 Aug 1996 (Stafford QLD); founding member AACIP; deregistered 23 Jul 2006.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://creditorwatch.com.au/credit/profile/69075400529",
+          "label": "Dataline.net.au Pty Ltd ACN 075400529 \u2014 28 Aug 1996"
+        }
+      ]
     },
     {
       "kind": "death",

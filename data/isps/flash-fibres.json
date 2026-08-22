@@ -9,16 +9,23 @@
     {
       "name": "Flash Fibres",
       "start_year": 2007,
-      "start_disp": "2007"
+      "start_disp": "c. 2007"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2007,
-      "date_disp": "2007",
-      "precision": "exact",
-      "details": "Fixed wireless broadband."
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Earliest Wayback capture Jan 2016; no founding year on site or ABR record found.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20160316010945/http://flashfibres.com.au/about-us/",
+          "label": "Flash Fibres (earliest capture Jan 2016)"
+        }
+      ]
     }
   ]
 }

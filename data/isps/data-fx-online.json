@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Data FX Online",
-      "start_year": 1998,
-      "start_disp": "c. 1998"
+      "start_year": 1996,
+      "start_disp": "1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "c. 1998",
+      "year": 1996,
+      "date_disp": "1996",
       "precision": "approx",
-      "details": "Internet access, web services."
+      "details": "Data FX Online Pty Ltd established 1996 (ACN 074440841); datafx.com.au live dialup ISP by May 1997. Entity later renamed GCOMM Pty Ltd.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=16074440841",
+          "label": "ABR: Data FX Online Pty Ltd ABN 16 074 440 841"
+        }
+      ]
     },
     {
       "kind": "death",

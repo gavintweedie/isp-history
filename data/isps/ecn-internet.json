@@ -1,24 +1,31 @@
 {
   "name": "ECN Internet",
   "slug": "ecn-internet",
-  "birthplace": "Melbourne, VIC",
+  "birthplace": "Brisbane (Toowong), QLD",
   "status": "active",
   "website": "https://www.ecn.net.au",
   "summary": "Melbourne dialup ISP (by 1996) that evolved into business internet, data centre co-lo, fibre, VoIP and wholesale; still active as a business telecom/data-centre provider.",
   "names": [
     {
       "name": "ECN Internet",
-      "start_year": 1996,
-      "start_disp": "by 1996"
+      "start_year": 1995,
+      "start_disp": "early 1995"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "by 1996",
-      "precision": "by",
-      "details": "Dialup -> business telecom, data centre, fibre, VoIP."
+      "year": 1995,
+      "date_disp": "early 1995",
+      "precision": "approx",
+      "details": "ECN established early 1995, one of the old hands providing Internet access in Brisbane; \u00a9 1995-97; Toowong QLD POPs.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19971013160208/http://www.ecn.net.au/web/introduction.html",
+          "label": "ECN introduction \u2014 established early 1995"
+        }
+      ]
     }
   ]
 }

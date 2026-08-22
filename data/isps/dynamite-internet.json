@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Dynamite Internet",
-      "start_year": 2001,
-      "start_disp": "c. 2001-02"
+      "start_year": 1995,
+      "start_disp": "25 Aug 1995"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "by 1996",
-      "precision": "by",
-      "details": "Earliest Wayback capture of dynamite.com.au (Canberra ISP)."
+      "year": 1995,
+      "date_disp": "25 Aug 1995",
+      "precision": "exact",
+      "details": "Company Profile: 'Dynamite Internet officially opened its door for operation on the 25 August 1995'; counter since 16 Aug 1995; predecessor Dynamite BBS Canberra ~1989-90.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961229230536/http://dynamite.com.au/company_profile_main.html",
+          "label": "Dynamite Internet Company Profile \u2014 opened 25 Aug 1995"
+        }
+      ]
     },
     {
       "kind": "death",

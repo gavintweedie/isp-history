@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Eagles Internet",
-      "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_year": 1995,
+      "start_disp": "24 Aug 1995"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Flat-rate dialup, cafe, Quake 2 server."
+      "year": 1995,
+      "date_disp": "24 Aug 1995",
+      "precision": "approx",
+      "details": "Homepage: This page was established on 24/08/1995; \u00a9 1997 Eagles BBS Internet Service Pty Ltd ACN 073667919.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19971222015850/http://eagles.com.au/",
+          "label": "Eagles BBS (Wayback 22 Dec 1997) \u2014 est. 24 Aug 1995"
+        }
+      ]
     },
     {
       "kind": "death",

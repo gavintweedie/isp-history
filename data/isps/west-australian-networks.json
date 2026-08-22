@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.westnet.net.au",
-  "summary": "WA-owned ISP trading as 'Westnet' on westnet.net.au — unrelated to Westnet (westnet.com.au, bought by iiNet); dialup, ISDN, ADSL2+, mobile broadband, VoIP, hosting and web design, with a focus on rural, regional and remote areas; TIO and WAIA member; acquired by EFTel (Jul 2012).",
+  "summary": "WA-owned ISP trading as 'Westnet' on westnet.net.au \u2014 unrelated to Westnet (westnet.com.au, bought by iiNet); dialup, ISDN, ADSL2+, mobile broadband, VoIP, hosting and web design, with a focus on rural, regional and remote areas; TIO and WAIA member; acquired by EFTel (Jul 2012).",
   "names": [
     {
       "name": "West Australian Networks",
@@ -19,6 +19,14 @@
       "date_disp": "by 1998",
       "precision": "by",
       "details": "Earliest Wayback capture of westnet.net.au Dec 1998; company claimed to have provided Internet and IT services since 1995."
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=westnet.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
     },
     {
       "kind": "death",

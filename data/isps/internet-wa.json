@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.wanet.net.au",
-  "summary": "Perth ISP 'WANET' on wanet.net.au (Internet WA Pty Ltd, ACN 090 110 222) — a different company from WAnet (wanet.com.au); WAIA/WAIX member; defunct c. 2005.",
+  "summary": "Perth ISP 'WANET' on wanet.net.au (Internet WA Pty Ltd, ACN 090 110 222) \u2014 a different company from WAnet (wanet.com.au); WAIA/WAIX member; defunct c. 2005.",
   "aliases": [
     "WANET",
     "Wa Net"
@@ -23,6 +23,14 @@
       "date_disp": "by 2001",
       "precision": "by",
       "details": "Earliest Wayback capture of wanet.net.au Apr 2001."
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=wanet.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
     },
     {
       "kind": "death",

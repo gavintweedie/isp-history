@@ -21,6 +21,14 @@
       "details": "Planet Internet Pty Ltd, ACN 080 326 156 (ASIC)."
     },
     {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=planet.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
+    },
+    {
       "kind": "death",
       "year": 2004,
       "date_disp": "Feb 2004",

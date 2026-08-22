@@ -8,17 +8,32 @@
   "names": [
     {
       "name": "ezConnect Broadband",
-      "start_year": 2004,
-      "start_disp": "c. 2004"
+      "start_year": 2003,
+      "start_disp": "30 Sep 2003"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Dialup, ADSL, wireless."
+      "year": 2003,
+      "date_disp": "30 Sep 2003",
+      "precision": "by",
+      "details": "inabox.net.au robots.txt captured 30 Sep 2003; portal live Apr-Jun 2004.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=inabox.net.au&matchType=domain&from=2003&to=2005",
+          "label": "inabox.net.au CDX \u2014 robots.txt 30 Sep 2003"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=inabox.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
     },
     {
       "kind": "death",

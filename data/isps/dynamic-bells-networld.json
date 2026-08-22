@@ -8,17 +8,32 @@
   "names": [
     {
       "name": "Dynamic Bell's NetWorld",
-      "start_year": 1997,
-      "start_disp": "c. 1997-98"
+      "start_year": 1998,
+      "start_disp": "12 Dec 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "c. 1997-98",
-      "precision": "approx",
-      "details": "National dialup, hosting."
+      "year": 1998,
+      "date_disp": "12 Dec 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture 12 Dec 1998 (dbnw.com.au); national POPs under Dynamic Bell parent brand.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981212024249/http://www.dbnw.com.au/",
+          "label": "Dynamic Bell's NetWorld (Wayback 12 Dec 1998)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=dbnw.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
     },
     {
       "kind": "death",

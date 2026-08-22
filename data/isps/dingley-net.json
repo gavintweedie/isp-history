@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Dingley.Net",
-      "start_year": 1998,
-      "start_disp": "1998"
+      "start_year": 1997,
+      "start_disp": "6 Apr 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "1998",
-      "precision": "exact",
-      "details": "Local dialup, unlimited in 3-hr blocks."
+      "year": 1997,
+      "date_disp": "6 Apr 1997",
+      "precision": "approx",
+      "details": "Domain dingley.net registered 06 Apr 1997 (Verisign RDAP); site live by 5 Dec 1998.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://rdap.verisign.com/net/v1/domain/dingley.net",
+          "label": "RDAP: dingley.net created 1997-04-06"
+        }
+      ]
     },
     {
       "kind": "death",

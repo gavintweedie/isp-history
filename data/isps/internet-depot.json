@@ -20,6 +20,14 @@
       "details": "First known: bought Cybonet's internet operations."
     },
     {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
+    },
+    {
       "kind": "death",
       "year": 2005,
       "date_disp": "c. 2000s",

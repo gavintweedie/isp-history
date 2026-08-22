@@ -28,6 +28,14 @@
       "date_disp": "by Dec 2015",
       "precision": "by",
       "details": "AS134980 allocated 16 Dec 2015; Perth GPON fibre ISP trading as Fibrenet."
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=fibrenet.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
     }
   ],
   "refs": [

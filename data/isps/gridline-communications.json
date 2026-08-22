@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.gridline-australia.com.au",
-  "summary": "Perth 'broadband over power lines' (BPL) ISP — internet, VoIP and security delivered via the electrical outlet; founded 2003; short-lived, gone by late 2007.",
+  "summary": "Perth 'broadband over power lines' (BPL) ISP \u2014 internet, VoIP and security delivered via the electrical outlet; founded 2003; short-lived, gone by late 2007.",
   "names": [
     {
       "name": "Gridline Communications",
@@ -19,6 +19,14 @@
       "date_disp": "by 2006",
       "precision": "by",
       "details": "Company founded by telecom/utility executives 2003; site first captured 2006."
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "pending",
+      "precision": "unknown",
+      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=gridline-australia.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "refs": []
     },
     {
       "kind": "death",
