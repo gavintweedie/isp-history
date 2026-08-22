@@ -25,7 +25,14 @@
       "year": 2016,
       "date_disp": "2016",
       "precision": "exact",
-      "details": "Acquired by Superloop (~A$104m)."
+      "details": "Acquired by Superloop (~A$104m).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/bigair-group-limited/",
+          "label": "deListed Australia: BigAir Group Limited (ASX:BGL) \u2014 delisted 21 Dec 2016 (Superloop scheme of arrangement)"
+        }
+      ]
     }
   ]
 }

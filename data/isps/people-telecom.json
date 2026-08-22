@@ -23,9 +23,16 @@
     {
       "kind": "death",
       "year": 2008,
-      "date_disp": "2008",
-      "precision": "exact",
-      "details": "Acquired by M2 Group (~A$17m)."
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "Acquired by M2 Group (~A$17m).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/people-telecom-limited-6433",
+          "label": "deListed Australia: People Telecom Limited (ASX:PEO) \u2014 delisted 1 May 2009 (M2 scheme of arrangement)"
+        }
+      ]
     }
   ]
 }

@@ -25,7 +25,14 @@
       "year": 2009,
       "date_disp": "Sep 2009",
       "precision": "exact",
-      "details": "Delisted 4 Sep 2009 (AIMS compulsory acquisition)."
+      "details": "Delisted 4 Sep 2009 (AIMS compulsory acquisition).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/macarthurcook-limited",
+          "label": "deListed Australia: MacarthurCook Limited (ASX:MCK) \u2014 delisted 4 Sep 2009 (AIMS Securities compulsory acquisition)"
+        }
+      ]
     }
   ]
 }

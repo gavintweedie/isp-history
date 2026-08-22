@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Renamed Pearl Healthcare Limited."
+      "year": 2002,
+      "date_disp": "8 Jul 2002",
+      "precision": "exact",
+      "details": "Renamed Pearl Healthcare Limited.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/pulsat-communications-limited/",
+          "label": "deListed Australia: Pulsat Communications Limited (ASX:PUL) \u2014 renamed Pearl Healthcare Ltd 8 Jul 2002"
+        }
+      ]
     }
   ]
 }

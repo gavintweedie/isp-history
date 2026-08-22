@@ -25,7 +25,14 @@
       "year": 2025,
       "date_disp": "Feb 2025",
       "precision": "exact",
-      "details": "Voluntary administration 19 Feb 2025."
+      "details": "Voluntary administration 19 Feb 2025.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02916076",
+          "label": "ASX: \"Appointment - Receivers/Managers and Voluntary Administrator\" (FSG, 19 Feb 2025)"
+        }
+      ]
     }
   ],
   "refs": [

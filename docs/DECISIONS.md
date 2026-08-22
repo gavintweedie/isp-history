@@ -421,3 +421,62 @@ confirmed by the project owner.
 - **Alternatives rejected:** a single big `data.json` (PRs touch one huge file and
   conflict on ordering), JSONL (hard to hand-edit), keeping SQLite and writing a
   JSON export for PRs (two sources of truth).
+
+## 2026-08-22 — ASX Market Announcements as a reference source
+
+- **Decision:** For ISPs that were ASX-listed (or were acquired by/merged into an
+  ASX-listed company), pull primary-source evidence for the transition/event date
+  from the ASX Market Announcements Platform, cited as a `kind: "official"` ref.
+- **How:** The modern announcements UI
+  (`asx.com.au/markets/trade-our-cash-market/announcements.html`) is a JS SPA with
+  no server-rendered data — a plain fetch returns an empty shell. The legacy
+  endpoint still works and returns real results:
+  `https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=<issuerId>&timeframe=Y&year=<YYYY>`
+  This takes ASX's internal `issuerId`, not the ticker code (e.g. iiNet/IIN =
+  `4105`) — find it once (a web search for the ticker often surfaces an
+  already-indexed `announcements.do?...issuerId=...` link) and reuse it. Each
+  result lists a `displayAnnouncement.do?display=pdf&idsId=<id>` link — that's the
+  citable per-announcement URL. It serves ASX's terms-of-use page to non-browser
+  fetches, which is fine for citation purposes; a person clicking through in a
+  real browser reaches the PDF.
+- **Rationale:** Verified against iiNet's 2005 OzEmail acquisition ("IINet to
+  Acquire OzEmail", 15 Feb 2005; "Completes Acquisition of OzEmail", 28 Feb 2005).
+  ASX announcements are primary-source, dated to the minute, and cover most of
+  the notable acquisitions/mergers among the ASX-listed players in this dataset
+  (iiNet, TPG, Vocus, Superloop, etc.) that otherwise only have vague
+  news-derived dates.
+- **Impact:** No new tooling needed — this is a URL pattern to reuse via the
+  existing web-search/fetch research workflow, not a new connector or dependency.
+## 2026-08-22 — ASX sourcing: ticker reuse and deListed.com.au fallback
+
+- **Decision:** Extend the ASX sourcing technique (previous entry) with two lessons
+  learned doing a full pass over ~30 ASX-listed ISPs in this dataset.
+- **Ticker reuse breaks `by=asxCode` lookups:** ASX recycles 3-4 letter codes once
+  a company delists. `announcements.do?by=asxCode&asxCode=X` only resolves to
+  whichever company *currently* holds code X — for a long-delisted company whose
+  code was later reassigned (e.g. `AMM` is now Armada Metals, not Amcom;
+  `MCK`/`UWL`/`AAP`/`ONE` are similarly reused or retired), the query returns
+  either the wrong company's data or an empty result, even though the announcements
+  genuinely exist in ASX's archive. Workarounds, in order of preference: (1) find
+  the numeric `issuerId` (stable across renames/reuse) from a Google-indexed
+  `displayAnnouncement.do?...issuerId=NNNN...` link and query
+  `announcements.do?by=issuerId&issuerId=NNNN&timeframe=Y&year=YYYY` instead —
+  **verify the issuerId first** by fetching one `display=text` link and checking
+  the issuing company name, since a search snippet's apparent match can be a
+  same-page mention rather than the actual issuer (this cost real time when
+  chasing One.Tel and AAPT); (2) fall back to `deListed.com.au` (below).
+- **deListed.com.au as a fallback/secondary source:** `https://www.delisted.com.au/company/<slug>`
+  gives a clean listing date, delisting date, delisting reason, and full former/later
+  name chain for any deregistered ASX entity — no ticker-reuse ambiguity, and it
+  resolves reliably where the ASX endpoint won't. It's already used elsewhere in
+  this dataset (see `local-telecom-internet.json`) as an `official`-kind ref. Prefer
+  a direct ASX announcement when the `issuerId` route works; use deListed.com.au
+  (or `marketindex.com.au/asx/<code>/announcements/...` permalinks, another viable
+  fallback) rather than spending many retries chasing a blocked/reused ASX code.
+- **Transient WAF blocks:** `asx.com.au` occasionally returns a bot-block
+  interstitial ("The requested URL was rejected") to an otherwise-valid query,
+  seemingly independent of the specific ticker — retrying the identical request
+  later sometimes succeeds. Don't loop retrying the same call; move to the next
+  company and circle back once, then fall back to deListed.com.au if it still fails.
+- **Impact:** No schema/tooling change — same as the previous ASX entry, this is
+  research technique, not code.

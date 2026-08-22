@@ -25,7 +25,14 @@
       "year": 2013,
       "date_disp": "2013",
       "precision": "exact",
-      "details": "Reverse takeover by ClubTelco 2011; acquired by M2 Group (~A$44.1m); business unit closed 2022."
+      "details": "Reverse takeover by ClubTelco 2011; acquired by M2 Group (~A$44.1m); business unit closed 2022.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://announcements.asx.com.au/asxpdf/20110526/pdf/41yw6l481nsx62.pdf",
+          "label": "ASX: Eftel Limited Notice of General Meeting re ClubTelco reverse takeover (26 May 2011)"
+        }
+      ]
     }
   ],
   "refs": [

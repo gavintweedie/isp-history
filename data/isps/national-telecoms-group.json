@@ -25,7 +25,14 @@
       "year": 2006,
       "date_disp": "Mar 2006",
       "precision": "exact",
-      "details": "Delisted 3 Mar 2006 (Anthony Hakim compulsory acquisition)."
+      "details": "Delisted 3 Mar 2006 (Anthony Hakim compulsory acquisition).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=00594391",
+          "label": "ASX: \"Removal from Official List\" (NTG, 2 Mar 2006)"
+        }
+      ]
     }
   ],
   "refs": [

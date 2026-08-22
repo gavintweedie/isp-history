@@ -25,7 +25,14 @@
       "year": 2002,
       "date_disp": "2002",
       "precision": "exact",
-      "details": "DavTel to NTT Australia; shell renamed UXC."
+      "details": "DavTel to NTT Australia; shell renamed UXC.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=header&issuerId=3992&documentNumber=197162&documentDate=2002-10-31",
+          "label": "ASX: \"Changes its name to UXC Limited\" (DVT, 31 Oct 2002)"
+        }
+      ]
     }
   ],
   "refs": [

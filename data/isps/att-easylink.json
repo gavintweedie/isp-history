@@ -1,0 +1,49 @@
+{
+  "name": "AT&T EasyLink Services Australia",
+  "slug": "att-easylink",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "summary": "B2B e-commerce/EDI + data/voice services provider, formerly owned by a consortium of AT&T, Qantas and CSC (Computer Sciences Corporation); acquired by AAPT Aug 1999, rebranded AAPT@commerce and integrated with AAPT's connect.com.au ISP.",
+  "names": [
+    {
+      "name": "AT&T EasyLink Services Australia",
+      "start_year": 1999,
+      "start_disp": "by 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by 1999",
+      "precision": "by",
+      "details": "Formerly owned by a consortium of AT&T, Qantas and CSC (Computer Sciences Corporation); provided business-to-business e-commerce/EDI plus data and voice telephony services. Exact founding date not established.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www2.computerworld.com.au/article/105904/aapt_buys_t_easylink_service/",
+          "label": "Computerworld: AAPT buys AT&T EasyLink Service"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "16 Aug 1999",
+      "precision": "exact",
+      "details": "Acquired by AAPT Ltd; rebranded AAPT@commerce and integrated with AAPT's connect.com.au ISP. CEO David Glavonjic retained.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.telecompaper.com/news/aapt-acquires-at-t-easylink-services-australia--200068",
+          "label": "Telecompaper: AAPT Acquires AT&T EasyLink Services Australia (16 Aug 1999)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www2.computerworld.com.au/article/105904/aapt_buys_t_easylink_service/",
+          "label": "Computerworld: AAPT buys AT&T EasyLink Service"
+        }
+      ]
+    }
+  ]
+}

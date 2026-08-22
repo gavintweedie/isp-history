@@ -25,7 +25,14 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Sold Singapore/Malaysia assets 2004; shares last traded ~2005; wound down."
+      "details": "Sold Singapore/Malaysia assets 2004; shares last traded ~2005; wound down.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/skynetglobal-limited/",
+          "label": "deListed Australia: SkyNetGlobal Limited (ASX:SKG) \u2014 renamed E-PAY Asia Limited 24 Nov 2005"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,57 @@
+{
+  "name": "Netstra",
+  "slug": "netstra",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "netstra.com.au",
+  "summary": "Melbourne/Sydney franchise ISP (Netstra Pty Ltd, ACN 073 701 069, traded as \"Netstra Internet Services\"; dialup/ISDN/ADSL/satellite + hosting; franchises incl. Doncaster, Kew, Knox, Mooroolbark, Ivanhoe); acquired by Hotkey Internet Services.",
+  "names": [
+    {
+      "name": "Netstra",
+      "start_year": 1996,
+      "start_disp": "22 Apr 1996"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "22 Apr 1996",
+      "precision": "exact",
+      "details": "Netstra Pty Ltd (ACN 073 701 069) registered with ASIC 22 Apr 1996 in Victoria; later traded as \"Netstra Internet Services\" (business name registered 27 Apr 2000).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://creditorwatch.com.au/credit/profile/50073701069",
+          "label": "CreditorWatch: Netstra Pty Ltd ACN 073 701 069 — ASIC registered 22 Apr 1996"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=50073701069",
+          "label": "ABN Lookup 50 073 701 069 — trading name \"Netstra Internet Services\" from 27 Apr 2000"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "by 2 Aug 2002",
+      "precision": "by",
+      "details": "Franchise/customer base folded into Hotkey Internet Services (the migration notice still served at netstra.com.au, directing dialup customers onto Hotkey's network, was already live by this Wayback capture). Netstra Pty Ltd was later deregistered by ASIC 6 Nov 2011.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020802080228/http://www.netstra.com.au/",
+          "label": "Netstra → Hotkey Internet Services migration notice (Wayback, 2 Aug 2002)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?id=50073701069",
+      "label": "ABN Lookup — Netstra Pty Ltd, ACN 073 701 069"
+    }
+  ]
+}

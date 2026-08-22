@@ -19,6 +19,20 @@
       "date_disp": "2008",
       "precision": "exact",
       "details": "Founded via amalgamation of Westvic Broadband and Wideband Networks (both trading since 2003)."
+    },
+    {
+      "kind": "note",
+      "year": 2020,
+      "date_disp": "16 Oct 2020",
+      "precision": "exact",
+      "details": "ASX-listed (ASX:ABB) via IPO, admitted to the official list 16 Oct 2020.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02294735",
+          "label": "ASX: \"ASX Listing of Aussie Broadband Limited\" (ABB, 16 Oct 2020)"
+        }
+      ]
     }
   ],
   "refs": [
