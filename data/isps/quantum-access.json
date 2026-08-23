@@ -9,24 +9,23 @@
     {
       "name": "Quantum Access",
       "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_disp": "by Mar 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "by 1997",
+      "date_disp": "by Mar 1997",
       "precision": "by",
-      "details": "Dialup, Adelaide POP."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=qa.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Dialup, Adelaide POP. Earliest verified Wayback capture 27 Mar 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970327072558/http://www.qa.net.au/",
+          "label": "Wayback Machine: earliest capture (Mar 1997)"
+        }
+      ]
     },
     {
       "kind": "death",

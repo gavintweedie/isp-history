@@ -11,25 +11,24 @@
   "names": [
     {
       "name": "Zed Connect",
-      "start_year": 2001,
-      "start_disp": "by Apr 2001"
+      "start_year": 1998,
+      "start_disp": "by Dec 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "by Apr 2001",
+      "year": 1998,
+      "date_disp": "by Dec 1998",
       "precision": "by",
-      "details": "AusBone Sydney (SIX) participant (AS9507, 2M PAPL)."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=zed.org&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "AusBone Sydney (SIX) participant (AS9507, 2M PAPL). Earliest verified Wayback capture 12 Dec 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981212034319/http://www.zed.org:80/",
+          "label": "Wayback Machine: earliest capture (Dec 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

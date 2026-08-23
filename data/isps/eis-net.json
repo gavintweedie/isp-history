@@ -11,17 +11,24 @@
   "names": [
     {
       "name": "eis.net",
-      "start_year": 2001,
-      "start_disp": "by Apr 2001"
+      "start_year": 1996,
+      "start_disp": "by Nov 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "by Apr 2001",
+      "year": 1996,
+      "date_disp": "by Nov 1996",
       "precision": "by",
-      "details": "AusBone Brisbane (BIX) participant (AS9421)."
+      "details": "AusBone Brisbane (BIX) participant (AS9421). Earliest verified Wayback capture 03 Nov 1996.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961103204648/http://www.eis.net.au/",
+          "label": "Wayback Machine: earliest capture (Nov 1996)"
+        }
+      ]
     },
     {
       "kind": "note",

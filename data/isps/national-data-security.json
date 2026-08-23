@@ -18,15 +18,7 @@
       "year": 1999,
       "date_disp": "by 1999",
       "precision": "by",
-      "details": "Earliest Wayback capture of nds.com.au Jan 1999."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=nds.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Earliest Wayback capture of nds.com.au Jan 1999. CAUTION: nds.com.au 1999 capture shows 'Neo Design Synergy' \u2014 different company; do not use nds.com.au captures as evidence for this ISP."
     },
     {
       "kind": "death",

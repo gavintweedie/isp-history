@@ -9,16 +9,16 @@
     {
       "name": "Paradox Digital",
       "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_disp": "by Feb 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
+      "date_disp": "by Feb 1998",
       "precision": "by",
-      "details": "Operating by Feb 1998 (Wayback capture); wholesale Internet carrier.",
+      "details": "Operating by Feb 1998 (Wayback capture); wholesale Internet carrier. Earliest verified Wayback capture 15 Feb 1998.",
       "refs": [
         {
           "kind": "archive",
@@ -26,14 +26,6 @@
           "label": "First Wayback capture Feb 1998"
         }
       ]
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=paradox.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
     },
     {
       "kind": "death",

@@ -16,17 +16,16 @@
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by Jun 1998",
+      "date_disp": "by Jan 1998",
       "precision": "by",
-      "details": "Company registered (ASIC)."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=webone.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Company registered (ASIC). Earliest verified Wayback capture 17 Jan 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980117234454/http://webone.com.au:80/",
+          "label": "Wayback Machine: earliest capture (Jan 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

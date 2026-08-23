@@ -16,17 +16,16 @@
     {
       "kind": "birth",
       "year": 2002,
-      "date_disp": "by 2002",
+      "date_disp": "by May 2002",
       "precision": "by",
-      "details": "Earliest Wayback capture of powerdsl.com.au May 2002."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=powerdsl.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Earliest Wayback capture of powerdsl.com.au May 2002. Earliest verified Wayback capture 24 May 2002.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020524215634/http://www.powerdsl.com.au/",
+          "label": "Wayback Machine: earliest capture (May 2002)"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Ozmatrix",
-      "start_year": 2000,
-      "start_disp": "by 2000"
+      "start_year": 1999,
+      "start_disp": "by Nov 1999"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2000,
-      "date_disp": "by 2000",
+      "year": 1999,
+      "date_disp": "by Nov 1999",
       "precision": "by",
-      "details": "Operating by Dec 2000."
+      "details": "Operating by Dec 2000. Earliest verified Wayback capture 28 Nov 1999.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991128201059/http://www.ozmatrix.com.au/",
+          "label": "Wayback Machine: earliest capture (Nov 1999)"
+        }
+      ]
     },
     {
       "kind": "death",

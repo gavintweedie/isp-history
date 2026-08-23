@@ -9,24 +9,23 @@
     {
       "name": "Netlink WA",
       "start_year": 1998,
-      "start_disp": "by Aug 1998"
+      "start_disp": "by Jan 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by Aug 1998",
+      "date_disp": "by Jan 1998",
       "precision": "by",
-      "details": "Entry updated 29 Aug 1998."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=netlinkwa.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Entry updated 29 Aug 1998. Earliest verified Wayback capture 22 Jan 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980122035233/http://netlinkwa.com.au/",
+          "label": "Wayback Machine: earliest capture (Jan 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

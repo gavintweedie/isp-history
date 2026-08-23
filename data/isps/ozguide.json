@@ -9,24 +9,23 @@
     {
       "name": "OzGuide",
       "start_year": 1999,
-      "start_disp": "by May 1999"
+      "start_disp": "by Jan 1999"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1999,
-      "date_disp": "by May 1999",
+      "date_disp": "by Jan 1999",
       "precision": "by",
-      "details": "Operating by 7 May 1999."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=ozguide.com&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Operating by 7 May 1999. Earliest verified Wayback capture 25 Jan 1999.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990125101920/http://www.ozguide.com/",
+          "label": "Wayback Machine: earliest capture (Jan 1999)"
+        }
+      ]
     }
   ],
   "refs": [

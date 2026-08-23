@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "Kanga Internet Services",
-      "start_year": 1999,
-      "start_disp": "by Jan 1999"
+      "start_year": 1998,
+      "start_disp": "by Jan 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "by Jan 1999",
+      "year": 1998,
+      "date_disp": "by Jan 1998",
       "precision": "by",
-      "details": "Active in SA peering from Jan 1999."
+      "details": "Active in SA peering from Jan 1999. Earliest verified Wayback capture 28 Jan 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980128114914/http://www.kanga.com.au/",
+          "label": "Wayback Machine: earliest capture (Jan 1998)"
+        }
+      ]
     },
     {
       "kind": "death",

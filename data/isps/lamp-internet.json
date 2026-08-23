@@ -8,25 +8,24 @@
   "names": [
     {
       "name": "Lamp Internet",
-      "start_year": 2002,
-      "start_disp": "by 2002"
+      "start_year": 2001,
+      "start_disp": "by Oct 2001"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2002,
-      "date_disp": "by 2002",
+      "year": 2001,
+      "date_disp": "by Oct 2001",
       "precision": "by",
-      "details": "Listed in the Cynosure Australian ISP directory (2002 era)."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=lampis.aunz.com&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Listed in the Cynosure Australian ISP directory (2002 era). Earliest verified Wayback capture 02 Oct 2001.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20011002060112/http://www.lampis.aunz.com/",
+          "label": "Wayback Machine: earliest capture (Oct 2001)"
+        }
+      ]
     },
     {
       "kind": "death",

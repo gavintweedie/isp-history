@@ -18,15 +18,7 @@
       "year": 1996,
       "date_disp": "by 1996",
       "precision": "by",
-      "details": "Earliest Wayback capture of ni.net Dec 1996."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=ni.net&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Earliest Wayback capture of ni.net Dec 1996. CAUTION: ni.net 1996-98 captures show 'Network Intensive' (Irvine CA, US ISP) \u2014 different company; do not use ni.net captures as evidence."
     },
     {
       "kind": "death",

@@ -11,25 +11,24 @@
   "names": [
     {
       "name": "One.Net",
-      "start_year": 2001,
-      "start_disp": "by Apr 2001"
+      "start_year": 1997,
+      "start_disp": "by Jun 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "by Apr 2001",
+      "year": 1997,
+      "date_disp": "by Jun 1997",
       "precision": "by",
-      "details": "AusBone Brisbane (BIX) participant (AS7617)."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=one.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "AusBone Brisbane (BIX) participant (AS7617). Earliest verified Wayback capture 20 Jun 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970620095347/http://www.one.net.au/",
+          "label": "Wayback Machine: earliest capture (Jun 1997)"
+        }
+      ]
     },
     {
       "kind": "death",

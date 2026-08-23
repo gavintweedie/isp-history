@@ -9,24 +9,23 @@
     {
       "name": "Oz Internet Services",
       "start_year": 2004,
-      "start_disp": "by 2004"
+      "start_disp": "by May 2004"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2004,
-      "date_disp": "by 2004",
+      "date_disp": "by May 2004",
       "precision": "by",
-      "details": "Dialup, ADSL, hosting."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=ozinet.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "details": "Dialup, ADSL, hosting. Earliest verified Wayback capture 28 May 2004.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040528104539/http://www.ozinet.net.au/",
+          "label": "Wayback Machine: earliest capture (May 2004)"
+        }
+      ]
     },
     {
       "kind": "death",
