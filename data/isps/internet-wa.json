@@ -12,25 +12,24 @@
   "names": [
     {
       "name": "Internet WA",
-      "start_year": 2001,
-      "start_disp": "by 2001"
+      "start_year": 2000,
+      "start_disp": "c. 2000"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "by 2001",
-      "precision": "by",
-      "details": "Earliest Wayback capture of wanet.net.au Apr 2001."
-    },
-    {
-      "kind": "note",
       "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=wanet.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Perth ISP 'WANET' on wanet.net.au (Internet WA Pty Ltd, ACN 090110222 \u2014 ACN 090 series registered c. 1999-2000).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=90090110222",
+          "label": "ABN Lookup: Internet WA Pty Ltd ACN 090 110 222"
+        }
+      ]
     },
     {
       "kind": "death",

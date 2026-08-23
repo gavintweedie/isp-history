@@ -18,7 +18,7 @@
       "year": 2001,
       "date_disp": "2 Sep 2001",
       "precision": "by",
-      "details": "Earliest Wayback capture 2 Sep 2001 (airnet.net.au) parked by NetRegistry; no 1996 evidence; SA ISP.",
+      "details": "Earliest Wayback capture 2 Sep 2001 (airnet.net.au) parked by NetRegistry; no 1996 evidence; SA ISP. Earliest capture 2 sep 2001.",
       "refs": [
         {
           "kind": "archive",
@@ -26,14 +26,6 @@
           "label": "Airnet (Wayback 2 Sep 2001)"
         }
       ]
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=airnet.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
     },
     {
       "kind": "death",

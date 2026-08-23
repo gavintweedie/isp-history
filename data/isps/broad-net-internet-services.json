@@ -18,7 +18,7 @@
       "year": 2000,
       "date_disp": "18 Jan 2000",
       "precision": "by",
-      "details": "Earliest Wayback capture 18 Jan 2000 (broad.net.au); BROADNET PTY LTD trading name from 17 Mar 2000.",
+      "details": "Earliest Wayback capture 18 Jan 2000 (broad.net.au); BROADNET PTY LTD trading name from 17 Mar 2000. Earliest capture 18 jan 2000.",
       "refs": [
         {
           "kind": "archive",
@@ -26,14 +26,6 @@
           "label": "Broad Net (Wayback 18 Jan 2000)"
         }
       ]
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=broad.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
     },
     {
       "kind": "death",

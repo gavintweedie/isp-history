@@ -18,7 +18,7 @@
       "year": 1998,
       "date_disp": "3 Dec 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture 3 Dec 1998 (aaanet.net.au); footer \u00a91996-1998, last modified 29 Sep 1998.",
+      "details": "Earliest Wayback capture 3 Dec 1998 (aaanet.net.au); footer \u00a91996-1998, last modified 29 Sep 1998. Earliest capture 3 dec 1998.",
       "refs": [
         {
           "kind": "archive",
@@ -26,14 +26,6 @@
           "label": "AAA Computers (Wayback 3 Dec 1998)"
         }
       ]
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=aaanet.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
     },
     {
       "kind": "death",

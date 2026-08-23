@@ -8,25 +8,24 @@
   "names": [
     {
       "name": "Games On Demand",
-      "start_year": 2003,
-      "start_disp": "by 2003"
+      "start_year": 2001,
+      "start_disp": "2001"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2003,
-      "date_disp": "by 2003",
-      "precision": "by",
-      "details": "Earliest Wayback capture of gamesondemand.com.au Feb 2003."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=gamesondemand.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "approx",
+      "details": "Games On Demand Pty Ltd ACN 105421743 (ACN 105 series \u2248 2001); WAIX-class member.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=105421743",
+          "label": "ABN Lookup: Games On Demand Pty Ltd ACN 105 421 743"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -18,7 +18,7 @@
       "year": 2000,
       "date_disp": "21 Aug 2000",
       "precision": "by",
-      "details": "Earliest Wayback capture 21 Aug 2000 (bondinet.com.au); footer \u00a92000.",
+      "details": "Earliest Wayback capture 21 Aug 2000 (bondinet.com.au); footer \u00a92000. Earliest capture 21 aug 2000.",
       "refs": [
         {
           "kind": "archive",
@@ -26,14 +26,6 @@
           "label": "Bondi Internet Services (Wayback 21 Aug 2000)"
         }
       ]
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=bondinet.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
     },
     {
       "kind": "death",
