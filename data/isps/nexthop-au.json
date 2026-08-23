@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.nexthop.com.au",
-  "summary": "Australian telecommunications carrier providing wholesale dark fibre, IP Transit and internet; launched 2016 on the former Zed Connect ASN (AS9507); operates in Sydney, Melbourne, Brisbane and Perth.",
+  "summary": "Australian telecommunications carrier providing wholesale dark fibre, IP Transit and internet; launched 2016; operates in Sydney, Melbourne, Brisbane and Perth. Uses ASN AS9507 (previously held by Zed Connect, unrelated business).",
   "aliases": [],
   "names": [
     {
@@ -19,7 +19,7 @@
       "year": 2016,
       "date_disp": "2016",
       "precision": "approx",
-      "details": "Launched 2016; ASN AS9507 re-registered to NextHop Pty Ltd Jul 2016 (previously held by Zed Connect since c.2001). Began fibre build 2018 Sydney CBD.",
+      "details": "Launched 2016; ASN AS9507 re-registered to NextHop Pty Ltd Jul 2016 (previously held by defunct Zed Connect \u2014 ASN transfer only, no business acquisition).",
       "refs": [
         {
           "kind": "official",

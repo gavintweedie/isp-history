@@ -36,12 +36,12 @@
       "year": 2016,
       "date_disp": "Jul 2016",
       "precision": "exact",
-      "details": "ASN AS9507 re-registered to NextHop Pty Ltd Jul 2016; Zed Connect operations superseded.",
+      "details": "ASN AS9507 transferred to NextHop Pty Ltd Jul 2016; Zed Connect ceased operations.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://bgp.tools/as/9507",
-          "label": "AS9507 bgp.tools \u2014 registered to NextHop 21 Jul 2016"
+          "label": "AS9507 bgp.tools \u2014 registered to NextHop Pty Ltd"
         }
       ]
     }
