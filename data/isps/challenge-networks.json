@@ -3,8 +3,8 @@
   "slug": "challenge-networks",
   "birthplace": "Australia",
   "status": "inactive",
-  "website": "https://challenge.net.au",
-  "summary": "Network provider acquired by Vocus.",
+  "website": "https://challengenetworks.com.au",
+  "summary": "Network provider (Blackburn VIC); acquired by Vocus.",
   "names": [
     {
       "name": "Challenge Networks",
@@ -15,10 +15,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "by Jul 2001",
-      "precision": "by",
-      "details": "Company registered (ASIC)."
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Brand site challengenetworks.com.au footer \u00a92003 Communications Services Pty Ltd; earliest capture Nov 2007. NOTE: challenge.net.au was Challenge Chemicals Australia (WA) \u2014 wrong domain.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20071128115759/http://challengenetworks.com.au/",
+          "label": "Challenge Networks (Wayback Nov 2007) \u2014 \u00a92003"
+        }
+      ]
     },
     {
       "kind": "death",
