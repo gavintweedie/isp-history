@@ -326,9 +326,13 @@
         });
       }
       const counts = new Map([[0, 1]]);
+      const dirOf = new Map();   // id -> sign(levelOf[id] - levelOf[par[id]]): run direction
       levelOf[root] = 0;
       order.slice(1).forEach(u => {
         const p = par[u];
+        // A long-lived family-leaf (e.g. Telstra) would run a decades-long
+        // line straight through the acquirer's fan. It is swept to the very
+        // top of the family below.
         const longLeaf = [...adj[u]].filter(v => c.members.includes(v)).length === 1
           && (byId[u].x1 - byId[u].x0) >= 30;
         if (longLeaf) longLeaves.add(u);
@@ -336,20 +340,58 @@
         if (longLeaf) {
           lv = levelOf[p] - 1;
         } else {
-          const up = counts.get(levelOf[p] + 1) || 0;
-          const dn = counts.get(levelOf[p] - 1) || 0;
-          lv = levelOf[p] + (up <= dn ? 1 : -1);
+          const candUp = levelOf[p] + 1, candDn = levelOf[p] - 1;
+          const up = counts.get(candUp) || 0;
+          const dn = counts.get(candDn) || 0;
+          // Levels of u's already-placed transition partners (excluding the
+          // parent): choosing the side closer to them keeps chains and
+          // satellite leaves vertically adjacent instead of scattered
+          // (e.g. RuralNet -> Local Telecom & Internet -> Macarthurcook).
+          const placedLv = [...adj[u]]
+            .filter(v => v !== p && c.members.includes(v) && levelOf[v] != null)
+            .map(v => levelOf[v]);
+          const pd = dirOf.get(p) || 0;
+          if (placedLv.length) {
+            const cost = l => placedLv.reduce((s, v) => s + Math.abs(l - v), 0);
+            const cu = cost(candUp), cd = cost(candDn);
+            if (cu < cd) lv = candUp;
+            else if (cd < cu) lv = candDn;
+            else if (pd) lv = levelOf[p] + pd;
+            else lv = up <= dn ? candUp : candDn;
+          } else if (pd) {
+            // Direction-sticky runs: keep walking the way the chain started
+            // (A→B below A ⇒ C below B), only flipping when that side is
+            // far more loaded — prevents zig-zags that scatter chains.
+            if (pd > 0) lv = up <= dn * 3 ? candUp : candDn;
+            else lv = dn <= up * 3 ? candDn : candUp;
+          } else {
+            lv = up <= dn ? candUp : candDn;
+          }
         }
+        dirOf.set(u, Math.sign(lv - levelOf[p]) || pd);
         levelOf[u] = lv;
         counts.set(lv, (counts.get(lv) || 0) + 1);
       });
     });
+    // Sweep long-lived leaves next to their single family partner instead of
+    // to the top of the whole family: pinning Telstra-style leaves at the
+    // band's top left their direct children 40+ lanes below (Pacnet → Telstra
+    // crossed everything in between). Adjacent pinning keeps the decades-long
+    // bar clear of its own child's connector and packs the fan tightly.
     familyComps.forEach(c => {
       const leaves = c.members.filter(i => longLeaves.has(i));
       if (!leaves.length) return;
-      const others = c.members.filter(i => !longLeaves.has(i));
-      const top = Math.min(...others.map(i => levelOf[i]));
-      leaves.forEach(i => { levelOf[i] = top - 1; });
+      const placed = c.members.filter(i => !longLeaves.has(i));
+      leaves.forEach(i => {
+        const nbrs = [...adj[i]].filter(v => c.members.includes(v)).sort((a, b) => a - b);
+        if (nbrs.length) {
+          levelOf[i] = Math.min(...nbrs.map(v => levelOf[v])) - 1;
+        } else if (placed.length) {
+          levelOf[i] = Math.min(...placed.map(j => levelOf[j])) - 1;
+        } else {
+          levelOf[i] = -1;
+        }
+      });
     });
     pool.forEach(i => { levelOf[i] = 0; });
     const memo = levelOf;

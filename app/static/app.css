@@ -75,9 +75,12 @@ section ul { margin: 0.3rem 0; }
 svg.tg { display: block; min-width: 100%; }
 svg.tg text.tg-year { font-size: 10px; fill: #888; }
 svg.tg line.tg-tick { stroke: #ccc; stroke-width: 1; }
-svg.tg path.tg-edge { fill: none; stroke: #777; stroke-width: 1.4; }
+svg.tg path.tg-edge { fill: none; stroke: #777; stroke-width: 1.2; opacity: 0.45; }
 svg.tg text.tg-edge-label { font-size: 10px; fill: #555; }
 svg.tg path.tg-arrowhead { fill: #777; }
+/* hovered/locked lineage renders above the de-emphasised background wires */
+svg.tg path.tg-edge:hover { opacity: 1; }
+svg.tg path.tg-edge.hot { opacity: 1; }
 /* transition-type colours (edges, arrowheads, legend swatches) */
 svg.tg path.tg-edge.ty-merger { stroke: #2a5db0; }
 svg.tg path.tg-edge.ty-rename { stroke: #7a3aa0; }

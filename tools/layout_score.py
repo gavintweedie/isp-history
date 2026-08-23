@@ -76,7 +76,7 @@ def assign_spine(nodes, edges, floor):
 
 
 def pack_layer(band, track_h, slope, min_sep=0, death_sort=False,
-               presorted=False):
+               presorted=False, pull=None):
     """First-fit row packing for one layer.
 
     A node may share a row only with ISPs it is never alive alongside (else the
@@ -89,6 +89,13 @@ def pack_layer(band, track_h, slope, min_sep=0, death_sort=False,
     into near the top of the successor's band and the vertical connector
     crosses fewer other companies' lines. With presorted the caller's order is
     used unchanged (same bottom-first placement), for the barycenter sweeps.
+
+    pull: optional {"rows": id -> absolute row index from previous packing,
+    "refs": id -> transition-partner ids, "base": absolute index of this
+    layer's first row}. When given, a node goes to the feasible row whose
+    absolute index is closest to its partners' rows instead of blindly
+    bottom-most — pulls chain/fan members vertically adjacent to their
+    transition partners so connectors stop slicing unrelated bars.
     """
     if not presorted:
         key = (lambda n: (-n["x1"], n["x0"])) if death_sort \
@@ -114,17 +121,27 @@ def pack_layer(band, track_h, slope, min_sep=0, death_sort=False,
 
     # bottom-first placement when death-sorted: early-dead lines sink to the
     # bottom of the band, keeping the rows beneath a dying company empty of
-    # lines alive on its death date.
+    # lines alive on its death date. With pull, choose the feasible row whose
+    # absolute index best matches the partners' rows (ties keep bottom-most).
     for n in band:
-        placed = False
-        rows = (range(len(tracks) - 1, -1, -1)
-                if (death_sort or presorted) else range(len(tracks)))
-        for t in rows:
-            if not conflicts(n, t):
-                tracks[t].append(n)
-                placed = True
-                break
-        if placed:
+        hint = None
+        if pull is not None:
+            refs = pull["refs"].get(n["id"])
+            if refs:
+                vals = [pull["rows"][v] for v in refs if v in pull["rows"]]
+                if vals:
+                    hint = sum(vals) / len(vals)
+        best_t = None
+        best_score = None
+        base = pull["base"] if pull is not None else 0
+        for t in range(len(tracks) - 1, -1, -1):
+            if conflicts(n, t):
+                continue
+            score = abs(base + t - hint) if hint is not None else 0.0
+            if best_score is None or score < best_score - 1e-9:
+                best_t, best_score = t, score
+        if best_t is not None:
+            tracks[best_t].append(n)
             continue
         # Starting a new bottom row: the line must still keep min_sep from the
         # row directly above it. If it wouldn't, leave an empty buffer row so
@@ -193,6 +210,7 @@ def build_layers(nodes, edges, use_components, pushdown=True, free_direction=Fal
                         queue.append(v)
                         order.append(v)
             counts = {0: 1}
+            dir_of = {}
             memo[root] = 0
             for u in order[1:]:
                 p = par[u]
@@ -205,12 +223,45 @@ def build_layers(nodes, edges, use_components, pushdown=True, free_direction=Fal
                     long_leaves.add(u)
                     lv = memo[p] - 1
                 else:
-                    lv = memo[p] + (1 if counts.get(memo[p] + 1, 0) <=
-                                    counts.get(memo[p] - 1, 0) else -1)
+                    cand_up, cand_dn = memo[p] + 1, memo[p] - 1
+                    up = counts.get(cand_up, 0)
+                    dn = counts.get(cand_dn, 0)
+                    # levels of u's already-placed transition partners: choose
+                    # the side closer to them so chains/leaves stay vertically
+                    # adjacent instead of scattered across the band.
+                    placed_lv = [memo[v] for v in adj[u]
+                                 if v != p and v in cm and v in memo]
+                    pd = dir_of.get(p, 0)
+                    if placed_lv:
+                        cu = sum(abs(cand_up - v) for v in placed_lv)
+                        cd = sum(abs(cand_dn - v) for v in placed_lv)
+                        if cu < cd:
+                            lv = cand_up
+                        elif cd < cu:
+                            lv = cand_dn
+                        elif pd:
+                            lv = memo[p] + pd
+                        else:
+                            lv = cand_up if up <= dn else cand_dn
+                    elif pd:
+                        # direction-sticky runs: continue the chain's way,
+                        # flip only when that side is far more loaded
+                        if pd > 0:
+                            lv = cand_up if up <= dn * 3 else cand_dn
+                        else:
+                            lv = cand_dn if dn <= up * 3 else cand_up
+                    else:
+                        lv = cand_up if up <= dn else cand_dn
+                delta = lv - memo[p]
+                dir_of[u] = (1 if delta > 0 else -1) if delta else pd
                 memo[u] = lv
                 counts[lv] = counts.get(lv, 0) + 1
-        # Sweep long-lived leaves to the top of their family, above every
-        # member's fan, so no connector runs through their decades-long line.
+        # Sweep long-lived leaves next to their single family partner instead
+        # of to the top of the whole family: pinning Telstra-style leaves at
+        # the band's top left their direct children 40+ lanes below (Pacnet →
+        # Telstra crossed everything in between). Adjacent pinning keeps the
+        # decades-long bar clear of its own child's connector and packs the
+        # fan tightly around the leaf.
         for c in comps:
             if len(c) == 1:
                 continue
@@ -218,9 +269,15 @@ def build_layers(nodes, edges, use_components, pushdown=True, free_direction=Fal
             leaves = [i for i in c if i in long_leaves]
             if not leaves:
                 continue
-            top = min(memo[i] for i in cm - set(leaves))
+            placed = [i for i in c if i not in long_leaves]
             for i in leaves:
-                memo[i] = top - 1
+                nbrs = sorted(v for v in adj[i] & cm)
+                if nbrs:
+                    memo[i] = min(memo[v] for v in nbrs) - 1
+                elif placed:
+                    memo[i] = min(memo[j] for j in placed) - 1
+                else:
+                    memo[i] = -1
     else:
         parents = {}
         children = {}
@@ -386,31 +443,56 @@ def summarize(nodes, edges, track_h, slope, gap, floor, min_sep, use_components,
                                    free_direction=free_direction)
     node_rows = {k: list(v) for k, v in node_rows.items()}
 
-    def pack_all(presorted):
-        """Pack every layer in its current order; return geometry."""
+    def pack_all(presorted, prev_rows=None):
+        """Pack every layer in its current order; return geometry.
+
+        prev_rows: absolute row indices from the previous packing pass. When
+        given, lineage-aware track selection pulls each ISP toward its
+        transition partners' rows (see pack_layer's `pull`).
+        """
+        pull = None
+        if prev_rows:
+            pull = {"rows": dict(prev_rows), "refs": adj_refs, "base": 0}
         recess = {}
         track_of = {}
+        abs_base = 0
         for key in keys:
             band = [byid[i] for i in node_rows[key]]
+            if pull is not None:
+                pull["base"] = abs_base
             tracks = pack_layer(band, track_h, slope, min_sep=min_sep,
-                                death_sort=death_sort, presorted=presorted)
+                                death_sort=death_sort, presorted=presorted,
+                                pull=pull)
             recess[key] = tracks
             for t, row in enumerate(tracks):
                 for n in row:
                     track_of[n["id"]] = t
+                    if pull is not None:
+                        pull["rows"][n["id"]] = abs_base + t
+            abs_base += len(tracks)
         band_top = {}
         y = PADT
         for key in keys:
             band_top[key] = y
             y += len(recess[key]) * track_h + gap
         y0 = {}
+        abs_rows = {}
         for key in keys:
+            base_idx = sum(len(recess[k]) for k in keys[:keys.index(key)])
             for t, row in enumerate(recess[key]):
                 for n in row:
                     y0[n["id"]] = band_top[key] + t * track_h
-        return recess, track_of, band_top, y0, y + 20
+                    abs_rows[n["id"]] = base_idx + t
+        return recess, track_of, band_top, y0, y + 20, abs_rows
 
-    recess, track_of, band_top, y0, height = pack_all(presorted=False)
+    adj_refs = {}
+    for e in edges:
+        if e["year"] is None or e["f"] not in byid or e["t"] not in byid:
+            continue
+        adj_refs.setdefault(e["f"], set()).add(e["t"])
+        adj_refs.setdefault(e["t"], set()).add(e["f"])
+
+    recess, track_of, band_top, y0, height, abs_rows = pack_all(presorted=False)
 
     # Barycenter sweeps (free-direction layout only): reorder each layer's rows
     # so every ISP sits near the median row of its neighbours, which shortens
@@ -458,7 +540,8 @@ def summarize(nodes, edges, track_h, slope, gap, floor, min_sep, use_components,
                 node_rows[key].sort(
                     key=lambda i: (tgt.get(i, float("inf")),
                                    signed.get(i, 0), i))
-            recess, track_of, band_top, y0, height = pack_all(presorted=True)
+            recess, track_of, band_top, y0, height, abs_rows = pack_all(
+                presorted=True, prev_rows=abs_rows)
 
     rows = sum(len(recess[k]) for k in keys)
     coincident = close = 0
@@ -488,8 +571,10 @@ def old_summary(nodes, edges):
 
 
 def new_summary(nodes, edges):
-    return summarize(nodes, edges, track_h=34, slope=0.8, gap=6, floor=1985,
-                     min_sep=MIN_SEP, use_components=True, stagger=True,
+    # Mirrors the promoted horizontal Gantt in app/static/graph.js
+    # (TRACK_H=24, SLOPE=0, no MIN_SEP buffer rows).
+    return summarize(nodes, edges, track_h=24, slope=0, gap=6, floor=1985,
+                     min_sep=0, use_components=True, stagger=True,
                      death_sort=True, pushdown=True, free_direction=True)
 
 
