@@ -23,9 +23,16 @@
     {
       "kind": "death",
       "year": 2014,
-      "date_disp": "2014",
-      "precision": "exact",
-      "details": "Acquired by Vocus."
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Acquired by Vocus.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/amcom-telecommunications-limited/",
+          "label": "deListed Australia: Amcom Telecommunications Limited (ASX:AMM) \u2014 delisted 9 Jul 2015 (Vocus scheme of arrangement)"
+        }
+      ]
     }
   ]
 }

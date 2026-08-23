@@ -25,7 +25,14 @@
       "year": 2004,
       "date_disp": "2004",
       "precision": "exact",
-      "details": "Reverse-taken-over by People Telecom."
+      "details": "Reverse-taken-over by People Telecom.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/swiftel-limited",
+          "label": "deListed Australia: Swiftel Limited (ASX:SWT) \u2014 became People Telecom Ltd 5 Jul 2004"
+        }
+      ]
     }
   ]
 }

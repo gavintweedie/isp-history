@@ -28,7 +28,14 @@
       "year": 2025,
       "date_disp": "May 2025",
       "precision": "exact",
-      "details": "Signed $10m deal (16 May 2025) to acquire TasmaNet's business from Field Solutions' receivers; expected to complete before end-May 2025."
+      "details": "Signed $10m deal (16 May 2025) to acquire TasmaNet's business from Field Solutions' receivers; expected to complete before end-May 2025.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02958971",
+          "label": "ASX: \"CCG completes acquisition of business and assets of TasmaNet\" (17 Jun 2025)"
+        }
+      ]
     }
   ],
   "refs": [

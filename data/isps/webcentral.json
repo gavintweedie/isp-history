@@ -25,7 +25,14 @@
       "year": 2006,
       "date_disp": "Sep 2006",
       "precision": "exact",
-      "details": "Acquired by Melbourne IT (delisted 25 Sep 2006)."
+      "details": "Acquired by Melbourne IT (delisted 25 Sep 2006).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/webcentral-group-limited/",
+          "label": "deListed Australia: WebCentral Group Limited (ASX:WCG) \u2014 delisted 25 Sep 2006 (Melbourne IT scheme of arrangement)"
+        }
+      ]
     }
   ],
   "refs": [
