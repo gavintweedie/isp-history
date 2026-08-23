@@ -3534,6 +3534,42 @@
       "notes": "Kooee Communications Pty Ltd (100%) transferred to B Digital under SPT Strategic Alliance; Kooee was already part of the SPT/Soul group.",
       "from": "kooee",
       "to": "soul"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2005,
+      "date_disp": "Nov 2005",
+      "notes": "Optus acquired Alphawest; continued as IT services arm.",
+      "from": "alphawest",
+      "to": "optus"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "AOL|7 JV customer base (~90k)",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "notes": "AOL|7 JV sold to Primus Telecommunications; ~90,000 subscribers transferred.",
+      "from": "aol-australia",
+      "to": "primus-telecom-australia"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "Nov 2004",
+      "notes": "Datafast acquired Bigfoot Internet's business and customer base.",
+      "from": "bigfoot-internet",
+      "to": "datafast"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "ISP division",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "notes": "Comswest ISP division sold to Westnet (iiNet group); Comswest parent continued as enterprise services.",
+      "from": "comswest",
+      "to": "westnet"
     }
   ]
 }
