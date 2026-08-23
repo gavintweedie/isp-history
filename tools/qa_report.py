@@ -108,16 +108,16 @@ def main():
 
         # --- birth event year vs date_disp consistency ---
         for e in birth(i):
-            by = e.get("year")
+            b_year = e.get("year")
             bd = str(e.get("date_disp", ""))
-            if by is None or not bd:
+            if b_year is None or not bd:
                 continue
             years = re.findall(r"(19\d\d|20[012]\d)", bd)
             if years:
                 disp_yr = int(years[-1])
-                if abs(by - disp_yr) >= 2:
+                if abs(b_year - disp_yr) >= 2:
                     year_disp_mismatch.append(
-                        f"{i['name']} birth: year={by} vs disp='{bd}' (gap {abs(by-disp_yr)}yrs)"
+                        f"{i['name']} birth: year={b_year} vs disp='{bd}' (gap {abs(b_year-disp_yr)}yrs)"
                     )
 
         # --- death event year vs date_disp consistency (higher threshold for vague ranges) ---
