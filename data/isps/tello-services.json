@@ -1,0 +1,33 @@
+{
+  "name": "Tello Services",
+  "slug": "tello-services",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "http://www.tello.com.au",
+  "summary": "Australian ISP offering internet plans with unlimited usage and detailed reporting.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Tello Services",
+      "start_year": 2013,
+      "start_disp": "c. 2013"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2013,
+      "date_disp": "c. 2013",
+      "precision": "approx",
+      "details": "Tello Services AS133130.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.tello.com.au",
+          "label": "Tello Services"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

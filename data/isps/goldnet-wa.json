@@ -1,0 +1,33 @@
+{
+  "name": "GoldNet (gold.net.au)",
+  "slug": "goldnet-wa",
+  "birthplace": "Kalgoorlie-Boulder, WA",
+  "status": "active",
+  "website": "https://www.gold.net.au",
+  "summary": "Kalgoorlie-Boulder telecommunications provider serving the WA Goldfields; internet, remote IP connectivity, point-to-point Ethernet with 10Gb backbone. DISTINCT from Goldnet Internet Services (goldnet.com.au, merged into Emerge Technologies 1999).",
+  "aliases": [],
+  "names": [
+    {
+      "name": "GoldNet (gold.net.au)",
+      "start_year": 2005,
+      "start_disp": "c. 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2005,
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "GoldNet Pty Ltd AS17635; Kalgoorlie-Boulder based telecom/internet provider.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.gold.net.au",
+          "label": "GoldNet gold.net.au"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

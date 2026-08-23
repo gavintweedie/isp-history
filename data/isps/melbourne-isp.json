@@ -1,0 +1,33 @@
+{
+  "name": "Melbourne Internet Service Provider",
+  "slug": "melbourne-isp",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "http://www.melbourneisp.com",
+  "summary": "Melbourne ISP offering wirelessFibre\u2122 fixed-wireless broadband to areas previously unable to get high-speed internet.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Melbourne Internet Service Provider",
+      "start_year": 2015,
+      "start_disp": "c. 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Melbourne fixed-wireless ISP; AS137079.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.melbourneisp.com",
+          "label": "Melbourne Internet Service Provider"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}
