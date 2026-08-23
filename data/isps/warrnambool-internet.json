@@ -22,6 +22,20 @@
       "date_disp": "May 1996",
       "precision": "exact",
       "details": "Company registered 20 May 1996."
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "by Dec 2000",
+      "precision": "by",
+      "details": "Datafast Half Yearly Report 31 Dec 2000 references 'divestment of our Warrnambool and Ballarat retail operations'; ACN 074018554 cancelled 2022.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=244462",
+          "label": "ASX/Datafast: Divestment of Warrnambool retail operations (pre-Dec 2000)"
+        }
+      ]
     }
   ],
   "refs": [

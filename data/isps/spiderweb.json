@@ -22,6 +22,14 @@
       "date_disp": "by Dec 1998",
       "precision": "by",
       "details": "Earliest Wayback capture of spiderweb.com.au 12 Dec 1998; site active throughout the late 1990s-2000s. Earliest capture 12 dec 1998."
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Aug 2026",
+      "precision": "exact",
+      "details": "Death researched Aug 2026: spiderweb.com.au still serves as Spiderweb Cloud (WordPress/Email hosting) through at least 2020; APNIC block SPIDERWEBCLOUD-AU still announced via AS133159. May still be operating.",
+      "refs": []
     }
   ],
   "refs": [

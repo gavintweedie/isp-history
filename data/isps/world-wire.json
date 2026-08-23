@@ -22,6 +22,14 @@
       "date_disp": "by Dec 1996",
       "precision": "by",
       "details": "Earliest Wayback capture of wire.net.au 30 Dec 1996. Earliest capture 30 dec 1996."
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Aug 2026",
+      "precision": "exact",
+      "details": "Death researched Aug 2026: Melbourne ISP wire.net.au; earliest capture Dec 1996; domain still resolves (2025) likely parked/squatted. 'Wire Networks' liquidated 2018 is a different entity.",
+      "refs": []
     }
   ],
   "refs": [

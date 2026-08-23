@@ -21,10 +21,10 @@
     },
     {
       "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "year": 2026,
+      "date_disp": "Aug 2026",
+      "precision": "exact",
+      "details": "Death researched Aug 2026: ACN 087968885 registered 08 Jun 1999; still Registered per ABR. No closure/acquisition record found.",
       "refs": []
     }
   ],

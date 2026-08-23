@@ -25,10 +25,10 @@
     },
     {
       "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=eis.net.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
+      "year": 2026,
+      "date_disp": "Aug 2026",
+      "precision": "exact",
+      "details": "Death researched Aug 2026: Elu Information Systems Pty Ltd ABN 15 080 110 809 still Active; business name EISNET still current; eis.net.au live (MediaWiki); AS9421 allocated but not visible in global routing. Retail ISP phase wound down but entity continues as hosting.",
       "refs": []
     }
   ],

@@ -23,6 +23,20 @@
       "date_disp": "1997",
       "precision": "approx",
       "details": "Gippsland community net operated by Sarsfield Solutions. Live by 1997."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "by Sep 2007",
+      "precision": "by",
+      "details": "Domain returned 404 for every permutation by Sep 2007 (W3C link report); trademark lapsed.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://lists.w3.org/Archives/Public/w3c-wai-eo/2007JulSep/0108.html",
+          "label": "W3C: gippsnet.com.au returns 404 (Sep 2007)"
+        }
+      ]
     }
   ],
   "refs": [

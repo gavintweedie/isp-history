@@ -30,6 +30,20 @@
       "precision": "unknown",
       "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=zed.org&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
       "refs": []
+    },
+    {
+      "kind": "death",
+      "year": 2016,
+      "date_disp": "Jul 2016",
+      "precision": "exact",
+      "details": "ASN AS9507 re-registered to NextHop Pty Ltd Jul 2016; Zed Connect operations superseded.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://bgp.tools/as/9507",
+          "label": "AS9507 bgp.tools \u2014 registered to NextHop 21 Jul 2016"
+        }
+      ]
     }
   ],
   "refs": [
