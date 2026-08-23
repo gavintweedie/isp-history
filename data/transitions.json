@@ -3477,6 +3477,15 @@
           "label": "Computerworld: AAPT buys AT&T EasyLink Service"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "ASN transfer (AS9507)",
+      "year": 2016,
+      "date_disp": "Jul 2016",
+      "notes": "NextHop Pty Ltd re-registered AS9507 (previously held by Zed Connect since c.2001); launched as wholesale dark fibre and IP carrier.",
+      "from": "zed-connect",
+      "to": "nexthop-au"
     }
   ]
 }
