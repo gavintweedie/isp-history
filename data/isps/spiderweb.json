@@ -2,9 +2,9 @@
   "name": "SpiderWeb",
   "slug": "spiderweb",
   "birthplace": "Australia",
-  "status": "inactive",
+  "status": "active",
   "website": "http://www.spiderweb.com.au",
-  "summary": "Australian ISP operating on spiderweb.com.au from Dec 1998 into the 2000s (also served from www2.spiderweb.com.au); ~1,000+ Wayback captures attest to an active, long-lived provider.",
+  "summary": "Australian ISP operating on spiderweb.com.au from Dec 1998; evolved into Spiderweb Cloud offering WordPress/email hosting; still active.",
   "aliases": [
     "spiderweb.com.au"
   ],

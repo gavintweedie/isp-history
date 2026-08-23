@@ -30,6 +30,20 @@
       "precision": "exact",
       "details": "Death researched Aug 2026: AusBone participant 1997-1998; domain terrigal.net.au still resolves (2026) but likely parked/reused. No ABN or ASIC match found.",
       "refs": []
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. Jan 2004",
+      "precision": "approx",
+      "details": "Last Wayback capture with ISP content 25 Jan 2004; subsequent captures show parked/reused domain (301/302 redirects).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040125070823/http://www.terrigal.net.au/",
+          "label": "Terrigal Net \u2014 last ISP capture 25 Jan 2004"
+        }
+      ]
     }
   ],
   "refs": [

@@ -31,6 +31,14 @@
       "precision": "exact",
       "details": "Death researched Aug 2026: ISP Ltd Melbourne AS4752; parent of BlazeNet which folded into Hotkey. Hotkey deregistered 21 Jul 2023 but that's not ISP Ltd itself. No ABR deregistration found for ISP Ltd.",
       "refs": []
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "ISP Ltd (AS4752) parent of BlazeNet which folded into Hotkey Internet Services ~2004; last ispau.net capture Feb/Mar 2001.",
+      "refs": []
     }
   ],
   "refs": [

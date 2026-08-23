@@ -30,6 +30,20 @@
       "date_disp": "c. 2013",
       "precision": "approx",
       "details": "Portal last archived 2013 (Wayback Apr 2013); no formal closure found. Entity remains Active per ABR."
+    },
+    {
+      "kind": "death",
+      "year": 2018,
+      "date_disp": "by Mar 2018",
+      "precision": "by",
+      "details": "Last Wayback capture showing HTTP 200 content: 10 Mar 2018. Entity remains registered but portal ceased serving after this date.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=fnq.net.au&matchType=domain&from=2017&limit=5",
+          "label": "Wayback CDX: fnq.net.au last 200-capture Mar 2018"
+        }
+      ]
     }
   ],
   "refs": [

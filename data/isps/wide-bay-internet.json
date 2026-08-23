@@ -31,6 +31,20 @@
       "precision": "exact",
       "details": "Death researched Aug 2026: WideBay Internet Services, Bundaberg QLD; counter from Oct 1998; domain widebay.net.au now parked (resolves to AWS). No acquisition/closure news found.",
       "refs": []
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "by May 2019",
+      "precision": "by",
+      "details": "Wayback captures show HTTP 200 content through 03 May 2019 \u2014 over 20 years of operation; domain subsequently parked.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190503154319/http://www.widebay.net.au/",
+          "label": "Wide Bay Internet \u2014 last capture 3 May 2019"
+        }
+      ]
     }
   ],
   "refs": [

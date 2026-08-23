@@ -2,9 +2,9 @@
   "name": "eis.net",
   "slug": "eis-net",
   "birthplace": "Brisbane, QLD",
-  "status": "inactive",
+  "status": "active",
   "website": "http://www.eis.net.au",
-  "summary": "Brisbane ISP (eis.net.au, AS9421); a participant on the AusBone Brisbane (BIX) exchange; peering contact Ernie Elu. Distinct from the Far North Queensland 'Eisa Internet North' operation.",
+  "summary": "Brisbane ISP (eis.net.au / Elu Information Systems Pty Ltd); BIX participant AS9421; retail ISP phase wound down but entity continues as hosting/network services; ABN and business name EISNET still active.",
   "aliases": [
     "eis.net.au"
   ],
