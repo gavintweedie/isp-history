@@ -27,7 +27,7 @@
       "kind": "birth",
       "year": 2000,
       "date_disp": "by 2000",
-      "precision": "by",
+      "precision": "approx",
       "details": "Established 2000 (per business listing; ABN 29 066 971 533); ran E-Wire's Perth residential-estate networks."
     },
     {

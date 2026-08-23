@@ -8,25 +8,24 @@
   "names": [
     {
       "name": "Global Dial Internet",
-      "start_year": 2002,
-      "start_disp": "by 2002"
+      "start_year": 1994,
+      "start_disp": "Sep 1994"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2000,
-      "date_disp": "by 2000",
-      "precision": "by",
-      "details": "Earliest Wayback capture of globaldial.com.au Apr 2000."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=globaldial.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "year": 1994,
+      "date_disp": "Sep 1994",
+      "precision": "approx",
+      "details": "Founded Sep 1994 by Patrick Ng; earliest Wayback capture of globaldial.com.au; acquired by ZettaNet/Highway 1 Jun 2010.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Global Dial \u2014 Established Sep 1994"
+        }
+      ]
     },
     {
       "kind": "death",
