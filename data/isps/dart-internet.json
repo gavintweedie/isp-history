@@ -1,0 +1,45 @@
+{
+  "name": "DART Internet",
+  "slug": "dart-internet",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "dart.net.au",
+  "summary": "Consumer ISP (dart.net.au), CEO James Austin; unlimited ADSL/ISDN on Connect/AAPT backbone (originally Comindico); acquired Ultrawave Internet and 'G4 ISPs' 2003; entered external administration ~Nov 2004; customer base handed to Hotkey. Distinct from Dart Global (dart.com.au, ACN 090 727 861).",
+  "names": [
+    {
+      "name": "DART Internet",
+      "start_year": 2003,
+      "start_disp": "c. 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "dart.net.au registered 2001 (placeholder page), active as DART Internet (James Austin, CEO) from 2003; based Brisbane (PO Box 10308 Adelaide St, Brisbane QLD)."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Nov 2004",
+      "precision": "exact",
+      "details": "Entered external administration ~Nov 2004 (PwC, Brisbane); customer base handed to Hotkey. ABN 'DART INTERNET PTY LTD' cancelled.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/259710",
+          "label": "Whirlpool: 'DART billing issues' - James Austin: PWC administrators, 'it's up to PWC and Hotkey' (Nov 2004)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "approx",
+      "details": "Distinct from Dart Global Pty Ltd (dart.com.au, ACN 090 727 861, Zetland NSW) - the two 'Dart' ISPs disputed the name/trademark."
+    }
+  ]
+}

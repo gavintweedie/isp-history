@@ -2080,6 +2080,32 @@
     },
     {
       "type": "acquisition",
+      "arm_label": "WA ADSL customer base",
+      "year": 2002,
+      "date_disp": "Aug 2002",
+      "notes": "Fleet Broadband acquired XiS's Western Australian ADSL customer base (confirmed by Fleet National Sales Manager John Lane, 1 Aug 2002); WA XiS ADSL customers moved to Fleet. A full takeover of XiS was considered but did not proceed.",
+      "from": "xis",
+      "to": "fleet-broadband",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/26435",
+          "label": "Whirlpool: 'XIS Address? / XiS taken over by Fleet?' - Fleet statement re WA ADSL customer base (1 Aug 2002)"
+        },
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/29328",
+          "label": "Whirlpool: 'Who is your ADSL Provider?' - WA XiS sign-ups now with Fleet"
+        },
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/31215",
+          "label": "Whirlpool: 'Fleet & XIS' - Eftel offered WA XiS customers service"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
       "arm_label": "100%",
       "year": 2002,
       "date_disp": "c. 2002",
@@ -3952,6 +3978,38 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
           "label": "Hotkey Internet Services (Wayback)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2003,
+      "date_disp": "Sep 2003",
+      "notes": "DART Internet acquired Ultrawave Internet (announced 13 Sep 2003); Ultrawave merged into DART, staff released, customers migrated.",
+      "from": "ultrawave-internet",
+      "to": "dart-internet",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/114117",
+          "label": "Whirlpool: 'official - DART aquires Ultrawave' - DART announcement (13 Sep 2003)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "customer base",
+      "year": 2004,
+      "date_disp": "c. Nov 2004",
+      "notes": "DART Internet entered external administration (PwC, Brisbane) ~Nov 2004; its customer base was handed to Hotkey. Distinct from Dart Global (dart.com.au), which Hotkey separately acquired Nov 2004.",
+      "from": "dart-internet",
+      "to": "hotkey",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/259710",
+          "label": "Whirlpool: 'DART billing issues' - James Austin: PWC administrators, 'it's up to PWC and Hotkey' (Nov 2004)"
         }
       ]
     },

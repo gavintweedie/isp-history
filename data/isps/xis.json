@@ -1,10 +1,14 @@
 {
   "name": "XIS",
   "slug": "xis",
-  "birthplace": "Melbourne, VIC",
+  "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://xis.net.au",
-  "summary": "Melbourne ISP (XiS Pty Ltd, formerly X Corp Online); dial-up/ADSL/hosting; acquired Deltaweb 2001; liquidated ~2003.",
+  "summary": "Queensland ISP (XiS Pty Ltd, ABN 59 098 079 782, formerly X Corp Online); Brisbane (Carindale) dial-up/ADSL/hosting with a Brisbane call centre; acquired Deltaweb 2001; sold its WA ADSL customer base to Fleet Broadband 2002; liquidated ~2003.",
+  "aliases": [
+    "XiS Pty Ltd",
+    "X Corp Online"
+  ],
   "names": [
     {
       "name": "XIS",
@@ -21,11 +25,37 @@
       "details": "X Corp Online Pty Ltd (brand XiS from 2001)."
     },
     {
+      "kind": "note",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "approx",
+      "details": "Failed national ADSL rollout (2001-02) drew TIO complaints and pre-paid refund issues; XiS sold its Western Australian ADSL customer base to Fleet Broadband (confirmed by Fleet, 1 Aug 2002). A full Fleet takeover was considered but did not proceed.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/26435",
+          "label": "Whirlpool: 'XIS Address? / XiS taken over by Fleet?' - Fleet statement re WA ADSL customer base (1 Aug 2002)"
+        },
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/29328",
+          "label": "Whirlpool: 'Who is your ADSL Provider?' - WA XiS sign-ups now with Fleet"
+        }
+      ]
+    },
+    {
       "kind": "death",
       "year": 2003,
       "date_disp": "2003",
       "precision": "exact",
       "details": "Entered liquidation ~April 2003 (liquidator Gess Rambaldi)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020607052922/http://www.xis.net.au/",
+      "label": "XiS Pty. Ltd. ABN 59 098 079 782 - Brisbane Call Centre (Wayback 2002)"
     }
   ]
 }
