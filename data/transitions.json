@@ -3430,14 +3430,46 @@
       "refs": []
     },
     {
-      "type": "rename",
-      "arm_label": "renamed",
-      "year": 2002,
-      "date_disp": "Nov 2002",
-      "notes": "Parergon Technology renamed Labyrinth Connections Pty Ltd.",
+      "type": "acquisition",
+      "arm_label": "customer base",
+      "year": 1999,
+      "date_disp": "Oct 1999",
+      "notes": "AUSOM (Apple Users' Society of Melbourne) handed its 542 ISP users to Labyrinth Connections after deciding an ISP couldn't be run by volunteers.",
+      "from": "ausom",
+      "to": "labyrinth",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/588338",
+          "label": "Whirlpool: 'How would you rate Eftel?' - AUSOM switched members to Labyrinth (Hedley Finger)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "notes": "Sprint Online (Parergon Technology Pty Ltd, ACN 065 972 107) became a division of Labyrinth Connections; sprint.net.au styled itself 'a division of Labyrinth Connections' by Feb 2000. The Sprint company later inherited the 'Labyrinth Connections Pty Ltd' corporate name (21 Oct 2002) when the group consolidated under Key Point Pty Ltd - the origin of the two same-named entities.",
       "from": "parergon-technology",
       "to": "labyrinth",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000229163628/http://www.sprint.net.au/",
+          "label": "Sprint Online: 'A division of Labyrinth Connections' (Wayback, 29 Feb 2000)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000413034840/http://www.labyrinth.net.au/aboutus/index.html",
+          "label": "Labyrinth About Us: lists Sprint Online among recent takeovers (Wayback 2000)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/labyrinth-connections-pty-ltd-065972107/",
+          "label": "abn-lookup.com: Labyrinth Connections Pty Ltd ACN 065 972 107 - registered 5 Oct 1994, current name since 21 Oct 2002"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3730,10 +3762,16 @@
       "arm_label": "renamed",
       "year": 2002,
       "date_disp": "c. 2002",
-      "notes": "Labyrinth renamed KeyPoint Pty Ltd (same ACN).",
+      "notes": "Labyrinth Connections Pty Ltd renamed Key Point Pty Ltd (same ACN 069 211 678; ABN 48 069 211 678 cancelled 7 Nov 2017).",
       "from": "labyrinth",
       "to": "keypoint",
-      "refs": []
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=48069211678",
+          "label": "ABN Lookup: Key Point Pty Ltd ABN 48 069 211 678 (formerly Labyrinth Connections Pty Ltd)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4687,6 +4725,48 @@
           "kind": "official",
           "url": "https://www.accc.gov.au/system/files/OptiComm%20submission%20-%2023%20March%202012.pdf",
           "label": "ACCC: OptiComm submission listing Service Elements/Fuze/eWire/BES group"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "arm_label": "Ellenbrook HFC cable customers",
+      "year": 2002,
+      "date_disp": "Apr 2002",
+      "notes": "iiNet sold its Ellenbrook (WA) HFC cable customers to Broadcast Engineering Services (BES)/Cable Engineering Services; service continued under the e-wire brand. iiNet had provided services over the BES-built cable under an earlier joint venture.",
+      "from": "iinet",
+      "to": "e-wire",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/9235",
+          "label": "Whirlpool: 'iiNet & Cable What a joke' - iiNet operating Ellenbrook cable, Mar 2002"
+        },
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/1120918",
+          "label": "Whirlpool: 'Recommend any ISP for dsl in Ellenbrook' - iiNet withdrew, e-wire took over"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "arm_label": "Dalyellup HFC cable network",
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "notes": "e-wire (BES) took over the Dalyellup (Bunbury, WA) cable service from iiNet; e-wire continued using iiNet's Dalyellup infrastructure while it upgraded the head-end.",
+      "from": "iinet",
+      "to": "e-wire",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/24895",
+          "label": "Whirlpool: 'Att: All e-wire Broadband Customers' - e-wire using iiNet infrastructure at Dalyellup, Jul 2002"
+        },
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/49791",
+          "label": "Whirlpool: 'My experience with e-wire' - 'we took over services from iiNet who were charging'"
         }
       ]
     },
