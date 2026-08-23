@@ -9,14 +9,14 @@
     {
       "name": "SkyWave",
       "start_year": 2003,
-      "start_disp": "c. 2001-03"
+      "start_disp": "c. 2003"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2003,
-      "date_disp": "c. 2001-03",
+      "date_disp": "c. 2003",
       "precision": "approx",
       "details": "SkyWave Communications Australia; wireless broadband."
     },

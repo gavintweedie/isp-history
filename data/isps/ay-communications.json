@@ -9,7 +9,7 @@
     {
       "name": "AY Communications",
       "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_disp": "20 Jan 1998"
     }
   ],
   "events": [
@@ -18,7 +18,7 @@
       "year": 1998,
       "date_disp": "20 Jan 1998",
       "precision": "exact",
-      "details": "Sydney dialup/hosting ISP + Linux consulting; earliest Wayback capture 20 Jan 1998 (©1997 footer).",
+      "details": "Sydney dialup/hosting ISP + Linux consulting; earliest Wayback capture 20 Jan 1998 (\u00a91997 footer).",
       "refs": [
         {
           "kind": "archive",

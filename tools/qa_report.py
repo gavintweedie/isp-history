@@ -16,6 +16,7 @@ if a transition references an unknown slug.
 import argparse
 import json
 import os
+import re
 import sys
 from collections import Counter
 
@@ -60,6 +61,9 @@ def main():
     leaf_nodes = []
     bad_dates = []
     no_website_active = []
+    year_disp_mismatch = []
+    death_disp_mismatch = []
+    bad_summary_type = []
 
     for i in by.values():
         b = birth(i)
@@ -88,6 +92,72 @@ def main():
         if i["status"] == "active" and not i.get("website"):
             no_website_active.append(i["name"])
 
+        # --- start_year / start_disp consistency ---
+        for n in i.get("names", []):
+            sy = n.get("start_year")
+            sd = str(n.get("start_disp", ""))
+            if sy is None or not sd:
+                continue
+            years = re.findall(r"(19\d\d|20[012]\d)", sd)
+            if years:
+                disp_yr = int(years[-1])
+                if abs(sy - disp_yr) >= 2:
+                    year_disp_mismatch.append(
+                        f"{i['name']} names.start: year={sy} vs disp='{sd}' (gap {abs(sy-disp_yr)}yrs)"
+                    )
+
+        # --- birth event year vs date_disp consistency ---
+        for e in birth(i):
+            by = e.get("year")
+            bd = str(e.get("date_disp", ""))
+            if by is None or not bd:
+                continue
+            years = re.findall(r"(19\d\d|20[012]\d)", bd)
+            if years:
+                disp_yr = int(years[-1])
+                if abs(by - disp_yr) >= 2:
+                    year_disp_mismatch.append(
+                        f"{i['name']} birth: year={by} vs disp='{bd}' (gap {abs(by-disp_yr)}yrs)"
+                    )
+
+        # --- death event year vs date_disp consistency (higher threshold for vague ranges) ---
+        for e in death(i):
+            dy = e.get("year")
+            dd = str(e.get("date_disp", ""))
+            if dy is None or not dd:
+                continue
+            years = re.findall(r"(19\d\d|20[012]\d)", dd)
+            if years:
+                disp_yr = int(years[-1])
+                if abs(dy - disp_yr) >= 5:
+                    death_disp_mismatch.append(
+                        f"{i['name']} death: year={dy} vs disp='{dd}' (gap {abs(dy-disp_yr)}yrs)"
+                    )
+
+    # --- summary type validation ---
+    bad_summary_type = []
+    for i in by.values():
+        s = i.get("summary")
+        if s is not None and not isinstance(s, str):
+            bad_summary_type.append(f"{i['name']} — summary is {type(s).__name__}, expected str")
+
+    # --- transition ref URL validation ---
+    fake_transition_urls = []
+    cynosure_as_transition_ref = []
+    for t in edges:
+        for r in t.get("refs", []):
+            url = r.get("url", "")
+            if not url:
+                continue
+            # wildcard URLs that aren't valid Wayback patterns
+            if "*" in url and "/cdx/search" not in url and not re.match(
+                r"https://web\.archive\.org/web/\*/https?://", url
+            ):
+                fake_transition_urls.append(url[:80])
+            # Cynosure ISP directory used as transition evidence (proves existence, not transition)
+            if "cynosure.com.au/isp" in url:
+                cynosure_as_transition_ref.append(url[:80])
+
     name_counts = Counter(i["name"].lower() for i in by.values())
     dup_names = [n for n, c in name_counts.items() if c > 1]
 
@@ -103,6 +173,11 @@ def main():
         "birth_gt_death": len(bad_dates),
         "duplicate_names": len(dup_names),
         "active_no_website": len(no_website_active),
+        "year_disp_mismatch": len(year_disp_mismatch),
+        "death_disp_mismatch": len(death_disp_mismatch),
+        "bad_summary_type": len(bad_summary_type),
+        "fake_transition_urls": len(fake_transition_urls),
+        "cynosure_as_transition_ref": len(cynosure_as_transition_ref),
     }
 
     report["issues"] = {
@@ -115,6 +190,11 @@ def main():
         "birth_gt_death": sorted(bad_dates),
         "duplicate_names": sorted(dup_names),
         "active_no_website": sorted(no_website_active),
+        "year_disp_mismatch": year_disp_mismatch,
+        "death_disp_mismatch": death_disp_mismatch,
+        "bad_summary_type": bad_summary_type,
+        "fake_transition_urls": fake_transition_urls,
+        "cynosure_as_transition_ref": cynosure_as_transition_ref,
     }
 
     if args.json:
@@ -135,6 +215,11 @@ def main():
     print(f"  birth year > death year:              {c['birth_gt_death']}")
     print(f"  duplicate display names:              {c['duplicate_names']}")
     print(f"  active ISPs with no website:          {c['active_no_website']}")
+    print(f"  year/date_disp mismatches (birth):    {c['year_disp_mismatch']}")
+    print(f"  death date_disp mismatches (≥5yrs):   {c['death_disp_mismatch']}")
+    print(f"  bad summary type (not string):        {c['bad_summary_type']}")
+    print(f"  fake URLs in transition refs:         {c['fake_transition_urls']}")
+    print(f"  Cynosure used as transition ref:      {c['cynosure_as_transition_ref']}")
 
     def show(label, items, limit=40):
         print(f"\n--- {label} ({len(items)}) ---")
@@ -153,6 +238,21 @@ def main():
     show("STATUS UNKNOWN", report["issues"]["status_unknown"])
     show("BIRTH > DEATH ANOMALIES", report["issues"]["birth_gt_death"])
     show("DUPLICATE NAMES", report["issues"]["duplicate_names"])
+
+    if year_disp_mismatch:
+        show("YEAR/DATE_DISP MISMATCH (birth/names, ≥2yrs)", year_disp_mismatch)
+    if death_disp_mismatch:
+        show("DEATH DATE_DISP MISMATCH (≥5yrs)", death_disp_mismatch)
+    if bad_summary_type:
+        show("BAD SUMMARY TYPE", bad_summary_type)
+    if fake_transition_urls:
+        print(f"\n--- FAKE URLS IN TRANSITION REFS ({len(fake_transition_urls)}) ---")
+        for u in fake_transition_urls[:20]:
+            print(f"  {u}")
+    if cynosure_as_transition_ref:
+        print(f"\n--- CYNOSURE USED AS TRANSITION REF ({len(cynosure_as_transition_ref)}) ---")
+        for u in cynosure_as_transition_ref[:10]:
+            print(f"  {u}")
 
 
 if __name__ == "__main__":

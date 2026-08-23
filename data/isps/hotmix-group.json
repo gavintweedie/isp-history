@@ -30,9 +30,9 @@
     },
     {
       "kind": "death",
-      "date_disp": "None",
-      "precision": "exact",
-      "details": "None"
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Defunct; no exact closure date found."
     }
   ],
   "refs": [
