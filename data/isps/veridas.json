@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://veridas.com.au",
-  "summary": "Brisbane wholesale ISP (wholesale dialup/ADSL/wireless to ~170 ISP clients); collapsed Sep 2006, receivership, ABN cancelled 2009.",
+  "summary": "Brisbane wholesale ISP (wholesale dialup/ADSL/wireless to ~170 ISP clients); acquired Lithoptix DSL customers 2004; collapsed Sep 2006, receivership Oct 2006, ABN cancelled 2009.",
   "names": [
     {
       "name": "Veridas Communications",
@@ -40,7 +40,7 @@
       "year": 2006,
       "date_disp": "2006",
       "precision": "exact",
-      "details": "Collapsed Sep 2006; receivership Oct 2006; ABN cancelled 2009."
+      "details": "Collapsed Sep 2006 amid management rift; receivership Oct 2006; ABN cancelled 2009. No single acquirer \u2014 ~170 ISP resellers individually migrated customers to People Telecom, Wild IT and other wholesalers."
     }
   ],
   "refs": [

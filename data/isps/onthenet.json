@@ -2,7 +2,7 @@
   "name": "OntheNet",
   "slug": "onthenet",
   "birthplace": "Gold Coast, QLD",
-  "status": "active",
+  "status": "inactive",
   "website": "https://www.onthenet.com.au",
   "summary": "Gold Coast regional telco/ISP (Network Technology (Aust) Pty Ltd; run by Melbourne-registered ONTHENET Pty Ltd); 'On the Net' trading identity; NBN/business fibre/VoIP; acquired by Vonex 2022.",
   "names": [
@@ -22,6 +22,14 @@
       "date_disp": "c. 1994-95",
       "precision": "approx",
       "details": "Established ~Dec 1994/1995 on the Gold Coast."
+    },
+    {
+      "kind": "death",
+      "year": 2022,
+      "date_disp": "2022",
+      "precision": "exact",
+      "details": "Acquired by Vonex.",
+      "refs": []
     }
   ],
   "refs": [

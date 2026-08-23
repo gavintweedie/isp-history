@@ -3561,6 +3561,67 @@
       "notes": "Comswest ISP division sold to Westnet (iiNet group); Comswest parent continued as enterprise services.",
       "from": "comswest",
       "to": "westnet"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "DSL customers",
+      "year": 2004,
+      "date_disp": "2004",
+      "notes": "Lithoptix DSL customers transferred to Veridas Communications management.",
+      "from": "lithoptix",
+      "to": "veridas"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2006,
+      "date_disp": "c. mid-2006",
+      "notes": "AskAussie customer base transferred to Veridas Communications; Veridas itself collapsed Sep 2006 leaving customers to migrate to Wild IT and others.",
+      "from": "askaussie",
+      "to": "veridas",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/551833",
+          "label": "Whirlpool: Ask Aussie, Veridas or Wild IT? (Jul 2006)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2000,
+      "date_disp": "c. 1999-2000",
+      "notes": "Aurum Internet acquired by WestNet.",
+      "from": "aurum-internet",
+      "to": "westnet"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "notes": "FunnelWeb Internet (Canberra) absorbed by OzEmail.",
+      "from": "funnelweb-internet",
+      "to": "ozemail"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2013,
+      "date_disp": "Apr 2013",
+      "notes": "Karratha Internet taken over by Escape.Net (domain redirect + registrar transfer Apr 2013).",
+      "from": "karratha-internet",
+      "to": "escape-net-dot"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2022,
+      "date_disp": "2022",
+      "notes": "OntheNet acquired by Vonex.",
+      "from": "onthenet",
+      "to": "vonex"
     }
   ]
 }
