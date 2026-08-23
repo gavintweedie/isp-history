@@ -8,25 +8,24 @@
   "names": [
     {
       "name": "iGreen",
-      "start_year": 2004,
-      "start_disp": "Feb 2004"
+      "start_year": 1999,
+      "start_disp": "1999"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1999,
-      "date_disp": "by Dec 1999",
-      "precision": "by",
-      "details": "iGreen Pty Ltd, ACN 090 922 478 (ASIC)."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=igreen.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "date_disp": "1999",
+      "precision": "approx",
+      "details": "ISP/telecom (dialup + broadband); iGreen DSL division bought by FlowCom Apr 2003. Entity ACN 090922478 (ACN 090 series \u2248 1999).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=90090922478",
+          "label": "ABR: iGreen ACN 090922478"
+        }
+      ]
     },
     {
       "kind": "death",

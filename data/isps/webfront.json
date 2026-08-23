@@ -8,25 +8,24 @@
   "names": [
     {
       "name": "Webfront",
-      "start_year": 2002,
-      "start_disp": "2002"
+      "start_year": 1997,
+      "start_disp": "1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "by May 1997",
-      "precision": "by",
-      "details": "Webfront Pty Ltd, ACN 078 775 510 (ASIC)."
-    },
-    {
-      "kind": "note",
-      "year": 2000,
-      "date_disp": "pending",
-      "precision": "unknown",
-      "details": "PENDING birth-date research. Current 'by' date needs upgrading. Checks to run: Wayback CDX: https://web.archive.org/cdx/search/cdx?url=webfront.com.au&matchType=domain&fl=timestamp,original&collapse=timestamp:6&limit=10; ABN Lookup: search entity name at abr.business.gov.au; ASIC Connect / CreditorWatch for ACN/incorporation date; auDA RDAP: rdap.auda.org.au/rdap/domain/<domain> for creation date",
-      "refs": []
+      "date_disp": "1997",
+      "precision": "approx",
+      "details": "Regional NSW ISP serving Griffith/Leeton/Narrandera. Entity ACN 078775510 (ACN 078 series \u2248 1997); acquired by iiNet 2002.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=52078775510",
+          "label": "ABR: Webfront ACN 078775510"
+        }
+      ]
     },
     {
       "kind": "death",
