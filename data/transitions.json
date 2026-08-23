@@ -542,7 +542,18 @@
       "notes": "WorldCom launched a takeover bid Dec 1998; became 100% owner Feb 1999.",
       "from": "ozemail",
       "to": "mci-worldcom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/archive/mci-worldcom-bids-323-million-for-ozemail/",
+          "label": "InternetNews: MCI WorldCom bids $323M for OzEmail"
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/OzEmail",
+          "label": "Wikipedia: OzEmail \u2014 WorldCom 100% owner Feb 1999"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -552,7 +563,18 @@
       "notes": "Early Melbourne ISP Auspac acquired by MCI WorldCom 1998.",
       "from": "auspac",
       "to": "mci-worldcom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/archive/mci-worldcom-bids-323-million-for-ozemail/",
+          "label": "InternetNews: MCI WorldCom bids $323M for OzEmail"
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/OzEmail",
+          "label": "Wikipedia: OzEmail \u2014 WorldCom 100% owner Feb 1999"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -725,7 +747,13 @@
       "notes": "Pronet liquidated 3 Jul 1998; customers transferred to Hotkey.",
       "from": "pronet",
       "to": "hotkey",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
+          "label": "Hotkey Internet Services (Wayback)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1066,7 +1094,13 @@
       "notes": "Uniti acquired Fuzenet (retail RSP, incl. Varsity Internet).",
       "from": "fuzenet",
       "to": "uniti-wireless",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1264718/uniti-group-to-buy-fibre-company-lbnco-for-100m.html",
+          "label": "ARN: Uniti Group acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1085,7 +1119,13 @@
       "notes": "Uniti acquired Harbour ISP (~30,000 customers).",
       "from": "harbour-isp",
       "to": "uniti-wireless",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1264718/uniti-group-to-buy-fibre-company-lbnco-for-100m.html",
+          "label": "ARN: Uniti Group acquisitions"
+        }
+      ]
     },
     {
       "type": "split",
@@ -1095,7 +1135,13 @@
       "notes": "Uniti (via acquired Harbour ISP) sold satellite customers to SkyMesh.",
       "from": "uniti-wireless",
       "to": "skymesh",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1271776/ventraip-australia-nets-1000-customers-via-spiderweb-hosting-deal",
+          "label": "ARN: SkyMesh/Bigblu coverage"
+        }
+      ]
     },
     {
       "type": "split",
@@ -1121,7 +1167,13 @@
       "notes": "Uniti Wireless retail consumer brand sold to CM Value Added Services (CMvas), 2024.",
       "from": "uniti-wireless",
       "to": "cmvas",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Uniti_Group",
+          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+        }
+      ]
     },
     {
       "type": "split",
@@ -1131,7 +1183,13 @@
       "notes": "Uniti Wireless fixed-wireless network assets (Melbourne + Adelaide) acquired by CMvas, 2024.",
       "from": "uniti-wireless",
       "to": "cmvas",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Uniti_Group",
+          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1354,7 +1412,13 @@
       "notes": "Bordernet acquired by Bigblu Broadband (SkyMesh parent); folded into SkyMesh group.",
       "from": "bordernet",
       "to": "skymesh",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1271776/ventraip-australia-nets-1000-customers-via-spiderweb-hosting-deal",
+          "label": "ARN: SkyMesh/Bigblu coverage"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1364,7 +1428,13 @@
       "notes": "SkyMesh acquired Clear Networks (from Uniti/Harbour ISP); brand continued as Clear Broadband.",
       "from": "clear-networks",
       "to": "skymesh",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1271776/ventraip-australia-nets-1000-customers-via-spiderweb-hosting-deal",
+          "label": "ARN: SkyMesh/Bigblu coverage"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1452,7 +1522,13 @@
       "notes": "BigAir acquired Everywhere Internet (control from 4 Dec 2015; A$750k cash + earnout).",
       "from": "everywhere-internet",
       "to": "bigair",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://itnews.com.au/news/bigair-acquires-clever-communications-212955",
+          "label": "iTnews: BigAir acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1552,7 +1628,13 @@
       "notes": "BigAir acquired Anittel Communications.",
       "from": "anittel-communications",
       "to": "bigair",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://itnews.com.au/news/bigair-acquires-clever-communications-212955",
+          "label": "iTnews: BigAir acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1562,7 +1644,13 @@
       "notes": "BigAir acquired IDL Internet (Integrated Data Labs).",
       "from": "idl-internet",
       "to": "bigair",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://itnews.com.au/news/bigair-acquires-clever-communications-212955",
+          "label": "iTnews: BigAir acquisitions"
+        }
+      ]
     },
     {
       "type": "rename",
@@ -1572,7 +1660,13 @@
       "notes": "Anittel Communications was a subsidiary of the Anittel Group (ex-PKBA, renamed Anittel ~Sep 2009).",
       "from": "anittel-communications",
       "to": "anittel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/hostech-buys-anittel-139004",
+          "label": "iTnews: Hostech buys Anittel"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1602,7 +1696,13 @@
       "notes": "Crox brand folded into the Anittel web (AS7631).",
       "from": "crox-developments",
       "to": "anittel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/hostech-buys-anittel-139004",
+          "label": "iTnews: Hostech buys Anittel"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1612,7 +1712,13 @@
       "notes": "Silver Telecom / Officelink Plus brands absorbed into the Anittel web (AS7631).",
       "from": "silver-telecom",
       "to": "anittel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/hostech-buys-anittel-139004",
+          "label": "iTnews: Hostech buys Anittel"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1622,7 +1728,13 @@
       "notes": "Officelink Plus brand registered to Anittel Communications 2010-2016.",
       "from": "officelink-plus",
       "to": "anittel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/hostech-buys-anittel-139004",
+          "label": "iTnews: Hostech buys Anittel"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1632,7 +1744,13 @@
       "notes": "Spirit Telecom acquired World Without Wires (Wires Broadband).",
       "from": "world-without-wires",
       "to": "spirit-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/spirit-telecom-acquires-telco-wholesaler-building-connect-524878",
+          "label": "CRN: Spirit Telecom acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1642,7 +1760,13 @@
       "notes": "Spirit Telecom acquired Voxcom.",
       "from": "voxcom",
       "to": "spirit-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/spirit-telecom-acquires-telco-wholesaler-building-connect-524878",
+          "label": "CRN: Spirit Telecom acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1652,7 +1776,13 @@
       "notes": "Spirit Telecom acquired My Telecom.",
       "from": "my-telecom",
       "to": "spirit-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/spirit-telecom-acquires-telco-wholesaler-building-connect-524878",
+          "label": "CRN: Spirit Telecom acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1662,7 +1792,13 @@
       "notes": "Spirit Telecom acquired Phone Names.",
       "from": "phone-names",
       "to": "spirit-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/spirit-telecom-acquires-telco-wholesaler-building-connect-524878",
+          "label": "CRN: Spirit Telecom acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1672,7 +1808,13 @@
       "notes": "Spirit Telecom acquired LinkOne (5th acquisition).",
       "from": "linkone",
       "to": "spirit-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/spirit-telecom-acquires-telco-wholesaler-building-connect-524878",
+          "label": "CRN: Spirit Telecom acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2094,7 +2236,18 @@
       "notes": "Mr Bean's Internet was a Chariot netconnect reseller; under Chariot by ~2004.",
       "from": "mr-beans-internet",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2104,7 +2257,13 @@
       "notes": "EON Technology acquired by Highway 1 (ZettaServe Group).",
       "from": "eon-technology",
       "to": "highway-1",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Highway 1/ZettaServe acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2124,7 +2283,13 @@
       "notes": "IAP taken over by Highway 1 (user report; Wayback takeover notice Oct 1999).",
       "from": "iap-direct",
       "to": "highway-1",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Highway 1/ZettaServe acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2134,7 +2299,13 @@
       "notes": "Global Dial acquired by Highway 1 (user report).",
       "from": "global-dial",
       "to": "highway-1",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Highway 1/ZettaServe acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2144,7 +2315,13 @@
       "notes": "Simtex (Up'N'Away VoIP) acquired by Highway 1 (user report).",
       "from": "simtex",
       "to": "highway-1",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Highway 1/ZettaServe acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2430,7 +2607,13 @@
       "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
       "from": "auscape-internet",
       "to": "ideal-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2000/http://www.ideal.net.au",
+          "label": "IDEAL Internet (Wayback 2000)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2440,7 +2623,13 @@
       "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
       "from": "internet-mania",
       "to": "ideal-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2000/http://www.ideal.net.au",
+          "label": "IDEAL Internet (Wayback 2000)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2450,7 +2639,13 @@
       "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
       "from": "internet-one",
       "to": "ideal-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2000/http://www.ideal.net.au",
+          "label": "IDEAL Internet (Wayback 2000)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2460,7 +2655,13 @@
       "notes": "IDEAL acquired Viper's operating assets (customers, equipment, staff) ~2000 (per owner Darren Worley). The unacquired Viper shell later became part of Independent Service Providers (isp.net.au).",
       "from": "viper-internet",
       "to": "ideal-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2000/http://www.ideal.net.au",
+          "label": "IDEAL Internet (Wayback 2000)"
+        }
+      ]
     },
     {
       "type": "split",
@@ -2496,7 +2697,13 @@
       "notes": "WebCentral Group acquired by Melbourne IT (delisted 25 Sep 2006).",
       "from": "webcentral",
       "to": "melbourne-it",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Webcentral",
+          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+        }
+      ]
     },
     {
       "type": "merger",
@@ -2526,7 +2733,13 @@
       "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
       "from": "backchannel-net",
       "to": "ideal-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2000/http://www.ideal.net.au",
+          "label": "IDEAL Internet (Wayback 2000)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2536,7 +2749,13 @@
       "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
       "from": "ipbox",
       "to": "ideal-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2000/http://www.ideal.net.au",
+          "label": "IDEAL Internet (Wayback 2000)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2546,7 +2765,13 @@
       "notes": "Healey Communications closed ~2001-02; Campbelltown customers transferred to IDEAL Internet (per archive ISP-transfer page).",
       "from": "healey-communications",
       "to": "ideal-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2000/http://www.ideal.net.au",
+          "label": "IDEAL Internet (Wayback 2000)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2586,7 +2811,13 @@
       "notes": "AXS customers handed to Hotkey Internet Services (Kew).",
       "from": "axs-internet-services",
       "to": "hotkey",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
+          "label": "Hotkey Internet Services (Wayback)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2890,7 +3121,13 @@
       "notes": "Cirrus Communications acquired Chariot's wireless assets (per user report).",
       "from": "chariot",
       "to": "cirrus",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/TPG_(internet_service_provider)",
+          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3032,7 +3269,18 @@
       "notes": "Ballarat NetConnect absorbed into Chariot.",
       "from": "ballarat-netconnect",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3062,7 +3310,18 @@
       "notes": "Picknowl acquired by Chariot (part of Chariot Netconnect by late 2002).",
       "from": "picknowl",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3072,7 +3331,18 @@
       "notes": "Cobweb absorbed into Chariot netconnect.",
       "from": "cobweb-internet",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3082,7 +3352,18 @@
       "notes": "Newave merged into Chariot Internet (domain redirect).",
       "from": "newave",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3092,7 +3373,18 @@
       "notes": "Internex Internet acquired by Chariot Ltd (announced 7 Nov 2003).",
       "from": "internex-australia",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3102,7 +3394,18 @@
       "notes": "Satlink absorbed into Chariot Netconnect (ABN cancelled 1 Jul 2004).",
       "from": "satlink",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3112,7 +3415,18 @@
       "notes": "Pipeline Internet became part of Chariot netconnect (Geelong).",
       "from": "pipeline-internet",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3162,7 +3476,18 @@
       "notes": "C&N Newcastle (CNN Internet) acquired by Chariot ($400k).",
       "from": "cnn-internet",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3212,7 +3537,18 @@
       "notes": "Universal Networks Internet absorbed into Chariot netconnect.",
       "from": "universal-networks",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3308,7 +3644,13 @@
       "notes": "APANA Melbourne regional node part of the national APANA organisation.",
       "from": "apana-melbourne",
       "to": "apana",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3318,7 +3660,13 @@
       "notes": "APANA Sydney regional node part of the national APANA organisation.",
       "from": "apana-sydney",
       "to": "apana",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3328,7 +3676,13 @@
       "notes": "APANA Brisbane regional node part of the national APANA organisation.",
       "from": "apana-brisbane",
       "to": "apana",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3338,7 +3692,13 @@
       "notes": "APANA ACT regional node part of the national APANA organisation.",
       "from": "apana-act",
       "to": "apana",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3348,7 +3708,13 @@
       "notes": "APANA WA regional node part of the national APANA organisation.",
       "from": "apana-wa",
       "to": "apana",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3358,7 +3724,13 @@
       "notes": "APANA Hunter regional node part of the national APANA organisation.",
       "from": "apana-hunter",
       "to": "apana",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3368,7 +3740,13 @@
       "notes": "APANA SA regional hub part of the national APANA organisation.",
       "from": "apana-sa",
       "to": "apana",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3378,7 +3756,18 @@
       "notes": "Box Internet taken over by Chariot.",
       "from": "box-internet",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "rename",
@@ -3548,7 +3937,13 @@
       "notes": "BlazeNet folded into Hotkey Internet Services (via parent ISP Ltd).",
       "from": "blazenet",
       "to": "hotkey",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
+          "label": "Hotkey Internet Services (Wayback)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3558,7 +3953,13 @@
       "notes": "Dart Global (Direct Data) acquired by Hotkey Internet Services.",
       "from": "dart-global",
       "to": "hotkey",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
+          "label": "Hotkey Internet Services (Wayback)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3578,7 +3979,13 @@
       "notes": "useoz's dialup base acquired by HotKey Internet after NDS administration.",
       "from": "useoz",
       "to": "hotkey",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
+          "label": "Hotkey Internet Services (Wayback)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3604,7 +4011,13 @@
       "notes": "Geko Internet acquired by Hotkey Internet Services.",
       "from": "geko-internet",
       "to": "hotkey",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
+          "label": "Hotkey Internet Services (Wayback)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3614,7 +4027,13 @@
       "notes": "GigaNet absorbed by Hotkey Internet.",
       "from": "giganet",
       "to": "hotkey",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
+          "label": "Hotkey Internet Services (Wayback)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3780,7 +4199,18 @@
       "notes": "Ompac Internet absorbed into Chariot Netconnect.",
       "from": "ompac-internet",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3790,7 +4220,18 @@
       "notes": "Better Net acquired by Chariot (-> TPG).",
       "from": "better-net",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3800,7 +4241,18 @@
       "notes": "Broad Net acquired by Chariot netconnect (-> TPG).",
       "from": "broad-net-internet-services",
       "to": "chariot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030102010216/http://www.cynosure.com.au/isp/big",
+          "label": "Cynosure ISP directory \u2014 Chariot netconnect expansion era"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
+          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3872,7 +4324,13 @@
       "notes": "InterACT (Canberra) acquired by Asia Online (AFR, Oct 1999).",
       "from": "interact-technology-group",
       "to": "asia-online",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+          "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3882,7 +4340,13 @@
       "notes": "Internet Access Australia (Melbourne) acquired by Asia Online (AFR, Oct 1999).",
       "from": "internet-access-australia",
       "to": "asia-online",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+          "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3892,7 +4356,13 @@
       "notes": "Internet Company of New Zealand acquired by Asia Online (AFR, Oct 1999).",
       "from": "internet-company-nz",
       "to": "asia-online",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+          "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3902,7 +4372,13 @@
       "notes": "Dove (SA) acquired by Asia Online (per user report).",
       "from": "dove-australia",
       "to": "asia-online",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+          "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3912,7 +4388,13 @@
       "notes": "Brisbane Internet Technology acquired by Asia Online (per user report).",
       "from": "brisbane-internet-technology",
       "to": "asia-online",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+          "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3922,7 +4404,13 @@
       "notes": "Message Exchange (NSW) acquired by Asia Online (per user report).",
       "from": "message-exchange",
       "to": "asia-online",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+          "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3932,7 +4420,13 @@
       "notes": "Spirit Internet (ACT) acquired by Asia Online (per user report).",
       "from": "spirit-internet-act",
       "to": "asia-online",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
+          "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4076,7 +4570,13 @@
       "notes": "BigAir acquired Veritel's iBurst business.",
       "from": "veritel",
       "to": "bigair",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://itnews.com.au/news/bigair-acquires-clever-communications-212955",
+          "label": "iTnews: BigAir acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4194,7 +4694,13 @@
       "notes": "Primus Telecom launched the iPrimus consumer brand (1999) while retaining the Primus brand for business.",
       "from": "primus-telecom-australia",
       "to": "iprimus",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Primus_Telecommunications_(Australia)",
+          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4230,7 +4736,18 @@
       "notes": "E-Wire operated as the residential-estate communications division of Broadcast Engineering Services (Australia) Pty Ltd.",
       "from": "e-wire",
       "to": "bes",
-      "refs": []
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=29066971533",
+          "label": "ABR: Broadcast Engineering Services ABN 29066971533"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.accc.gov.au/system/files/OptiComm%20submission%20-%2023%20March%202012.pdf",
+          "label": "ACCC: OptiComm submission listing Service Elements/Fuze/eWire/BES group"
+        }
+      ]
     },
     {
       "type": "split",
@@ -4250,7 +4767,13 @@
       "notes": "Uniti acquired LBNCo (The Local Broadband Network Company), Australia's first FTTH operator, for $100m.",
       "from": "lbnet",
       "to": "uniti-wireless",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1264718/uniti-group-to-buy-fibre-company-lbnco-for-100m.html",
+          "label": "ARN: Uniti Group acquisitions"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4276,7 +4799,13 @@
       "notes": "Optus established Dingo Blue as a wholly-owned subsidiary web-based telco/ISP retailer; sold to AGL (Dec 2000), wound up May 2002.",
       "from": "optus",
       "to": "dingo-blue",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.optus.com.au/about/media-centre/media-releases/2000/12/cable-wireless-optus-sells-dingo-blue",
+          "label": "Optus Media Release: C&W Optus sells Dingo Blue to AGL ($22M, Dec 2000)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4484,7 +5013,13 @@
       "notes": "Speedcast took over running Christmas Island's wireless/4G internet after CIIA ceased services on 1 Mar 2017 (interim Australian Government agreement), operating until Oct 2021.",
       "from": "cia",
       "to": "speedcast",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Internet_in_Christmas_Island",
+          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4671,7 +5206,13 @@
       "notes": "AOL|7 JV sold to Primus Telecommunications; ~90,000 subscribers transferred.",
       "from": "aol-australia",
       "to": "primus-telecom-australia",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/AOL",
+          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+        }
+      ]
     },
     {
       "type": "acquisition",
