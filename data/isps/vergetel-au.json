@@ -1,0 +1,33 @@
+{
+  "name": "VergeTel Australia",
+  "slug": "vergetel-au",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://www.vergetel.com",
+  "summary": "Australian ISP offering residential internet plans.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "VergeTel Australia",
+      "start_year": 2020,
+      "start_disp": "c. 2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "c. 2020",
+      "precision": "approx",
+      "details": "VergeTel Australia AS142064; residential ISP.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.vergetel.com",
+          "label": "VergeTel Australia"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

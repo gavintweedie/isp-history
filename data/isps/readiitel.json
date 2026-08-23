@@ -1,0 +1,33 @@
+{
+  "name": "Readiitel",
+  "slug": "readiitel",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "http://readiitel.com.au",
+  "summary": "Fixed wireless ISP offering broadband for business and home users.",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Readiitel",
+      "start_year": 2015,
+      "start_disp": "c. 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Readiitel AS137042; fixed wireless internet provider.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://readiitel.com.au",
+          "label": "Readiitel"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

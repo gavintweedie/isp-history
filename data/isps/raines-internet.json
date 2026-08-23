@@ -1,0 +1,33 @@
+{
+  "name": "Raines Internet Solutions",
+  "slug": "raines-internet",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "https://rainesinternet.solutions",
+  "summary": "Australian NBN retail service provider (RSP).",
+  "aliases": [],
+  "names": [
+    {
+      "name": "Raines Internet Solutions",
+      "start_year": 2020,
+      "start_disp": "c. 2020"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2020,
+      "date_disp": "c. 2020",
+      "precision": "approx",
+      "details": "Raines Internet Solutions AS146994; NBN RSP.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://rainesinternet.solutions",
+          "label": "Raines Internet Solutions"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}
