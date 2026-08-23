@@ -3486,6 +3486,54 @@
       "notes": "NextHop Pty Ltd re-registered AS9507 (previously held by Zed Connect since c.2001); launched as wholesale dark fibre and IP carrier.",
       "from": "zed-connect",
       "to": "nexthop-au"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2000,
+      "date_disp": "May 2000",
+      "notes": "Austar United Communications acquired Ultranet (~5,000 subscribers); customers migrated to austarnet.",
+      "from": "ultranet",
+      "to": "austarnet"
+    },
+    {
+      "type": "merger",
+      "arm_label": "Soul arm",
+      "year": 2008,
+      "date_disp": "Feb 2008",
+      "notes": "TPG and Soul announced merger (Feb 2008); SOUL brand absorbed into TPG group.",
+      "from": "soul",
+      "to": "tpg-internet"
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "assets & business",
+      "year": 2004,
+      "date_disp": "1 Dec 2004",
+      "notes": "SP Telemedia (SPTCom Pty Ltd) acquired Comindico assets from receivers McGrathNicol for $27.5M; renamed SOULCom; SP Telemedia rebranded as SOUL.",
+      "from": "comindico",
+      "to": "soul",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/companies/sp-telemedia-buys-comindico-assets-20041102-jlk3x",
+          "label": "AFR: SP Telemedia buys Comindico assets ($27.5M, Nov 2004)"
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Comindico",
+          "label": "Wikipedia: Comindico \u2014 acquired by SP Telemedia 2004"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2005,
+      "date_disp": "21 Apr 2005",
+      "notes": "Kooee Communications Pty Ltd (100%) transferred to B Digital under SPT Strategic Alliance; Kooee was already part of the SPT/Soul group.",
+      "from": "kooee",
+      "to": "soul"
     }
   ]
 }
