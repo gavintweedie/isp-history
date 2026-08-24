@@ -2157,14 +2157,19 @@
       "refs": []
     },
     {
-      "type": "merger",
-      "arm_label": "Netspeed arm",
+      "type": "acquisition",
       "year": 2010,
       "date_disp": "c. 2010",
-      "notes": "Netspeed merged with Velocity Internet; continues as a separate brand under Velocity Internet Holdings.",
+      "notes": "NetSpeed acquired Velocity Internet (announced Nov 2010, after two months of negotiations), adding ~5,000 broadband subscribers (~1/10th of NetSpeed's base). Both brands initially continued under Velocity Internet Holdings Pty Ltd. [Earlier record framed this as a merger into holdings; iTnews reporting confirms acquisition by NetSpeed.]",
       "from": "netspeed",
       "to": "velocity-holdings",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/netspeed-buys-canberra-isp-velocity-236940",
+          "label": "iTnews: Netspeed buys Canberra ISP Velocity (Nov 2010)"
+        }
+      ]
     },
     {
       "type": "merger",
@@ -2858,7 +2863,13 @@
       "notes": "Apex Telecom sold to NetSpeed Communications (June 2012); ultimate holding Velocity Internet.",
       "from": "apex-telecom",
       "to": "netspeed",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/2073114",
+          "label": "Whirlpool: RIP the Australian midsize ISP (acquisition chain)"
+        }
+      ]
     },
     {
       "type": "rename",
@@ -5247,6 +5258,51 @@
       "from": "onthenet",
       "to": "vonex",
       "refs": []
+    },
+    {
+      "type": "merger",
+      "from": "netspeed",
+      "to": "velocity-internet",
+      "year": 2024,
+      "date_disp": "by Jan 2024",
+      "notes": "NetSpeed brand retired into sibling brand Velocity Internet; both were trading names of the same legal entity, ByteCard Pty Ltd (ABN 49 052 315 812). Evidence is archaeological: between 22 Dec 2023 and 30 Jan 2024 netspeed.com.au became a webmail-only portal with retail navigation removed; CIS directory subsequently 404; velocity.net.au continued trading afterwards. No public announcement of a formal customer transfer was found.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20231222191811/https://www.netspeed.com.au/",
+          "label": "Wayback 22 Dec 2023: last retail-era NetSpeed homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20250124042322/https://netspeed.com.au/",
+          "label": "Wayback Jan 2025: webmail-only NetSpeed portal (\u00a92024)"
+        },
+        {
+          "kind": "forum",
+          "url": "https://choice.community/t/nbn-alternatives-contract-performance-issues/15372",
+          "label": "Choice community (2018): NetSpeed & Velocity both trading names of ByteCard Pty Ltd"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "goldweb-internet",
+      "to": "velocity-internet",
+      "year": 2006,
+      "date_disp": "Apr 2006",
+      "notes": "Velocity Internet acquired Goldweb Internet (announced via media release 10 Apr 2006, posted to Goldweb's site 10 Jun 2006). Goldweb's domain became Velocity's web portal; the Goldweb brand was retired. Four years later Velocity itself was acquired by NetSpeed (2010).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060926120206/http://www.goldweb.com.au/news.php",
+          "label": "Goldweb news page: 'Velocity Acquires Goldweb' media release, 10 Apr 2006"
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/2073114",
+          "label": "Whirlpool: RIP the Australian midsize ISP"
+        }
+      ]
     }
   ]
 }

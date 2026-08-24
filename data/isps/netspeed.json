@@ -2,9 +2,9 @@
   "name": "Netspeed",
   "slug": "netspeed",
   "birthplace": "Canberra, ACT",
-  "status": "active",
+  "status": "inactive",
   "website": "https://www.netspeed.com.au",
-  "summary": "Canberra ISP, one of the territory's largest; merged with Velocity Internet c.2010 under Velocity Internet Holdings, continues as a separate brand.",
+  "summary": "Canberra ISP founded c.1994; acquired Velocity Internet (2010) and Apex Telecom (2012); both NetSpeed and Velocity traded under ByteCard Pty Ltd. Retired from retail internet c.Jan 2024; website reduced to webmail-only while sibling brand Velocity continued.",
   "names": [
     {
       "name": "Netspeed",
@@ -18,7 +18,31 @@
       "year": 1994,
       "date_disp": "c. 1994",
       "precision": "approx",
-      "details": "NetSpeed Communications established in Canberra."
+      "details": "NetSpeed Communications established in Canberra. Legal entity later operated as ByteCard Pty Ltd (ACN 052 315 812); trading name 'Netspeed Internet Communications' registered Sep 2005."
+    },
+    {
+      "kind": "death",
+      "year": 2024,
+      "date_disp": "by Jan 2024",
+      "precision": "by",
+      "details": "Ceased offering retail internet between 22 Dec 2023 and 30 Jan 2024: netspeed.com.au was replaced by a webmail-only portal with the Join/Plans navigation commented out of the page and a fresh 'Copyright 2024'; the Critical Information Summary directory later returned 404 (CIS documents are mandatory for RSPs selling plans). Owner ByteCard Pty Ltd continues via the surviving Velocity Internet brand. No public customer-migration announcement found.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20231222191811/https://www.netspeed.com.au/",
+          "label": "Wayback 22 Dec 2023: last retail-era homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20240130001915/http://www.netspeed.com.au/",
+          "label": "Wayback Jan 2024: webmail-only portal, retail nav removed"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=49052315812",
+          "label": "ABR: ABN 49 052 315 812 Bytecard Pty Ltd, trading as Netspeed Internet Communications"
+        }
+      ]
     }
   ],
   "refs": [
