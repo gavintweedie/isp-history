@@ -58,7 +58,14 @@
       "year": 2003,
       "date_disp": "late 2003",
       "precision": "exact",
-      "details": "Renamed Key Point Pty Ltd c. 2002 (same ACN 069 211 678; ABN 48 069 211 678 cancelled 7 Nov 2017); acquired by Datafast (later EFTel) late 2003."
+      "details": "Renamed Key Point Pty Ltd c. 2002 (same ACN 069 211 678; ABN 48 069 211 678 cancelled 7 Nov 2017); acquired by Datafast (later EFTel) late 2003.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=48069211678",
+          "label": "ABN Lookup: Key Point Pty Ltd ABN 48 069 211 678 (formerly Labyrinth Connections Pty Ltd)"
+        }
+      ]
     }
   ],
   "refs": [
