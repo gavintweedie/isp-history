@@ -4,28 +4,40 @@
   "birthplace": "Victoria",
   "status": "inactive",
   "website": "https://tangnt.com.au",
-  "summary": "Victorian dialup ISP (tangnt.com.au, 1996, 1800 68 44 07); defunct.",
+  "summary": "Victorian dialup ISP (outer-eastern Melbourne; tangnt.com.au) run by Matthew Proctor from Jan 1994; operations folded into Imagineering Technologies on his departure in Feb 1997.",
   "names": [
     {
       "name": "Tangent Internet",
-      "start_year": 1996,
-      "start_disp": "1996"
+      "start_year": 1994,
+      "start_disp": "Jan 1994"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "1996",
-      "precision": "exact",
-      "details": "Dialup ISP."
+      "year": 1994,
+      "date_disp": "Jan 1994",
+      "precision": "approx",
+      "details": "Founded Jan 1994 by Matthew Proctor; became one of Victoria's largest metropolitan ISPs, serving Melbourne's outer-eastern suburbs with residential/business dial-up and web hosting (per founder's career record). Earliest verified Wayback capture of tangnt.com.au is 19 Dec 1996."
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 1997,
+      "date_disp": "Feb 1997",
+      "precision": "exact",
+      "details": "Founder Matthew Proctor departed after ~3 years (Jan 1994 - Feb 1997); Tangent's ISP operations were folded into Imagineering Technologies Pty Ltd, which he co-founded at that time. [Prior record said 'defunct c.2005' - incorrect.]",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://linkedin.com/in/matthewrproctor",
+          "label": "Matthew Proctor career record: Managing Director, Tangent Internet Services, Jan 1994 - Feb 1997"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961219153227/http://www.tangnt.com.au/",
+          "label": "Wayback Machine: earliest capture of tangnt.com.au (19 Dec 1996)"
+        }
+      ]
     }
   ]
 }

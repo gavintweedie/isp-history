@@ -5351,7 +5351,6 @@
       "to": "vonex",
       "refs": []
     },
-
     {
       "type": "merger",
       "from": "netspeed",
@@ -5437,6 +5436,41 @@
       "notes": "Optus acquired Amaysim for $250m (agreement 2 Nov 2020); Amaysim delisted 6 Apr 2021.",
       "from": "amaysim",
       "to": "optus"
+    },
+    {
+      "type": "merger",
+      "from": "tangent-internet",
+      "to": "imagineering",
+      "year": 1997,
+      "date_disp": "Feb 1997",
+      "notes": "Tangent Internet's ISP operations folded into Imagineering Technologies Pty Ltd, co-founded by Tangent's managing director Matthew Proctor upon his departure (Jan 1994 - Feb 1997). Same-founder continuation; no ACN evidence of legal-entity continuity between the two companies was found.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://linkedin.com/in/matthewrproctor",
+          "label": "Matthew Proctor career record: Tangent Internet Services (Jan 1994 - Feb 1997) then Imagineering Technologies (from 1997)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "imagineering",
+      "to": "primus-telecom-australia",
+      "year": 2008,
+      "date_disp": "Sep 2008",
+      "notes": "Primus Telecommunications (Australia) acquired Imagineering's data centre/hosting business (press release 8 Sep 2008). The Imagineering Data Centre name continued as a Primus business name until Jan 2021. Chain continues: Primus Australia -> M2 Group (2012) -> Vocus (2016).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://en.wikipedia.org/wiki/Primus_Telecommunications_(Australia)",
+          "label": "Wikipedia: Primus acquired Imagineering Data Centre, late 2008"
+        },
+        {
+          "kind": "gov",
+          "url": "https://www.aubiz.net/company/primus-telecommunications-australia-pty-ltd-061754943/",
+          "label": "ASIC: 'Imagineering Data Centre' business name under Primus Australia, 9 Sep 2008"
+        }
+      ]
     }
   ]
 }

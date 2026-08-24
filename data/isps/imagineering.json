@@ -1,0 +1,55 @@
+{
+  "name": "Imagineering Technologies",
+  "slug": "imagineering",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://www.imagineering.com.au",
+  "summary": "Melbourne hosting provider (co-location, VPS, web/mail hosting) co-founded 1997 by Matthew Proctor (ex-Tangent Internet); grew from first hosting customer to full data centre business; acquired by Primus Telecommunications (Australia) Sep 2008.",
+  "names": [
+    {
+      "name": "Imagineering Technologies",
+      "start_year": 1997,
+      "start_disp": "1997"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Imagineering Technologies Pty Ltd co-founded 1997 by Matthew Proctor immediately after folding his Tangent Internet ISP operations into the venture. Grew into a full-service Melbourne data centre business serving SMB and corporate clients. Earliest verified Wayback capture of imagineering.com.au is 6 Jul 2000.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://linkedin.com/in/matthewrproctor",
+          "label": "Matthew Proctor: CEO & Co-Founder, Imagineering Technologies Pty Ltd (founded 1997)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000706233610/http://www.imagineering.com.au/",
+          "label": "Wayback Machine: earliest capture of imagineering.com.au (6 Jul 2000)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "Sep 2008",
+      "precision": "exact",
+      "details": "Acquired by Primus Telecommunications (Australia); Imagineering press release dated 8 Sep 2008. 'Imagineering Data Centre' continued as a registered business name of Primus Telecommunications (Australia) Pty Ltd (ACN 061 754 943) from 9 Sep 2008 until 20 Jan 2021.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://en.wikipedia.org/wiki/Primus_Telecommunications_(Australia)",
+          "label": "Wikipedia (Primus Australia): 'In late 2008, Primus acquired Imagineering Data Centre' citing Imagineering PR 8 Sep 2008"
+        },
+        {
+          "kind": "gov",
+          "url": "https://www.aubiz.net/company/primus-telecommunications-australia-pty-ltd-061754943/",
+          "label": "ASIC business names via AUBiz: 'Imagineering Data Centre' under Primus Australia ACN 061 754 943, 9 Sep 2008 - 20 Jan 2021"
+        }
+      ]
+    }
+  ]
+}
