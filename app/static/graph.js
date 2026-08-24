@@ -50,6 +50,7 @@
   let allData = null;
   let currentFocus = null;
   let lockedId = null;           // click-locked lineage (upstream+downstream)
+  let fullRange = null;          // unfiltered timeline {minYear,maxYear} — kept during lock
   let showDates = false;         // toggle for year labels on bars
   try { showDates = JSON.parse(localStorage.getItem('isp-show-dates') || 'false'); } catch(e) {}
   let eraTitles = [];
@@ -126,10 +127,10 @@
       });
     }
 
-    // Esc clears locked lineage or search filter
+    // Esc clears locked lineage (restores full timeline) or search filter
     document.addEventListener('keydown', ev => {
       if (ev.key === 'Escape') {
-        if (lockedId != null) { lockedId = null; const svg = document.querySelector('#graph svg.tg'); if(svg) svg.querySelectorAll('g.tg-line.hot,g.tg-line.dimmed,path.tg-edge.hot,path.tg-edge.dimmed').forEach(el=>el.classList.remove('hot','dimmed')); document.getElementById('filter-hint').textContent = ''; }
+        if (lockedId != null) { lockedId = null; render(currentFocus); }
         else if (SEARCH.value) { SEARCH.value=''; currentFocus=null; render(null); document.getElementById('filter-hint').textContent=''; }
       }
     });
@@ -233,6 +234,35 @@
     return seen;
   }
 
+  // Directed lineage of focusId over the full graph: ancestors (can reach
+  // focus) + descendants (focus can reach), plus the edges on those paths.
+  function lineageIds(focusId) {
+    const fwd = new Map(), rev = new Map();
+    allData.edges.forEach(e => {
+      if (!fwd.has(e.from)) fwd.set(e.from, []);
+      fwd.get(e.from).push(e.to);
+      if (!rev.has(e.to)) rev.set(e.to, []);
+      rev.get(e.to).push(e.from);
+    });
+    const down = new Set([focusId]);
+    const stackD = [focusId];
+    while (stackD.length) {
+      const cur = stackD.pop();
+      (fwd.get(cur) || []).forEach(n => { if (!down.has(n)) { down.add(n); stackD.push(n); } });
+    }
+    const up = new Set([focusId]);
+    const stackU = [focusId];
+    while (stackU.length) {
+      const cur = stackU.pop();
+      (rev.get(cur) || []).forEach(n => { if (!up.has(n)) { up.add(n); stackU.push(n); } });
+    }
+    const keep = new Set([...down, ...up]);
+    const keepEdges = new Set(allData.edges.filter(e =>
+      (down.has(e.from) && down.has(e.to)) || (up.has(e.from) && up.has(e.to))
+    ).map(e => String(e.id)));
+    return { keep, keepEdges };
+  }
+
   function render(focus) {
     const data = allData;
     const byId = {};
@@ -243,6 +273,13 @@
       const keep = connectedSubgraph(focus.id, data.nodes, data.edges);
       nodeList = data.nodes.filter(n => keep.has(n.id));
       edgeList = data.edges.filter(e => keep.has(e.from) && keep.has(e.to));
+    }
+    // Locked lineage hides everything unrelated and lets the layout compress
+    // to just the highlighted networks.
+    if (lockedId != null) {
+      const lockedKeep = lineageIds(lockedId).keep;
+      nodeList = nodeList.filter(n => lockedKeep.has(n.id));
+      edgeList = edgeList.filter(e => lockedKeep.has(e.from) && lockedKeep.has(e.to));
     }
 
     const base = nodeList.map(n => ({ ...n }));
@@ -438,8 +475,17 @@
       ...edges.map(e => e.year),
       CURRENT, UNKNOWN_BIRTH,
     ];
-    const minYear = Math.min(...years);
-    const maxYear = Math.max(...years);
+    let minYear = Math.min(...years);
+    let maxYear = Math.max(...years);
+    // Locked lineage keeps the full timeline's period so the x-axis doesn't
+    // jump when the view compresses. Only the unfiltered, unlocked view
+    // updates the cached range — search-filtered views keep the global range.
+    if (lockedId == null && focus == null) {
+      fullRange = { minYear, maxYear };
+    } else if (lockedId != null && fullRange) {
+      minYear = fullRange.minYear;
+      maxYear = fullRange.maxYear;
+    }
     const X = y => PADX + (y - minYear) * W;
 
     const ERAS_H = 24;
@@ -641,9 +687,7 @@
         ev.stopPropagation();
         if (lockedId === n.id) { window.location = n.url; return; }
         lockedId = n.id;
-        highlightConnected(n.id);
-        const hint = document.getElementById('filter-hint');
-        if (hint) hint.textContent = `Locked on ${n.label} — click again to open, Esc or click background to clear.`;
+        render(currentFocus);
       });
 
       const rect = document.createElementNS(ns, 'rect');
@@ -732,36 +776,8 @@
       svg.querySelectorAll('g.tg-line.hot, g.tg-line.dimmed, path.tg-edge.hot, path.tg-edge.dimmed')
         .forEach(el => el.classList.remove('hot','dimmed'));
     }
-    function lineage(focusId) {
-      // directed reachability: ancestors (can reach focus) + descendants (focus can reach)
-      const fwd = new Map(), rev = new Map();
-      allData.edges.forEach(e => {
-        if (!fwd.has(e.from)) fwd.set(e.from, []);
-        fwd.get(e.from).push(e.to);
-        if (!rev.has(e.to)) rev.set(e.to, []);
-        rev.get(e.to).push(e.from);
-      });
-      const down = new Set([focusId]);
-      const stackD = [focusId];
-      while (stackD.length) {
-        const cur = stackD.pop();
-        (fwd.get(cur) || []).forEach(n => { if (!down.has(n)) { down.add(n); stackD.push(n); } });
-      }
-      const up = new Set([focusId]);
-      const stackU = [focusId];
-      while (stackU.length) {
-        const cur = stackU.pop();
-        (rev.get(cur) || []).forEach(n => { if (!up.has(n)) { up.add(n); stackU.push(n); } });
-      }
-      const keep = new Set([...down, ...up]);
-      // edges on those directed paths
-      const keepEdges = new Set(allData.edges.filter(e =>
-        (down.has(e.from) && down.has(e.to)) || (up.has(e.from) && up.has(e.to))
-      ).map(e => String(e.id)));
-      return { keep, keepEdges };
-    }
     function highlightConnected(focusId) {
-      const { keep, keepEdges } = lineage(focusId);
+      const { keep, keepEdges } = lineageIds(focusId);
       svg.querySelectorAll('g.tg-line').forEach(g => {
         const id = g.dataset.id;
         const inKeep = keep.has(Number(id));
@@ -789,14 +805,12 @@
       const leaving = ev.target.closest('g.tg-line, path.tg-edge');
       if (leaving) clearHighlight();
     });
-    // click background clears lock
+    // click background clears lock and restores the full timeline
     svg.addEventListener('click', ev => {
       if (ev.target.closest('g.tg-line, path.tg-edge')) return;
       if (lockedId != null) {
         lockedId = null;
-        clearHighlight();
-        const hint = document.getElementById('filter-hint');
-        if (hint && !currentFocus) hint.textContent = '';
+        render(currentFocus);
       }
     });
 
@@ -823,11 +837,14 @@
     container.appendChild(svg);
     formatEraHeader();
     if (lockedId != null) {
-      // re-apply lock after re-render (e.g. era toggle)
-      try { highlightConnected(lockedId); } catch(e) {}
+      // Locked view: everything visible IS the lineage, so render all
+      // connectors full-strength, mark the anchor bar, and tell the user.
+      svg.querySelectorAll('path.tg-edge').forEach(p => p.classList.add('hot'));
+      const anchor = svg.querySelector(`g.tg-line[data-id="${lockedId}"]`);
+      if (anchor) anchor.classList.add('anchor');
       const n = allData.nodes.find(x => x.id === lockedId);
       const hint = document.getElementById('filter-hint');
-      if (hint && n) hint.textContent = `Locked on ${n.label} — click again to open, Esc or click background to clear.`;
+      if (hint && n) hint.textContent = `Locked on ${n.label} — showing its lineage only. Click it again to open; Esc or click background to restore the full timeline.`;
     }
   }
 })();
