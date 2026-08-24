@@ -1,0 +1,98 @@
+{
+  "name": "Amaysim",
+  "slug": "amaysim",
+  "birthplace": "Sydney, NSW",
+  "status": "active",
+  "website": "https://www.amaysim.com.au",
+  "summary": "Australian mobile MVNO on the Optus network, founded 2010 (ASX: AYS 2015-2021); entered broadband 2016 via AusBBS, launched NBN May 2017 with plans to build its own direct-to-POI network; exited broadband Oct 2018 (sold ~15,000 NBN customers to Southern Phone, cancelling the direct-to-POI rollout); acquired by Optus 2021; re-entered NBN Sep 2024 as an Optus NBN resale.",
+  "aliases": [
+    "Amaysim Mobile Pty Ltd",
+    "Amaysim Australia Ltd"
+  ],
+  "names": [
+    {
+      "name": "Amaysim",
+      "start_year": 2010,
+      "start_disp": "Nov 2010"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2010,
+      "date_disp": "Nov 2010",
+      "precision": "exact",
+      "details": "Founded November 2010 (founders Peter O'Connell, Rolf Hansen, Christian Magel, Thomas Enge, Andreas Perreiter); MVNO on the Optus network; listed on the ASX as AYS July 2015."
+    },
+    {
+      "kind": "note",
+      "year": 2016,
+      "date_disp": "Jul 2016",
+      "precision": "exact",
+      "details": "Entered the broadband market by acquiring AusBBS for $4m (announced 19 Jul 2016), gaining its AAPT wholesale relationship.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/amaysim-enters-broadband-market-with-4m-acquisition-431025",
+          "label": "CRN: Amaysim enters broadband market with $4m acquisition (19 Jul 2016)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2017,
+      "date_disp": "May 2017",
+      "precision": "exact",
+      "details": "Launched as an NBN reseller (5 May 2017) at all 121 POIs (fixed + fixed-wireless), initially via AAPT and Optus wholesale aggregation, with plans to build its own direct links to selected NBN POIs ('hybrid network' / 'major new converged network').",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/amaysim-puts-speeds-at-centre-of-nbn-play-460585",
+          "label": "iTnews: Amaysim puts speeds at centre of NBN play (5 May 2017)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2018,
+      "date_disp": "Oct 2018",
+      "precision": "exact",
+      "details": "Exited broadband: sold all ~15,000 broadband customers to Southern Phone for $3m and stopped reselling broadband, citing 'unsustainably high wholesale costs', 'punitive' NBN wholesale costs, intense competition, and capital allocation. The planned direct-to-POI network rollout was cancelled.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/amaysim-exits-broadband-market-after-18-months-514553",
+          "label": "CRN: Amaysim exits broadband market after 18 months (Oct 2018)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2021,
+      "date_disp": "Apr 2021",
+      "precision": "exact",
+      "details": "Optus acquired 100% of Amaysim for $250m (agreement 2 Nov 2020); Amaysim delisted 6 Apr 2021."
+    },
+    {
+      "kind": "note",
+      "year": 2024,
+      "date_disp": "Sep 2024",
+      "precision": "exact",
+      "details": "Re-entered the NBN market as a resold Optus NBN service (trial Jul-Aug 2024; official launch 18 Sep 2024); IPoE, real IPv4 (no CGNAT), no IPv6; plans from 25/10 up to NBN 500 with a bundle discount for Amaysim mobile customers.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/988lxwl0",
+          "label": "Whirlpool: 'Amaysim NBN' - re-entry and launch (Jun 2024 - Aug 2026)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amaysim",
+      "label": "Wikipedia: Amaysim"
+    }
+  ]
+}

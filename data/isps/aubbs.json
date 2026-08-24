@@ -1,0 +1,47 @@
+{
+  "name": "AusBBS",
+  "slug": "aubbs",
+  "status": "inactive",
+  "website": "aubbs.com.au",
+  "summary": "NBN-focused ISP (Australian Broadband Services Pty Limited), founded April 2012 by Rob Appel (ex-OzEmail); cited as the first purely cloud-based ISP and the first to offer unlimited NBN plans; acquired by Amaysim July 2016 for $4m.",
+  "aliases": [
+    "Australian Broadband Services Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "AusBBS",
+      "start_year": 2012,
+      "start_disp": "Apr 2012"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2012,
+      "date_disp": "Apr 2012",
+      "precision": "exact",
+      "details": "Founded April 2012 by Rob Appel (ex-OzEmail; founder of Chaos.com); first purely cloud-based ISP and first to offer unlimited NBN plans (May 2013); signed as first reseller of the LBNCo/Service Elements FTTP networks (Aug 2013); first to launch TPG FTTB (Mar 2015)."
+    },
+    {
+      "kind": "death",
+      "year": 2016,
+      "date_disp": "Jul 2016",
+      "precision": "exact",
+      "details": "Acquired by Amaysim for $4 million (announced 19 Jul 2016); gave Amaysim its broadband business and AAPT wholesale relationship.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/amaysim-enters-broadband-market-with-4m-acquisition-431025",
+          "label": "CRN: Amaysim enters broadband market with $4m acquisition (19 Jul 2016)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/AusBBS",
+      "label": "Wikipedia: AusBBS"
+    }
+  ]
+}

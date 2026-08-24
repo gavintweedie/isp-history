@@ -303,9 +303,9 @@
       "arm_label": "brand",
       "year": 2002,
       "date_disp": "by 2002",
-      "notes": "RuralNet operated as a brand of Local Telecom and Internet Ltd.",
+      "notes": "RuralNet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd).",
       "from": "ruralnet",
-      "to": "local-telecom-internet",
+      "to": "macarthurcook",
       "refs": []
     },
     {
@@ -323,18 +323,8 @@
       "arm_label": "brand",
       "year": 2002,
       "date_disp": "by 2002",
-      "notes": "Tassienet operated as a brand of Local Telecom and Internet Ltd.",
+      "notes": "Tassienet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd).",
       "from": "tassienet",
-      "to": "local-telecom-internet",
-      "refs": []
-    },
-    {
-      "type": "rename",
-      "arm_label": "renamed",
-      "year": 2003,
-      "date_disp": "2003",
-      "notes": "Local Telecom and Internet Ltd renamed Macarthurcook Ltd.",
-      "from": "local-telecom-internet",
       "to": "macarthurcook",
       "refs": []
     },
@@ -1441,9 +1431,9 @@
       "arm_label": "100%",
       "year": 2005,
       "date_disp": "Nov 2005",
-      "notes": "Access Providers acquired Saise Telecom.",
+      "notes": "Clever Communications (then Access Providers) acquired Saise Telecom.",
       "from": "saise-telecom",
-      "to": "access-providers",
+      "to": "clever-communications",
       "refs": []
     },
     {
@@ -1451,18 +1441,8 @@
       "arm_label": "100%",
       "year": 2006,
       "date_disp": "Oct 2006",
-      "notes": "Access Providers acquired Activ Australia.",
+      "notes": "Clever Communications (then Access Providers) acquired Activ Australia.",
       "from": "activ-australia",
-      "to": "access-providers",
-      "refs": []
-    },
-    {
-      "type": "rename",
-      "arm_label": "renamed",
-      "year": 2007,
-      "date_disp": "Jun 2007",
-      "notes": "Access Providers renamed Clever Communications.",
-      "from": "access-providers",
       "to": "clever-communications",
       "refs": []
     },
@@ -2820,16 +2800,6 @@
       "refs": []
     },
     {
-      "type": "rename",
-      "arm_label": "renamed",
-      "year": 2011,
-      "date_disp": "c. 2011",
-      "notes": "Spin Internet became SpinTel brand.",
-      "from": "spin-internet",
-      "to": "spintel",
-      "refs": []
-    },
-    {
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2002,
@@ -3462,7 +3432,7 @@
       "date_disp": "Oct 1999",
       "notes": "AUSOM (Apple Users' Society of Melbourne) handed its 542 ISP users to Labyrinth Connections after deciding an ISP couldn't be run by volunteers.",
       "from": "ausom",
-      "to": "labyrinth",
+      "to": "keypoint",
       "refs": [
         {
           "kind": "news",
@@ -3478,7 +3448,7 @@
       "date_disp": "by 2000",
       "notes": "Sprint Online (Parergon Technology Pty Ltd, ACN 065 972 107) became a division of Labyrinth Connections; sprint.net.au styled itself 'a division of Labyrinth Connections' by Feb 2000. The Sprint company later inherited the 'Labyrinth Connections Pty Ltd' corporate name (21 Oct 2002) when the group consolidated under Key Point Pty Ltd - the origin of the two same-named entities.",
       "from": "parergon-technology",
-      "to": "labyrinth",
+      "to": "keypoint",
       "refs": [
         {
           "kind": "archive",
@@ -3784,29 +3754,13 @@
       ]
     },
     {
-      "type": "rename",
-      "arm_label": "renamed",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "notes": "Labyrinth Connections Pty Ltd renamed Key Point Pty Ltd (same ACN 069 211 678; ABN 48 069 211 678 cancelled 7 Nov 2017).",
-      "from": "labyrinth",
-      "to": "keypoint",
-      "refs": [
-        {
-          "kind": "official",
-          "url": "https://abr.business.gov.au/ABN/View?abn=48069211678",
-          "label": "ABN Lookup: Key Point Pty Ltd ABN 48 069 211 678 (formerly Labyrinth Connections Pty Ltd)"
-        }
-      ]
-    },
-    {
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "Mar 2001",
-      "notes": "WebAXS (Geelong) joined the Labyrinth group.",
+      "notes": "WebAXS (Geelong) joined the Labyrinth (later Key Point) group.",
       "from": "webaxs",
-      "to": "labyrinth",
+      "to": "keypoint",
       "refs": []
     },
     {
@@ -4991,9 +4945,9 @@
       "arm_label": "100%",
       "year": 2005,
       "date_disp": "Jul 2005",
-      "notes": "Access Providers bought business internet provider Online 2000 (Jul 2005).",
+      "notes": "Clever Communications (then Access Providers) bought business internet provider Online 2000 (Jul 2005).",
       "from": "online-2000",
-      "to": "access-providers",
+      "to": "clever-communications",
       "refs": []
     },
     {
@@ -5397,6 +5351,7 @@
       "to": "vonex",
       "refs": []
     },
+
     {
       "type": "merger",
       "from": "netspeed",
@@ -5441,6 +5396,47 @@
           "label": "Whirlpool: RIP the Australian midsize ISP"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2016,
+      "date_disp": "Jul 2016",
+      "notes": "Amaysim entered the broadband market by acquiring AusBBS for $4m (announced 19 Jul 2016), gaining its AAPT wholesale relationship.",
+      "from": "aubbs",
+      "to": "amaysim",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/amaysim-enters-broadband-market-with-4m-acquisition-431025",
+          "label": "CRN: Amaysim enters broadband market with $4m acquisition (19 Jul 2016)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "NBN customer base",
+      "year": 2018,
+      "date_disp": "Oct 2018",
+      "notes": "Amaysim exited broadband, selling all ~15,000 broadband customers to Southern Phone for $3m and stopping reselling broadband; cited 'punitive' NBN wholesale costs. The planned direct-to-POI NBN network rollout was cancelled.",
+      "from": "amaysim",
+      "to": "southern-phone-company",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.crn.com.au/news/amaysim-exits-broadband-market-after-18-months-514553",
+          "label": "CRN: Amaysim exits broadband market after 18 months (Oct 2018)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2021,
+      "date_disp": "2021",
+      "notes": "Optus acquired Amaysim for $250m (agreement 2 Nov 2020); Amaysim delisted 6 Apr 2021.",
+      "from": "amaysim",
+      "to": "optus"
     }
   ]
 }
