@@ -4,33 +4,56 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://macarthurcook.com.au",
-  "summary": "New name of Local Telecom and Internet Ltd from 2003 (ASX-listed, code MCK); property funds manager; delisted 4 Sep 2009 after compulsory acquisition by AIMS Securities; corporate shell continues as AIMS Real Estate Group.",
+  "summary": "Parent of Tassienet and RuralNet, trading as Local Telecom and Internet Ltd (ASX; formerly MBL Holdings); renamed Macarthurcook Ltd 2003 (ASX code MCK) as a property funds manager; delisted 4 Sep 2009 after AIMS compulsory acquisition.",
   "names": [
+    {
+      "name": "Local Telecom and Internet",
+      "start_year": 2000,
+      "start_disp": "31 Jan 2000",
+      "end_year": 2003,
+      "end_disp": "2003"
+    },
     {
       "name": "Macarthurcook",
       "start_year": 2003,
-      "start_disp": "2003"
+      "start_disp": "2003",
+      "end_year": 2009,
+      "end_disp": "Sep 2009"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2003,
-      "date_disp": "2003",
+      "year": 2000,
+      "date_disp": "31 Jan 2000",
       "precision": "exact",
-      "details": "Renamed from Local Telecom and Internet Ltd."
+      "details": "Renamed from MBL Holdings Ltd (08 Nov 1996-31 Jan 2000, formerly McDonald Brushware Ltd listed 11 Apr 1991); pivot to telecom operating Tassienet (Sep 1996) and RuralNet brands.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/local-telecom-and-internet-limited",
+          "label": "Delisted: LOCAL TELECOM AND INTERNET LIMITED - Former Names MBL Holdings 08/11/1996-31/01/2000",
+          "year": 2000
+        },
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/macarthurcook-limited",
+          "label": "Delisted: MACARTHURCOOK - Date of Listing 11 Apr 1991",
+          "year": 2000
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2009,
       "date_disp": "Sep 2009",
       "precision": "exact",
-      "details": "Delisted 4 Sep 2009 (AIMS compulsory acquisition).",
+      "details": "Delisted 4 Sep 2009 (AIMS compulsory acquisition); renamed from Local Telecom and Internet Ltd in 2003.",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.delisted.com.au/company/macarthurcook-limited",
-          "label": "deListed Australia: MacarthurCook Limited (ASX:MCK) \u2014 delisted 4 Sep 2009 (AIMS Securities compulsory acquisition)"
+          "label": "deListed Australia: MacarthurCook Limited (ASX:MCK) - delisted 4 Sep 2009 (AIMS Securities compulsory acquisition)"
         }
       ]
     }

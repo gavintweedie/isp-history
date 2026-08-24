@@ -1,31 +1,95 @@
 {
   "name": "Stealth Internet",
   "slug": "stealth-internet",
-  "birthplace": "Sydney, NSW",
-  "status": "inactive",
-  "website": "https://stealth.com.au",
-  "summary": "Sydney dialup ISP hosting user homepages (www.stealth.com.au, ~1997); superseded by candelaComputing ~1999.",
+  "birthplace": "Brisbane, QLD",
+  "status": "active",
+  "website": "https://stealth.net.au",
+  "summary": "Stealth Internet, formed 1997 in Brisbane as the internet arm of RMI Telecommunications; dialup ISP + web hosting; expanded to Griffith NSW 1998; ISP business sold 2002 (stealth.com.au passed into the WebFront/iiNet orbit, hosted on iiNet today); brand retired 2003; web-hosting lineage continued (Ultrawave 2003, Omosis 2005); brand relaunched 2019; acquired by Obble Pty Ltd 2021.",
   "names": [
     {
       "name": "Stealth Internet",
       "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_disp": "1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Dialup ISP."
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Stealth Internet formed 1997 as the internet arm of RMI Telecommunications; commenced operations as an ISP in Brisbane (dialup + web hosting)."
     },
     {
-      "kind": "death",
-      "year": 1999,
-      "date_disp": "c. 1999",
+      "kind": "note",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Expanded to regional NSW with a regional ISP in Griffith NSW; parent RMI Telecommunications Pty Ltd took over operations of Stealth Internet."
+    },
+    {
+      "kind": "note",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "Internet service provider business of Stealth Internet sold (2002); web-hosting division remained. By Dec 2002 stealth.com.au carried the 'WebFront joins the iiNet Group!' banner (linking iinet.net.au/news/webfront.html); stealth.com.au is hosted on iiNet today (NS ns1-3.iinet.net.au; IP 203.0.178.91 in APNIC IINET-TECH-AU).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021210135353/http://www.stealth.com.au/index.html",
+          "label": "Stealth Internet main page: 'WebFront joins the iiNet Group!' (Wayback, 10 Dec 2002)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20230325134630/https://stealth.net.au/aboutus.php",
+          "label": "Stealth Internet About Us: official history incl. 2002 ISP sale (Wayback 2023)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "Stealth Internet brand retired; parent RMI Telecommunications launched broadband ISP Ultrawave Internet (ADSL/ISDN + webhosting), which DART Internet acquired Sep 2003."
+    },
+    {
+      "kind": "note",
+      "year": 2005,
+      "date_disp": "2005",
       "precision": "approx",
-      "details": "Superseded by candelaComputing."
+      "details": "Webhosting provider Omosis Digital formed (parent lineage)."
+    },
+    {
+      "kind": "note",
+      "year": 2019,
+      "date_disp": "2019",
+      "precision": "approx",
+      "details": "Stealth Internet brand relaunched as a webhosting provider by original management under the original parent company."
+    },
+    {
+      "kind": "note",
+      "year": 2021,
+      "date_disp": "2021",
+      "precision": "approx",
+      "details": "Stealth Internet acquired by Obble Pty Ltd; continues to operate as Stealth Internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20230325134630/https://stealth.net.au/aboutus.php",
+      "label": "Stealth Internet About Us: official history (Wayback 2023)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990125103521/http://www.stealth.com.au/",
+      "label": "Stealth Internet (Wayback 1999)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021122133054/http://www.stealth.com.au/",
+      "label": "Stealth Internet frameset (Wayback, 22 Nov 2002)"
     }
   ]
 }

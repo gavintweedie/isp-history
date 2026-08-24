@@ -1,0 +1,55 @@
+{
+  "name": "Diverse Services (WA)",
+  "slug": "diverse-services",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": "https://www.diverse.services",
+  "summary": "Perth managed services and cloud provider running an IP network in Perth, Melbourne and Brisbane, trading as 'Diverse Services' (formerly 'Diverse IT'); legal entity Diverse Services (WA) Pty Ltd ACN 159 816 618; went into administration/liquidation in 2022 (final company name at administration: Diverse Services (WA) Pty Ltd), after which AS45828 was returned to APNIC.",
+  "aliases": [
+    "Diverse IT",
+    "DiversIT"
+  ],
+  "names": [
+    {
+      "name": "Diverse Services (WA)",
+      "start_year": 2012,
+      "start_disp": "7 Aug 2012"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2012,
+      "date_disp": "7 Aug 2012",
+      "precision": "exact",
+      "details": "Diverse Services (WA) Pty Ltd ACN 159 816 618, ABN 33 159 816 618, active from 7 Aug 2012 (per ABN Lookup); Australian Private Company, Perth WA 6000. Business traded as 'Diverse IT' on diverseit.com.au (formerly 'Diverse Information Technology', c. 2001).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=33159816618",
+          "label": "ABN Lookup: Diverse Services (WA) Pty Ltd ABN 33 159 816 618",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2022,
+      "date_disp": "2022",
+      "precision": "exact",
+      "details": "Went into administration/liquidation 2022; final company name at administration was Diverse Services (WA) Pty Ltd. AS45828 was returned to APNIC after administration and is now RIPE-registered to Hello World Ltd / diverse.services (created 2024-02-12; last routed Sep 2023). Confirm exact date via ASIC Connect (ACN 159 816 618)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=33159816618",
+      "label": "ABN Lookup: Diverse Services (WA) Pty Ltd ABN 33 159 816 618"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20130409154448/http://www.diverseit.com.au/",
+      "label": "Diverse IT, East Perth (Wayback 2013)"
+    }
+  ]
+}

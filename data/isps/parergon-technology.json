@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://sprint.net.au",
-  "summary": "Melbourne ISP (Parergon Technology Pty Ltd, ACN 065 972 107, ~1996-97) under business names Sprint Online / sprint.net.au, plus internet cafe 'The Cafe at the End of the Internet'; renamed Labyrinth Connections Pty Ltd Nov 2002.",
+  "summary": "Melbourne ISP (Parergon Technology Pty Ltd, ACN 065 972 107, c. 1996-97) under business names Sprint Online / sprint.net.au, plus internet cafe 'The Cafe at the End of the Internet'. Sprint Online became a division of Labyrinth Connections (by Feb 2000); the company later inherited the 'Labyrinth Connections Pty Ltd' corporate name (21 Oct 2002).",
   "names": [
     {
       "name": "Parergon Technology",
@@ -21,11 +21,43 @@
       "details": "ISP (Sprint Online), internet cafe."
     },
     {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Sprint Online became a division of Labyrinth Connections; sprint.net.au styled itself 'a division of Labyrinth Connections' by Feb 2000, and Labyrinth's About Us page lists Sprint Online among its recent takeovers.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000229163628/http://www.sprint.net.au/",
+          "label": "Sprint Online: 'A division of Labyrinth Connections' (Wayback, 29 Feb 2000)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000413034840/http://www.labyrinth.net.au/aboutus/index.html",
+          "label": "Labyrinth About Us: lists Sprint Online among recent takeovers (Wayback 2000)"
+        }
+      ]
+    },
+    {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "Nov 2002",
+      "year": 2005,
+      "date_disp": "30 Jun 2005",
       "precision": "exact",
-      "details": "Renamed Labyrinth Connections Pty Ltd."
+      "details": "Corporate name changed to 'Labyrinth Connections Pty Ltd' on 21 Oct 2002 (ACN 065 972 107; ABN 58 065 972 107) - the Labyrinth group's Sprint subsidiary inherited the corporate name when the Labyrinth ISP (ACN 069 211 678) was renamed Key Point Pty Ltd. ABN cancelled 30 Jun 2005.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=58065972107",
+          "label": "ABN Lookup: ABN 58 065 972 107 - Labyrinth Connections Pty Ltd (formerly Parergon Technology), Cancelled 30 Jun 2005",
+          "year": 2005
+        },
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/labyrinth-connections-pty-ltd-065972107/",
+          "label": "abn-lookup.com: Labyrinth Connections Pty Ltd ACN 065 972 107 - registered 5 Oct 1994, current name since 21 Oct 2002"
+        }
+      ]
     }
   ]
 }

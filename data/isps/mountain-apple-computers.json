@@ -1,0 +1,55 @@
+{
+  "name": "Mountain Apple Computers",
+  "slug": "mountain-apple-computers",
+  "birthplace": "Penrith, NSW",
+  "status": "inactive",
+  "website": "https://www.mac.com.au",
+  "summary": "Small dialup ISP in Penrith (NSW) run by Mountain Apple Computers (Mountain Apple Pty Ltd), alongside Apple Macintosh/PC retail and graphic prepress support; established 1993; mac.com.au live from ~1998 (Wayback); the domain was later taken up by Apple Inc.",
+  "aliases": [
+    "mac.com.au",
+    "Mountain Computers",
+    "Mountain Apple Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Mountain Apple Computers",
+      "start_year": 1993,
+      "start_disp": "1993"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "Existing retail computer business Mountain Apple Computers (Mountain Apple Pty Ltd) in Penrith NSW, established 1993, began offering dialup ISP services (mac.com.au) by 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981205053432/http://www.mac.com.au/page2.html",
+          "label": "Mountain Apple Computers - Company Profile (Wayback 1998)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "after 2000",
+      "precision": "unknown",
+      "details": "ISP subsequently defunct; the mac.com.au domain was later held by Apple Inc."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981202065342/http://www.mac.com.au/",
+      "label": "Mountain Apple Computers Web Site / mac.com.au (Wayback 1998)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981205053432/http://www.mac.com.au/page2.html",
+      "label": "Mountain Apple Computers - Company Profile (Wayback 1998)"
+    }
+  ]
+}

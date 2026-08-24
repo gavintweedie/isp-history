@@ -3,13 +3,20 @@
   "slug": "keypoint",
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
-  "website": "keypoint.com.au",
-  "summary": "Consolidating ISP (formerly Labyrinth); acquired Southern Internet Services (Southcom) and 20+ small ISPs; acquired by Datafast (later EFTel).",
+  "website": "https://labyrinth.net.au",
+  "summary": "Melbourne ISP (Labyrinth Connections Pty Ltd, ACN 069 211 678) running labyrinth.net.au from the mid-1990s; consolidated many small ISPs; renamed Key Point Pty Ltd ~2002; acquired by Datafast (later EFTel) late 2003.",
   "names": [
     {
-      "name": "Keypoint",
+      "name": "Labyrinth",
       "start_year": 1995,
-      "start_disp": "1995"
+      "start_disp": "1995",
+      "end_year": 2002,
+      "end_disp": "c. 2002"
+    },
+    {
+      "name": "Keypoint",
+      "start_year": 2002,
+      "start_disp": "c. 2002"
     }
   ],
   "events": [
@@ -18,14 +25,59 @@
       "year": 1995,
       "date_disp": "1995",
       "precision": "exact",
-      "details": "Founded as Labyrinth Connections; renamed KeyPoint ~2002."
+      "details": "Labyrinth Connections Pty Ltd, Melbourne (ACN 069 211 678; same ACN as later Key Point Pty Ltd). labyrinth.net.au captured by the Wayback Machine from Nov 1996; site presented as 'Labyrinth Connections' through the 1990s.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970217101414/http://www.labyrinth.net.au/",
+          "label": "Labyrinth Connections (Wayback 1997)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010515105109/http://www.labyrinth.net.au/",
+          "label": "Labyrinth Connections Pty. Ltd. ACN 069 211 678 (Wayback 2001)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Labyrinth took over Nexus Internet Services, Majestic Internet Services, Sprint Online, Southern Internet Services, SkyNet Services, SubNet Internet Services and Webnet Burnie within the prior 24 months (per About Us page). Sprint Online's site described itself as 'a division of Labyrinth Connections' by Feb 2000.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000413034840/http://www.labyrinth.net.au/aboutus/index.html",
+          "label": "Labyrinth About Us: lists recent takeovers incl. Sprint Online (Wayback 2000)"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2003,
       "date_disp": "late 2003",
       "precision": "exact",
-      "details": "Acquired by Datafast (renamed EFTel 2005)."
+      "details": "Renamed Key Point Pty Ltd c. 2002 (same ACN 069 211 678; ABN 48 069 211 678 cancelled 7 Nov 2017); acquired by Datafast (later EFTel) late 2003.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=48069211678",
+          "label": "ABN Lookup: Key Point Pty Ltd ABN 48 069 211 678 (formerly Labyrinth Connections Pty Ltd)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010515105109/http://www.labyrinth.net.au/",
+      "label": "Labyrinth (Wayback 2001)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=48069211678",
+      "label": "ABN Lookup: Key Point Pty Ltd ABN 48 069 211 678 (formerly Labyrinth Connections Pty Ltd)"
     }
   ]
 }

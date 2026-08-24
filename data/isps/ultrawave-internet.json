@@ -1,0 +1,45 @@
+{
+  "name": "Ultrawave Internet",
+  "slug": "ultrawave-internet",
+  "birthplace": "Griffith, NSW",
+  "status": "inactive",
+  "website": "ultrawave.com.au",
+  "summary": "Dialup/ISDN/ADSL ISP launched 2003 by RMI Telecommunications (parent of Stealth Internet); Comindico-reseller; offices in Griffith (base), Melbourne and Sydney; acquired by DART Internet Sep 2003 and merged into DART.",
+  "names": [
+    {
+      "name": "Ultrawave Internet",
+      "start_year": 2003,
+      "start_disp": "2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "exact",
+      "details": "ultrawave.com.au first captured by the Wayback Machine 22 Jun 2003; ABN 'ULTRAWAVE INTERNET' (cancelled). Launched by RMI Telecommunications (which had taken over Stealth Internet's operations in 1998).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030622104747/http://www.ultrawave.com.au/",
+          "label": "Ultrawave Internet (Wayback 2003)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Sep 2003",
+      "precision": "exact",
+      "details": "Acquired by DART Internet (announced 13 Sep 2003); Ultrawave merged into DART, staff released, customers migrated.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/114117",
+          "label": "Whirlpool: 'official - DART aquires Ultrawave' - DART announcement (13 Sep 2003)"
+        }
+      ]
+    }
+  ]
+}

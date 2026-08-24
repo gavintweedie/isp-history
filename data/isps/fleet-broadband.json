@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "fleetbroadband.com.au",
-  "summary": "Perth wholesale Internet infrastructure provider; acquired Paradox Digital c.2001; Eftel (Datafast) was a major investor; became DFT Wholesale.",
+  "summary": "Perth wholesale Internet infrastructure provider; acquired Paradox Digital c.2001 and XiS's WA ADSL customer base 2002; Eftel (Datafast) was a major investor; became DFT Wholesale.",
   "names": [
     {
       "name": "Fleet Broadband",
@@ -19,6 +19,25 @@
       "date_disp": "by 2001",
       "precision": "by",
       "details": "Perth wholesale provider; existed by 2001 when it acquired Paradox Digital (Gemini ABN date of 2004 contradicted its 2002 Datafast deal)."
+    },
+    {
+      "kind": "note",
+      "year": 2002,
+      "date_disp": "Aug 2002",
+      "precision": "exact",
+      "details": "Acquired XiS's Western Australian ADSL customer base (confirmed by Fleet National Sales Manager John Lane, 1 Aug 2002); a full takeover of XiS was considered but did not proceed.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/26435",
+          "label": "Whirlpool: 'XIS Address? / XiS taken over by Fleet?' - Fleet statement re WA ADSL customer base (1 Aug 2002)"
+        },
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/29328",
+          "label": "Whirlpool: 'Who is your ADSL Provider?' - WA XiS sign-ups now with Fleet"
+        }
+      ]
     },
     {
       "kind": "death",
