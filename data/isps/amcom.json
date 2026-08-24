@@ -4,28 +4,45 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "amcom.com.au",
-  "summary": "Perth-based telecommunications provider (DSL/voice/fibre for Perth/Adelaide/Darwin); acquired IP Systems (2010) and AmNet (2003); acquired by Vocus.",
+  "summary": "Perth-based telco (fibre, DSL broadband, voice, data centres; also retail via Amnet brand); carrier-licensed 1998 with cabling-business roots dating to 1988; acquired IP Systems (2010); acquired by Vocus 2015.",
   "names": [
     {
       "name": "Amcom Telecommunications",
-      "start_year": 1988,
-      "start_disp": "1988"
+      "start_year": 1998,
+      "start_disp": "1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1988,
-      "date_disp": "1988",
+      "year": 1998,
+      "date_disp": "1998",
       "precision": "exact",
-      "details": "Amcom founded in Perth (ASX-listed)."
+      "details": "Became a licensed telecommunications carrier and began building its Perth fibre network. Origins: Amcom Telecommunications Pty Ltd registered in WA 19 Aug 1988 (ACN 009 336 341) by Andrew McLean as a structured-cabling provider for Perth CBD corporates \u2014 the business founding, though pre-telco. The ASX entity (AMM) was the former mining shell International Mineral Resources NL (listed Jul 1994), renamed Fibertel Ltd Nov 1999 after buying into Amcom, then Amcom Telecommunications Limited on 13 Jun 2000.",
+      "refs": [
+        {
+          "kind": "wiki",
+          "url": "https://en.wikipedia.org/wiki/Vocus_Group",
+          "label": "Wikipedia (Vocus Group): 'Amcom acquired a telecommunications carrier licence in 1998 and began building a fibre optic network'"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=33009336341",
+          "label": "ABR: Amcom Pty Ltd (ex Amcom Telecommunications Pty Ltd), ACN 009 336 341"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/amcom-telecommunications-limited/",
+          "label": "deListed Australia: IMR NL -> Fibertel Ltd (Nov 1999) -> Amcom Telecommunications Ltd (13 Jun 2000)"
+        }
+      ]
     },
     {
       "kind": "death",
-      "year": 2014,
-      "date_disp": "c. 2014",
-      "precision": "approx",
-      "details": "Acquired by Vocus.",
+      "year": 2015,
+      "date_disp": "Jul 2015",
+      "precision": "exact",
+      "details": "Acquired by Vocus Communications under scheme of arrangement; delisted from ASX 9 Jul 2015.",
       "refs": [
         {
           "kind": "official",
