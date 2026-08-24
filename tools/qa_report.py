@@ -61,6 +61,7 @@ def main():
     leaf_nodes = []
     bad_dates = []
     no_website_active = []
+    active_with_death = []
     year_disp_mismatch = []
     death_disp_mismatch = []
     bad_summary_type = []
@@ -91,6 +92,10 @@ def main():
 
         if i["status"] == "active" and not i.get("website"):
             no_website_active.append(i["name"])
+
+        # active ISP carrying a death event = contradiction
+        if i["status"] == "active" and death(i):
+            active_with_death.append(f"{i['name']} (death {death(i)[0].get('date_disp')})")
 
         # --- start_year / start_disp consistency ---
         for n in i.get("names", []):
@@ -178,6 +183,7 @@ def main():
         "bad_summary_type": len(bad_summary_type),
         "fake_transition_urls": len(fake_transition_urls),
         "cynosure_as_transition_ref": len(cynosure_as_transition_ref),
+        "active_with_death": len(active_with_death),
     }
 
     report["issues"] = {
@@ -195,6 +201,7 @@ def main():
         "bad_summary_type": bad_summary_type,
         "fake_transition_urls": fake_transition_urls,
         "cynosure_as_transition_ref": cynosure_as_transition_ref,
+        "active_with_death": sorted(active_with_death),
     }
 
     if args.json:
@@ -215,6 +222,7 @@ def main():
     print(f"  birth year > death year:              {c['birth_gt_death']}")
     print(f"  duplicate display names:              {c['duplicate_names']}")
     print(f"  active ISPs with no website:          {c['active_no_website']}")
+    print(f"  active ISPs with a death event:       {c['active_with_death']}")
     print(f"  year/date_disp mismatches (birth):    {c['year_disp_mismatch']}")
     print(f"  death date_disp mismatches (≥5yrs):   {c['death_disp_mismatch']}")
     print(f"  bad summary type (not string):        {c['bad_summary_type']}")

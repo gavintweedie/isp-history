@@ -207,6 +207,23 @@ class TestFieldTypes:
                     f"{slug}: has birth event(s) but none have a year"
                 )
 
+    def test_active_isp_has_no_death_event(self):
+        """An ISP with status='active' must not carry a death event.
+
+        Catches the fabricated-death bug: entities that pivoted out of
+        consumer ISP service (e.g. to hosting/IT) must be modelled with a
+        note, not a death, while status remains 'active'.
+        """
+        for isp in _load_isps():
+            slug = isp.get("slug", "?")
+            if isp.get("status") == "active":
+                deaths = [e for e in isp.get("events", []) if e.get("kind") == "death"]
+                assert not deaths, (
+                    f"{slug}: status='active' but has death event(s) "
+                    f"({[d.get('date_disp') for d in deaths]}) — either the "
+                    f"status or the death record is wrong"
+                )
+
 
 # ---------------------------------------------------------------------------
 # transition ref validation
