@@ -4,12 +4,35 @@
   "birthplace": "Sydney/Melbourne",
   "status": "inactive",
   "website": "https://cia.com.au",
-  "summary": "ISP (cia.com.au, 'Connect Infobahn Australia'); ran budget brands Dialup1, Host1, Virtual1; later became CIA Group (hosting/WebCity); wound down ~2010s.",
+  "summary": "Sydney ISP (cia.com.au, 'Connect Infobahn Australia'; dialup brands Dialup1, Virtual1/2, A.R. Internet; premium hosting brand Host1). Renamed Bucan Holdings Pty Ltd in Apr 2000 and evolved into a hosting/cloud group adding Enetica Domains, Webcity (merged in 2002) and BitCloud (2010), before rebranding as Axelera; hosting business acquired by Servers Australia in Oct 2017.",
   "names": [
     {
       "name": "Connect Infobahn Australia",
       "start_year": 1996,
-      "start_disp": "1996"
+      "start_disp": "1996",
+      "end_year": 2000,
+      "end_disp": "Apr 2000"
+    },
+    {
+      "name": "Bucan Holdings (group: WebCity, Host1, Enetica)",
+      "start_year": 2000,
+      "start_disp": "Apr 2000",
+      "end_year": 2010,
+      "end_disp": "2010"
+    },
+    {
+      "name": "BitCloud",
+      "start_year": 2010,
+      "start_disp": "Apr 2010",
+      "end_year": 2016,
+      "end_disp": "c. 2016"
+    },
+    {
+      "name": "Axelera",
+      "start_year": 2016,
+      "start_disp": "c. 2016",
+      "end_year": 2017,
+      "end_disp": "Oct 2017"
     }
   ],
   "events": [
@@ -18,7 +41,7 @@
       "year": 1996,
       "date_disp": "1996",
       "precision": "by",
-      "details": "cia.com.au captured 22 Jan 1997 with footer Copyright \u00a9 1996 Connect Infobahn Australia; in Australian ISP List by 10 Apr 1997.",
+      "details": "cia.com.au captured 22 Jan 1997 with footer Copyright \u00a9 1996 Connect Infobahn Australia; in Australian ISP List by 10 Apr 1997. The company operated budget dialup brands Dialup1, Virtual1, Virtual2 and A.R. Internet, plus premium hosting brand Host1 ('one of Australia's oldest and most experienced hosting providers').",
       "refs": [
         {
           "kind": "archive",
@@ -28,11 +51,54 @@
       ]
     },
     {
-      "kind": "death",
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "Apr 2000",
+      "details": "Corporate restructuring: the company was renamed Bucan Holdings Pty Ltd (ASIC name change registered 27 Apr 2000) and its brands - Connect Infobahn, Dialup1, Virtual1, Virtual2, Host1, A.R. Internet - continued as business names of the renamed entity (per ASIC business name register). Enetica Domains was added as a business name in Dec 2001; Bennett Oprysa's Webcity merged into the group in 2002 (operating via the C.I.A. Unit Trust, whose trading names included Webcity Australia Pty Ltd and Enetica Pty Ltd from Jul 2002). cia.com.au's domain registrant remains Webcity Australia Pty Ltd (ACN 085 753 868).",
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://www.aubiz.net/company/bucan-holdings-pty-ltd-003737040/",
+          "label": "ASIC business names via AUBiz: Bucan Holdings Pty Ltd ACN 003 737 040 - 'Connect Infobahn', 'Host1', 'Dialup1', 'Virtual1/2', 'Enetica Domains', 'C I A Business Solutions'"
+        },
+        {
+          "kind": "official",
+          "url": "https://linkedin.com/in/bennettoprysa",
+          "label": "Bennett Oprysa (CEO Bucan Holdings): 'Launched Webcity... merged into the Bucan Holdings group of companies in 2002'"
+        }
+      ]
+    },
+    {
+      "kind": "note",
       "year": 2010,
-      "date_disp": "c. 2010",
-      "precision": "approx",
-      "details": "Wound down (as CIA Group)."
+      "date_disp": "Dec 2010",
+      "details": "Launched BitCloud (business name registered 22 Apr 2010), an SME cloud/IaaS platform running from Global Switch Sydney on Dell hardware - described as one of the largest public clouds in Australia at launch.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://itwire.com/sponsored-announcements/bitcloud-launches-in-sydney-aiming-to-provide-australian-smes-with-access-to-secure-affordable-industrial-strength-cloud-computing",
+          "label": "iTWire (7 Dec 2010): BitCloud launch - division of Bucan Holdings, 'industry since 1995'"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2017,
+      "date_disp": "Oct 2017",
+      "precision": "exact",
+      "details": "Servers Australia acquired the group's dedicated server and cloud hosting business - by then trading as Axelera (formerly BitCloud) - announced 18 Oct 2017, undisclosed sum. Part of Servers Australia's 2016-17 acquisition run (Oz Servers Sep 2017, RackCentral Dec 2017, Dedicated Servers/Indigo/Syncom Jun 2016). NOTE: an earlier version of this record said the company 'wound down c.2010 as CIA Group' - incorrect; it continued through Bucan Holdings/BitCloud/Axelera until this sale.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/servers-australia-acquires-server-and-cloud-hosting-assets-of-axelera-475592",
+          "label": "Techpartner.news (18 Oct 2017): Servers Australia acquires server and cloud hosting assets of Axelera"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/servers-australia-snaps-up-assets-of-once-defunct-rackcentral-479743",
+          "label": "Techpartner.news (Dec 2017): SAU acquisition spree context (Axelera Oct, Oz Servers Sep 2017)"
+        }
+      ]
     }
   ],
   "refs": [
@@ -41,5 +107,17 @@
       "url": "https://web.archive.org/web/19981212023754/http://www.cia.com.au/",
       "label": "CIA (Wayback 1998)"
     }
+  ],
+  "aliases": [
+    "CIA Group",
+    "Bucan Holdings",
+    "Host1",
+    "Dialup1",
+    "Virtual1",
+    "Virtual2",
+    "A.R. Internet",
+    "Webcity Australia",
+    "Enetica",
+    "BitCloud"
   ]
 }

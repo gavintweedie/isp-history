@@ -5485,6 +5485,26 @@
           "label": "Aardvark blog (13 Jan 2013): acquisition announcement"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "from": "connect-infobahn-australia",
+      "to": "servers-australia",
+      "year": 2017,
+      "date_disp": "Oct 2017",
+      "notes": "Servers Australia acquired the group's dedicated server and cloud hosting business - then trading as Axelera, formerly BitCloud, and rooted in Connect Infobahn Australia (cia.com.au, 1996; renamed Bucan Holdings Apr 2000; brands incl. Host1, Dialup1, Virtual1/2, Webcity, Enetica) - announced 18 Oct 2017.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/servers-australia-acquires-server-and-cloud-hosting-assets-of-axelera-475592",
+          "label": "Techpartner.news (18 Oct 2017): Servers Australia acquires server and cloud hosting assets of Axelera"
+        },
+        {
+          "kind": "gov",
+          "url": "https://www.aubiz.net/company/bucan-holdings-pty-ltd-003737040/",
+          "label": "ASIC business names via AUBiz: Bucan Holdings Pty Ltd (ex Connect Infobahn) - Host1, Dialup1, Bitcloud etc."
+        }
+      ]
     }
   ]
 }
