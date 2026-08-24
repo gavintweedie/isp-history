@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://atrax.net.au",
-  "summary": "Canberra dialup ISP (atrax.net.au) \u2014 a separate operation from the famous Melbourne FunnelWeb absorbed by OzEmail; defunct.",
+  "summary": "Canberra dialup ISP (atrax.net.au, registrant Noel Prictor); website went stale after 2001 but the business continued operating; acquired by Melbourne micro-ISP Aardvark Internet in late 2012 (announced Jan 2013); atrax.net.au mail continues via Aardvark webmail.",
   "names": [
     {
       "name": "FunnelWeb Internet (Canberra)",
@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "2001",
-      "precision": "exact",
-      "details": "Last active capture of atrax.net.au (Nov 2001); parked from 2016."
+      "year": 2012,
+      "date_disp": "late 2012",
+      "precision": "approx",
+      "details": "Business acquired by Aardvark Internet (Noro Communications Pty Ltd) in late 2012 - announced 13 Jan 2013, mailbox changeover completed 17 Jan 2013. NOTE: the atrax.net.au website itself went stale after Nov 2001 (an earlier version of this record mistook that for the business's death, and an unsupported claim of absorption by OzEmail has been removed).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130408235801/http://aardvark.net.au/2013/01/13/aardvark-internet-acquires-aspire-internet-and-funnelweb-internet/",
+          "label": "Aardvark blog (13 Jan 2013): acquisition of Aspire Internet and Funnelweb Internet"
+        },
+        {
+          "kind": "official",
+          "url": "https://woowhois.com/whois/atrax.net.au",
+          "label": "WHOIS: atrax.net.au registrant 'FunnelWeb Internet', contact Noel Prictor"
+        }
+      ]
     }
   ],
   "refs": [

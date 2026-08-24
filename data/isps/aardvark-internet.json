@@ -2,9 +2,9 @@
   "name": "Aardvark Internet",
   "slug": "aardvark-internet",
   "birthplace": "Melbourne, VIC",
-  "status": "active",
+  "status": "inactive",
   "website": "https://www.aardvark.net.au",
-  "summary": "Melbourne low-cost dialup ISP since 1994 (APANA-based); absorbed DezzaNet (2005) and Aspire/Funnelweb (2013); still operating as a micro-ISP.",
+  "summary": "Melbourne micro-ISP since 1994 (APANA-based dialup, later ADSL/NBN/VoIP); operated by Noro Communications Pty Ltd (which also ran the Dingley.net brand) and absorbed several small ISPs' customer/mail bases (DezzaNet 2005, Aspire/Funnelweb mail 2013, others). Exited connectivity c. mid-2019; aardvark.net.au now provides legacy webmail across ~11 absorbed ISP domains.",
   "names": [
     {
       "name": "Aardvark Internet",
@@ -19,6 +19,41 @@
       "date_disp": "1994",
       "precision": "exact",
       "details": "Low-cost dialup since 1994."
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "by Jul 2019",
+      "precision": "by",
+      "details": "Ceased retail connectivity (ADSL/NBN/wireless/dial-up/VoIP) between 18 Apr 2019 (last archived retail homepage, whose news announced an April 2019 mail server upgrade) and 21 Jul 2019 (homepage reduced to a webmail-only portal). Continues today purely as a legacy email provider for the accumulated customer bases of absorbed brands. Operated by Noro Communications Pty Ltd (ACN 105 873 078), which has also traded as Dingley.net (since Aug 2003) and Aardvark Internet Australia (since Jan 2004).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190418230959/http://aardvark.net.au/",
+          "label": "Wayback 18 Apr 2019: last retail-era homepage (NBN/ADSL/VoIP menus)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190721095030/https://aardvark.net.au/",
+          "label": "Wayback 21 Jul 2019: homepage reduced to webmail-only portal"
+        },
+        {
+          "kind": "gov",
+          "url": "https://www.abn-lookup.com/firm/noro-communications-pty-ltd-105873078/",
+          "label": "ABR via ABN-lookup: Noro Communications Pty Ltd - business names 'Aardvark Internet Australia' (2004-) and 'Dingley.net' (2003-)"
+        },
+        {
+          "kind": "official",
+          "url": "https://billing.noro.com.au/index.php",
+          "label": "Aardvark internet billing portal hosted at billing.noro.com.au"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "details": "Legacy mail domains selectable at aardvark.net.au webmail (evidence of absorbed/taken-over micro-ISPs): aardvark.net.au, aspire.com.au, atrax.net.au (Funnelweb), caloundra.net.au, coastalnet.com.au, dezzanet.net.au, dingley.net, doggy.com.au, fwi.net.au, ona.net.au, serv.net.au; rbia.com.au email customers referenced in 2016-19 site posts. Documented takeovers: DezzaNet (late 2005), Aspire Internet and FunnelWeb Internet (businesses acquired late 2012, announced Jan 2013), Dingley.net (sister brand under Noro since 2003-04) - no merger among these brands occurred; one operator (Noro) inherited or took over each mail base separately."
     }
   ],
   "refs": [

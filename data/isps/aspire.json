@@ -1,0 +1,45 @@
+{
+  "name": "Aspire Internet",
+  "slug": "aspire",
+  "birthplace": "Figtree (Wollongong), NSW",
+  "status": "inactive",
+  "website": "https://aspire.com.au",
+  "summary": "Illawarra dialup/broadband ISP ('Aspire Internet Services', Figtree NSW, \u00a91998); acquired by Melbourne micro-ISP Aardvark Internet in late 2012; aspire.com.au mail continues via Aardvark webmail.",
+  "names": [
+    {
+      "name": "Aspire Internet",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Aspire Internet Services, based at Figtree NSW (Wollongong/Illawarra); site copyright 1998, self-described as 'new and fast growing' with the mission to be the leading supplier of business and personal internet services in the Illawarra. Earliest verified Wayback capture of aspire.com.au is 13 Apr 2000.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010124015600/http://www.aspire.com.au/",
+          "label": "Wayback 24 Jan 2001: Aspire Internet Services, Figtree NSW"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2012,
+      "date_disp": "late 2012",
+      "precision": "approx",
+      "details": "Business acquired by Aardvark Internet (Noro Communications Pty Ltd, Melbourne); announced 13 Jan 2013 with customer databases integrated and services transferred to Aardvark's network. aspire.com.au email addresses continue via Aardvark's legacy webmail portal.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130408235801/http://aardvark.net.au/2013/01/13/aardvark-internet-acquires-aspire-internet-and-funnelweb-internet/",
+          "label": "Aardvark blog (13 Jan 2013): acquisition of Aspire Internet and Funnelweb Internet"
+        }
+      ]
+    }
+  ]
+}

@@ -5318,22 +5318,6 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "notes": "FunnelWeb Internet (Canberra) absorbed by OzEmail.",
-      "from": "funnelweb-internet",
-      "to": "ozemail",
-      "refs": [
-        {
-          "kind": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/OzEmail",
-          "label": "Wikipedia: OzEmail"
-        }
-      ]
-    },
-    {
-      "type": "acquisition",
-      "arm_label": "100%",
       "year": 2013,
       "date_disp": "Apr 2013",
       "notes": "Karratha Internet taken over by Escape.Net (domain redirect + registrar transfer Apr 2013).",
@@ -5469,6 +5453,36 @@
           "kind": "gov",
           "url": "https://www.aubiz.net/company/primus-telecommunications-australia-pty-ltd-061754943/",
           "label": "ASIC: 'Imagineering Data Centre' business name under Primus Australia, 9 Sep 2008"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "funnelweb-internet",
+      "to": "aardvark-internet",
+      "year": 2012,
+      "date_disp": "late 2012",
+      "notes": "Aardvark Internet (Noro Communications) acquired the FunnelWeb Internet business in late 2012; announced 13 Jan 2013, mailbox changeover completed 17 Jan 2013. atrax.net.au addresses continue via Aardvark's legacy webmail.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130408235801/http://aardvark.net.au/2013/01/13/aardvark-internet-acquires-aspire-internet-and-funnelweb-internet/",
+          "label": "Aardvark blog (13 Jan 2013): 'Aardvark Internet acquires Aspire Internet and Funnelweb Internet'"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "aspire",
+      "to": "aardvark-internet",
+      "year": 2012,
+      "date_disp": "late 2012",
+      "notes": "Aardvark Internet (Noro Communications) acquired the Aspire Internet business in late 2012; announced 13 Jan 2013, mailbox changeover completed 17 Jan 2013. aspire.com.au addresses continue via Aardvark's legacy webmail.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130408235801/http://aardvark.net.au/2013/01/13/aardvark-internet-acquires-aspire-internet-and-funnelweb-internet/",
+          "label": "Aardvark blog (13 Jan 2013): acquisition announcement"
         }
       ]
     }
