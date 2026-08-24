@@ -1,0 +1,95 @@
+{
+  "name": "URSYS",
+  "slug": "ursys",
+  "birthplace": "Leichhardt (Sydney), NSW",
+  "status": "active",
+  "website": "https://ursys.com.au",
+  "summary": "Sydney remote-area communications specialist (satellite voice/data, VSAT, private LTE, SCADA) founded c.1994; built its own Linux satellite routers from 1999 and some of Australia's largest rural satellite networks; now also a Starlink authorised reseller.",
+  "names": [
+    {
+      "name": "URSYS",
+      "start_year": 1994,
+      "start_disp": "c. 1994"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "c. 1994",
+      "precision": "approx",
+      "details": "Founded as a remote-area communications provider ('Since 1994' per company history). In its earlier phase it provided affordable satellite communications to very remote indigenous communities, improving access to health services. Legal entity URSYS Pty Ltd carries ACN 004 011 072 - an ACN prefix suggesting the shell predates the telecoms business by several years.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://ursys.com.au/about-us/",
+          "label": "URSYS About Us: 'Since 1994' + indigenous communities satellite phase"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1999,
+      "date_disp": "1999",
+      "details": "Began building its own satellite ground equipment when Telstra launched its satellite service: US-sourced routers proved unsatisfactory for Australian conditions, so URSYS developed the 'BusiBox', a diskless (solar-capable) Debian GNU/Linux satellite router with a custom TCP/IP stack tuned for satellite latency, plus open-source firewall/QoS/IPSec VPN/mail/DNS, all managed via web interface.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.computerworld.com/article/1580166/linux-powers-australia-s-largest-satellite-network.html",
+          "label": "Computerworld (31 Mar 2004): Ursys MD Grahame Cover on the company's 1999 satellite-router origins"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2004,
+      "date_disp": "2004",
+      "details": "With Telstra, built NSW 'Rural Link' for NSW.net: Linux-based two-way satellite/ISDN/Wi-Fi connectivity across 75 towns spanning ~800,000 km2 - described as the largest network of its type in Australia - connecting libraries, health facilities and community centres.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.computerworld.com/article/1580166/linux-powers-australia-s-largest-satellite-network.html",
+          "label": "Computerworld (31 Mar 2004): Rural Link rollout"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2016,
+      "date_disp": "Jul 2016",
+      "details": "Nationally significant networks designed/built/managed by URSYS include NT Connect (Local Government Association of NT communities), the South Pacific Tsunami Warning Network for the Bureau of Meteorology, a national satellite SCADA network for APA Group, commercial VSAT services for Cygnus Satellite, and ROSIE - a tele-health network for 23 remote clinics across north-west WA, NT and SA. In Jul 2016 signed a wholesale partnership with Optus Satellite (D2 capacity at 152E plus Belrose teleport); its iDirect VSAT fleet migrated to Optus D2 by Dec 2018.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.satellitetoday.com/connectivity/2016/07/12/ursys-signs-capacity-deal-optus-satellite/",
+          "label": "Via Satellite (12 Jul 2016): Ursys signs capacity deal with Optus Satellite"
+        },
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/telecoms-and-nbn/boost-to-remote,-rural-communications-services-from-optus,-ursys-alliance.html",
+          "label": "CommsWire (11 Jul 2016): Optus-Ursys alliance"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2025,
+      "date_disp": "2025-26",
+      "details": "Current era: Starlink authorised reseller delivering LEO connectivity alongside GEO services; launched Layer 2 Secure Starlink for enterprise/OT/critical-infrastructure customers (private corporate network extension over Starlink, targeting mine sites, remote depots and disaster recovery). Remains privately held, Sydney-based.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://ursys.com.au/about-us/",
+          "label": "URSYS: current services incl. Starlink reseller program"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=68004011072",
+      "label": "ABR: URSYS PTY. LIMITED, ABN 68 004 011 072 (ACN 004 011 072)"
+    }
+  ]
+}
