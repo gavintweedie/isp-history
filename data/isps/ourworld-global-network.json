@@ -40,6 +40,30 @@
       ]
     },
     {
+      "kind": "note",
+      "year": 1998,
+      "date_disp": "May 1998",
+      "precision": "exact",
+      "details": "OGN's media releases (e.g. the Auslink flat-rate launch, 7 May 1998) were disseminated via the ASX feed of Barton Capital Holdings Limited (ASX.BCH, issuer 3429, ACN 064 874 620; ex-Auschina Corporation Limited, renamed 15 Jan 1997) — a Sydney listed shell/investment firm. The relationship is unclear; possibly the listed vehicle or investor behind OGN's national aggregation ambitions.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=3429&announcementId=593837&documentDate=1998-05-07&documentNumber=159469",
+          "label": "ASX: media releases by Ourworld Global Network Pty Ltd, filed under Barton Capital Holdings Ltd (7 May 1998)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/barton-capital-holdings-limited",
+          "label": "delisted.com.au: Barton Capital Holdings Ltd (BCH) — ex-Auschina Corporation"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/national/ailing-barton-capital-axes-staff-closes-core-operations-20020604-gdfc53.html",
+          "label": "SMH (4 Jun 2002): 'Ailing Barton Capital axes staff, closes core operations'"
+        }
+      ]
+    },
+    {
       "kind": "death",
       "year": 1998,
       "date_disp": "1998",

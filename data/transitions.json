@@ -5542,6 +5542,22 @@
           "label": "LinkedIn: John Lindsay — 'I bought the customers for Chariot from the liquidator'"
         }
       ]
+    },
+    {
+      "type": "split",
+      "arm_label": "100% — OGN's retail arm (Auslink Communications)",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "notes": "Auslink Communications Pty Ltd (ACN 077 048 938) was OurWorld Global Network's retail flat-rate ISP arm (same GPO Box 4773 Sydney; GM Samantha Teh at OGN's phone); launched a national flat-rate service in May 1998 on OGN's satellite backbone, built on the iiNet SA base OGN bought Apr 1997.",
+      "from": "ourworld-global-network",
+      "to": "auslink",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=3429&announcementId=593837&documentDate=1998-05-07&documentNumber=159469",
+          "label": "ASX media release: 'Auslink Communications Goes National with Affordable Internet Access' (7 May 1998)"
+        }
+      ]
     }
   ]
 }

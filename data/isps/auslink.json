@@ -1,0 +1,81 @@
+{
+  "name": "Auslink Communications",
+  "slug": "auslink",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "https://auslink.net",
+  "summary": "Sydney retail ISP arm of OurWorld Global Network; launched a national flat-rate Internet access service (May 1998) on OGN's satellite backbone; folded when OGN failed in 1998.",
+  "names": [
+    {
+      "name": "Auslink Communications",
+      "start_year": 1997,
+      "start_disp": "by 1997",
+      "end_year": 1998,
+      "end_disp": "1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Auslink Communications Pty Ltd (ACN 077 048 938, registered c. 1996; GPO Box 4773 Sydney — the same box as OurWorld Global Network); operating by Dec 1997 (earliest Wayback capture)."
+    },
+    {
+      "kind": "note",
+      "year": 1998,
+      "date_disp": "May 1998",
+      "precision": "exact",
+      "details": "Launched an Australia-wide flat-rate Internet access service ($350/yr or $120/quarter) with POPs in Brisbane, Sydney, Melbourne, Adelaide and Perth, using the internet backbone supplied by OurWorld Global Network; GM Samantha Teh at OGN's phone 02-9223-2777. This was OGN's retail arm, built on the iiNet SA base OGN bought in Apr 1997 as the foundation for its national service.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=3429&announcementId=593837&documentDate=1998-05-07&documentNumber=159469",
+          "label": "ASX media release: 'Auslink Communications Goes National with Affordable Internet Access' (7 May 1998)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980205051109/http://auslink.net/howtocontact/",
+          "label": "Auslink how to contact us (Wayback 5 Feb 1998) — ACN 077 048 938, GPO Box 4773 Sydney"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "approx",
+      "details": "Folded when OurWorld Global Network failed quietly in 1998 and was liquidated; customers were part of the base bought from the liquidator by Chariot. auslink.net pivoted to SmartServers (virtual/dedicated server hosting) by 1999.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+          "label": "LinkedIn: John Lindsay — OGN 'failed fairly quietly in 1998. I bought the customers for Chariot from the liquidator'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990129065808/http://www.auslink.net/index.html",
+          "label": "auslink.net — SmartServers hosting (Wayback 29 Jan 1999)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19971224051706/http://auslink.net/",
+      "label": "Auslink Communications (Wayback 24 Dec 1997)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980205051109/http://auslink.net/howtocontact/",
+      "label": "Auslink how to contact us (Wayback 5 Feb 1998)"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=3429&announcementId=593837&documentDate=1998-05-07&documentNumber=159469",
+      "label": "ASX media release: 'Auslink Communications Goes National with Affordable Internet Access' (7 May 1998)"
+    }
+  ]
+}
