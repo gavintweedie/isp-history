@@ -107,6 +107,7 @@ svg.tg.tg-beta rect.st-alive { stroke-width: 2; }
 svg.tg.tg-beta g.tg-line:hover rect { filter: brightness(0.9); }
 svg.tg g.tg-line:hover text.tg-label { text-decoration: underline; }
 svg.tg.tg-beta text.tg-label { font-size: 11px; paint-order: stroke; stroke: #fff; stroke-width: 3px; stroke-linejoin: round; }
+svg.tg.tg-beta text.tg-subname { font-size: 8px; fill: #666; paint-order: stroke; stroke: #fff; stroke-width: 2px; stroke-linejoin: round; pointer-events: none; }
 svg.tg.tg-beta text.tg-yearlabel { font-size: 8px; }
 /* beta hover highlight — connected family */
 svg.tg.tg-beta g.tg-line.dimmed { opacity: 0.18; }
@@ -143,10 +144,13 @@ svg.tg text.tg-era-label { font-size: 10px; fill: #445; font-weight: 600; pointe
 .era-menu input[type="checkbox"] { width: 14px; height: 14px; margin: 0; flex: none; }
 .era-swatch { display: inline-block; width: 12px; height: 12px; border-radius: 2px; border: 1px solid rgba(0,0,0,0.15); flex: none; }
 .legend-dates { margin-left: 14px; }
-#tooltip { display: none; position: fixed; background: #123; color: #fff; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; pointer-events: none; z-index: 10; }
+#tooltip { display: none; position: fixed; background: #123; color: #fff; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; pointer-events: none; z-index: 10; white-space: pre-line; }
 /* sticky year-axis + era-title band pinned to the top of the scrolling SVG */
 .era-header { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #ddd; box-shadow: 0 2px 6px rgba(0,0,0,0.08); z-index: 5; overflow: hidden; min-height: 46px; }
 .era-header span { position: absolute; white-space: nowrap; pointer-events: none; }
 .era-header span.tg-h-year { top: 3px; font-size: 10px; color: #888; }
 .era-header span.tg-h-era { top: 25px; font-size: 10px; font-weight: 600; color: #222; padding: 3px 6px; border-radius: 4px; }
 .era-header span.tg-h-tick { top: 20px; width: 1px; height: 6px; background: #ccc; }
+
+/* directory: name-history cell */
+.dir-formerly { color: var(--muted, #666); font-size: 0.8rem; }

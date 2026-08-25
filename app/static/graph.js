@@ -711,6 +711,27 @@
       lab.classList.add('tg-label');
       g.appendChild(lab);
 
+      const nh = (n.names || []).filter(x => x && x.name && x.name !== n.label);
+      if (nh.length) {
+        g.setAttribute('title', nh.map(x =>
+          `${x.name} (${x.start_disp || x.start_year || '?'}` +
+          `${x.end_disp || x.end_year ? ' → ' + (x.end_disp || x.end_year) : ' → present'})`
+        ).join('\n'));
+        const sub = document.createElementNS(ns, 'text');
+        sub.setAttribute('x', x0 + 4);
+        sub.setAttribute('y', y + BAR_H + 19);
+        sub.classList.add('tg-subname');
+        const prev = nh.filter(x => x.end_year != null);
+        if (prev.length) {
+          const p = prev[prev.length - 1];
+          sub.textContent = `formerly ${p.name} (${p.start_disp || p.start_year}${p.end_disp || p.end_year ? ' → ' + (p.end_disp || p.end_year) : ''})`;
+        } else {
+          const nxt = nh[0];
+          sub.textContent = `later ${nxt.name} (${nxt.start_disp || nxt.start_year}${nxt.end_disp || nxt.end_year ? ' → ' + (nxt.end_disp || nxt.end_year) : ''})`;
+        }
+        g.appendChild(sub);
+      }
+
       if (showDates) {
         const yearTxt = document.createElementNS(ns, 'text');
         yearTxt.setAttribute('x', x0 + 4);

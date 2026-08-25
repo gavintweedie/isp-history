@@ -341,6 +341,7 @@ def directory_rows():
             "death_year": death.get("year") if death else None,
             "death_disp": death.get("date_disp") if death else None,
             "first_archive": first_archive["url"] if first_archive else None,
+            "names": i["names"],
         })
     rows.sort(key=lambda r: r["name"].lower())
     return rows
@@ -366,6 +367,7 @@ def graph_nodes():
             "death_precision": death.get("precision") if death else None,
             "name_start_year": min(start_years) if start_years else None,
             "status": i["status"],
+            "names": i["names"],
         })
     return nodes
 
