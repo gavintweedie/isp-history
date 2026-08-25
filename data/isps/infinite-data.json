@@ -25,7 +25,19 @@
       "year": 1999,
       "date_disp": "1999",
       "precision": "exact",
-      "details": "Acquired by iiNet."
+      "details": "Acquired by iiNet.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.iinet.net.au/about-us/history",
+          "label": "iiNet corporate history: 'Directly following the listing [Sep 1999], iiNet rapidly acquires Omen Internet, Networx, Nettrek and Infinite Data in Perth'"
+        },
+        {
+          "kind": "wiki",
+          "url": "https://en.wikipedia.org/wiki/IiNet",
+          "label": "Wikipedia (iiNet): post-IPO acquisitions incl. Infinite Data"
+        }
+      ]
     }
   ]
 }
