@@ -685,6 +685,7 @@
       const g = document.createElementNS(ns, 'g');
       g.classList.add('tg-line');
       g.classList.add('tg-beta-line');
+      if (focus && n.id === focus.id) g.classList.add('tg-focus');
       g.style.cursor = 'pointer';
       g.addEventListener('click', (ev) => {
         ev.stopPropagation();

@@ -119,6 +119,9 @@ svg.tg.tg-beta text.tg-edge-label.hot { fill: #000; font-weight: 600; }
 /* locked-lineage anchor bar */
 svg.tg.tg-beta g.tg-line.anchor rect { stroke-width: 2.5; }
 svg.tg.tg-beta g.tg-line.anchor text.tg-label { text-decoration: underline; }
+/* searched-focus bar (mirrors the tree's search highlight) */
+svg.tg.tg-beta g.tg-line.tg-focus rect { stroke: #e6a800; stroke-width: 3; filter: brightness(1.12); }
+svg.tg.tg-beta g.tg-line.tg-focus text.tg-label { text-decoration: underline; }
 /* date-precision badges (year label has pointer-events:none; badges re-enable it) */
 .prec-approx { color: #b8860b; }
 .prec-by { color: #2a5db0; }
