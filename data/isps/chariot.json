@@ -15,10 +15,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "c. 1999",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Little Adelaide dialup ISP; General Manager John Lindsay (1997-1999) built it into an ASX-listed company (CTI)."
+    },
+    {
+      "kind": "note",
+      "year": 1998,
+      "date_disp": "1998",
       "precision": "approx",
-      "details": "Adelaide-based ISP, ASX-listed (CTI)."
+      "details": "Acquired OurWorld Global Network's customer base (incl. ex-iiNet SA customers) from the liquidator; John Lindsay, GM 1997-1999, was previously GM of OGN."
     },
     {
       "kind": "death",
@@ -33,6 +40,16 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/TPG_(internet_service_provider)",
       "label": "Wikipedia: TPG (ISP)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981212023308/http://www.bns.com.au/",
+      "label": "BNS (Wayback 12 Dec 1998) — John Lindsay 'General Manager of Chariot Internet'"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+      "label": "LinkedIn: John Lindsay — General Manager, Chariot (1997-1999)"
     }
   ]
 }

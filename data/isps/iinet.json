@@ -10,7 +10,17 @@
       "name": "iiNet",
       "start_year": 1993,
       "start_disp": "1993"
+    },
+    {
+      "name": "iiNet SA",
+      "start_year": 1996,
+      "start_disp": "Jun 1996",
+      "end_year": 1997,
+      "end_disp": "Apr 1997"
     }
+  ],
+  "aliases": [
+    "iiNet Technologies (SA) Pty Ltd"
   ],
   "events": [
     {
@@ -19,6 +29,30 @@
       "date_disp": "1993",
       "precision": "exact",
       "details": "Founded in Perth by Michael Malone."
+    },
+   {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "Apr 1997",
+      "precision": "exact",
+      "details": "iiNet SA (incorporated as iiNet Technologies (SA) Pty Ltd) opened Jun 1996, opened by Michael Malone with local staff Leigh Hart (business manager) and John Lindsay (technical manager), offering Adelaide and Gawler local-call dialup; grew to a top-5 SA ISP; sold Apr 1997 to OurWorld Global Network (Sydney) as the foundation of its planned national Internet aggregation service.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990127090612/http://iinet.net.au/about/timeline.html",
+          "label": "iiNet corporate timeline (Wayback 27 Jan 1999)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20001028234126/http://iinet.net.au/about/timeline.html",
+          "label": "iiNet corporate timeline (Wayback 28 Oct 2000)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+          "label": "LinkedIn: John Lindsay — Cofounder, iiNet Technologies (SA) Pty Ltd (1996–1997)"
+        }
+      ]
     },
    {
       "kind": "note",

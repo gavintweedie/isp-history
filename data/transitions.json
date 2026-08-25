@@ -5489,6 +5489,59 @@
           "label": "ASIC business names via AUBiz: Bucan Holdings Pty Ltd (ex Connect Infobahn) - Host1, Dialup1, Bitcloud etc."
         }
       ]
+    },
+    {
+      "type": "split",
+      "arm_label": "100% — BNS customers folded into iiNet SA",
+      "year": 1996,
+      "date_disp": "1996",
+      "notes": "Byron Network Services (Adelaide, John Lindsay) wound down as an ISP; customers folded into iiNet SA (opened Jun 1996).",
+      "from": "byron-network-services",
+      "to": "iinet",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+          "label": "LinkedIn: John Lindsay — Byron Network Services 'customers were folded into iiNet SA'"
+        }
+      ]
+    },
+    {
+      "type": "split",
+      "arm_label": "100% — iiNet SA sold to OurWorld Global Network",
+      "year": 1997,
+      "date_disp": "Apr 1997",
+      "notes": "iiNet SA (Adelaide/Gawler dialup) sold to OurWorld Global Network (Sydney) as the foundation of its planned national Internet aggregation service.",
+      "from": "iinet",
+      "to": "ourworld-global-network",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990127090612/http://iinet.net.au/about/timeline.html",
+          "label": "iiNet corporate timeline (Wayback 27 Jan 1999)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+          "label": "LinkedIn: John Lindsay — iiNet SA sold to the 'super aggregator'"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100% — OGN customer base bought from the liquidator",
+      "year": 1998,
+      "date_disp": "1998",
+      "notes": "OurWorld Global Network failed quietly in 1998 and was liquidated; Chariot (via GM John Lindsay, ex-OGN) bought the customer base from the liquidator.",
+      "from": "ourworld-global-network",
+      "to": "chariot",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+          "label": "LinkedIn: John Lindsay — 'I bought the customers for Chariot from the liquidator'"
+        }
+      ]
     }
   ]
 }
