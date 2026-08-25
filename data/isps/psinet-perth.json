@@ -1,0 +1,53 @@
+{
+  "name": "PSInet (Perth)",
+  "slug": "psinet-perth",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "website": null,
+  "summary": "Perth computer support/sales company founded 1992 by Mark Siena; grew into the 5th ISP in Perth (20+ staff, network design, web creation, database work). Sold its ISP operations to iiNet c.1999 during iiNet's post-IPO Perth consolidation; the remaining business continued as Digital Ventures. Unrelated to US carrier PSINet/PSINet Australia.",
+  "aliases": [
+    "Digital Ventures"
+  ],
+  "names": [
+    {
+      "name": "PSInet (Perth)",
+      "start_year": 1992,
+      "start_disp": "Jan 1992"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1992,
+      "date_disp": "Jan 1992",
+      "precision": "approx",
+      "details": "Started by Mark Siena as a sole-operation computer support and sales company; expanded to become the 5th internet service and provisioning company in Perth, eventually employing over 20 staff across network design/implementation, web creation, database design and programming.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://linkedin.com/in/mark-siena-9a056261",
+          "label": "Mark Siena career record: founder, PSInet (Perth), Jan 1992"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "ISP portion of the company sold to iiNet (founder record). Exact date not published; timing inferred from iiNet's post-IPO Perth consolidation immediately after its Sept 1999 listing (Wantree, Omen Internet, Networx, Nettrek, Infinite Data et al.) - iiNet's own history page does not name PSInet explicitly among those acquisitions. The remaining non-ISP business continued as Digital Ventures (Siena plus two partners) until at least Jan 2003.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://linkedin.com/in/mark-siena-9a056261",
+          "label": "Mark Siena career record: 'eventually sold the ISP portion of the company to iinet'"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.iinet.net.au/about-us/history",
+          "label": "iiNet corporate history: post-IPO Perth acquisitions context"
+        }
+      ]
+    }
+  ]
+}
