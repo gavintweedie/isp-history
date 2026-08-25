@@ -4,28 +4,49 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "eftel.com",
-  "summary": "ISP (formerly Datafast) that grew by acquisitions; completed a reverse takeover by ClubTelco 2011 (ClubTelco interests took 75.6% of the listed shell); acquired by M2 Group 2013, closed 2022.",
+  "summary": "Telco (Datafast Telecommunications Ltd, ACN 073 238 178; ex-Goldminco NL, renamed Datafast Telecom 1999) that grew by acquisitions as the Eftel ISP brand from 2000; took over Vivanet (2001); legally renamed EFTel Ltd 15 Dec 2005; ClubTelco reverse takeover 2011; acquired by M2 Group 2013, business unit closed 2022.",
+  "aliases": [
+    "Datafast Telecommunications Ltd",
+    "Goldminco NL",
+    "Datafast"
+  ],
   "names": [
+    {
+      "name": "Datafast Telecommunications",
+      "start_year": 1996,
+      "start_disp": "15 Mar 1996",
+      "end_year": 2005,
+      "end_disp": "15 Dec 2005"
+    },
     {
       "name": "Eftel",
       "start_year": 1999,
-      "start_disp": "1999"
+      "start_disp": "1999",
+      "end_year": 2013,
+      "end_disp": "Jun 2013"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "1999",
+      "year": 1996,
+      "date_disp": "15 Mar 1996",
       "precision": "exact",
-      "details": "Predecessor Datafast commenced in Victoria; Eftel ISP brand from 2000 in Perth."
+      "details": "Incorporated (Goldminco NL); renamed Datafast Telecommunications 5 Oct 1999; the Eftel ISP brand was used from 2000 (Perth); legally renamed EFTel Ltd 15 Dec 2005."
+    },
+    {
+      "kind": "note",
+      "year": 1999,
+      "date_disp": "1999-2005",
+      "precision": "approx",
+      "details": "The two names[] rows overlap in date range: the Eftel brand (in use from 2000) predates the 15 Dec 2005 legal rename of Datafast Telecommunications Ltd (same ACN 073 238 178)."
     },
     {
       "kind": "death",
       "year": 2013,
-      "date_disp": "2013",
+      "date_disp": "Jun 2013",
       "precision": "exact",
-      "details": "Reverse takeover by ClubTelco 2011; acquired by M2 Group (~A$44.1m); business unit closed 2022.",
+      "details": "Reverse takeover by ClubTelco 2011 (ClubTelco interests took 75.6% of the listed shell); delisted 14 Jun 2013 (M2 acquisition, ~A$44.1m); business unit closed 2022.",
       "refs": [
         {
           "kind": "official",

@@ -98,7 +98,8 @@
       const hint = document.getElementById('filter-hint');
       if (!q) { currentFocus = null; lockedId = null; render(null); hint.textContent = ''; return; }
       const match = data.nodes.find(n =>
-        n.slug === q || n.label.toLowerCase().includes(q));
+        n.slug === q || n.label.toLowerCase().includes(q) ||
+        (n.names || []).some(x => String(x.name || '').toLowerCase().includes(q)));
       if (match) {
         currentFocus = match;
         lockedId = null;
@@ -111,7 +112,8 @@
     SEARCH.addEventListener('change', () => {
       const q = SEARCH.value.trim().toLowerCase();
       const match = data.nodes.find(n =>
-        n.slug === q || n.label.toLowerCase() === q);
+        n.slug === q || n.label.toLowerCase() === q ||
+        (n.names || []).some(x => String(x.name || '').toLowerCase() === q));
       if (match) { currentFocus = match; lockedId = null; render(match); }
     });
 
@@ -672,6 +674,7 @@
         lab.setAttribute('y', (cy0 + cy1) / 2 - 5);
         lab.textContent = year + ': ' + arm;
         lab.classList.add('tg-edge-label');
+        lab.dataset.edge = String(e.id);
         svg.appendChild(lab);
       }
     });
@@ -682,6 +685,7 @@
       const g = document.createElementNS(ns, 'g');
       g.classList.add('tg-line');
       g.classList.add('tg-beta-line');
+      if (focus && n.id === focus.id) g.classList.add('tg-focus');
       g.style.cursor = 'pointer';
       g.addEventListener('click', (ev) => {
         ev.stopPropagation();
@@ -709,6 +713,27 @@
       lab.textContent = n.label;
       lab.classList.add('tg-label');
       g.appendChild(lab);
+
+      const nh = (n.names || []).filter(x => x && x.name && x.name !== n.label);
+      if (nh.length) {
+        g.setAttribute('title', nh.map(x =>
+          `${x.name} (${x.start_disp || x.start_year || '?'}` +
+          `${x.end_disp || x.end_year ? ' → ' + (x.end_disp || x.end_year) : ' → present'})`
+        ).join('\n'));
+        const sub = document.createElementNS(ns, 'text');
+        sub.setAttribute('x', x0 + 4);
+        sub.setAttribute('y', y + BAR_H + 19);
+        sub.classList.add('tg-subname');
+        const prev = nh.filter(x => x.end_year != null);
+        if (prev.length) {
+          const p = prev[prev.length - 1];
+          sub.textContent = `formerly ${p.name} (${p.start_disp || p.start_year}${p.end_disp || p.end_year ? ' → ' + (p.end_disp || p.end_year) : ''})`;
+        } else {
+          const nxt = nh[0];
+          sub.textContent = `later ${nxt.name} (${nxt.start_disp || nxt.start_year}${nxt.end_disp || nxt.end_year ? ' → ' + (nxt.end_disp || nxt.end_year) : ''})`;
+        }
+        g.appendChild(sub);
+      }
 
       if (showDates) {
         const yearTxt = document.createElementNS(ns, 'text');
@@ -773,7 +798,7 @@
 
     // hover highlight — upstream + downstream only (not whole family)
     function clearHighlight() {
-      svg.querySelectorAll('g.tg-line.hot, g.tg-line.dimmed, path.tg-edge.hot, path.tg-edge.dimmed')
+      svg.querySelectorAll('g.tg-line.hot, g.tg-line.dimmed, path.tg-edge.hot, path.tg-edge.dimmed, text.tg-edge-label.hot, text.tg-edge-label.dimmed')
         .forEach(el => el.classList.remove('hot','dimmed'));
     }
     function highlightConnected(focusId) {
@@ -788,6 +813,11 @@
         const inKeep = keepEdges.has(p.dataset.id);
         p.classList.toggle('hot', inKeep);
         p.classList.toggle('dimmed', !inKeep);
+      });
+      svg.querySelectorAll('text.tg-edge-label').forEach(lab => {
+        const inKeep = keepEdges.has(lab.dataset.edge);
+        lab.classList.toggle('hot', inKeep);
+        lab.classList.toggle('dimmed', !inKeep);
       });
     }
     svg.addEventListener('mouseover', ev => {

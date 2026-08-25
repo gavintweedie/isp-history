@@ -60,7 +60,7 @@ the stable identifiers used everywhere on disk and in URLs.
 
 | field       | notes                                                            |
 |-------------|------------------------------------------------------------------|
-| `name`      | current/primary display name                                     |
+| `name`      | current/primary display name (the headline the GUI shows; use the name the business was best known by to the public for the longest period) |
 | `slug`      | unique id for URLs and file name                                 |
 | `birthplace`| optional (city/country)                                          |
 | `status`    | `active` / `inactive` / `unknown`                                |
@@ -75,11 +75,37 @@ A `names` entry:
 
 | field       | notes                                  |
 |-------------|----------------------------------------|
-| `name`      |                                        |
-| `start_year`| ordering year                          |
-| `start_disp`| display, e.g. `"c. 1995"`, `"mid-97"`  |
-| `end_year`  | omitted if current                     |
-| `end_disp`  | display, e.g. `"c. 1995"`              |
+| `name`      | trading name                            |
+| `start_year`| ordering year (start of period of use)  |
+| `start_disp`| display, e.g. `"c. 1995"`, `"mid-97"`   |
+| `end_year`  | omitted if the name is still current    |
+| `end_disp`  | display, e.g. `"c. 1995"`, `"Dec 2005"` |
+
+**Date bounds (`end_year` / `end_disp`).** Each `names[]` row is bounded by the
+period the name was actually in use: `start_year`/`start_disp` open it, and
+`end_year`/`end_disp` close it (both omitted while the name is still current).
+`*_year` gives the sort order and timeline position; `*_disp` is the
+human-readable rendering, which may be approximate (e.g. `"c. 2001"`). The GUI
+shows each row as `"start_disp → end_disp"` — e.g. the "formerly Datafast
+Telecommunications, 15 Mar 1996 → 15 Dec 2005" sub-line. Rows need not be
+contiguous: a brand can predate the legal rename, so one row's end and the next
+row's start may overlap, which is why the end bound lives on the row rather than
+being implied by the following row's start.
+
+**Primary name.** The top-level `name` is the primary display (headline) name
+the GUI shows. For an entity with a name history, set `name` to the name the
+business was best known by to the public for the longest period (often not the
+founding name and not necessarily the last one); all other trading names are
+kept as dated `names[]` rows, so nothing is lost. The GUI renders `name` as the
+headline and the `names[]` rows as a dated history — a "formerly/later" sub-line
+and tooltip on the timeline, a tooltip on the tree, a "Name history" column in
+the directory, and a "Name history" table on the detail page.
+
+**Renames.** A rename within a single corporate lifespan (same ACN) is recorded
+as a dated `names[]` row, **not** a new entity — see "Rename without new entity"
+below. Rows are ordered by `start_year` and may overlap where a brand predates a
+legal rename (e.g. an ISP brand in use before the company's legal name change),
+so `end_year`/`end_disp` are kept on each row to bound its period of use.
 
 An `events` entry (an ISP's *founding* is an event with `kind=birth`, not a
 transition — there is no predecessor ISP):

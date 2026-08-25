@@ -217,6 +217,7 @@ def directory():
             "birth_disp": r["birth_disp"],
             "death_year": r["death_year"],
             "death_disp": r["death_disp"],
+            "names": r["names"],
             "url": url_for("isp_detail", slug=r["slug"]),
         })
     return render_template("directory.html", entries=entries)
@@ -284,6 +285,7 @@ def api_graph():
             "death_precision": r["death_precision"],
             "year": year,
             "status": r["status"],
+            "names": r["names"],
             "url": url_for("isp_detail", slug=r["slug"]),
         })
     edges = []

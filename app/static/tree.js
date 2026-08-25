@@ -47,6 +47,7 @@
         url: n.url,
         birth: n.birth || '?',
         death: n.death || '—',
+        names: n.names || [],
       },
     }));
     data.edges.forEach(e => elements.push({
@@ -345,7 +346,15 @@
     // ---- hover tooltip (shares the #tooltip element with the timeline) ----
     cy.on('mousemove', 'node', ev => {
       const d = ev.target.data();
-      showTip(`${d.label}  (${d.birth} → ${d.death})`, ev.originalEvent);
+      let tip = `${d.label}  (${d.birth} → ${d.death})`;
+      const nh = (d.names || []).filter(x => x && x.name && x.name !== d.label);
+      if (nh.length) {
+        tip += '\n' + nh.map(x =>
+          `  ${x.name} (${x.start_disp || x.start_year || '?'}` +
+          `${x.end_disp || x.end_year ? ' → ' + (x.end_disp || x.end_year) : ' → present'})`
+        ).join('\n');
+      }
+      showTip(tip, ev.originalEvent);
     });
     cy.on('mousemove', 'edge', ev => {
       const d = ev.target.data();
@@ -393,7 +402,9 @@
       const q = search.value.trim().toLowerCase();
       cy.nodes().removeClass('hit');
       if (!q) { clearFocus(); return; }
-      const matches = cy.nodes().filter(n => n.data('label').toLowerCase().includes(q));
+      const matches = cy.nodes().filter(n =>
+        n.data('label').toLowerCase().includes(q) ||
+        (n.data('names') || []).map(x => String(x.name || '').toLowerCase()).join(' ').includes(q));
       matches.addClass('hit');
       // reveal hidden matches so "searchable even when hidden" actually works
       let changed = false;

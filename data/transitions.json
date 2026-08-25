@@ -4584,26 +4584,10 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "Jul 2001",
-      "notes": "Vivanet delisted; taken over by Datafast Telecommunications.",
+      "notes": "Vivanet delisted; taken over by Datafast Telecommunications (later EFTel).",
       "from": "vivanet",
-      "to": "datafast",
-      "refs": []
-    },
-    {
-      "type": "rename",
-      "arm_label": "renamed",
-      "year": 2005,
-      "date_disp": "15 Dec 2005",
-      "notes": "Datafast Telecommunications Ltd renamed EFTel Ltd (same ACN 073 238 178).",
-      "from": "datafast",
       "to": "eftel",
-      "refs": [
-        {
-          "kind": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Eftel",
-          "label": "Wikipedia: Eftel acquisition history"
-        }
-      ]
+      "refs": []
     },
     {
       "type": "acquisition",
@@ -5059,9 +5043,9 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Feb 2004",
-      "notes": "Datafast Telecommunications Ltd announced agreement to acquire NSW ISP Planet Netcom (15,000 accounts) 17 Feb 2004; finalised end Mar 2004.",
+      "notes": "Datafast Telecommunications Ltd (later EFTel) announced agreement to acquire NSW ISP Planet Netcom (15,000 accounts) 17 Feb 2004; finalised end Mar 2004.",
       "from": "planet-netcomm",
-      "to": "datafast",
+      "to": "eftel",
       "refs": [
         {
           "kind": "news",
@@ -5252,9 +5236,9 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Nov 2004",
-      "notes": "Datafast acquired Bigfoot Internet's business and customer base.",
+      "notes": "Datafast (later EFTel) acquired Bigfoot Internet's business and customer base.",
       "from": "bigfoot-internet",
-      "to": "datafast",
+      "to": "eftel",
       "refs": []
     },
     {
