@@ -21,11 +21,37 @@
       "details": "OurWorld Global Network (Sydney)."
     },
     {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "Apr 1997",
+      "precision": "exact",
+      "details": "Acquired iiNet SA (Adelaide, ex-iiNet) as the foundation for its planned national 'super aggregator' Internet access service; the venture failed quietly in 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990127090612/http://iinet.net.au/about/timeline.html",
+          "label": "iiNet corporate timeline (Wayback 27 Jan 1999)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+          "label": "LinkedIn: John Lindsay — sold iiNet SA to the 'super aggregator'; bought customers for Chariot from the liquidator"
+        }
+      ]
+    },
+    {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 1998,
+      "date_disp": "1998",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Failed quietly in 1998 and was liquidated; customer base (incl. ex-iiNet SA) bought from the liquidator by Chariot (via John Lindsay).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+          "label": "LinkedIn: John Lindsay — 'they failed fairly quietly in 1998. I bought the customers for Chariot from the liquidator'"
+        }
+      ]
     }
   ],
   "refs": [
@@ -33,6 +59,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980213203050/http://www.ourworld.net/",
       "label": "OurWorld (Wayback 1998)"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+      "label": "LinkedIn: John Lindsay — OGN (OurWorld Global Network) experience"
     }
   ]
 }

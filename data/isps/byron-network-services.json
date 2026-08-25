@@ -1,38 +1,57 @@
 {
   "name": "Byron Network Services",
   "slug": "byron-network-services",
-  "birthplace": "Byron Bay, NSW",
+  "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://bns.com.au",
-  "summary": "Byron Bay-region dialup ISP (bns.com.au); by 1998 already 'once a dial up ISP', run by John Lindsay (later Chariot GM).",
+  "summary": "Adelaide dialup ISP (bns.com.au) founded 1994 by John Lindsay; began as an APANA node, became commercial via a Camtech (Adelaide University) link; customers folded into iiNet SA 1996.",
   "names": [
     {
       "name": "Byron Network Services",
-      "start_year": 1995,
-      "start_disp": "c. 1995"
+      "start_year": 1994,
+      "start_disp": "1994",
+      "end_year": 1996,
+      "end_disp": "1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1995,
-      "date_disp": "c. 1995",
-      "precision": "approx",
-      "details": "Dialup ISP in the Byron Bay region."
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "exact",
+      "details": "Founded 1994 in Adelaide by John Lindsay; began as part of APANA (hobby), became commercial ISP bns.com.au with a link to the Internet via Camtech (Adelaide University); 30 modems at home, SLIP and PPP access."
+    },
+    {
+      "kind": "note",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "By 1996 the ISP had become too big to be a hobby; customers were folded into iiNet SA (co-founded by John Lindsay, who brought his BNS customers). Some early customers/staff (e.g. Kerrin Pine) went on to iiNet SA, Chariot and Internode. bns.com.au continued as John Lindsay's personal site."
     },
     {
       "kind": "death",
-      "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
-      "details": "No longer a dialup ISP by 1998."
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "exact",
+      "details": "ISP operation wound down; customers folded into iiNet SA."
     }
   ],
   "refs": [
     {
       "kind": "archive",
+      "url": "https://web.archive.org/web/19970103014045/http://bns.com.au/",
+      "label": "BNS (Wayback 3 Jan 1997)"
+    },
+    {
+      "kind": "archive",
       "url": "https://web.archive.org/web/19981212023308/http://www.bns.com.au/",
-      "label": "BNS (Wayback 1998)"
+      "label": "BNS (Wayback 12 Dec 1998)"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
+      "label": "LinkedIn: John Lindsay — Founder, Byron Network Services (1994–1996)"
     }
   ]
 }
