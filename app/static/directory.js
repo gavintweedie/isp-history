@@ -17,7 +17,7 @@
       var showStatus = (st === 'active' && active) ||
                        (st === 'inactive' && inactive) ||
                        (st === 'unknown' && unknown);
-      var hay = (r.dataset.name + ' ' + r.dataset.domain).toLowerCase();
+      var hay = (r.dataset.name + ' ' + r.dataset.domain + ' ' + (r.dataset.names || '')).toLowerCase();
       var show = showStatus && (!q || hay.indexOf(q) !== -1);
       r.style.display = show ? '' : 'none';
       if (show) shown++;

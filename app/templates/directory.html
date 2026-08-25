@@ -35,7 +35,7 @@
   </thead>
   <tbody>
     {% for e in entries %}
-      <tr data-name="{{ e.name }}" data-domain="{{ e.domain }}" data-status="{{ e.status }}">
+      <tr data-name="{{ e.name }}" data-domain="{{ e.domain }}" data-status="{{ e.status }}" data-names="{{ e.names | map(attribute='name') | join(' ') }}">
         <td><a href="{{ e.url }}">{{ e.name }}</a>
           <span class="status {{ e.status }}">{{ e.status }}</span></td>
         <td>

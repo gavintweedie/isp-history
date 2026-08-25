@@ -402,7 +402,9 @@
       const q = search.value.trim().toLowerCase();
       cy.nodes().removeClass('hit');
       if (!q) { clearFocus(); return; }
-      const matches = cy.nodes().filter(n => n.data('label').toLowerCase().includes(q));
+      const matches = cy.nodes().filter(n =>
+        n.data('label').toLowerCase().includes(q) ||
+        (n.data('names') || []).map(x => String(x.name || '').toLowerCase()).join(' ').includes(q));
       matches.addClass('hit');
       // reveal hidden matches so "searchable even when hidden" actually works
       let changed = false;

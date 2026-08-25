@@ -98,7 +98,8 @@
       const hint = document.getElementById('filter-hint');
       if (!q) { currentFocus = null; lockedId = null; render(null); hint.textContent = ''; return; }
       const match = data.nodes.find(n =>
-        n.slug === q || n.label.toLowerCase().includes(q));
+        n.slug === q || n.label.toLowerCase().includes(q) ||
+        (n.names || []).some(x => String(x.name || '').toLowerCase().includes(q)));
       if (match) {
         currentFocus = match;
         lockedId = null;
@@ -111,7 +112,8 @@
     SEARCH.addEventListener('change', () => {
       const q = SEARCH.value.trim().toLowerCase();
       const match = data.nodes.find(n =>
-        n.slug === q || n.label.toLowerCase() === q);
+        n.slug === q || n.label.toLowerCase() === q ||
+        (n.names || []).some(x => String(x.name || '').toLowerCase() === q));
       if (match) { currentFocus = match; lockedId = null; render(match); }
     });
 
