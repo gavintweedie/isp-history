@@ -113,6 +113,8 @@ svg.tg.tg-beta g.tg-line.dimmed { opacity: 0.18; }
 svg.tg.tg-beta g.tg-line.hot rect { filter: brightness(1.15); stroke-width: 2; }
 svg.tg.tg-beta path.tg-edge.dimmed { opacity: 0.08; }
 svg.tg.tg-beta path.tg-edge.hot { stroke-width: 3; opacity: 1; }
+svg.tg.tg-beta text.tg-edge-label.dimmed { opacity: 0.15; }
+svg.tg.tg-beta text.tg-edge-label.hot { fill: #000; font-weight: 600; }
 /* locked-lineage anchor bar */
 svg.tg.tg-beta g.tg-line.anchor rect { stroke-width: 2.5; }
 svg.tg.tg-beta g.tg-line.anchor text.tg-label { text-decoration: underline; }

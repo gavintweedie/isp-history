@@ -672,6 +672,7 @@
         lab.setAttribute('y', (cy0 + cy1) / 2 - 5);
         lab.textContent = year + ': ' + arm;
         lab.classList.add('tg-edge-label');
+        lab.dataset.edge = String(e.id);
         svg.appendChild(lab);
       }
     });
@@ -773,7 +774,7 @@
 
     // hover highlight — upstream + downstream only (not whole family)
     function clearHighlight() {
-      svg.querySelectorAll('g.tg-line.hot, g.tg-line.dimmed, path.tg-edge.hot, path.tg-edge.dimmed')
+      svg.querySelectorAll('g.tg-line.hot, g.tg-line.dimmed, path.tg-edge.hot, path.tg-edge.dimmed, text.tg-edge-label.hot, text.tg-edge-label.dimmed')
         .forEach(el => el.classList.remove('hot','dimmed'));
     }
     function highlightConnected(focusId) {
@@ -788,6 +789,11 @@
         const inKeep = keepEdges.has(p.dataset.id);
         p.classList.toggle('hot', inKeep);
         p.classList.toggle('dimmed', !inKeep);
+      });
+      svg.querySelectorAll('text.tg-edge-label').forEach(lab => {
+        const inKeep = keepEdges.has(lab.dataset.edge);
+        lab.classList.toggle('hot', inKeep);
+        lab.classList.toggle('dimmed', !inKeep);
       });
     }
     svg.addEventListener('mouseover', ev => {
