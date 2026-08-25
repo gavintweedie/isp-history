@@ -75,11 +75,22 @@ A `names` entry:
 
 | field       | notes                                  |
 |-------------|----------------------------------------|
-| `name`      |                                        |
-| `start_year`| ordering year                          |
-| `start_disp`| display, e.g. `"c. 1995"`, `"mid-97"`  |
-| `end_year`  | omitted if current                     |
-| `end_disp`  | display, e.g. `"c. 1995"`              |
+| `name`      | trading name                            |
+| `start_year`| ordering year (start of period of use)  |
+| `start_disp`| display, e.g. `"c. 1995"`, `"mid-97"`   |
+| `end_year`  | omitted if the name is still current    |
+| `end_disp`  | display, e.g. `"c. 1995"`, `"Dec 2005"` |
+
+**Date bounds (`end_year` / `end_disp`).** Each `names[]` row is bounded by the
+period the name was actually in use: `start_year`/`start_disp` open it, and
+`end_year`/`end_disp` close it (both omitted while the name is still current).
+`*_year` gives the sort order and timeline position; `*_disp` is the
+human-readable rendering, which may be approximate (e.g. `"c. 2001"`). The GUI
+shows each row as `"start_disp → end_disp"` — e.g. the "formerly Datafast
+Telecommunications, 15 Mar 1996 → 15 Dec 2005" sub-line. Rows need not be
+contiguous: a brand can predate the legal rename, so one row's end and the next
+row's start may overlap, which is why the end bound lives on the row rather than
+being implied by the following row's start.
 
 **Primary name.** The top-level `name` is the primary display (headline) name
 the GUI shows. For an entity with a name history, set `name` to the name the
