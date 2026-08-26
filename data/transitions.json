@@ -829,22 +829,6 @@
       "year": 2007,
       "date_disp": "c. 2007",
       "notes": "Operational by 2007; acquired by Up'N'Away before Up'N'Away was acquired by iiNet in Jan 2008.",
-      "from": "power-dsl",
-      "to": "upnaway",
-      "refs": [
-        {
-          "kind": "archive",
-          "url": "https://web.archive.org/web/200700000000/http://www.power-dsl.com.au/",
-          "label": "power-dsl (2007) \u2014 Wayback"
-        }
-      ]
-    },
-    {
-      "type": "acquisition",
-      "arm_label": "100%",
-      "year": 2007,
-      "date_disp": "c. 2007",
-      "notes": "Operational by 2007; acquired by Up'N'Away before Up'N'Away was acquired by iiNet in Jan 2008.",
       "from": "iclick",
       "to": "upnaway",
       "refs": []
