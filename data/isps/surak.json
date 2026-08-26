@@ -1,0 +1,75 @@
+{
+  "name": "Surak Enterprises",
+  "slug": "surak",
+  "birthplace": "Perth, WA",
+  "status": "active",
+  "website": "http://www.surak.com.au",
+  "summary": "Perth ISP founded 1991 by Mark Boulton and Malcolm Evans - among the earliest claims in Australian internet access; APNIC LIR member holding its own /24 since the 1990s; long-running SquirrelMail webmail; today also a consultancy (enterprise architecture, cybersecurity, application development).",
+  "names": [
+    {
+      "name": "Surak Enterprises",
+      "start_year": 1991,
+      "start_disp": "c. 1991"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1991,
+      "date_disp": "c. 1991",
+      "precision": "approx",
+      "details": "Established by Mark Boulton and Malcolm Evans 'to provide cost effective internet access' (per company history). The 1991 date is self-reported and notably earlier than most Australian commercial ISPs; it may reflect pre-commercial-internet origins (e.g. BBS/dial-in services). Earliest verified Wayback captures of surak.com.au are user homepages from 7 Dec 1999, with the main site captured from Apr 2001.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://www.surak.com.au/about.html",
+          "label": "Surak About Us: established 1991 by Mark Boulton and Malcolm Evans"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991207023034/http://www.surak.com.au/~chris/home/maths/squares.html",
+          "label": "Wayback Machine: earliest capture of surak.com.au user page (7 Dec 1999)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Held its own Class C IP block (203.23.86.0/24, netname SURAKENT-AU) at 11 Earl St, Bentley WA as early as 1997 - physical evidence of infrastructure during the dialup era. Later became an APNIC LIR member (ORG-SE4-AP, contact Malcolm Evans, 150B Belgravia St, Belmont WA); route objects from the early 2000s show the block announced via Concept Networks (AS9787) with connect.com.au/Telstra transit.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://files.mpoli.fi/sekalaiset/1997-IP-SUBNETS/c/203/203_23.html",
+          "label": "Contemporary 1997 Class C subnet listing: SURAKENT-AU, Surak Enterprises, Bentley WA"
+        },
+        {
+          "kind": "gov",
+          "url": "https://virbox.net/whois/203.23.86.0/24/",
+          "label": "APNIC whois: ORG-SE4-AP Surak Enterprises LIR, 203.23.86.0/24"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2005,
+      "date_disp": "2005-2017",
+      "details": "Evolved beyond consumer internet into consultancy services: enterprise architecture, technology infrastructure, cybersecurity, application development and support. Co-founder Malcolm Evans worked as a consultant with the firm 2005-2017 (Perth). SquirrelMail-based webmail has run continuously for customers from the mid-2000s through at least 2024.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://linkedin.com/in/malcolm-evans-2b085b3",
+          "label": "Malcolm Evans career record: Consultant, Surak Enterprises Consulting Services, Jun 2005 - Oct 2017 (Perth)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://au.bdir.in/australia/abn/48413/SURAK-ENTERPRISES",
+      "label": "ABR business name record: SURAK ENTERPRISES, WA (BN09795315)"
+    }
+  ]
+}
