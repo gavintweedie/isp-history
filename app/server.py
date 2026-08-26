@@ -178,6 +178,17 @@ def index():
     return render_template("index.html")
 
 
+@app.route("/animate")
+def animate():
+    """Standalone cinematic timeline animation (/animate).
+
+    Deliberately not linked from the tab bar: a self-contained extra view
+    that fetches /api/graph and plays the dataset's history as an animated,
+    auto-panning constellation. See static/animate.js.
+    """
+    return render_template("animate.html")
+
+
 def _primary_domain(website, first_archive):
     """Best-effort ISP domain: website host, else the original host of the
     oldest archived reference (stripping the web.archive.org/web/<ts>/ prefix)."""

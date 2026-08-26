@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Boom &amp; Bust — Australian ISP History</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='animate.css') }}?v={{ static_hash('animate.css') }}">
+</head>
+<body>
+<canvas id="stage" data-api="{{ url_for('api_graph') }}"></canvas>
+
+<div class="hud" aria-hidden="true">
+  <div id="hud-year">·</div>
+  <div id="hud-stats"><span class="dot dot-a"></span><span id="stat-alive">—</span> alive
+    <span class="sep">·</span> <span class="dot dot-g"></span><span id="stat-gone">—</span> gone</div>
+</div>
+
+<div id="hint">drag to pan · scroll to zoom · hover a bar<br>
+  <kbd>space</kbd> play/pause · <kbd>F</kbd> follow · <kbd>←</kbd><kbd>→</kbd> nudge · <kbd>home</kbd> restart</div>
+
+<div id="era-toast" aria-live="polite"></div>
+
+<div id="tip" role="tooltip" hidden></div>
+
+<div class="controls" id="controls">
+  <button id="btn-play" class="ctl ctl-play" aria-label="Play or pause">▶</button>
+  <select id="sel-speed" class="ctl" aria-label="Playback speed">
+    <option value="0.5">0.5×</option>
+    <option value="1" selected>1×</option>
+    <option value="2">2×</option>
+    <option value="4">4×</option>
+  </select>
+  <input type="range" id="scrub" min="1985" max="2026" step="0.02" value="1985" aria-label="Year scrubber">
+  <label class="follow"><input type="checkbox" id="chk-follow" checked> follow</label>
+  <button id="btn-restart" class="ctl" aria-label="Restart from the beginning">↺</button>
+</div>
+
+<div class="overlay" id="intro">
+  <div class="card">
+    <h1>The Great Australian ISP Boom&nbsp;&amp;&nbsp;Bust</h1>
+    <p class="sub">Over a thousand internet companies fought for Australia's online future.
+    Watch five decades of launches, mergers and acquisitions unfold — hundreds of little
+    lights, slowly swallowed by a few big ones.</p>
+    <button id="btn-begin" class="primary">Begin ▸</button>
+    <p class="tiny">live data from this site's ISP dataset · best fullscreen</p>
+  </div>
+</div>
+
+<div class="overlay hidden" id="outro">
+  <div class="card">
+    <h1>Today — the survivors</h1>
+    <div class="outro-stats">
+      <div><b id="os-founded">—</b>founded since 1975</div>
+      <div><b id="os-gone">—</b>absorbed or closed</div>
+      <div><b id="os-alive">—</b>still standing</div>
+    </div>
+    <p class="acq" id="os-acq"></p>
+    <p class="tiny">every bar links to its full record — reload the page and drag around to explore</p>
+    <button id="btn-replay" class="primary">Replay ↺</button>
+  </div>
+</div>
+
+<div class="overlay hidden" id="loaderr">
+  <div class="card">
+    <h1>Couldn't load the data</h1>
+    <p class="sub" id="loaderr-msg">The graph API did not respond.</p>
+  </div>
+</div>
+
+<noscript><div class="noscript">This animation needs JavaScript.</div></noscript>
+
+<script src="{{ url_for('static', filename='eras.js') }}?v={{ static_hash('eras.js') }}"></script>
+<script src="{{ url_for('static', filename='animate.js') }}?v={{ static_hash('animate.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,246 @@
+/* Boom & Bust (/animate) — dark cinematic constellation timeline.
+ * Standalone page: no tab-nav links, no inline styles (site CSP is
+ * style-src 'self'), everything positioned via this stylesheet or JS CSSOM.
+ */
+
+:root {
+  --bg0: #070d19;
+  --bg1: #0c1526;
+  --ink: #e6edf7;
+  --muted: #8b98ad;
+  --line: #1e2c47;
+  --panel: rgba(10, 17, 32, 0.88);
+  --active: #3ddc97;
+  --inactive: #ff6b6b;
+}
+
+* { box-sizing: border-box; }
+
+html, body { height: 100%; }
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: var(--bg0);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+#stage {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+  cursor: grab;
+}
+#stage.dragging { cursor: grabbing; }
+#stage.hoverable { cursor: pointer; }
+
+/* ---- HUD (top-left): year counter + alive/gone tallies ---- */
+.hud {
+  position: fixed;
+  top: 18px;
+  left: 22px;
+  z-index: 5;
+  pointer-events: none;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.85);
+}
+#hud-year {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: clamp(28px, 4vw, 46px);
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.02em;
+}
+#hud-stats { margin-top: 7px; font-size: 13px; color: var(--muted); }
+#hud-stats .sep { margin: 0 7px; opacity: 0.5; }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+.dot-a { background: var(--active); }
+.dot-g { background: var(--inactive); }
+
+/* ---- keyboard hint (top-right) ---- */
+#hint {
+  position: fixed;
+  top: 18px;
+  right: 20px;
+  z-index: 5;
+  pointer-events: none;
+  text-align: right;
+  font-size: 12px;
+  line-height: 1.8;
+  color: #66748c;
+}
+kbd {
+  border: 1px solid #33455f;
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  padding: 0 5px;
+  font-size: 11px;
+  color: #aab8cc;
+  background: #0e1830;
+}
+
+/* ---- era toast (top-center) ---- */
+#era-toast {
+  position: fixed;
+  top: 22px;
+  left: 50%;
+  transform: translateX(-50%) translateY(-8px);
+  z-index: 6;
+  pointer-events: none;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 8px 18px;
+  font-size: 13px;
+  color: var(--ink);
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.45s ease, transform 0.45s ease;
+}
+#era-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+#era-toast b { letter-spacing: 0.04em; }
+#era-toast span { color: var(--muted); margin-left: 8px; }
+
+/* ---- hover tooltip ---- */
+#tip {
+  position: fixed;
+  z-index: 9;
+  pointer-events: none;
+  max-width: 290px;
+  background: var(--panel);
+  border: 1px solid #24344f;
+  border-radius: 9px;
+  padding: 9px 11px;
+  font-size: 12px;
+  line-height: 1.45;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.55);
+}
+.tip-name { font-weight: 650; font-size: 13px; }
+.tip-life { color: #c3cede; margin-top: 2px; }
+.tip-former { color: var(--muted); margin-top: 3px; }
+.tip-status {
+  display: inline-block;
+  margin-top: 5px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 10.5px;
+  font-weight: 600;
+}
+.tip-status.active { background: rgba(61, 220, 151, 0.16); color: var(--active); }
+.tip-status.inactive { background: rgba(255, 107, 107, 0.15); color: var(--inactive); }
+.tip-status.unknown { background: rgba(154, 167, 184, 0.16); color: #aab6c6; }
+.tip-open { margin-top: 5px; color: #6f809a; font-size: 11px; }
+
+/* ---- bottom control bar ---- */
+.controls {
+  position: fixed;
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+  z-index: 6;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 13px;
+  padding: 10px 14px;
+  backdrop-filter: blur(6px);
+}
+.ctl {
+  background: #14213a;
+  border: 1px solid #27395c;
+  color: #dce7f7;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.ctl:hover { background: #1b2c4d; }
+.ctl-play { width: 44px; font-size: 14px; }
+.controls select.ctl { appearance: auto; }
+.controls input[type="range"] {
+  width: min(480px, 38vw);
+  accent-color: var(--active);
+  cursor: pointer;
+}
+.follow {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12.5px;
+  color: var(--muted);
+  cursor: pointer;
+  user-select: none;
+}
+.follow input { accent-color: var(--active); cursor: pointer; }
+
+/* ---- intro / outro overlays ---- */
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(ellipse at center, rgba(7, 13, 25, 0.55) 0%, rgba(7, 13, 25, 0.94) 78%);
+  transition: opacity 0.55s ease;
+}
+.overlay.hidden { opacity: 0; pointer-events: none; }
+.card { max-width: 660px; padding: 2rem; text-align: center; }
+.card h1 {
+  margin: 0 0 0.6rem;
+  font-size: clamp(24px, 4vw, 40px);
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+}
+.card .sub { color: var(--muted); font-size: 15px; line-height: 1.65; margin: 0 auto 1.6rem; max-width: 520px; }
+.card .tiny { color: #5c6b83; font-size: 12px; margin-top: 1.4rem; }
+button.primary {
+  background: var(--active);
+  color: #04121f;
+  border: 0;
+  border-radius: 999px;
+  padding: 11px 26px;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+button.primary:hover { filter: brightness(1.09); }
+
+.outro-stats {
+  display: flex;
+  justify-content: center;
+  gap: clamp(1.2rem, 5vw, 3rem);
+  margin: 1.6rem 0 1rem;
+}
+.outro-stats div { font-size: 12.5px; color: var(--muted); }
+.outro-stats b {
+  display: block;
+  font-size: clamp(26px, 4vw, 38px);
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+  margin-bottom: 3px;
+}
+.acq { color: var(--muted); font-size: 13.5px; margin: 0 0 1.4rem; }
+.acq b { color: #c3cede; }
+
+.noscript {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg0);
+  color: var(--ink);
+  font-size: 15px;
+}
+
+@media (max-width: 720px) {
+  #hint { display: none; }
+  .controls { gap: 7px; padding: 8px 10px; bottom: 10px; }
+  .controls input[type="range"] { width: 42vw; }
+}
