@@ -5201,13 +5201,23 @@
     },
     {
       "type": "acquisition",
-      "arm_label": "AOL|7 JV customer base (~90k)",
+      "arm_label": "AOL|7 JV sold; AOL brand licensed to Primus",
       "year": 2004,
       "date_disp": "Feb 2004",
-      "notes": "AOL|7 JV sold to Primus Telecommunications; ~90,000 subscribers transferred.",
+      "notes": "AOL, Seven Network and AAPT sold the three-way AOL|7 joint venture to Primus Telecommunications for just over $23m; Primus took an exclusive licence to operate the AOL-branded ISP in Australia (~90,000 subscribers transferred per Summit Internet history). AAPT received $7.5m for its one-third stake and took sole management of ~48,000 smartchat dial-up/broadband customers back in-house; Seven received more than $23m cash including its i7 investment. AOL|7 was formed Oct 2001 from equal thirds of AOL, Seven (merging its i7 portal) and AAPT, which had itself become AOL's 50/50 JV partner in Mar 2000 after taking over Bertelsmann's stake.",
       "from": "aol-australia",
       "to": "primus-telecom-australia",
       "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/business/aol-seven-aapt-sell-joint-venture-20040211-gdic5e.html",
+          "label": "SMH (11 Feb 2004): 'AOL, Seven, AAPT sell joint venture'"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/primus-snaps-up-aol7-14271",
+          "label": "iTnews (10 Feb 2004): 'Primus snaps up AOL|7' - just over $23m"
+        },
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/AOL",
@@ -5476,7 +5486,7 @@
     },
     {
       "type": "split",
-      "arm_label": "100% — BNS customers folded into iiNet SA",
+      "arm_label": "100% \u2014 BNS customers folded into iiNet SA",
       "year": 1996,
       "date_disp": "1996",
       "notes": "Byron Network Services (Adelaide, John Lindsay) wound down as an ISP; customers folded into iiNet SA (opened Jun 1996).",
@@ -5486,13 +5496,13 @@
         {
           "kind": "official",
           "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
-          "label": "LinkedIn: John Lindsay — Byron Network Services 'customers were folded into iiNet SA'"
+          "label": "LinkedIn: John Lindsay \u2014 Byron Network Services 'customers were folded into iiNet SA'"
         }
       ]
     },
     {
       "type": "split",
-      "arm_label": "100% — iiNet SA sold to OurWorld Global Network",
+      "arm_label": "100% \u2014 iiNet SA sold to OurWorld Global Network",
       "year": 1997,
       "date_disp": "Apr 1997",
       "notes": "iiNet SA (Adelaide/Gawler dialup) sold to OurWorld Global Network (Sydney) as the foundation of its planned national Internet aggregation service.",
@@ -5507,13 +5517,13 @@
         {
           "kind": "official",
           "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
-          "label": "LinkedIn: John Lindsay — iiNet SA sold to the 'super aggregator'"
+          "label": "LinkedIn: John Lindsay \u2014 iiNet SA sold to the 'super aggregator'"
         }
       ]
     },
     {
       "type": "acquisition",
-      "arm_label": "100% — OGN customer base bought from the liquidator",
+      "arm_label": "100% \u2014 OGN customer base bought from the liquidator",
       "year": 1998,
       "date_disp": "1998",
       "notes": "OurWorld Global Network failed quietly in 1998 and was liquidated; Chariot (via GM John Lindsay, ex-OGN) bought the customer base from the liquidator.",
@@ -5523,13 +5533,13 @@
         {
           "kind": "official",
           "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
-          "label": "LinkedIn: John Lindsay — 'I bought the customers for Chariot from the liquidator'"
+          "label": "LinkedIn: John Lindsay \u2014 'I bought the customers for Chariot from the liquidator'"
         }
       ]
     },
     {
       "type": "split",
-      "arm_label": "100% — OGN's retail arm (Auslink Communications)",
+      "arm_label": "100% \u2014 OGN's retail arm (Auslink Communications)",
       "year": 1997,
       "date_disp": "by 1997",
       "notes": "Auslink Communications Pty Ltd (ACN 077 048 938) was OurWorld Global Network's retail flat-rate ISP arm (same GPO Box 4773 Sydney; GM Samantha Teh at OGN's phone); launched a national flat-rate service in May 1998 on OGN's satellite backbone, built on the iiNet SA base OGN bought Apr 1997.",

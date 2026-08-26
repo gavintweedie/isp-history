@@ -4,13 +4,34 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://aol.net.au",
-  "summary": "America Online's Australian service; 50/50 JV with Bertelsmann announced Oct 1997, launched 1998 (dialup + AOL portal); restructured as AOL7 with Seven Network (from 2002), later Primus-AOL (2004); AOL access for Australian subscribers withdrawn 31 May 2010; AOL7 ABN cancelled 2012.",
+  "summary": "America Online's Australian service: launched 1998 from a 50/50 AOL-Bertelsmann JV (announced Oct 1997); restructured as a 50/50 AOL-AAPT joint venture (announced 30 Mar 2000) with exclusive AOL/CompuServe rights across PC and wireless platforms; became the three-way AOL|7 venture with Seven Network (merging Seven's i7 portal, Oct 2001); sold to Primus Telecommunications Feb 2004, which ran the AOL-branded ISP under licence until AOL access was withdrawn 31 May 2010.",
   "names": [
     {
       "name": "AOL Australia",
       "start_year": 1998,
-      "start_disp": "1998"
+      "start_disp": "1998",
+      "end_year": 2001,
+      "end_disp": "Oct 2001"
+    },
+    {
+      "name": "AOL|7",
+      "start_year": 2001,
+      "start_disp": "by Oct 2001",
+      "end_year": 2004,
+      "end_disp": "Feb 2004"
+    },
+    {
+      "name": "AOL",
+      "start_year": 2004,
+      "start_disp": "Feb 2004",
+      "end_year": 2010,
+      "end_disp": "31 May 2010"
     }
+  ],
+  "aliases": [
+    "AOL7",
+    "AOL/7",
+    "AOL|7"
   ],
   "events": [
     {
@@ -21,11 +42,58 @@
       "details": "AOL Australia JV announced 7 Oct 1997 (with Bertelsmann); service launched 1998 (beta from late April 1998)."
     },
     {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "30 Mar 2000",
+      "precision": "exact",
+      "details": "America Online and AAPT announced a new 50/50 joint venture to operate AOL Australia, with AOL taking over Bertelsmann's 50% interest (subject to FIRB approval). The JV held exclusive rights to offer the AOL and CompuServe services on PC and mobile wireless platforms in Australia, planned an integrated wireless-content portal over AAPT's CDMA network, and gave AOL Australia access to AAPT's 650,000-strong retail base and network infrastructure; MD Carol Veriga stepped down (Dr Brett Wayn appointed GM).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=3829&announcementId=576284&documentDate=2000-03-30&documentNumber=205349",
+          "label": "ASX announcement (AAPT Limited, 30 Mar 2000): 'AAPT & America Online ann. New AOL Australia JV'"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2001,
+      "date_disp": "Oct 2001",
+      "precision": "approx",
+      "details": "Three-way AOL|7 joint venture formed by America Online, Seven Network and AAPT (equal thirds), merging Seven's i7 online service (launched Sep 2000) with the AOL site to deliver broadband content and cross-promotion between Seven, Pacific Publications and the ISP.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yahoo_Australia",
+          "label": "Wikipedia: Yahoo! Australia / i7 - Seven founded i7 Sep 2000, partnered with AOL Oct 2001 to establish the AOL7 joint venture"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2004,
+      "date_disp": "11 Feb 2004",
+      "precision": "exact",
+      "details": "AOL, Seven and AAPT sold the AOL|7 joint venture to Primus Telecommunications for just over $23 million (Seven receiving more than $23m cash including its i7 investment; AAPT $7.5m for its one-third stake). Primus gained an exclusive licence to operate the AOL-branded internet service in Australia with no member disruption; AAPT took sole management of its ~48,000 smartchat dial-up/broadband customers back in-house.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/business/aol-seven-aapt-sell-joint-venture-20040211-gdic5e.html",
+          "label": "SMH (11 Feb 2004): 'AOL, Seven, AAPT sell joint venture'"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/primus-snaps-up-aol7-14271",
+          "label": "iTnews (10 Feb 2004): 'Primus snaps up AOL|7' - acquired for just over $23m"
+        }
+      ]
+    },
+    {
       "kind": "death",
       "year": 2010,
-      "date_disp": "May 2010",
+      "date_disp": "31 May 2010",
       "precision": "exact",
-      "details": "AOL dialup/broadband access withdrawn 31 May 2010; ABN cancelled 1 Jun 2012."
+      "details": "AOL dialup/broadband access withdrawn; ABN cancelled 1 Jun 2012."
     }
   ],
   "refs": [

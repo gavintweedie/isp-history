@@ -1,0 +1,53 @@
+{
+  "name": "Emunet",
+  "slug": "emunet",
+  "birthplace": "Lower Blue Mountains, NSW",
+  "status": "inactive",
+  "website": "https://www.emunet.com.au",
+  "summary": "Small family-run ISP at the base of the Blue Mountains, 45 minutes west of Sydney ('Emunet Computing Australia'); low-cost k56flex dialup and ISDN access plus email, web hosting and web design; contact David@EmuNet.com.au, ph (02) 4735 6670.",
+  "names": [
+    {
+      "name": "Emunet Computing Australia",
+      "start_year": 1998,
+      "start_disp": "by Feb 1998"
+    }
+  ],
+  "aliases": [
+    "EmuNet"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Feb 1998",
+      "precision": "by",
+      "details": "Dialup (k56flex) and ISDN access, email accounts, web page hosting and design for home and business members.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980213050911/http://www.emunet.com.au/",
+          "label": "Emunet homepage (Wayback Feb 1998)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981203083359/http://www.emunet.com.au/about.html",
+          "label": "About Emunet Computing Australia (Wayback Dec 1998)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2021,
+      "date_disp": "by Dec 2021",
+      "precision": "by",
+      "details": "Last Wayback capture of emunet.com.au on 2 Dec 2021."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981203083359/http://www.emunet.com.au/about.html",
+      "label": "About Emunet Computing Australia (Wayback Dec 1998)"
+    }
+  ]
+}
