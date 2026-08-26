@@ -4,42 +4,91 @@
   "birthplace": "Paddington (Brisbane), QLD",
   "status": "inactive",
   "website": "https://atlanticdigital.net",
-  "summary": "Brisbane dialup/ISDN + hosting + internet cafe ISP, part of the Atlantic Internet group; dead ~2001.",
+  "summary": "Brisbane ISP operating first as Atlantic Internet (atlantech.com.au, dialup + hosting + 'The Computer Cafe' internet cafe, 1999-2001) then as Atlantic Digital (atlanticdigital.net, dialup/ISDN + web/email/database hosting + IT services, 2001-c.2008); both trading names of Radtek Pty Ltd (ACN 083 304 894).",
   "names": [
+    {
+      "name": "Atlantic Internet",
+      "start_year": 1999,
+      "start_disp": "by Oct 1999",
+      "end_year": 2001,
+      "end_disp": "Oct 2001"
+    },
     {
       "name": "Atlantic Digital",
       "start_year": 2001,
-      "start_disp": "17 Oct 2001"
+      "start_disp": "Oct 2001",
+      "end_year": 2008,
+      "end_disp": "c. 2008"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "17 Oct 2001",
+      "year": 2000,
+      "date_disp": "Mar 2000",
       "precision": "exact",
-      "details": "Business name ATLANTIC DIGITAL registered 17 Oct 2001 under RADTEK PTY LTD ACN 083304894 (incorporated 07 Jul 1998); domain capture 20 Jul 2001.",
+      "details": "Business name ATLANTIC INTERNET registered 9 Mar 2000 under Radtek Pty Ltd ACN 083 304 894 (informal operation by Oct 1999 - earliest Wayback capture of atlantech.com.au). Ran dialup plus hosting and 'The Computer Cafe' internet cafe on a 2Mbit HDSL link.",
       "refs": [
         {
-          "kind": "official",
+          "kind": "gov",
           "url": "https://abr.business.gov.au/ABN/View?abn=55083304894",
-          "label": "ABN Lookup: RADTEK PTY LTD \u2014 Atlantic Digital 17 Oct 2001"
+          "label": "ABN Lookup: Radtek Pty Ltd - Atlantic Internet business name, 9 Mar 2000"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991012062101/http://www.atlantech.com.au/",
+          "label": "Wayback Machine: earliest capture of atlantech.com.au (12 Oct 1999)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2001,
+      "date_disp": "Oct 2001",
+      "details": "Rebranded as Atlantic Digital: business name ATLANTIC DIGITAL registered 17 Oct 2001 (same Radtek Pty Ltd); successor domain atlanticdigital.net first captured 20 Jul 2001 and operated continuously afterwards - Brisbane ISP offering 56k dialup and ISDN plus domain, web, email and database hosting ('We do NOT use satellite traffic'), alongside the Computer Cafe portal.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050616000337/http://www.atlanticdigital.net/",
+          "label": "Wayback 16 Jun 2005: 'Atlantic Digital is a Brisbane based Internet Service Provider'"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=55083304894",
+          "label": "ABN Lookup: Radtek Pty Ltd - Atlantic Digital business name, 17 Oct 2001"
         }
       ]
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2007,
+      "date_disp": "c. 2006-08",
       "precision": "approx",
-      "details": "Last capture 2001."
+      "details": "Dialup/ISDN retail service wound down around 2006-2008: the online signup wizard was last captured in June 2006 and the Computer Cafe portal's final update dates to 2008. The business continued as an IT services provider (corporate/hardware pages live until 2013) before going quiet; by 2019-2020 the domain carried unrelated third-party content (Wix-hosted site, off-site blog feeds), suggesting lapse or reuse. NOTE: earlier versions of this record dated both names' deaths to 2001 - that reflected website staleness, not the business, which traded on for years.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060615040307/http://www.atlanticdigital.net/application.html",
+          "label": "Wayback: dialup application/signup wizard, last captured Jun 2006"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051226200130/http://www.atlanticdigital.net/cafe/",
+          "label": "Wayback: Computer Cafe portal under Atlantic Digital"
+        }
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
+      "url": "https://web.archive.org/web/20030117094843/http://www.cynosure.com.au/isp/computercafe",
+      "label": "Cynosure directory: Atlantic Internet / Computer Cafe"
+    },
+    {
+      "kind": "archive",
       "url": "https://web.archive.org/web/20030102004831/http://www.cynosure.com.au/isp/atlanticdigital",
-      "label": "Atlantic Digital (Cynosure 2003)"
+      "label": "Cynosure directory: Atlantic Digital"
     }
   ]
 }
