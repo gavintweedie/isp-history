@@ -1,0 +1,44 @@
+{
+  "name": "Internet Etc.",
+  "slug": "internet-etc",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "summary": "Gold Coast (QLD 4218) internet company, Internet Etc. Pty Ltd (ABN 61 081 843 692); no archived website located; ABN cancelled 3 Jun 2014.",
+  "names": [
+    {
+      "name": "Internet Etc.",
+      "start_year": 1998,
+      "start_disp": "c. 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Internet Etc. Pty Ltd, ACN 081 843 692, Gold Coast QLD; company-number series indicates registration c. 1998."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "3 Jun 2014",
+      "precision": "exact",
+      "details": "ABN cancelled.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=61081843692",
+          "label": "ABR Lookup: INTERNET ETC. PTY. LTD. — ABN cancelled from 3 Jun 2014; main business location QLD 4218"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=61081843692",
+      "label": "ABR Lookup: INTERNET ETC. PTY. LTD. (ABN 61 081 843 692)"
+    }
+  ]
+}

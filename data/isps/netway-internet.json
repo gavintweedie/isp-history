@@ -4,28 +4,100 @@
   "birthplace": "West Perth, WA",
   "status": "inactive",
   "website": "https://nw.com.au",
-  "summary": "Registered as Netway Technologies Pty Ltd (ACN 076 696 243); traded as Coastlink Internet Services then Netway Internet; acquired by Up'N'Away.",
+  "summary": "West Perth ISP (Netway Technologies Pty Ltd, ACN 076 696 243, reg. 6 Dec 1996): formed from the Jan 1997 merger with Rockingham's Coastlink Communications, trading as Netway Coastlink / Coastlink Internet Services / Netway Internet (nw.com.au); launched the PowerDSL ADSL brand Nov 2001 (Perth metro, then Rockingham/Mandurah); acquired by Up'N'Away.",
   "names": [
     {
       "name": "Netway Internet",
       "start_year": 1996,
-      "start_disp": "1996"
+      "start_disp": "1996",
+      "end_year": 2007,
+      "end_disp": "c. 2007"
+    },
+    {
+      "name": "Netway Coastlink",
+      "start_year": 1997,
+      "start_disp": "Jan 1997",
+      "end_year": 2000,
+      "end_disp": "c. 2000"
+    },
+    {
+      "name": "Coastlink Internet Services",
+      "start_year": 2000,
+      "start_disp": "Mar 2000",
+      "end_year": 2003,
+      "end_disp": "Nov 2003"
+    },
+    {
+      "name": "Power DSL",
+      "start_year": 2001,
+      "start_disp": "Aug 2001",
+      "end_year": 2010,
+      "end_disp": "Oct 2010"
     }
+  ],
+  "aliases": [
+    "PowerDSL",
+    "Coastlink"
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "1996",
+      "date_disp": "6 Dec 1996",
       "precision": "exact",
-      "details": "Netway Technologies Pty Ltd registered 6 Dec 1996."
+      "details": "Netway Technologies Pty Ltd (ACN 076 696 243) registered."
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "Jan 1997",
+      "precision": "exact",
+      "details": "Merged with Coastlink Communications (Rockingham/Kwinana, ex Col's Point BBS), trading as 'Netway Coastlink'.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980109181416/http://coastlink.com.au/main.html",
+          "label": "Coastlink history (Wayback Jan 1998)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2001,
+      "date_disp": "1 Nov 2001",
+      "precision": "exact",
+      "details": "Launched PowerDSL ADSL brand ('HomePower'/'BizPower') to Perth metro users, expanding to Rockingham and Mandurah by Mar 2002; business name POWERDSL registered 24 Aug 2001 (cancelled 4 Oct 2010).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020524215634/http://www.powerdsl.com.au/",
+          "label": "PowerDSL homepage (Wayback May 2002) — launch news items 1 Nov 2001 / 21 Jan 2002 / 10 Mar 2002"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=81076696243",
+          "label": "ABR historical: NETWAY TECHNOLOGIES PTY LTD — business names POWERDSL (24 Aug 2001 - 4 Oct 2010) and COASTLINK INTERNET SERVICES (31 Mar 2000 - 28 Nov 2003)"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2007,
-      "date_disp": "2007",
-      "precision": "exact",
-      "details": "Acquired by Up'N'Away."
+      "date_disp": "c. 2007",
+      "precision": "approx",
+      "details": "Acquired by Up'N'Away (before Up'N'Away itself was acquired by iiNet, Jan 2008); PowerDSL address ranges (202.7.144.0/20, 202.71.160.0/20) subsequently announced under AS4739 Internode/iiNet. GST registration cancelled 30 Jun 2006, suggesting wind-down from mid-2006.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=81076696243",
+          "label": "ABR historical: GST cancelled 30 Jun 2006"
+        },
+        {
+          "kind": "news",
+          "url": "https://bgp.he.net/AS4739",
+          "label": "BGP.he.net AS4739 — 202.7.x/202.71.x prefixes with registrant 'Powerdsl,' announced by Internode/iiNet"
+        }
+      ]
     }
   ],
   "refs": [
@@ -33,6 +105,16 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001018072533/http://www.nw.com.au/",
       "label": "Netway Technologies (Wayback 2000)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=81076696243",
+      "label": "ABR Lookup historical: ABN 81 076 696 243, NETWAY TECHNOLOGIES PTY LTD"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020524215634/http://www.powerdsl.com.au/about.asp",
+      "label": "PowerDSL about page (Wayback Oct 2002) — 'Launched in November 2001'"
     }
   ]
 }

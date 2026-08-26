@@ -1,0 +1,48 @@
+{
+  "name": "Speedlink",
+  "slug": "speedlink",
+  "birthplace": "Wollongong, NSW",
+  "status": "inactive",
+  "website": "https://www.speedlink.com.au",
+  "summary": "Wollongong dialup ISP ('56k digital access and Fiber Optic links to the Internet'); access plans, hosting/domains, modem sales and Half-Life game servers; defunct.",
+  "names": [
+    {
+      "name": "Speedlink",
+      "start_year": 1999,
+      "start_disp": "by Apr 1999"
+    }
+  ],
+  "aliases": [
+    "SpeedLink Internet"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Apr 1999",
+      "precision": "by",
+      "details": "Dialup ISP for the Wollongong area (ph. 02 4284 7766); member usage stats, access plans and customer home pages.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990428155403/http://www.speedlink.com.au/",
+          "label": "Speedlink (Wayback Apr 1999) — 'an Internet Service Provider providing access to Wollongong area'"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2026,
+      "date_disp": "by Aug 2026",
+      "precision": "by",
+      "details": "Defunct; speedlink.com.au no longer resolves (checked Aug 2026)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990428155403/http://www.speedlink.com.au/",
+      "label": "Speedlink (Wayback Apr 1999)"
+    }
+  ]
+}

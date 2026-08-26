@@ -1,0 +1,53 @@
+{
+  "name": "Netline Internet Services",
+  "slug": "netline-internet-services",
+  "birthplace": "Mona Vale (Northern Beaches), Sydney, NSW",
+  "status": "inactive",
+  "website": "https://www.netline.net.au",
+  "summary": "Sydney Northern Beaches dialup ISP (Netline Internet Services Pty Ltd, PO Box 615 Mona Vale): PPP/SLIP/shell access at 14k4-33k6 from a Terrey Hills POP; ph (02) 9999 2558.",
+  "names": [
+    {
+      "name": "Netline Internet Services",
+      "start_year": 1996,
+      "start_disp": "by Dec 1996"
+    }
+  ],
+  "aliases": [
+    "Netline"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "netline.net.au live by 24 Dec 1996 ('Copyright 1996 by Netline Internet Services Pty Ltd'); listed in the Australian ISP List with a Terrey Hills POP (entry last updated 28 Mar 1998).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961224130703/http://www.netline.net.au/",
+          "label": "Netline homepage (Wayback Dec 1996)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000601183311/http://www.cynosure.com.au/isp/netline",
+          "label": "Australian ISP List: Netline Internet Services (Wayback Jun 2000; entry updated 28 Mar 1998)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2024,
+      "date_disp": "c. 2024",
+      "precision": "approx",
+      "details": "Last Wayback capture of netline.net.au on 9 Oct 2024; site did not respond when checked (Aug 2026)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961224130703/http://www.netline.net.au/",
+      "label": "Netline (Wayback Dec 1996)"
+    }
+  ]
+}

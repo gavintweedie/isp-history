@@ -1,0 +1,57 @@
+{
+  "name": "NorthPower Communications",
+  "slug": "north-power-communications",
+  "birthplace": "Port Macquarie, NSW",
+  "status": "inactive",
+  "website": "https://www.northpower.com.au",
+  "summary": "Telecommunications venture of NorthPower, the NSW electricity distributor for northern NSW (successor to Northern Rivers Electricity, principal office Port Macquarie); marketed telecom services over its electricity network in the late 1990s. No public record found of a retail internet service under this name; NorthPower merged into NSW government-owned Country Energy on 1 July 2001.",
+  "names": [
+    {
+      "name": "NorthPower Communications",
+      "start_year": 1999,
+      "start_disp": "by Apr 1999"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Apr 1999",
+      "precision": "by",
+      "details": "Trading name used by distributor NorthPower (renamed from NorthPower Energy under the Energy Services Corporations Act 1995; successor to Northern Rivers Electricity) for its telecommunications venture.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "http://www5.austlii.edu.au/au/cases/nsw/NSWIRComm/1998/35.html",
+          "label": "Wales v Northpower [1998] NSWIRComm 35 — corporate lineage Northern Rivers Electricity → NorthPower Energy → NorthPower; principal office 9 Short St, Port Macquarie"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "1 Jul 2001",
+      "precision": "exact",
+      "details": "Parent NorthPower merged with Advance Energy and Great Southern Energy to form Country Energy; the communications unit's fate under the merger is not separately recorded.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://data.nsw.gov.au/data/dataset/da4e97ba-49dd-4987-946e-dc2fbc9e3e72/resource/6026af32-3bad-484a-8daa-a25aa487f28e/download/document_10833.pdf",
+          "label": "Country Energy annual report — formed 1 July 2001 from the merger of Advance Energy, Great Southern Energy and NorthPower"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "news",
+      "url": "http://www5.austlii.edu.au/au/cases/nsw/NSWIRComm/1998/35.html",
+      "label": "Wales v Northpower [1998] NSWIRComm 35"
+    },
+    {
+      "kind": "official",
+      "url": "https://data.nsw.gov.au/data/dataset/da4e97ba-49dd-4987-946e-dc2fbc9e3e72/resource/6026af32-3bad-484a-8daa-a25aa487f28e/download/document_10833.pdf",
+      "label": "Country Energy annual report (merger of Advance Energy, Great Southern Energy and NorthPower, 1 July 2001)"
+    }
+  ]
+}

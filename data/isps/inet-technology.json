@@ -1,0 +1,83 @@
+{
+  "name": "I.NET.AU",
+  "slug": "inet-technology",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://i.net.au",
+  "summary": "ISP on the i.net.au domain since at least Dec 1996 (dialup, ISDN and permanent accounts era; now NBN plans, ethernet/fibre, hosting and virtual machines). Present operator I.NET.AU Pty Ltd (ACN 092 417 804, incorporated 11 Apr 2000, Chadstone VIC), associated with PCM Computers Pty Ltd; continuity with the 1990s operator is plausible but unverified.",
+  "names": [
+    {
+      "name": "iNET Technology",
+      "start_year": 1996,
+      "start_disp": "by Dec 1996",
+      "end_year": 2000,
+      "end_disp": "2000"
+    },
+    {
+      "name": "I.NET.AU",
+      "start_year": 2000,
+      "start_disp": "Apr 2000"
+    }
+  ],
+  "aliases": [
+    "I.NET Technology Pty Ltd",
+    "i.net.au"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "i.net.au live by 19 Dec 1996, hosting client sites; traded as iNET Technology in the late 1990s, providing internet access and hosting.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961219041256/http://www.i.net.au/",
+          "label": "i.net.au (Wayback Dec 1996)"
+        },
+        {
+          "kind": "news",
+          "url": "https://aboutus.com/I.net.au",
+          "label": "AboutUs: I.NET.AU — 'Aussie ISP: internet access, ADSL, ISDN, permanent dialup accounts, web design and hosting'"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "11 Apr 2000",
+      "precision": "exact",
+      "details": "I.NET.AU Pty Ltd (ACN 092 417 804) incorporated in Victoria (Chadstone/Glen Iris); still active as an ISP selling NBN plans, ethernet/fibre services, hosting and BizPhone.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://aubizdb.com/company/i-net-au-pty-ltd-092417804",
+          "label": "AuBizDB: I.NET.AU PTY. LTD. — ACN 092417804, incorporated 11 April 2000"
+        },
+        {
+          "kind": "official",
+          "url": "https://i.net.au/nbn/",
+          "label": "i.net.au — NBN plans (current operator website)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961219041256/http://www.i.net.au/",
+      "label": "i.net.au (Wayback Dec 1996)"
+    },
+    {
+      "kind": "news",
+      "url": "https://aubizdb.com/company/i-net-au-pty-ltd-092417804",
+      "label": "AuBizDB: I.NET.AU PTY. LTD."
+    },
+    {
+      "kind": "official",
+      "url": "https://i.net.au/",
+      "label": "I.NET.AU — current ISP website"
+    }
+  ]
+}

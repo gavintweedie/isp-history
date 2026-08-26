@@ -1,0 +1,101 @@
+{
+  "name": "Fish Internet",
+  "slug": "fish-internet",
+  "birthplace": "Wollongong, NSW",
+  "status": "inactive",
+  "website": "https://www.fishinternet.com.au",
+  "summary": "Wollongong/South Coast NSW dialup ISP (business name registered Oct 1998; 'Join Now! Instant Activation!' accounts, hosting, domains and PC sales); later fixed-wireless broadband as Etherwave Networks / Fish Telecom; deadpooled.",
+  "names": [
+    {
+      "name": "Fish Internet",
+      "start_year": 1998,
+      "start_disp": "by Oct 1998",
+      "end_year": 2003,
+      "end_disp": "c. 2003"
+    },
+    {
+      "name": "Etherwave Networks",
+      "start_year": 2003,
+      "start_disp": "Jul 2003",
+      "end_year": 2005,
+      "end_disp": "Sep 2005"
+    },
+    {
+      "name": "Fish Telecom",
+      "start_year": 2005,
+      "start_disp": "Sep 2005",
+      "end_year": 2019,
+      "end_disp": "c. 2019"
+    }
+  ],
+  "aliases": [
+    "FISH INTERNET",
+    "Fish Telecom"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Oct 1998",
+      "precision": "by",
+      "details": "NSW business name 'Fish Internet' (BN98342450) registered 20 Oct 1998; dialup ISP serving Wollongong and the NSW South Coast from 7/8-10 Victoria St, Wollongong.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990125095332/http://www.fishinternet.com.au/",
+          "label": "Fish Internet homepage (Wayback Jan 1999) — 'Fish Internet, Wollongong, Australia'"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.aubiz.net/company/fish-telecom-pty-ltd-092285713/",
+          "label": "AuBiz: Fish Telecom Pty Ltd — business name 'Fish Internet' registered 20 Oct 1998 (BN98342450)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "17 Apr 2000",
+      "precision": "exact",
+      "details": "Business incorporated as Internet Content & Carriage Pty Ltd (ACN 092 285 713); the same ACN was renamed Fish Networks Pty Ltd (22 Oct 2001), Etherwave Networks Pty Ltd (9 May 2002) and Fish Telecom Pty Ltd (14 Sep 2005), moving into fixed-wireless broadband.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.aubiz.net/company/fish-telecom-pty-ltd-092285713/",
+          "label": "AuBiz: Fish Telecom Pty Ltd — former names Internet Content & Carriage / Fish Networks / Etherwave Networks"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2019,
+      "date_disp": "c. 2019",
+      "precision": "approx",
+      "details": "Deadpooled; last Wayback capture of fishinternet.com.au in May 2019, domain no longer resolving (checked Aug 2026).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://tracxn.com/d/companies/fish-telecom/__1nZ0fttOr8kZ760OJ0mlMLGjVxTHSyrm5OWghduf5ME",
+          "label": "Tracxn: Fish Telecom (founded 1998, Wollongong) — deadpooled fixed-wireless provider"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990125095332/http://www.fishinternet.com.au/",
+      "label": "Fish Internet (Wayback Jan 1999)"
+    },
+    {
+      "kind": "news",
+      "url": "https://www.aubiz.net/company/fish-telecom-pty-ltd-092285713/",
+      "label": "AuBiz: Fish Telecom Pty Ltd — ACN 092285713, former names and business-name history"
+    },
+    {
+      "kind": "news",
+      "url": "https://aboutus.com/FishInternet.com.au",
+      "label": "AboutUs: FishInternet.com.au — fixed wireless broadband and dial-up ISP, Wollongong"
+    }
+  ]
+}

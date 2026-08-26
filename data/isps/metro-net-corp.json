@@ -12,6 +12,9 @@
       "start_disp": "by Apr 1997"
     }
   ],
+  "aliases": [
+    "Metro Net Australia"
+  ],
   "events": [
     {
       "kind": "birth",
@@ -19,6 +22,13 @@
       "date_disp": "by Apr 1997",
       "precision": "by",
       "details": "Operating by 10 Apr 1997."
+    },
+    {
+      "kind": "note",
+      "year": 1999,
+      "date_disp": "c. 1999",
+      "precision": "approx",
+      "details": "'Metro Net Australia' is treated as a variant name of this company; no separate Perth provider of that name appears in period directories (Australian ISP List Perth region checked)."
     },
     {
       "kind": "death",

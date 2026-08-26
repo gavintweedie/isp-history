@@ -1,0 +1,54 @@
+{
+  "name": "Mosman City Internet Services",
+  "slug": "mosman-city-internet-services",
+  "birthplace": "Mosman, Sydney, NSW",
+  "status": "inactive",
+  "website": "https://www.bb.com.au",
+  "summary": "Sydney lower-north-shore dialup ISP (Mosman; bb.com.au / mosman.com / australians.com): PPP dialup from 14k4 to 33k6 plus ISDN, Sydney-only POPs, web design arm, upstream via Telstra Internet; IIA member. Listed in the Australian ISP List by Apr 1997.",
+  "names": [
+    {
+      "name": "Mosman City Internet Services",
+      "start_year": 1997,
+      "start_disp": "by Apr 1997"
+    }
+  ],
+  "aliases": [
+    "Mosmen Internet Services",
+    "Mosman Internet Services"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Apr 1997",
+      "precision": "by",
+      "details": "Listed in the Australian ISP List (Cynosure) by 10 Apr 1997 with Sydney-only POPs; own site bb.com.au live by 24 Dec 1997. Plans c. 1997: $20/mo for 15 hours ($1.50/hr extra) or $25/mo for 50MB; ph. (02) 9968 4505. Still listed with ISDN access in the Jan 2001 ISP List.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991012163854/http://cynosure.com.au/isp/bb",
+          "label": "Australian ISP List: Mosman City Internet Services (Wayback Oct 1999; entry last updated 27 Dec 1997)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19971224200242/http://bb.com.au/",
+          "label": "bb.com.au (Wayback Dec 1997)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "c. mid-2002",
+      "precision": "approx",
+      "details": "Last successful Wayback capture of bb.com.au on 28 May 2002; no captures thereafter."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19991012163854/http://cynosure.com.au/isp/bb",
+      "label": "Australian ISP List: Mosman City Internet Services (Cynosure detail page)"
+    }
+  ]
+}
