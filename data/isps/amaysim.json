@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.amaysim.com.au",
-  "summary": "Australian mobile MVNO on the Optus network, founded 2010 (ASX: AYS 2015-2021); entered broadband 2016 via AusBBS, launched NBN May 2017 with plans to build its own direct-to-POI network; exited broadband Oct 2018 (sold ~15,000 NBN customers to Southern Phone, cancelling the direct-to-POI rollout); acquired by Optus 2021; re-entered NBN Sep 2024 as an Optus NBN resale.",
+  "summary": "Australian mobile MVNO on the Optus network, founded 2010 (ASX: AYS 2015-2021); entered broadband 2016 via AusBBS, launched NBN May 2017 with plans to build its own direct-to-POI network; exited broadband Oct 2018 (sold ~15,000 NBN customers to Southern Phone, cancelling the direct-to-POI rollout); acquired by Optus 2021; re-entered NBN Sep 2024 as an Optus NBN resale (AMAYSIM AUSTRALIA LIMITED, ACN 143 613 478).",
   "aliases": [
     "Amaysim Mobile Pty Ltd",
     "Amaysim Australia Ltd"
@@ -93,6 +93,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Amaysim",
       "label": "Wikipedia: Amaysim"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=65143613478",
+      "label": "ABR: AMAYSIM AUSTRALIA LIMITED ACN 143 613 478"
     }
   ]
 }

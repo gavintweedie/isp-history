@@ -4,7 +4,7 @@
   "birthplace": "Elwood (Melbourne), VIC",
   "status": "active",
   "website": "https://dgtek.net/",
-  "summary": "Registered carrier building/operating FTTP network (100k+ premises, since 2014); sells wholesale via partners.",
+  "summary": "Registered carrier building/operating FTTP network (100k+ premises, since 2014); sells wholesale via partners (DGTEK PTY LTD., ACN 600 896 115).",
   "names": [
     {
       "name": "DGtek",
@@ -19,6 +19,13 @@
       "date_disp": "2014",
       "precision": "exact",
       "details": "FTTP network builder/operator."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=61600896115",
+      "label": "ABR: DGTEK PTY LTD. ACN 600 896 115"
     }
   ]
 }

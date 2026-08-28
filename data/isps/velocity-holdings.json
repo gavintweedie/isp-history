@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "active",
   "website": "https://www.velocitynet.com.au",
-  "summary": "Combined entity formed c.2010 from the merger of Netspeed and Velocity Internet; both brands continued.",
+  "summary": "Combined entity formed c.2010 from the merger of Netspeed and Velocity Internet; both brands continued (VELOCITY INTERNET HOLDINGS PTY LTD (CANCELLED 17 Aug 2017), ACN 146 772 330).",
   "names": [
     {
       "name": "Velocity Internet Holdings",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2010",
       "precision": "approx",
       "details": "Formed from the Netspeed + Velocity Internet merger."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=39146772330",
+      "label": "ABR: VELOCITY INTERNET HOLDINGS PTY LTD (CANCELLED 17 Aug 2017) ACN 146 772 330"
     }
   ]
 }

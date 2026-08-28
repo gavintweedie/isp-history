@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "active",
   "website": "https://www.brisnet.org.au",
-  "summary": "Brisbane community (not-for-profit) internet service provider, still active.",
+  "summary": "Brisbane community (not-for-profit) internet service provider, still active (INTPAY PTY LTD, ACN 106 545 073).",
   "names": [
     {
       "name": "BrisNet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20031003001604/http://www.brisnet.org.au/",
       "label": "BrisNet (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=80106545073",
+      "label": "ABR: INTPAY PTY LTD ACN 106 545 073"
     }
   ]
 }

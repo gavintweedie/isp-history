@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "active",
   "website": "https://stealth.net.au",
-  "summary": "Stealth Internet, formed 1997 in Brisbane as the internet arm of RMI Telecommunications; dialup ISP + web hosting; expanded to Griffith NSW 1998; ISP business sold 2002 (stealth.com.au passed into the WebFront/iiNet orbit, hosted on iiNet today); brand retired 2003; web-hosting lineage continued (Ultrawave 2003, Omosis 2005); brand relaunched 2019; acquired by Obble Pty Ltd 2021.",
+  "summary": "Stealth Internet, formed 1997 in Brisbane as the internet arm of RMI Telecommunications; dialup ISP + web hosting; expanded to Griffith NSW 1998; ISP business sold 2002 (stealth.com.au passed into the WebFront/iiNet orbit, hosted on iiNet today); brand retired 2003; web-hosting lineage continued (Ultrawave 2003, Omosis 2005); brand relaunched 2019; acquired by Obble Pty Ltd 2021 (OBBLE PTY LTD (acquired Stealth Internet brand 2021 - current operator of stealth.net.au), ACN 648 809 750).",
   "names": [
     {
       "name": "Stealth Internet",
@@ -90,6 +90,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021122133054/http://www.stealth.com.au/",
       "label": "Stealth Internet frameset (Wayback, 22 Nov 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=71648809750",
+      "label": "ABR: OBBLE PTY LTD (acquired Stealth Internet brand 2021 - current operator of stealth.net.au) ACN 648 809 750"
     }
   ]
 }

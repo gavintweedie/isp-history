@@ -4,7 +4,7 @@
   "birthplace": "Wagga Wagga, NSW",
   "status": "active",
   "website": "https://kinetix.net.au",
-  "summary": "Wagga Wagga nbn RSP (Professional Data Kinetics Pty Ltd trading as Kinetix Networks); AS134143 registered 2015.",
+  "summary": "Wagga Wagga nbn RSP (Professional Data Kinetics Pty Ltd trading as Kinetix Networks, ACN 155 308 642); AS134143 registered 2015.",
   "names": [
     {
       "name": "Kinetix Networks",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20160305101720/http://kinetix.net.au/",
       "label": "Kinetix Networks (Wayback 2016)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=65155308642",
+      "label": "ABR: Professional Data Kinetics Pty Ltd ACN 155 308 642"
     }
   ]
 }

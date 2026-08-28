@@ -4,7 +4,7 @@
   "birthplace": "Prahran, VIC",
   "status": "active",
   "website": "https://rucc.net.au",
-  "summary": "Business Internet services provider ('The Really Useful Communications Company'), founded 1993 in Prahran, Melbourne; now operating from the NSW North Coast (New Brighton) with VIC and NSW presence. Continuous 30-year operation: dialup-era ISP through to business connectivity, web/mail hosting (webmail Australia/Asia/Europe portals) and Mailguard services.",
+  "summary": "Business Internet services provider ('The Really Useful Communications Company'), founded 1993 in Prahran, Melbourne; now operating from the NSW North Coast (New Brighton) with VIC and NSW presence. Continuous 30-year operation: dialup-era ISP through to business connectivity, web/mail hosting (webmail Australia/Asia/Europe portals) and Mailguard services (RUCC PTY LTD (formerly THE REALLY USEFUL COMMUNICATIONS COMPANY PTY. LTD.), ACN 059 959 616).",
   "names": [
     {
       "name": "The Really Useful Communications Company",
@@ -73,6 +73,11 @@
       "kind": "official",
       "url": "https://2ip.io/isp/The+Really+Useful+Communications+Company/",
       "label": "2ip.io ISP listing: The Really Useful Communications Company"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=71059959616",
+      "label": "ABR: RUCC PTY LTD (formerly THE REALLY USEFUL COMMUNICATIONS COMPANY PTY. LTD.) ACN 059 959 616"
     }
   ]
 }

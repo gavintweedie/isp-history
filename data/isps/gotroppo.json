@@ -4,7 +4,7 @@
   "birthplace": "Port Melbourne, VIC",
   "status": "active",
   "website": "https://gotroppo.com.au",
-  "summary": "NBN home internet provider (GoTroppo Networks Pty Ltd, incorporated 6 May 2024; unlimited data, no lock-in); still active.",
+  "summary": "NBN home internet provider (GoTroppo Networks Pty Ltd, incorporated 6 May 2024; unlimited data, no lock-in, ACN 677 130 979); still active.",
   "names": [
     {
       "name": "GoTroppo",
@@ -19,6 +19,13 @@
       "date_disp": "6 May 2024",
       "precision": "exact",
       "details": "NBN home internet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=64677130979",
+      "label": "ABR: GOTROPPO NETWORKS PTY LTD ACN 677 130 979"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://www.starlink.com",
-  "summary": "SpaceX satellite broadband; launched in Australia April 2021.",
+  "summary": "SpaceX satellite broadband; launched in Australia April 2021 (STARLINK AUSTRALIA PTY LTD, ACN 636 841 533).",
   "names": [
     {
       "name": "Starlink",
@@ -26,6 +26,11 @@
       "kind": "news",
       "url": "https://www.abc.net.au/news/2021-04-13/starlink-australia-internet-access-satellites-elon-musk/100067664",
       "label": "ABC News: Starlink arrives in Australia (Apr 2021)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=68636841533",
+      "label": "ABR: STARLINK AUSTRALIA PTY LTD ACN 636 841 533"
     }
   ]
 }

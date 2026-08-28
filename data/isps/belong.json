@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://www.belong.com.au",
-  "summary": "Telstra-owned budget retail ISP offering NBN broadband and mobile plans; launched Oct 2013.",
+  "summary": "Telstra-owned budget retail ISP offering NBN broadband and mobile plans; launched Oct 2013 (BELONG AUSTRALIA PTY LTD, ACN 162 699 845).",
   "aliases": [],
   "names": [
     {
@@ -29,5 +29,11 @@
       ]
     }
   ],
-  "refs": []
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=33162699845",
+      "label": "ABR: BELONG AUSTRALIA PTY LTD ACN 162 699 845"
+    }
+  ]
 }

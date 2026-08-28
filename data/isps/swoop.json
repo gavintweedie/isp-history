@@ -4,7 +4,7 @@
   "birthplace": "North Sydney, NSW",
   "status": "active",
   "website": "https://www.swoop.com.au",
-  "summary": "Fixed-wireless/NBN RSP; operated as Swoop from 2020 (acquiring DCSI, Connectivity I.T., CountryTell, Beam), ASX-listed May 2021 via reverse takeover of Stemify from Cirrus Communications + NodeOne; ASX:SWP.",
+  "summary": "Fixed-wireless/NBN RSP; operated as Swoop from 2020 (acquiring DCSI, Connectivity I.T., CountryTell, Beam), ASX-listed May 2021 via reverse takeover of Stemify from Cirrus Communications + NodeOne; ASX:SWP (SWOOP TELECOMMUNICATIONS PTY LTD (formerly Cirrus Communications; parent Swoop Holdings Limited ACN 009 256 535 / ABN 20009256535), ACN 109 931 731).",
   "names": [
     {
       "name": "Swoop Holdings",
@@ -26,6 +26,11 @@
       "kind": "news",
       "url": "https://www.marketindex.com.au/asx/swp",
       "label": "Market Index: Swoop Holdings"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=87109931731",
+      "label": "ABR: SWOOP TELECOMMUNICATIONS PTY LTD (formerly Cirrus Communications; parent Swoop Holdings Limited ACN 009 256 535 / ABN 20009256535) ACN 109 931 731"
     }
   ]
 }

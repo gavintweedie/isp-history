@@ -4,7 +4,7 @@
   "birthplace": "Brisbane (Toowong), QLD",
   "status": "active",
   "website": "https://www.ecn.net.au",
-  "summary": "Melbourne dialup ISP (by 1996) that evolved into business internet, data centre co-lo, fibre, VoIP and wholesale; still active as a business telecom/data-centre provider.",
+  "summary": "Melbourne dialup ISP (by 1996) that evolved into business internet, data centre co-lo, fibre, VoIP and wholesale; still active as a business telecom/data-centre provider (ECN PTY LTD, ACN 082 665 905).",
   "names": [
     {
       "name": "ECN Internet",
@@ -26,6 +26,13 @@
           "label": "ECN introduction \u2014 established early 1995"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=75082665905",
+      "label": "ABR: ECN PTY LTD ACN 082 665 905"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://uplinkme.com.au/",
-  "summary": "Local NBN + OptiComm fibre + fixed wireless + SmartWiFi ISP; still active.",
+  "summary": "Local NBN + OptiComm fibre + fixed wireless + SmartWiFi ISP; still active (UPLINKME PTY LTD, ACN 639 522 535).",
   "names": [
     {
       "name": "UplinkMe",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2016",
       "precision": "approx",
       "details": "NBN, OptiComm fibre, fixed wireless."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=45639522535",
+      "label": "ABR: UPLINKME PTY LTD ACN 639 522 535"
     }
   ]
 }

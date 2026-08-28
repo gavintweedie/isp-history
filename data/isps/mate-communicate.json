@@ -4,7 +4,7 @@
   "birthplace": "Wetherill Park (Sydney), NSW",
   "status": "active",
   "website": "https://www.letsbemates.com.au",
-  "summary": "NBN + mobile provider (part of Conxxion group / Activ8me stable, since 2016); still active.",
+  "summary": "NBN + mobile provider (part of Conxxion group / Activ8me stable, since 2016); still active (MATE COMMUNICATE PTY LTD, ACN 165 670 413).",
   "names": [
     {
       "name": "Mate Communicate",
@@ -19,6 +19,13 @@
       "date_disp": "2016",
       "precision": "exact",
       "details": "NBN + mobile."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=33165670413",
+      "label": "ABR: MATE COMMUNICATE PTY LTD ACN 165 670 413"
     }
   ]
 }

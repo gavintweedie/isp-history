@@ -4,7 +4,7 @@
   "birthplace": "Nowra, NSW",
   "status": "active",
   "website": "http://www.shoalhaven.net.au",
-  "summary": "Nowra/Shoalhaven NSW internet provider (Shoalhaven Internet Services, Michael Parnell Pty Ltd); business name since 2000, company registered ~1996; still active.",
+  "summary": "Nowra/Shoalhaven NSW internet provider (Shoalhaven Internet Services, Michael Parnell Pty Ltd, ACN 063 981 359); business name since 2000, company registered ~1996; still active.",
   "aliases": [
     "Shoalhaven Internet Services",
     "SIS"
@@ -30,6 +30,11 @@
       "kind": "official",
       "url": "http://www.shoalhaven.net.au",
       "label": "Shoalhaven Internet"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=99063981359",
+      "label": "ABR: MICHAEL PARNELL PTY. LIMITED ACN 063 981 359"
     }
   ]
 }

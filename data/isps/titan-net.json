@@ -4,7 +4,7 @@
   "birthplace": "Padstow (Sydney), NSW",
   "status": "active",
   "website": "https://titannet.com.au/",
-  "summary": "Sydney NBN residential/business + SIM/data + telephone provider (Titan Telecom); still active.",
+  "summary": "Sydney NBN residential/business + SIM/data + telephone provider (Titan Telecom); still active (ARDORCORP PTY LTD (Business name Titan Net), ACN 639 551 214).",
   "names": [
     {
       "name": "Titan Net",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2005",
       "precision": "approx",
       "details": "NBN, SIM/data, telephone."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=34639551214",
+      "label": "ABR: ARDORCORP PTY LTD (Business name Titan Net) ACN 639 551 214"
     }
   ]
 }

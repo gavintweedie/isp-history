@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://alphanet.com.au",
-  "summary": "Sydney dialup ISP since 1995; now IT solutions/provider company.",
+  "summary": "Sydney dialup ISP since 1995; now IT solutions/provider company (ALPHANET PTY. LTD., ACN 068 104 058).",
   "names": [
     {
       "name": "AlphaNet",
@@ -30,6 +30,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20020213005106/http://www.cynosure.com.au/isp/alphanet",
       "label": "AlphaNet (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=71068104058",
+      "label": "ABR: ALPHANET PTY. LTD. ACN 068 104 058"
     }
   ]
 }

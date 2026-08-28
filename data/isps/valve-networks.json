@@ -4,7 +4,7 @@
   "birthplace": "Robina (Gold Coast), QLD",
   "status": "active",
   "website": "https://valvenetworks.com.au",
-  "summary": "Australian IT/communications engineering firm (not the game developer); later NBN/fibre RSP.",
+  "summary": "Australian IT/communications engineering firm (not the game developer); later NBN/fibre RSP (VALVE NETWORKS PTY LTD, ACN 168 442 288).",
   "names": [
     {
       "name": "Valve Networks",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20160110002716/http://valvenetworks.com.au/",
       "label": "Valve Networks (Wayback 2016)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=31168442288",
+      "label": "ABR: VALVE NETWORKS PTY LTD ACN 168 442 288"
     }
   ]
 }

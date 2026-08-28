@@ -4,7 +4,7 @@
   "birthplace": "Australia (national)",
   "status": "active",
   "website": "https://www.apana.org.au",
-  "summary": "Volunteer-run community internet network (1992) providing low-cost/non-commercial access; still active as a hobbyist networking org.",
+  "summary": "Volunteer-run community internet network (1992) providing low-cost/non-commercial access; still active as a hobbyist networking org (AUSTRALIAN PUBLIC ACCESS NETWORK ASSOCIATION INC., ACN 081 355 722).",
   "names": [
     {
       "name": "APANA",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
       "label": "APANA (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=84081355722",
+      "label": "ABR: AUSTRALIAN PUBLIC ACCESS NETWORK ASSOCIATION INC. ACN 081 355 722"
     }
   ]
 }

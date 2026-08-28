@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://www.virtutel.com.au",
-  "summary": "Wholesale-only B2B telecom connected to all 121 NBN POIs.",
+  "summary": "Wholesale-only B2B telecom connected to all 121 NBN POIs (VIRTUTEL PTY LTD, ACN 142 205 712).",
   "names": [
     {
       "name": "Virtutel",
@@ -19,6 +19,13 @@
       "date_disp": "2010",
       "precision": "exact",
       "details": "Virtutel Pty Ltd, active from Feb 2010."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=86142205712",
+      "label": "ABR: VIRTUTEL PTY LTD ACN 142 205 712"
     }
   ]
 }

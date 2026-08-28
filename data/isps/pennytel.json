@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.pennytel.com.au",
-  "summary": "Sydney VoIP/telecom provider that acquired several business telcos including Connexus.",
+  "summary": "Sydney VoIP/telecom provider that acquired several business telcos including Connexus (PENNYTEL AUSTRALIA PTY LTD, ACN 166 566 632).",
   "names": [
     {
       "name": "Pennytel",
@@ -19,6 +19,13 @@
       "date_disp": "1999",
       "precision": "exact",
       "details": "Pennytel founded in Sydney."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=12166566632",
+      "label": "ABR: PENNYTEL AUSTRALIA PTY LTD ACN 166 566 632"
     }
   ]
 }

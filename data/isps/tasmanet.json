@@ -4,7 +4,7 @@
   "birthplace": "Hobart, TAS",
   "status": "active",
   "website": "https://www.tasmanet.com.au",
-  "summary": "Tasmanian wireless/data carrier, founded 2004; acquired by Field Solutions Group (Dec 2021), then by Comms Group from FSG's receivers (May 2025).",
+  "summary": "Tasmanian wireless/data carrier, founded 2004; acquired by Field Solutions Group (Dec 2021), then by Comms Group from FSG's receivers (May 2025) (A.C.N. 111 240 978 PTY LTD (Trading name Tasmanet Pty Ltd), ACN 111 240 978).",
   "names": [
     {
       "name": "TasmaNet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20080718174158/http://tasmanet.com.au/profile.html",
       "label": "TasmaNet profile (Wayback 2008)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=61111240978",
+      "label": "ABR: A.C.N. 111 240 978 PTY LTD (Trading name Tasmanet Pty Ltd) ACN 111 240 978"
     }
   ]
 }

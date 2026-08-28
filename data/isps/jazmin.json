@@ -4,7 +4,7 @@
   "birthplace": "Lyndoch, SA",
   "status": "active",
   "website": "https://www.jazmin.net.au",
-  "summary": "South Australian VoIP/telco (Barossa Valley).",
+  "summary": "South Australian VoIP/telco (Barossa Valley) (Jazmin Communications Pty Ltd, ACN 134 617 879).",
   "names": [
     {
       "name": "Jazmin Communications",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2007",
       "precision": "approx",
       "details": "ABN suggests ~2007 (unverified)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=21134617879",
+      "label": "ABR: Jazmin Communications Pty Ltd ACN 134 617 879"
     }
   ]
 }

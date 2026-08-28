@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://www.spirit.com.au",
-  "summary": "FTTB apartment fibre + wireless ISP; acquired Voxcom (2012), My Telecom (2015), Phone Names + World Without Wires (2017), LinkOne (2019); renamed Spirit Technology Solutions (2020) then Infotrust (2025).",
+  "summary": "FTTB apartment fibre + wireless ISP; acquired Voxcom (2012), My Telecom (2015), Phone Names + World Without Wires (2017), LinkOne (2019); renamed Spirit Technology Solutions (2020) then Infotrust (2025) (INFOTRUST MANAGED TECHNOLOGY PTY LTD (formerly Spirit Telecom (Australia) Pty Ltd, Trading name Spirit Telecom), ACN 112 320 804).",
   "names": [
     {
       "name": "Spirit Telecom",
@@ -19,6 +19,13 @@
       "date_disp": "2004",
       "precision": "exact",
       "details": "Spirit Telecom (Australia) Pty Ltd, Melbourne."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=99112320804",
+      "label": "ABR: INFOTRUST MANAGED TECHNOLOGY PTY LTD (formerly Spirit Telecom (Australia) Pty Ltd, Trading name Spirit Telecom) ACN 112 320 804"
     }
   ]
 }

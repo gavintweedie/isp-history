@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.tpgtelecom.com.au",
-  "summary": "Result of the 2020 merger of TPG and Vodafone Australia; today one of Australia's largest telecoms.",
+  "summary": "Result of the 2020 merger of TPG and Vodafone Australia; today one of Australia's largest telecoms (TPG TELECOM LIMITED, ACN 096 304 620).",
   "names": [
     {
       "name": "TPG Telecom",
@@ -19,6 +19,13 @@
       "date_disp": "2020",
       "precision": "exact",
       "details": "TPG Telecom formed from the merger of TPG and Vodafone Australia."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=76096304620",
+      "label": "ABR: TPG TELECOM LIMITED ACN 096 304 620"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://escapeonline.com.au",
-  "summary": "Separate Melbourne-based national ISP (born 1996, Escape Communications Pty Ltd; escapenet.com.au -> escapeonline.com.au). Still operating. NOT the same as WA's Escape Net or Adelaide's EscapeNet \u2014 distinct entity.",
+  "summary": "Separate Melbourne-based national ISP (born 1996, Escape Communications Pty Ltd; escapenet.com.au -> escapeonline.com.au, ACN 092 262 372). Still operating. NOT the same as WA's Escape Net or Adelaide's EscapeNet \u2014 distinct entity.",
   "names": [
     {
       "name": "Escape Online Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021204235136/http://www.cynosure.com.au/",
       "label": "Cynosure Australian ISP List (Wayback 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=84092262372",
+      "label": "ABR: ESCAPE COMMUNICATIONS PTY LTD ACN 092 262 372"
     }
   ]
 }

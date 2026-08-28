@@ -4,7 +4,7 @@
   "birthplace": "Sunshine Coast, QLD",
   "status": "active",
   "website": "https://legiontelecom.com.au",
-  "summary": "Sunshine Coast licensed carrier building business fibre (up to 10 Gbps).",
+  "summary": "Sunshine Coast licensed carrier building business fibre (up to 10 Gbps) (LEGION TELECOM PTY LTD, ACN 638 765 536).",
   "names": [
     {
       "name": "Legion Telecom",
@@ -19,6 +19,13 @@
       "date_disp": "2020",
       "precision": "exact",
       "details": "Legion Telecom Pty Ltd, Sunshine Coast."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=21638765536",
+      "label": "ABR: LEGION TELECOM PTY LTD ACN 638 765 536"
     }
   ]
 }

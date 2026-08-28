@@ -4,7 +4,7 @@
   "birthplace": "Bowral (Southern Highlands), NSW",
   "status": "active",
   "website": "https://acenet.com.au",
-  "summary": "Southern Highlands ISP (computer business since 1987, internet from 1996); still active.",
+  "summary": "Southern Highlands ISP (computer business since 1987, internet from 1996); still active (ACE INTERNET SERVICES PTY LTD, ACN 071 944 959).",
   "names": [
     {
       "name": "Ace Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011218232946/http://www.cynosure.com.au/isp/ace",
       "label": "Ace (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=23071944959",
+      "label": "ABR: ACE INTERNET SERVICES PTY LTD ACN 071 944 959"
     }
   ]
 }

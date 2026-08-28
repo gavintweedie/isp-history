@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.vocus.com.au",
-  "summary": "Business and wholesale telco; grew via acquisitions into a major ISP/backbone player.",
+  "summary": "Business and wholesale telco; grew via acquisitions into a major ISP/backbone player (VOCUS GROUP LIMITED, ACN 084 115 499).",
   "names": [
     {
       "name": "Vocus",
@@ -33,6 +33,13 @@
           "label": "deListed Australia: Vocus Group Limited (ASX:VOC) \u2014 delisted 23 Jul 2021"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=96084115499",
+      "label": "ABR: VOCUS GROUP LIMITED ACN 084 115 499"
     }
   ]
 }

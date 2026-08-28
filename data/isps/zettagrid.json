@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "active",
   "website": "https://www.zettagrid.com.au",
-  "summary": "Perth cloud/VMware provider; formed ~2010 from ZettaServe's ISP arm (formerly Highway 1); continues as a cloud provider (not a retail ISP).",
+  "summary": "Perth cloud/VMware provider; formed ~2010 from ZettaServe's ISP arm (formerly Highway 1); continues as a cloud provider (not a retail ISP) (ZETTAGRID PTY LTD, ACN 141 800 357).",
   "names": [
     {
       "name": "Zettagrid",
@@ -19,6 +19,13 @@
       "date_disp": "2010",
       "precision": "exact",
       "details": "Zettagrid Pty Ltd, active from Feb 2010; formed from ZettaServe's ISP arm."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=90141800357",
+      "label": "ABR: ZETTAGRID PTY LTD ACN 141 800 357"
     }
   ]
 }

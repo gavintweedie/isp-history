@@ -20,5 +20,12 @@
       "details": "Australia's first internet service provider, serving the academic/research community."
     }
   ],
-  "summary": "Australia's Academic and Research Network \u2014 provides internet services to universities and research institutions."
+  "summary": "Australia's Academic and Research Network \u2014 provides internet services to universities and research institutions (AARNET PTY LTD, ACN 084 540 518).",
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=54084540518",
+      "label": "ABR: AARNET PTY LTD ACN 084 540 518"
+    }
+  ]
 }

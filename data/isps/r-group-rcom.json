@@ -4,7 +4,7 @@
   "birthplace": "Bentley (Perth), WA",
   "status": "active",
   "website": "https://www.r-group.com.au",
-  "summary": "Perth managed IT/telecom services provider (R Group International, ex-RNAS International, founded 2000); R-COM was its VoIP/communications brand, R-BOX its hosting brand; now a licensed carrier serving mine sites. Not a consumer ISP.",
+  "summary": "Perth managed IT/telecom services provider (R Group International, ex-RNAS International, founded 2000, ACN 095 395 681); R-COM was its VoIP/communications brand, R-BOX its hosting brand; now a licensed carrier serving mine sites. Not a consumer ISP.",
   "names": [
     {
       "name": "R-Group (R-COM)",
@@ -31,6 +31,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20180312021617/http://r-group.com.au/2015/02/16/r-group-celebrates-its-15-year-anniversary/",
       "label": "R-Group 15-year anniversary (Wayback 2018)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=28095395681",
+      "label": "ABR: R GROUP INTERNATIONAL PTY LTD ACN 095 395 681"
     }
   ]
 }

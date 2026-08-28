@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "active",
   "website": "https://pentanet.com.au",
-  "summary": "Perth fixed-wireless/NBN/telecom (ASX: 5GG, listed 2021); absorbed Uniscope's WA assets 2019.",
+  "summary": "Perth fixed-wireless/NBN/telecom (ASX: 5GG, listed 2021); absorbed Uniscope's WA assets 2019 (PENTANET LIMITED, ACN 617 506 279).",
   "names": [
     {
       "name": "Pentanet",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20170424000000/http://pentanet.com.au/",
       "label": "Pentanet (Wayback 2017)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=29617506279",
+      "label": "ABR: PENTANET LIMITED ACN 617 506 279"
     }
   ]
 }

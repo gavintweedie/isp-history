@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "active",
   "website": "https://www.vonex.com.au",
-  "summary": "NBN/voice/wholesale provider (ASX: VNX); acquired MyNetFone's direct business 2021; acquired by MaxoTel 2025.",
+  "summary": "NBN/voice/wholesale provider (ASX: VNX); acquired MyNetFone's direct business 2021; acquired by MaxoTel 2025 (IP VOICE AND DATA PTY LTD, ACN 147 537 871).",
   "names": [
     {
       "name": "Vonex",
@@ -26,6 +26,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Vonex",
       "label": "Wikipedia: Vonex"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=45147537871",
+      "label": "ABR: IP VOICE AND DATA PTY LTD ACN 147 537 871"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://www.capitalfibre.com.au",
-  "summary": "Builds/operates wholesale NBN-compliant FTTP networks for property developers; licensed carrier.",
+  "summary": "Builds/operates wholesale NBN-compliant FTTP networks for property developers; licensed carrier (CAPITAL FIBRE NETWORKS PTY LTD, ACN 619 334 002).",
   "names": [
     {
       "name": "Capital Fibre Networks",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20200809064829/https://www.capitalfibre.com.au/",
       "label": "Capital Fibre Networks (Wayback 2020)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=41619334002",
+      "label": "ABR: CAPITAL FIBRE NETWORKS PTY LTD ACN 619 334 002"
     }
   ]
 }

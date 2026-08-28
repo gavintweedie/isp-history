@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://www.peeringdb.com/asn/134980",
       "label": "AS134980 Interphone (PeeringDB)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=23163794483",
+      "label": "ABR: INTERPHONE PTY LTD ACN 163 794 483"
     }
   ]
 }

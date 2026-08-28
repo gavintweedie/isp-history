@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "active",
   "website": "https://elevateinternet.com.au",
-  "summary": "Retail brand launched by CMvas for the former Uniti Wireless fixed-wireless customers (2025).",
+  "summary": "Retail brand launched by CMvas for the former Uniti Wireless fixed-wireless customers (2025) (ELEVATE INTERNET PTY LTD, ACN 632 472 934).",
   "names": [
     {
       "name": "Elevate Internet",
@@ -19,6 +19,13 @@
       "date_disp": "2025",
       "precision": "exact",
       "details": "Launched by CMvas as the new retail brand for former Uniti Wireless fixed-wireless customers."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=96632472934",
+      "label": "ABR: ELEVATE INTERNET PTY LTD ACN 632 472 934"
     }
   ]
 }

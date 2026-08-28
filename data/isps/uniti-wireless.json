@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "active",
   "website": "https://www.uniti.com.au",
-  "summary": "Fixed-wireless/NBN retailer, founded 2014, ASX-listed 2019, marketed as Uniti Internet; renamed Uniti Group, delisted via Morrison & Co takeover 2022.",
+  "summary": "Fixed-wireless/NBN retailer, founded 2014, ASX-listed 2019, marketed as Uniti Internet; renamed Uniti Group, delisted via Morrison & Co takeover 2022 (UNITI GROUP PTY LTD, ACN 158 957 889).",
   "names": [
     {
       "name": "Uniti Wireless",
@@ -40,6 +40,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Uniti_Group",
       "label": "Wikipedia: Uniti Group"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=73158957889",
+      "label": "ABR: UNITI GROUP PTY LTD ACN 158 957 889"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Nowra, NSW",
   "status": "active",
   "website": "https://www.shoal.net.au",
-  "summary": "Shoalhaven (Nowra) ISP; merged with Fastrac Internet Services ~2000-01 under Tourist Facilities Pty Ltd (Shoalnet-Fastrac).",
+  "summary": "Shoalhaven (Nowra) ISP; merged with Fastrac Internet Services ~2000-01 under Tourist Facilities Pty Ltd (Shoalnet-Fastrac) (TOURIST FACILITIES PTY LTD (CANCELLED 30 Jun 2010 - historic ISP operator, T&Cs at shoal.net.au confirm ACN 001 189 153 t/as Shoalnet/Fastrac), ACN 001 189 153).",
   "names": [
     {
       "name": "Shoalnet",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981206084530/http://www.shoal.net.au/",
       "label": "Shoalnet (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=77001189153",
+      "label": "ABR: TOURIST FACILITIES PTY LTD (CANCELLED 30 Jun 2010 - historic ISP operator, T&Cs at shoal.net.au confirm ACN 001 189 153 t/as Shoalnet/Fastrac) ACN 001 189 153"
     }
   ]
 }

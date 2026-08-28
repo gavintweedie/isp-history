@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://www.gigacomm.net.au/",
-  "summary": "Own gigabit fibre network ISP (100 Mbps-2 Gbps apartment FTTP, unlimited data); still active.",
+  "summary": "Own gigabit fibre network ISP (100 Mbps-2 Gbps apartment FTTP, unlimited data); still active (GIGACOMM PTY LTD, ACN 630 583 998).",
   "names": [
     {
       "name": "GigaComm",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2018",
       "precision": "approx",
       "details": "Apartment fibre."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=77630583998",
+      "label": "ABR: GIGACOMM PTY LTD ACN 630 583 998"
     }
   ]
 }

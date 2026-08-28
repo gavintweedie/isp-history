@@ -4,7 +4,7 @@
   "birthplace": "Stanthorpe, QLD",
   "status": "active",
   "website": "https://www.halenet.com.au",
-  "summary": "Regional ISP on the Granite Belt (Stanthorpe/Warwick/Allora/Clifton/Tenterfield), run by Tim & Vicki McCullagh (HaleNet Technical Pty Ltd); still active.",
+  "summary": "Regional ISP on the Granite Belt (Stanthorpe/Warwick/Allora/Clifton/Tenterfield), run by Tim & Vicki McCullagh (HaleNet Technical Pty Ltd); still active (HALENET TECHNICAL PTY LTD, ACN 082 146 290).",
   "names": [
     {
       "name": "Halenet",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970327105130/http://www.halenet.com.au/",
       "label": "Halenet (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=87082146290",
+      "label": "ABR: HALENET TECHNICAL PTY LTD ACN 082 146 290"
     }
   ]
 }

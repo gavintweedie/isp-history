@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "active",
   "website": "http://www.e-wire.net.au",
-  "summary": "Perth residential-estate communications network: broadband internet, free-to-air TV, VoIP and Foxtel over underground cable to housing estates (a division of Broadcast Engineering Services (Australia) Pty Ltd); distinct from Over the Wire; still active.",
+  "summary": "Perth residential-estate communications network: broadband internet, free-to-air TV, VoIP and Foxtel over underground cable to housing estates (a division of Broadcast Engineering Services (Australia, ACN 066 971 533) Pty Ltd); distinct from Over the Wire; still active.",
   "aliases": [
     "e-wire.net.au"
   ],
@@ -34,6 +34,11 @@
       "kind": "official",
       "url": "http://www.e-wire.net.au",
       "label": "E-Wire"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=29066971533",
+      "label": "ABR: BROADCAST ENGINEERING SERVICES (AUSTRALIA) PTY LTD ACN 066 971 533"
     }
   ]
 }

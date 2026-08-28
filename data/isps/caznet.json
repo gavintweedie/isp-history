@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "active",
   "website": "https://www.caznet.com.au",
-  "summary": "Adelaide business telco/ISP (site first captured 2005).",
+  "summary": "Adelaide business telco/ISP (site first captured 2005) (CAZNET PTY LTD, ACN 143 897 303).",
   "names": [
     {
       "name": "Caznet",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20050615080955/http://www.caznet.com.au/",
       "label": "Caznet (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=47143897303",
+      "label": "ABR: CAZNET PTY LTD ACN 143 897 303"
     }
   ]
 }

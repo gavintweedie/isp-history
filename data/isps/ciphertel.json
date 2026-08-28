@@ -4,7 +4,7 @@
   "birthplace": "Bunbury/Perth, WA",
   "status": "active",
   "website": "https://ciphertel.com",
-  "summary": "WA licensed carrier and ISP (fixed wireless, microwave and fibre) serving regional Western Australia; Perth-origin, later based in Bunbury; still active.",
+  "summary": "WA licensed carrier and ISP (fixed wireless, microwave and fibre) serving regional Western Australia; Perth-origin, later based in Bunbury; still active (CIPHERTEL PTY LTD, ACN 101 635 563).",
   "names": [
     {
       "name": "Ciphertel",
@@ -45,6 +45,11 @@
       "kind": "official",
       "url": "https://ciphertel.com",
       "label": "Ciphertel"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=59101635563",
+      "label": "ABR: CIPHERTEL PTY LTD ACN 101 635 563"
     }
   ]
 }

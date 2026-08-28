@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://esc.net.au",
-  "summary": "Australian nbn/ADSL/mobile RSP (launched Sep 2016); listed on Adelaide EscapeNet's esc.net.au login banner (with Planet Ozi, Click & Motion), suggesting an EscapeNet relationship.",
+  "summary": "Australian nbn/ADSL/mobile RSP (launched Sep 2016); listed on Adelaide EscapeNet's esc.net.au login banner (with Planet Ozi, Click & Motion), suggesting an EscapeNet relationship (TELERON PTY LTD, ACN 612 829 008).",
   "names": [
     {
       "name": "Teleron",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20160830120348/http://teleron.com.au/",
       "label": "Teleron (Wayback 2016)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=55612829008",
+      "label": "ABR: TELERON PTY LTD ACN 612 829 008"
     }
   ]
 }

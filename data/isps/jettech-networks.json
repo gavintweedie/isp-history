@@ -4,7 +4,7 @@
   "birthplace": "Hobart, TAS",
   "status": "active",
   "website": "https://www.jettechnetworks.com.au",
-  "summary": "Tasmanian fixed-wireless ISP (from Jeanneret Electrical Technologies).",
+  "summary": "Tasmanian fixed-wireless ISP (from Jeanneret Electrical Technologies) (JETTECH NETWORKS PTY LTD, ACN 604 027 241).",
   "names": [
     {
       "name": "Jettech Networks",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20080718183323/http://www.jettech.com.au/",
       "label": "Jeanneret Electrical (Wayback 2008)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=90604027241",
+      "label": "ABR: JETTECH NETWORKS PTY LTD ACN 604 027 241"
     }
   ]
 }

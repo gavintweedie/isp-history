@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://nexon.com.au",
-  "summary": "Business ISP/nbn + managed IT + cloud provider (Nexon Asia Pacific, founded 2000 by Charles & Barry Assaf; developed a partnership with Asia Online; acquired many IT firms incl. PSInet, Zircon, Secure Systems); still active.",
+  "summary": "Business ISP/nbn + managed IT + cloud provider (Nexon Asia Pacific, founded 2000 by Charles & Barry Assaf; developed a partnership with Asia Online; acquired many IT firms incl. PSInet, Zircon, Secure Systems, ACN 095 335 023); still active.",
   "names": [
     {
       "name": "Nexon",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011204181405/http://www.nexon.com.au/index.html",
       "label": "Nexon (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=70095335023",
+      "label": "ABR: NEXON ASIA PACIFIC PTY. LTD. ACN 095 335 023"
     }
   ]
 }

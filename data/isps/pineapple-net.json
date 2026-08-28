@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://pineapple.net.au",
-  "summary": "Melbourne FTTP/FTTB ISP retailing DGtek's fibre network.",
+  "summary": "Melbourne FTTP/FTTB ISP retailing DGtek's fibre network (MY ISP PTY LTD (trading as Pineapple Net), ACN 644 398 603).",
   "names": [
     {
       "name": "Pineapple Net",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20180323013612/https://pineapple.net.au/",
       "label": "Pineapple Net (Wayback 2018)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=12644398603",
+      "label": "ABR: MY ISP PTY LTD (trading as Pineapple Net) ACN 644 398 603"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Port Melbourne, VIC",
   "status": "active",
   "website": "https://opticomm.com.au",
-  "summary": "Independent FTTP access-network builder/operator for new residential estates, apartments and commercial developments; ASX-listed 2019, acquired by Uniti Group 2020 and kept as the market/wholesale brand. Took over operation of several former E-Wire estate networks in WA (2011).",
+  "summary": "Independent FTTP access-network builder/operator for new residential estates, apartments and commercial developments; ASX-listed 2019, acquired by Uniti Group 2020 and kept as the market/wholesale brand. Took over operation of several former E-Wire estate networks in WA (2011) (OPTICOMM PTY LTD, ACN 117 414 776).",
   "aliases": [
     "OptiComm Co Pty Ltd"
   ],
@@ -41,6 +41,11 @@
       "kind": "official",
       "url": "https://opticomm.com.au",
       "label": "OptiComm"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=50117414776",
+      "label": "ABR: OPTICOMM PTY LTD ACN 117 414 776"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Sunshine Coast (Caloundra), QLD",
   "status": "active",
   "website": "https://flashfibres.com.au",
-  "summary": "Sunshine Coast fixed-wireless network (100+ sites, residential + commercial, since 2007); still active.",
+  "summary": "Sunshine Coast fixed-wireless network (100+ sites, residential + commercial, since 2007); still active (BKH ENTERPRISES PTY LTD, ACN 600 357 908).",
   "names": [
     {
       "name": "Flash Fibres",
@@ -26,6 +26,13 @@
           "label": "Flash Fibres (earliest capture Jan 2016)"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=66600357908",
+      "label": "ABR: BKH ENTERPRISES PTY LTD ACN 600 357 908"
     }
   ]
 }

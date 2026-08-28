@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://cis.net.au",
-  "summary": "One of Australia's earliest ISPs (Corinthian Engineering -> Corinthian Internet Services/CIS); now business network consultancy.",
+  "summary": "One of Australia's earliest ISPs (Corinthian Engineering -> Corinthian Internet Services/CIS, ACN 003 153 624); now business network consultancy.",
   "names": [
     {
       "name": "Corinthian Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980111093751/http://www.cis.net.au:80/",
       "label": "CIS (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=42003153624",
+      "label": "ABR: CORINTHIAN ENGINEERING PTY LTD ACN 003 153 624"
     }
   ]
 }

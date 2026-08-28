@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://xyztelecom.com.au",
-  "summary": "Wholesale carrier (fixed wireless, ethernet, dark fibre, NBN backhaul), 100% Australian-owned, started 2022. Owned by Maret Group; carries Maret's DC/core infrastructure and resells MarchNet fixed wireless (AS38790). NOTE: unrelated to xyz.com.au (XYZnetworks, subscription TV).",
+  "summary": "Wholesale carrier (fixed wireless, ethernet, dark fibre, NBN backhaul), 100% Australian-owned, started 2022. Owned by Maret Group; carries Maret's DC/core infrastructure and resells MarchNet fixed wireless (AS38790). NOTE: unrelated to xyz.com.au (XYZnetworks, subscription TV) (XYZ TELECOM PTY LTD, ACN 663 410 795).",
   "names": [
     {
       "name": "XYZ Telecom",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://xyztelecom.com.au/",
       "label": "XYZ Telecom website"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=75663410795",
+      "label": "ABR: XYZ TELECOM PTY LTD ACN 663 410 795"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Kalgoorlie-Boulder, WA",
   "status": "active",
   "website": "https://www.gold.net.au",
-  "summary": "Kalgoorlie-Boulder telecommunications provider serving the WA Goldfields; internet, remote IP connectivity, point-to-point Ethernet with 10Gb backbone. DISTINCT from Goldnet Internet Services (goldnet.com.au, merged into Emerge Technologies 1999).",
+  "summary": "Kalgoorlie-Boulder telecommunications provider serving the WA Goldfields; internet, remote IP connectivity, point-to-point Ethernet with 10Gb backbone. DISTINCT from Goldnet Internet Services (goldnet.com.au, merged into Emerge Technologies 1999, ACN 127 052 493).",
   "aliases": [],
   "names": [
     {
@@ -29,5 +29,11 @@
       ]
     }
   ],
-  "refs": []
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=42127052493",
+      "label": "ABR: GOLDNET PTY LTD ACN 127 052 493"
+    }
+  ]
 }

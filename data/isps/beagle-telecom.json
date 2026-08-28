@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://beagle.com.au",
-  "summary": "Sydney full-service ISP (Beagle Internet Pty Ltd), founded 2004; dial-up -> ADSL2+ -> 3G/4G mobile -> NBN; rebranded Beagle Telecom 2013; effectively wound down for new retail customers; founders previously ran World Reach and Zip World.",
+  "summary": "Sydney full-service ISP (Beagle Internet Pty Ltd, ACN 107 903 195), founded 2004; dial-up -> ADSL2+ -> 3G/4G mobile -> NBN; rebranded Beagle Telecom 2013; effectively wound down for new retail customers; founders previously ran World Reach and Zip World.",
   "names": [
     {
       "name": "Beagle Telecom",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20160229090851/http://www.beagle.com.au/about/history.html",
       "label": "Beagle history (Wayback 2016)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=20107903195",
+      "label": "ABR: BEAGLE INTERNET PTY LTD ACN 107 903 195"
     }
   ]
 }

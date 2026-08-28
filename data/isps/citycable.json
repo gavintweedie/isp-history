@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://www.citycable.com.au",
-  "summary": "Melbourne CBD broadband supplier (original 2006; re-established 2023).",
+  "summary": "Melbourne CBD broadband supplier (original 2006; re-established 2023) (CITY CABLE AUSTRALIA PTY LTD, ACN 609 005 772).",
   "names": [
     {
       "name": "City Cable",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20060820192221/http://www.citycable.com.au/",
       "label": "City Cable (Wayback 2006)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=47609005772",
+      "label": "ABR: CITY CABLE AUSTRALIA PTY LTD ACN 609 005 772"
     }
   ]
 }

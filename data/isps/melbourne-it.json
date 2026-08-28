@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://melbourneit.com.au",
-  "summary": "Domain registrar/web services company; acquired WebCentral Group 2006; later Arq Group / Webcentral Group.",
+  "summary": "Domain registrar/web services company; acquired WebCentral Group 2006; later Arq Group / Webcentral Group (5G NETWORKS LIMITED, ACN 073 716 793).",
   "names": [
     {
       "name": "Melbourne IT",
@@ -19,6 +19,13 @@
       "date_disp": "1999",
       "precision": "exact",
       "details": "Melbourne IT established (domain registrar)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=21073716793",
+      "label": "ABR: 5G NETWORKS LIMITED ACN 073 716 793"
     }
   ]
 }

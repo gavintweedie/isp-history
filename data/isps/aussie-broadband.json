@@ -4,7 +4,7 @@
   "birthplace": "Morwell, VIC",
   "status": "active",
   "website": "https://www.aussiebroadband.com.au",
-  "summary": "Regional Victorian ISP founded in Gippsland that grew into a major national RSP and ASX-listed telecom group.",
+  "summary": "Regional Victorian ISP founded in Gippsland that grew into a major national RSP and ASX-listed telecom group (AUSSIE BROADBAND LIMITED, ACN 132 090 192).",
   "names": [
     {
       "name": "Aussie Broadband",
@@ -40,6 +40,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Aussie_Broadband",
       "label": "Wikipedia: Aussie Broadband"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=29132090192",
+      "label": "ABR: AUSSIE BROADBAND LIMITED ACN 132 090 192"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://commsgroup.com.au",
-  "summary": "ASX-listed telecommunications provider (ASX: CCG); acquired TasmaNet from the receivers of Field Solutions Holdings (May 2025) for $10m, gaining TasmaNet's fixed-wireless network, Hobart CBD fibre, and cloud/data centre assets.",
+  "summary": "ASX-listed telecommunications provider (ASX: CCG); acquired TasmaNet from the receivers of Field Solutions Holdings (May 2025) for $10m, gaining TasmaNet's fixed-wireless network, Hobart CBD fibre, and cloud/data centre assets (COMMS GROUP LTD, ACN 619 196 539).",
   "aliases": [
     "Comms Group Limited"
   ],
@@ -43,6 +43,11 @@
       "kind": "news",
       "url": "https://www.businessnewsaustralia.com/articles/comms-group-picks-up-tasmanet-from-field-solutions-in--10m-deal-.html",
       "label": "Business News Australia: Comms Group picks up TasmaNet from Field Solutions for $10m (2025)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=64619196539",
+      "label": "ABR: COMMS GROUP LTD ACN 619 196 539"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.rwts.com.au",
-  "summary": "NSW IT/ISP services company (2002); trades as HyperConnect Internet.",
+  "summary": "NSW IT/ISP services company (2002); trades as HyperConnect Internet (REAL WORLD TECHNOLOGY SOLUTIONS PTY LTD (trading as HyperConnect Internet), ACN 101 234 664).",
   "names": [
     {
       "name": "Real World Technology Solutions",
@@ -19,6 +19,13 @@
       "date_disp": "2002",
       "precision": "exact",
       "details": "Real World Technology Solutions Pty Ltd active from July 2002."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=74101234664",
+      "label": "ABR: REAL WORLD TECHNOLOGY SOLUTIONS PTY LTD (trading as HyperConnect Internet) ACN 101 234 664"
     }
   ]
 }

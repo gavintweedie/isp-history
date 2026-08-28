@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "active",
   "website": "https://www.ibc.com.au",
-  "summary": "Perth web development/hosting firm founded 1994; still trading as IBC Digital.",
+  "summary": "Perth web development/hosting firm founded 1994; still trading as IBC Digital (IBC DIGITAL PTY LTD, ACN 691 036 450).",
   "names": [
     {
       "name": "Internet Business Centre",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20020126221831/http://www.ibc.com.au/",
       "label": "IBC (Wayback 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=40691036450",
+      "label": "ABR: IBC DIGITAL PTY LTD ACN 691 036 450"
     }
   ]
 }

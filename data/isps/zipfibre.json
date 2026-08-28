@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://www.zipfibre.com.au",
-  "summary": "National NBN reseller (cheap plans, no lock-in); still active.",
+  "summary": "National NBN reseller (cheap plans, no lock-in); still active (ZIPFIBRE PTY LTD, ACN 691 644 952).",
   "names": [
     {
       "name": "ZipFibre",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2015",
       "precision": "approx",
       "details": "NBN plans."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=66691644952",
+      "label": "ABR: ZIPFIBRE PTY LTD ACN 691 644 952"
     }
   ]
 }

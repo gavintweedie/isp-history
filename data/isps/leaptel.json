@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://leaptel.com.au",
-  "summary": "Melbourne NBN/business ISP founded 2015; known for high-speed NBN plans.",
+  "summary": "Melbourne NBN/business ISP founded 2015; known for high-speed NBN plans (LEAP TELECOMMUNICATIONS PTY LTD, ACN 607 668 566).",
   "names": [
     {
       "name": "Leaptel",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20161206055910/http://leaptel.com.au/",
       "label": "Leaptel (Wayback 2016)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=51607668566",
+      "label": "ABR: LEAP TELECOMMUNICATIONS PTY LTD ACN 607 668 566"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Mudgee, NSW",
   "status": "active",
   "website": "https://www.hwy.com.au",
-  "summary": "Regional dialup/broadband ISP formed July 1997 by Garry Byrne (first POP Mudgee as 'Mudgee LiSP', then Dubbo, Coonabarabran, Gilgandra, Sydney; LiSP Group member); still active.",
+  "summary": "Regional dialup/broadband ISP formed July 1997 by Garry Byrne (first POP Mudgee as 'Mudgee LiSP', then Dubbo, Coonabarabran, Gilgandra, Sydney; LiSP Group member); still active (HIGHWAY INTERNET SERVICES PTY LIMITED, ACN 088 130 269).",
   "names": [
     {
       "name": "Highway Internet Services",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010416235103/http://members.hwy.com.au:80/",
       "label": "Highway Internet (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=14088130269",
+      "label": "ABR: HIGHWAY INTERNET SERVICES PTY LIMITED ACN 088 130 269"
     }
   ]
 }

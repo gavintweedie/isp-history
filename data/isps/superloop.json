@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://www.superloop.com",
-  "summary": "Founded by Bevan Slattery (spun out of Megaport); built an extensive fixed-wireless and fibre network via acquisitions.",
+  "summary": "Founded by Bevan Slattery (spun out of Megaport); built an extensive fixed-wireless and fibre network via acquisitions (SUPERLOOP LIMITED, ACN 169 263 094).",
   "names": [
     {
       "name": "Superloop",
@@ -26,6 +26,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Superloop_(company)",
       "label": "Wikipedia: Superloop"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=96169263094",
+      "label": "ABR: SUPERLOOP LIMITED ACN 169 263 094"
     }
   ]
 }

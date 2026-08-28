@@ -4,7 +4,7 @@
   "birthplace": "Strathpine/Brendale, QLD",
   "status": "active",
   "website": "https://marchnet.com.au",
-  "summary": "Fixed-wireless carrier; business name of March IT Pty Ltd (est. 2012), related to Maret Group; carries Maret's wireless network.",
+  "summary": "Fixed-wireless carrier; business name of March IT Pty Ltd (est. 2012), related to Maret Group; carries Maret's wireless network (March IT Pty Ltd, ACN 156 285 728).",
   "names": [
     {
       "name": "MarchNet",
@@ -19,6 +19,13 @@
       "date_disp": "2012",
       "precision": "exact",
       "details": "March IT Pty Ltd (MarchNet business name from 2018)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=12156285728",
+      "label": "ABR: March IT Pty Ltd ACN 156 285 728"
     }
   ]
 }

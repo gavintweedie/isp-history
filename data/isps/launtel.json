@@ -4,7 +4,7 @@
   "birthplace": "Launceston, TAS",
   "status": "active",
   "website": "https://www.launtel.net.au",
-  "summary": "Tasmanian ISP founded in Launceston; known for day-to-day NBN billing.",
+  "summary": "Tasmanian ISP founded in Launceston; known for day-to-day NBN billing (LAUNTEL PTY LTD, ACN 107 572 341).",
   "names": [
     {
       "name": "Launtel",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20130502235853/http://www.launtel.net.au/about-launtel.html",
       "label": "Launtel about (Wayback 2013)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=34107572341",
+      "label": "ABR: LAUNTEL PTY LTD ACN 107 572 341"
     }
   ]
 }

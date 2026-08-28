@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.foxtel.com.au",
-  "summary": "Pay-TV JV (News Corp + Telstra). Operated as an NBN retail ISP (Foxtel Broadband) from 2016.",
+  "summary": "Pay-TV JV (News Corp + Telstra). Operated as an NBN retail ISP (Foxtel Broadband) from 2016 (FOXTEL MANAGEMENT PTY LIMITED, ACN 068 671 938).",
   "names": [
     {
       "name": "Foxtel",
@@ -26,6 +26,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Foxtel",
       "label": "Wikipedia: Foxtel"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=65068671938",
+      "label": "ABR: FOXTEL MANAGEMENT PTY LIMITED ACN 068 671 938"
     }
   ]
 }

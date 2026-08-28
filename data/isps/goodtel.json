@@ -4,7 +4,7 @@
   "birthplace": "Cremorne (Melbourne), VIC",
   "status": "active",
   "website": "https://www.goodtel.com.au/",
-  "summary": "Ethical NBN + mobile provider (Goodtel Australia, ~2020; 50% profits to charities, B Corp); still active.",
+  "summary": "Ethical NBN + mobile provider (Goodtel Australia, ~2020; 50% profits to charities, B Corp, ACN 634 405 333); still active.",
   "names": [
     {
       "name": "GoodTel",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2020",
       "precision": "approx",
       "details": "NBN + mobile (ethical)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=51634405333",
+      "label": "ABR: GOODTEL COMMUNICATIONS PTY LTD ACN 634 405 333"
     }
   ]
 }

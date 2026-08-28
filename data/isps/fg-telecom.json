@@ -4,7 +4,7 @@
   "birthplace": "Port Melbourne, VIC",
   "status": "active",
   "website": "https://fgtelecom.com.au",
-  "summary": "SME fibre internet/telecom provider, founded 2014.",
+  "summary": "SME fibre internet/telecom provider, founded 2014 (DGTEK PTY LTD., ACN 600 896 115).",
   "names": [
     {
       "name": "FG Telecom",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20190308213348/https://fgtelecom.com.au/who-we-are/",
       "label": "FG Telecom (Wayback 2019)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=61600896115",
+      "label": "ABR: DGTEK PTY LTD. ACN 600 896 115"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Albury-Wodonga, NSW",
   "status": "active",
   "website": "https://www.albury.net.au",
-  "summary": "Regional NSW/VIC border ISP, serving Albury-Wodonga since 1995; still active and independent.",
+  "summary": "Regional NSW/VIC border ISP, serving Albury-Wodonga since 1995; still active and independent (ALBURY LOCAL INTERNET PTY LTD, ACN 069 269 432).",
   "names": [
     {
       "name": "Albury Local Internet",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961222095658/http://albury.net.au/",
       "label": "Albury Local Internet (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=12069269432",
+      "label": "ABR: ALBURY LOCAL INTERNET PTY LTD ACN 069 269 432"
     }
   ]
 }

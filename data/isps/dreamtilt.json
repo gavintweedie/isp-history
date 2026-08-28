@@ -4,7 +4,7 @@
   "birthplace": "Gladstone, QLD",
   "status": "active",
   "website": "https://www.dreamtilt.com.au",
-  "summary": "Gladstone wireless/NBN ISP, founded 1999.",
+  "summary": "Gladstone wireless/NBN ISP, founded 1999 (DREAMTILT PTY LTD, ACN 089 188 876).",
   "names": [
     {
       "name": "Dreamtilt",
@@ -26,6 +26,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Dreamtilt",
       "label": "Wikipedia: Dreamtilt"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=65089188876",
+      "label": "ABR: DREAMTILT PTY LTD ACN 089 188 876"
     }
   ]
 }

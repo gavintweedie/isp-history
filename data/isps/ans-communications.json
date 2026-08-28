@@ -4,7 +4,7 @@
   "birthplace": "Glebe (Sydney), NSW",
   "status": "active",
   "website": "https://ans.com.au",
-  "summary": "Sydney ISP since 1996; still trading as a web-hosting/domain business.",
+  "summary": "Sydney ISP since 1996; still trading as a web-hosting/domain business (ANS COMMUNICATIONS PTY LTD, ACN 072 793 858).",
   "names": [
     {
       "name": "ANS Communications",
@@ -30,6 +30,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011214024226/http://www.cynosure.com.au/isp/ans",
       "label": "ANS (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=26072793858",
+      "label": "ABR: ANS COMMUNICATIONS PTY LTD ACN 072 793 858"
     }
   ]
 }

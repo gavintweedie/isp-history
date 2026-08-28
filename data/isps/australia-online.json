@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://www.aol.com.au",
-  "summary": "One of Australia's oldest continuously operating ISPs (aol.com.au, not affiliated with America Online).",
+  "summary": "One of Australia's oldest continuously operating ISPs (aol.com.au, not affiliated with America Online) (AUSTRALIA ON LINE PTY. LTD., ACN 064 289 925).",
   "names": [
     {
       "name": "Australia OnLine",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980429004017/http://www.aol.com.au/index2.html",
       "label": "Australia OnLine (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=88064289925",
+      "label": "ABR: AUSTRALIA ON LINE PTY. LTD. ACN 064 289 925"
     }
   ]
 }

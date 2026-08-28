@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.optus.com.au",
-  "summary": "Australia's second-largest telco; consumer internet run as OptusNet (consumer) and Optus@Home (cable broadband).",
+  "summary": "Australia's second-largest telco; consumer internet run as OptusNet (consumer) and Optus@Home (cable broadband) (SINGTEL OPTUS PTY LIMITED, ACN 052 833 208).",
   "names": [
     {
       "name": "Optus",
@@ -33,6 +33,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Optus",
       "label": "Wikipedia: Optus"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=90052833208",
+      "label": "ABR: SINGTEL OPTUS PTY LIMITED ACN 052 833 208"
     }
   ]
 }

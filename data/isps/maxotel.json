@@ -4,7 +4,7 @@
   "birthplace": "Toowoomba, QLD",
   "status": "active",
   "website": "https://www.maxo.com.au",
-  "summary": "Business VoIP/hosted PBX provider (VoIP since 2007); acquired Vonex in 2025, outbidding Swoop.",
+  "summary": "Business VoIP/hosted PBX provider (VoIP since 2007); acquired Vonex in 2025, outbidding Swoop (MAXO TELECOMMUNICATIONS PTY. LTD., ACN 129 852 526).",
   "names": [
     {
       "name": "MaxoTel",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20091030041242/http://www.maxotel.com.au/",
       "label": "MaxoTel (Wayback 2009)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=92129852526",
+      "label": "ABR: MAXO TELECOMMUNICATIONS PTY. LTD. ACN 129 852 526"
     }
   ]
 }

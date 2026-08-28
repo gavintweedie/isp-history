@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "active",
   "website": "https://www.bekkers.com.au",
-  "summary": "Perth IT/ISP since c.1995; pivoted to managed IT services, still trading.",
+  "summary": "Perth IT/ISP since c.1995; pivoted to managed IT services, still trading (WESTWAY NOMINEES PTY LTD, ACN 052 073 248).",
   "names": [
     {
       "name": "Bekkers IT",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970222214545/http://www.bekkers.com.au/",
       "label": "Bekkers (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=50052073248",
+      "label": "ABR: WESTWAY NOMINEES PTY LTD ACN 052 073 248"
     }
   ]
 }

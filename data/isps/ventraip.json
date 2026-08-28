@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://www.ventraip.com.au",
-  "summary": "Melbourne web-hosting and domain registrar; absorbed ACAY's web brand by 2012.",
+  "summary": "Melbourne web-hosting and domain registrar; absorbed ACAY's web brand by 2012 (NEXIGEN DIGITAL PTY LTD, ACN 137 543 018).",
   "names": [
     {
       "name": "VentraIP",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2004",
       "precision": "approx",
       "details": "Founded as a hosting/domain business."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=91137543018",
+      "label": "ABR: NEXIGEN DIGITAL PTY LTD ACN 137 543 018"
     }
   ]
 }

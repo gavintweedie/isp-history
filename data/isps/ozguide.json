@@ -4,7 +4,7 @@
   "birthplace": "East Brighton (Melbourne), VIC",
   "status": "active",
   "website": "http://www.ozguide.com/",
-  "summary": "National dialup + hosting + design/training ISP (POPs via connect.com.au); domain still live.",
+  "summary": "National dialup + hosting + design/training ISP (POPs via connect.com.au); domain still live (OZGUIDE PTY LTD - CANCELLED ABN (cancelled 30 Jun 2018, ACN still registered), ACN 120 506 194).",
   "names": [
     {
       "name": "OzGuide",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030202000000/http://www.cynosure.com.au/isp/ozguide",
       "label": "OzGuide (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=75120506194",
+      "label": "ABR: OZGUIDE PTY LTD - CANCELLED ABN (cancelled 30 Jun 2018, ACN still registered) ACN 120 506 194"
     }
   ]
 }

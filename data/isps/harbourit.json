@@ -4,7 +4,7 @@
   "birthplace": "Western Australia",
   "status": "active",
   "website": "https://www.harbourit.com.au",
-  "summary": "WA IT/telecom services company (harbourit.com.au from Jul 2001); still active as a managed-IT provider; also ran satellite ISP HarbourSAT.",
+  "summary": "WA IT/telecom services company (harbourit.com.au from Jul 2001, ACN 096 093 453); still active as a managed-IT provider; also ran satellite ISP HarbourSAT.",
   "names": [
     {
       "name": "HarbourIT",
@@ -19,6 +19,13 @@
       "date_disp": "by Jul 2001",
       "precision": "by",
       "details": "WA IT/telecom services."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=28096093453",
+      "label": "ABR: HARBOUR IT PTY LIMITED ACN 096 093 453"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "active",
   "website": "http://miniport.com.au",
-  "summary": "Perth ISP offering NBN and business connectivity.",
+  "summary": "Perth ISP offering NBN and business connectivity (MINIPORT PTY LTD, ACN 610 865 971).",
   "aliases": [],
   "names": [
     {
@@ -29,5 +29,11 @@
       ]
     }
   ],
-  "refs": []
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=45610865971",
+      "label": "ABR: MINIPORT PTY LTD ACN 610 865 971"
+    }
+  ]
 }

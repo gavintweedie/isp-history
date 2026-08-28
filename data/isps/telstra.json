@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://www.telstra.com.au",
-  "summary": "Australia's largest telco. Consumer internet was run under the BigPond brand from 1997 until ~2015.",
+  "summary": "Australia's largest telco. Consumer internet was run under the BigPond brand from 1997 until ~2015 (TELSTRA CORPORATION LIMITED, ACN 051 775 556).",
   "names": [
     {
       "name": "Telstra",
@@ -26,6 +26,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Telstra",
       "label": "Wikipedia: Telstra"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=33051775556",
+      "label": "ABR: TELSTRA CORPORATION LIMITED ACN 051 775 556"
     }
   ]
 }

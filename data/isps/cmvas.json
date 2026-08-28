@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "active",
   "website": "https://elevateinternet.com.au",
-  "summary": "CM Value Added Services (CMvas Pty Ltd, incorporated 28 May 2024); acquired Uniti Wireless retail brand, fixed-wireless assets and yless4u in 2024; launched Elevate Internet (its retail brand site). NOTE: cmvas.co.za is an unrelated South African firm.",
+  "summary": "CM Value Added Services (CMvas Pty Ltd, incorporated 28 May 2024, ACN 673 140 737); acquired Uniti Wireless retail brand, fixed-wireless assets and yless4u in 2024; launched Elevate Internet (its retail brand site). NOTE: cmvas.co.za is an unrelated South African firm.",
   "names": [
     {
       "name": "CM Value Added Services",
@@ -19,6 +19,13 @@
       "date_disp": "2024",
       "precision": "exact",
       "details": "CM VALUE ADDED SERVICES PTY LTD incorporated 28 May 2024 (Adelaide)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=39673140737",
+      "label": "ABR: CM VALUE ADDED SERVICES PTY LTD ACN 673 140 737"
     }
   ]
 }

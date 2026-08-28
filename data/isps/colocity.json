@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "active",
   "website": "https://www.colocity.com",
-  "summary": "Adelaide co-location/data-centre and network services provider; confirmed still operating (no longer focused on retail ISP services).",
+  "summary": "Adelaide co-location/data-centre and network services provider; confirmed still operating (no longer focused on retail ISP services) (COLOCITY PTY LTD, ACN 128 993 608).",
   "names": [
     {
       "name": "Colocity",
@@ -19,6 +19,13 @@
       "date_disp": "2007",
       "precision": "exact",
       "details": "Design and planning began 2005; data centre operations launched 2007."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=14128993608",
+      "label": "ABR: COLOCITY PTY LTD ACN 128 993 608"
     }
   ]
 }

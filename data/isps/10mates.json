@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "active",
   "website": "https://10mates.com.au/",
-  "summary": "Budget NBN + zero-frills mobile SIM provider (Infrared Group Pty Ltd); still active.",
+  "summary": "Budget NBN + zero-frills mobile SIM provider (Infrared Group Pty Ltd, ACN 643 403 365); still active.",
   "names": [
     {
       "name": "10MATES",
@@ -19,6 +19,13 @@
       "date_disp": "c. 2015",
       "precision": "approx",
       "details": "Budget NBN + mobile."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=79643403365",
+      "label": "ABR: INFRARED GROUP PTY LTD ACN 643 403 365"
     }
   ]
 }
