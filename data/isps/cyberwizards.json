@@ -1,0 +1,55 @@
+{
+  "name": "Cyberwizards",
+  "slug": "cyberwizards",
+  "birthplace": "Cairns, QLD",
+  "status": "inactive",
+  "website": "http://cyberwizards.com.au",
+  "summary": "Cairns and Far North Queensland ISP (cyberwizards.com.au, site maintained by Scott Blackman). The Age (13 Mar 2003): 'Cyberwizards services the Cairns and North Queensland market'. Acquired by Chariot Ltd in its March 2003 four-ISP purchase (with Mr Bean, Better.Net and eCITE).",
+  "names": [
+    {
+      "name": "Cyberwizards",
+      "start_year": 1999,
+      "start_disp": "by Nov 1999"
+    }
+  ],
+  "aliases": [
+    "Cyber Wizards",
+    "CYBERWIZARDS"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "by Nov 1999",
+      "precision": "by",
+      "details": "Existing as an ISP by 28 Nov 1999: cyberwizards.com.au captured by the Wayback Machine — a full portal ('©1999 CYBERWIZARDS, published and maintained by Scott Blackman') with FNQ-focused links (Far North Queensland Emergency Service, Crystal Caves Atherton), finance, government and shopping sections. Served the Cairns and Far North Queensland market.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991128234704/http://cyberwizards.com.au/",
+          "label": "Wayback 28 Nov 1999: CYBERWIZARDS portal (Cairns/FNQ)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Mar 2003",
+      "precision": "approx",
+      "details": "Acquired by Chariot Limited among four ISPs announced 12 Mar 2003: 'Cyberwizards services the Cairns and North Queensland market' (The Age/SMH, 12-13 Mar 2003), with Mr Bean (Mackay), Better.Net (Murwillumbah) and eCITE (Adelaide). Part of Chariot's consolidation ahead of its 150,000-customer target.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-buys-four-isps-despite-first-half-loss-20030312-gdgezs.html",
+          "label": "SMH 12 Mar 2003: Chariot buys four ISPs (Cyberwizards, Mr Bean, Better.Net, eCITE)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.theage.com.au/national/chariot-gallops-off-with-four-isp-acquisitions-20030313-gdvda1.html",
+          "label": "The Age 13 Mar 2003: Chariot gallops off with four ISP acquisitions"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

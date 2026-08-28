@@ -26,6 +26,20 @@
       "date_disp": "c. 2004",
       "precision": "approx",
       "details": "Under Chariot netconnect."
+    },
+    {
+      "kind": "note",
+      "year": 2003,
+      "date_disp": "Mar 2003",
+      "precision": "approx",
+      "details": "Named in Chariot's four-ISP acquisition announcement (12 Mar 2003): 'Mr Bean Internet the Mackay market'. Mr Bean's Internet was a Chariot netconnect reseller before being formally acquired (per existing DB summary); ABN matched Chariot Limited.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-buys-four-isps-despite-first-half-loss-20030312-gdgezs.html",
+          "label": "SMH 12 Mar 2003: Mr Bean Internet the Mackay market"
+        }
+      ]
     }
   ],
   "refs": [
@@ -34,5 +48,8 @@
       "url": "https://web.archive.org/web/19981202141735/http://www.mrbean.net.au/",
       "label": "Mr Bean's (Wayback 1998)"
     }
+  ],
+  "aliases": [
+    "Mr Bean Internet"
   ]
 }

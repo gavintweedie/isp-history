@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "chariot.net.au",
-  "summary": "Adelaide ISP; absorbed many SA ISPs (Cobweb, Newave, InterNex, Satlink, Pipeline, Ballarat); TPG took a controlling stake Feb 2007 but the Chariot netconnect brand continued under TPG/SP Telemedia until ~2010.",
+  "summary": "Adelaide ISP; built through acquisition: SA roll-up (OurWorld 1998; Cobweb, Newave, InterNex, Satlink, Pipeline, Box, Ompac, CNN, Universal; Picknowl 2002; Mr Bean, Better.Net, eCITE, Cyberwizards Mar 2003; Blue Pin/Northnet + Squirrel Net Aug 2003; Ledanet + Broadnet 11 May 2004) and a Queensland consolidation into the 'Chariot netconnect' brand (Qld Net, Technet 2000, Mackay Internet, Oznetcom by Mar 2005). FY2003-04 alone: 10 ISP acquisitions, ~32,000 customers. TPG took a controlling stake Feb 2007 but the Chariot netconnect brand continued under TPG/SP Telemedia until ~2010.",
   "names": [
     {
       "name": "Chariot",
@@ -51,5 +51,9 @@
       "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
       "label": "LinkedIn: John Lindsay — General Manager, Chariot (1997-1999)"
     }
+  ],
+  "aliases": [
+    "Chariot Limited",
+    "Chariot netconnect"
   ]
 }

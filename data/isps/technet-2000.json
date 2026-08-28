@@ -1,0 +1,54 @@
+{
+  "name": "Technet 2000",
+  "slug": "technet-2000",
+  "birthplace": "Gold Coast, QLD",
+  "status": "inactive",
+  "website": "http://technet2000.com.au",
+  "summary": "Gold Coast ISP ('You are connected to Technet 2000 - Gold Coast', Jan 1997). By March 2005 technet2000.com.au was a customer mail domain on Chariot's Queensland 'netconnect' portal, i.e. absorbed in Chariot's 2003-04 QLD consolidation (exact acquisition not separately announced in the located press).",
+  "names": [
+    {
+      "name": "Technet 2000",
+      "start_year": 1997,
+      "start_disp": "by Jan 1997"
+    }
+  ],
+  "aliases": [
+    "TechNet 2000"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Jan 1997",
+      "precision": "by",
+      "details": "Existing as an ISP by 3 Jan 1997: technet2000.com.au captured by the Wayback Machine — 'You are connected to Technet 2000 - Gold Coast' with FTP site and support contact.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970103033427/http://technet2000.com.au/",
+          "label": "Wayback 3 Jan 1997: Technet 2000 - Gold Coast"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "by Mar 2005 (under Chariot)",
+      "precision": "by",
+      "details": "BY-DATE: technet2000.com.au appears as a Chariot netconnect customer mail domain in the webmail dropdown of the Chariot Queensland portal captured 25 Mar 2005, alongside qldnet.com.au, better.net.au, mackay.net.au etc. Technet 2000 is not in Chariot's FY2003-04 acquisitions list (2004 Annual Report), so the takeover fell in FY2004-05 (1 Jul 2004 – 30 Jun 2005); it was one of the smaller QLD deals not separately announced in the press. The exact announcement date is not locatable in public sources.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: Chariot netconnect portal webmail dropdown incl. technet2000.com.au"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report: FY2003-04 acquisitions list (Technet 2000 not included — FY2004-05)"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

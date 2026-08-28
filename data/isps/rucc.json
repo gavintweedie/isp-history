@@ -1,0 +1,78 @@
+{
+  "name": "RUCC",
+  "slug": "rucc",
+  "birthplace": "Prahran, VIC",
+  "status": "active",
+  "website": "https://rucc.net.au",
+  "summary": "Business Internet services provider ('The Really Useful Communications Company'), founded 1993 in Prahran, Melbourne; now operating from the NSW North Coast (New Brighton) with VIC and NSW presence. Continuous 30-year operation: dialup-era ISP through to business connectivity, web/mail hosting (webmail Australia/Asia/Europe portals) and Mailguard services.",
+  "names": [
+    {
+      "name": "The Really Useful Communications Company",
+      "start_year": 1993,
+      "start_disp": "1993"
+    },
+    {
+      "name": "RUCC",
+      "start_year": 1996,
+      "start_disp": "by Nov 1996"
+    }
+  ],
+  "aliases": [
+    "The Really Useful Communications Company Pty. Ltd",
+    "RUCC Pty Ltd"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1993,
+      "date_disp": "1993",
+      "precision": "approx",
+      "details": "Founded 1993 (self-published site history); business Internet solutions provider based at Prahran, Melbourne. rucc.net.au captured by the Wayback Machine from 14 Nov 1996, demonstrating a continuous web presence since. Principal: Russell John Green.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://rucc.net.au/",
+          "label": "rucc.net.au About: 'Founded in 1993, RUCC provides a comprehensive range of Internet solutions'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961114072747/http://www.rucc.net.au/",
+          "label": "Wayback 14 Nov 1996: first capture of www.rucc.net.au"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "1997 APNIC-era allocations: RUCC-AU 203.14.165.0/24, RUCC1-AU 203.23.68.0-203.23.69.255, RUCC2-AU 203.28.19.0/24, RUCC3-AU 203.29.240.0-203.29.243.255, RUCC4-AU 203.30.104.0-203.30.107.255 (Prahran VIC), per the 1997 IP Network Index (InterNIC whois extract).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997 (ipindex.net, retropc mirror): RUCC-AU .. RUCC4-AU"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "precision": "by",
+      "details": "Still trading: rucc.net.au live ('Business Internet Services') with webmail portals for Australia/Asia/Europe, Mailguard webmail, and bill-payment; postal address PO Box 98 New Brighton NSW 2483; phone numbers in NSW and VIC."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://rucc.net.au/",
+      "label": "rucc.net.au (live site)"
+    },
+    {
+      "kind": "official",
+      "url": "https://2ip.io/isp/The+Really+Useful+Communications+Company/",
+      "label": "2ip.io ISP listing: The Really Useful Communications Company"
+    }
+  ]
+}

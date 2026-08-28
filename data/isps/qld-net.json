@@ -1,0 +1,75 @@
+{
+  "name": "Qld Net",
+  "slug": "qld-net",
+  "birthplace": "Gold Coast (Ashmore), QLD",
+  "status": "inactive",
+  "website": "http://www.qldnet.com.au",
+  "summary": "Gold Coast dial-up ISP (Qld Net Pty Ltd, Ashmore QLD). Feb 1997 qldnet.com.au portal offered the classic small-ISP service set: free software downloads, a web-page generator, 'AUTOFAX EMAIL', an 8 GB 'CACHE SURF' proxy browser, hosted classifieds, and Gold Coast/Brisbane weather. Two /23-scale 1997 allocations. Absorbed by Chariot Ltd around 2004 in its Queensland consolidation: by Mar 2005 qldnet.com.au was rebranded as Chariot's Queensland 'netconnect' portal, with qldnet.com.au a customer mail domain.",
+  "names": [
+    {
+      "name": "Qld Net",
+      "start_year": 1997,
+      "start_disp": "by Feb 1997"
+    }
+  ],
+  "aliases": [
+    "Qld Net Pty Ltd",
+    "QLD NET Pty. Ltd",
+    "Chariot netconnect (QLD portal brand, from c. 2004)"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Feb 1997",
+      "precision": "by",
+      "details": "Existing as an ISP by 9 Feb 1997: qldnet.com.au captured by the Wayback Machine showing a full customer portal (newspapers, classifieds, game downloads, free software, web-page generator, AUTOFAX EMAIL, 8-gigabyte CACHE SURF, links and weather).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970209192638/http://www.qldnet.com.au/",
+          "label": "Wayback 9 Feb 1997: QLDNET customer portal (ISP services)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "1997 APNIC-era allocations: QLDNET-AU 203.16.60.0-203.16.61.255 and QLDNET1-AU 203.31.164.0-203.31.165.255, registered to Qld Net Pty Ltd, Ashmore QLD, per the 1997 IP Network Index (InterNIC whois extract).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997 (ipindex.net, retropc mirror): QLDNET-AU, QLDNET1-AU"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "by Mar 2005 (acquired by Chariot)",
+      "precision": "by",
+      "details": "Absorbed by Chariot Limited (ASX: CTI) in its Queensland consolidation. Qld Net does NOT appear in Chariot's FY2003-04 acquisitions list (annual report: Blue Pin Internet, Squirrel Net, Pipeline Internet, Penalva, Internex, Speedlink, One Earth, Ledanet, Broadnet, Satlink) — so it was acquired in FY2004-05. By 25 Mar 2005 qldnet.com.au served Chariot's Queensland portal rebranded 'Chariot netconnect' (Chariot Limited ABN 31 088 377 860), announcing the 'integration of recently acquired ISPs in QLD' (Leadanet, Broadnet) and a Gold Coast office relocation (Sep 2004); the webmail dropdown lists the absorbed QLD mail domains (qldnet, technet2000, better.net.au, mackay.net.au, northnet, picknowl, oznetcom, mrbean, ledanet, broad.net.au).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: qldnet.com.au as Chariot netconnect (QLD) portal — absorbed mail domains, integration notice"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report: FY2003-04 acquisitions list (Qld Net not included — FY2004-05)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/national/chariot-buys-two-queensland-isps-20040511-gdiwm4.html",
+          "label": "SMH 11 May 2004: Chariot buys two Queensland ISPs (12 ISPs in 18 months context)"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

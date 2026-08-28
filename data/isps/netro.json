@@ -1,33 +1,67 @@
 {
   "name": "NETRO",
   "slug": "netro",
-  "birthplace": "Sydney, NSW",
+  "birthplace": "North Ryde, NSW",
   "status": "active",
   "website": "http://www.netro.com.au",
-  "summary": "Sydney ISP and web hosting provider.",
-  "aliases": [],
+  "summary": "Corporate-focused Sydney ISP ('Netro, Your Internet Connection'), the Internet division of RO Computer Services Pty Ltd (systems integrator founded 1991 by Raymond Overdijk). Established Nov 1994, live May 1995 from North Ryde with dialup and dedicated ISDN/modem services; upstream via UUNet and CWIX. Still trading: NBN, Metro Ethernet, web hosting and colocation.",
   "names": [
     {
       "name": "NETRO",
       "start_year": 1994,
-      "start_disp": "1994"
+      "start_disp": "Nov 1994"
     }
+  ],
+  "aliases": [
+    "Netro, Your Internet Connection"
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1994,
-      "date_disp": "1994",
-      "precision": "exact",
-      "details": "NETRO offering internet and hosting since 1994.",
+      "date_disp": "Nov 1994",
+      "precision": "approx",
+      "details": "Netro established November 1994 as the Internet division of RO Computer Services Pty Ltd (founded 1991 by Managing Director Raymond Overdijk); went live May 1995 in North Ryde providing dialup and dedicated ISDN/modem connectivity after analysis of the US and Canadian Internet markets. Self-published company profile (c. 1998).",
       "refs": [
         {
           "kind": "official",
-          "url": "http://www.netro.com.au",
-          "label": "NETRO"
+          "url": "http://www.netro.com.au/services/profile/page.htm",
+          "label": "Netro company profile (c. 1998): background, services, infrastructure"
         }
       ]
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "1997 APNIC-era allocations: NETRO-AU 203.18.16.0-203.18.17.255 and NETRO1-AU 203.33.80.0-203.33.95.255 (North Ryde NSW), per the 1997 IP Network Index (InterNIC whois extract).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997 (ipindex.net, retropc mirror): NETRO-AU, NETRO1-AU"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "precision": "by",
+      "details": "Still trading as a business ISP: netro.com.au offers NBN, Metro Ethernet, cloud/VM and web hosting; site maintained (support pages updated Feb 2022). Customers cited in the 1990s included Adelaide Steamship, Fishtech & Partners, Microsoft Services, Sydney Express, St Augustine College, IT Direct."
     }
   ],
-  "refs": []
+  "refs": [
+    {
+      "kind": "official",
+      "url": "http://www.netro.com.au/",
+      "label": "Netro: Your Internet Connection (live site)"
+    },
+    {
+      "kind": "archive",
+      "url": "http://webmail.netro.com.au/",
+      "label": "Netro webmail portal (live)"
+    }
+  ]
 }
