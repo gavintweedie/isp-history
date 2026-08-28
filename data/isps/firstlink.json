@@ -4,13 +4,24 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://firstlink.com.au",
-  "summary": "Sydney dialup + hosting + game zone ISP (First Link Communications Pty Ltd, George St, by 1997); defunct.",
+  "summary": "Sydney dialup + hosting + game zone ISP (First Link Communications Pty Ltd, George St, by 1997); the same trading name also registered 1997 as First Link Internet Services Pty Ltd (PO Box 4753, North Rocks NSW). By Jun 2003 the site served a Chinese-language (Big5) ISP at Haymarket/Chinatown ('第一網絡') self-described 'Founded in 1996'. Defunct c. 2003. NOTE: this is a DIFFERENT legal entity from the current 'First Link' business ISP on the same domain — that is First Link Pty Ltd (ex-Join Internet Corporation Pty Ltd, ACN 079 681 164), which adopted the name/domain from 2010 (see isps-draft/first-link-pty-ltd.json).",
   "names": [
     {
       "name": "Firstlink",
       "start_year": 1997,
       "start_disp": "by 1997"
+    },
+    {
+      "name": "第一網絡 (First Link, Chinese-language Haymarket ISP)",
+      "start_year": 2003,
+      "start_disp": "by Jun 2003",
+      "end_year": 2003,
+      "end_disp": "c. 2003"
     }
+  ],
+  "aliases": [
+    "First Link Internet Services Pty Ltd",
+    "First Link Communications Pty Ltd"
   ],
   "events": [
     {
@@ -18,14 +29,44 @@
       "year": 1997,
       "date_disp": "by 1997",
       "precision": "by",
-      "details": "Dialup, hosting."
+      "details": "Registered in the 1997 IP Network Index as First Link Internet Services Pty Ltd, PO Box 4753, North Rocks NSW (FIRSTLINK-AU, FIRSTLINKINTERN-AU, FLINKISERVCS-AU, FLISERVICES-AU). The Jan 1998 firstlink.com.au capture is titled First Link Communications Pty Ltd; the existing DB profile records a George St, Sydney dialup/hosting/game-zone ISP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: FIRSTLINK-AU / FIRSTLINKINTERN-AU / FLINKISERVCS-AU / FLISERVICES-AU (North Rocks NSW)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980114192721/http://www.firstlink.com.au/",
+          "label": "Wayback 14 Jan 1998: firstlink.com.au - First Link Communications Pty Ltd"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct as an ISP c. 2003 (existing DB profile). By Jun 2005 the domain showed a generic registrar frames page and by May 2008 it was parked. The domain was later taken up by the current First Link business (First Link Pty Ltd, ex-Join Internet Corporation, ACN 079 681 164 — a VIC company), which is modelled separately as isps-draft/first-link-pty-ltd.json.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030627173052/http://www.firstlink.com.au/AboutUs.htm",
+          "label": "Wayback 27 Jun 2003: Chinese-language (Big5) Haymarket ISP on firstlink.com.au"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080526160913/http://www.firstlink.com.au/",
+          "label": "Wayback 26 May 2008: firstlink.com.au parked"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=98079681164",
+          "label": "ABR: ACN 079 681 164 history (Join Internet Corporation Pty Ltd -> First Link Pty Ltd 2010)"
+        }
+      ]
     }
-  ]
+  ],
+  "refs": []
 }

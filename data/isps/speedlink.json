@@ -35,7 +35,14 @@
       "year": 2026,
       "date_disp": "by Aug 2026",
       "precision": "by",
-      "details": "Defunct; speedlink.com.au no longer resolves (checked Aug 2026)."
+      "details": "Defunct; speedlink.com.au no longer resolves (checked Aug 2026). Acquired by Chariot Limited in FY2003-04 (2004 Annual Report: 'Speedlink Internet (Wollongong, New South Wales)').",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report: FY2003-04 acquisitions"
+        }
+      ]
     }
   ],
   "refs": [

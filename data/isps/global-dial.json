@@ -4,28 +4,74 @@
   "birthplace": "Claremont, Perth, WA",
   "status": "inactive",
   "website": "https://globaldial.com.au",
-  "summary": "Perth ISP (satellite/telephony, 1998); acquired by Highway 1 in 2010 (per user report).",
+  "summary": "Perth ISP and telecommunications carrier (Global Dial Pty Ltd). Founded Sep 1994 by Patrick Ng; operated under the trading/portal names 'Global Dial Internet' and 'The Global Dial Internet Team' (globalweb.com.au member portal). Top-rated ISP in the Internet.AU survey (Mar 1998); first WA ISP with satellite (1999); carrier licence + telephony (2000); WA State Government ISP panel (1998). Earlier 1997 APNIC-era allocations GLOBALWEB-AU / GLOBWEB-AU (Nedlands WA). Acquired by ZettaNet Pty Ltd (trading as Highway 1) 1 Jun 2010.",
   "names": [
     {
       "name": "Global Dial",
+      "start_year": 1994,
+      "start_disp": "Sep 1994"
+    },
+    {
+      "name": "Global Dial Internet",
       "start_year": 1998,
-      "start_disp": "by 1998"
+      "start_disp": "by 1998",
+      "end_year": 2010,
+      "end_disp": "2010"
     }
   ],
   "events": [
     {
       "kind": "birth",
+      "year": 1994,
+      "date_disp": "Sep 1994",
+      "precision": "approx",
+      "details": "Founded Sep 1994 by Patrick Ng (Business News WA company profile). 1997 APNIC-era allocations: GLOBALWEB-AU 203.22.25.0/24, GLOBALWEB1-AU 203.24.54.0/24, GLOBALWEB2-AU 203.38.70.0-71.255, GLOBWEB-AU 203.38.15.128/25 (Global Web Pty Ltd, Nedlands WA) per the 1997 IP Network Index.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Global Dial - Established Sep 1994"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: GLOBALWEB-AU / GLOBWEB-AU (Nedlands WA)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
       "year": 1998,
-      "date_disp": "by 1998",
+      "date_disp": "Mar 1998",
       "precision": "by",
-      "details": "Top-rated ISP (Internet.AU survey Mar 1998); satellite from 1999."
+      "details": "Top-rated ISP in the Internet.AU independent survey (Mar 1998 edition); included on the WA State Government ISP panel for all four categories (dial-up, email, consultancy, web design). First WA ISP to offer satellite connections (1999); registered carrier licence with residential/corporate telephony (2000), expanding to Sydney and Melbourne. Operated the 'Global Dial Internet Team' customer portal at globalweb.com.au (contact page: 13 30 13, 278 Stirling Highway, Claremont WA).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040616060628/http://www.globaldial.com.au/aboutus/history.html",
+          "label": "Global Dial history (Wayback 2004)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010423202357/http://www.globalweb.com.au/pages/about/contact.html",
+          "label": "Wayback 23 Apr 2001: globalweb.com.au - The Global Dial Internet Team (Claremont WA)"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2010,
-      "date_disp": "2010",
+      "date_disp": "01 Jun 2010",
       "precision": "exact",
-      "details": "Acquired by Highway 1 (user report)."
+      "details": "Acquired by ZettaNet Pty Ltd (trading as Highway 1) on 01 Jun 2010; merged into Highway 1/ZettaNet, later Zettagrid (2024).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/Company/Global-Dial",
+          "label": "Business News: Global Dial - acquired by ZettaNet 2010",
+          "year": 2010
+        }
+      ]
     }
   ],
   "refs": [
@@ -34,5 +80,12 @@
       "url": "https://web.archive.org/web/20040616060628/http://www.globaldial.com.au/aboutus/history.html",
       "label": "Global Dial history (Wayback 2004)"
     }
+  ],
+  "aliases": [
+    "Global Dial Pty Ltd",
+    "Global Dial Internet",
+    "The Global Dial Internet Team",
+    "Global Web",
+    "Global Web Pty Ltd"
   ]
 }

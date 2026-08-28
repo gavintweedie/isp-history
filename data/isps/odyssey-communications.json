@@ -1,0 +1,74 @@
+{
+  "name": "ODYSSEY Communications",
+  "slug": "odyssey-communications",
+  "birthplace": "Fortitude Valley, QLD",
+  "status": "inactive",
+  "website": "http://www.odyssey.com.au",
+  "summary": "Brisbane ISP (ODYSSEY Communications, Fortitude Valley QLD; trading as Odyssey World Pty Ltd). One contiguous /22 in the 1997 IP Network Index (ODYSSEY-AU 203.11.104.0-203.11.107.255). odyssey.com.au captured from 6 Jun 1997; by 2000 the site was branded 'Welcome to Odyssey World' and advertised dial-up points of presence in Sydney and Brisbane. ISP-era captures end 2001; the domain had become a WordPress site by 2016.",
+  "names": [
+    {
+      "name": "ODYSSEY Communications",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "Odyssey World Pty Ltd",
+    "Odyssey World"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 6 Jun 1997",
+      "precision": "by",
+      "details": "Existing by 1997: allocated the contiguous /22 ODYSSEY-AU 203.11.104.0-203.11.107.255 (Fortitude Valley QLD) in the 1997 IP Network Index; odyssey.com.au captured by the Wayback Machine from 6 Jun 1997 (HTTP 200).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: ODYSSEY-AU 203.11.104.0-203.11.107.255"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970606132349/http://www.odyssey.com.au/",
+          "label": "Wayback 6 Jun 1997: odyssey.com.au (HTTP 200)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "by 15 Jan 2000",
+      "precision": "by",
+      "details": "odyssey.com.au served 'Welcome to Odyssey World' (15 Jan 2000 capture), operated by Odyssey World Pty Ltd, advertising dial-up points of presence in Sydney and Brisbane.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000115060824/http://www.odyssey.com.au/",
+          "label": "Wayback 15 Jan 2000: 'Welcome to Odyssey World' (Sydney & Brisbane dialup POPs)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Last ISP-era capture of odyssey.com.au is a 404 page from 5 Jan 2001; no captures 2001-2015; by 2016-17 the domain served a WordPress site. ISP operations ceased some time between 2001 and 2016; exact closure/acquirer not located.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010105100700/http://www.odyssey.com.au/404.html",
+          "label": "Wayback 5 Jan 2001: last ISP-era capture (404 page)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20160302102251/http://www.odyssey.com.au/",
+          "label": "Wayback 2 Mar 2016: odyssey.com.au as a WordPress site"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

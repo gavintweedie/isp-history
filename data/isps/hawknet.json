@@ -1,0 +1,79 @@
+{
+  "name": "Hawknet",
+  "slug": "hawknet",
+  "birthplace": "North Richmond, NSW",
+  "status": "inactive",
+  "website": "http://www.hawknet.com.au",
+  "summary": "Small regional ISP in North Richmond (Hawkesbury), NSW. Held a full /21 in the 1997 IP Network Index (HAWKNET-AU 203.33.112.0-203.33.119.255); 1999 site had customer account/usage pages (ColdFusion) and hosted personal user sites; ISP-era hosting continued into early 2006. The domain's farewell page announced that 'Hypermax Internet' would cease internet/email services from 16 Jun 2006, diverting customers to Telstra BigPond. The corporate shell continued as Hawknet Australia Licensing Pty Ltd (ACN 093 338 884; GST cancelled 1 Jan 2020); the domain later hosted a personal blog behind a Cloudflare check.",
+  "names": [
+    {
+      "name": "Hawknet",
+      "start_year": 1997,
+      "start_disp": "by Dec 1997"
+    }
+  ],
+  "aliases": [
+    "Hawknet Internet",
+    "Hypermax Internet"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by Dec 1997",
+      "precision": "by",
+      "details": "Existing by 1997: allocated the contiguous /21 HAWKNET-AU 203.33.112.0-203.33.119.255 (North Richmond NSW) in the 1997 IP Network Index, and hawknet.com.au first captured by the Wayback Machine 21 Dec 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19971221230830/http://hawknet.com.au/",
+          "label": "Wayback 21 Dec 1997: first capture of hawknet.com.au"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997 (ipindex.net, retropc mirror): HAWKNET-AU 203.33.112.0-203.33.119.255"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1999,
+      "date_disp": "May 1999",
+      "precision": "by",
+      "details": "ISP-era operation evidenced by Wayback captures of customer account/usage pages (a-accounts.cfm, a-getusage.cfm, May 1999) and hosted personal user sites (e.g. hawknet.com.au/-jkerr, -ozrepublic) — classic small-ISP hosting pattern. Not to be confused with HawkNet Labs (hawknet-labs, Leichhardt NSW, founded 2024), an unrelated later entity.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990508062740/http://www.hawknet.com.au:80/a-accounts.cfm",
+          "label": "Wayback 8 May 1999: Hawknet customer accounts page (ColdFusion)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "16 Jun 2006 (services ceased)",
+      "precision": "by",
+      "details": "hawknet.com.au carried an ISP farewell page announcing 'From Friday 16th June 2006 Hypermax will no longer provide your internet access and email services' and diverting customers to Telstra BigPond — the end of ISP service delivery on the domain. ISP-era hosting is evidenced up to early 2006 (customer user pages captured Jan-May 2006: ~afx, ~altitude, ~dsimon, ~gin, ~henriw, ~hrmoller). The corporate shell continued as Hawknet Australia Licensing Pty Ltd (ACN 093 338 884, Hawkesbury NSW; ABN active from 16 Jun 2000; GST cancelled 1 Jan 2020) — a licensing entity, not the ISP operator. NOTE: the exact Hawknet-to-Hypermax brand relationship is not fully documented; the farewell page is the operative closure evidence.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080301000000/http://www.hawknet.com.au/",
+          "label": "Wayback 2008: hawknet.com.au farewell page - Hypermax Internet ceases 16 Jun 2006, diverting to BigPond"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060513052943/http://www.hawknet.com.au/~hrmoller/burmilla.html",
+          "label": "Wayback 13 May 2006: hawknet.com.au customer user page (ISP-era hosting)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=71093338884",
+          "label": "ABR: Hawknet Australia Licensing Pty Ltd (ACN 093 338 884; ABN active 16 Jun 2000; GST cancelled 1 Jan 2020)"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

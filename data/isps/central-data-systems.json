@@ -1,0 +1,56 @@
+{
+  "name": "Central Data Systems",
+  "slug": "central-data-systems",
+  "birthplace": "West Perth, WA",
+  "status": "inactive",
+  "website": "https://www.central-data.net",
+  "summary": "West Perth ISP and data centre operator (Central Data Systems Pty Ltd, founded 1983); built ISP/data centre infrastructure 1995; early IP block registered as SATIX (1997); AS18065; WAIX participant as 'Central Data' (2007); pivoted to cloud computing/IT consultancy.",
+  "aliases": [
+    "Satix",
+    "Central Data",
+    "CDS",
+    "Central Data System Pty Ltd"
+  ],
+  "names": [
+    {
+      "name": "Satix",
+      "start_year": 1995,
+      "start_disp": "1995",
+      "end_year": 2007,
+      "end_disp": "c. 2007"
+    },
+    {
+      "name": "Central Data Systems",
+      "start_year": 2007,
+      "start_disp": "c. 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1995,
+      "date_disp": "1995",
+      "precision": "approx",
+      "details": "Company founded 1983 as IT consultancy; built ISP/data centre infrastructure 1995; IP block 203.132.96.0-127 registered as SATIX (1997 APNIC); AS18065 (CENTRAL-AS-AP) registered to Central Data System Pty Ltd; 88 Havelock St, West Perth WA 6005."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "c. 2010",
+      "precision": "approx",
+      "details": "ISP services wound down; company continues as cloud computing and IT consultancy (QV.1 data centre, GoPC.net cloud platform)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://central-data.net/index.html@p=72.html",
+      "label": "Central Data Systems: About Us"
+    },
+    {
+      "kind": "news",
+      "url": "https://ipinfo.io/AS18065",
+      "label": "IPinfo: AS18065 Central Data System Pty Ltd"
+    }
+  ]
+}

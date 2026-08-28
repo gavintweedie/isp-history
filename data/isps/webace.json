@@ -1,0 +1,45 @@
+{
+  "name": "Web Ace",
+  "slug": "webace",
+  "birthplace": "Perth (Willetton), WA",
+  "status": "inactive",
+  "website": "http://www.webace.com.au",
+  "summary": "Perth metro dial-up, ADSL, VOIP and web hosting ISP (PO Box 136, Willetton WA 6155); active from at least 2000 through 2013.",
+  "names": [
+    {
+      "name": "Web Ace",
+      "start_year": 2000,
+      "start_disp": "by Mar 2000",
+      "end_year": 2013,
+      "end_disp": "c. 2013"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by Mar 2000",
+      "precision": "by",
+      "details": "Earliest Wayback capture Mar 2000; dial-up access for the Perth metro area and web hosting; phone 08 9332 0011."
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "c. 2013",
+      "precision": "approx",
+      "details": "Last live Wayback capture May 2013; domain started redirecting (HTTP 301) from Jan 2014."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000302071002/http://webace.com.au/",
+      "label": "Web Ace (Wayback Mar 2000)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20130522161148/http://webace.com.au/",
+      "label": "Web Ace (Wayback May 2013)"
+    }
+  ]
+}

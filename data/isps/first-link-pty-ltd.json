@@ -1,0 +1,89 @@
+{
+  "name": "First Link",
+  "slug": "first-link-pty-ltd",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.firstlink.com.au",
+  "summary": "Melbourne business-ICT provider ('First Link Pty Ltd', ACN 079 681 164; VIC 3072 then 3124). Legally Join Internet Corporation Pty Ltd from 1997/2000, renamed First Link Pty Ltd in Feb 2010 and trading on firstlink.com.au as a business-only internet/data-transport provider (managed private WAN over DSL from early 2002, national VPN/WAN today). Self-published 'Established in 1996' is a brand claim adopted with the First Link name/domain — the corporate record (Join Internet Corporation) starts 1997-2000. This is a DIFFERENT entity from the defunct NSW 'First Link Communications/Internet Services' ISP that originally owned the domain (isps-draft/firstlink.json).",
+  "names": [
+    {
+      "name": "Join Internet Corporation Pty Ltd",
+      "start_year": 2000,
+      "start_disp": "by Mar 2000 (ABN)",
+      "end_year": 2010,
+      "end_disp": "Feb 2010"
+    },
+    {
+      "name": "First Link Pty Ltd",
+      "start_year": 2010,
+      "start_disp": "Feb 2010"
+    }
+  ],
+  "aliases": [
+    "First Link",
+    "Join Internet"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "by Mar 2000",
+      "precision": "by",
+      "details": "ABN 98 079 681 164 active from 28 Mar 2000 under the name Join Internet Corporation Pty Ltd. The underlying company (ACN 079 681 164) was registered 11 Aug 1997, but its pre-2000 registered name is not shown in the ABR extract, so the entity's earliest verifiable trading identity under this record is 'Join Internet Corporation' from Mar 2000. The business traded under that name until renamed First Link Pty Ltd in Feb 2010.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=98079681164",
+          "label": "ABR: ACN 079 681 164 (Join Internet Corporation Pty Ltd -> First Link Pty Ltd, 2010; reg. 11 Aug 1997)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2002,
+      "date_disp": "early 2002",
+      "precision": "approx",
+      "details": "Managed private WAN IP networks over DSL introduced early 2002 (per current/2010 self-published About page) — the business's core activity under the Join Internet Corporation name.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20101021015612/http://www.firstlink.com.au/about.php",
+          "label": "Wayback 21 Oct 2010: About page (managed WAN over DSL from early 2002)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2010,
+      "date_disp": "Feb 2010",
+      "precision": "exact",
+      "details": "Company renamed First Link Pty Ltd on 8 Feb 2010; the 'First Link' business name was registered 13 Jan 2010 - 24 Jan 2016 (business names register). The firstlink.com.au domain (previously parked from ~2008) was taken up by this entity and served the current business-ISP site from at least Oct 2010.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=98079681164",
+          "label": "ABR name history: First Link Pty Ltd (08 Feb 2010-current); business name 'First Link' (2010-2016)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20101021015612/http://www.firstlink.com.au/about.php",
+          "label": "Wayback 21 Oct 2010: firstlink.com.au live as First Link Pty Ltd"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "precision": "by",
+      "details": "Still trading: firstlink.com.au live, business ICT (data transport, VPN/WAN, 'Green' and support services); ABN active."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://www.firstlink.com.au/",
+      "label": "First Link Pty Ltd (live site)"
+    }
+  ]
+}

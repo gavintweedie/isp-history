@@ -1,0 +1,71 @@
+{
+  "name": "Easy Internet Services",
+  "slug": "easynet",
+  "birthplace": "Southport (Gold Coast), QLD",
+  "status": "active",
+  "website": "http://www.easynet.net.au",
+  "summary": "Queensland ISP. Registered 1997 as Easynet Pty Ltd with two APNIC-era allocations (EASYNET-AU 203.20.92.0-93.255, EASYNETLIMITED-AU 203.35.14.0/24; Southport/Gold Coast). By 1998 easynet.net.au was branded 'Easy Internet Services Pty. Ltd. - Mackay's Fastest growing ISP' (56k/FLEX/v.90). The company (ACN 082 852 104, ABN 68 082 852 104, Mackay QLD 4740) remains on the ABR as active; Managing Director Deon Attard since Oct 1998. Distinct from the global Easynet (UK/pan-European ISP).",
+  "names": [
+    {
+      "name": "Easynet",
+      "start_year": 1997,
+      "start_disp": "by 1997",
+      "end_year": 1998,
+      "end_disp": "by 1998"
+    },
+    {
+      "name": "Easy Internet Services",
+      "start_year": 1998,
+      "start_disp": "by Oct 1998"
+    }
+  ],
+  "aliases": [
+    "Easynet Pty Ltd",
+    "Easy Internet Services Pty Ltd"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Existing by 1997: EASYNET-AU 203.20.92.0-203.20.93.255 and EASYNETLIMITED-AU 203.35.14.0/24, registered to Easynet Pty Ltd, Southport QLD (Gold Coast), per the 1997 IP Network Index.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: EASYNET-AU / EASYNETLIMITED-AU (Southport QLD)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1998,
+      "date_disp": "by 12 Dec 1998",
+      "precision": "by",
+      "details": "easynet.net.au captured from 12 Dec 1998: 'Easy Internet Services Pty. Ltd. - Mackay's Fastest growing ISP' (56kbps, FLEX & v.90, 'guaranteed no engaged phone-lines'). The shared easynet.net.au domain indicates the Southport Easynet operation continued as the Mackay 'Easy Internet Services Pty Ltd' (relocation/rebrand).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981212024549/http://www.easynet.net.au/",
+          "label": "Wayback 12 Dec 1998: easynet.net.au - Easy Internet Services Pty. Ltd., Mackay"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "by Jul 2000",
+      "precision": "by",
+      "details": "ABN 68 082 852 104 (ACN 082 852 104) 'EASY INTERNET SERVICES PTY. LTD.', Mackay QLD 4740 — active since 1 Jul 2000 (name current from 15 Jun 2001). Managing Director Deon Attard per LinkedIn (since Oct 1998).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=68082852104",
+          "label": "ABR: Easy Internet Services Pty. Ltd. (ACN 082 852 104, Mackay 4740, active)"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

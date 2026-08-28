@@ -4,7 +4,7 @@
   "birthplace": "Ballarat, VIC",
   "status": "inactive",
   "website": "https://netconnect.com.au",
-  "summary": "Ballarat ISP; absorbed into Chariot (netconnect.com.au redirected to chariot.net.au by 2010).",
+  "summary": "Ballarat ISP (NetConnect Communications Pty Ltd, ACN 065 871 927, est. 1994). Its principals joined Chariot Limited by FY2003-04 (2004 Annual Report lists NetConnect's former CEO Ian as Chariot's General Manager and founding shareholder Gary at Chariot; Ballarat listed among Chariot's offices). The 'Chariot netconnect' brand used from c. 2004 derives from this NetConnect lineage; netconnect.com.au redirected to chariot.net.au by 2010 (brand's last use).",
   "names": [
     {
       "name": "Ballarat NetConnect",
@@ -23,7 +23,7 @@
         {
           "kind": "official",
           "url": "https://abr.business.gov.au/",
-          "label": "NetConnect Communications ACN 065 871 927 \u2014 1994"
+          "label": "NetConnect Communications ACN 065 871 927 — 1994"
         },
         {
           "kind": "archive",
@@ -34,10 +34,22 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "by 2010",
-      "precision": "by",
-      "details": "Absorbed into Chariot."
+      "year": 2004,
+      "date_disp": "c. 2004 (principals joined Chariot; brand 'Chariot netconnect')",
+      "precision": "approx",
+      "details": "Absorbed into Chariot Limited: NetConnect's former CEO Ian is listed as Chariot General Manager and founding shareholder Gary at Chariot in the FY2003-04 Annual Report (Executive Team), with Ballarat among Chariot's offices. The 'Chariot netconnect' brand (in use by c. 2004-05) derives from this lineage. The domain redirect of netconnect.com.au to chariot.net.au observed by 2010 marks the brand's last use, not the acquisition.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report: NetConnect principals (Ian, Gary) in Chariot Executive Team; Ballarat office"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980201185145/http://www.netconnect.com.au/",
+          "label": "Ballarat NetConnect (Wayback 1 Feb 1998)"
+        }
+      ]
     }
   ],
   "refs": [

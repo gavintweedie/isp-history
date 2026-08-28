@@ -1,0 +1,106 @@
+{
+  "name": "Clarinet",
+  "slug": "clarinet",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
+  "website": "https://www.clari.net.au",
+  "summary": "Small Melbourne ISP founded 1994 (Clarinet Internet Solutions Pty Ltd, Kew/Oakleigh/Lilydale VIC): dialup, connectivity and hosting for business and home customers, later VPS/dedicated servers and Linux/FreeBSD consulting (clari.net.au). Sister telephony arm Clarinet (AUST) / Clarinet Australia (clarinet.com.au) provided VoIP services from the mid-2000s. Still trading as a hosting and internet-solutions provider.",
+  "names": [
+    {
+      "name": "Clarinet",
+      "start_year": 1994,
+      "start_disp": "1994"
+    }
+  ],
+  "aliases": [
+    "Clarinet Internet Solutions",
+    "Clarinet Internet Solutions Pty Ltd",
+    "Clarinet Australia",
+    "Clarinet (AUST)"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "approx",
+      "details": "Founded 1994 (company-profile databases); self-described 'small Internet Service Provider located in Melbourne Australia ... connectivity and hosting services to both business and home customers. With over 15 years of experience in commercial internet provision.' Owner: Daniel O'Callaghan.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.manta.com/ic/mvmy9qq/au/clarinet-internet-solutions-pty-ltd",
+          "label": "Manta: Clarinet Internet Solutions Pty Ltd self-description (small Melbourne ISP)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.clari.net.au/fighting-spam-24",
+          "label": "clari.net.au: 'Clarinet Internet Solutions is a small ISP located in Melbourne Australia' (2011 article)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "1997 APNIC-era allocation: CLARINET-AU 203.57.152.0-203.57.155.255 (contiguous /22), Kew VIC, per the 1997 IP Network Index (InterNIC whois extract).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997 (ipindex.net, retropc mirror): CLARINET-AU"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2006,
+      "date_disp": "by Aug 2006",
+      "precision": "by",
+      "details": "Telephony arm Clarinet (AUST) operating by Aug 2006: clarinet.com.au captured by Wayback with member login and call-rates pages; later a Whirlpool-documented VoIP provider (SIP proxy 202.92.241.34). Press release: 'Clarinet founders were among the pioneers of telephony and broadband ISP in Australia', offices Perth, Sydney and overseas.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060814205505/http://www.clarinet.com.au/",
+          "label": "Wayback 14 Aug 2006: Clarinet Australia site with login/CallRates"
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://whirlpool.net.au/wiki/voip_clarinet",
+          "label": "Whirlpool VoIP wiki: Clarinet Australia"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.abnnewswire.net/press/en/31544/Clarinet-(AUST)-Reduces-Fixed-line-Calls-to-Mobiles.html",
+          "label": "ABN Newswire: Clarinet (AUST) press release (pioneers of telephony and broadband ISP)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2011,
+      "date_disp": "Jul 2011",
+      "precision": "by",
+      "details": "Still operating as an ISP: clari.net.au publishes 'Fighting Spam @ Clarinet' (Jul 2011) describing provider-side mail defences. Business later narrowed to VPS/dedicated servers, Linux/FreeBSD system administration and web/marketing consulting; mail PO Box 1139 Lilydale VIC; owner Daniel O'Callaghan (Datanyze).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.clari.net.au/fighting-spam-24",
+          "label": "clari.net.au: Fighting Spam @ Clarinet (14 Jul 2011)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.datanyze.com/companies/clarinet-internet-solutions/11207743",
+          "label": "Datanyze: Clarinet Internet Solutions (founded 1994, Lilydale VIC)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://www.clari.net.au/",
+      "label": "Clarinet Internet Solutions (live site)"
+    }
+  ]
+}

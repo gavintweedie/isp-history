@@ -456,7 +456,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/200300000000/http://www.planet.com.au/",
-          "label": "planet (2003) \u2014 Wayback"
+          "label": "planet (2003) — Wayback"
         }
       ]
     },
@@ -472,7 +472,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/200300000000/http://www.froggy.com.au/",
-          "label": "froggy (2003) \u2014 Wayback"
+          "label": "froggy (2003) — Wayback"
         }
       ]
     },
@@ -541,7 +541,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/OzEmail",
-          "label": "Wikipedia: OzEmail \u2014 WorldCom 100% owner Feb 1999"
+          "label": "Wikipedia: OzEmail — WorldCom 100% owner Feb 1999"
         }
       ]
     },
@@ -562,7 +562,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/OzEmail",
-          "label": "Wikipedia: OzEmail \u2014 WorldCom 100% owner Feb 1999"
+          "label": "Wikipedia: OzEmail — WorldCom 100% owner Feb 1999"
         }
       ]
     },
@@ -651,7 +651,7 @@
         {
           "kind": "official",
           "url": "https://www.delisted.com.au/company/aapt-limited",
-          "label": "deListed Australia: AAPT Limited (ASX:AAP) \u2014 delisted 9 Nov 2000 (Telecom NZ takeover)"
+          "label": "deListed Australia: AAPT Limited (ASX:AAP) — delisted 9 Nov 2000 (Telecom NZ takeover)"
         }
       ]
     },
@@ -783,7 +783,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/200700000000/http://www.neighbourhood-cable.com.au/",
-          "label": "neighbourhood-cable (2007) \u2014 Wayback"
+          "label": "neighbourhood-cable (2007) — Wayback"
         }
       ]
     },
@@ -1145,7 +1145,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Uniti_Group",
-          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+          "label": "Wikipedia: Summit Internet — documents acquisition/closure"
         }
       ]
     },
@@ -1161,7 +1161,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Uniti_Group",
-          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+          "label": "Wikipedia: Summit Internet — documents acquisition/closure"
         }
       ]
     },
@@ -1364,7 +1364,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/200400000000/http://www.nella-networks.com.au/",
-          "label": "nella-networks (2004) \u2014 Wayback"
+          "label": "nella-networks (2004) — Wayback"
         }
       ]
     },
@@ -1442,7 +1442,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/201100000000/http://www.clever-communications.com.au/",
-          "label": "clever-communications (2011) \u2014 Wayback"
+          "label": "clever-communications (2011) — Wayback"
         }
       ]
     },
@@ -1458,7 +1458,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/201100000000/http://www.accessplus.com.au/",
-          "label": "accessplus (2011) \u2014 Wayback"
+          "label": "accessplus (2011) — Wayback"
         }
       ]
     },
@@ -1474,7 +1474,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/201400000000/http://www.unistar-enterprises.com.au/",
-          "label": "unistar-enterprises (2014) \u2014 Wayback"
+          "label": "unistar-enterprises (2014) — Wayback"
         }
       ]
     },
@@ -1506,7 +1506,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/200600000000/http://www.pacific-internet.com.au/",
-          "label": "pacific-internet (2006) \u2014 Wayback"
+          "label": "pacific-internet (2006) — Wayback"
         }
       ]
     },
@@ -1538,7 +1538,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/201200000000/http://www.allegro-networks.com.au/",
-          "label": "allegro-networks (2012) \u2014 Wayback"
+          "label": "allegro-networks (2012) — Wayback"
         }
       ]
     },
@@ -1554,7 +1554,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/201200000000/http://www.link-innovations.com.au/",
-          "label": "link-innovations (2012) \u2014 Wayback"
+          "label": "link-innovations (2012) — Wayback"
         }
       ]
     },
@@ -1570,7 +1570,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/201300000000/http://www.intelligent-ip.com.au/",
-          "label": "intelligent-ip (2013) \u2014 Wayback"
+          "label": "intelligent-ip (2013) — Wayback"
         }
       ]
     },
@@ -2216,6 +2216,22 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "early 2004",
+      "notes": "Firestar Internet absorbed into Concept Networks (LetsGo); firestar.com.au later redirected to letsgo.com.au (Aug 2006); Firestar was previously a wholesale dialup customer of WiredCity.",
+      "from": "firestar",
+      "to": "concept-networks",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060827024946/http://www.firestar.com.au/",
+          "label": "firestar.com.au redirect to letsgo.com.au (Wayback Aug 2006)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
       "year": 1996,
       "date_disp": "by Nov 1996",
       "notes": "Interworld acquired by Wantree Development.",
@@ -2285,15 +2301,16 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2010,
-      "date_disp": "2010",
-      "notes": "Global Dial acquired by Highway 1 (user report).",
+      "date_disp": "01 Jun 2010",
+      "notes": "Global Dial Pty Ltd (incl. 'Global Dial Internet' trading name) acquired by ZettaNet Pty Ltd (trading as Highway 1) 01 Jun 2010; merged into Highway 1/ZettaNet, later Zettagrid. Merged from duplicate global-dial-internet entry.",
       "from": "global-dial",
       "to": "highway-1",
       "refs": [
         {
           "kind": "news",
           "url": "https://www.businessnews.com.au/Company/Global-Dial",
-          "label": "Business News: Highway 1/ZettaServe acquisitions"
+          "label": "Business News: Global Dial - acquired by ZettaNet 2010",
+          "year": 2010
         }
       ]
     },
@@ -2691,7 +2708,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Webcentral",
-          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+          "label": "Wikipedia: Summit Internet — documents acquisition/closure"
         }
       ]
     },
@@ -3111,7 +3128,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/TPG_(internet_service_provider)",
-          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+          "label": "Wikipedia: Summit Internet — documents acquisition/closure"
         }
       ]
     },
@@ -3250,16 +3267,16 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2010,
-      "date_disp": "by 2010",
-      "notes": "Ballarat NetConnect absorbed into Chariot.",
+      "year": 2004,
+      "date_disp": "c. 2004 (NetConnect principals joined Chariot; brand became Chariot netconnect)",
+      "notes": "NetConnect Communications (Ballarat) principals joined Chariot by FY2003-04 (2004 Annual Report Executive Team lists former NetConnect CEO Ian as Chariot GM; Ballarat among Chariot offices). The 2010 date previously recorded was netconnect.com.au's redirect to chariot.net.au (brand last use), not the acquisition.",
       "from": "ballarat-netconnect",
       "to": "chariot",
       "refs": [
         {
-          "kind": "news",
-          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
-          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report: NetConnect principals in Chariot Executive Team"
         }
       ]
     },
@@ -3621,7 +3638,7 @@
         {
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
-          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+          "label": "Roger Clarke: Brief History of the Internet in Australia — APANA"
         }
       ]
     },
@@ -3637,7 +3654,7 @@
         {
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
-          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+          "label": "Roger Clarke: Brief History of the Internet in Australia — APANA"
         }
       ]
     },
@@ -3653,7 +3670,7 @@
         {
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
-          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+          "label": "Roger Clarke: Brief History of the Internet in Australia — APANA"
         }
       ]
     },
@@ -3669,7 +3686,7 @@
         {
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
-          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+          "label": "Roger Clarke: Brief History of the Internet in Australia — APANA"
         }
       ]
     },
@@ -3685,7 +3702,7 @@
         {
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
-          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+          "label": "Roger Clarke: Brief History of the Internet in Australia — APANA"
         }
       ]
     },
@@ -3701,7 +3718,7 @@
         {
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
-          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+          "label": "Roger Clarke: Brief History of the Internet in Australia — APANA"
         }
       ]
     },
@@ -3717,7 +3734,7 @@
         {
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
-          "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+          "label": "Roger Clarke: Brief History of the Internet in Australia — APANA"
         }
       ]
     },
@@ -3769,7 +3786,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/200500000000/http://www.etsa-telecom.com.au/",
-          "label": "etsa-telecom (2005) \u2014 Wayback"
+          "label": "etsa-telecom (2005) — Wayback"
         }
       ]
     },
@@ -4215,17 +4232,16 @@
     },
     {
       "type": "acquisition",
-      "arm_label": "100%",
-      "year": 2005,
-      "date_disp": "c. 2004-05",
-      "notes": "Broad Net acquired by Chariot netconnect (-> TPG).",
       "from": "broad-net-internet-services",
       "to": "chariot",
+      "year": 2004,
+      "date_disp": "11 May 2004",
+      "notes": "Year corrected from 2005 to 2004 per primary source: Broadnet (Gold Coast) acquired by Chariot with Cairns-based Ledanet, announced 11 May 2004 (AAP/SMH).",
       "refs": [
         {
           "kind": "news",
-          "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
-          "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+          "url": "https://www.smh.com.au/national/chariot-buys-two-queensland-isps-20040511-gdiwm4.html",
+          "label": "SMH 11 May 2004: Chariot buys two Queensland ISPs (Ledanet, Broadnet)"
         }
       ]
     },
@@ -4392,8 +4408,8 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "c. 2000-01",
-      "notes": "Spirit Internet (ACT) acquired by Asia Online (per user report).",
-      "from": "spirit-internet-act",
+      "notes": "Spirit Networks (Canberra) acquired by Asia Online.",
+      "from": "spirit-networks",
       "to": "asia-online",
       "refs": [
         {
@@ -4615,7 +4631,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/200900000000/http://www.unwired.com.au/",
-          "label": "unwired (2009) \u2014 Wayback"
+          "label": "unwired (2009) — Wayback"
         }
       ]
     },
@@ -4657,7 +4673,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Primus_Telecommunications_(Australia)",
-          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+          "label": "Wikipedia: Summit Internet — documents acquisition/closure"
         }
       ]
     },
@@ -4788,7 +4804,7 @@
         {
           "kind": "official",
           "url": "https://www.delisted.com.au/company/opticomm-ltd/",
-          "label": "deListed Australia: OptiComm Ltd (ASX:OPC) \u2014 delisted 23 Nov 2020 (Uniti Group scheme of arrangement)"
+          "label": "deListed Australia: OptiComm Ltd (ASX:OPC) — delisted 23 Nov 2020 (Uniti Group scheme of arrangement)"
         }
       ]
     },
@@ -5018,7 +5034,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Internet_in_Christmas_Island",
-          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+          "label": "Wikipedia: Summit Internet — documents acquisition/closure"
         }
       ]
     },
@@ -5076,23 +5092,6 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2010,
-      "date_disp": "Jun 2010",
-      "notes": "Acquired by ZettaNet Pty Ltd (trading as Highway 1) 01 Jun 2010; merged into Highway 1/ZettaNet, later Zettagrid.",
-      "from": "global-dial-internet",
-      "to": "highway-1",
-      "refs": [
-        {
-          "kind": "official",
-          "url": "https://www.businessnews.com.au/Company/Global-Dial",
-          "label": "Business News: Global Dial \u2014 acquired by ZettaNet 2010",
-          "year": 2010
-        }
-      ]
-    },
-    {
-      "type": "acquisition",
-      "arm_label": "100%",
       "year": 2002,
       "date_disp": "by 2 Aug 2002",
       "from": "netstra",
@@ -5101,7 +5100,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20020802080228/http://www.netstra.com.au/",
-          "label": "Netstra \u2192 Hotkey Internet Services migration notice (Wayback, 2 Aug 2002)"
+          "label": "Netstra → Hotkey Internet Services migration notice (Wayback, 2 Aug 2002)"
         }
       ]
     },
@@ -5169,7 +5168,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Comindico",
-          "label": "Wikipedia: Comindico \u2014 acquired by SP Telemedia 2004"
+          "label": "Wikipedia: Comindico — acquired by SP Telemedia 2004"
         }
       ]
     },
@@ -5221,7 +5220,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/AOL",
-          "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+          "label": "Wikipedia: Summit Internet — documents acquisition/closure"
         }
       ]
     },
@@ -5329,7 +5328,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20250124042322/https://netspeed.com.au/",
-          "label": "Wayback Jan 2025: webmail-only NetSpeed portal (\u00a92024)"
+          "label": "Wayback Jan 2025: webmail-only NetSpeed portal (©2024)"
         },
         {
           "kind": "forum",
@@ -5486,7 +5485,7 @@
     },
     {
       "type": "split",
-      "arm_label": "100% \u2014 BNS customers folded into iiNet SA",
+      "arm_label": "100% — BNS customers folded into iiNet SA",
       "year": 1996,
       "date_disp": "1996",
       "notes": "Byron Network Services (Adelaide, John Lindsay) wound down as an ISP; customers folded into iiNet SA (opened Jun 1996).",
@@ -5496,13 +5495,13 @@
         {
           "kind": "official",
           "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
-          "label": "LinkedIn: John Lindsay \u2014 Byron Network Services 'customers were folded into iiNet SA'"
+          "label": "LinkedIn: John Lindsay — Byron Network Services 'customers were folded into iiNet SA'"
         }
       ]
     },
     {
       "type": "split",
-      "arm_label": "100% \u2014 iiNet SA sold to OurWorld Global Network",
+      "arm_label": "100% — iiNet SA sold to OurWorld Global Network",
       "year": 1997,
       "date_disp": "Apr 1997",
       "notes": "iiNet SA (Adelaide/Gawler dialup) sold to OurWorld Global Network (Sydney) as the foundation of its planned national Internet aggregation service.",
@@ -5517,13 +5516,13 @@
         {
           "kind": "official",
           "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
-          "label": "LinkedIn: John Lindsay \u2014 iiNet SA sold to the 'super aggregator'"
+          "label": "LinkedIn: John Lindsay — iiNet SA sold to the 'super aggregator'"
         }
       ]
     },
     {
       "type": "acquisition",
-      "arm_label": "100% \u2014 OGN customer base bought from the liquidator",
+      "arm_label": "100% — OGN customer base bought from the liquidator",
       "year": 1998,
       "date_disp": "1998",
       "notes": "OurWorld Global Network failed quietly in 1998 and was liquidated; Chariot (via GM John Lindsay, ex-OGN) bought the customer base from the liquidator.",
@@ -5533,13 +5532,13 @@
         {
           "kind": "official",
           "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
-          "label": "LinkedIn: John Lindsay \u2014 'I bought the customers for Chariot from the liquidator'"
+          "label": "LinkedIn: John Lindsay — 'I bought the customers for Chariot from the liquidator'"
         }
       ]
     },
     {
       "type": "split",
-      "arm_label": "100% \u2014 OGN's retail arm (Auslink Communications)",
+      "arm_label": "100% — OGN's retail arm (Auslink Communications)",
       "year": 1997,
       "date_disp": "by 1997",
       "notes": "Auslink Communications Pty Ltd (ACN 077 048 938) was OurWorld Global Network's retail flat-rate ISP arm (same GPO Box 4773 Sydney; GM Samantha Teh at OGN's phone); launched a national flat-rate service in May 1998 on OGN's satellite backbone, built on the iiNet SA base OGN bought Apr 1997.",
@@ -5550,6 +5549,196 @@
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=3429&announcementId=593837&documentDate=1998-05-07&documentNumber=159469",
           "label": "ASX media release: 'Auslink Communications Goes National with Affordable Internet Access' (7 May 1998)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "ledanet",
+      "to": "chariot",
+      "year": 2004,
+      "date_disp": "11 May 2004",
+      "notes": "Cairns-based Ledanet acquired by Chariot Ltd (with Gold Coast-based Broadnet), part of 12 acquisitions in 18 months.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/national/chariot-buys-two-queensland-isps-20040511-gdiwm4.html",
+          "label": "SMH 11 May 2004: Chariot buys two Queensland ISPs"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "northnet",
+      "to": "chariot",
+      "year": 2003,
+      "date_disp": "Aug 2003 (announced); FY2003-04",
+      "notes": "Northnet (Armidale NSW) identified as 'Blue Pin Internet' in Chariot's FY2003-04 acquisitions (2004 Annual Report); announced with Squirrel Net on 8 Aug 2003 (SMH).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report: 'Blue Pin Internet (Armidale, New South Wales)'"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-acquires-two-isps-20030808-gdh8cw.html",
+          "label": "SMH 8 Aug 2003: Chariot acquires Blue Pin (NSW) and Squirrel Net (Brisbane)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "qld-net",
+      "to": "chariot",
+      "year": 2005,
+      "date_disp": "by Mar 2005 (FY2004-05)",
+      "notes": "BY-DATE: qldnet.com.au rebranded as Chariot's QLD 'netconnect' portal by 25 Mar 2005. Not in FY2003-04 acquisitions list (2004 Annual Report) -> FY2004-05. Exact deal date not publicly announced.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: qldnet.com.au as Chariot netconnect portal"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report acquisitions list (Qld Net absent -> FY2004-05)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "technet-2000",
+      "to": "chariot",
+      "year": 2005,
+      "date_disp": "by Mar 2005 (FY2004-05)",
+      "notes": "BY-DATE: technet2000.com.au is a Chariot netconnect customer mail domain (25 Mar 2005 portal capture). Not in FY2003-04 acquisitions list (2004 Annual Report) -> FY2004-05. Exact deal date not publicly announced.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: Chariot netconnect portal webmail dropdown incl. technet2000.com.au"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report acquisitions list (Technet 2000 absent -> FY2004-05)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "mackay-internet",
+      "to": "chariot",
+      "year": 2005,
+      "date_disp": "by Mar 2005 (FY2004-05)",
+      "notes": "BY-DATE: mackay.net.au is a Chariot netconnect customer mail domain in the QLD portal webmail dropdown (25 Mar 2005 capture). Not in Chariot's FY2003-04 acquisitions list (2004 Annual Report) -> FY2004-05. Exact announcement date not publicly released.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: Chariot netconnect portal webmail dropdown incl. mackay.net.au"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report acquisitions list (Mackay absent -> FY2004-05)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "oznetcom",
+      "to": "chariot",
+      "year": 2005,
+      "date_disp": "by Mar 2005 (FY2004-05)",
+      "notes": "BY-DATE: oznetcom.com.au is a Chariot netconnect customer mail domain in the QLD portal webmail dropdown (25 Mar 2005 capture). Not in Chariot's FY2003-04 acquisitions list (2004 Annual Report) -> FY2004-05. Exact announcement date not publicly released.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: Chariot netconnect portal webmail dropdown incl. oznetcom.com.au"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report acquisitions list (Oznetcom absent -> FY2004-05)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "ecite-internet",
+      "to": "chariot",
+      "year": 2003,
+      "date_disp": "Mar 2003",
+      "notes": "eCITE Internet (inside the City of Adelaide) among four ISPs Chariot executed agreements to acquire, announced 12 Mar 2003 with Cyberwizards, Mr Bean (Mackay) and Better.Net (Murwillumbah).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-buys-four-isps-despite-first-half-loss-20030312-gdgezs.html",
+          "label": "SMH 12 Mar 2003: Chariot buys four ISPs (Cyberwizards, Mr Bean, Better.Net, eCITE)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "cyberwizards",
+      "to": "chariot",
+      "year": 2003,
+      "date_disp": "Mar 2003",
+      "notes": "Cyberwizards (Cairns and North Queensland market) among four ISPs acquired, announced 12 Mar 2003 (with Mr Bean, Better.Net, eCITE).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-buys-four-isps-despite-first-half-loss-20030312-gdgezs.html",
+          "label": "SMH 12 Mar 2003: Chariot buys four ISPs"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "squirrel-internet",
+      "to": "chariot",
+      "year": 2003,
+      "date_disp": "Aug 2003",
+      "notes": "Brisbane-based Squirrel Net acquired by Chariot (announced with Blue Pin Internet, 8 Aug 2003).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-acquires-two-isps-20030808-gdh8cw.html",
+          "label": "SMH 8 Aug 2003: Chariot acquires Blue Pin and Squirrel Net"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "speedlink",
+      "to": "chariot",
+      "year": 2004,
+      "date_disp": "FY2003-04 (by 30 Jun 2004)",
+      "notes": "Speedlink Internet (Wollongong, NSW) listed in Chariot's FY2003-04 acquisitions (2004 Annual Report), with One Earth Internet (also Wollongong). Exact announcement not separately located in press.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report: FY2003-04 acquisitions incl. 'Speedlink Internet (Wollongong, New South Wales)'"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "bunbury-internet-service",
+      "to": "ciphertel",
+      "year": 2008,
+      "date_disp": "by 4 Sep 2008 (address space transfer)",
+      "notes": "Bunbury Internet Service's /21 (203.18.248.0-203.18.255.255, the 1997 BUNBURYINT-AU block) is registered in APNIC whois to Ciphertel Pty Ltd (Bunbury), network object registered 4 Sep 2008. UNCERTAIN: whether this was an acquisition of Bunbury Internet Service's business by Ciphertel or a pivot/continuation of the same business under the Ciphertel name — the block transfer is the documented evidence, the customer-base relationship is inferred. 'Gateway Internet' (a separate repo entry) has no established link to this block.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://rdap.apnic.net/ip/203.18.248.0",
+          "label": "APNIC RDAP: 203.18.248.0/21 registered to Ciphertel Pty Ltd (Bunbury), 4 Sep 2008"
         }
       ]
     }

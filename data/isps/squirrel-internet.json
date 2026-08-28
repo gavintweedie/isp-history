@@ -1,0 +1,60 @@
+{
+  "name": "Squirrel Internet",
+  "slug": "squirrel-internet",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "website": "http://www.squirrel.net.au",
+  "summary": "Brisbane ISP (Squirrel Internet / Squirrel Net), offices Level 30, Riverside Centre, 123 Eagle St, Brisbane CBD — known for a live webcam of the Brisbane CBD (Story Bridge) in 1998 and a 1,200-shop shopping portal. One /22-scale 1997 allocation (SQUIRREL1-AU 203.31.36-39, Wacol QLD). Acquired by Chariot Ltd with Blue Pin Internet, announced 8 Aug 2003.",
+  "names": [
+    {
+      "name": "Squirrel Internet",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "Squirrel Net",
+    "Squirrel Internet Pty Ltd"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Registered in the 1997 IP Network Index as Squirrel Internet, Wacol QLD (SQUIRREL1-AU 203.31.36.0-203.31.39.255, contiguous /22). squirrel.net.au captured from 2 Dec 1998 — 'Squirrel Internet ... Level 30, Riverside Centre, 123 Eagle St. Brisbane Qld 4000', running a live webcam of the Brisbane CBD with an online shopping portal.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997 (ipindex.net, retropc mirror): SQUIRREL1-AU 203.31.36.0-203.31.39.255 (Wacol QLD)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981202052652/http://www.squirrel.net.au/",
+          "label": "Wayback 2 Dec 1998: Squirrel Internet - Riverside Centre, Brisbane CBD"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Aug 2003",
+      "precision": "approx",
+      "details": "Acquired by Chariot Ltd: 'has acquired the NSW-based Blue Pin and Brisbane-based Squirrel Net' (SMH, 8 Aug 2003), part of Chariot's strategy to secure a top-six ISP position. squirrel.net.au is listed as a Chariot netconnect customer mail domain by the 25 Mar 2005 portal capture.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-acquires-two-isps-20030808-gdh8cw.html",
+          "label": "SMH 8 Aug 2003: Chariot acquires Blue Pin (NSW) and Squirrel Net (Brisbane)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: Chariot netconnect portal (Squirrel Net under Chariot)"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

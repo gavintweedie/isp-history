@@ -1,0 +1,47 @@
+{
+  "name": "Bunbury Internet Service",
+  "slug": "bunbury-internet-service",
+  "birthplace": "Bunbury, WA",
+  "status": "inactive",
+  "website": "",
+  "summary": "Regional WA ISP (Bunbury Internet Service, 7 Teede St, Bunbury) holding a full /21 (BUNBURYINT-AU 203.18.248.0-203.18.255.255) in the 1997 IP Network Index. The exact same /21 is now registered in APNIC whois to Ciphertel Pty Ltd, Unit 3/9 Bourke Street, Bunbury (object registered 4 Sep 2008) — a Bunbury-based licensed carrier/ISP — indicating Bunbury Internet Service's address space (and presumably its business) passed to Ciphertel around 2008.",
+  "names": [
+    {
+      "name": "Bunbury Internet Service",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Existing by 1997: allocated the contiguous /21 BUNBURYINT-AU 203.18.248.0-203.18.255.255 (Bunbury WA) in the 1997 IP Network Index.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: BUNBURYINT-AU 203.18.248.0-203.18.255.255"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "by 4 Sep 2008 (address space to Ciphertel)",
+      "precision": "by",
+      "details": "The /21 203.18.248.0-203.18.255.255 is registered in APNIC whois to Ciphertel Pty Ltd (netname CIPHERTEL-NON-AU), Unit 3/9 Bourke Street, Bunbury WA 6230, with the network object registered 4 Sep 2008. Ciphertel is a Bunbury-based licensed carrier/ISP. UNCERTAIN whether this was an acquisition of Bunbury Internet Service's business by Ciphertel or a pivot of the same business under the Ciphertel name; the transfer of the exact same address block to a same-city ISP is the documented evidence (dated by 4 Sep 2008).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://rdap.apnic.net/ip/203.18.248.0",
+          "label": "APNIC RDAP: 203.18.248.0/21 registered to Ciphertel Pty Ltd (Bunbury), object registered 4 Sep 2008"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

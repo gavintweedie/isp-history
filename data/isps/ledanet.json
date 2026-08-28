@@ -1,0 +1,55 @@
+{
+  "name": "Ledanet",
+  "slug": "ledanet",
+  "birthplace": "Cairns, QLD",
+  "status": "inactive",
+  "website": "http://www.ledanet.com.au",
+  "summary": "Cairns ISP ('Cairns' Fastest Internet Service Provider'), expanding local-call access across the Atherton Tablelands and Douglas Shire by 1998. Acquired by Chariot Ltd (announced 11 May 2004) alongside Gold Coast-based Broadnet, part of Chariot's 12-ISPs-in-18-months consolidation; ledanet.com.au continued as a Chariot netconnect customer domain.",
+  "names": [
+    {
+      "name": "Ledanet",
+      "start_year": 1998,
+      "start_disp": "by Dec 1998"
+    }
+  ],
+  "aliases": [
+    "LedaNet",
+    "Leadanet"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Dec 1998",
+      "precision": "by",
+      "details": "Existing as an ISP by 2 Dec 1998: ledanet.com.au captured by the Wayback Machine — 'Cairns' Fastest Internet Service Provider' — advertising chat-line service, time-balance checking, and new local-call access to the Atherton Tablelands (with Douglas Shire 'within 2 weeks').",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981202060020/http://www.ledanet.com.au/",
+          "label": "Wayback 2 Dec 1998: Ledanet - Cairns' Fastest Internet Service Provider"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "11 May 2004",
+      "precision": "exact",
+      "details": "Acquired by Chariot Limited (AAP/SMH, 11 May 2004): 'The new additions to Chariot's stable are Cairns-based Ledanet and Gold Coast-based Broadnet', following 'its acquisition of 12 ISPs in Australia over the past 18 months'. Chariot MD Robert Horlin-Smith said the bolt-on acquisitions pushed Chariot toward its 150,000-customer target. ledanet.com.au persisted as a Chariot netconnect mail domain (webmail dropdown, Mar 2005 portal capture).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/national/chariot-buys-two-queensland-isps-20040511-gdiwm4.html",
+          "label": "SMH 11 May 2004: Chariot buys two Queensland ISPs (Ledanet, Broadnet)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: Chariot netconnect portal - ledanet.com.au mail domain + 'recently acquired ISPs in QLD' integration notice"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

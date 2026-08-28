@@ -1,0 +1,50 @@
+{
+  "name": "Firestar Internet",
+  "slug": "firestar",
+  "birthplace": "Perth (WA 6160), WA",
+  "status": "inactive",
+  "website": "http://www.firestar.com.au",
+  "summary": "Perth 'no frills' dialup and ADSL ISP (Firestar Internet Pty Ltd, ACN 059 181 958, formerly Mundijong Investments Pty Ltd); absorbed into Concept Networks (LetsGo) ~early 2004; company deregistered 2007.",
+  "aliases": [
+    "Mundijong Investments Pty Ltd",
+    "Telstar Internet",
+    "Maurice Oteri Marketing"
+  ],
+  "names": [
+    {
+      "name": "Firestar Internet",
+      "start_year": 1999,
+      "start_disp": "Nov 1999",
+      "end_year": 2004,
+      "end_disp": "early 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2001,
+      "date_disp": "by Jul 2001",
+      "precision": "by",
+      "details": "Firestar Internet Pty Ltd (ACN 059 181 958, formerly Mundijong Investments Pty Ltd, incorporated 22 Feb 1993); ABN registered 1 Nov 1999; earliest Wayback capture Jul 2001; 'no frills' dialup and ADSL ISP."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "early 2004",
+      "precision": "approx",
+      "details": "Absorbed into Concept Networks (trading as LetsGo); firestar.com.au later redirected to letsgo.com.au (Aug 2006); company deregistered 27 May 2007."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010712183717/http://www.firestar.com.au/",
+      "label": "Firestar Internet (Wayback Jul 2001)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040524161939/http://www.firestar.com.au/",
+      "label": "Firestar Internet (Wayback May 2004)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Northnet",
+  "slug": "northnet",
+  "birthplace": "Armidale, NSW",
+  "status": "inactive",
+  "website": "http://www.northnet.com.au",
+  "summary": "Regional New England ISP (Northnet Internet Services, Armidale NSW): local-call dial-up for Armidale, Inverell and Glen Innes from at least Dec 1996, plus user home pages, training and corporate services. Held two /24-scale 1997 allocations (NORTHNETINTERNE-AU). Absorbed by Chariot (northnet.com.au is a mail domain on Chariot netconnect's portal by Mar 2005; Whirlpool 2022: 'Chariot ... has owned Northnet for ages'). Do not confuse with other 'Northnet' ISPs (e.g. Far North QLD or US operators).",
+  "names": [
+    {
+      "name": "Northnet",
+      "start_year": 1996,
+      "start_disp": "by Dec 1996"
+    }
+  ],
+  "aliases": [
+    "Northnet Internet Services"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "by Dec 1996",
+      "precision": "by",
+      "details": "Existing as an ISP by 25 Dec 1996: northnet.com.au captured by the Wayback Machine (page dated Saturday 14th December) — 'NorthNet is located in Armidale, NSW' with local-call dial-in numbers for Armidale, Inverell (210 423) and Glen Innes (325944), user support, FTP and community pages. Corroborated by the 1997 IP Network Index: NORTHNETINTERNE-AU 203.34.90.0/24 and NORTHNETINTERNE1-AU (Armidale NSW).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961225034920/http://www.northnet.com.au/",
+          "label": "Wayback 25 Dec 1996: Northnet Internet Services, Armidale NSW"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: NORTHNETINTERNE-AU, NORTHNETINTERNE1-AU (Armidale NSW)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Aug 2003 (announced); FY2003-04",
+      "precision": "by",
+      "details": "Acquired by Chariot Limited as 'Blue Pin Internet (Armidale, New South Wales)' — the only Armidale ISP in Chariot's FY2003-04 acquisitions list (2004 Annual Report), announced in the press with Squirrel Net on 8 Aug 2003 (SMH). Northnet (Armidale) is identified with Blue Pin Internet on the strength of the shared Armidale base and the Chariot ownership ('Chariot ... has owned Northnet for ages', Whirlpool 2022). NOTE: the 2004 Annual Report also lists 'Squirrel Net (Brisbane)' as a separate FY2003-04 acquisition, so the portal's northnet.com.au mail domain aligns with the Armidale/Blue Pin entity.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report: FY2003-04 acquisitions incl. 'Blue Pin Internet (Armidale, New South Wales)'"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-acquires-two-isps-20030808-gdh8cw.html",
+          "label": "SMH 8 Aug 2003: Chariot acquires Blue Pin (NSW) and Squirrel Net (Brisbane)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
+          "label": "Wayback 25 Mar 2005: Chariot netconnect portal webmail dropdown incl. northnet.com.au"
+        },
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/3l108xzv",
+          "label": "Whirlpool Apr 2022: 'Chariot (which has owned Northnet for ages) is now part of TPG'"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}
