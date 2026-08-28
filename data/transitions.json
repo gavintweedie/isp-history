@@ -5726,6 +5726,21 @@
           "label": "Chariot 2004 Annual Report: FY2003-04 acquisitions incl. 'Speedlink Internet (Wollongong, New South Wales)'"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "from": "bunbury-internet-service",
+      "to": "ciphertel",
+      "year": 2008,
+      "date_disp": "by 4 Sep 2008 (address space transfer)",
+      "notes": "Bunbury Internet Service's /21 (203.18.248.0-203.18.255.255, the 1997 BUNBURYINT-AU block) is registered in APNIC whois to Ciphertel Pty Ltd (Bunbury), network object registered 4 Sep 2008. UNCERTAIN: whether this was an acquisition of Bunbury Internet Service's business by Ciphertel or a pivot/continuation of the same business under the Ciphertel name — the block transfer is the documented evidence, the customer-base relationship is inferred. 'Gateway Internet' (a separate repo entry) has no established link to this block.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://rdap.apnic.net/ip/203.18.248.0",
+          "label": "APNIC RDAP: 203.18.248.0/21 registered to Ciphertel Pty Ltd (Bunbury), 4 Sep 2008"
+        }
+      ]
     }
   ]
 }

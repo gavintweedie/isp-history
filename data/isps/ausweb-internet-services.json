@@ -1,0 +1,69 @@
+{
+  "name": "Ausweb Internet Services",
+  "slug": "ausweb-internet-services",
+  "birthplace": "Gorokan, NSW (Central Coast)",
+  "status": "inactive",
+  "website": "http://www.ausweb.net.au",
+  "summary": "Central Coast (Gorokan NSW) ISP and web-hosting provider. Site live 'since 13th July 1997' (self-dated 1997 portal); four 1997 APNIC-era allocations (AUSWEBINTERNETS-AU ×4). Offered dial-up, email, Unix shell accounts and web hosting, plus .nu domain registration from 1998. By 2003-05 trading via ausweb.com.au as a webhosting/domain-name business.",
+  "names": [
+    {
+      "name": "Ausweb Internet Services",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "AusWeb",
+    "AusWeb Internet Services"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Existing by 1997: four allocations in the 1997 IP Network Index — AUSWEBINTERNETS-AU 203.35.86.0/24, AUSWEBINTERNETS1-AU 203.35.214.0/24, AUSWEBINTERNETS2-AU 203.35.218.0/28, AUSWEBINTERNETS3-AU 203.41.56.0/24 — registered to Ausweb Internet Services, Gorokan NSW. ausweb.net.au captured from 19 Jan 1998 with the site dated 'since 13th July 1997'; services included email accounts (yourname@ausweb.net.au), Unix shell accounts, Windows NT/Unix web hosting, email-list hosting and (from Dec 1998) the .nu domain registry.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: AUSWEBINTERNETS-AU .. AUSWEBINTERNETS3-AU (Gorokan NSW)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980119010203/http://www.ausweb.net.au/",
+          "label": "Wayback 19 Jan 1998: AusWeb Internet Services portal ('since 13th July 1997')"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2003,
+      "date_disp": "c. 2003-05",
+      "precision": "approx",
+      "details": "By 2003-05 the business traded as a webhosting and domain-name provider via ausweb.com.au ('AUSWEB ... Webhosting and Domain Names', ©2003; captures to Jul 2005). A separate 'Ausweb.com.au Pty Ltd' (NSW) appears on the ABR (cancelled) — its relationship to the Gorokan ISP is not established.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050708135100/http://ausweb.net.au/",
+          "label": "Wayback 8 Jul 2005: AUSWEB hosting setup page (ausweb.com.au, ©2003)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "after Jul 2005 (last located web presence)",
+      "precision": "approx",
+      "details": "No web presence located after Jul 2005; treated as defunct thereafter. Exact closure date not located.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050708135100/http://ausweb.net.au/",
+          "label": "Wayback 8 Jul 2005: last substantive capture"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

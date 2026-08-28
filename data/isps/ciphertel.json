@@ -19,6 +19,20 @@
       "date_disp": "by 2002",
       "precision": "by",
       "details": "Perth communications company (SMS/GSM products) from 2002; later a licensed WA carrier ISP."
+    },
+    {
+      "kind": "note",
+      "year": 2008,
+      "date_disp": "by 4 Sep 2008",
+      "precision": "by",
+      "details": "Holds the former Bunbury Internet Service /21 (203.18.248.0-203.18.255.255, the 1997 BUNBURYINT-AU block): APNIC whois netname CIPHERTEL-NON-AU, Unit 3/9 Bourke Street, Bunbury WA 6230, network object registered 4 Sep 2008. UNCERTAIN whether this was an acquisition of Bunbury Internet Service or a pivot of the same business under the Ciphertel name; the block transfer is the documented evidence.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://rdap.apnic.net/ip/203.18.248.0",
+          "label": "APNIC RDAP: 203.18.248.0/21 CIPHERTEL-NON-AU (Ciphertel Pty Ltd, Bunbury)"
+        }
+      ]
     }
   ],
   "refs": [

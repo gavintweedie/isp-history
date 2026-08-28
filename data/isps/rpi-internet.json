@@ -1,31 +1,83 @@
 {
-  "name": "RPI Internet",
+  "name": "RP Internet Services",
   "slug": "rpi-internet",
   "birthplace": "Glendenning (Blacktown), NSW",
   "status": "inactive",
   "website": "https://isp.net.au",
-  "summary": "Budget western-Sydney dialup ISP (owner Robert Thomas); ceased trading ~Aug 2001; customers reportedly absorbed by Independent Service Providers (isp.net.au).",
+  "summary": "Budget western-Sydney dial-up ISP (rpi.net.au, RP Internet Services), run by Rob Thomas from 2 Della Place, Glendenning NSW. rpi.net.au live from 23 Dec 1996 ('RP Internet Services is an Internet Service Provider, based in Sydney'); flat-rate dial-up, connect.com.au uplink, ACC Tigris dial-up access servers; AS9449 (RPI-AS-AP, announced in the BGP table). Ceased trading ~Aug 2001; customers reportedly absorbed by Independent Service Providers (isp.net.au). AS9449 later passed to Rob Thomas's subsequent venture QLD VoIP Services (qldvoip.com.au).",
   "names": [
     {
-      "name": "RPI Internet",
+      "name": "RP Internet Services",
       "start_year": 1995,
       "start_disp": "c. 1995"
     }
   ],
+  "aliases": [
+    "RPI Internet",
+    "R P Internet Services",
+    "RPI"
+  ],
   "events": [
     {
       "kind": "birth",
-      "year": 1995,
-      "date_disp": "c. 1995",
+      "year": 1996,
+      "date_disp": "by 23 Dec 1996",
+      "precision": "by",
+      "details": "Existing by 23 Dec 1996: rpi.net.au captured by the Wayback Machine — 'RP Internet Services is an Internet Service Provider, based in Sydney, Australia' (© 1996), announcing a $30 flat-rate dial-up service, connect.com.au uplink 'Must Proxy' configuration, remote support, Kali gaming, a Tucows mirror and a file area. Also in the 1997 IP Network Index: RPINTERNETSERVI-AU 203.41.12.0-203.41.15.255 (Glendenning NSW).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961223005045/http://www.rpi.net.au/",
+          "label": "Wayback 23 Dec 1996: rpi.net.au - RP Internet Services (Sydney ISP, connect.com.au uplink, $30 flat rate)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: RPINTERNETSERVI-AU 203.41.12.0-203.41.15.255 (Glendenning NSW)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1999,
+      "date_disp": "3 Jan 1999",
+      "precision": "exact",
+      "details": "Operator identity and dial-up operations confirmed: Rob Thomas (rob@rpi.net.au), signing as 'RP Internet Services', posted a Bugtraq advisory on an ACC 'Tigris' access terminal server vulnerability (3 Jan 1999), describing his dial-up network (dial-in numbers, RADIUS authentication servers, IP ranges). XSI (Australian Tigris distributor) correspondence is cc'd to rob@rpi.net.au.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://sploitus.com/exploit?id=PACKETSTORM:12386",
+          "label": "Bugtraq 3 Jan 1999 (Packet Storm 12386): Rob Thomas <rob@rpi.net.au>, RP Internet Services - ACC Tigris dial-up access server advisory"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2014,
+      "date_disp": "c. Mar 2014 (BGP snapshot)",
       "precision": "approx",
-      "details": "Budget 56K/ISDN dialup; first capture Dec 1996."
+      "details": "AS9449 'RPI-AS-AP RP Internet Services, 2 Della Place, Glendenning NSW 2761' listed in the AS1221 (Telstra) BGP table analysis (potaroo.net/as1221/asn.txt). The snapshot is dated by its ASN ceiling: the highest ASN present is AS26589, registered to NYSERDA on 18 Mar 2014 (shown under its earlier 'Wimberley Timeline Internet' name), so the file is no later than c. Mar 2014. The ASN was later transferred to Rob Thomas's subsequent venture: APNIC now registers AS9449 to QLD VoIP Services / Why Pay More 4 Less Pty Ltd (1 Grayson St, West Gladstone QLD, rob@qldvoip.com.au; object registered 15 Jan 2021). The 'RP IT Solutions' (Clyde North VIC) search-engine association is unrelated.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://rdap.apnic.net/autnum/9449",
+          "label": "APNIC RDAP AS9449: QLD VoIP Services / Why Pay More 4 Less Pty Ltd (rob@qldvoip.com.au), registered 15 Jan 2021"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Ceased trading ~Aug 2001; customers absorbed by ISP (isp.net.au)."
+      "details": "Ceased trading ~Aug 2001; customers reportedly absorbed by Independent Service Providers (isp.net.au).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961223005045/http://www.rpi.net.au/",
+          "label": "RPI Internet (Wayback 1996)"
+        }
+      ]
     }
   ],
   "refs": [
