@@ -2216,6 +2216,22 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "early 2004",
+      "notes": "Firestar Internet absorbed into Concept Networks (LetsGo); firestar.com.au later redirected to letsgo.com.au (Aug 2006); Firestar was previously a wholesale dialup customer of WiredCity.",
+      "from": "firestar",
+      "to": "concept-networks",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060827024946/http://www.firestar.com.au/",
+          "label": "firestar.com.au redirect to letsgo.com.au (Wayback Aug 2006)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
       "year": 1996,
       "date_disp": "by Nov 1996",
       "notes": "Interworld acquired by Wantree Development.",
@@ -4392,8 +4408,8 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "c. 2000-01",
-      "notes": "Spirit Internet (ACT) acquired by Asia Online (per user report).",
-      "from": "spirit-internet-act",
+      "notes": "Spirit Networks (Canberra) acquired by Asia Online.",
+      "from": "spirit-networks",
       "to": "asia-online",
       "refs": [
         {

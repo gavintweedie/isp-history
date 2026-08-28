@@ -1,0 +1,49 @@
+{
+  "name": "Corporate Online",
+  "slug": "corporate-online",
+  "birthplace": "Fremantle (White Gum Valley), WA",
+  "status": "inactive",
+  "website": "http://www.copl.com.au",
+  "summary": "Perth ISP offering dialup and web development services (Corporate Online Pty Ltd); 4 Stack Street, White Gum Valley/Fremantle WA; tagline 'Your online technology partner'; product 'Corporate Private Network (CPN)'; closed 7 March 2001.",
+  "aliases": [
+    "Corporate Online Pty Ltd",
+    "CPN Solutions"
+  ],
+  "names": [
+    {
+      "name": "Corporate Online",
+      "start_year": 1997,
+      "start_disp": "by 1997",
+      "end_year": 2001,
+      "end_disp": "7 Mar 2001"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Listed in 1997 APNIC IP subnet list with three sub-allocations within Telstra's 203.36.0.0/14 block (203.38.39.0/25, 203.38.63.128/26, 203.38.74.128/26); 4 Stack Street, White Gum Valley WA; Technical Director Michael Russell; earliest Wayback capture Jan 1999; services included dialup, web development, and 'Corporate Private Network (CPN)'."
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "7 Mar 2001",
+      "precision": "exact",
+      "details": "Website announced closure: 'Sadly Corporate Online closed it's doors on 7th March 2001 and has ceased trading.' Last Wayback capture Dec 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990125094417/http://www.copl.com.au/",
+      "label": "Corporate Online (Wayback Jan 1999)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010517022914/http://www.copl.com.au/",
+      "label": "Corporate Online closure notice (Wayback May 2001)"
+    }
+  ]
+}
