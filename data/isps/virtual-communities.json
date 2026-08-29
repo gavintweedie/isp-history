@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "virtual.net.au",
-  "summary": "Melbourne-based ISP acquired by iiNet.",
+  "summary": "Melbourne-based ISP; acquired the AustarMetro customer base (c. 2003, Austar's metro ISP brand descended from Eisa); acquired by iiNet in 2004.",
   "names": [
     {
       "name": "Internet Services of Virtual Communities",
@@ -26,6 +26,20 @@
       "date_disp": "2004",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    },
+    {
+      "kind": "note",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Acquired the AustarMetro customer base (Melbourne, c. 2003) - Austar's metro dialup brand descended from Eisa Limited (eisametro.com.au / eisa.com.au); the base passed to iiNet with the 2004 acquisition (see austarmetro -> virtual-communities -> iinet).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/408814",
+          "label": "Whirlpool (Oct 2005): iiNet bought the austarmetro customer base from Virtual Communities in 2004"
+        }
+      ]
     }
   ]
 }

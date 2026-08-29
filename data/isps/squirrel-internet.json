@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "http://www.squirrel.net.au",
-  "summary": "Brisbane ISP (Squirrel Internet / Squirrel Net), offices Level 30, Riverside Centre, 123 Eagle St, Brisbane CBD — known for a live webcam of the Brisbane CBD (Story Bridge) in 1998 and a 1,200-shop shopping portal. One /22-scale 1997 allocation (SQUIRREL1-AU 203.31.36-39, Wacol QLD). Acquired by Chariot Ltd with Blue Pin Internet, announced 8 Aug 2003.",
+  "summary": "Brisbane ISP (Squirrel Internet / Squirrel Net; Squirrel Software Technologies Pty Ltd, 11 Quindus St, Wacol QLD; later Level 30, Riverside Centre, 123 Eagle St, Brisbane CBD - known for a live webcam of the Brisbane CBD and a 1,200-shop shopping portal). Same business as Ozenetcom (oznetcom.com.au, AS9382): The It Farm Pty Ltd (ACN 100 815 414) ran both 'Squirrel Internet' and 'Ozenetcom Internet' as trading names from 1 Jul 2002. Acquired by Chariot Ltd 1 Aug 2003 - Note 35 records it as 'Ozenetcom' ($241k); the directors' report calls it 'Squirrel Net (Brisbane, Queensland)'.",
   "names": [
     {
       "name": "Squirrel Internet",
@@ -14,7 +14,12 @@
   ],
   "aliases": [
     "Squirrel Net",
-    "Squirrel Internet Pty Ltd"
+    "Squirrel Internet Pty Ltd",
+    "Ozenetcom",
+    "Oznetcom",
+    "oznetcom.com.au",
+    "Ozenetcom Internet",
+    "Squirrel Software Technologies"
   ],
   "events": [
     {
@@ -22,7 +27,7 @@
       "year": 1997,
       "date_disp": "by 1997",
       "precision": "by",
-      "details": "Registered in the 1997 IP Network Index as Squirrel Internet, Wacol QLD (SQUIRREL1-AU 203.31.36.0-203.31.39.255, contiguous /22). squirrel.net.au captured from 2 Dec 1998 — 'Squirrel Internet ... Level 30, Riverside Centre, 123 Eagle St. Brisbane Qld 4000', running a live webcam of the Brisbane CBD with an online shopping portal.",
+      "details": "Registered in the 1997 IP Network Index as Squirrel Internet, 11 Quindus St, Wacol QLD - SQUIRREL1-AU 203.31.36.0-203.31.39.255 (contiguous /22); sibling blocks of Squirrel Software Technologies Pty Ltd (SQUIRRELSOFTWARE-AU 203.62.172/22, SQUIRRELSOFT-AU 203.18.50/24, SQUIRREL-AU 203.20.110-111, all at 11 Quindus St Wacol). squirrel.net.au captured from 2 Dec 1998 - 'Squirrel Internet ... Level 30, Riverside Centre, 123 Eagle St. Brisbane Qld 4000', running a live webcam of the Brisbane CBD with an online shopping portal.",
       "refs": [
         {
           "kind": "archive",
@@ -39,9 +44,9 @@
     {
       "kind": "death",
       "year": 2003,
-      "date_disp": "Aug 2003",
+      "date_disp": "1 Aug 2003",
       "precision": "approx",
-      "details": "Acquired by Chariot Ltd: 'has acquired the NSW-based Blue Pin and Brisbane-based Squirrel Net' (SMH, 8 Aug 2003), part of Chariot's strategy to secure a top-six ISP position. squirrel.net.au is listed as a Chariot netconnect customer mail domain by the 25 Mar 2005 portal capture.",
+      "details": "Acquired by Chariot Ltd on 1 Aug 2003. Chariot's 2004 Annual Report Note 35 records it as 'Ozenetcom' (Internet Service Provider, 1 Aug 2003, $241k); the directors' report lists the same acquisition as 'Squirrel Net (Brisbane, Queensland)' - one deal, two names. Announced publicly 8 Aug 2003 with Blue Pin Internet (SMH). Operator The It Farm Pty Ltd (ACN 100 815 414) held the SQUIRREL INTERNET business name 01 Jul 2002 - 01 Sep 2003; continued as Hot Shot Hosting from 15 Sep 2004. squirrel.net.au is a Chariot netconnect customer mail domain by the 25 Mar 2005 portal capture.",
       "refs": [
         {
           "kind": "news",
@@ -52,6 +57,35 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
           "label": "Wayback 25 Mar 2005: Chariot netconnect portal (Squirrel Net under Chariot)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report Note 35: 'Ozenetcom' acquired 1 Aug 2003 ($241k) = Directors' Report 'Squirrel Net (Brisbane, Queensland)'"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=62100815414",
+          "label": "ABR: The It Farm Pty Ltd (ACN 100 815 414) - SQUIRREL INTERNET / OZNETCOM INTERNET trading names from 1 Jul 2002"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2002,
+      "date_disp": "01 Jul 2002",
+      "precision": "exact",
+      "details": "Ozenetcom (oznetcom.com.au, AS9382; AusBone Brisbane (BIX) exchange participant, peering contact Alan Westacott; operating by Jan 1998) was a sibling brand of the same business: The It Farm Pty Ltd (ACN 100 815 414, ABN 62 100 815 414, registered 12 Jun 2002, QLD) operated BOTH 'Squirrel Internet' and 'Ozenetcom Internet' as trading names ('as from July 1 2002') until Chariot's 1 Aug 2003 acquisition.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=62100815414",
+          "label": "ABR: The It Farm Pty Ltd - trading names SQUIRREL INTERNET / OZNETCOM INTERNET as from 1 Jul 2002"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010406105734/http://www.ausbone.net/brisbane.htm",
+          "label": "AusBone Brisbane (BIX): Oznetcom (AS9382) participant"
         }
       ]
     }

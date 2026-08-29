@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://austarmetro.com.au",
-  "summary": "Dialup ISP (A$24.95 unlimited) in all capital cities; successor to ISP eisa after AUSTAR acquired it; folded as Austar's internet brands wound down.",
+  "summary": "Dialup ISP (A$24.95 unlimited) in all capital cities; successor to ISP eisa after AUSTAR acquired it; customer base transferred to Virtual Communities c. 2003, reaching iiNet in 2004.",
   "names": [
     {
       "name": "AustarMetro",
@@ -25,7 +25,14 @@
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Superseded/wound down as Austar internet brands faded."
+      "details": "Customer base transferred to Virtual Communities (Melbourne) after Austar wound down its ISP brands (c. 2003); iiNet then bought the AustarMetro customer base from Virtual Communities in 2004 (austarmetro -> virtual-communities -> iinet). austarmetro.com.au had previously been eisametro.com.au and eisa.com.au; by 2005 the domain resolved to iinet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/408814",
+          "label": "Whirlpool (Oct 2005): 'iiNet purchased the austarmetro customer base from Virtual Communities in 2004'; austarmetro.com.au formerly eisametro.com.au / eisa.com.au"
+        }
+      ]
     }
   ],
   "refs": [

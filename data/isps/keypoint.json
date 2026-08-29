@@ -44,12 +44,27 @@
       "year": 2000,
       "date_disp": "by 2000",
       "precision": "by",
-      "details": "Labyrinth took over Nexus Internet Services, Majestic Internet Services, Sprint Online, Southern Internet Services, SkyNet Services, SubNet Internet Services and Webnet Burnie within the prior 24 months (per About Us page). Sprint Online's site described itself as 'a division of Labyrinth Connections' by Feb 2000.",
+      "details": "Labyrinth took over Nexus Internet Services, Majestic Internet Services, Sprint Online, Southern Internet Services, SkyNet Services, SubNet Internet Services and Webnet Burnie within the prior 24 months (per About Us page). Sprint Online's site described itself as 'a division of Labyrinth Connections' by Feb 2000. Also absorbed Jade Communications Pty Ltd (ACN 071 725 856) ~mid-2000: jade.net.au's footer reverted from Jade's own company details (Level 2, 77 Southbank Blvd, South Melbourne; as late as 4 Mar 2000) to 'C/o Labyrinth Connections Pty Ltd ACN 069 211 678, Level 10, 99 Queen St Melbourne 3000, info@labyrinth.net.au' (by 17 Sep 2000); jade.net.au served a Labyrinth-KeyPoint redirection page by 30 Oct 2003.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20000413034840/http://www.labyrinth.net.au/aboutus/index.html",
           "label": "Labyrinth About Us: lists recent takeovers incl. Sprint Online (Wayback 2000)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000304004007/http://www.jade.net.au/",
+          "label": "Wayback 4 Mar 2000: jade.net.au (Jade's own ACN 071 725 856, Southbank)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000917061436/http://www.jade.net.au/",
+          "label": "Wayback 17 Sep 2000: jade.net.au (C/o Labyrinth Connections Pty Ltd ACN 069 211 678)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031030004636/http://www.jade.net.au/",
+          "label": "Wayback 30 Oct 2003: jade.net.au = Labyrinth >> KeyPoint redirection page"
         }
       ]
     },

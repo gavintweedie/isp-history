@@ -4,12 +4,24 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.optus.com.au",
-  "summary": "Australia's second-largest telco; consumer internet run as OptusNet (consumer) and Optus@Home (cable broadband) (SINGTEL OPTUS PTY LIMITED, ACN 052 833 208).",
+  "summary": "Australia's second-largest telco. Origins: AUSSAT (satellite carrier, 1981); relaunched as Optus Communications 1992 by a consortium including Cable & Wireless; traded as **Cable & Wireless Optus (CWO)** while C&W held control through 2001 (the 1997 IP index records CWO blocks: OPTUSCOM, CWO Customer/Infrastructure networks). Singtel acquired Optus in 2001 (US$8.5bn), trading as Singtel Optus (SINGTEL OPTUS PTY LIMITED, ACN 052 833 208). Consumer internet run as OptusNet and Optus@Home (cable broadband); related entities: at-home-network-australia (Optus/Excite@Home JV, control 2001).",
   "names": [
     {
       "name": "Optus",
       "start_year": 1992,
       "start_disp": "1992"
+    },
+    {
+      "name": "Cable & Wireless Optus",
+      "start_year": 1992,
+      "start_disp": "1992",
+      "end_year": 2001,
+      "end_disp": "2001"
+    },
+    {
+      "name": "Singtel Optus",
+      "start_year": 2001,
+      "start_disp": "2001"
     }
   ],
   "events": [
@@ -18,12 +30,26 @@
       "year": 1992,
       "date_disp": "1992",
       "precision": "exact",
-      "details": "Relaunched as Optus Communications 1992 (from AUSSAT); Singtel Optus since 2001.",
+      "details": "AUSSAT (Australian Satellite System) established 1981; relaunched as Optus Communications 1992 (consortium incl. Cable & Wireless, BellSouth, AMP). Traded as Cable & Wireless Optus (CWO) while C&W held a controlling stake (1992-2001); Singtel acquired Optus in 2001 (US$8.5bn).",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=header&issuerId=3959&documentNumber=246917&documentDate=2001-10-23",
           "label": "ASX: Optus Communications announcement re SingTel ownership (23 Oct 2001)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "The 1997 IP Network Index records Optus's then-current name as Cable & Wireless Optus (CWO), with netblocks OPTUSCOM, 'CWO Customer Network' and 'CWO Infrastructure Network' (202.139.x, 203.89.x) - matching the triaged 'not an ISP' corporate/infrastructure blocks. The Optus/Excite@Home cable JV was a separate entity (at-home-network-australia; Optus took control Sept 2001).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: OPTUSCOM / CWO Customer Network / CWO Infrastructure"
         }
       ]
     }
@@ -39,5 +65,13 @@
       "url": "https://abr.business.gov.au/ABN/View?abn=90052833208",
       "label": "ABR: SINGTEL OPTUS PTY LIMITED ACN 052 833 208"
     }
+  ],
+  "aliases": [
+    "Optus Communications",
+    "Cable & Wireless Optus",
+    "CWO",
+    "Singtel Optus",
+    "AUSSAT",
+    "Australian Satellite System Pty Ltd"
   ]
 }

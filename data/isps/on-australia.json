@@ -1,0 +1,94 @@
+{
+  "name": "On Australia",
+  "slug": "on-australia",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "",
+  "summary": "50/50 joint venture of Telstra and Microsoft announced November 1994 to deliver online services incl. Internet access (Microsoft Network branded locally 'OnAustralia'). Incorporated as On Australia Pty Ltd (ACN 067 133 260; NSW). Microsoft sold its 50% stake to Telstra in March 1996 after strategic disagreements; Telstra assumed 100% and the entity became the corporate vehicle for the consumer 'Telstra Big Pond' brand (business name 'Telstra Big Pond Home' 1999-2003; trading name 'Telstra Big Pond' from Oct 2000). ABN cancelled 6 Aug 2004 as BigPond consolidated under Telstra.",
+  "names": [
+    {
+      "name": "On Australia",
+      "start_year": 1994,
+      "start_disp": "Nov 1994",
+      "end_year": 2000,
+      "end_disp": "2000"
+    },
+    {
+      "name": "Telstra Big Pond",
+      "start_year": 2000,
+      "start_disp": "Oct 2000",
+      "end_year": 2004,
+      "end_disp": "Aug 2004"
+    }
+  ],
+  "aliases": [
+    "OnAustralia",
+    "On Australia Pty Ltd",
+    "On Australia Pty. Limited",
+    "Telstra Big Pond Home"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "Nov 1994",
+      "precision": "approx",
+      "details": "Telstra and Microsoft announced a 50/50 joint venture, On Australia, in November 1994 to provide online messaging, information and transaction services incl. Internet access to Australian PC users; the service was built on Microsoft Network (branded locally 'OnAustralia'), with Windows 95 bundling in mind. Incorporated as On Australia Pty Ltd, ACN 067 133 260 (067-prefix consistent with a 1994 registration; NSW).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.stuartcorner.com/internet-in-australia-the-early-years/",
+          "label": "Stuart Corner: Telstra-Microsoft announce 50/50 On Australia JV (Nov 1994)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=74067133260",
+          "label": "ABR: On Australia Pty Ltd (ACN 067 133 260, ABN 74 067 133 260)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1996,
+      "date_disp": "Mar 1996",
+      "precision": "exact",
+      "details": "Microsoft decided to sell out of the $23m venture; Telstra bought Microsoft's 50% shareholding, assuming 100% control of On Australia's equity and of Internet access (Microsoft continued managing content). At the time On Australia had a 20,000+ subscriber base. The venture had launched Microsoft Network in Australia in August 1995.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techmonitor.ai/technology/microsoft_abandons_australia_on_line_joint_venture_with_telstra",
+          "label": "Tech Monitor (13 Mar 1996): Microsoft abandons On Australia JV; Telstra takes 100%"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "23 Oct 2000",
+      "precision": "by",
+      "details": "The entity carried the ABR business name 'Telstra Big Pond Home' (1 Nov 1999 - 20 Oct 2003) and trading name 'Telstra Big Pond' (from 23 Oct 2000), i.e. it was the corporate vehicle for Telstra's consumer internet brand.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=74067133260",
+          "label": "ABR: business name 'Telstra Big Pond Home', trading name 'Telstra Big Pond'"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "6 Aug 2004",
+      "precision": "exact",
+      "details": "ABN cancelled 6 Aug 2004; consumer internet consolidated under the BigPond brand within Telstra proper.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=74067133260",
+          "label": "ABR: ABN cancelled 6 Aug 2004"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

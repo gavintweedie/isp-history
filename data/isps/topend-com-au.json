@@ -4,7 +4,7 @@
   "birthplace": "Darwin, NT",
   "status": "inactive",
   "website": "https://topend.com.au",
-  "summary": "NT/QLD dialup ISP (Darwin, Katherine, Alice Springs, Tennant Creek, Mt Isa, Cloncurry, Townsville hubs); defunct.",
+  "summary": "NT/QLD dialup ISP (Darwin, Katherine, Alice Springs, Tennant Creek, Mt Isa, Cloncurry, Townsville hubs); 'The First With 2MB In The Territory'; acquired into the Edge/Eisa group c. 2000; defunct.",
   "names": [
     {
       "name": "Topend.Com.Au",
@@ -12,20 +12,43 @@
       "start_disp": "by Apr 1997"
     }
   ],
+  "aliases": [
+    "Topend",
+    "topend.com.au"
+  ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
       "date_disp": "by Apr 1997",
       "precision": "by",
-      "details": "Operating by 10 Apr 1997."
+      "details": "Operating by 10 Apr 1997. 1997 IP index: TOPEND-AU 203.23.240.0/22, TOPENDCOMAU-AU 203.31.28.0/22, TOPEND2-AU 203.24.39.0/24, TOPENDCOMAU1-AU 203.39.4.0/22 (PO Box 819 Katherine NT 0851; GPO Box 2947 Darwin NT 0801). topend.com.au (5 Jun 1997): local-call access Darwin/Katherine/Tennant Creek/Alice Springs/Mt Isa/Cloncurry; web-based email; 'The First With 2MB In The Territory'.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970605081453/http://www.topend.com.au/",
+          "label": "Wayback 5 Jun 1997: topend.com.au - NT ISP (Darwin/Katherine)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: TOPEND-AU / TOPENDCOMAU-AU / TOPEND2-AU / TOPENDCOMAU1-AU"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2006,
       "date_disp": "2006",
       "precision": "exact",
-      "details": "Last active capture of topend.com.au (Aug 2006)."
+      "details": "Acquired into the Edge/Eisa group c. 2000 (Eisa Limited, trading as Edge Internet Services Australia; see eisa-limited + acquisition transition; Eisa registered 'EISA TOPEND' and 'TOPEND.COM.AU' business names); brand/domain continued under successors after Eisa's collapse (Austar -> Virtual Communities -> iiNet). Last active capture of topend.com.au (Aug 2006).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=15077368257",
+          "label": "ABR: EISA LIMITED - EISA TOPEND / TOPEND.COM.AU business names"
+        }
+      ]
     }
   ],
   "refs": [

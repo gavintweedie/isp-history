@@ -1,0 +1,106 @@
+{
+  "name": "Eisa Limited",
+  "slug": "eisa-limited",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "http://www.eisa.net.au",
+  "summary": "ASX-listed regional ISP roll-up (Eisa Limited, ASX: EIS, ACN 077 368 257, registered 05 Feb 1997), trading as 'Edge Internet Services Australia' (eisa.net.au, brand line 'Ride the wave with Edge Internet Services Australia'; Melbourne helpline 03 9416 0099). Ran regional ISP brands including Internet North (Cairns/FNQ, folded into this entity as the 'Eisa Internet North' brand), Dynamite (Canberra, since 1991) and Topend.Com.Au (Darwin/Katherine NT) - all acquired independents (see roll-up note), ~4,500 subs; folded into this entity as the 'Eisa Internet North' brand) and held 1997 IP-index allocations (EISA-AU, EISA001, EDGEINTERNETSER2/3/4-AU; Melbourne and Wickham NSW). Administrator appointed 21 Sep 2000; business sold to Austar United Broadband for $13m (06 Oct 2000); delisted 30 Aug 2001; deregistered 26 Aug 2003.",
+  "names": [
+    {
+      "name": "Eisa Limited",
+      "start_year": 1997,
+      "start_disp": "Feb 1997"
+    },
+    {
+      "name": "Eisa Internet North",
+      "start_year": 1996,
+      "start_disp": "c. 1996",
+      "end_year": 2001,
+      "end_disp": "Jun 2001"
+    }
+  ],
+  "aliases": [
+    "Edge Internet Services Australia",
+    "Edge Internet Services Australia Pty Ltd",
+    "EISA",
+    "Edge Internet Services Pty Ltd",
+    "Internet North",
+    "Eisa Internet North",
+    "EISA INTERNET NORTH",
+    "internetnorth.com.au",
+    "Eisa Dynamite",
+    "Eisa Topend"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "05 Feb 1997",
+      "precision": "exact",
+      "details": "Registered 05 Feb 1997 (ACN 077 368 257); ASX-listed (EIS). eisa.net.au captured 15 Apr 1997 branded 'Edge Internet Services Australia' ('Ride the wave with Edge Internet Services Australia', helpline 03 9416 0099). Held 1997 IP-index allocations: EISA-AU (203.41.218.0/26), EISA001 (203.166.224.0/19), EDGEINTERNETSER2-AU (202.139.12.0/22), EDGEINTERNETSER3-AU (203.41.218.64/26), EDGEINTERNETSER4-AU (203.43.148.0/26) - Melbourne and Wickham NSW.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970415231006/http://www.eisa.net.au/",
+          "label": "Wayback 15 Apr 1997: eisa.net.au - 'Ride the wave with Edge Internet Services Australia'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: EISA-AU, EISA001, EDGEINTERNETSER2-AU"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1999,
+      "date_disp": "c. 1999-2000",
+      "precision": "approx",
+      "details": "Regional ISP roll-up: acquired/operated regional ISP brands as business names of Eisa Limited (ACN 077 368 257) - 'EISA INTERNET NORTH' (Cairns/Far North Queensland, ~4,500 subs; POPs Cairns, Mossman, Innisfail, Atherton; business name 17 Apr 2000 - 28 Jun 2001; folded into this entity as a brand), 'EISA TOPEND' (Darwin NT; see topend-com-au), 'EISA DYNAMITE' (Canberra ACT; see dynamite-internet), plus TOPEND.COM.AU. Internet North was an independent FNQ ISP predating Eisa: 1997 IP-index allocation INTERNETNORTH-AU 203.14.120.0/22 (PO Box 11, Manunda QLD 4870). Dynamite (Canberra, born 25 Aug 1995; ACN 072 264 012) and Topend.Com.Au (NT) were acquired independents with their own entities and acquisition transitions. Eisa entered administration 21 Sep 2000; its regional ISP business incl. Internet North sold to Austar United Broadband 06 Oct 2000 (NSWSC 940).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=15077368257",
+          "label": "ABR: ABN 15 077 368 257 (EISA LIMITED) - business names incl. EISA INTERNET NORTH, EISA TOPEND, EISA DYNAMITE"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: INTERNETNORTH-AU 203.14.120.0/22 (PO Box 11, Manunda QLD 4870)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021203150211/http://www.cynosure.com.au/isp/internetnorth",
+          "label": "Internet North (Cynosure 2002)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "delisted 30 Aug 2001 (administration Sep 2000)",
+      "precision": "exact",
+      "details": "Administrator (Ferrier Hodgson) appointed 21 Sep 2000; agreement to sell the business to Austar United Broadband for $13m reached 06 Oct 2000; liquidator appointed 15 Dec 2000; delisted 30 Aug 2001; deregistered 26 Aug 2003.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/eisa-limited/",
+          "label": "Delisted: EISA Limited (EIS) - administrator 21/09/2000, sale to Austar 06/10/2000, delisted 30/08/2001"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/nsw/NSWSC/2000/940.html",
+          "label": "NSWSC 940: Eisa administration and sale to Austar (06 Oct 2000)",
+          "year": 2000
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=15077368257",
+      "label": "ABR: ABN 15 077 368 257 - EISA LIMITED (ACN 077 368 257)"
+    }
+  ]
+}

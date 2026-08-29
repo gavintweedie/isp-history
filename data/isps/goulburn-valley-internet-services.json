@@ -1,0 +1,40 @@
+{
+  "name": "Goulburn Valley Internet Services",
+  "slug": "goulburn-valley-internet-services",
+  "birthplace": "Shepparton, VIC",
+  "status": "unknown",
+  "website": "",
+  "summary": "Regional Victoria ISP in the Goulburn Valley (Shepparton VIC). Four 1997 IP-index allocations (GOULBURNVALLEYI1-AU .. GOULBURNVALLEYI4-AU, 203.36.124/124/144/191). Distinct from Goulburn Internet (NSW).",
+  "names": [
+    {
+      "name": "Goulburn Valley Internet Services",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Existing by 1997: GOULBURNVALLEYI1-AU (203.36.124.0/26), GOULBURNVALLEYI2-AU (203.36.124.64/26), GOULBURNVALLEYI3-AU (203.36.144.0/24), GOULBURNVALLEYI4-AU (203.36.191.0/24) - Shepparton VIC. NOTE: distinct from Goulburn Internet (goulburn-internet, NSW).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: GOULBURNVALLEYI1-AU .. GOULBURNVALLEYI4-AU"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "by",
+      "details": "Possibly related: 'G. V. I. Pty Ltd' / GVI Unit Trust (ABN 63 673 479 916), VIC 3630 (Shepparton), active Jul-Nov 2002, cancelled - likely an investment vehicle of the Goulburn Valley Internet operation, but the trading name is 'GVI Unit Trust' and identity as the ISP is unconfirmed."
+    }
+  ],
+  "refs": []
+}
