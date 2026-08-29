@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://dynamite.com.au",
-  "summary": "Canberra ISP that acquired Netinfo in 1998; domain redirected to AustarMetro ~2001-02.",
+  "summary": "Canberra ISP (Dynamite Investments (ACT) Pty Ltd, ACN 072 264 012) that grew out of the Dynamite BBS (~1989-90); acquired Netinfo in 1998; acquired into the Edge/Eisa group c. 2000; domain redirected to AustarMetro ~2001-02 and ultimately reached iiNet via the AustarMetro -> Virtual Communities -> iiNet chain.",
   "names": [
     {
       "name": "Dynamite Internet",
@@ -12,27 +12,84 @@
       "start_disp": "25 Aug 1995"
     }
   ],
+  "aliases": [
+    "Dynamite",
+    "Dynamite Investments (ACT) Pty Ltd",
+    "dynamite.net.au",
+    "dynamite.com.au"
+  ],
   "events": [
     {
       "kind": "birth",
       "year": 1995,
       "date_disp": "25 Aug 1995",
       "precision": "exact",
-      "details": "Company Profile: 'Dynamite Internet officially opened its door for operation on the 25 August 1995'; counter since 16 Aug 1995; predecessor Dynamite BBS Canberra ~1989-90.",
+      "details": "Company Profile: 'Dynamite Internet officially opened its door for operation on the 25 August 1995'; counter since 16 Aug 1995; predecessor Dynamite BBS Canberra ~1989-90 ('Canberra's Premier Internet Service Provider ... Since 1991' on dynamite.net.au 1997 refers to the BBS era). Dynamite Investments (ACT) Pty Ltd, ACN 072 264 012; tel (02) 6242 4000, info@dynamite.com.au.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19961229230536/http://dynamite.com.au/company_profile_main.html",
-          "label": "Dynamite Internet Company Profile \u2014 opened 25 Aug 1995"
+          "label": "Dynamite Internet Company Profile - opened 25 Aug 1995"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19971222001755/http://www.dynamite.net.au/",
+          "label": "Wayback 22 Dec 1997: dynamite.net.au - 'Canberra's Premier Internet Service Provider... Since 1991!' (Dynamite Investments (ACT) Pty Ltd ACN 072 264 012)"
         }
       ]
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "1997",
+      "precision": "exact",
+      "details": "1997 IP Network Index: DYNAMITEINTERNE-AU 203.55.120.0/23 (PO Box 150, Mitchell ACT 2911); separate 'DYNAMITE' netnames on CWO's 202.139 block carried Edge Internet Services' GPO Box 4658TT Melbourne - an early link to the Edge/Eisa group.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: DYNAMITEINTERNE-AU 203.55.120.0/23; DYNAMITE on CWO 202.139 (GPO Box 4658TT Melbourne)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "exact",
+      "details": "Acquired Netinfo in 1998.",
+      "refs": []
     },
     {
       "kind": "death",
       "year": 2001,
       "date_disp": "c. 2001-02",
       "precision": "approx",
-      "details": "Last Dynamite-branded snapshots early 2001; domain redirected to AustarMetro by 2002."
+      "details": "Acquired into the Edge/Eisa group c. 2000 (Eisa Limited, trading as Edge Internet Services Australia; see eisa-limited + acquisition transition; Eisa registered 'EISA DYNAMITE' and 'DYNAMITE INTERNET CONSULTING/RETAIL/WEB MASTERS' business names). Last Dynamite-branded snapshots early 2001; domain redirected to AustarMetro by 2002 (dynamite.net.au served AustarMetro content Jun 2002); ultimately reached iiNet via AustarMetro -> Virtual Communities (2004).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=15077368257",
+          "label": "ABR: EISA LIMITED - EISA DYNAMITE / DYNAMITE INTERNET CONSULTING/RETAIL/WEB MASTERS business names"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020603001659/http://www.dynamite.net.au/",
+          "label": "Wayback 3 Jun 2002: dynamite.net.au = AustarMetro homepage ('(c)Copyright Austar Internet 2002')"
+        },
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/408814",
+          "label": "Whirlpool (Oct 2005): AustarMetro customer base -> Virtual Communities -> iiNet (2004)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=15077368257",
+      "label": "ABR: Dynamite Investments (ACT) Pty Ltd ACN 072 264 012 (Eisa Limited's ABN 15 077 368 257)"
     }
   ]
 }

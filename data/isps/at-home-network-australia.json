@@ -1,0 +1,57 @@
+{
+  "name": "@Home Network Australia",
+  "slug": "at-home-network-australia",
+  "birthplace": "Australia",
+  "status": "inactive",
+  "website": "",
+  "summary": "Australian cable-broadband network operated by the 50/50 joint venture of Cable & Wireless Optus and Excite@Home (June 1999). One /16-scale 1997-era allocation (ATHOME-AU, 203.164.0.0-203.164.255.255). Optus took control of the venture in September 2001 after Excite@Home's US parent collapsed; the service continued under the Optus cable broadband umbrella.",
+  "names": [
+    {
+      "name": "@Home Network Australia",
+      "start_year": 1999,
+      "start_disp": "Jun 1999"
+    }
+  ],
+  "aliases": [
+    "Optus@Home",
+    "@Home Network"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "Jun 1999",
+      "precision": "exact",
+      "details": "Cable & Wireless Optus and Excite@Home formed a 50/50 joint venture company to provide @Home cable-broadband services in Australia (Optus media release, June 1999). The network held the ATHOME-AU allocation (203.164.0.0-203.164.255.255).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.optus.com.au/about/media-centre/media-releases/1999/06/cable-wireless-optus-and-excitehome-form-joint-venture-company",
+          "label": "Optus media release (Jun 1999): C&W Optus and Excite@Home form joint venture company"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2001,
+      "date_disp": "Sep 2001",
+      "precision": "exact",
+      "details": "Optus took control of the Excite@Home Australia venture (Optus media release, Sept 2001) after Excite@Home's US parent collapsed; the cable service continued under the Optus broadband umbrella.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.optus.com.au/about/media-centre/media-releases/2001/09/optus-takes-control-of-excitehome-australia",
+          "label": "Optus media release (Sept 2001): Optus takes control of Excite@Home Australia"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2001,
+      "date_disp": "after Sep 2001",
+      "precision": "by",
+      "details": "With Optus holding control from Sept 2001 and Excite@Home's US parent in bankruptcy, the joint venture ceased to operate as a distinct entity; the service was absorbed into Optus's cable broadband operation."
+    }
+  ],
+  "refs": []
+}

@@ -1,0 +1,70 @@
+{
+  "name": "Jade Communications",
+  "slug": "jade-communications",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "http://www.jade.net.au",
+  "summary": "Melbourne internet provider (Jade Communications Pty Ltd, ACN 071 725 856; jade.net.au). Three 1997 IP-index /24s - JADE-CC-AU (203.63.37.0/24), SECV-CC-AU (203.63.89.0/24), JADECOMM-CC-AU (203.63.218.0/24) jade.net.au captured 22 Jan 1998: web portal 'Created by Jade Communications', ACN 071 725 856, Level 2, 77 Southbank Blvd, South Melbourne 3205 (Tel 03 9696 8894). No ABR record for the Melbourne company (defunct; the current 'Jade Communications Pty Ltd' ABN 54 106 600 846 is an unrelated QLD entity reg ~2003). Folded into Labyrinth Connections Pty Ltd (ACN 069 211 678) ~mid-2000 - see keypoint = Labyrinth Connections Pty Ltd (acquisition transition + death event).",
+  "names": [
+    {
+      "name": "Jade Communications",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "Jade",
+    "Jade Communications Pty Ltd"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Existing by 1997 (IP Network Index): JADE-CC-AU 203.63.37.0/24 (12th Floor, 380 St Kilda Road, Melbourne 3004), SECV-CC-AU 203.63.89.0/24 (Level 2, 77 South Bank Bvd, South Melbourne 3205), JADECOMM-CC-AU 203.63.218.0/24 (Ground Floor, 380 St Kilda Road, Melbourne 3004)",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997 (203.63/16 = connect.com.au 'CCAIR' ISP block; JADE-CC / SECV-CC / JADECOMM-CC sub-allocs)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980122000000/http://www.jade.net.au/",
+          "label": "Wayback 22 Jan 1998: jade.net.au - Jade Communications (ACN 071 725 856, Southbank Blvd South Melbourne)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=54106600846",
+          "label": "ABR: unrelated QLD 'Jade Communications Pty Ltd' (reg ~2003, cancelled)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "c. mid-2000",
+      "precision": "approx",
+      "details": "Folded into Labyrinth Connections Pty Ltd (ACN 069 211 678) = the keypoint entity (renamed Key Point Pty Ltd c. 2002): jade.net.au's footer reverted from Jade's own company details (Level 2, 77 Southbank Blvd, South Melbourne; as late as 4 Mar 2000) to 'JADE COMMUNICATIONS; C/o Labyrinth Connections Pty Ltd ACN 069 211 678, Level 10, 99 Queen St Melbourne 3000, info@labyrinth.net.au' (by 17 Sep 2000). jade.net.au served a Labyrinth-KeyPoint redirection page by 30 Oct 2003. Jade Communications Pty Ltd (ACN 071 725 856) left no ABR record, consistent with deregistration at absorption.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000304004007/http://www.jade.net.au/",
+          "label": "Wayback 4 Mar 2000: jade.net.au (Jade's own ACN 071 725 856, Southbank)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000917061436/http://www.jade.net.au/",
+          "label": "Wayback 17 Sep 2000: jade.net.au (C/o Labyrinth Connections Pty Ltd ACN 069 211 678)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031030004636/http://www.jade.net.au/",
+          "label": "Wayback 30 Oct 2003: jade.net.au = Labyrinth >> KeyPoint redirection page"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

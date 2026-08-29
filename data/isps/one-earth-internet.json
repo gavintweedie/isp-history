@@ -1,0 +1,50 @@
+{
+  "name": "One Earth Internet",
+  "slug": "one-earth-internet",
+  "birthplace": "Wollongong, NSW",
+  "status": "inactive",
+  "website": "",
+  "summary": "Wollongong ISP ('ONE EARTH Internet'). Netnames ONEEARTH/ONEEARTHINTERNE-AU. Acquired by Chariot Limited on 1 January 2004 (2004 Annual Report Note 35; ~500 customers), among Chariot's FY2003-04 acquisitions.",
+  "names": [
+    {
+      "name": "One Earth Internet",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "ONE EARTH Internet",
+    "One Earth Internet PL"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Existing by 1997: ONEEARTH, ONEEARTHINTERNE-AU and ONEEARTHINTERNE1-AU allocations in the 1997 IP index (203.35.128.0-129.255, 203.35.246.0/24, 203.109.186.0/25, 203.132.224.0/20; Wollongong West NSW).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: ONEEARTH / ONEEARTHINTERNE-AU / TIG-1EARTHNET-1"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "1 Jan 2004",
+      "precision": "exact",
+      "details": "Acquired by Chariot Limited on 1 January 2004 (2004 Annual Report Note 35: 'One Earth, Internet Service Provider, 1 January 2004', ~500 customers), alongside Speedlink (also Wollongong).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report Note 35: One Earth acquired 1 Jan 2004"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

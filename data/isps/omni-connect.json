@@ -1,0 +1,52 @@
+{
+  "name": "OMNIconnect",
+  "slug": "omni-connect",
+  "birthplace": "Australia",
+  "status": "active",
+  "website": "",
+  "summary": "Wireless Internet service provider (OMNIconnect Pty Ltd, ACN 079 282 376, ABN 36 079 282 376; VIC South Melbourne, still registered). omni.net.au (1999-2004): 'OMNIconnect aim to become a leading supplier of Wireless Internet Services in Australia'; wireless broadband 256Kbps-2Mbps, OMNInet MAN metropolitan wireless networking, wholesale to carriers up to 155Mbps. Held the 1997 allocation OMNI 'ISP Core Network' (203.143.64.0/19).",
+  "names": [
+    {
+      "name": "OMNI connect",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "OMNIconnect",
+    "OMNIconnect Pty Ltd",
+    "OMNI connect"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "OMNIconnect Pty Ltd, ACN 079 282 376 (reg ~1997). 1997 allocation: OMNI 'ISP Core Network' (203.143.64.0/19). omni.net.au captured 25 Jan 1999: wireless telecommunications carrier (ACA list), OMNInet MAN metropolitan wireless networking (256K Melbourne CBD), 10Mb LAN microwave, wireless bridges; Mount Eliza VIC. By 2002 'Omniconnect Internet' offered wireless broadband 256Kbps-2Mbps and wholesale carrier/ISP services up to 155Mbps.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: OMNI 203.143.64.0/19"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990125101817/http://www.omni.net.au/",
+          "label": "Wayback 25 Jan 1999: omni.net.au - OMNIconnect Pty Ltd wireless carrier"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021005072551/http://www.omni.net.au/broadband.asp",
+          "label": "Wayback 5 Oct 2002: Omniconnect Internet - wireless broadband 256K-2Mbps, wholesale 155Mbps"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=%22OMNIconnect%22",
+          "label": "ABR: OMNIconnect Pty Ltd (ABN 36 079 282 376) - active"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Mullumbimby Access Point",
+  "slug": "mullumbimby-access-point",
+  "birthplace": "Mullumbimby, NSW",
+  "status": "unknown",
+  "website": "",
+  "summary": "Regional northern-NSW ISP (Mullumbimby Access Point Pty Ltd, ACN 078 688 418, ABN 67 078 688 418, Mullumbimby NSW 2482). Three 1997 IP-index allocations (MULLUMBIMBYACCE-AU 203.35.138.0/24, MULLUMBIMBYACCE1-AU 203.35.225.0/24, TIG-MULLUM-1 203.109.168.0/23) - the TIG netname places it on The Internet Group (ihug predecessor) network. A registered Pty Ltd holding /24 allocations on a carrier network indicates a dial-up ISP operation, NOT a net cafe. Business names: MAPIT (2001-2004), later Shelly Beach Cafe (2006-2010). ABN active 2000 - cancelled 16 Apr 2015.",
+  "names": [
+    {
+      "name": "Mullumbimby Access Point",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "Mullumbimby Access Point Pty Ltd"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Existing by 1997: MULLUMBIMBYACCE-AU (203.35.138.0/24), MULLUMBIMBYACCE1-AU (203.35.225.0/24), TIG-MULLUM-1 (203.109.168.0/23) - Mullumbimby NSW.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: MULLUMBIMBYACCE-AU, TIG-MULLUM-1"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "by May 2000",
+      "precision": "by",
+      "details": "Company identity: Mullumbimby Access Point Pty Ltd, ACN 078 688 418, ABN 67 078 688 418 (Mullumbimby NSW 2482). ABN active 01 May 2000 - cancelled 16 Apr 2015 (GST to Jun 2010). Business names: MAPIT (21 May 2001 - 10 Aug 2004); later 'Shelly Beach Cafe' / 'Shelleys Beach Shack' (2006-2010). Pty Ltd + /24 allocations + TIG-MULLUM-1 netname = dial-up ISP, not a net cafe.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=67078688418",
+          "label": "ABR: Mullumbimby Access Point Pty Ltd (ACN 078 688 418; MAPIT; cancelled 16 Apr 2015)"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

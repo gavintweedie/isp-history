@@ -26,6 +26,20 @@
       "date_disp": "c. 1997-98",
       "precision": "approx",
       "details": "Closed; APC Australia (c2o) formed 1997."
+    },
+    {
+      "kind": "note",
+      "year": 1998,
+      "date_disp": "by 07 Feb 1998",
+      "precision": "by",
+      "details": "earth.net.au captured 07 Feb 1998 serving 'Pegasus Networks Communications Pty Ltd' (ACN 003 767 084) - dial-up POPs Canberra/Brisbane/Melbourne/Perth/Newcastle/Sydney/Sunshine Coast; earth.net.au was one of Pegasus's domains (website field lists pegasus.com.au).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980207214906/http://www.earth.net.au/",
+          "label": "Wayback 7 Feb 1998: earth.net.au - Pegasus Networks Communications Pty Ltd"
+        }
+      ]
     }
   ],
   "refs": [
@@ -39,5 +53,9 @@
       "url": "https://web.archive.org/web/19991114000000/http://www.cynosure.com.au/isp/pegasus",
       "label": "Pegasus (Cynosure 1999)"
     }
+  ],
+  "aliases": [
+    "earth.net.au",
+    "Pegasus Networks Communications Pty Ltd"
   ]
 }

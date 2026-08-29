@@ -93,16 +93,16 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 1995,
-      "date_disp": "Dec 1995",
-      "notes": "Early acquisition strengthening iiNet's position in WA (Dec 1995).",
+      "year": 1997,
+      "date_disp": "Dec 1997",
+      "notes": "Access Communications (WA, accesswa.com.au) acquired by iiNet Technologies in December 1997 (iiNet's archived accesswa redirect page, confirmed). Earlier 'Dec 1995'/'c. Dec 1996' records were unsupported; iiNet's compressed later history grouped it with OIS as 1996.",
       "from": "access-communications",
       "to": "iinet",
       "refs": [
         {
-          "kind": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/IiNet",
-          "label": "Wikipedia: iiNet acquisition history"
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991009192458/http://www.iinet.net.au/help/refer/accesswa.html",
+          "label": "iiNet archived page: Access Communications acquired Dec 1997"
         }
       ]
     },
@@ -4235,13 +4235,12 @@
       "from": "broad-net-internet-services",
       "to": "chariot",
       "year": 2004,
-      "date_disp": "11 May 2004",
-      "notes": "Year corrected from 2005 to 2004 per primary source: Broadnet (Gold Coast) acquired by Chariot with Cairns-based Ledanet, announced 11 May 2004 (AAP/SMH).",
+      "date_disp": "1 Jun 2004",
+      "notes": "Acquired by Chariot as 'Broadnet' on 1 Jun 2004 (2004 Annual Report Note 35); announced publicly 11 May 2004 (SMH).",
       "refs": [
         {
-          "kind": "news",
-          "url": "https://www.smh.com.au/national/chariot-buys-two-queensland-isps-20040511-gdiwm4.html",
-          "label": "SMH 11 May 2004: Chariot buys two Queensland ISPs (Ledanet, Broadnet)"
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report Note 35: Acquisitions of Businesses (exact dates)"
         }
       ]
     },
@@ -5077,8 +5076,8 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "Oct 2000",
-      "notes": "Eisa regional ISP businesses including Internet North sold to Austar United Broadband Pty Ltd under Sale and Purchase Agreement 05 Oct 2000 approved 06 Oct 2000 (NSWSC 940).",
-      "from": "eisa-internet-north",
+      "notes": "Eisa regional ISP businesses including Internet North sold to Austar United Broadband Pty Ltd under Sale and Purchase Agreement 05 Oct 2000 approved 06 Oct 2000 (NSWSC 940). Sale of Eisa Limited's regional ISP business (incl. the Internet North / Eisa Internet North FNQ arm, ~4,500 subs) to Austar United Broadband under SPA 05 Oct 2000 (approved 06 Oct 2000, NSWSC 940).",
+      "from": "eisa-limited",
       "to": "austarnet",
       "refs": [
         {
@@ -5557,13 +5556,12 @@
       "from": "ledanet",
       "to": "chariot",
       "year": 2004,
-      "date_disp": "11 May 2004",
-      "notes": "Cairns-based Ledanet acquired by Chariot Ltd (with Gold Coast-based Broadnet), part of 12 acquisitions in 18 months.",
+      "date_disp": "1 Apr 2004",
+      "notes": "Acquired by Chariot on 1 Apr 2004 (2004 Annual Report Note 35); announced publicly 11 May 2004 (SMH).",
       "refs": [
         {
-          "kind": "news",
-          "url": "https://www.smh.com.au/national/chariot-buys-two-queensland-isps-20040511-gdiwm4.html",
-          "label": "SMH 11 May 2004: Chariot buys two Queensland ISPs"
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report Note 35: Acquisitions of Businesses (exact dates)"
         }
       ]
     },
@@ -5572,18 +5570,12 @@
       "from": "northnet",
       "to": "chariot",
       "year": 2003,
-      "date_disp": "Aug 2003 (announced); FY2003-04",
-      "notes": "Northnet (Armidale NSW) identified as 'Blue Pin Internet' in Chariot's FY2003-04 acquisitions (2004 Annual Report); announced with Squirrel Net on 8 Aug 2003 (SMH).",
+      "date_disp": "1 Aug 2003",
+      "notes": "Acquired by Chariot as 'Bluepin' on 1 Aug 2003 (2004 Annual Report Note 35). = Northnet, Armidale NSW.",
       "refs": [
         {
-          "kind": "archive",
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
-          "label": "Chariot 2004 Annual Report: 'Blue Pin Internet (Armidale, New South Wales)'"
-        },
-        {
-          "kind": "news",
-          "url": "https://www.smh.com.au/technology/chariot-acquires-two-isps-20030808-gdh8cw.html",
-          "label": "SMH 8 Aug 2003: Chariot acquires Blue Pin (NSW) and Squirrel Net (Brisbane)"
+          "label": "Chariot 2004 Annual Report Note 35: Acquisitions of Businesses (exact dates)"
         }
       ]
     },
@@ -5649,26 +5641,6 @@
     },
     {
       "type": "acquisition",
-      "from": "oznetcom",
-      "to": "chariot",
-      "year": 2005,
-      "date_disp": "by Mar 2005 (FY2004-05)",
-      "notes": "BY-DATE: oznetcom.com.au is a Chariot netconnect customer mail domain in the QLD portal webmail dropdown (25 Mar 2005 capture). Not in Chariot's FY2003-04 acquisitions list (2004 Annual Report) -> FY2004-05. Exact announcement date not publicly released.",
-      "refs": [
-        {
-          "kind": "archive",
-          "url": "https://web.archive.org/web/20050325095515/http://www.qldnet.com.au/",
-          "label": "Wayback 25 Mar 2005: Chariot netconnect portal webmail dropdown incl. oznetcom.com.au"
-        },
-        {
-          "kind": "archive",
-          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
-          "label": "Chariot 2004 Annual Report acquisitions list (Oznetcom absent -> FY2004-05)"
-        }
-      ]
-    },
-    {
-      "type": "acquisition",
       "from": "ecite-internet",
       "to": "chariot",
       "year": 2003,
@@ -5702,13 +5674,23 @@
       "from": "squirrel-internet",
       "to": "chariot",
       "year": 2003,
-      "date_disp": "Aug 2003",
-      "notes": "Brisbane-based Squirrel Net acquired by Chariot (announced with Blue Pin Internet, 8 Aug 2003).",
+      "date_disp": "1 Aug 2003",
+      "notes": "Brisbane-based Squirrel Net (Squirrel Internet) acquired by Chariot on 1 Aug 2003 - the 2004 Annual Report records this as 'Ozenetcom' (Note 35, $241k) while the directors' report calls it 'Squirrel Net (Brisbane, Queensland)': one deal, two names. Squirrel Internet and Ozenetcom were both operated by The It Farm Pty Ltd (ACN 100 815 414) from 1 Jul 2002. Announced publicly 8 Aug 2003 with Blue Pin Internet.",
       "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report Note 35: 'Ozenetcom' 1 Aug 2003 ($241k) = Directors' 'Squirrel Net (Brisbane)'"
+        },
         {
           "kind": "news",
           "url": "https://www.smh.com.au/technology/chariot-acquires-two-isps-20030808-gdh8cw.html",
           "label": "SMH 8 Aug 2003: Chariot acquires Blue Pin and Squirrel Net"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=62100815414",
+          "label": "ABR: The It Farm Pty Ltd - SQUIRREL INTERNET / OZNETCOM INTERNET trading names"
         }
       ]
     },
@@ -5717,13 +5699,12 @@
       "from": "speedlink",
       "to": "chariot",
       "year": 2004,
-      "date_disp": "FY2003-04 (by 30 Jun 2004)",
-      "notes": "Speedlink Internet (Wollongong, NSW) listed in Chariot's FY2003-04 acquisitions (2004 Annual Report), with One Earth Internet (also Wollongong). Exact announcement not separately located in press.",
+      "date_disp": "1 Jan 2004",
+      "notes": "Acquired by Chariot on 1 Jan 2004 (2004 Annual Report Note 35).",
       "refs": [
         {
-          "kind": "archive",
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
-          "label": "Chariot 2004 Annual Report: FY2003-04 acquisitions incl. 'Speedlink Internet (Wollongong, New South Wales)'"
+          "label": "Chariot 2004 Annual Report Note 35: Acquisitions of Businesses (exact dates)"
         }
       ]
     },
@@ -5739,6 +5720,148 @@
           "kind": "official",
           "url": "https://rdap.apnic.net/ip/203.18.248.0",
           "label": "APNIC RDAP: 203.18.248.0/21 registered to Ciphertel Pty Ltd (Bunbury), 4 Sep 2008"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "on-australia",
+      "to": "telstra",
+      "arm_label": "100%",
+      "year": 1996,
+      "date_disp": "Mar 1996",
+      "notes": "Telstra bought Microsoft's 50% shareholding in the On Australia JV (Mar 1996), assuming 100% control of the entity's equity and of Internet access; the entity continued as the vehicle for the 'Telstra Big Pond' brand until its ABN was cancelled 6 Aug 2004.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techmonitor.ai/technology/microsoft_abandons_australia_on_line_joint_venture_with_telstra",
+          "label": "Tech Monitor (13 Mar 1996): Microsoft abandons On Australia; Telstra takes 100%"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=74067133260",
+          "label": "ABR: On Australia Pty Ltd (ACN 067 133 260)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "one-earth-internet",
+      "to": "chariot",
+      "year": 2004,
+      "date_disp": "1 Jan 2004",
+      "notes": "One Earth Internet (Wollongong NSW) acquired by Chariot on 1 Jan 2004 (2004 Annual Report Note 35, ~500 customers), alongside Speedlink (same date).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
+          "label": "Chariot 2004 Annual Report Note 35: One Earth, 1 Jan 2004"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "network-technology",
+      "to": "eftel",
+      "year": 2000,
+      "date_disp": "Jun 2000",
+      "notes": "Network Technology (Morwell/Gippsland, Phillip Britt's regional ISP, 10k customers) sold to Datafast Telecommunications Ltd (later EFTel) June 2000; Britt held 2.84% of Datafast (share register 14 Jul 2000).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4129&announcementId=200273&documentDate=2000-08-25&documentNumber=166083",
+          "label": "Datafast Top 20 shareholders 14 Jul 2000: P M Britt 2.84%"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "at-home-network-australia",
+      "to": "optus",
+      "arm_label": "100%",
+      "year": 2001,
+      "date_disp": "Sep 2001",
+      "notes": "Optus took control of the Excite@Home Australia venture in September 2001 (after Excite@Home's US parent collapsed), assuming 100% of the JV; the cable service continued under the Optus broadband umbrella.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.optus.com.au/about/media-centre/media-releases/2001/09/optus-takes-control-of-excitehome-australia",
+          "label": "Optus media release (Sept 2001): Optus takes control of Excite@Home Australia"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "jade-communications",
+      "to": "keypoint",
+      "year": 2000,
+      "date_disp": "c. mid-2000",
+      "notes": "Jade Communications Pty Ltd (ACN 071 725 856) folded into Labyrinth Connections Pty Ltd (ACN 069 211 678) - Labyrinth Connections Pty Ltd, which renamed to Key Point Pty Ltd (keypoint) c. 2002 ~mid-2000. Primary evidence: jade.net.au footer reverted from Jade's own company (Level 2, 77 Southbank Blvd, South Melbourne - as late as 4 Mar 2000) to 'C/o Labyrinth Connections Pty Ltd ACN 069 211 678, Level 10, 99 Queen St Melbourne 3000, info@labyrinth.net.au' (by 17 Sep 2000); jade.net.au served a Labyrinth-KeyPoint redirection page by 30 Oct 2003. Jade left no ABR record, consistent with deregistration at absorption.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000304004007/http://www.jade.net.au/",
+          "label": "Wayback 4 Mar 2000: jade.net.au (Jade's own ACN 071 725 856, Southbank)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000917061436/http://www.jade.net.au/",
+          "label": "Wayback 17 Sep 2000: jade.net.au (C/o Labyrinth Connections Pty Ltd ACN 069 211 678)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031030004636/http://www.jade.net.au/",
+          "label": "Wayback 30 Oct 2003: jade.net.au = Labyrinth >> KeyPoint redirection page"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "dynamite-internet",
+      "to": "eisa-limited",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "notes": "Dynamite Internet (Dynamite Investments (ACT) Pty Ltd, Canberra, since 1991) acquired into Eisa Limited (Edge Internet Services Australia group). The 1997 IP index already linked Dynamite blocks to Edge's GPO Box 4658TT Melbourne (association by 1997); Eisa later registered 'EISA DYNAMITE' as a business name.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=15077368257",
+          "label": "ABR: EISA LIMITED - EISA DYNAMITE business name"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: DYNAMITE netnames on CWO 202.139 at Edge's GPO Box 4658TT"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "topend-com-au",
+      "to": "eisa-limited",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "notes": "Topend.Com.Au (NT ISP, Katherine/Darwin) acquired into Eisa Limited (Edge Internet Services Australia group); Eisa registered 'EISA TOPEND' and 'TOPEND.COM.AU' business names.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=15077368257",
+          "label": "ABR: EISA LIMITED - EISA TOPEND / TOPEND.COM.AU business names"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "austarmetro",
+      "to": "virtual-communities",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "notes": "AustarMetro customer base transferred to Virtual Communities (Melbourne) after Austar wound down its ISP brands; iiNet then bought the AustarMetro customer base from Virtual Communities in 2004 (see virtual-communities -> iinet). austarmetro.com.au had previously been eisametro.com.au and eisa.com.au.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://forums.whirlpool.net.au/archive/408814",
+          "label": "Whirlpool (Oct 2005): 'iiNet purchased the austarmetro customer base from Virtual Communities in 2004'; austarmetro.com.au formerly eisametro.com.au / eisa.com.au"
         }
       ]
     }

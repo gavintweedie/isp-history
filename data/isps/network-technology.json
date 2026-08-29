@@ -1,0 +1,42 @@
+{
+  "name": "Network Technology",
+  "slug": "network-technology",
+  "birthplace": "Morwell (Gippsland), VIC",
+  "status": "inactive",
+  "website": "",
+  "summary": "Gippsland regional ISP (Network Technology Pty Ltd, Morwell VIC), MD Phillip Britt (Aug 1996 - Jun 2000). Built a regional ISP focused in Gippsland providing dial-up services to over 10,000 customers (LinkedIn). Ten 1997 IP-index allocations (NETWORKTECHNOLO-AU x8 + NETCONNECT-NETTECH). Sold to Datafast Telecommunications (later EFTel) in June 2000.",
+  "names": [
+    {
+      "name": "Network Technology",
+      "start_year": 1996,
+      "start_disp": "Aug 1996"
+    }
+  ],
+  "aliases": [
+    "Network Technology Pty Ltd"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "Aug 1996",
+      "precision": "by",
+      "details": "Managed by Phillip Britt from Aug 1996; built a Gippsland-focused regional ISP providing dial-up to over 10,000 customers (LinkedIn). Ten 1997 IP-index allocations (NETWORKTECHNOLO-AU .. NETWORKTECHNOLO8-AU, NETCONNECT-NETTECH; Morwell/Gippsland VIC, incl. 203.87.28.0/22).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: NETWORKTECHNOLO-AU x9"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2000,
+      "date_disp": "Jun 2000",
+      "precision": "exact",
+      "details": "Sold to Datafast Telecommunications Ltd (later EFTel) in June 2000."
+    }
+  ],
+  "refs": []
+}

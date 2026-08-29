@@ -1,0 +1,73 @@
+{
+  "name": "Westvic Internet",
+  "slug": "westvic-internet",
+  "birthplace": "Warrnambool, VIC",
+  "status": "unknown",
+  "website": "",
+  "summary": "Regional Victoria ISP based in Warrnambool (WESTVICINTERNET-AU, four allocations in the 1997 IP index). The 'Westvic' (western Victoria) lineage very likely continues: Westvic Broadband Pty Ltd (ACN 106 835 947) was registered 28 Oct 2003 in Warrnambool (VIC 3280), moved to Traralgon (3840) Nov 2008, adopted the '.AUSSIE BROADBAND' business name (2007), and merged with Wideband Networks to form Aussie Broadband (2008). Westvic Internet Pty Ltd also held shares in Datafast Telecommunications (2.19%, share register 14 Jul 2000), indicating activity into 2000. Exact corporate continuity between the 1997 Westvic Internet and the 2003 Westvic Broadband is not documented but the shared Warrnambool base is strong circumstantial evidence.",
+  "names": [
+    {
+      "name": "Westvic Internet",
+      "start_year": 1997,
+      "start_disp": "by 1997"
+    }
+  ],
+  "aliases": [
+    "Westvic Internet Pty Ltd"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "by 1997",
+      "precision": "by",
+      "details": "Existing by 1997: WESTVICINTERNET-AU .. WESTVICINTERNET3-AU allocations (203.36.148.0/24, 203.43.89.192/26, 203.43.128.64/26, 203.55.11.0/24; Warrnambool VIC).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
+          "label": "IP Network Index 1997: WESTVICINTERNET-AU x4"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "by 14 Jul 2000",
+      "precision": "by",
+      "details": "Warrnambool lineage: Westvic Broadband Pty Ltd (ACN 106 835 947) registered 28 Oct 2003 at VIC 3280 (Warrnambool), moved to VIC 3840 (Traralgon) 27 Nov 2008; business name '.AUSSIE BROADBAND' from 02 Aug 2007; merged with Wideband Networks to form Aussie Broadband (2008). Same town as the 1997 Westvic Internet - strong circumstantial evidence of a continuous 'Westvic' ISP lineage, though the corporate handover is not documented The modern retail ISP runs as '.Aussie Broadband' (business name held by Westvic Broadband from 02 Aug 2007), amalgamated with Wideband Networks Pty Ltd (East Gippsland wireless/ADSL ISP, Traralgon) to form the Aussie Broadband group (see aussie-broadband).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=82106835947",
+          "label": "ABR: Westvic Broadband Pty Ltd (ACN 106 835 947) - Warrnambool 3280 (2003-2008) -> Traralgon 3840; '.AUSSIE BROADBAND' business name"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.aussiebroadband.com.au/about-us/our-history/",
+          "label": "Aussie Broadband: Our History - Westvic Broadband + Wideband Networks merged 2008"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2003,
+      "date_disp": "2003 (separate entity)",
+      "precision": "approx",
+      "details": "Warrnambool lineage: Westvic Broadband Pty Ltd (ACN 106 835 947) registered 28 Oct 2003 at VIC 3280 (Warrnambool), moved to VIC 3840 (Traralgon) 27 Nov 2008; business name '.AUSSIE BROADBAND' from 02 Aug 2007; merged with Wideband Networks to form Aussie Broadband (2008). Same town as the 1997 Westvic Internet - strong circumstantial evidence of a continuous 'Westvic' ISP lineage, though the corporate handover is not documented",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=82106835947",
+          "label": "ABR: Westvic Broadband Pty Ltd (ACN 106 835 947) - Warrnambool 3280 (2003-2008) -> Traralgon 3840; '.AUSSIE BROADBAND' business name"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.aussiebroadband.com.au/about-us/our-history/",
+          "label": "Aussie Broadband: Our History - Westvic Broadband + Wideband Networks merged 2008"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

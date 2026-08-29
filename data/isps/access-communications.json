@@ -3,8 +3,8 @@
   "slug": "access-communications",
   "birthplace": "WA",
   "status": "inactive",
-  "website": "access.net.au",
-  "summary": "Early Western Australian ISP acquired by iiNet.",
+  "website": "http://www.accesswa.com.au",
+  "summary": "Early Western Australian ISP (Access Communications (WA) Pty Ltd, ACN 068 763 609; website accesswa.com.au), acquired by iiNet c. Dec 1996 (some sources: Dec 1997).",
   "names": [
     {
       "name": "Access Communications",
@@ -22,17 +22,44 @@
     },
     {
       "kind": "death",
-      "year": 1995,
-      "date_disp": "Dec 1995",
+      "year": 1997,
+      "date_disp": "Dec 1997",
       "precision": "exact",
-      "details": "Acquired by iiNet (Dec 1995).",
+      "details": "Acquired by iiNet Technologies in December 1997 (iiNet's own archived redirect page for the absorbed company: 'In December 1997, Access Communications was acquired by Perth's leading Internet provider iiNet Technologies (that's us)'). Note: iiNet's later-compressed 'through the years' history grouped this with Online Information Systems as 1996, and the 1998-era iiNet timeline listed it under Dec 1997; the primary archived source confirms Dec 1997.",
       "refs": [
         {
           "kind": "archive",
+          "url": "https://web.archive.org/web/19991009192458/http://www.iinet.net.au/help/refer/accesswa.html",
+          "label": "iiNet archived page: 'Access Communications has moved' — acquired by iiNet Dec 1997"
+        },
+        {
+          "kind": "archive",
           "url": "https://web.archive.org/web/19980224153402/www.iinet.net.au/about/timeline.html",
-          "label": "iiNet timeline \u2014 Dec 1995 Access Communications acquisition"
+          "label": "iiNet timeline (1998) — Access Communications acquisition (Dec 1997)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1997,
+      "date_disp": "Apr 1997",
+      "precision": "by",
+      "details": "Domain identified as accesswa.com.au (not access.net.au, which belongs to Access Net Australia): Kim Davies' Australian ISP List (Apr 1997) entry for Access Communications lists Web Site http://www.accesswa.com.au/, email tbontes@accesswa.com.au. accesswa.com.au captured by Wayback from 18 Apr 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970410100332/http://www.cynosure.com.au:80/isp/accesswa",
+          "label": "Kim Davies' Australian ISP List (Apr 1997): Access Communications - www.accesswa.com.au"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980418001021/http://accesswa.com.au/",
+          "label": "Wayback 18 Apr 1998: accesswa.com.au"
         }
       ]
     }
+  ],
+  "aliases": [
+    "Access WA"
   ]
 }

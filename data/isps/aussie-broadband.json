@@ -4,7 +4,7 @@
   "birthplace": "Morwell, VIC",
   "status": "active",
   "website": "https://www.aussiebroadband.com.au",
-  "summary": "Regional Victorian ISP founded in Gippsland that grew into a major national RSP and ASX-listed telecom group (AUSSIE BROADBAND LIMITED, ACN 132 090 192).",
+  "summary": "Regional Victorian ISP that grew into a major national RSP and ASX-listed telecom group. Formed (Aussie Broadband Ltd, ACN 132 090 192) from the amalgamation of two 2003-era Gippsland broadband ISPs: Westvic Broadband Pty Ltd (ACN 106 835 947, Warrnambool; retail, trading as '.Aussie Broadband') and Wideband Networks Pty Ltd (ACN 097 649 851, Traralgon; wireless/ADSL retail ISP for East Gippsland; renamed Aussie Fibre Pty Ltd 2024, now the group's fibre/wholesale arm).",
   "names": [
     {
       "name": "Aussie Broadband",
@@ -18,7 +18,24 @@
       "year": 2008,
       "date_disp": "2008",
       "precision": "exact",
-      "details": "Founded via amalgamation of Westvic Broadband and Wideband Networks (both trading since 2003)."
+      "details": "Founded via amalgamation of Westvic Broadband and Wideband Networks (both trading since 2003) under Aussie Broadband Ltd (ACN 132 090 192, Traralgon VIC 3840). Operating entities: Westvic Broadband Pty Ltd (ACN 106 835 947, reg 28 Oct 2003 Warrnambool 3280; Traralgon 3840 from 27 Nov 2008; business name '.AUSSIE BROADBAND' from 02 Aug 2007 - the retail RSP), and Wideband Networks Pty Ltd (ACN 097 649 851, ABN 11 097 649 851, reg 27 Feb 2003 Traralgon; regional retail ISP 2003-2008: HiBIS wireless broadband (Mt Taylor, Bairnsdale/East Gippsland), ADSL, VoIP 'Wideband Voice', web hosting; renamed Aussie Fibre Pty Ltd 09 Oct 2024 - now the group's fibre/wholesale arm).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=82106835947",
+          "label": "ABR: Westvic Broadband Pty Ltd (ACN 106 835 947; '.AUSSIE BROADBAND' business name from 02 Aug 2007)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=11097649851",
+          "label": "ABR: Wideband Networks Pty Ltd (ACN 097 649 851; renamed Aussie Fibre Pty Ltd 09 Oct 2024)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060105075209/http://www.wideband.net.au/",
+          "label": "Wayback 5 Jan 2006: wideband.net.au - Wideband Networks Pty Ltd: wireless broadband, ADSL, VoIP, hosting (East Gippsland)"
+        }
+      ]
     },
     {
       "kind": "note",
