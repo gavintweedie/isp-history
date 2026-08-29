@@ -4,7 +4,7 @@
   "birthplace": "South Australia",
   "status": "inactive",
   "website": "https://senet.com.au",
-  "summary": "Early SA ISP (founded 1994); part of the OzEmail group.",
+  "summary": "Early SA ISP founded 1994 by Steve Baxter from his Adelaide home; grew to >35,000 customers; acquired by OzEmail/UUNet.",
   "names": [
     {
       "name": "SENET",
@@ -21,14 +21,14 @@
       "year": 1994,
       "date_disp": "1994",
       "precision": "exact",
-      "details": "SE Network Access, member of SA Internet Association."
+      "details": "Founded 1994 by Steve Baxter (age 23, ex-Army engineer 1986-1995) from the spare room of his Adelaide home with $11,000 life savings; trading as SE Net / SE Network Access, member of SA Internet Association."
     },
     {
       "kind": "death",
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Absorbed into the OzEmail group."
+      "details": "With >35,000 customers, acquired by OzEmail/UUNet (under future PM Malcolm Turnbull)."
     }
   ],
   "refs": [
@@ -36,6 +36,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980202100132/http://www.senet.com.au/senet/about.html",
       "label": "SENET about (Wayback 1998)"
+    },
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Steve_Baxter_(entrepreneur)",
+      "label": "Wikipedia: Steve Baxter — SE Net founded 1994, >35,000 customers, acquired by OzEmail/UUNet"
     }
   ]
 }

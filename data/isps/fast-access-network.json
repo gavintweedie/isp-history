@@ -1,38 +1,53 @@
 {
   "name": "Fast Access Network",
   "slug": "fast-access-network",
-  "birthplace": "Perth, WA",
+  "birthplace": "Gold Coast, QLD",
   "status": "inactive",
   "website": "https://fastaccess.com.au",
-  "summary": "Perth dialup ISP + PC/network support (Fast Access Network Pty Ltd, AS7611, ~1996-97, ACN 070 043 131); company defunct, founder continued as sole trader.",
+  "summary": "Gold Coast dial-up ISP + helpdesk (1995-2000), founded by David Hughes at Bond University; acquired Mar 2000 by Asia Online Ltd (7th Australian acquisition, QLD).",
   "names": [
     {
       "name": "Fast Access Network",
-      "start_year": 1996,
-      "start_disp": "c. 1996"
+      "start_year": 1995,
+      "start_disp": "Jan 1995"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "c. 1996",
+      "year": 1995,
+      "date_disp": "Jan 1995",
       "precision": "approx",
-      "details": "Dialup + PC/network support."
+      "details": "Founded Jan 1995 by David Hughes; grew to helpdesk operation with dedicated staff (Geoff Leff Jan 1996). Informal operation by 1994-95 QAUUG/Bond University."
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct as company."
+      "year": 2000,
+      "date_disp": "22 Feb 2000",
+      "precision": "exact",
+      "details": "Acquired by Hong Kong-based Asia Online Ltd as its seventh Australian ISP (Queensland), reported 16 Mar 2000. Share sale agreement 22 Feb 2000: Fast Access Network Pty Ltd (ACN 070 043 131) to Asia Online-Australia Pty Ltd (ACN 089 444 691), A$2,342,500 + 208,600 Class C shares."
     }
   ],
   "refs": [
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=74070043131",
-      "label": "ABR: FAST ACCESS NETWORK PTY LTD ACN 070 043 131"
+      "label": "ABR: FAST ACCESS NETWORK PTY LTD ACN 070 043 131 — QLD 4217"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.sec.gov/Archives/edgar/data/1093954/000103570400000573/ex2-4.txt",
+      "label": "SEC Edgar ex2-4: Share Sale 22 Feb 2000 Fast Access Network Pty Ltd → Asia Online-Australia Pty Ltd (A$2.34m + 208,600 shares)"
+    },
+    {
+      "kind": "news",
+      "url": "https://eresources.nlb.gov.sg/newspapers/digitised/page/biztimes20000308-1.1.12",
+      "label": "NLB Business Times 08 Mar 2000 Briefs — Asia Online seventh Australian ISP (Queensland)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://archive.is/wxISS",
+      "label": "archive.is/wxISS — mirror of AFR 1999-10-04 k922k (Asia Online roll-up context)"
     }
   ]
 }
