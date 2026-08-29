@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "http://www.jade.net.au",
-  "summary": "Melbourne internet provider (Jade Communications Pty Ltd, ACN 071 725 856; jade.net.au). Three 1997 IP-index /24s - JADE-CC-AU (203.63.37.0/24), SECV-CC-AU (203.63.89.0/24), JADECOMM-CC-AU (203.63.218.0/24) - sub-allocations from connect.com.au Pty Ltd's 203.63.0.0/16 ('CCAIR' Internet Service Provider Block Assignment), hence the -CC- netname tag and Jade's homepage link to Connect.Com.AU. jade.net.au captured 22 Jan 1998: web portal 'Created by Jade Communications', ACN 071 725 856, Level 2, 77 Southbank Blvd, South Melbourne 3205 (Tel 03 9696 8894). No ABR record for the Melbourne company (defunct; the current 'Jade Communications Pty Ltd' ABN 54 106 600 846 is an unrelated QLD entity reg ~2003). Folded into Labyrinth Connections Pty Ltd (ACN 069 211 678) ~mid-2000 - see keypoint = Labyrinth Connections Pty Ltd (acquisition transition + death event).",
+  "summary": "Melbourne internet provider (Jade Communications Pty Ltd, ACN 071 725 856; jade.net.au). Three 1997 IP-index /24s - JADE-CC-AU (203.63.37.0/24), SECV-CC-AU (203.63.89.0/24), JADECOMM-CC-AU (203.63.218.0/24) jade.net.au captured 22 Jan 1998: web portal 'Created by Jade Communications', ACN 071 725 856, Level 2, 77 Southbank Blvd, South Melbourne 3205 (Tel 03 9696 8894). No ABR record for the Melbourne company (defunct; the current 'Jade Communications Pty Ltd' ABN 54 106 600 846 is an unrelated QLD entity reg ~2003). Folded into Labyrinth Connections Pty Ltd (ACN 069 211 678) ~mid-2000 - see keypoint = Labyrinth Connections Pty Ltd (acquisition transition + death event).",
   "names": [
     {
       "name": "Jade Communications",
@@ -22,7 +22,7 @@
       "year": 1997,
       "date_disp": "by 1997",
       "precision": "by",
-      "details": "Existing by 1997 (IP Network Index): JADE-CC-AU 203.63.37.0/24 (12th Floor, 380 St Kilda Road, Melbourne 3004), SECV-CC-AU 203.63.89.0/24 (Level 2, 77 South Bank Bvd, South Melbourne 3205), JADECOMM-CC-AU 203.63.218.0/24 (Ground Floor, 380 St Kilda Road, Melbourne 3004). All three were sub-allocations from connect.com.au Pty Ltd's 203.63.0.0/16 ('CCAIR' - 'Internet Service Provider Block Assignment', Level 9, 114 Albert Road, South Melbourne) - the -CC- tag identifies connect.com.au's block, not Jade. The netname 'SECV-CC-AU' (SECV = State Electricity Commission of Victoria) is a name only: no primary source ties Jade to the SECV, so no such relationship is claimed.",
+      "details": "Existing by 1997 (IP Network Index): JADE-CC-AU 203.63.37.0/24 (12th Floor, 380 St Kilda Road, Melbourne 3004), SECV-CC-AU 203.63.89.0/24 (Level 2, 77 South Bank Bvd, South Melbourne 3205), JADECOMM-CC-AU 203.63.218.0/24 (Ground Floor, 380 St Kilda Road, Melbourne 3004)",
       "refs": [
         {
           "kind": "archive",
