@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "clever.net.au",
-  "summary": "Wireless broadband carrier (ASX: APV, later CVA); founded 2001 as Access Providers; acquired Saise Telecom (2005) and Activ Australia (2006); renamed Clever Communications 19 Jul 2007; SMB assets to M2 (2010); acquired by BigAir Dec 2010/Jan 2011.",
+  "summary": "Wireless broadband carrier (ASX: APV, later CVA); founded 2001 as Access Providers; acquired Saise Telecom (2005) and Activ Australia (2006); renamed Clever Communications 19 Jul 2007; SMB assets to M2 (2010); acquired by BigAir Dec 2010/Jan 2011 (CLEVER COMMUNICATIONS AUSTRALIA PTY LIMITED, ACN 103 623 356).",
   "names": [
     {
       "name": "Access Providers",
@@ -42,6 +42,13 @@
       "date_disp": "Jan 2011",
       "precision": "exact",
       "details": "Acquired by BigAir (compulsory acquisition); SMB assets to M2 (2010)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=72103623356",
+      "label": "ABR: CLEVER COMMUNICATIONS AUSTRALIA PTY LIMITED ACN 103 623 356"
     }
   ]
 }

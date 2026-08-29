@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://aol.net.au",
-  "summary": "America Online's Australian service: launched 1998 from a 50/50 AOL-Bertelsmann JV (announced Oct 1997); restructured as a 50/50 AOL-AAPT joint venture (announced 30 Mar 2000) with exclusive AOL/CompuServe rights across PC and wireless platforms; became the three-way AOL|7 venture with Seven Network (merging Seven's i7 portal, Oct 2001); sold to Primus Telecommunications Feb 2004, which ran the AOL-branded ISP under licence until AOL access was withdrawn 31 May 2010.",
+  "summary": "America Online's Australian service: launched 1998 from a 50/50 AOL-Bertelsmann JV (announced Oct 1997); restructured as a 50/50 AOL-AAPT joint venture (announced 30 Mar 2000) with exclusive AOL/CompuServe rights across PC and wireless platforms; became the three-way AOL|7 venture with Seven Network (merging Seven's i7 portal, Oct 2001); sold to Primus Telecommunications Feb 2004, which ran the AOL-branded ISP under licence until AOL access was withdrawn 31 May 2010 (AOL AUSTRALIA PTY LTD, ACN 633 469 468).",
   "names": [
     {
       "name": "AOL Australia",
@@ -106,6 +106,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/AOL",
       "label": "Wikipedia: AOL"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=46633469468",
+      "label": "ABR: AOL AUSTRALIA PTY LTD ACN 633 469 468"
     }
   ]
 }

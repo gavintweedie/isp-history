@@ -4,7 +4,7 @@
   "birthplace": "St Leonards, NSW",
   "status": "inactive",
   "website": "https://geko.com.au",
-  "summary": "Dialup/ADSL/network-solutions ISP; acquired by Hotkey Internet Services ~2002.",
+  "summary": "Dialup/ADSL/network-solutions ISP; acquired by Hotkey Internet Services ~2002 (GEKO INTERNET PTY LTD, ACN 081 197 668).",
   "names": [
     {
       "name": "Geko Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030621082420/http://www.geko.com.au/",
       "label": "Geko (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=43081197668",
+      "label": "ABR: GEKO INTERNET PTY LTD ACN 081 197 668"
     }
   ]
 }

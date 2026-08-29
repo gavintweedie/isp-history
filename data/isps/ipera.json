@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://ipera.net.au",
-  "summary": "ISP acquired by Vocus.",
+  "summary": "ISP acquired by Vocus (IPERA COMMUNICATIONS PTY LIMITED, ACN 090 964 104).",
   "names": [
     {
       "name": "Ipera Communications",
@@ -33,6 +33,13 @@
       "date_disp": "2013",
       "precision": "exact",
       "details": "Acquired by Vocus."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=31090964104",
+      "label": "ABR: IPERA COMMUNICATIONS PTY LIMITED ACN 090 964 104"
     }
   ]
 }

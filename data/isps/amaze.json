@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://amaze.com.au",
-  "summary": "Sydney dial-up/prepaid ISP (Amaze Technologies Pty Ltd, est. 1996); acquired Holodoc OZ 2000; went into administration Oct 2002, ABN cancelled 2003. NOTE: distinct from SIS Group (Amaze), a later web host that absorbed Bullet Internet.",
+  "summary": "Sydney dial-up/prepaid ISP (Amaze Technologies Pty Ltd, est. 1996, ACN 666 475 903); acquired Holodoc OZ 2000; went into administration Oct 2002, ABN cancelled 2003. NOTE: distinct from SIS Group (Amaze), a later web host that absorbed Bullet Internet.",
   "names": [
     {
       "name": "Amaze Communications",
@@ -26,6 +26,13 @@
       "date_disp": "Oct 2002",
       "precision": "exact",
       "details": "Administration (David Levi as administrator); ABN cancelled 2003."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=84666475903",
+      "label": "ABR: AMAZE CO PTY LTD ACN 666 475 903"
     }
   ]
 }

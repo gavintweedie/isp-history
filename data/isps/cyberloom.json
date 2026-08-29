@@ -4,7 +4,7 @@
   "birthplace": "Surry Hills (Sydney), NSW",
   "status": "inactive",
   "website": "https://loom.com.au",
-  "summary": "Sydney dialup ISP + web design (Cyberloom Pty Ltd); wound down ~2005-06.",
+  "summary": "Sydney dialup ISP + web design (Cyberloom Pty Ltd, ACN 070 228 938); wound down ~2005-06.",
   "names": [
     {
       "name": "Cyberloom",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970111022148/http://www.loom.com.au/",
       "label": "Cyberloom (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=27070228938",
+      "label": "ABR: CYBERLOOM PTY. LTD. ACN 070 228 938"
     }
   ]
 }

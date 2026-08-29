@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://magnadata.com.au",
-  "summary": "Early consumer ISP (unlimited dialup); became NTT Australia via Davnet.",
+  "summary": "Early consumer ISP (unlimited dialup); became NTT Australia via Davnet (MAGNADATA PTY. LIMITED, ACN 095 576 971).",
   "names": [
     {
       "name": "Magnadata",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20110815121522/http://magnadata.com.au/",
       "label": "magnadata.com.au (Wayback 2011, parked)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=80095576971",
+      "label": "ABR: MAGNADATA PTY. LIMITED ACN 095 576 971"
     }
   ]
 }

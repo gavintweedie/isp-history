@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "commander.com.au",
-  "summary": "Sydney telco/IT services group; parent of PBBA (iBurst wireless); collapsed 2009.",
+  "summary": "Sydney telco/IT services group; parent of PBBA (iBurst wireless); collapsed 2009 (M2 COMMANDER PTY LTD, ACN 136 950 082).",
   "names": [
     {
       "name": "Commander",
@@ -26,6 +26,13 @@
       "date_disp": "2009",
       "precision": "exact",
       "details": "Collapsed/restructured."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=85136950082",
+      "label": "ABR: M2 COMMANDER PTY LTD ACN 136 950 082"
     }
   ]
 }

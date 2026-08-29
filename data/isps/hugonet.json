@@ -4,7 +4,7 @@
   "birthplace": "Geelong, VIC",
   "status": "inactive",
   "website": "https://hugonet.com.au",
-  "summary": "Geelong ISP, formerly HC Internet (2005); defunct.",
+  "summary": "Geelong ISP, formerly HC Internet (2005); defunct (WE MANAGE I.T. PTY. LTD., ACN 131 827 631).",
   "names": [
     {
       "name": "HugoNet",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2008",
       "precision": "approx",
       "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=85131827631",
+      "label": "ABR: WE MANAGE I.T. PTY. LTD. ACN 131 827 631"
     }
   ]
 }

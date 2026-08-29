@@ -4,7 +4,7 @@
   "birthplace": "Deception Bay (Brisbane), QLD",
   "status": "inactive",
   "website": "https://lampis.aunz.com",
-  "summary": "Queensland dialup ISP (Australia-wide via 0198 Dial Connect; POPs Melbourne, Newcastle, Bathurst, Perth, Kalgoorlie; aunz.com network); defunct.",
+  "summary": "Queensland dialup ISP (Australia-wide via 0198 Dial Connect; POPs Melbourne, Newcastle, Bathurst, Perth, Kalgoorlie; aunz.com network); defunct (LAMP INTERNET PROPRIETARY LIMITED, ACN 097 610 976).",
   "names": [
     {
       "name": "Lamp Internet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021003215435/http://www.cynosure.com.au/isp/lampis",
       "label": "Lamp (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=17097610976",
+      "label": "ABR: LAMP INTERNET PROPRIETARY LIMITED ACN 097 610 976"
     }
   ]
 }

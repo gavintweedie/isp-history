@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://t3.com.au",
-  "summary": "Sydney carrier/wholesale voice + data reseller for SMBs (T3 Communication Partners Pty Ltd group, incl. T3 Communications Pty Ltd; founded 2002, MD Carlos Perez); launched consumer iBurst 'T3 Wireless' retail arm FY2004/05; acquired by Pacific Internet for up to $5m (SPA 31 Oct 2005); T3's ~800 iBurst customers sold to BigAir June 2006.",
+  "summary": "Sydney carrier/wholesale voice + data reseller for SMBs (T3 Communication Partners Pty Ltd group, incl. T3 Communications Pty Ltd; founded 2002, MD Carlos Perez, ACN 099 127 536); launched consumer iBurst 'T3 Wireless' retail arm FY2004/05; acquired by Pacific Internet for up to $5m (SPA 31 Oct 2005); T3's ~800 iBurst customers sold to BigAir June 2006.",
   "names": [
     {
       "name": "T3 Communications",
@@ -33,6 +33,11 @@
       "kind": "news",
       "url": "https://www.sec.gov/Archives/edgar/data/1074245/000114554906000944/u92779exv4w41.htm",
       "label": "SEC: Pacific Internet T3 Share Sale Agreement (Oct 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=74099127536",
+      "label": "ABR: T3 COMMUNICATIONS PTY LTD ACN 099 127 536"
     }
   ]
 }

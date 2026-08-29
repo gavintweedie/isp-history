@@ -4,7 +4,7 @@
   "birthplace": "Docklands (Melbourne), VIC",
   "status": "inactive",
   "website": "https://telecube.com.au",
-  "summary": "Melbourne VoIP/hosted PABX + NBN/ADSL provider (Telecube Pty Ltd, founded April 2009); liquidation 29 Aug 2018; Siptalk took part of the customer base.",
+  "summary": "Melbourne VoIP/hosted PABX + NBN/ADSL provider (Telecube Pty Ltd, founded April 2009, ACN 135 689 495); liquidation 29 Aug 2018; Siptalk took part of the customer base.",
   "names": [
     {
       "name": "Telecube",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20180814054455/https://telecube.com.au/",
       "label": "Telecube (Wayback 2018)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=13135689495",
+      "label": "ABR: TELECUBE PTY LTD ACN 135 689 495"
     }
   ]
 }

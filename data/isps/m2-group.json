@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "m2.com.au",
-  "summary": "Aggressive consolidator that bought many ISPs (Dodo, iPrimus, People Telecom, Eftel); merged with Vocus in 2016.",
+  "summary": "Aggressive consolidator that bought many ISPs (Dodo, iPrimus, People Telecom, Eftel); merged with Vocus in 2016 (M2 GROUP PTY LTD, ACN 091 575 021).",
   "names": [
     {
       "name": "M2 Group",
@@ -26,6 +26,13 @@
       "date_disp": "2016",
       "precision": "exact",
       "details": "Merged with Vocus to form Vocus Group."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=74091575021",
+      "label": "ABR: M2 GROUP PTY LTD ACN 091 575 021"
     }
   ]
 }

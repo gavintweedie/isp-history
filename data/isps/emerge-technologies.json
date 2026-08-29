@@ -4,7 +4,7 @@
   "birthplace": "Kalgoorlie, WA",
   "status": "inactive",
   "website": "https://emerge.net.au",
-  "summary": "Kalgoorlie ISP/IT firm, formed 1999 by the merger of Ludin Computers (also trading as Goldfields-Esperance Internet) and GoldNet; spun the ISP side back to GoldNet ~2013.",
+  "summary": "Kalgoorlie ISP/IT firm, formed 1999 by the merger of Ludin Computers (also trading as Goldfields-Esperance Internet) and GoldNet; spun the ISP side back to GoldNet ~2013 (EMERGE TECHNOLOGIES PTY LTD, ACN 087 855 221).",
   "names": [
     {
       "name": "Emerge Technologies",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19991128204146/http://emerge.net.au/",
       "label": "Emerge (Wayback 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=91087855221",
+      "label": "ABR: EMERGE TECHNOLOGIES PTY LTD ACN 087 855 221"
     }
   ]
 }

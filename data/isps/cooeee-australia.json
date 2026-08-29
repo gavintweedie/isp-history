@@ -4,7 +4,7 @@
   "birthplace": "Marrickville (Sydney), NSW",
   "status": "inactive",
   "website": "https://cooeee.com",
-  "summary": "Sydney dialup ISP (Sydney + Perth POPs); dead ~2002-03.",
+  "summary": "Sydney dialup ISP (Sydney + Perth POPs); dead ~2002-03 (COOEEE PTY LTD, ACN 126 600 351).",
   "names": [
     {
       "name": "Cooeee Australia",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010722191805/http://www.cooeee.com/",
       "label": "Cooeee (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=19126600351",
+      "label": "ABR: COOEEE PTY LTD ACN 126 600 351"
     }
   ]
 }

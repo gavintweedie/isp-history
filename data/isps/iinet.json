@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://www.iinet.net.au",
-  "summary": "Perth-based ISP that grew into one of Australia's largest, acquired by TPG in 2015.",
+  "summary": "Perth-based ISP that grew into one of Australia's largest, acquired by TPG in 2015 (IINET LIMITED, ACN 068 628 937).",
   "names": [
     {
       "name": "iiNet",
@@ -30,7 +30,7 @@
       "precision": "exact",
       "details": "Founded in Perth by Michael Malone."
     },
-   {
+    {
       "kind": "note",
       "year": 1997,
       "date_disp": "Apr 1997",
@@ -50,11 +50,11 @@
         {
           "kind": "official",
           "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
-          "label": "LinkedIn: John Lindsay — Cofounder, iiNet Technologies (SA) Pty Ltd (1996–1997)"
+          "label": "LinkedIn: John Lindsay \u2014 Cofounder, iiNet Technologies (SA) Pty Ltd (1996\u20131997)"
         }
       ]
     },
-   {
+    {
       "kind": "note",
       "year": 1999,
       "date_disp": "14 Sep 1999",
@@ -74,6 +74,13 @@
       "date_disp": "2015",
       "precision": "exact",
       "details": "Acquired by TPG; operated as a TPG brand."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=48068628937",
+      "label": "ABR: IINET LIMITED ACN 068 628 937"
     }
   ]
 }

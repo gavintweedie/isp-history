@@ -4,7 +4,7 @@
   "birthplace": "Western Australia",
   "status": "inactive",
   "website": "https://harboursat.com.au",
-  "summary": "Satellite-internet arm of HarbourIT (harboursat.com.au from Feb 2007); fate unverified.",
+  "summary": "Satellite-internet arm of HarbourIT (harboursat.com.au from Feb 2007, ACN 120 837 845); fate unverified.",
   "names": [
     {
       "name": "HarbourSAT",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2012",
       "precision": "approx",
       "details": "Fate unverified."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=52120837845",
+      "label": "ABR: Harboursat Pty. Ltd. ACN 120 837 845"
     }
   ]
 }

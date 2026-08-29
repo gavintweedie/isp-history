@@ -4,7 +4,7 @@
   "birthplace": "Geraldton, WA",
   "status": "inactive",
   "website": "https://nodeone.com.au",
-  "summary": "Geraldton fixed-wireless WISP + NBN (Node1 Internet); merged into Swoop Holdings via Stemify reverse takeover 2021.",
+  "summary": "Geraldton fixed-wireless WISP + NBN (Node1 Internet, ACN 620 671 374); merged into Swoop Holdings via Stemify reverse takeover 2021.",
   "names": [
     {
       "name": "NodeOne",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20200328235944/https://nodeone.com.au/",
       "label": "NodeOne (Wayback 2020)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=43620671374",
+      "label": "ABR: NODE1 PTY LTD ACN 620 671 374"
     }
   ]
 }

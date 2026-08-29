@@ -4,7 +4,7 @@
   "birthplace": "Seven Hills (Sydney), NSW",
   "status": "inactive",
   "website": "https://jigsaw.com.au",
-  "summary": "Sydney dialup ISP (Blacktown POP); defunct.",
+  "summary": "Sydney dialup ISP (Blacktown POP); defunct (JIGSAW TECHNOLOGY PTY LTD, ACN 003 289 049).",
   "names": [
     {
       "name": "Jigsaw Technology",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021221192255/http://www.cynosure.com.au/isp/jigsaw",
       "label": "Jigsaw (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=61003289049",
+      "label": "ABR: JIGSAW TECHNOLOGY PTY LTD ACN 003 289 049"
     }
   ]
 }

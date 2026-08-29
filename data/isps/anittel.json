@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://anittel.com.au",
-  "summary": "National IT & telecommunications integrator for SME/regional Australia (ex-Peter Kazacos Business Advantage 2007, renamed Anittel ~Sep 2009); merged into Hostech Feb 2010; listed as Anittel Group (ASX:AYG); IT services sold to Inabox ~2015, then to 5G Networks 2018.",
+  "summary": "National IT & telecommunications integrator for SME/regional Australia (ex-Peter Kazacos Business Advantage 2007, renamed Anittel ~Sep 2009, ACN 123 808 677); merged into Hostech Feb 2010; listed as Anittel Group (ASX:AYG); IT services sold to Inabox ~2015, then to 5G Networks 2018.",
   "names": [
     {
       "name": "Anittel",
@@ -47,6 +47,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20090928134022/http://www.anittel.com.au/",
       "label": "Anittel (Wayback 2009)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=81123808677",
+      "label": "ABR: ANITTEL PTY LTD ACN 123 808 677"
     }
   ]
 }

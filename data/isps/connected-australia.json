@@ -4,7 +4,7 @@
   "birthplace": "Toowoomba, QLD",
   "status": "inactive",
   "website": "connected.net.au",
-  "summary": "Telco/ISP (brands: Connected Australia, Lemonade Broadband); acquired by On Q Communications ~Dec 2023.",
+  "summary": "Telco/ISP (brands: Connected Australia, Lemonade Broadband, ACN 112 124 231); acquired by On Q Communications ~Dec 2023.",
   "names": [
     {
       "name": "Connected Australia",
@@ -26,6 +26,13 @@
       "date_disp": "Dec 2023",
       "precision": "exact",
       "details": "Acquired by On Q Communications (~Dec 2023)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=72112124231",
+      "label": "ABR: CONNECTED GROUP AUSTRALIA PTY LIMITED ACN 112 124 231"
     }
   ]
 }

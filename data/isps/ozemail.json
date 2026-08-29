@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://www.ozemail.com.au",
-  "summary": "Major early Australian ISP; listed on NASDAQ (1996) and ASX; bought by MCI WorldCom in 1999; retail assets sold to iiNet in 2005.",
+  "summary": "Major early Australian ISP; listed on NASDAQ (1996) and ASX; bought by MCI WorldCom in 1999; retail assets sold to iiNet in 2005 (FEDORA (2500) PTY LIMITED, ACN 066 387 157).",
   "names": [
     {
       "name": "OzEmail",
@@ -26,6 +26,13 @@
       "date_disp": "2005",
       "precision": "exact",
       "details": "Retail/internet assets acquired by iiNet on 28 Feb 2005; brand discontinued."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=33066387157",
+      "label": "ABR: FEDORA (2500) PTY LIMITED ACN 066 387 157"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://metro.net.au",
-  "summary": "Melbourne metropolitan dialup ISP; defunct (domain parked).",
+  "summary": "Melbourne metropolitan dialup ISP; defunct (domain parked) (METRO-NET CORPORATION PTY LTD, ACN 081 047 654).",
   "names": [
     {
       "name": "Metro Net Corporation",
@@ -43,6 +43,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021022000000/http://www.cynosure.com.au/isp/metronet",
       "label": "Metro Net (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=22081047654",
+      "label": "ABR: METRO-NET CORPORATION PTY LTD ACN 081 047 654"
     }
   ]
 }

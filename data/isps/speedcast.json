@@ -4,7 +4,7 @@
   "birthplace": "Australia (global; Hong Kong HQ)",
   "status": "inactive",
   "website": "https://www.speedcast.com",
-  "summary": "Global satellite communications provider (Speedcast International, ASX:SDA) that supplied satellite backhaul to the Christmas Island ISP CIIA from 2015 (SES O3b MEO), then took over running Christmas Island's wireless/4G internet from Mar 2017 after CIIA's closure, operating until Oct 2021.",
+  "summary": "Global satellite communications provider (Speedcast International, ASX:SDA, ACN 159 524 553) that supplied satellite backhaul to the Christmas Island ISP CIIA from 2015 (SES O3b MEO), then took over running Christmas Island's wireless/4G internet from Mar 2017 after CIIA's closure, operating until Oct 2021.",
   "aliases": [
     "Speedcast International",
     "Speedcast International Limited"
@@ -49,6 +49,11 @@
       "kind": "official",
       "url": "https://www.speedcast.com/newsroom/press-releases/2017/speedcast-returns-internet-services-to-christmas-island/",
       "label": "Speedcast press release (Mar 2017)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=28159524553",
+      "label": "ABR: SPEEDCAST AUSTRALIA PTY LIMITED ACN 159 524 553"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Australia (national)",
   "status": "inactive",
   "website": "https://ecomtel.com.au",
-  "summary": "National telco/ISP (Ecomtel Pty Ltd, ~1999; landline 'Phoneclub', mobile, dialup, ADSL/SDSL, VoIP); active to ~2008.",
+  "summary": "National telco/ISP (Ecomtel Pty Ltd, ~1999; landline 'Phoneclub', mobile, dialup, ADSL/SDSL, VoIP); active to ~2008 (CHRIS MURPHY ENTERPRISES PTY LTD, ACN 078 988 511).",
   "names": [
     {
       "name": "Ecomtel",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20040613234920/http://www.ecomtel.com.au/",
       "label": "Ecomtel (Wayback 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=69078988511",
+      "label": "ABR: CHRIS MURPHY ENTERPRISES PTY LTD ACN 078 988 511"
     }
   ]
 }

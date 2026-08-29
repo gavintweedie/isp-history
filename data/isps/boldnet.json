@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://boldweb.com.au",
-  "summary": "SA ADSL-only provider (BoldWeb Internet, ~2002, alongside Adam & Airnet); domain later Boldweb Investments.",
+  "summary": "SA ADSL-only provider (BoldWeb Internet, ~2002, alongside Adam & Airnet); domain later Boldweb Investments (BOLDNET PTY. LTD., ACN 059 788 653).",
   "names": [
     {
       "name": "Boldnet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20091012074038/http://www.boldweb.com.au/",
       "label": "BoldWeb (Wayback 2009)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=58059788653",
+      "label": "ABR: BOLDNET PTY. LTD. ACN 059 788 653"
     }
   ]
 }

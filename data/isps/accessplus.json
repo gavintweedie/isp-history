@@ -4,7 +4,7 @@
   "birthplace": "Sunshine Coast, QLD",
   "status": "inactive",
   "website": "accessplus.com.au",
-  "summary": "Sunshine Coast student accommodation/hotel/motel internet provider (managed internet services), founded 1999 by Neil Thompson; acquired by BigAir for $5m (announced 5 Jan 2011); Neil Thompson stayed as BigAir senior management.",
+  "summary": "Sunshine Coast student accommodation/hotel/motel internet provider (managed internet services), founded 1999 by Neil Thompson; acquired by BigAir for $5m (announced 5 Jan 2011); Neil Thompson stayed as BigAir senior management (ACCESSPLUS PARTNERS PTY LTD, ACN 679 022 434).",
   "names": [
     {
       "name": "AccessPlus",
@@ -33,6 +33,11 @@
       "kind": "news",
       "url": "https://www.zdnet.com/home-and-office/networking/bigair-to-acquire-accessplus-for-5m/",
       "label": "ZDNet: BigAir to acquire AccessPlus for $5m (Jan 2011)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=15679022434",
+      "label": "ABR: ACCESSPLUS PARTNERS PTY LTD ACN 679 022 434"
     }
   ]
 }

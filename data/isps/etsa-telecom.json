@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "etsa.com.au",
-  "summary": "Telecom arm of ETSA Utilities (SA power); one of the three utilities whose telecom arms formed Silk Telecom 2005.",
+  "summary": "Telecom arm of ETSA Utilities (SA power); one of the three utilities whose telecom arms formed Silk Telecom 2005 (ETSA ANCILLARY PTY LTD, ACN 101 536 421).",
   "names": [
     {
       "name": "ETSA Telecom",
@@ -26,6 +26,13 @@
       "date_disp": "2005",
       "precision": "exact",
       "details": "Telecom business combined into Silk Telecom."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=87101536421",
+      "label": "ABR: ETSA ANCILLARY PTY LTD ACN 101 536 421"
     }
   ]
 }

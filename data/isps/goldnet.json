@@ -4,7 +4,7 @@
   "birthplace": "Kalgoorlie, WA",
   "status": "inactive",
   "website": "https://goldnet.com.au",
-  "summary": "Kalgoorlie ISP (Goldnet Internet Services); merged with Ludin to form Emerge Technologies 1999; took back the ISP side ~2013, continued to ~2015.",
+  "summary": "Kalgoorlie ISP (Goldnet Internet Services, ACN 127 052 493); merged with Ludin to form Emerge Technologies 1999; took back the ISP side ~2013, continued to ~2015.",
   "names": [
     {
       "name": "GoldNet",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2015",
       "precision": "approx",
       "details": "Final end of the GoldNet brand."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=42127052493",
+      "label": "ABR: GOLDNET PTY LTD ACN 127 052 493"
     }
   ]
 }

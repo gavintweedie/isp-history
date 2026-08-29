@@ -4,7 +4,7 @@
   "birthplace": "Bankstown (Sydney), NSW",
   "status": "inactive",
   "website": "https://compassnet.com.au",
-  "summary": "Sydney dialup ISP (Bankstown POP); defunct ~2007, domain later reused.",
+  "summary": "Sydney dialup ISP (Bankstown POP); defunct ~2007, domain later reused (Compass Network Pty Ltd, ACN 149 872 944).",
   "names": [
     {
       "name": "Compass Net",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021217023028/http://www.cynosure.com.au/isp/compassnet",
       "label": "Compass Net (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=93149872944",
+      "label": "ABR: Compass Network Pty Ltd ACN 149 872 944"
     }
   ]
 }

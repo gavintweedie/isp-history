@@ -4,7 +4,7 @@
   "birthplace": "Newcastle, NSW",
   "status": "inactive",
   "website": "countrytell.com.au",
-  "summary": "Newcastle regional telco + data centre; 30+ wireless towers across NSW; acquired by Swoop for A$4.2m Oct 2021.",
+  "summary": "Newcastle regional telco + data centre; 30+ wireless towers across NSW; acquired by Swoop for A$4.2m Oct 2021 (COUNTRYTELL HOLDINGS PTY LTD, ACN 623 906 178).",
   "names": [
     {
       "name": "CountryTell",
@@ -33,6 +33,11 @@
       "kind": "news",
       "url": "https://www.arnnet.com.au/article/1254883/swoop-buys-newcastles-countrytell-for-4-2m.html",
       "label": "ARN: Swoop buys CountryTell for $4.2m"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=50623906178",
+      "label": "ABR: COUNTRYTELL HOLDINGS PTY LTD ACN 623 906 178"
     }
   ]
 }

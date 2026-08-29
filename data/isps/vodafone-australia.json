@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://www.vodafone.com.au",
-  "summary": "Mobile carrier; merged with TPG to form TPG Telecom in 2020.",
+  "summary": "Mobile carrier; merged with TPG to form TPG Telecom in 2020 (VODAFONE AUSTRALIA PTY LIMITED, ACN 056 161 043).",
   "names": [
     {
       "name": "Vodafone Australia",
@@ -26,6 +26,13 @@
       "date_disp": "2020",
       "precision": "exact",
       "details": "Merged into TPG Telecom."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=86056161043",
+      "label": "ABR: VODAFONE AUSTRALIA PTY LIMITED ACN 056 161 043"
     }
   ]
 }

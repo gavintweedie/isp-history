@@ -4,7 +4,7 @@
   "birthplace": "Orange, NSW",
   "status": "inactive",
   "website": "colourcity.com.au",
-  "summary": "Orange NSW local ISP (Redback Web, ~2002); defunct.",
+  "summary": "Orange NSW local ISP (Redback Web, ~2002); defunct (CITY COLOUR PTY. LIMITED, ACN 053 114 524).",
   "names": [
     {
       "name": "Colour City Internet",
@@ -41,6 +41,11 @@
       "url": "https://web.archive.org/web/20091024144102/http://www.colourcity.com.au/",
       "label": "Colour City Internet (Wayback 2009)",
       "year": 2009
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=63053114524",
+      "label": "ABR: CITY COLOUR PTY. LIMITED ACN 053 114 524"
     }
   ]
 }

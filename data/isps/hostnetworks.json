@@ -4,7 +4,7 @@
   "birthplace": "Gold Coast, QLD",
   "status": "inactive",
   "website": "https://hostnetworks.com.au",
-  "summary": "Web hosting / domain registrar (not a dial-up ISP); absorbed by Edge Centres Pty Ltd ~2023.",
+  "summary": "Web hosting / domain registrar (not a dial-up ISP); absorbed by Edge Centres Pty Ltd ~2023 (EDGE CENTRES PTY LTD, ACN 647 483 476).",
   "names": [
     {
       "name": "Host Networks",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030528153418/http://www.hostnetworks.com.au/",
       "label": "Host Networks (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=90647483476",
+      "label": "ABR: EDGE CENTRES PTY LTD ACN 647 483 476"
     }
   ]
 }

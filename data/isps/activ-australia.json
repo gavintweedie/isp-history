@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "activ.net.au",
-  "summary": "Sydney IT/telecoms solutions firm (~10 years old); acquired by Access Providers Oct 2006.",
+  "summary": "Sydney IT/telecoms solutions firm (~10 years old); acquired by Access Providers Oct 2006 (ACTIV AUSTRALIA PTY LIMITED, ACN 078 302 440).",
   "names": [
     {
       "name": "Activ Australia",
@@ -34,6 +34,11 @@
       "url": "https://web.archive.org/web/19981111190413/http://www.activ.net.au/",
       "label": "Activ Australia (Wayback 1998)",
       "year": 1998
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=94078302440",
+      "label": "ABR: ACTIV AUSTRALIA PTY LIMITED ACN 078 302 440"
     }
   ]
 }

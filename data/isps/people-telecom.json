@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "peopletelecom.com.au",
-  "summary": "ISP founded 2000; listed via reverse takeover of Swiftel; acquired by M2 Group in 2008.",
+  "summary": "ISP founded 2000; listed via reverse takeover of Swiftel; acquired by M2 Group in 2008 (PEOPLE TELECOM LIMITED, ACN 009 273 152).",
   "names": [
     {
       "name": "People Telecom",
@@ -33,6 +33,13 @@
           "label": "deListed Australia: People Telecom Limited (ASX:PEO) \u2014 delisted 1 May 2009 (M2 scheme of arrangement)"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=31009273152",
+      "label": "ABR: PEOPLE TELECOM LIMITED ACN 009 273 152"
     }
   ]
 }

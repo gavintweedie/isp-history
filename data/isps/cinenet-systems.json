@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://cine.net.au",
-  "summary": "High-speed data network for the film/media industries; built infrastructure linking Brisbane, Sydney, Melbourne, Adelaide and Los Angeles; acquired by Superloop.",
+  "summary": "High-speed data network for the film/media industries; built infrastructure linking Brisbane, Sydney, Melbourne, Adelaide and Los Angeles; acquired by Superloop (CINENET SYSTEMS PTY LTD, ACN 104 900 030).",
   "names": [
     {
       "name": "Cinenet Systems",
@@ -26,6 +26,13 @@
       "date_disp": "Dec 2015",
       "precision": "exact",
       "details": "Acquired by Superloop (agreement Nov 2015; completed Dec 2015)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=25104900030",
+      "label": "ABR: CINENET SYSTEMS PTY LTD ACN 104 900 030"
     }
   ]
 }

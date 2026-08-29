@@ -4,7 +4,7 @@
   "birthplace": "Glenelg (Adelaide), SA",
   "status": "inactive",
   "website": "https://momentuminternet.com.au",
-  "summary": "SA ADSL/dialup ISP; merged with BettaNet ~2006-07 (Betta Momentum Internet); absorbed by Adam Internet 1 Aug 2008.",
+  "summary": "SA ADSL/dialup ISP; merged with BettaNet ~2006-07 (Betta Momentum Internet, ACN 119 695 868); absorbed by Adam Internet 1 Aug 2008.",
   "names": [
     {
       "name": "Momentum Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20060615005847/http://www.momentuminternet.com.au/",
       "label": "Momentum (Wayback 2006)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=59119695868",
+      "label": "ABR: Momentum Internet Pty Ltd ACN 119 695 868"
     }
   ]
 }

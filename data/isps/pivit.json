@@ -4,7 +4,7 @@
   "birthplace": "Underwood (Brisbane), QLD",
   "status": "inactive",
   "website": "https://pivit.com.au",
-  "summary": "Fibre/wireless carrier and NBN RSP (est. 2004); acquired by On Q Communications/Consolidated Telecom ~Dec 2025.",
+  "summary": "Fibre/wireless carrier and NBN RSP (est. 2004); acquired by On Q Communications/Consolidated Telecom ~Dec 2025 (PIVIT PTY LTD, ACN 109 578 752).",
   "names": [
     {
       "name": "Pivit",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20060822002637/http://www.pivit.com.au/",
       "label": "Pivit (Wayback 2006)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=24109578752",
+      "label": "ABR: PIVIT PTY LTD ACN 109 578 752"
     }
   ]
 }

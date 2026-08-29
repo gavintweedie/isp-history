@@ -4,7 +4,7 @@
   "birthplace": "Barossa Valley, SA",
   "status": "inactive",
   "website": "https://beaminternet.com.au",
-  "summary": "Barossa Valley fixed-wireless WISP (Beam Barossa / Beam Internet by Kodo Technologies); acquired by Swoop for A$6.7m July 2021.",
+  "summary": "Barossa Valley fixed-wireless WISP (Beam Barossa / Beam Internet by Kodo Technologies, ACN 155 706 531); acquired by Swoop for A$6.7m July 2021.",
   "names": [
     {
       "name": "Beam Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20170929182147/http://beaminternet.com.au/",
       "label": "Beam Internet (Wayback 2017)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=17155706531",
+      "label": "ABR: BEAM Pty Ltd ACN 155 706 531"
     }
   ]
 }

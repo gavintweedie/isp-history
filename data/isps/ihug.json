@@ -4,7 +4,7 @@
   "birthplace": "Auckland, NZ",
   "status": "inactive",
   "website": "ihug.co.nz",
-  "summary": "New Zealand ISP, one of NZ's first; acquired by iiNet, which kept its Sydney and Auckland ihug offices.",
+  "summary": "New Zealand ISP, one of NZ's first; acquired by iiNet, which kept its Sydney and Auckland ihug offices (RATU HOLDINGS LIMITED, ACN 076 837 351).",
   "names": [
     {
       "name": "ihug",
@@ -26,6 +26,13 @@
       "date_disp": "Oct 2003",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=33076837351",
+      "label": "ABR: RATU HOLDINGS LIMITED ACN 076 837 351"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://inature.com.au",
-  "summary": "Perth-area online commerce/web firm (c.1997); wound down by 2005.",
+  "summary": "Perth-area online commerce/web firm (c.1997); wound down by 2005 (INATURE AUSTRALIA PTY LTD, ACN 079 812 883).",
   "names": [
     {
       "name": "iNature Australia",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980111134532/http://www.inature.com.au/",
       "label": "iNature (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=24079812883",
+      "label": "ABR: INATURE AUSTRALIA PTY LTD ACN 079 812 883"
     }
   ]
 }

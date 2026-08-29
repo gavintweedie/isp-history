@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "5gnetworks.net.au",
-  "summary": "Data-centre/cloud/network company (ASX: 5GN); delisted 2021 via Webcentral Group scheme.",
+  "summary": "Data-centre/cloud/network company (ASX: 5GN, ACN 605 721 024); delisted 2021 via Webcentral Group scheme.",
   "names": [
     {
       "name": "5G Networks",
@@ -26,6 +26,13 @@
       "date_disp": "2021",
       "precision": "exact",
       "details": "Delisted via Webcentral Group acquisition (2 Webcentral per 5GN share)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=16605721024",
+      "label": "ABR: 5G NETWORKS FINANCE PTY LTD ACN 605 721 024"
     }
   ]
 }

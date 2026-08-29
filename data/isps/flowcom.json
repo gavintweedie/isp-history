@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "flowcom.com.au",
-  "summary": "Parent company (bought for A$6.3M by iiNet Feb 2004) that owned iGreen, Froggy Internet and Planet ISP.",
+  "summary": "Parent company (bought for A$6.3M by iiNet Feb 2004) that owned iGreen, Froggy Internet and Planet ISP (REELTIME MEDIA LIMITED, ACN 085 462 362).",
   "names": [
     {
       "name": "FlowCom",
@@ -33,6 +33,13 @@
       "date_disp": "Feb 2004",
       "precision": "exact",
       "details": "Acquired by iiNet (~A$6.3M); subsidiaries iGreen, Froggy Internet, Planet ISP."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=67085462362",
+      "label": "ABR: REELTIME MEDIA LIMITED ACN 085 462 362"
     }
   ]
 }

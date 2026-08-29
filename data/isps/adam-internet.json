@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "adam.com.au",
-  "summary": "Major South Australian ISP, acquired by iiNet in 2013.",
+  "summary": "Major South Australian ISP, acquired by iiNet in 2013 (ADAM INTERNET PTY LTD, ACN 055 495 853).",
   "names": [
     {
       "name": "Adam Internet",
@@ -26,6 +26,13 @@
       "date_disp": "2013",
       "precision": "exact",
       "details": "Acquired by iiNet for ~$60 million; customers moved to iiNet 2015."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=22055495853",
+      "label": "ABR: ADAM INTERNET PTY LTD ACN 055 495 853"
     }
   ]
 }

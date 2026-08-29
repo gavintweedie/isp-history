@@ -4,7 +4,7 @@
   "birthplace": "Hobart, TAS",
   "status": "inactive",
   "website": "http://www.esat.com.au",
-  "summary": "Tasmanian satellite broadband provider (eSat Communications, Hobart); holder of HiBIS regional broadband accreditation; acquired by Perth-based Comdek (agreement Sep 2004, completed Dec 2004) for 5.3M shares + 6.7M convertible notes.",
+  "summary": "Tasmanian satellite broadband provider (eSat Communications, Hobart, ACN 074 820 269); holder of HiBIS regional broadband accreditation; acquired by Perth-based Comdek (agreement Sep 2004, completed Dec 2004) for 5.3M shares + 6.7M convertible notes.",
   "aliases": [
     "eSat Communications"
   ],
@@ -36,6 +36,11 @@
       "kind": "news",
       "url": "https://www.itnews.com.au/news/wa-reseller-comdek-escapes-closure-23637",
       "label": "iTnews: WA reseller Comdek escapes closure (eSat acquisition, 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=84074820269",
+      "label": "ABR: ESAT PTY LTD ACN 074 820 269"
     }
   ]
 }

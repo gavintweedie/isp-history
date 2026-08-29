@@ -4,7 +4,7 @@
   "birthplace": "Kalgoorlie, WA",
   "status": "inactive",
   "website": "https://aurum.net.au",
-  "summary": "Kalgoorlie ISP (Brandis Holdings Pty Ltd); acquired by WestNet c.1999-2000.",
+  "summary": "Kalgoorlie ISP (Brandis Holdings Pty Ltd); acquired by WestNet c.1999-2000 (AURUM & CO. PTY LTD, ACN 609 989 157).",
   "names": [
     {
       "name": "Aurum Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981111191331id_/http://www.aurum.net.au/",
       "label": "Aurum (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=33609989157",
+      "label": "ABR: AURUM & CO. PTY LTD ACN 609 989 157"
     }
   ]
 }

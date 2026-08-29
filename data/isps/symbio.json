@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "symbio.com.au",
-  "summary": "Wholesale telecoms business; acquired by Aussie Broadband after Superloop withdrew.",
+  "summary": "Wholesale telecoms business; acquired by Aussie Broadband after Superloop withdrew (Symbio Wholesale Pty Limited, ACN 136 972 355).",
   "names": [
     {
       "name": "Symbio",
@@ -26,6 +26,13 @@
       "date_disp": "2024",
       "precision": "exact",
       "details": "Acquired by Aussie Broadband (completed 28 Feb 2024)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=75136972355",
+      "label": "ABR: Symbio Wholesale Pty Limited ACN 136 972 355"
     }
   ]
 }

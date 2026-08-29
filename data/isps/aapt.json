@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "aapt.com.au",
-  "summary": "Business/wholesale telco; owned by Telecom NZ from 2000; consumer arm went to iiNet (2010), enterprise/wholesale arm to TPG (2013).",
+  "summary": "Business/wholesale telco; owned by Telecom NZ from 2000; consumer arm went to iiNet (2010), enterprise/wholesale arm to TPG (2013) (AAPT LIMITED, ACN 052 082 416).",
   "names": [
     {
       "name": "AAPT",
@@ -30,5 +30,12 @@
   ],
   "aliases": [
     "AAP Telecommunications"
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=22052082416",
+      "label": "ABR: AAPT LIMITED ACN 052 082 416"
+    }
   ]
 }

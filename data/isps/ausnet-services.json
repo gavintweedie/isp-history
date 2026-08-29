@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://world.net",
-  "summary": "Sydney corporate ISP & systems integrator (world.net service); original ISP gone, domain later reused.",
+  "summary": "Sydney corporate ISP & systems integrator (world.net service); original ISP gone, domain later reused (AUSNET SERVICES (DISTRIBUTION) PTY LTD, ACN 108 788 245).",
   "names": [
     {
       "name": "AUSNet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981202142853/http://www.ausnet.net.au/about.html",
       "label": "AUSNet (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=37108788245",
+      "label": "ABR: AUSNET SERVICES (DISTRIBUTION) PTY LTD ACN 108 788 245"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "South Australia",
   "status": "inactive",
   "website": "https://airnet.net.au",
-  "summary": "Small SA ISP (airnet.net.au); domain parked from Sep 2001.",
+  "summary": "Small SA ISP (airnet.net.au, ACN 052 355 209); domain parked from Sep 2001.",
   "names": [
     {
       "name": "Airnet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010902140929/http://airnet.net.au/",
       "label": "airnet.net.au (Wayback 2001, parked)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=68052355209",
+      "label": "ABR: AIRNET PTY. LIMITED ACN 052 355 209"
     }
   ]
 }

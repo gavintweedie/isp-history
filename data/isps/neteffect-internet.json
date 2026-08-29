@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://effect.net.au",
-  "summary": "Canberra dialup ISP (effect.net.au); customers absorbed by APEX Internet ~2003-04.",
+  "summary": "Canberra dialup ISP (effect.net.au); customers absorbed by APEX Internet ~2003-04 (NETEFFECT INTERNET PTY LTD, ACN 075 131 458).",
   "names": [
     {
       "name": "NetEffect Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970327090023/http://www.effect.net.au/",
       "label": "NetEffect (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=33075131458",
+      "label": "ABR: NETEFFECT INTERNET PTY LTD ACN 075 131 458"
     }
   ]
 }

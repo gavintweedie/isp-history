@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://goconnect.com.au",
-  "summary": "Free ad-supported dialup ISP (goconnect.com.au from Nov 1999), ASX-listed (GCN); later pivoted to multimedia streaming, collapsed to penny stock and delisted.",
+  "summary": "Free ad-supported dialup ISP (goconnect.com.au from Nov 1999, ACN 089 240 353), ASX-listed (GCN); later pivoted to multimedia streaming, collapsed to penny stock and delisted.",
   "names": [
     {
       "name": "GoConnect",
@@ -33,6 +33,13 @@
       "date_disp": "c. 2003",
       "precision": "approx",
       "details": "Collapsed; delisted."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=14089240353",
+      "label": "ABR: GOCONNECT LIMITED ACN 089 240 353"
     }
   ]
 }

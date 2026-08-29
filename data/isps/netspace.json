@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "netspace.net.au",
-  "summary": "Major Melbourne ADSL ISP, acquired by iiNet in 2010.",
+  "summary": "Major Melbourne ADSL ISP, acquired by iiNet in 2010 (NETSPACE ONLINE SYSTEMS PTY LTD, ACN 067 116 269).",
   "names": [
     {
       "name": "Netspace",
@@ -26,6 +26,13 @@
       "date_disp": "2010",
       "precision": "exact",
       "details": "Acquired by iiNet; brand retired."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=64067116269",
+      "label": "ABR: NETSPACE ONLINE SYSTEMS PTY LTD ACN 067 116 269"
     }
   ]
 }

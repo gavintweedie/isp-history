@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "overthe.com.au",
-  "summary": "Brisbane IT/voice/cloud business acquired by Aussie Broadband.",
+  "summary": "Brisbane IT/voice/cloud business acquired by Aussie Broadband (OVER THE WIRE HOLDINGS LIMITED, ACN 151 872 730).",
   "names": [
     {
       "name": "Over the Wire",
@@ -26,6 +26,13 @@
       "date_disp": "2022",
       "precision": "exact",
       "details": "Acquired by Aussie Broadband (~A$344m), adding Tier-1 voice capability."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=89151872730",
+      "label": "ABR: OVER THE WIRE HOLDINGS LIMITED ACN 151 872 730"
     }
   ]
 }

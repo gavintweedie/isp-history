@@ -3,7 +3,7 @@
   "slug": "hit-pacific",
   "birthplace": "Wynnum (Brisbane), QLD",
   "status": "inactive",
-  "summary": "Planned NBN RSP (IEISI.ORG Pty Ltd, principal Terry Sweetser); built Mar-May 2026, closed July 2026 before full launch.",
+  "summary": "Planned NBN RSP (IEISI.ORG Pty Ltd, principal Terry Sweetser, ACN 695 032 314); built Mar-May 2026, closed July 2026 before full launch.",
   "names": [
     {
       "name": "Hit Pacific Broadband",
@@ -32,6 +32,11 @@
       "kind": "news",
       "url": "https://www.cbinsights.com/company/hit-pacific-broadband",
       "label": "CB Insights: HIT Pacific Broadband"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=71695032314",
+      "label": "ABR: IEISI.ORG PTY LTD ACN 695 032 314"
     }
   ]
 }

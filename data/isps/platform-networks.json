@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://platformnetworks.net",
-  "summary": "Sydney wholesale/broadband aggregator (Platform Networks Pty Ltd, formed 2003); served small and largely regional service providers; acquired by EFTel (Aug 2011).",
+  "summary": "Sydney wholesale/broadband aggregator (Platform Networks Pty Ltd, formed 2003); served small and largely regional service providers; acquired by EFTel (Aug 2011) (EFTEL WHOLESALE PTY LTD, ACN 123 409 058).",
   "names": [
     {
       "name": "Platform Networks",
@@ -26,6 +26,13 @@
       "date_disp": "Aug 2011",
       "precision": "exact",
       "details": "Acquired by EFTel (brought 80 wholesale customers)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=31123409058",
+      "label": "ABR: EFTEL WHOLESALE PTY LTD ACN 123 409 058"
     }
   ]
 }

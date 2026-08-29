@@ -4,7 +4,7 @@
   "birthplace": "Kalgoorlie, WA",
   "status": "inactive",
   "website": "https://matrix.net.au",
-  "summary": "Kalgoorlie/Goldfields ISP (Matrix Internet Services Pty Ltd), 'The Local Internet Specialists'; wound down, entity cancelled 2010.",
+  "summary": "Kalgoorlie/Goldfields ISP (Matrix Internet Services Pty Ltd, ACN 089 577 337), 'The Local Internet Specialists'; wound down, entity cancelled 2010.",
   "names": [
     {
       "name": "Matrix Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010201055800/http://www.matrix.net.au/",
       "label": "Matrix (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=88089577337",
+      "label": "ABR: MATRIX COMPUTERS & INTERNET PTY LTD ACN 089 577 337"
     }
   ]
 }

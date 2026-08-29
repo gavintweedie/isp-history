@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "webcentral.com.au",
-  "summary": "Australia's first web-hosting business, spun off from PowerUp (Lloyd Ernst); ASX-listed 2004 as WebCentral Group; acquired by Melbourne IT 2006.",
+  "summary": "Australia's first web-hosting business, spun off from PowerUp (Lloyd Ernst); ASX-listed 2004 as WebCentral Group; acquired by Melbourne IT 2006 (WEBCENTRAL SERVICES PTY LTD, ACN 084 429 318).",
   "names": [
     {
       "name": "WebCentral",
@@ -40,6 +40,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Webcentral",
       "label": "Wikipedia: Webcentral"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=87084429318",
+      "label": "ABR: WEBCENTRAL SERVICES PTY LTD ACN 084 429 318"
     }
   ]
 }

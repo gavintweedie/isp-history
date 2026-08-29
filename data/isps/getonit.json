@@ -4,7 +4,7 @@
   "birthplace": "Townsville, QLD",
   "status": "inactive",
   "website": "https://getonit.net.au",
-  "summary": "Townsville ISP (founded Jan 2000, Hyde Park); acquired Cairns Net Services + AussieWide ~Dec 2005; taken over by All Hours Communications Group 27 Mar 2008, ran as AussieWide; succeeded by RegionalConnect (domain redirected Feb 2011).",
+  "summary": "Townsville ISP (founded Jan 2000, Hyde Park); acquired Cairns Net Services + AussieWide ~Dec 2005; taken over by All Hours Communications Group 27 Mar 2008, ran as AussieWide; succeeded by RegionalConnect (domain redirected Feb 2011) (GETONIT PTY LTD, ACN 058 426 458).",
   "names": [
     {
       "name": "GetOnIt",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011203140628/http://www.getonit.net.au/",
       "label": "GetOnIt (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=30058426458",
+      "label": "ABR: GETONIT PTY LTD ACN 058 426 458"
     }
   ]
 }

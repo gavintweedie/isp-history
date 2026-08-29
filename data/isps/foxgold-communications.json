@@ -4,7 +4,7 @@
   "birthplace": "Herdsman (Perth), WA",
   "status": "inactive",
   "website": "https://foxgold.net.au",
-  "summary": "Perth dialup + e-commerce/web hosting ISP (Microsoft Solution Provider); defunct ~2010.",
+  "summary": "Perth dialup + e-commerce/web hosting ISP (Microsoft Solution Provider); defunct ~2010 (FOXGOLD PTY LTD, ACN 072 595 325).",
   "names": [
     {
       "name": "Foxgold Communications",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2003/http://www.foxgold.net.au/",
       "label": "Foxgold (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=23072595325",
+      "label": "ABR: FOXGOLD PTY LTD ACN 072 595 325"
     }
   ]
 }

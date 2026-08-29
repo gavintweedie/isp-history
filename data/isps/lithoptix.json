@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://lithoptix.com",
-  "summary": "Sydney ADSL + hosting + game servers + IRC ISP (Lithoptix Group Pty Ltd, 2002); DSL customers transferred to Veridas Communications management (Jan 2004).",
+  "summary": "Sydney ADSL + hosting + game servers + IRC ISP (Lithoptix Group Pty Ltd, 2002, ACN 213 979 846); DSL customers transferred to Veridas Communications management (Jan 2004).",
   "names": [
     {
       "name": "Lithoptix",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030602074440/http://lithoptix.com/",
       "label": "Lithoptix (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=24213979846",
+      "label": "ABR: LITHOPTIX INTERNET SERVICES PTY LTD & THE TRUSTEE FOR STATEWIDE DIRECT GROUP TRUST ACN 213 979 846"
     }
   ]
 }

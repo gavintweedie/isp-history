@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "exetel.com.au",
-  "summary": "Sydney consumer ISP, one of Australia's largest indie RSPs; acquired by Superloop for retail scale.",
+  "summary": "Sydney consumer ISP, one of Australia's largest indie RSPs; acquired by Superloop for retail scale (EXETEL PTY LTD, ACN 097 986 546).",
   "names": [
     {
       "name": "Exetel",
@@ -26,6 +26,13 @@
       "date_disp": "2021",
       "precision": "exact",
       "details": "Acquired by Superloop (~A$110m)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=35097986546",
+      "label": "ABR: EXETEL PTY LTD ACN 097 986 546"
     }
   ]
 }

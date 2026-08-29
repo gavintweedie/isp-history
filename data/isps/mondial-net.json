@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://mondial.net.au",
-  "summary": "Melbourne 56K V.90 dialup + prepaid access cards + unlimited plans + hosting ISP; defunct.",
+  "summary": "Melbourne 56K V.90 dialup + prepaid access cards + unlimited plans + hosting ISP; defunct (MONDIAL NET PTY LTD, ACN 076 032 543).",
   "names": [
     {
       "name": "Mondial Net",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021203100000/http://www.cynosure.com.au/isp/mondial",
       "label": "Mondial (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=30076032543",
+      "label": "ABR: MONDIAL NET PTY LTD ACN 076 032 543"
     }
   ]
 }

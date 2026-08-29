@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://alphawest.com.au",
-  "summary": "Perth IT services & ISP ('Leaders in IT', from 1996); continued as an IT services firm.",
+  "summary": "Perth IT services & ISP ('Leaders in IT', from 1996); continued as an IT services firm (ALPHAWEST SERVICES PTY LTD, ACN 009 196 347).",
   "names": [
     {
       "name": "Alphawest",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2005",
       "precision": "approx",
       "details": "Continued as IT services firm."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=49009196347",
+      "label": "ABR: ALPHAWEST SERVICES PTY LTD ACN 009 196 347"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "bigair.com.au",
-  "summary": "Enterprise fixed-wireless network provider; acquired Unistar/Star-Tech (2010), AccessPlus (2011), Clever (2011), Allegro (2012), Link Innovations (2012), Intelligent IP (2013), Anittel (2014), Everywhere Internet (2015), IDL (2015); acquired by Superloop.",
+  "summary": "Enterprise fixed-wireless network provider; acquired Unistar/Star-Tech (2010), AccessPlus (2011), Clever (2011), Allegro (2012), Link Innovations (2012), Intelligent IP (2013), Anittel (2014), Everywhere Internet (2015), IDL (2015); acquired by Superloop (BIGAIR COMMUNITY BROADBAND PTY LTD, ACN 084 163 100).",
   "names": [
     {
       "name": "BigAir",
@@ -33,6 +33,13 @@
           "label": "deListed Australia: BigAir Group Limited (ASX:BGL) \u2014 delisted 21 Dec 2016 (Superloop scheme of arrangement)"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=80084163100",
+      "label": "ABR: BIGAIR COMMUNITY BROADBAND PTY LTD ACN 084 163 100"
     }
   ]
 }

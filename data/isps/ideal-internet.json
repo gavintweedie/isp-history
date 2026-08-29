@@ -4,7 +4,7 @@
   "birthplace": "Leumeah/Campbelltown, NSW",
   "status": "inactive",
   "website": "https://ideal.net.au",
-  "summary": "Macarthur region (SW Sydney) ISP, 'Macarthur's oldest internet service provider'; owner Darren Worley; company sold EoFY 2006 (owner retained the domain).",
+  "summary": "Macarthur region (SW Sydney) ISP, 'Macarthur's oldest internet service provider'; owner Darren Worley; company sold EoFY 2006 (owner retained the domain) (IDEAL ORGANISATION PTY LIMITED, ACN 086 119 753).",
   "names": [
     {
       "name": "IDEAL Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970606200519/http://www.ideal.net.au/",
       "label": "IDEAL Internet (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=78086119753",
+      "label": "ABR: IDEAL ORGANISATION PTY LIMITED ACN 086 119 753"
     }
   ]
 }

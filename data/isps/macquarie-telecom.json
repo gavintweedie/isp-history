@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "active",
   "website": "https://www.macquarietelecom.com",
-  "summary": "Australian telecom group (Macquarie Telecom Group, ASX: MAQ), founded 1992 by David and Aidan Tudehope. Early corporate carrier arm 'Macquarie Corporate Telecommunications' held the MCT-AU allocation (203.110.128.0/19) in the 1997 IP index. Now a major enterprise telecom/data-centre provider.",
+  "summary": "Australian telecom group (Macquarie Telecom Group, ASX: MAQ, ACN 056 712 228), founded 1992 by David and Aidan Tudehope. Early corporate carrier arm 'Macquarie Corporate Telecommunications' held the MCT-AU allocation (203.110.128.0/19) in the 1997 IP index. Now a major enterprise telecom/data-centre provider.",
   "names": [
     {
       "name": "Macquarie Corporate Telecommunications",
@@ -46,6 +46,11 @@
       "kind": "official",
       "url": "https://www.macquarietelecom.com",
       "label": "Macquarie Telecom (live)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=72056712228",
+      "label": "ABR: MACQUARIE TECHNOLOGY GROUP LIMITED ACN 056 712 228"
     }
   ]
 }

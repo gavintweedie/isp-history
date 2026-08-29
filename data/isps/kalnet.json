@@ -4,7 +4,7 @@
   "birthplace": "Kalgoorlie-Boulder, WA",
   "status": "inactive",
   "website": "https://kalnet.com.au",
-  "summary": "Kalgoorlie ISP (Kalnet Internet Services); ran own Cisco AS5200s buying transit/IPs from Emerge; exited ISP business ~2011-12, pivoted to hosting (Ausmade).",
+  "summary": "Kalgoorlie ISP (Kalnet Internet Services, ACN 130 739 865); ran own Cisco AS5200s buying transit/IPs from Emerge; exited ISP business ~2011-12, pivoted to hosting (Ausmade).",
   "names": [
     {
       "name": "Kalnet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19991127183522/http://kalnet.com.au/",
       "label": "Kalnet (Wayback 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=85130739865",
+      "label": "ABR: Kalnet Pty Ltd ACN 130 739 865"
     }
   ]
 }

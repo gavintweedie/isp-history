@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://gky.com.au",
-  "summary": "Canberra dialup ISP (gky.com.au, 14k4 only); delisted from Cynosure Aug 1998.",
+  "summary": "Canberra dialup ISP (gky.com.au, 14k4 only, ACN 073 057 799); delisted from Cynosure Aug 1998.",
   "names": [
     {
       "name": "GKY Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030106185534/http://www.cynosure.com.au/isp/gky",
       "label": "GKY (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=91073057799",
+      "label": "ABR: GKY DISTRIBUTORS PTY LIMITED ACN 073 057 799"
     }
   ]
 }

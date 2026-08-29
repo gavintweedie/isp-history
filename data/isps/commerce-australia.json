@@ -4,7 +4,7 @@
   "birthplace": "Perth (Osborne Park), WA",
   "status": "inactive",
   "website": "https://ca.com.au",
-  "summary": "Perth ISP evolved from RLCC (Reg Lee Computing); exited ISP business ~2010, pivoted to real-estate software (MyDesktop).",
+  "summary": "Perth ISP evolved from RLCC (Reg Lee Computing); exited ISP business ~2010, pivoted to real-estate software (MyDesktop) (COMMERCE HOLDINGS PTY LTD, ACN 009 215 865).",
   "aliases": [
     "Ned Kelly Internet"
   ],
@@ -36,6 +36,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001018104808/http://www.ca.com.au/",
       "label": "Commerce Australia (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=70009215865",
+      "label": "ABR: COMMERCE HOLDINGS PTY LTD ACN 009 215 865"
     }
   ]
 }

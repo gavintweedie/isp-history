@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://informed.net.au",
-  "summary": "Perth dial-up ISP, WAIA member 2000; no evidence of operation after ~2006.",
+  "summary": "Perth dial-up ISP, WAIA member 2000; no evidence of operation after ~2006 (INFORMED TECHNOLOGY PTY LTD, ACN 085 210 564).",
   "names": [
     {
       "name": "Informed Technology",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001025083941/http://www.waia.asn.au/members/iap.html",
       "label": "WAIA IAP member list (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=98085210564",
+      "label": "ABR: INFORMED TECHNOLOGY PTY LTD ACN 085 210 564"
     }
   ]
 }

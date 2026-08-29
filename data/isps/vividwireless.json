@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "vividwireless.com.au",
-  "summary": "Retail 4G/WiMAX wireless broadband brand launched by the Seven Group on Unwired's network (2010); acquired by Optus from Seven in 2012 (A$230M); service ceased April 2019.",
+  "summary": "Retail 4G/WiMAX wireless broadband brand launched by the Seven Group on Unwired's network (2010); acquired by Optus from Seven in 2012 (A$230M); service ceased April 2019 (VIVIDWIRELESS PTY LTD, ACN 137 696 461).",
   "names": [
     {
       "name": "vividwireless",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20190822025135/https://www.itnews.com.au/news/optus-to-retire-vividwireless-516543",
       "label": "iTnews: Optus to retire vividwireless (Wayback 2019)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=65137696461",
+      "label": "ABR: VIVIDWIRELESS PTY LTD ACN 137 696 461"
     }
   ]
 }

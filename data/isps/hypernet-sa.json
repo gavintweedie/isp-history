@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://hyper.net.au",
-  "summary": "Adelaide dialup + web design ISP; dead (domain later a law firm).",
+  "summary": "Adelaide dialup + web design ISP; dead (domain later a law firm) (HYPERNET SA PTY LTD, ACN 073 985 798).",
   "names": [
     {
       "name": "Hypernet SA",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2002/http://www.cynosure.com.au/isp/hyper",
       "label": "Hypernet SA (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=22073985798",
+      "label": "ABR: HYPERNET SA PTY LTD ACN 073 985 798"
     }
   ]
 }

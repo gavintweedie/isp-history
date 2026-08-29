@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://www.tpg.com.au",
-  "summary": "Sydney-based ISP, part of TPG (Total Peripherals Group); became TPG Telecom in 2020.",
+  "summary": "Sydney-based ISP, part of TPG (Total Peripherals Group); became TPG Telecom in 2020 (TPG INTERNET PTY LTD, ACN 068 383 737).",
   "names": [
     {
       "name": "TPG Internet",
@@ -26,6 +26,13 @@
       "date_disp": "2020",
       "precision": "exact",
       "details": "Merged into TPG Telecom."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=15068383737",
+      "label": "ABR: TPG INTERNET PTY LTD ACN 068 383 737"
     }
   ]
 }

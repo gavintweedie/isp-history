@@ -4,7 +4,7 @@
   "birthplace": "Braddon (Canberra), ACT",
   "status": "inactive",
   "website": "https://interact.net.au",
-  "summary": "Canberra dialup ISP + web services; acquired by Asia Online Oct 1999; later infrastructure passed to Velocity Internet (HostIT); defunct ~2018-19.",
+  "summary": "Canberra dialup ISP + web services; acquired by Asia Online Oct 1999; later infrastructure passed to Velocity Internet (HostIT); defunct ~2018-19 (INTERACT TECHNOLOGY GROUP PTY LTD, ACN 077 153 792).",
   "names": [
     {
       "name": "InterACT Technology Group",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970130184400/http://www.interact.net.au/",
       "label": "InterACT (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=61077153792",
+      "label": "ABR: INTERACT TECHNOLOGY GROUP PTY LTD ACN 077 153 792"
     }
   ]
 }

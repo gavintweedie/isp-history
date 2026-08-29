@@ -4,7 +4,7 @@
   "birthplace": "Singapore",
   "status": "inactive",
   "website": "pacnet.com",
-  "summary": "Result of the 2008 Pacific Internet + Asia Netcom merger; acquired by Telstra 2015.",
+  "summary": "Result of the 2008 Pacific Internet + Asia Netcom merger; acquired by Telstra 2015 (PACNET INTERNET (A) PTY LTD, ACN 085 213 690).",
   "names": [
     {
       "name": "Pacnet",
@@ -33,6 +33,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Pacnet",
       "label": "Wikipedia: Pacnet"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=69085213690",
+      "label": "ABR: PACNET INTERNET (A) PTY LTD ACN 085 213 690"
     }
   ]
 }

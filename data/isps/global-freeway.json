@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://globalfreeway.com.au",
-  "summary": "National free dialup ISP (site from Feb 2000, reportedly Japanese-backed); entered receivership ~19 Mar 2001 owing A$60m+; defunct.",
+  "summary": "National free dialup ISP (site from Feb 2000, reportedly Japanese-backed); entered receivership ~19 Mar 2001 owing A$60m+; defunct (GLOBALFREEWAY PTY LTD, ACN 090 017 422).",
   "names": [
     {
       "name": "Global Freeway",
@@ -26,6 +26,13 @@
       "date_disp": "Mar 2001",
       "precision": "exact",
       "details": "Receivership ~19 Mar 2001."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=87090017422",
+      "label": "ABR: GLOBALFREEWAY PTY LTD ACN 090 017 422"
     }
   ]
 }

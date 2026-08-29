@@ -4,7 +4,7 @@
   "birthplace": "Homebush Bay (Sydney), NSW",
   "status": "inactive",
   "website": "https://aussieisp.com",
-  "summary": "Sydney budget dialup ISP (unlimited time/download $18.95/mo); dead.",
+  "summary": "Sydney budget dialup ISP (unlimited time/download $18.95/mo); dead (AUSSIE PTY LTD, ACN 159 424 692).",
   "names": [
     {
       "name": "Aussie ISP",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021217022745/http://www.cynosure.com.au/isp/aussieisp",
       "label": "Aussie ISP (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=62159424692",
+      "label": "ABR: AUSSIE PTY LTD ACN 159 424 692"
     }
   ]
 }

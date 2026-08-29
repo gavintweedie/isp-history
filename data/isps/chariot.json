@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "chariot.net.au",
-  "summary": "Adelaide ISP; built through acquisition: SA roll-up (OurWorld 1998; Cobweb, Newave, InterNex, Satlink, Pipeline, Box, Ompac, CNN, Universal; Picknowl 2002; Mr Bean, Better.Net, eCITE, Cyberwizards Mar 2003; Blue Pin/Northnet + Squirrel Net Aug 2003; Ledanet + Broadnet 11 May 2004) and a Queensland consolidation into the 'Chariot netconnect' brand (Qld Net, Technet 2000, Mackay Internet, Oznetcom by Mar 2005). FY2003-04 alone: 10 ISP acquisitions, ~32,000 customers. TPG took a controlling stake Feb 2007 but the Chariot netconnect brand continued under TPG/SP Telemedia until ~2010.",
+  "summary": "Adelaide ISP; built through acquisition: SA roll-up (OurWorld 1998; Cobweb, Newave, InterNex, Satlink, Pipeline, Box, Ompac, CNN, Universal; Picknowl 2002; Mr Bean, Better.Net, eCITE, Cyberwizards Mar 2003; Blue Pin/Northnet + Squirrel Net Aug 2003; Ledanet + Broadnet 11 May 2004) and a Queensland consolidation into the 'Chariot netconnect' brand (Qld Net, Technet 2000, Mackay Internet, Oznetcom by Mar 2005). FY2003-04 alone: 10 ISP acquisitions, ~32,000 customers. TPG took a controlling stake Feb 2007 but the Chariot netconnect brand continued under TPG/SP Telemedia until ~2010 (CHARIOT LIMITED, ACN 088 377 860).",
   "names": [
     {
       "name": "Chariot",
@@ -44,12 +44,17 @@
     {
       "kind": "archive",
       "url": "https://web.archive.org/web/19981212023308/http://www.bns.com.au/",
-      "label": "BNS (Wayback 12 Dec 1998) — John Lindsay 'General Manager of Chariot Internet'"
+      "label": "BNS (Wayback 12 Dec 1998) \u2014 John Lindsay 'General Manager of Chariot Internet'"
     },
     {
       "kind": "official",
       "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
-      "label": "LinkedIn: John Lindsay — General Manager, Chariot (1997-1999)"
+      "label": "LinkedIn: John Lindsay \u2014 General Manager, Chariot (1997-1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=31088377860",
+      "label": "ABR: CHARIOT LIMITED ACN 088 377 860"
     }
   ],
   "aliases": [

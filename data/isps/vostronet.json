@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "vostronet.com.au",
-  "summary": "B2B ISP/wholesaler, acquired by Superloop.",
+  "summary": "B2B ISP/wholesaler, acquired by Superloop (VOSTRONET (AUSTRALIA) PTY LTD, ACN 602 624 215).",
   "names": [
     {
       "name": "VostroNet",
@@ -26,6 +26,13 @@
       "date_disp": "2022",
       "precision": "exact",
       "details": "Acquired by Superloop (~A$35m)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=64602624215",
+      "label": "ABR: VOSTRONET (AUSTRALIA) PTY LTD ACN 602 624 215"
     }
   ]
 }

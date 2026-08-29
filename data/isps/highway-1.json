@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://highway1.com.au",
-  "summary": "Perth ISP (est. 1994); acquired by ZettaServe 2007; absorbed IAP (1997); held Global Dial (2010), Simtex/Up'N'Away VoIP (2009), APIIX brands; became ZettaServe's ISP arm, which formed Zettagrid ~2010.",
+  "summary": "Perth ISP (est. 1994); acquired by ZettaServe 2007; absorbed IAP (1997); held Global Dial (2010), Simtex/Up'N'Away VoIP (2009), APIIX brands; became ZettaServe's ISP arm, which formed Zettagrid ~2010 (Highway 1 Pty Limited, ACN 143 743 417).",
   "names": [
     {
       "name": "Highway 1",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000601121036/http://www.highway1.com.au/aboutus/aboutus.htm",
       "label": "Highway 1 about (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=55143743417",
+      "label": "ABR: Highway 1 Pty Limited ACN 143 743 417"
     }
   ]
 }

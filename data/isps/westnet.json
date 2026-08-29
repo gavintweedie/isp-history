@@ -4,7 +4,7 @@
   "birthplace": "Geraldton/Perth, WA",
   "status": "inactive",
   "website": "westnet.com.au",
-  "summary": "WA ISP, founded in Geraldton, moved to Perth; acquired by iiNet for $81M in 2008.",
+  "summary": "WA ISP, founded in Geraldton, moved to Perth; acquired by iiNet for $81M in 2008 (WESTNET PTY LTD, ACN 086 416 908).",
   "names": [
     {
       "name": "Westnet",
@@ -27,14 +27,25 @@
       "precision": "exact",
       "details": "Acquired by iiNet for $81 million.",
       "refs": [
-        {"kind": "news", "url": "https://www.itnews.com.au/news/iinet-acquires-westnet-for-81-million-110456", "label": "iTnews: iiNet acquires Westnet for $81 million (8 May 2008)"}
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/iinet-acquires-westnet-for-81-million-110456",
+          "label": "iTnews: iiNet acquires Westnet for $81 million (8 May 2008)"
+        }
       ]
     },
     {
       "kind": "note",
       "year": 2000,
       "date_disp": "2000",
-      "details": "Operated the Seacrest Estate private-fibre broadband service in Geraldton (estate launched Jul 2000, one of Australia's first fibre estates; developer-owned passive network). Westnet's Oct 2001 newsletter describes its estate POP (satellite international + multilinked ISDN domestic, VLAN-per-household on Cisco kit); later upgrades added WipLL wireless backhaul and an estate PPPoE LNS. Service continued after the 2008 iiNet acquisition but faded as ADSL reached Tarcoola Beach exchange (~2008) and NBN arrived mid-2010s; no documented post-acquisition investment. Geraldton ISP NodeOne (founded 2009) eventually became the estate's sole provider. Swoop bought the conduit/fibre from the original developer (Jun 2024, $500K, ~900 homes), rebuilt it as wholesale FTTP and switched the legacy network off 30 Jun 2025. NOTE: no public record of a formal customer transfer from iiNet to NodeOne — attrition, not offload."
+      "details": "Operated the Seacrest Estate private-fibre broadband service in Geraldton (estate launched Jul 2000, one of Australia's first fibre estates; developer-owned passive network). Westnet's Oct 2001 newsletter describes its estate POP (satellite international + multilinked ISDN domestic, VLAN-per-household on Cisco kit); later upgrades added WipLL wireless backhaul and an estate PPPoE LNS. Service continued after the 2008 iiNet acquisition but faded as ADSL reached Tarcoola Beach exchange (~2008) and NBN arrived mid-2010s; no documented post-acquisition investment. Geraldton ISP NodeOne (founded 2009) eventually became the estate's sole provider. Swoop bought the conduit/fibre from the original developer (Jun 2024, $500K, ~900 homes), rebuilt it as wholesale FTTP and switched the legacy network off 30 Jun 2025. NOTE: no public record of a formal customer transfer from iiNet to NodeOne \u2014 attrition, not offload."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=50086416908",
+      "label": "ABR: WESTNET PTY LTD ACN 086 416 908"
     }
   ]
 }

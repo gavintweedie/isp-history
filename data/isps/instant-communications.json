@@ -4,7 +4,7 @@
   "birthplace": "Indooroopilly (Brisbane), QLD",
   "status": "inactive",
   "website": "https://in.com.au",
-  "summary": "Brisbane national dialup then ADSL ISP (in.com.au); absorbed by EFTel ~2006-07.",
+  "summary": "Brisbane national dialup then ADSL ISP (in.com.au); absorbed by EFTel ~2006-07 (S.E.A. COMPANY AUSTRALIA PTY. LTD., ACN 097 835 437).",
   "names": [
     {
       "name": "Instant Communications",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20060203215651/http://in.com.au/",
       "label": "Instant (Wayback 2006)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=36097835437",
+      "label": "ABR: S.E.A. COMPANY AUSTRALIA PTY. LTD. ACN 097 835 437"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "harbourisp.com.au",
-  "summary": "Retail RSP (~30,000 customers); acquired by Uniti 2020; NBN customer base later sold to Aussie Broadband, satellite customers to SkyMesh.",
+  "summary": "Retail RSP (~30,000 customers); acquired by Uniti 2020; NBN customer base later sold to Aussie Broadband, satellite customers to SkyMesh (HARBOUR ISP PTY LTD, ACN 154 752 968).",
   "names": [
     {
       "name": "Harbour ISP",
@@ -26,6 +26,13 @@
       "date_disp": "Nov 2020",
       "precision": "exact",
       "details": "Acquired by Uniti (announced 17 Nov 2020)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=44154752968",
+      "label": "ABR: HARBOUR ISP PTY LTD ACN 154 752 968"
     }
   ]
 }

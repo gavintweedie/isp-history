@@ -4,7 +4,7 @@
   "birthplace": "Surry Hills (Sydney), NSW",
   "status": "inactive",
   "website": "https://everywhereinternet.com.au",
-  "summary": "Everywhere Internet (Holdings + Systems Pty Ltd); began as an internet-cafe/kiosk chain on its own fibre network (~2004/05), pivoted to national pay-as-you-go kiosks + managed WiFi; acquired by BigAir (share-sale agreement 4 Dec 2015, A$750k cash + earnout up to A$3.5m).",
+  "summary": "Everywhere Internet (Holdings + Systems Pty Ltd); began as an internet-cafe/kiosk chain on its own fibre network (~2004/05), pivoted to national pay-as-you-go kiosks + managed WiFi; acquired by BigAir (share-sale agreement 4 Dec 2015, A$750k cash + earnout up to A$3.5m) (Everywhere Internet Holdings Pty Ltd, ACN 109 777 095).",
   "names": [
     {
       "name": "Everywhere Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20051223064252/http://www.everywhereinternet.com.au/",
       "label": "Everywhere Internet (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=88109777095",
+      "label": "ABR: Everywhere Internet Holdings Pty Ltd ACN 109 777 095"
     }
   ]
 }

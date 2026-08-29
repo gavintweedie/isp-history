@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.gridline-australia.com.au",
-  "summary": "Perth 'broadband over power lines' (BPL) ISP \u2014 internet, VoIP and security delivered via the electrical outlet; founded 2003; short-lived, gone by late 2007.",
+  "summary": "Perth 'broadband over power lines' (BPL) ISP \u2014 internet, VoIP and security delivered via the electrical outlet; founded 2003; short-lived, gone by late 2007 (Gridline Communications Pty Ltd, ACN 118 776 515).",
   "names": [
     {
       "name": "Gridline Communications",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20071012032534/http://www.waia.asn.au/waix/participants.shtml",
       "label": "WAIA WAIX participants (Wayback 2007)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=75118776515",
+      "label": "ABR: Gridline Communications Pty Ltd ACN 118 776 515"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://intrapower.com.au",
-  "summary": "Managed private-network/cloud provider (ASX: IPX); acquired by TPG Telecom July 2011.",
+  "summary": "Managed private-network/cloud provider (ASX: IPX); acquired by TPG Telecom July 2011 (INTRAPOWER PTY LIMITED, ACN 123 699 043).",
   "names": [
     {
       "name": "IntraPower",
@@ -26,6 +26,13 @@
       "date_disp": "Jul 2011",
       "precision": "exact",
       "details": "Acquired by TPG Telecom (~A$12.8m)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=26123699043",
+      "label": "ABR: INTRAPOWER PTY LIMITED ACN 123 699 043"
     }
   ]
 }

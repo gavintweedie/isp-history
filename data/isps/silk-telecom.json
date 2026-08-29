@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "silktel.com.au",
-  "summary": "Carrier formed 2005 from the telecom businesses of ETSA, Powercor and Citipower; acquired Bright (2006), then Nextgen (2008).",
+  "summary": "Carrier formed 2005 from the telecom businesses of ETSA, Powercor and Citipower; acquired Bright (2006), then Nextgen (2008) (NEXTGEN TELECOM PTY LTD, ACN 095 420 616).",
   "names": [
     {
       "name": "Silk Telecom",
@@ -33,6 +33,11 @@
       "kind": "news",
       "url": "https://itwire.com/it-industry-news/deals/nextgen-networks-buys-silk-telecom.html",
       "label": "iTWire: Nextgen buys Silk Telecom (2008)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=96095420616",
+      "label": "ABR: NEXTGEN TELECOM PTY LTD ACN 095 420 616"
     }
   ]
 }

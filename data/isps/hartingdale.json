@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "hartingdale.com.au",
-  "summary": "Sydney ISP (Hartingdale Pty Ltd, Crows Nest).",
+  "summary": "Sydney ISP (Hartingdale Pty Ltd, Crows Nest, ACN 001 533 955).",
   "names": [
     {
       "name": "Hartingdale",
@@ -26,6 +26,13 @@
       "date_disp": "early 2002",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=16001533955",
+      "label": "ABR: HARTINGDALE PTY LTD ACN 001 533 955"
     }
   ]
 }

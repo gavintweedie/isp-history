@@ -4,7 +4,7 @@
   "birthplace": "Sydney CBD, NSW",
   "status": "inactive",
   "website": "https://apanet.com.au",
-  "summary": "Sydney dialup + hosting ISP (also sold ISP billing software); dead ~2000.",
+  "summary": "Sydney dialup + hosting ISP (also sold ISP billing software); dead ~2000 (APA COMPANY PTY LTD, ACN 651 759 429).",
   "names": [
     {
       "name": "APA Communications",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011223121905/http://www.cynosure.com.au/isp/apanet",
       "label": "APA (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=83651759429",
+      "label": "ABR: APA COMPANY PTY LTD ACN 651 759 429"
     }
   ]
 }

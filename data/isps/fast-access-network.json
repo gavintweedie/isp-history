@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://fastaccess.com.au",
-  "summary": "Perth dialup ISP + PC/network support (Fast Access Network Pty Ltd, AS7611, ~1996-97); company defunct, founder continued as sole trader.",
+  "summary": "Perth dialup ISP + PC/network support (Fast Access Network Pty Ltd, AS7611, ~1996-97, ACN 070 043 131); company defunct, founder continued as sole trader.",
   "names": [
     {
       "name": "Fast Access Network",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2005",
       "precision": "approx",
       "details": "Defunct as company."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=74070043131",
+      "label": "ABR: FAST ACCESS NETWORK PTY LTD ACN 070 043 131"
     }
   ]
 }

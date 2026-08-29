@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "transact.com.au",
-  "summary": "Canberra broadband provider; acquired by iiNet in 2011.",
+  "summary": "Canberra broadband provider; acquired by iiNet in 2011 (TRANSACT CAPITAL COMMUNICATIONS PTY LTD, ACN 093 966 888).",
   "names": [
     {
       "name": "TransACT",
@@ -26,6 +26,13 @@
       "date_disp": "2011",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=23093966888",
+      "label": "ABR: TRANSACT CAPITAL COMMUNICATIONS PTY LTD ACN 093 966 888"
     }
   ]
 }

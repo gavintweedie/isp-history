@@ -4,7 +4,7 @@
   "birthplace": "Gosford, NSW",
   "status": "inactive",
   "website": "https://cirruscomms.com.au",
-  "summary": "Licensed fixed-wireless broadband carrier for regional Australia; serial acquirer of small regional wireless ISPs (CommsLogic 2007, WireFree 2008, UniSky 2008, LiSP wireless, My WiSP, Chariot wireless assets); rebranded Swoop ~2020.",
+  "summary": "Licensed fixed-wireless broadband carrier for regional Australia; serial acquirer of small regional wireless ISPs (CommsLogic 2007, WireFree 2008, UniSky 2008, LiSP wireless, My WiSP, Chariot wireless assets); rebranded Swoop ~2020 (CIRRUS PTY LTD, ACN 636 256 052).",
   "names": [
     {
       "name": "Cirrus Communications",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20050712050200/http://www.cirruscomms.com.au/",
       "label": "Cirrus (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=17636256052",
+      "label": "ABR: CIRRUS PTY LTD ACN 636 256 052"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "internode.com.au",
-  "summary": "Adelaide-based ISP, long independent, acquired by iiNet.",
+  "summary": "Adelaide-based ISP, long independent, acquired by iiNet (INTERNODE PTY LTD, ACN 052 008 581).",
   "names": [
     {
       "name": "Internode",
@@ -26,6 +26,13 @@
       "date_disp": "Dec 2011",
       "precision": "exact",
       "details": "Acquired by iiNet (announced Dec 2011)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=82052008581",
+      "label": "ABR: INTERNODE PTY LTD ACN 052 008 581"
     }
   ]
 }

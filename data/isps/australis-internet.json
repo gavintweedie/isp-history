@@ -4,7 +4,7 @@
   "birthplace": "Stafford (Brisbane), QLD",
   "status": "inactive",
   "website": "https://australis.net",
-  "summary": "Brisbane dialup ISP (~30 POPs QLD/NSW/WA/NT, city prices to regional Australia); shared network with Blaze (aunz.com group); dead.",
+  "summary": "Brisbane dialup ISP (~30 POPs QLD/NSW/WA/NT, city prices to regional Australia); shared network with Blaze (aunz.com group); dead (AUSTRALIS CO. PTY LTD, ACN 644 989 140).",
   "names": [
     {
       "name": "Australis Internet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021219071429/http://www.cynosure.com.au/isp/australis2",
       "label": "Australis (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=20644989140",
+      "label": "ABR: AUSTRALIS CO. PTY LTD ACN 644 989 140"
     }
   ]
 }

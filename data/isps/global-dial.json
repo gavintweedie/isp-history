@@ -4,7 +4,7 @@
   "birthplace": "Claremont, Perth, WA",
   "status": "inactive",
   "website": "https://globaldial.com.au",
-  "summary": "Perth ISP and telecommunications carrier (Global Dial Pty Ltd). Founded Sep 1994 by Patrick Ng; operated under the trading/portal names 'Global Dial Internet' and 'The Global Dial Internet Team' (globalweb.com.au member portal). Top-rated ISP in the Internet.AU survey (Mar 1998); first WA ISP with satellite (1999); carrier licence + telephony (2000); WA State Government ISP panel (1998). Earlier 1997 APNIC-era allocations GLOBALWEB-AU / GLOBWEB-AU (Nedlands WA). Acquired by ZettaNet Pty Ltd (trading as Highway 1) 1 Jun 2010.",
+  "summary": "Perth ISP and telecommunications carrier (Global Dial Pty Ltd). Founded Sep 1994 by Patrick Ng; operated under the trading/portal names 'Global Dial Internet' and 'The Global Dial Internet Team' (globalweb.com.au member portal). Top-rated ISP in the Internet.AU survey (Mar 1998); first WA ISP with satellite (1999); carrier licence + telephony (2000); WA State Government ISP panel (1998). Earlier 1997 APNIC-era allocations GLOBALWEB-AU / GLOBWEB-AU (Nedlands WA). Acquired by ZettaNet Pty Ltd (trading as Highway 1) 1 Jun 2010 (ZANTICO CORPORATION PTY LTD, ACN 063 959 795).",
   "names": [
     {
       "name": "Global Dial",
@@ -79,6 +79,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20040616060628/http://www.globaldial.com.au/aboutus/history.html",
       "label": "Global Dial history (Wayback 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=65063959795",
+      "label": "ABR: ZANTICO CORPORATION PTY LTD ACN 063 959 795"
     }
   ],
   "aliases": [

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://freeonline.com.au",
-  "summary": "Free dialup ISP group (FreeISP/FreeOnline/EasyISP, ~1999); FreeOnline service closed 31 Aug 2001.",
+  "summary": "Free dialup ISP group (FreeISP/FreeOnline/EasyISP, ~1999, ACN 093 301 056); FreeOnline service closed 31 Aug 2001.",
   "names": [
     {
       "name": "FreeOnline",
@@ -26,6 +26,13 @@
       "date_disp": "31 Aug 2001",
       "precision": "exact",
       "details": "Closed."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=61093301056",
+      "label": "ABR: FREEONLINE AUSTRALIA PTY LIMITED ACN 093 301 056"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://cyberone.com.au",
-  "summary": "Canberra ISP (formerly ACT Online, 1996; TransACT/dialup); ISP service collapsed ~Jun 2012, customers absorbed by Apex Telecom (26 Jun 2012); pivoted to BPO/call-centre services.",
+  "summary": "Canberra ISP (formerly ACT Online, 1996; TransACT/dialup); ISP service collapsed ~Jun 2012, customers absorbed by Apex Telecom (26 Jun 2012); pivoted to BPO/call-centre services (CYBERONE SYSTEMS PTY LTD, ACN 133 098 558).",
   "names": [
     {
       "name": "CyberOne",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980529095040/http://www.cyberone.com.au/about.html",
       "label": "CyberOne (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=79133098558",
+      "label": "ABR: CYBERONE SYSTEMS PTY LTD ACN 133 098 558"
     }
   ]
 }

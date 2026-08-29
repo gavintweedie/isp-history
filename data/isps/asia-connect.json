@@ -4,7 +4,7 @@
   "birthplace": "Bondi Junction (Sydney), NSW",
   "status": "inactive",
   "website": "https://asiaconnect.com.au",
-  "summary": "Sydney dialup + permanent access ISP aimed at Asian business/private users; dead ~2001.",
+  "summary": "Sydney dialup + permanent access ISP aimed at Asian business/private users; dead ~2001 (ASIA CONNECT PTY LTD, ACN 678 861 839).",
   "names": [
     {
       "name": "Asia Connect",
@@ -43,6 +43,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021217023131/http://www.cynosure.com.au/isp/asiaconnect",
       "label": "Asia Connect (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=31678861839",
+      "label": "ABR: ASIA CONNECT PTY LTD ACN 678 861 839"
     }
   ]
 }

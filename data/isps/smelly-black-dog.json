@@ -4,7 +4,7 @@
   "birthplace": "Cairns (Clifton Beach), QLD",
   "status": "inactive",
   "website": "https://smellyblackdog.com.au",
-  "summary": "Cairns boutique ISP/IT provider (The Smelly Black Dog Company Pty Ltd); also traded as IP Networks and Cairns Internet Services; collapsed ~April 2014.",
+  "summary": "Cairns boutique ISP/IT provider (The Smelly Black Dog Company Pty Ltd, ACN 129 726 870); also traded as IP Networks and Cairns Internet Services; collapsed ~April 2014.",
   "names": [
     {
       "name": "Smelly Black Dog",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20091101130623/http://www.smellyblackdog.com.au/",
       "label": "Smelly Black Dog (Wayback 2009)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=66129726870",
+      "label": "ABR: THE SMELLY BLACK DOG COMPANY PTY. LTD. ACN 129 726 870"
     }
   ]
 }

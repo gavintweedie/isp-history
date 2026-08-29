@@ -4,7 +4,7 @@
   "birthplace": "Osborne Park (Perth), WA",
   "status": "inactive",
   "website": "https://eepo.com.au",
-  "summary": "Perth batched dialup (TimeSaver) + hosting (MiniWeb) ISP; appears to have been an Ausconnect brand.",
+  "summary": "Perth batched dialup (TimeSaver) + hosting (MiniWeb) ISP; appears to have been an Ausconnect brand (AUSCONNECT PTY LTD, ACN 009 336 190).",
   "names": [
     {
       "name": "EEPO",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2005/http://www.eepo.com.au/",
       "label": "EEPO (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=86009336190",
+      "label": "ABR: AUSCONNECT PTY LTD ACN 009 336 190"
     }
   ]
 }

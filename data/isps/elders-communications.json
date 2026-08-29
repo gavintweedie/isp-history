@@ -4,7 +4,7 @@
   "birthplace": "Victoria",
   "status": "inactive",
   "website": "https://elders.net.au",
-  "summary": "Internet/telco arm of the Elders agribusiness (late 1990s, elders.net.au); services discontinued.",
+  "summary": "Internet/telco arm of the Elders agribusiness (late 1990s, elders.net.au, ACN 117 261 864); services discontinued.",
   "names": [
     {
       "name": "Elders Communications",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2003",
       "precision": "approx",
       "details": "Services discontinued."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=92117261864",
+      "label": "ABR: ELDERS COMMUNICATIONS PTY LTD ACN 117 261 864"
     }
   ]
 }

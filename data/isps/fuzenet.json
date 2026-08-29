@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "fuzenet.com.au",
-  "summary": "Retail RSP (incl. former Varsity Internet); acquired by Uniti, completed Feb 2019.",
+  "summary": "Retail RSP (incl. former Varsity Internet); acquired by Uniti, completed Feb 2019 (UNITI RETAIL PTY LTD, ACN 154 074 218).",
   "names": [
     {
       "name": "Fuzenet",
@@ -26,6 +26,13 @@
       "date_disp": "Feb 2019",
       "precision": "exact",
       "details": "Acquired by Uniti (agreement Nov 2018, completed 13 Feb 2019)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=71154074218",
+      "label": "ABR: UNITI RETAIL PTY LTD ACN 154 074 218"
     }
   ]
 }

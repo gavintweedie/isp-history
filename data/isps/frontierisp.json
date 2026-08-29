@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://frontierisp.net.au",
-  "summary": "Adelaide dialup/hosting ISP (Frontier ISP Pty Ltd, 2001); evolved into / absorbed by Ai Tel Pty Ltd (same 1800 number).",
+  "summary": "Adelaide dialup/hosting ISP (Frontier ISP Pty Ltd, 2001, ACN 092 881 680); evolved into / absorbed by Ai Tel Pty Ltd (same 1800 number).",
   "names": [
     {
       "name": "FrontierISP",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010223185120/http://www.frontierisp.net.au/",
       "label": "FrontierISP (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=86092881680",
+      "label": "ABR: FRONTIER ISP PTY LTD ACN 092 881 680"
     }
   ]
 }

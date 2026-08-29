@@ -4,7 +4,7 @@
   "birthplace": "Braddon (Canberra), ACT",
   "status": "inactive",
   "website": "https://apex.net.au",
-  "summary": "Canberra's favourite ISP (dialup + hosting); acquired ORAC 2001, renamed Apex Telecom ~Nov 2011, absorbed CyberOne customers Jun 2012, sold to NetSpeed Communications Jun 2012.",
+  "summary": "Canberra's favourite ISP (dialup + hosting); acquired ORAC 2001, renamed Apex Telecom ~Nov 2011, absorbed CyberOne customers Jun 2012, sold to NetSpeed Communications Jun 2012 (APEX TELECOM PTY. LTD., ACN 152 018 436).",
   "names": [
     {
       "name": "APEX Internet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20111001000000/http://www.apex.net.au/",
       "label": "APEX (Wayback 2011)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=73152018436",
+      "label": "ABR: APEX TELECOM PTY. LTD. ACN 152 018 436"
     }
   ]
 }

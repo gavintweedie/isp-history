@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://skynetglobal.com",
-  "summary": "Wireless broadband / WiFi hotspot provider (ASX: SKG), founded 1999; built Australia's largest 802.11b network; wound down ~2005.",
+  "summary": "Wireless broadband / WiFi hotspot provider (ASX: SKG), founded 1999; built Australia's largest 802.11b network; wound down ~2005 (SKYNETGLOBAL COMMUNICATIONS PTY LTD, ACN 100 307 275).",
   "names": [
     {
       "name": "SkyNetGlobal",
@@ -33,6 +33,13 @@
           "label": "deListed Australia: SkyNetGlobal Limited (ASX:SKG) \u2014 renamed E-PAY Asia Limited 24 Nov 2005"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=90100307275",
+      "label": "ABR: SKYNETGLOBAL COMMUNICATIONS PTY LTD ACN 100 307 275"
     }
   ]
 }

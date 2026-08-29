@@ -4,7 +4,7 @@
   "birthplace": "NSW",
   "status": "inactive",
   "website": "https://wilddsl.com.au",
-  "summary": "National ADSL/xDSL + iBurst wireless + VoIP ISP (Wild Internet & Telecom Pty Ltd, reg. 4 Feb 2000); voluntary administration Feb 2007; customer base sold to Gotalk Communications for $240k (28 Mar 2007).",
+  "summary": "National ADSL/xDSL + iBurst wireless + VoIP ISP (Wild Internet & Telecom Pty Ltd, reg. 4 Feb 2000, ACN 091 470 692); voluntary administration Feb 2007; customer base sold to Gotalk Communications for $240k (28 Mar 2007).",
   "names": [
     {
       "name": "Wild IT",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20050507111120/http://www.wilddsl.com.au/",
       "label": "Wild IT (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=98091470692",
+      "label": "ABR: WILD INTERNET & TELECOM PTY LTD ACN 091 470 692"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Coffs Harbour, NSW",
   "status": "inactive",
   "website": "https://breakfree.net.au",
-  "summary": "Coffs Harbour ADSL/bundle ISP (Break Free Communications Pty Ltd / Australia Power Control Systems); small provider to ~2017.",
+  "summary": "Coffs Harbour ADSL/bundle ISP (Break Free Communications Pty Ltd / Australia Power Control Systems, ACN 646 011 832); small provider to ~2017.",
   "names": [
     {
       "name": "Break Free",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20170912203128/http://breakfree.net.au/",
       "label": "Break Free (Wayback 2017)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=53646011832",
+      "label": "ABR: BREAK FREE CORPORATION PTY LTD ACN 646 011 832"
     }
   ]
 }

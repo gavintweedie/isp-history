@@ -4,7 +4,7 @@
   "birthplace": "Cotton Tree (Sunshine Coast), QLD",
   "status": "inactive",
   "website": "https://flexinet.com.au",
-  "summary": "Sunshine Coast ISP (FlexiNet Pty Ltd, ~2000; incorporating Burrows Computer Services, OASYS Technology, Beach Access); dialup, ADSL, wireless broadband, WiFi hotspots; active to at least 2015.",
+  "summary": "Sunshine Coast ISP (FlexiNet Pty Ltd, ~2000; incorporating Burrows Computer Services, OASYS Technology, Beach Access, ACN 112 877 488); dialup, ADSL, wireless broadband, WiFi hotspots; active to at least 2015.",
   "names": [
     {
       "name": "Flexinet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001019025952/http://www.flexinet.com.au/",
       "label": "Flexinet (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=23112877488",
+      "label": "ABR: FLEXINET PTY LTD ACN 112 877 488"
     }
   ]
 }

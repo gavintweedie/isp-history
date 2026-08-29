@@ -4,7 +4,7 @@
   "birthplace": "Lower Blue Mountains, NSW",
   "status": "inactive",
   "website": "https://www.emunet.com.au",
-  "summary": "Small family-run ISP at the base of the Blue Mountains, 45 minutes west of Sydney ('Emunet Computing Australia'); low-cost k56flex dialup and ISDN access plus email, web hosting and web design; contact David@EmuNet.com.au, ph (02) 4735 6670.",
+  "summary": "Small family-run ISP at the base of the Blue Mountains, 45 minutes west of Sydney ('Emunet Computing Australia', ACN 074 937 027); low-cost k56flex dialup and ISDN access plus email, web hosting and web design; contact David@EmuNet.com.au, ph (02) 4735 6670.",
   "names": [
     {
       "name": "Emunet Computing Australia",
@@ -48,6 +48,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981203083359/http://www.emunet.com.au/about.html",
       "label": "About Emunet Computing Australia (Wayback Dec 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=20074937027",
+      "label": "ABR: EMUNET COMPUTING AUSTRALIA PTY LTD ACN 074 937 027"
     }
   ]
 }

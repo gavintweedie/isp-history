@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "pacific.net.sg",
-  "summary": "Singapore's Pacific Internet's Australia arm (1999); merged into Pacnet 2008.",
+  "summary": "Singapore's Pacific Internet's Australia arm (1999); merged into Pacnet 2008 (PACNET INTERNET (A) PTY LTD, ACN 085 213 690).",
   "names": [
     {
       "name": "Pacific Internet",
@@ -33,6 +33,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Pacnet",
       "label": "Wikipedia: Pacnet"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=69085213690",
+      "label": "ABR: PACNET INTERNET (A) PTY LTD ACN 085 213 690"
     }
   ]
 }

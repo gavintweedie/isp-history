@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "internetexpress.com.au",
-  "summary": "Perth ISP; acquired/merged into EFTel May 2000.",
+  "summary": "Perth ISP; acquired/merged into EFTel May 2000 (XCOMM (WA) PTY LTD, ACN 088 018 615).",
   "names": [
     {
       "name": "Internet Express",
@@ -26,6 +26,13 @@
       "date_disp": "May 2000",
       "precision": "exact",
       "details": "Acquired/merged into EFTel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=42088018615",
+      "label": "ABR: XCOMM (WA) PTY LTD ACN 088 018 615"
     }
   ]
 }

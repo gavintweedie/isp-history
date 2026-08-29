@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://microtronics.com.au",
-  "summary": "Adelaide ISP (Microtronics Online Pty Ltd, 305 Morphett St); separate from Dove Australia; went under Dec 2001 with the same administrator as Dove (suggesting common ownership).",
+  "summary": "Adelaide ISP (Microtronics Online Pty Ltd, 305 Morphett St, ACN 008 116 578); separate from Dove Australia; went under Dec 2001 with the same administrator as Dove (suggesting common ownership).",
   "names": [
     {
       "name": "Microtronics",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970405102535/http://www.microtronics.com.au/",
       "label": "Microtronics (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=44008116578",
+      "label": "ABR: MICROTRONICS PTY. LTD. ACN 008 116 578"
     }
   ]
 }

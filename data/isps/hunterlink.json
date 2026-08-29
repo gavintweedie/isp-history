@@ -4,7 +4,7 @@
   "birthplace": "Newcastle, NSW",
   "status": "inactive",
   "website": "https://hunterlink.net.au",
-  "summary": "Hunter Valley's largest local ISP (founded by two Newcastle University students); became part of the Pacific Internet Group 2000.",
+  "summary": "Hunter Valley's largest local ISP (founded by two Newcastle University students); became part of the Pacific Internet Group 2000 (HUNTERLINK PTY LIMITED, ACN 050 061 982).",
   "names": [
     {
       "name": "HunterLink",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20040901153419/http://www.hunterlink.net.au/",
       "label": "HunterLink (Wayback 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=42050061982",
+      "label": "ABR: HUNTERLINK PTY LIMITED ACN 050 061 982"
     }
   ]
 }

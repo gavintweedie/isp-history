@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "unwired.com.au",
-  "summary": "Sydney fixed-wireless broadband provider (launched 2000); via Seven to Optus, network shut 2013.",
+  "summary": "Sydney fixed-wireless broadband provider (launched 2000); via Seven to Optus, network shut 2013 (UNWIRED AUSTRALIA PTY LIMITED, ACN 094 107 589).",
   "names": [
     {
       "name": "Unwired",
@@ -33,6 +33,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Unwired",
       "label": "Wikipedia: Unwired"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=78094107589",
+      "label": "ABR: UNWIRED AUSTRALIA PTY LIMITED ACN 094 107 589"
     }
   ]
 }

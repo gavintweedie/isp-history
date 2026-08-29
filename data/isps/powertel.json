@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "http://www.powertel.com.au",
-  "summary": "PowerTel Limited (ASX: PWT) \u2014 Australia's second-largest fixed broadband and inter-city fibre carrier; built the ~2500km Melbourne-to-Brisbane backbone; acquired Request Broadband (2004) and NTT Australia (2004); absorbed into AAPT (Telecom NZ) May 2007.",
+  "summary": "PowerTel Limited (ASX: PWT) \u2014 Australia's second-largest fixed broadband and inter-city fibre carrier; built the ~2500km Melbourne-to-Brisbane backbone; acquired Request Broadband (2004) and NTT Australia (2004); absorbed into AAPT (Telecom NZ) May 2007 (POWERTEL LIMITED, ACN 001 760 103).",
   "names": [
     {
       "name": "PowerTel",
@@ -38,6 +38,11 @@
       "kind": "news",
       "url": "https://www.smh.com.au/national/powertel-to-acquire-ntt-australia-20041026-gdjzp1.html",
       "label": "SMH: PowerTel to acquire NTT Australia (2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=69001760103",
+      "label": "ABR: POWERTEL LIMITED ACN 001 760 103"
     }
   ]
 }

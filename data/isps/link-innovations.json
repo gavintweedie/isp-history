@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "linkinnovations.com.au",
-  "summary": "Telecoms business (Link Innovations, founded Nov 1995); became a licensed carrier/WISP ~Oct 2003 (per Whirlpool rep, 2004); acquired by BigAir 29 Jun 2012.",
+  "summary": "Telecoms business (Link Innovations, founded Nov 1995, ACN 071 699 637); became a licensed carrier/WISP ~Oct 2003 (per Whirlpool rep, 2004); acquired by BigAir 29 Jun 2012.",
   "names": [
     {
       "name": "Link Innovations",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://whrl.pl/Rpyhf",
       "label": "Whirlpool: Link Innovations rep (2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=47071699637",
+      "label": "ABR: LINK INNOVATIONS PTY LIMITED ACN 071 699 637"
     }
   ]
 }

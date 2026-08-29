@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://lynham.net.au",
-  "summary": "FTTP wholesale network (incl. retail arm Lightning Broadband), acquired by Superloop.",
+  "summary": "FTTP wholesale network (incl. retail arm Lightning Broadband), acquired by Superloop (LYNHAM NETWORKS PTY. LTD., ACN 602 258 337).",
   "names": [
     {
       "name": "Lynham Networks",
@@ -26,6 +26,13 @@
       "date_disp": "May 2026",
       "precision": "exact",
       "details": "Acquired by Superloop (~A$165m)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=17602258337",
+      "label": "ABR: LYNHAM NETWORKS PTY. LTD. ACN 602 258 337"
     }
   ]
 }

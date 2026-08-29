@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "myrepublic.net",
-  "summary": "Australian arm of Singapore's MyRepublic; exited Australia in 2022, customers migrated to Superloop.",
+  "summary": "Australian arm of Singapore's MyRepublic; exited Australia in 2022, customers migrated to Superloop (MYREPUBLIC PTY LTD, ACN 603 909 815).",
   "names": [
     {
       "name": "MyRepublic Australia",
@@ -26,6 +26,13 @@
       "date_disp": "Dec 2022",
       "precision": "exact",
       "details": "Customer base migrated to Superloop on market exit."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=75603909815",
+      "label": "ABR: MYREPUBLIC PTY LTD ACN 603 909 815"
     }
   ]
 }
