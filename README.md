@@ -106,7 +106,7 @@ terms:
   [`data/LICENSE`](data/LICENSE). Share and adapt freely, with attribution and
   share-alike for any derivatives.
 
-Contributions (pull requests) are accepted under these same terms: by opening a
+Contributions (pull requests) are welcomed under these same terms: by opening a
 PR you license your contribution to the project under GPL-3.0 for the code and
 CC BY-SA 4.0 for the data.
 
@@ -120,3 +120,20 @@ Building proceeds per `docs/PLAN.md`.
 - All changes go through git; data changes go through pull requests.
 - Only work inside this directory.
 - Approximate dates are first-class (see `docs/DATA_MODEL.md`).
+
+## AI
+
+AI was used **heavily** in both creating the frontend and doing legwork in research. 
+It became clear when I neared 100 networks that the many steps to locate information
+on old networks (wayback/company searches/looking for articles about mergers) was
+well suited to an LLM.
+
+## Accuracy
+
+As at end of August 2026 I feel this is a fair representation of how the family
+tree evolved, but there are very much gaps and errors.
+
+If you have a tip-off, data correction etc please raise a PR if you're up for it.
+Or drop an issue with plain text information you have, include references like articles,
+old website links etc - we can feed that to the AI robot to validate and do any
+checks and it can write up the PR for you.
