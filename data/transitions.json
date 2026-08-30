@@ -24,7 +24,13 @@
       "notes": "Agile was Internode's licensed carrier arm (from 1999).",
       "from": "agile-communications",
       "to": "internode",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www-ptd.internode.on.net/about/our_history/",
+          "label": "Internode Our History - Agile as sister company"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -442,7 +448,13 @@
       "notes": "FlowCom bought iGreen's DSL division.",
       "from": "igreen",
       "to": "flowcom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/iinet-swallows-left-over-flow-14403",
+          "label": "iTnews - iiNet swallows left-over Flow (25 Feb 2004)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -584,7 +596,13 @@
       "notes": "Blitz Telecom bought Koala Telecom's business after its June 2007 administration.",
       "from": "koala-telecom",
       "to": "blitz-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/?id=1746&show=replies",
+          "label": "Whirlpool Broadband News - Koala in Voluntary Administration (UPDATE 25 July 2007)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -727,7 +745,13 @@
       "notes": "TransACT acquired ActewAGL's 50% share of Grapevine (fully owned).",
       "from": "grapevine",
       "to": "transact",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/transact-buys-out-isp-grapevine-173864",
+          "label": "iTnews - TransACT buys out ISP Grapevine (5 May 2010)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1428,7 +1452,13 @@
       "notes": "Clever Communications (then Access Providers) acquired Activ Australia.",
       "from": "activ-australia",
       "to": "clever-communications",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/access-providers-buys-activ-67413",
+          "label": "iTnews \u2013 Access Providers buys Activ (30 Oct 2006) + rebrand to Clever Communications (6 Jun 2007)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1640,7 +1670,13 @@
       "notes": "Hostech bought Anittel, Accord Technologies, Axxis Technology and Aspirence (Feb 2010); group renamed Anittel Group Limited Dec 2010.",
       "from": "anittel",
       "to": "hostech",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/hostech-completes-anittel-acquisition-172611",
+          "label": "CRN/techpartner.news \u2013 Hostech completes Anittel acquisition (20 Apr 2010)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1650,7 +1686,13 @@
       "notes": "Hostech bought Accord Technologies in the Feb 2010 Kazacos merger.",
       "from": "accord-technologies",
       "to": "hostech",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/kaz-founder-buys-regional-resellers-166994",
+          "label": "CRN/techpartner.news \u2013 Kaz founder buys regional resellers (11 Feb 2010)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1798,7 +1840,13 @@
       "notes": "Servers Australia acquired OzServers.",
       "from": "ozservers",
       "to": "servers-australia",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/servers-australia-acquires-brisbane-hosting-provider-oz-servers-473488",
+          "label": "techpartner.news \u2013 Servers Australia acquires Brisbane hosting provider Oz Servers (18 Sep 2017)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1824,7 +1872,18 @@
       "notes": "Maret Group acquired Spirit Technology's fixed-wireless infrastructure ($15M upfront).",
       "from": "spirit-telecom",
       "to": "maret-group",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1259592/maret-group-spends-21m-on-spirits-wholesale-fixed-wireless-assets.html",
+          "label": "ARN \u2013 Maret Group spends $21M on Spirit's wholesale fixed wireless assets (9 May 2022)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1257651/spirit-offloads-select-network-assets-to-maret-group.html",
+          "label": "ARN \u2013 Spirit offloads select network assets to Maret Group (1 Dec 2022)"
+        }
+      ]
     },
     {
       "type": "split",
@@ -1988,7 +2047,13 @@
       "notes": "GoTalk bought Wild IT's customer base for $240k (28 Mar 2007).",
       "from": "wild-it",
       "to": "gotalk",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/?id=1717",
+          "label": "Whirlpool Broadband News \u2013 Gotalk buys Wild I&T (28 Mar 2007)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1998,7 +2063,13 @@
       "notes": "GoTalk transferred its post-paid services/customers to ClubTelco (~Oct-Nov 2010).",
       "from": "gotalk",
       "to": "clubtelco",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnewsaustralia.com/articles/gotalk-sells-off-consumer-division.html",
+          "label": "Business News Australia \u2013 GOTALK SELLS OFF CONSUMER DIVISION (7 Sep 2010)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2108,7 +2179,13 @@
       "notes": "People Telecom gained ASX listing via reverse takeover of Swiftel.",
       "from": "swiftel",
       "to": "people-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/national/swiftel-to-merge-with-people-telecom-20040312-gdij0e.html",
+          "label": "SMH/AAP \u2013 Swiftel to merge with People Telecom (12 Mar 2004)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2279,7 +2356,13 @@
       "notes": "ZettaServe acquired Highway 1 in 2007.",
       "from": "highway-1",
       "to": "zettaserve",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Highway_1_(ISP)",
+          "label": "Wikipedia \u2013 Highway 1 (ISP) citing ZettaServe press release 'ZettaServe acquires Highway 1' 2007-12-04"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2798,7 +2881,13 @@
       "notes": "Fastrac Internet Services merged with Shoalnet under Tourist Facilities Pty Ltd (Shoalnet-Fastrac).",
       "from": "fastrac",
       "to": "shoalnet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://shoal.net.au/",
+          "label": "Shoalnet homepage \u2013 Shoalnet Fastrac Internet Services (also www.fastrac.net.au mirrors same branding)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2886,7 +2975,13 @@
       "notes": "CyberOne's ISP customers absorbed by Apex Telecom (26 Jun 2012).",
       "from": "cyberone",
       "to": "apex-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/2073114",
+          "label": "Whirlpool \u2013 RIP the Australian midsize ISP 2001-2013 (post by ./cm)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2896,7 +2991,13 @@
       "notes": "CBIT Internet took over Bandwidth Unlimited (bU) operations (3 Nov 2005).",
       "from": "bandwidth-unlimited",
       "to": "cbit-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/2073114",
+          "label": "Whirlpool \u2013 RIP the Australian midsize ISP 2001-2013"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2906,7 +3007,13 @@
       "notes": "Spitfire Internet merged into CBIT Internet (2 Feb 2009).",
       "from": "spitfire-internet",
       "to": "cbit-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "http://caslon.com.au/payments_options.html",
+          "label": "caslon.com.au (Spitfire) \u2013 Payment Options 'cbit accepts Spitfire payments' with CBIT Pty Limited bank details"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2916,7 +3023,13 @@
       "notes": "Goldweb acquired by Velocity Internet (per Whirlpool).",
       "from": "goldweb-internet",
       "to": "velocity-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/2073114",
+          "label": "Whirlpool \u2013 RIP the Australian midsize ISP 2001-2013"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2936,7 +3049,13 @@
       "notes": "CorpLink redirected to Lexicon Internet.",
       "from": "corplink",
       "to": "lexicon-internet-services",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/phoneware-continues-isp-spree/",
+          "label": "InternetNews 2 Jan 2001 \u2013 Phoneware Continues ISP Spree"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2978,7 +3097,13 @@
       "notes": "Eagles Internet acquired by Netspace (customer conversion Sep 2000).",
       "from": "eagles-internet",
       "to": "netspace",
-      "refs": []
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://www.abn-lookup.com/firm/netspace-online-systems-pty-ltd-067116269/",
+          "label": "ABN Lookup \u2013 Netspace Online Systems Pty Ltd business names (ABR data)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3140,7 +3265,13 @@
       "notes": "InterConnect supported as a direct product of connect.com.au.",
       "from": "interconnect",
       "to": "connect-com-au",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "http://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke Brief History of the Internet in Australia - Interconnect passed via connect.com to AAPT"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3166,7 +3297,13 @@
       "notes": "DIALix brand absorbed by JustNet Pty Ltd.",
       "from": "dialix",
       "to": "justnet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20001202114900/http://www.dialix.com.au/",
+          "label": "Wayback DIALix homepage 2000-12-02 - Title DIALix by JustNet"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3288,7 +3425,13 @@
       "notes": "Coastlink merged into Netway Technologies as 'Netway Coastlink'.",
       "from": "coastlink",
       "to": "netway-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://www.abn-lookup.com/firm/netway-technologies-pty-ltd-076696243/",
+          "label": "ABN Lookup - Netway Technologies Pty Ltd business names (ABR extract)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3414,7 +3557,13 @@
       "notes": "Bullet Internet (SIS Group) folded into SIS Group (Amaze); domain redirected to amaze.com.au.",
       "from": "bullet-internet",
       "to": "sis-group-amaze",
-      "refs": []
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=41079466274",
+          "label": "ABN Lookup - SIS Group Pty Ltd ABN 41 079 466 274 historical details"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3502,7 +3651,13 @@
       "notes": "PSINet Inc acquired Zircon Systems (announced 26 Oct 1999); rebranded PSINet Australia.",
       "from": "zircon-systems",
       "to": "psinet-australia",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/psinet-buys-australian-isp-reports-earnings/",
+          "label": "InternetNews 26 Oct 1999 - PSINet Buys Australian ISP Zircon Systems"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3522,7 +3677,13 @@
       "notes": "Nexon Asia Pacific acquired the Zircon/PSINet Australia business from NTG (its own timeline says 2003; press says ~2004).",
       "from": "national-telecoms-group",
       "to": "nexon",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/nexon-buys-customers-from-troubled-ntg-20797",
+          "label": "iTnews 6 Dec 2004 - Nexon buys customers from troubled NTG"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3578,7 +3739,13 @@
       "notes": "MagnaData became NTT Australia (via Davnet).",
       "from": "magnadata",
       "to": "ntt-australia",
-      "refs": []
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=623500&display=text&documentDate=1999-11-09&documentNumber=154814&issuerId=3992",
+          "label": "ASX Davnet/NTT Communications partnership 9 Nov 1999 + ASX Clarification 5 Feb 1999"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3772,7 +3939,13 @@
       "notes": "Silk Telecom acquired Western Power's Bright Telecommunications.",
       "from": "bright",
       "to": "silk-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.wa.gov.au/government/media-statements/Carpenter%20Labor%20Government/Bright-Telecommunications-to-be-sold.-20061214",
+          "label": "WA Government Media Statement 14 Dec 2006 - Bright Telecommunications to be sold"
+        }
+      ]
     },
     {
       "type": "merger",
@@ -3798,7 +3971,13 @@
       "notes": "Nextgen Networks acquired Silk Telecom.",
       "from": "silk-telecom",
       "to": "nextgen-networks",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/nextgen-networks-opts-for-a-silk-route-112923",
+          "label": "iTnews 3 Jun 2008 - Nextgen Networks opts for a Silk route"
+        }
+      ]
     },
     {
       "type": "merger",
@@ -3902,7 +4081,13 @@
       "notes": "Primus acquired HotKey (60% 1998, 40% 1999).",
       "from": "hotkey",
       "to": "iprimus",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/australian-isp-market-gets-another-player/",
+          "label": "InternetNews Feb 8 1999 - Primus buys remaining 40% of HotKey"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4431,7 +4616,13 @@
       "notes": "Connexus acquired by Pennytel.",
       "from": "connexus",
       "to": "pennytel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://pennytel.com.au/pennytel-australia-acquires-b2b-focused-telco-connexus-as-rapid-expansion-continues/",
+          "label": "Pennytel press release 30 Nov 2021 - acquires Connexus"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4441,7 +4632,13 @@
       "notes": "ZettaServe's ISP arm (formerly Highway 1) formed Zettagrid; Highway 1 ceased as an ISP.",
       "from": "highway-1",
       "to": "zettagrid",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Highway_1_(ISP)",
+          "label": "Wikipedia Highway 1 (ISP) - Fate: Acquired by Zetta Group, now known as Zettagrid"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4581,7 +4778,13 @@
       "notes": "Personal Broadband Australia (ex-CKW Wireless) was a subsidiary of Commander.",
       "from": "pbba",
       "to": "commander",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/companies/under-a-new-commander-20050629-jv7ch",
+          "label": "AFR 29 Jun 2005 - Commander bought 80% of Personal Broadband Australia"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4591,7 +4794,13 @@
       "notes": "Vivanet delisted; taken over by Datafast Telecommunications (later EFTel).",
       "from": "vivanet",
       "to": "eftel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=244462&display=text&documentDate=2001-03-07&documentNumber=174090&issuerId=4129",
+          "label": "ASX Half Yearly Report 7 Mar 2001 - Datafast to acquire VivaNET 100%"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4601,7 +4810,13 @@
       "notes": "Davnet (DavTel) acquired ISP Magna Data.",
       "from": "magnadata",
       "to": "davnet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=623443&display=text&documentDate=1999-02-05&documentNumber=145310&issuerId=3992",
+          "label": "ASX 5 Feb 1999 - Davnet clarification of share sale and purchase of Magna Data"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4611,7 +4826,13 @@
       "notes": "DavTel to NTT Australia (49% Dec 1999, remaining 51% completed ~Feb 2002).",
       "from": "davnet",
       "to": "ntt-australia",
-      "refs": []
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=3992&announcementId=623737&documentDate=2002-01-31&documentNumber=186643",
+          "label": "ASX announcement - Davnet Limited completes sale of 51% interest in Davnet Telecommunications Pty Limited (DavTel) to NTT Australia Pty Ltd 31 Jan 2002"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4663,7 +4884,13 @@
       "notes": "Splice Internet is the retail ISP arm of Rural Fibre Co's wholesale Gippsland fibre network; first customers connected late 2025.",
       "from": "rural-fibre-co",
       "to": "splice-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.trenchless-australasia.com/2025/07/21/community-and-connectivity/",
+          "label": "Trenchless Australasia - RFC owns and operates retail service provider Splice Internet (July 2025)"
+        }
+      ]
     },
     {
       "type": "split",
@@ -4689,7 +4916,13 @@
       "notes": "PowerTel acquired Request Broadband.",
       "from": "request-broadband",
       "to": "powertel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/request-to-pump-15m-into-channels-14229",
+          "label": "iTnews - PowerTel's $54m acquisition of Request expected end Feb 2004"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4778,7 +5011,13 @@
       "notes": "OptiComm acquired the rights to operate former E-Wire HFC/FTTH networks (e.g. Brighton estate) and upgraded the cable network to DOCSIS 3.0.",
       "from": "e-wire",
       "to": "opticomm",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/opticomm-no-technical-barrier-to-open-access-cable-290926",
+          "label": "iTnews 20 Feb 2012 - OptiComm acquired rights to operate E-Wire network in Brighton WA last November (Nov 2011) and upgraded to DOCSIS 3.0"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4868,7 +5107,13 @@
       "notes": "Comdek acquired Hobart satellite broadband ISP eSat Communications (agreement Sep 2004) for 5.3M shares + 6.7M convertible notes, gaining eSat's HiBIS regional accreditation.",
       "from": "esat",
       "to": "comdek",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/wa-reseller-comdek-escapes-closure-23637",
+          "label": "iTnews 8 Jul 2005 - Comdek agreement Sep 2004 to purchase eSat Communications business for 5.3m shares and 6.7m convertible notes"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4926,7 +5171,13 @@
       "notes": "Neighbourhood Cable bought Geelong ISP Swift Internet (Jan 2004).",
       "from": "swift-internet",
       "to": "neighbourhood-cable",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/neighbourhood-cable-buys-swift-internet-13922",
+          "label": "iTnews 5 Jan 2004 - Neighbourhood Cable buys Geelong ISP Swift Internet"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -5024,7 +5275,13 @@
       "notes": "Barefoot Telecom name/brand taken over by MATE Communicate (formerly Orofino); barefoottelecom.com.au now redirects to MATE.",
       "from": "barefoot-telecom",
       "to": "mate-communicate",
-      "refs": []
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=33165670413",
+          "label": "ABN Lookup - Barefoot Telecom business name registered to MATE COMMUNICATE PTY LTD (ACN 165670413, formerly Orofino) from 12 Mar 2015"
+        }
+      ]
     },
     {
       "type": "split",
@@ -5137,7 +5394,13 @@
       "notes": "Austar United Communications acquired Ultranet (~5,000 subscribers); customers migrated to austarnet.",
       "from": "ultranet",
       "to": "austarnet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/austar-strengthens-convergence-claims/",
+          "label": "InternetNews 26 May 2000 - Austar announced acquisition of Townsville ISP Ultranet, coinciding with launch of Austarnet dial-up service"
+        }
+      ]
     },
     {
       "type": "merger",
@@ -5314,7 +5577,13 @@
       "notes": "OntheNet acquired by Vonex.",
       "from": "onthenet",
       "to": "vonex",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://vonex.com.au/vonex-completes-acquisition-of-onthenet",
+          "label": "Vonex company announcement 31 Oct 2022 - Vonex Limited completes acquisition of Network Technology t/as OntheNet (announced 5 Oct 2022)"
+        }
+      ]
     },
     {
       "type": "merger",
@@ -5400,7 +5669,14 @@
       "date_disp": "2021",
       "notes": "Optus acquired Amaysim for $250m (agreement 2 Nov 2020); Amaysim delisted 6 Apr 2021.",
       "from": "amaysim",
-      "to": "optus"
+      "to": "optus",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/optus-completes-amaysim-acquisition-560488",
+          "label": "techpartner.news 1 Feb 2021 - Optus completes $250M acquisition of amaysim (1.2m customers, shareholder approval)"
+        }
+      ]
     },
     {
       "type": "merger",
