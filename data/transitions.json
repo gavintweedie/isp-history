@@ -312,7 +312,13 @@
       "notes": "RuralNet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd).",
       "from": "ruralnet",
       "to": "macarthurcook",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/business/iinet-acquires-tasmanian-and-rural-victorian-isps-20030101-gdg1n5.html",
+          "label": "SMH 1 Jan 2003: iiNet acquires Local Telecom and Internet's ISPs Tassienet and Ruralnet"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -332,7 +338,13 @@
       "notes": "Tassienet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd).",
       "from": "tassienet",
       "to": "macarthurcook",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/business/iinet-acquires-tasmanian-and-rural-victorian-isps-20030101-gdg1n5.html",
+          "label": "SMH 1 Jan 2003: Local's two ISPs Tassienet and Ruralnet"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -855,7 +867,13 @@
       "notes": "Operational by 2007; acquired by Up'N'Away before Up'N'Away was acquired by iiNet in Jan 2008.",
       "from": "iclick",
       "to": "upnaway",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.iinet.net.au/about-us/history",
+          "label": "iiNet History: Jan 2008 - iiNet acquires Up'N'Away bringing 3 other brands - Power DSL, iClick and Netway Internet"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -865,7 +883,13 @@
       "notes": "Operational by 2007; acquired by Up'N'Away before Up'N'Away was acquired by iiNet in Jan 2008.",
       "from": "netway-internet",
       "to": "upnaway",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.iinet.net.au/about-us/history",
+          "label": "iiNet History: Jan 2008 - Up'N'Away acquisition includes Netway Internet"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1107,7 +1131,13 @@
       "notes": "Varsity Internet acquired by Fuzenet before the Uniti deal; brand retired Oct 2020.",
       "from": "varsity-internet",
       "to": "fuzenet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://www.abn-lookup.com/firm/fuzenet-pty-ltd-154074218/",
+          "label": "ABN Lookup / ABR record for Fuzenet Pty Ltd (ACN 154074218): business name Varsity Internet from 29-08-2016"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1442,7 +1472,13 @@
       "notes": "Clever Communications (then Access Providers) acquired Saise Telecom.",
       "from": "saise-telecom",
       "to": "clever-communications",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/access-providers-carries-out-clever-re-branding-83040",
+          "label": "iTnews 6 Jun 2007 - Access Providers carries out Clever re-branding"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1882,6 +1918,11 @@
           "kind": "news",
           "url": "https://www.arnnet.com.au/article/1257651/spirit-offloads-select-network-assets-to-maret-group.html",
           "label": "ARN \u2013 Spirit offloads select network assets to Maret Group (1 Dec 2022)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.datacenterdynamics.com/en/news/australias-spirit-technology-solutions-to-sell-data-center-and-network-assets-to-maret-group/",
+          "label": "Data Center Dynamics 2 Dec 2022 - Australia's Spirit Technology Solutions to sell data center and network assets to Maret Group"
         }
       ]
     },
@@ -2111,7 +2152,13 @@
       "notes": "Fleet Broadband acquired Paradox Digital (wholesale bandwidth provider).",
       "from": "paradox-digital",
       "to": "fleet-broadband",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://truinvestigations.com.au/fleet-broadband-holdings-pty-ltd-anor-v-paradox-digital-pty-ltd-subject-to-a-deed-of-company-arrangement-ors-2005-wasc-261/",
+          "label": "[2005] WASC 261 (TRU mirror of AustLII) - Fleet Broadband v Paradox Digital"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2761,7 +2808,13 @@
       "notes": "PowerUp split; WebCentral formed as Australia's first web-hosting business.",
       "from": "powerup",
       "to": "webcentral",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/ftr-acquires-rest-of-webcentral-update-15863",
+          "label": "iTnews: FTR acquires rest of WebCentral: UPDATE \u2013 states 'WebCentral began in 1997 as part of PowerUp' (mentions both parties and split origin)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -2965,7 +3018,13 @@
       "notes": "APEX Internet renamed Apex Telecom (~Nov 2011).",
       "from": "apex-internet",
       "to": "apex-telecom",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.aubiz.net/company/apex-telecom-pty-ltd-152018436/",
+          "label": "aubiz.net / ABR: Apex Telecom Pty Ltd (ACN 152018436) \u2013 main name from 2011-07-10 with trading name Apex Internet since 2011-07-10 (verifies rename/continuity)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3163,7 +3222,13 @@
       "notes": "Planet Ozi customers/services absorbed by EscapeNet (Adelaide); esc.net.au login continues Planet Ozi accounts.",
       "from": "planet-ozi",
       "to": "escape-net-dot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/2789583",
+          "label": "Whirlpool Forums Archive 2789583 \u2013 OP and replies state 'they were bought by Planet Ozi who have now been bought by Escape Net' (mentions both Planet Ozi and EscapeNet, describes absorption c.2019)"
+        }
+      ]
     },
     {
       "type": "merger",
@@ -3199,7 +3264,13 @@
       "notes": "Cirrus Communications acquired WireFree Networks (shareholder sale May 2008).",
       "from": "wirefree-networks",
       "to": "cirrus",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://aubizdb.com/company/cirrus-integration-pty-limited-111818896",
+          "label": "AuBizDB - ASIC corporate registry for ACN 111818896"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3239,7 +3310,13 @@
       "notes": "Red Broadband acquired Ocean Broadband's network + customers.",
       "from": "ocean-broadband",
       "to": "red-broadband",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/2412839",
+          "label": "Whirlpool - Red Broadband (ISP Representative Daniel.M) thread"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4277,7 +4354,13 @@
       "notes": "Com-Cen absorbed by Spintel.",
       "from": "com-cen",
       "to": "spintel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/comcen-folds-into-sister-spintel-292213",
+          "label": "iTnews: Comcen folds into sister Spintel (1 Mar 2012)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4473,7 +4556,13 @@
       "notes": "Mission Internet renamed/incorporated as Internet Vision Technologies (IVT).",
       "from": "mission-internet",
       "to": "internet-vision-technologies",
-      "refs": []
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Oxer",
+          "label": "Wikipedia: Jonathan Oxer \u2014 Mission Internet operations became part of Internet Vision Technologies (2000)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -5187,7 +5276,13 @@
       "notes": "Clever Communications (then Access Providers) bought business internet provider Online 2000 (Jul 2005).",
       "from": "online-2000",
       "to": "clever-communications",
-      "refs": []
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://www.abn-lookup.com/firm/clever-communications-operations-pty-limited-095422441/",
+          "label": "ABN Lookup \u2013 Clever Communications Operations Pty Ltd business names"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -5207,7 +5302,13 @@
       "notes": "Destra, via subsidiary Techex Communications, acquired Veritel's DSL customers (Dec 2004).",
       "from": "veritel",
       "to": "techex",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/destra-buys-veritel-dsl-customers-20855",
+          "label": "iTnews 9 Dec 2004 \u2013 Destra buys Veritel DSL customers via Techex"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -5265,7 +5366,13 @@
       "notes": "Linear G absorbed Northern Rivers Gateway (NRG), and also Nornet, Big River Internet and OMCS, to consolidate the Lismore/Northern Rivers market.",
       "from": "northern-rivers-gateway",
       "to": "linear-g",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://linearg.com/",
+          "label": "LinearG homepage \u2013 Since 2010 incorporated NRG Internet"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -5447,7 +5554,13 @@
       "notes": "Kooee Communications Pty Ltd (100%) transferred to B Digital under SPT Strategic Alliance; Kooee was already part of the SPT/Soul group.",
       "from": "kooee",
       "to": "soul",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.yumpu.com/en/document/view/27172928/acquisition-of-nbn-enterprises-pty-ltd-tpg-internet/39",
+          "label": "S P Telemedia (Soul) Annual Report 2005 \u2013 sale of Kooee to B Digital 21 Apr 2005"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -5499,7 +5612,13 @@
       "notes": "Datafast (later EFTel) acquired Bigfoot Internet's business and customer base.",
       "from": "bigfoot-internet",
       "to": "eftel",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/development/datafast-buys-12000-melbourne-customers.html",
+          "label": "CommsWire 9 Nov 2004 \u2013 Datafast buys Affinity group including Bigfoot"
+        }
+      ]
     },
     {
       "type": "acquisition",
