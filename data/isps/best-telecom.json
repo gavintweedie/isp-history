@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2015,
-      "date_disp": "c. 2015",
-      "precision": "approx",
-      "details": "Successor Best Telecom Group active."
+      "year": 2016,
+      "date_disp": "by Jun 2016",
+      "precision": "by",
+      "details": "Successor Best Telecom Group active.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20160501100350/http://www.besttelecom.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20201001151527/http://besttelecom.com.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ]
 }

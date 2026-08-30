@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2009,
+      "date_disp": "by Sep 2009",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080718173333/http://www.easysurf.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090912164614/http://www.easysurf.com.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ]
 }

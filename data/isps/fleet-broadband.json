@@ -41,10 +41,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Became a partly-owned subsidiary of Datafast; rebranded DFT Wholesale Internet."
+      "year": 2007,
+      "date_disp": "by Aug 2007",
+      "precision": "by",
+      "details": "Became a partly-owned subsidiary of Datafast; rebranded DFT Wholesale Internet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060827041952/http://www.fleetbroadband.com.au/index.html",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070828213014/http://fleetbroadband.com.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ],
   "refs": [

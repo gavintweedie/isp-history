@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2008,
+      "date_disp": "by Sep 2008",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080718200851/http://argo.net.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080905170251/http://argo.net.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ]
 }

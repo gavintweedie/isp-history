@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2004,
+      "date_disp": "by Jul 2004",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040615015802/http://www.modnet.com.au:80/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040730235954/http://www.modnet.com.au:80/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ]
 }

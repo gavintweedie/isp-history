@@ -29,10 +29,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 2001)."
+      "year": 2005,
+      "date_disp": "by Dec 2005",
+      "precision": "by",
+      "details": "Last Wayback capture of own domain (c. 2001).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051126061004/http://www.accsoft.com.au/index_org.htm",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051210043336/http://www.accsoft.com.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ],
   "refs": [

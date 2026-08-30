@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2011,
+      "date_disp": "by Mar 2011",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110310061624/http://www.auswide.net.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120221094739/http://webmail.auswide.net.au/src/login.php",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ],
   "refs": [
