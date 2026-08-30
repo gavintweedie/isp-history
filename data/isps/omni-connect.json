@@ -2,7 +2,7 @@
   "name": "OMNIconnect",
   "slug": "omni-connect",
   "birthplace": "Australia",
-  "status": "active",
+  "status": "unknown",
   "website": "",
   "summary": "Wireless Internet service provider (OMNIconnect Pty Ltd, ACN 079 282 376, ABN 36 079 282 376; VIC South Melbourne, still registered). omni.net.au (1999-2004): 'OMNIconnect aim to become a leading supplier of Wireless Internet Services in Australia'; wireless broadband 256Kbps-2Mbps, OMNInet MAN metropolitan wireless networking, wholesale to carriers up to 155Mbps. Held the 1997 allocation OMNI 'ISP Core Network' (203.143.64.0/19).",
   "names": [
@@ -46,6 +46,13 @@
           "label": "ABR: OMNIconnect Pty Ltd (ABN 36 079 282 376) - active"
         }
       ]
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Aug 2026",
+      "precision": "exact",
+      "details": "Researched Aug 2026: OMNIconnect Pty Ltd (ACN 079 282 376) still Active per ABR, but omni.net.au no longer resolves (last Wayback broadband.asp 5 Oct 2002). No surviving website found; ISP death/acquisition undocumented. Status left unknown pending closure record."
     }
   ],
   "refs": []
