@@ -31,8 +31,6 @@ Build order for the project. Each phase ends in a working, committed state.
       `handle_path /isp-history/*` (see `docs/DEPLOYMENT.md`).
 
 ## Phase 3 — Editing (web forms → superseded by git PRs)
-- [x] Login/logout with `ISP_HISTORY_ADMIN_PASSWORD` (editing disabled when unset).
-      *(removed 2026-08-17 — the app is read-only; data edits are pull requests)*
 - [x] Add/edit ISP + name history + lifecycle (birth/death).
 - [x] Add transitions (split/merger/acquisition/rename with arm labels) + edit/delete.
 - [x] Add references to isps/events/transitions; delete.
