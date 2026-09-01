@@ -23,9 +23,16 @@
     {
       "kind": "death",
       "year": 2010,
-      "date_disp": "c. 2010",
-      "precision": "approx",
-      "details": "Defunct with CIA."
+      "date_disp": "by Jul 2010",
+      "precision": "by",
+      "details": "Defunct with CIA.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20100713191058/http://ciadsl.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        }
+      ]
     }
   ]
 }

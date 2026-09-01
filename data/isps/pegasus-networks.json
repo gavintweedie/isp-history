@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 1998,
-      "date_disp": "c. 1997-98",
-      "precision": "approx",
-      "details": "Closed; APC Australia (c2o) formed 1997."
+      "year": 2001,
+      "date_disp": "by Feb 2001",
+      "precision": "by",
+      "details": "Closed; APC Australia (c2o) formed 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010211123648/http://pegasus.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20260611043426/http://pegasus.com.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     },
     {
       "kind": "note",

@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2012,
+      "date_disp": "by Mar 2012",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120320032601/http://lucidity.net.au/",
+          "label": "Wayback: last ISP retail homepage"
+        }
+      ]
     }
   ]
 }

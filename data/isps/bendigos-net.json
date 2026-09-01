@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2007,
+      "date_disp": "by Jul 2007",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060707222035/http://bwc.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070709093132/http://bwc.com.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ]
 }

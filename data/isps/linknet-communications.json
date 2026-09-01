@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2009,
+      "date_disp": "by Sep 2009",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090913042139/http://linknet.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        }
+      ]
     }
   ]
 }

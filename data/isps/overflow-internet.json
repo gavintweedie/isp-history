@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct as ISP."
+      "year": 2006,
+      "date_disp": "by Dec 2006",
+      "precision": "by",
+      "details": "Defunct as ISP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20061231093048/http://overflow.net.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20260614131724/http://overflow.net.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ]
 }

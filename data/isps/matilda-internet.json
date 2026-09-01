@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2006,
+      "date_disp": "by Dec 2006",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20061205015918/http://matilda.net.au/",
+          "label": "Wayback: last ISP retail homepage"
+        }
+      ]
     }
   ],
   "refs": [

@@ -29,10 +29,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Acquired by Fleet Broadband; became DFT Wholesale under Datafast/Eftel."
+      "year": 2004,
+      "date_disp": "by Dec 2004",
+      "precision": "by",
+      "details": "Acquired by Fleet Broadband; became DFT Wholesale under Datafast/Eftel.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041211191526/http://paradox.net.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20260411180904/http://paradox.net.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ],
   "refs": [

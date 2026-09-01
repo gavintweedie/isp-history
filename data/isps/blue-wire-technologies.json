@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2006,
+      "date_disp": "by Aug 2006",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060819000644/http://bluewiretech.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        }
+      ]
     }
   ]
 }

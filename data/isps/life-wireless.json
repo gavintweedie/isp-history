@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2019,
-      "date_disp": "c. 2019",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2022,
+      "date_disp": "by Jun 2022",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20220627235712/http://lifewireless.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        }
+      ]
     }
   ]
 }

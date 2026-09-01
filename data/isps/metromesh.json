@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2011,
+      "date_disp": "by Dec 2011",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20111218203923/http://metromesh.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20250404163439/http://metromesh.com.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ]
 }

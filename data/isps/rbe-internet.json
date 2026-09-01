@@ -29,10 +29,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2005,
+      "date_disp": "by Dec 2005",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051227013516/http://rbe.net.au/",
+          "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20260612020801/http://rbe.net.au/",
+          "label": "Wayback: first webmail-only / parked homepage"
+        }
+      ]
     }
   ]
 }

@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2010,
+      "date_disp": "by Jan 2010",
+      "precision": "by",
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20100125005945/http://lizzy.com.au/",
+          "label": "Wayback: last ISP retail homepage"
+        }
+      ]
     }
   ]
 }
