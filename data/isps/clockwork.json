@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://clockwork.com.au",
-  "summary": "Brisbane dialup + ADSL ISP (home/business, on-site install/training, hosting); defunct (Clockwork Solutions Pty Ltd, ACN 128 842 204).",
+  "summary": "Brisbane dialup + ADSL ISP (home/business, on-site install/training, hosting); defunct c.2005-06.",
   "names": [
     {
       "name": "Clockwork",
@@ -18,21 +18,38 @@
       "year": 2000,
       "date_disp": "Feb 2000",
       "precision": "by",
-      "details": "Earliest evidence Feb 2000."
+      "details": "Earliest Wayback capture 29 Feb 2000 (clockwork.com.au); Brisbane dialup ISP.",
+      "source": [
+        "https://web.archive.org/web/20000229031226/http://www.clockwork.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2005,
-      "date_disp": "c. 2005",
+      "date_disp": "c. 2005-06",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Homepage content last changed c. Oct 2005 then stable/unmaintained through the last capture 19 Aug 2006; defunct thereafter.",
+      "source": [
+        "https://web.archive.org/web/20051030033248/http://www.clockwork.com.au/",
+        "https://web.archive.org/web/20060819075743/http://www.clockwork.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2007,
+      "date_disp": "10 Dec 2007",
+      "precision": "exact",
+      "details": "ACN mismatch: 'Clockwork Solutions Pty Ltd' (ACN 128 842 204) was not registered until 10 Dec 2007, ~7 years after this ISP began and after it went defunct; it is a later name-collision entity, not the operator of clockwork.com.au. Removed from the summary.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=49128842204"
+      ]
     }
   ],
   "refs": [
     {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=49128842204",
-      "label": "ABR: Clockwork Solutions Pty Ltd ACN 128 842 204"
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000229031226/http://www.clockwork.com.au/",
+      "label": "Clockwork (Wayback 29 Feb 2000)"
     }
   ]
 }

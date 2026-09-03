@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://challengenetworks.com.au",
-  "summary": "Network provider (Blackburn VIC); acquired by Vocus.",
+  "summary": "Melbourne (Blackburn/Abbotsford, VIC) enterprise & private wireless (3G/4G/LTE) network provider specialising in mining-sector solutions; not a retail ISP; reportedly acquired by Vocus.",
   "names": [
     {
       "name": "Challenge Networks",
@@ -30,9 +30,13 @@
     {
       "kind": "death",
       "year": 2023,
-      "date_disp": "2023",
-      "precision": "exact",
-      "details": "Acquired by Vocus."
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Reportedly acquired by Vocus (no primary source located to confirm date). Still operating as an enterprise LTE/private-network provider at the Jan 2019 capture ('preeminent enterprise LTE network provider'; COMMSDAY 2018 Edison Award nominee); an active CHALLENGE NETWORKS RESOURCES PTY LTD (ABN 51 640 357 213, VIC 3067) also exists.",
+      "source": [
+        "https://web.archive.org/web/20190119073203id_/http://challengenetworks.com.au/",
+        "https://abr.business.gov.au/Search/ResultsActive?SearchText=challenge%20networks"
+      ]
     }
   ]
 }

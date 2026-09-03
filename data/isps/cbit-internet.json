@@ -2,9 +2,9 @@
   "name": "CBIT Internet",
   "slug": "cbit-internet",
   "birthplace": "Fyshwick (Canberra), ACT",
-  "status": "inactive",
+  "status": "active",
   "website": "https://cbit.net.au",
-  "summary": "Canberra dialup/TransACT/ADSL2+ + hosting + business IT ISP (CBIT Internet Pty Ltd, 16/65 Tennant St Fyshwick); absorbed Bandwidth Unlimited (2005) and merged with Spitfire Internet Services (2 Feb 2009); ISP wound down, later CBIT Business IT Solutions.",
+  "summary": "Canberra dialup/TransACT/ADSL2+ + hosting + business IT ISP (16/65 Tennant St Fyshwick); absorbed Bandwidth Unlimited (3 Nov 2005) and Spitfire Internet Services (2 Feb 2009); retail ISP wound down after ~2018, pivoted to IT/data recovery/digital forensics/cybersecurity, now part of Excite Technology Services Group (CBIT PTY LIMITED, ACN 107 115 846).",
   "names": [
     {
       "name": "CBIT Internet",
@@ -28,11 +28,16 @@
       ]
     },
     {
-      "kind": "death",
-      "year": 2014,
-      "date_disp": "c. 2014",
+      "kind": "note",
+      "year": 2019,
+      "date_disp": "c. 2019",
       "precision": "approx",
-      "details": "ISP wound down; pivoted to IT consultancy."
+      "details": "Retail ISP (dialup/ADSL/TransACT/hosting) still offered as 'CBIT Internet' through at least Feb 2018; subsequently pivoted to IT/data recovery/digital forensics/cybersecurity. Company remains active (cbit.net.au live 2026), now part of Excite Technology Services Group; CBIT PTY LIMITED (ABN 16 107 115 846) active, business names CBIT Digital Forensics Services (2015), Secure Data Recovery (2016), CBIT Data Recovery (2022).",
+      "source": [
+        "https://web.archive.org/web/20180224062934id_/http://cbit.net.au/",
+        "https://web.archive.org/web/20250115082716id_/https://cbit.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=16107115846"
+      ]
     }
   ],
   "refs": [

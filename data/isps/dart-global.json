@@ -4,7 +4,7 @@
   "birthplace": "Surry Hills, NSW",
   "status": "inactive",
   "website": "https://dpl.com.au",
-  "summary": "Corporate dialup/ISDN/leased-line ISP (Dart Global Pty Ltd, CEO Rodney Cohen; Direct Data / DPL Technology); acquired by Hotkey Internet Services Nov 2004.",
+  "summary": "Corporate dialup/ISDN/leased-line ISP (CEO Rodney Cohen; Direct Data / DPL Technology); acquired by Hotkey Internet Services Nov 2004 (DART GLOBAL PTY LTD, ACN 090 727 861).",
   "names": [
     {
       "name": "Dart Global",
@@ -25,7 +25,10 @@
       "year": 2004,
       "date_disp": "Nov 2004",
       "precision": "exact",
-      "details": "Acquired by Hotkey Internet Services."
+      "details": "Acquired by Hotkey Internet Services; entity DART GLOBAL PTY LTD (ACN 090 727 861, Zetland NSW) ABN cancelled 30 Jun 2011.",
+      "source": [
+        "https://abr.business.gov.au/Search/ResultsActive?SearchText=090727861"
+      ]
     }
   ],
   "refs": [
@@ -33,6 +36,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001010234251/http://www.cynosure.com.au/isp/dartglobal",
       "label": "Cynosure: Dart Global"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=82090727861",
+      "label": "ABR: DART GLOBAL PTY LTD ACN 090 727 861 (cancelled 30 Jun 2011)"
     }
   ]
 }

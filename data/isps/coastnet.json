@@ -4,7 +4,7 @@
   "birthplace": "Nambour (Sunshine Coast), QLD",
   "status": "inactive",
   "website": "https://coastnet.net.au",
-  "summary": "Sunshine + Fraser Coasts dialup ISP (PPP/UUCP, POPs Nambour + Maryborough, ~1997); defunct.",
+  "summary": "Sunshine + Fraser Coasts dialup ISP (PPP/UUCP, POPs Nambour + Maryborough, ~1997); gone by ~2003; coastnet.net.au later reused by an unrelated Gold Coast ISP.",
   "names": [
     {
       "name": "Coastnet",
@@ -18,14 +18,31 @@
       "year": 1997,
       "date_disp": "1997",
       "precision": "exact",
-      "details": "Dialup ISP."
+      "details": "Dialup ISP; earliest coastnet.net.au capture 9 Jan 1998.",
+      "source": [
+        "https://web.archive.org/web/19980109181430/http://coastnet.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Last capture of the original Nambour ISP content ~Sep 2002; domain then lapsed (no captures Sep 2002 - Aug 2006).",
+      "source": [
+        "Wayback CDX coastnet.net.au: small ISP pages to 20020924, gap to 20060822"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "coastnet.net.au was later reused by an unrelated Gold Coast ISP, CoastNet Pty Ltd (ADSL2+/wireless/VoIP; site copyright 2009-2025) — a distinct entity, not a continuation of the Nambour dialup ISP.",
+      "source": [
+        "https://coastnet.net.au/",
+        "https://web.archive.org/web/20100203163101/http://www.coastnet.net.au:80/"
+      ]
     }
   ]
 }

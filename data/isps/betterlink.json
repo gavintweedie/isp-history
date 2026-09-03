@@ -4,7 +4,7 @@
   "birthplace": "Reservoir (Melbourne), VIC",
   "status": "inactive",
   "website": "https://beterlnk.com.au",
-  "summary": "Melbourne dialup ISP; dead ~2000.",
+  "summary": "Melbourne dialup ISP; dead c. 2003.",
   "names": [
     {
       "name": "Betterlink",
@@ -18,21 +18,28 @@
       "year": 1999,
       "date_disp": "25 Jan 1999",
       "precision": "by",
-      "details": "Earliest Wayback capture 25 Jan 1999 (beterlnk.com.au). Earliest capture 25 jan 1999.",
+      "details": "Earliest Wayback capture 25 Jan 1999 (beterlnk.com.au).",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19990125093628/http://www.beterlnk.com.au/",
           "label": "BetterLink (Wayback 25 Jan 1999)"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/19990125093628/http://www.beterlnk.com.au/"
       ]
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
+      "year": 2003,
+      "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Last capture Aug 2000."
+      "details": "Homepage content changed through Sep 2002; the Jun 2003 capture ('Betterlink Internet Service') then persists byte-identical to 2017, indicating retail wound down c. 2003 with the site frozen thereafter.",
+      "source": [
+        "https://web.archive.org/web/20030621153245id_/http://www.beterlnk.com.au/",
+        "https://web.archive.org/web/20020926025234id_/http://www.beterlnk.com.au/"
+      ]
     }
   ],
   "refs": [

@@ -1,10 +1,10 @@
 {
   "name": "Comvergence",
   "slug": "comvergence",
-  "birthplace": "Australia",
+  "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://comvergence.net.au",
-  "summary": "IP telephony/voice/data carrier (Comvergence Pty Ltd, 2005-09; hosted VoIP, wholesale voice); defunct.",
+  "summary": "Melbourne IP telephony + voice/data carrier (hosted VoIP, Internet connectivity, wholesale voice; Cisco SPA9000 provider); website live to 2021, redirected from 2024 (COMVERGENCE PTY LTD, ACN 116 560 742).",
   "names": [
     {
       "name": "Comvergence",
@@ -18,14 +18,34 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Hosted VoIP, IP telephony."
+      "details": "Communication service provider; hosted VoIP, IP telephony, Internet connectivity and wholesale voice. COMVERGENCE PTY LTD, ABN 83 116 560 742 (ACN 116 560 742), South Yarra VIC.",
+      "source": [
+        "https://web.archive.org/web/20100516021655/http://www.comvergence.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=83116560742"
+      ]
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2009",
+      "year": 2023,
+      "date_disp": "c. 2023",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "comvergence.net.au live with homepage captures through Mar 2021, then 301/302 redirects from 2024. The earlier 'defunct 2005-09' was a misreading of the site's '2005-2009' copyright range as a lifespan; COMVERGENCE PTY LTD (ABN 83 116 560 742) remains registered as active.",
+      "source": [
+        "https://web.archive.org/web/20210303184758/http://www.comvergence.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=83116560742"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20100516021655/http://www.comvergence.net.au/",
+      "label": "Comvergence (Wayback 2010)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=83116560742",
+      "label": "ABR: COMVERGENCE PTY LTD ABN 83 116 560 742 (active)"
     }
   ]
 }

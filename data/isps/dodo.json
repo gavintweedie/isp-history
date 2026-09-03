@@ -2,9 +2,9 @@
   "name": "Dodo",
   "slug": "dodo",
   "birthplace": "Melbourne, VIC",
-  "status": "inactive",
+  "status": "active",
   "website": "https://www.dodo.com",
-  "summary": "Discount ISP founded 2001; acquired by M2 Group 2013, now a Vocus brand (DODO SERVICES PTY LTD, ACN 158 289 331).",
+  "summary": "Melbourne discount ISP founded 2001 by Larry Kestelman; acquired by M2 Group 2013 ($204M), now a Vocus retail brand (DODO SERVICES PTY LTD, ACN 158 289 331).",
   "names": [
     {
       "name": "Dodo",
@@ -18,14 +18,21 @@
       "year": 2001,
       "date_disp": "2001",
       "precision": "exact",
-      "details": "Founded in Melbourne by Larry Kestelman and Michael Slepoy."
+      "details": "Founded in Melbourne by Larry Kestelman (co-founder Michael Slepoy).",
+      "source": [
+        "https://en.wikipedia.org/wiki/Dodo_(Australian_company)"
+      ]
     },
     {
-      "kind": "death",
+      "kind": "note",
       "year": 2013,
       "date_disp": "2013",
       "precision": "exact",
-      "details": "Acquired by M2 Group ($203.9M with Eftel)."
+      "details": "Acquired by M2 Group in 2013 ($204M); M2 merged into Vocus Communications (Feb 2016). Dodo continues as a Vocus retail brand; current entity DODO SERVICES PTY LTD (ACN 158 289 331) registered 17 May 2012 and still active (per ABR).",
+      "source": [
+        "https://en.wikipedia.org/wiki/Dodo_(Australian_company)",
+        "https://abr.business.gov.au/ABN/View?abn=33158289331"
+      ]
     }
   ],
   "refs": [

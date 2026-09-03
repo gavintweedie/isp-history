@@ -2,30 +2,44 @@
   "name": "Comstar Internet",
   "slug": "comstar-internet",
   "birthplace": "Brisbane, QLD",
-  "status": "inactive",
+  "status": "active",
   "website": "https://comstar.com.au",
-  "summary": "Brisbane dialup + hosting ISP (~2002); defunct.",
+  "summary": "Brisbane dialup + hosting ISP (from ~2002); still active as Comstar Internet, now broadband + domain/web hosting + web design (COMSTAR INTERNET SERVICES PTY LTD).",
   "names": [
     {
       "name": "Comstar Internet",
       "start_year": 2002,
-      "start_disp": "c. 2002"
+      "start_disp": "by 2002"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Dialup, hosting."
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Brisbane dialup + hosting; earliest Wayback capture 29 May 2002 (comstar.com.au).",
+      "source": [
+        "https://web.archive.org/web/20020529022101/http://www.comstar.com.au/"
+      ]
     },
     {
-      "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2024,
+      "date_disp": "2024",
+      "precision": "exact",
+      "details": "Still trading; comstar.com.au live through 2024-25 offering broadband, domain/web hosting and web design (COMSTAR INTERNET SERVICES P/L, ph 1300 72 82 92). An earlier record claiming 'defunct c.2005' was incorrect — homepage captures run continuously from 2002 to 2025.",
+      "source": [
+        "https://web.archive.org/web/20240601000000/http://www.comstar.com.au/",
+        "https://www.comstar.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030129224823/http://www.comstar.com.au/",
+      "label": "Comstar Internet, Brisbane (Wayback 2003)"
     }
   ]
 }

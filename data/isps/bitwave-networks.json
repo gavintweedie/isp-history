@@ -19,13 +19,17 @@
       "year": 2014,
       "date_disp": "23 Oct 2014",
       "precision": "exact",
-      "details": "BITWAVE NETWORKS PTY LTD ACN 602494931 ABN 31 602494931 Registered 23 Oct 2014; licensed carrier.",
+      "details": "BITWAVE NETWORKS PTY LTD (ACN 602 494 931, ABN 31 602 494 931) registered 23 Oct 2014; licensed carrier.",
       "refs": [
         {
-          "kind": "official",
+          "kind": "gov",
           "url": "https://abr.business.gov.au/ABN/View?abn=31602494931",
-          "label": "ABN Lookup: BitWave Networks 31 602494931"
+          "label": "ABR: BITWAVE NETWORKS PTY LTD ACN 602 494 931"
         }
+      ],
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=31602494931",
+        "https://www.bitwave.com.au"
       ]
     }
   ],

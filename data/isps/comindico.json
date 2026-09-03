@@ -25,7 +25,17 @@
       "year": 2004,
       "date_disp": "Sep 2004",
       "precision": "exact",
-      "details": "Voluntary administration 23 Sep 2004; Cisco-appointed receivers 25 Sep 2004."
+      "details": "Voluntary administration 23 Sep 2004; Cisco-appointed receivers (McGrathNicol) 25 Sep 2004."
+    },
+    {
+      "kind": "note",
+      "year": 2004,
+      "date_disp": "Oct 2004",
+      "precision": "approx",
+      "details": "Network and IP-carrier assets acquired from the receivers by SP Telemedia (Soul Communications, Washington H Soul Pattinson group) in late 2004; SP Telemedia later merged into TPG.",
+      "source": [
+        "SP Telemedia / Soul Communications acquisition of Comindico network assets from receiver, Oct 2004 (contemporary press, e.g. AFR/SMH)"
+      ]
     }
   ],
   "refs": [

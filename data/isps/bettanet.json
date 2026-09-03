@@ -16,15 +16,18 @@
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "6 Dec 1998",
+      "date_disp": "by Dec 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture 6 Dec 1998 (bettanet.net.au); Glenelg SA ISP. Earliest capture 6 dec 1998.",
+      "details": "Earliest Wayback capture 6 Dec 1998 (bettanet.net.au); Glenelg SA ISP.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19981206161120/http://www.bettanet.net.au/",
           "label": "Bettanet (Wayback 6 Dec 1998)"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/19981206161120/http://www.bettanet.net.au/"
       ]
     },
     {

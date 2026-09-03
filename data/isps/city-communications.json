@@ -19,13 +19,16 @@
       "year": 2014,
       "date_disp": "25 Mar 2014",
       "precision": "exact",
-      "details": "CITY COMMUNICATIONS PTY LTD ACN 168731913 ABN 48 168731913 registered 25 Mar 2014; AS135555.",
+      "details": "CITY COMMUNICATIONS PTY LTD ACN 168 731 913 (ABN 48 168 731 913) registered 25 Mar 2014 (ABN active 26 Mar 2014), NSW 2000; AS135555.",
       "refs": [
         {
           "kind": "official",
           "url": "https://abr.business.gov.au/ABN/View?abn=48168731913",
           "label": "ABN Lookup: City Communications 48 168 731 913"
         }
+      ],
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=48168731913 (CITY COMMUNICATIONS PTY LTD, ABN active 26 Mar 2014, NSW 2000)"
       ]
     }
   ],

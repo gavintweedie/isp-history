@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://cheetah.net.au",
-  "summary": "ADSL broadband brand of Ozzieweb (2001); defunct.",
+  "summary": "ADSL broadband brand of Ozzieweb (2001); dead c.2002 (reduced to a static splash page thereafter).",
   "names": [
     {
       "name": "Cheetah ADSL",
@@ -18,14 +18,21 @@
       "year": 2001,
       "date_disp": "2001",
       "precision": "exact",
-      "details": "ADSL broadband."
+      "details": "'ADSL Cheetah Broadband in Australia... Cheetah (TM) Broadband connection by Ozzieweb'; substantive product homepage captured Jun 2001.",
+      "source": [
+        "https://web.archive.org/web/20010610020022id_/http://cheetah.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2002,
+      "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Product content only seen in 2001; from Jan 2002 cheetah.net.au served just a bare 'Cheetah - simply the fastest' splash that persisted unchanged 2002-2013 (503 errors from 2015), so the retail brand was effectively gone by ~2002.",
+      "source": [
+        "https://web.archive.org/web/20020124072811id_/http://cheetah.net.au/",
+        "https://web.archive.org/cdx/search/cdx?url=cheetah.net.au&output=json"
+      ]
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Roseville, NSW",
   "status": "inactive",
   "website": "https://beehive.inoz.com",
-  "summary": "Sydney dialup/web-host ISP (Breakfast Bytes Pty Limited, domains beehive.inoz.com / beehive.inoz.au; shareholder Suzanne Todd, related to Adam Todd's AHNet); vanished by ~2003.",
+  "summary": "Sydney dialup/web-host ISP (Breakfast Bytes Pty Limited, domains beehive.inoz.com / beehive.inoz.au; shareholder Suzanne Todd, related to Adam Todd's AHNet); static homepage persisted to ~2004.",
   "names": [
     {
       "name": "Beehive Internet",
@@ -15,17 +15,23 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "1997",
-      "precision": "exact",
-      "details": "Breakfast Bytes Pty Ltd (ACN 081 726 669); homepage 'Created 17/09/98'."
+      "year": 1998,
+      "date_disp": "1998",
+      "precision": "by",
+      "details": "Breakfast Bytes Pty Ltd (ACN 081 726 669); homepage 'Created 17/09/98', so existed by Sep 1998.",
+      "source": [
+        "https://web.archive.org/web/20040505134810/http://beehive.inoz.com/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2004,
+      "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 2002)."
+      "details": "Static homepage (©1999 Breakfast Bytes) persisted on beehive.inoz.com to last capture 5 May 2004; content long frozen, so the operating ISP likely wound down earlier.",
+      "source": [
+        "https://web.archive.org/web/20040505134810/http://beehive.inoz.com/"
+      ]
     }
   ],
   "refs": [

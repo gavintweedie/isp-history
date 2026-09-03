@@ -4,7 +4,7 @@
   "birthplace": "Orange, NSW",
   "status": "inactive",
   "website": "colourcity.com.au",
-  "summary": "Orange NSW local ISP (Redback Web, ~2002); defunct (CITY COLOUR PTY. LIMITED, ACN 053 114 524).",
+  "summary": "Orange NSW local ISP, internet arm of Colour City Computers; the largest privately-owned public-access network in Central West NSW; live regional ISP still in 2010, defunct thereafter.",
   "names": [
     {
       "name": "Colour City Internet",
@@ -29,10 +29,23 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2011,
+      "date_disp": "c. 2011",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Still a live regional ISP in Feb 2010 (Wayback: Colour City Computers running \"the largest privately-owned public-access IT network\" in Central West NSW); no captures after early 2010, defunct thereafter.",
+      "source": [
+        "https://web.archive.org/web/20100226060647/http://www.colourcity.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "The ABR entity CITY COLOUR PTY. LIMITED (ACN 053 114 524) previously cited here is a name collision — it is a Sydney photo/framing business (trading as PHOTOLAND, later Sydney Frames & Photos), not the Orange NSW ISP Colour City Computers. Gov ref removed.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=63053114524"
+      ]
     }
   ],
   "refs": [
@@ -41,11 +54,6 @@
       "url": "https://web.archive.org/web/20091024144102/http://www.colourcity.com.au/",
       "label": "Colour City Internet (Wayback 2009)",
       "year": 2009
-    },
-    {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=63053114524",
-      "label": "ABR: CITY COLOUR PTY. LIMITED ACN 053 114 524"
     }
   ]
 }

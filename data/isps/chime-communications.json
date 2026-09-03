@@ -4,17 +4,23 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://chime.net.au",
-  "summary": "iiNet fully owned subidiary providing wholesale dialup and bandwidth.",
+  "summary": "iiNet fully-owned subsidiary providing wholesale dialup and bandwidth; launched as iiTel (May 2000), renamed Chime Communications Feb 2001; dormant under TPG after the 2015 iiNet takeover but the legal entity remains registered (CHIME COMMUNICATIONS PTY LTD, ACN 073 119 285).",
   "names": [
     {
       "name": "iiTel",
       "start_year": 2000,
-      "start_disp": "May 2000"
+      "start_disp": "May 2000",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=90073119285 (ACN 073 119 285)"
+      ]
     },
     {
       "name": "Chime Communications",
       "start_year": 2001,
-      "start_disp": "15 Feb 2001"
+      "start_disp": "15 Feb 2001",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=90073119285 (CHIME COMMUNICATIONS PTY LTD, ACN 073 119 285)"
+      ]
     }
   ],
   "events": [
@@ -58,7 +64,10 @@
       "year": 2015,
       "date_disp": "c. 2015",
       "precision": "approx",
-      "details": "Defunct with TPG acquisition of iiNet."
+      "details": "ISP/carrier operations wound down with TPG's acquisition of iiNet (2015). The legal entity is not deregistered: ABR shows CHIME COMMUNICATIONS PTY LTD (ACN 073 119 285) still active, its address now TPG's North Sydney office (NSW 2060) — i.e. a dormant TPG-group subsidiary.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=90073119285 (CHIME COMMUNICATIONS PTY LTD, ACN 073 119 285, active, NSW 2060)"
+      ]
     }
   ]
 }

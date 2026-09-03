@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://charon.net.au",
-  "summary": "Melbourne unlimited dialup ISP (PO Box 12065 A'Beckett St; Clayton POP; charon.net.au, ACN 095 899 317), 15MB free web space; defunct. Trading name \"Charon Information Services\".",
+  "summary": "Melbourne unlimited dialup ISP (PO Box 12065 A'Beckett St; Clayton POP; charon.net.au), 15MB free web space; defunct. Trading name \"Charon Information Services\".",
   "names": [
     {
       "name": "Charon Information Systems",
@@ -32,10 +32,24 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "2005",
-      "precision": "exact",
-      "details": "Last active capture of charon.net.au (Dec 2005)."
+      "year": 2008,
+      "date_disp": "c. 2008",
+      "precision": "approx",
+      "details": "charon.net.au still served the live 'Welcome to Charon Internet' ISP homepage (dialup + web hosting + broadband) at the 13 Feb 2008 capture; the domain had become a 301 redirect by the next capture (Feb 2012), so retail ended c.2008-2011.",
+      "source": [
+        "https://web.archive.org/web/20080213152708id_/http://charon.net.au/",
+        "https://web.archive.org/cdx/search/cdx?url=charon.net.au&output=json"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2001,
+      "date_disp": "2001",
+      "precision": "approx",
+      "details": "ACN 095 899 317 (CHARON SYSTEMS PTY LTD) was previously cited for this ISP but is likely a name collision: that company registered only 14 Feb 2001, is based at VIC 3228 (Surf Coast, not Melbourne), and remains active in 2026 whereas the Charon dialup ISP died 2005; its name ('Charon Systems') also differs from the ISP's 'Charon Information Systems/Services'. ACN removed from summary pending a positive link.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=70095899317"
+      ]
     }
   ],
   "refs": [
@@ -47,7 +61,7 @@
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=70095899317",
-      "label": "ABR: CHARON SYSTEMS PTY LTD ACN 095 899 317"
+      "label": "ABR: CHARON SYSTEMS PTY LTD ACN 095 899 317 (reg. 14 Feb 2001, VIC 3228, still active — likely a name collision, not this ISP)"
     }
   ]
 }

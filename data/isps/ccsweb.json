@@ -25,7 +25,10 @@
       "year": 2002,
       "date_disp": "c. 2001-02",
       "precision": "approx",
-      "details": "Dead."
+      "details": "Retail site served 200 through 20 Jul 2001 (last live homepage capture); by 2007 the domain returned 403 Forbidden, indicating the ISP had ended.",
+      "source": [
+        "https://web.archive.org/web/20010720021522id_/http://www.ccsweb.com.au/"
+      ]
     }
   ],
   "refs": [

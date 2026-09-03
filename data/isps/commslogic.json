@@ -4,7 +4,7 @@
   "birthplace": "Gold Coast/Logan, QLD",
   "status": "inactive",
   "website": "https://commslogic.com.au",
-  "summary": "Queensland licensed carrier and wireless WiMax broadband + VoIP + VPN ISP (Motorola Canopy, unlimited plans); assets acquired by Cirrus Communications 2007.",
+  "summary": "Queensland licensed carrier and wireless WiMax broadband + VoIP + VPN ISP (Motorola Canopy, unlimited plans); assets acquired by Cirrus Communications 2007 (COMMSLOGIC PTY LTD, ACN 109 057 543).",
   "names": [
     {
       "name": "CommsLogic",
@@ -18,12 +18,12 @@
       "year": 2004,
       "date_disp": "12 May 2004",
       "precision": "exact",
-      "details": "CommsLogic Pty Ltd ABN registered 12 May 2004.",
+      "details": "COMMSLOGIC PTY LTD, ABN 43 109 057 543 (ACN 109 057 543), registered 12 May 2004; Gold Coast / Logan QLD.",
       "refs": [
         {
-          "kind": "official",
-          "url": "https://abr.business.gov.au/",
-          "label": "ABR: CommsLogic Pty Ltd \u2014 ABN registered 12 May 2004"
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=43109057543",
+          "label": "ABR: COMMSLOGIC PTY LTD ABN 43 109 057 543 (ACN 109 057 543)"
         }
       ]
     },
@@ -32,7 +32,10 @@
       "year": 2007,
       "date_disp": "Aug 2007",
       "precision": "exact",
-      "details": "Assets acquired by Cirrus Communications (customer notice 15 Aug 2007)."
+      "details": "Assets acquired by Cirrus Communications (customer notice 15 Aug 2007); commslogic.com.au now redirects to zotri.com. COMMSLOGIC PTY LTD (ABN 43 109 057 543) remains registered.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=43109057543"
+      ]
     }
   ],
   "refs": [

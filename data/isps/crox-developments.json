@@ -4,7 +4,7 @@
   "birthplace": "Midland (Perth), WA",
   "status": "inactive",
   "website": "https://crox.com.au",
-  "summary": "Perth IT & telecoms company (trading name of the Crockett Family Trust, from 2003); IT management, VoIP/PABX, business internet; brand an AKA of Anittel's network (AS7631); later name reused by a Perth computer retailer (Crox Development Pty Ltd, ACN 120 449 747).",
+  "summary": "Perth IT & telecoms provider; trading name of THE TRUSTEE FOR CROCKETT FAMILY TRUST (Crox Development, from 4 Feb 2003); IT management + VoIP/PABX + business internet on Anittel's network (AS7631); same trust still trades at crox.com.au, now as computer retailer Crox Computers (ABN 34 173 885 987).",
   "names": [
     {
       "name": "Crox Developments",
@@ -16,16 +16,34 @@
     {
       "kind": "birth",
       "year": 2003,
-      "date_disp": "Feb 2003",
+      "date_disp": "4 Feb 2003",
       "precision": "exact",
-      "details": "Crox Development trading name active from 4 Feb 2003."
+      "details": "Crox Development trading name registered 4 Feb 2003 to THE TRUSTEE FOR CROCKETT FAMILY TRUST (ABN 34 173 885 987, GST from same date); Perth IT/telecoms.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=34173885987"
+      ]
     },
     {
       "kind": "death",
       "year": 2010,
       "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "Brand folded into the Anittel web (AS7631)."
+      "details": "Exited telecoms/ISP c.2010 (brand rode Anittel's AS7631); the underlying Crockett Family Trust itself did not die.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=34173885987"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "precision": "exact",
+      "details": "Same legal entity (THE TRUSTEE FOR CROCKETT FAMILY TRUST, ABN 34 173 885 987) still trades at crox.com.au, now as computer retailer Crox Computers (business name registered 16 Jan 2026; trading names Crox Development 2003 -> CROX 2007). Distinct from CROX DEVELOPMENT PTY LTD, ACN 120 449 747 (ABN 28 120 449 747, registered 29 Jun 2006), a separate WA company with a colliding name.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=34173885987",
+        "https://abr.business.gov.au/ABN/View?abn=28120449747",
+        "https://www.crox.com.au/"
+      ]
     }
   ],
   "refs": [
@@ -36,8 +54,13 @@
     },
     {
       "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=34173885987",
+      "label": "ABR: THE TRUSTEE FOR CROCKETT FAMILY TRUST ABN 34 173 885 987 — tn Crox Development (2003), CROX (2007), bn Crox Computers (2026)"
+    },
+    {
+      "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=28120449747",
-      "label": "ABR: Crox Development Pty Ltd ACN 120 449 747"
+      "label": "ABR: CROX DEVELOPMENT PTY LTD ACN 120 449 747 (reg 29 Jun 2006) — distinct name-collision entity, not the trust"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Taree, NSW",
   "status": "inactive",
   "website": "https://comeonaussie.net",
-  "summary": "Mid-north coast NSW dialup/ADSL + hosting ISP (Stephen Spry, 2002-04); defunct.",
+  "summary": "Mid-north coast NSW (Taree) dialup + ADSL + hosting ISP (Stephen Spry); access-ISP retail wound down late 2000s; site continued as web hosting/design/domains, then web design/promotion.",
   "names": [
     {
       "name": "ComeOnAussie.net",
@@ -18,14 +18,21 @@
       "year": 2002,
       "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Dialup, ADSL, hosting."
+      "details": "Nationwide dialup + ADSL/broadband + web hosting reseller ISP; earliest Wayback capture 25 Mar 2004 shows a full ISP homepage (dialup from $12.95/mo, ADSL, hosting).",
+      "source": [
+        "https://web.archive.org/web/20040325064041/http://www.comeonaussie.net/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2010,
+      "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Full dialup/ADSL/hosting ISP in 2004 (Wayback); by 2011 reduced to web hosting/web design/domain registration only (Come On Aussie Internet Services), and by 2013 to web design/promotion (principal Stephen Spry); retail access-ISP wound down in the late 2000s.",
+      "source": [
+        "https://web.archive.org/web/20110902013639/http://www.comeonaussie.net/",
+        "https://web.archive.org/web/20131106182631/http://www.comeonaussie.net/"
+      ]
     }
   ]
 }

@@ -18,14 +18,28 @@
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Wireless broadband + hotspots."
+      "details": "Digital Signal Solutions — Bowen Basin Wireless: wireless broadband + hotspots (plans/rates, coverage). Earliest bowenbasin.com.au capture 29 Aug 2008.",
+      "source": [
+        "https://web.archive.org/web/20080829000000/http://www.bowenbasin.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2011,
       "date_disp": "c. 2011",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail site captured live in 2008; bowenbasin.com.au had degraded to an empty web-server directory listing ('Index of /') by Apr 2013, i.e. defunct between 2008 and 2013. Domain later reused (unrelated 'Bowen Basin Sun Farm' by 2024).",
+      "source": [
+        "https://web.archive.org/web/20130408000000/http://www.bowenbasin.com.au/",
+        "https://web.archive.org/web/20241219000000/http://www.bowenbasin.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080829000000/http://www.bowenbasin.com.au/",
+      "label": "Digital Signal Solutions — Bowen Basin Wireless (Wayback 29 Aug 2008)"
     }
   ]
 }

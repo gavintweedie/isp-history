@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://cheapanet.com.au",
-  "summary": "Sydney unlimited dialup ISP ($19.95/mo, 2:1 ratio); defunct.",
+  "summary": "Sydney unlimited dialup ISP ($19.95/mo, 2:1 ratio); later pivoted to ADSL as 'CheapaDSL'; dead c.2013 (CHEAPANET PTY LIMITED, ACN 087 951 004, renamed PIP TOTAL IT SOLUTIONS PTY LTD Apr 2014).",
   "names": [
     {
       "name": "Cheapanet",
@@ -29,10 +29,15 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "2005",
-      "precision": "exact",
-      "details": "Last active capture of cheapanet.com.au (Nov 2005); parked from 2006."
+      "year": 2013,
+      "date_disp": "c. 2013",
+      "precision": "approx",
+      "details": "Retail long outlasted 2005: the unlimited-dialup homepage persisted (same capture 2004-2008), then the site rebranded to 'CheapaDSL' offering unlimited ADSL (256/64 $45/mo) across 2009-2012 captures; company renamed PIP TOTAL IT SOLUTIONS PTY LTD 16 Apr 2014, by which point cheapanet.com.au was empty/parked.",
+      "source": [
+        "https://web.archive.org/web/20050205194717id_/http://cheapanet.com.au/",
+        "https://web.archive.org/web/20090827222915id_/http://cheapanet.com.au/",
+        "https://abr.business.gov.au/AbnHistory/View?id=52087951004"
+      ]
     }
   ],
   "refs": [

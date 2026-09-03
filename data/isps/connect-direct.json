@@ -4,12 +4,17 @@
   "birthplace": "Rye (Mornington Peninsula), VIC",
   "status": "inactive",
   "website": "https://cdi.com.au",
-  "summary": "Mornington Peninsula/Melbourne dial-up + ISDN + web design/hosting ISP (CDI, ~1997); defunct.",
+  "summary": "Mornington Peninsula/Melbourne dial-up + ISDN + web design/hosting ISP (CDI, Rye VIC, 1997); became part of Chariot Netconnect c.2004.",
   "names": [
     {
       "name": "Connect Direct Internet",
       "start_year": 1997,
-      "start_disp": "1997"
+      "start_disp": "1997",
+      "end_year": 2004,
+      "end_disp": "c. 2004",
+      "source": [
+        "https://web.archive.org/web/20050829111357/http://www.cdi.com.au/"
+      ]
     }
   ],
   "events": [
@@ -18,14 +23,33 @@
       "year": 1997,
       "date_disp": "1997",
       "precision": "exact",
-      "details": "Dial-up/ISDN ISP."
+      "details": "Dial-up/ISDN ISP; 1998 homepage 'Copyright © 1997 Connect Direct Internet', 2375 Pt Nepean Rd, Rye VIC, serving Melbourne and the Mornington Peninsula (associated with Rye Computers, ryecomp.com.au).",
+      "source": [
+        "https://web.archive.org/web/19980506041828/http://www.cdi.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2004,
+      "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Still operating a dialup ISP site in 2003; by 2004-05 cdi.com.au read 'Connect Direct Internet is now part of Chariot' (©2004 Chariot Netconnect) - absorbed into Chariot. (Earlier 'defunct c.2002' was incorrect; the site flapped 200/404 through 2002-04 but continued trading.)",
+      "source": [
+        "https://web.archive.org/web/20031230005108/http://www.cdi.com.au/",
+        "https://web.archive.org/web/20050829111357/http://www.cdi.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19980506041828/http://www.cdi.com.au/",
+      "label": "Connect Direct Internet (Wayback 6 May 1998) — ©1997, Rye VIC"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050829111357/http://www.cdi.com.au/",
+      "label": "CDI 'now part of Chariot' (Wayback 29 Aug 2005) — ©2004 Chariot Netconnect"
     }
   ]
 }

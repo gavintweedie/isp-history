@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://www.citycable.com.au",
-  "summary": "Melbourne CBD broadband supplier (original 2006; re-established 2023) (CITY CABLE AUSTRALIA PTY LTD, ACN 609 005 772).",
+  "summary": "Melbourne CBD broadband/cable supplier operating from 2006 (continuous Wayback captures 2006-2017+); current entity CITY CABLE AUSTRALIA PTY LTD incorporated 28 Oct 2015 (ACN 609 005 772); still active.",
   "names": [
     {
       "name": "City Cable",
@@ -17,8 +17,21 @@
       "kind": "birth",
       "year": 2006,
       "date_disp": "2006",
+      "precision": "by",
+      "details": "Melbourne CBD broadband specialist; earliest Wayback capture 20 Aug 2006. Operated continuously through 2017+.",
+      "source": [
+        "https://web.archive.org/web/20060820192221/http://www.citycable.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2015,
+      "date_disp": "28 Oct 2015",
       "precision": "exact",
-      "details": "City Cable Pty Ltd, Melbourne CBD broadband specialist."
+      "details": "Current legal entity CITY CABLE AUSTRALIA PTY LTD (ACN 609 005 772) incorporated 28 Oct 2015; ABN active from that date. No evidence of a 2023 re-establishment (site ran continuously from 2006).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=47609005772"
+      ]
     }
   ],
   "refs": [

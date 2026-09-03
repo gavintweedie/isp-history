@@ -4,7 +4,7 @@
   "birthplace": "Central Coast, NSW",
   "status": "inactive",
   "website": "https://cci.net.au",
-  "summary": "Central Coast NSW dialup + hosting + web design ISP (cci.net.au, ~1997).",
+  "summary": "Central Coast NSW dialup + hosting + web design ISP (cci.net.au, ~1997); later pivoted to wireless broadband + home phone (Port Stephens); dead 2017 (CENTRAL COAST INTERNET PTY. LIMITED, ACN 073 222 536).",
   "names": [
     {
       "name": "Central Coast Internet",
@@ -16,16 +16,37 @@
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "c. 1997",
-      "precision": "approx",
-      "details": "Dialup, hosting, web design."
+      "date_disp": "by Oct 1997",
+      "precision": "by",
+      "details": "Dialup, hosting, web design; cci.net.au first captured 22 Oct 1997. CENTRAL COAST INTERNET PTY. LIMITED, ACN 073 222 536, NSW 2261.",
+      "source": [
+        "https://web.archive.org/web/19971022145227/http://www.cci.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=93073222536"
+      ]
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2017,
+      "date_disp": "2017",
+      "precision": "exact",
+      "details": "Far outlived the earlier 'defunct c.2005' estimate: cci.net.au ran an actively-maintained site through 2018, having pivoted to wireless broadband + home phone ('© 2016 Central Coast Internet', ABN 93 073 222 536). ABN cancelled 30 Aug 2017; domain became a 301 redirect by 2019 (unrelated site from 2021).",
+      "source": [
+        "https://web.archive.org/web/20160109185656id_/http://cci.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=93073222536",
+        "https://web.archive.org/cdx/search/cdx?url=cci.net.au&output=json"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=93073222536",
+      "label": "ABR: CENTRAL COAST INTERNET PTY. LIMITED ACN 073 222 536 (ABN cancelled 30 Aug 2017)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19971022145227/http://www.cci.net.au/",
+      "label": "Central Coast Internet (Wayback 22 Oct 1997)"
     }
   ]
 }

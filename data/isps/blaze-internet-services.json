@@ -18,14 +18,20 @@
       "year": 2001,
       "date_disp": "by 2001",
       "precision": "by",
-      "details": "Last known alive by 2001 (Wayback capture)."
+      "details": "Listed in the Cynosure ISP directory (Oct 2001) as Blaze, Silkstone (Ipswich) QLD 4304 on the aunz.com network; no independent web captures of blaze.aunz.com survive.",
+      "source": [
+        "https://web.archive.org/web/20011030085714/http://www.cynosure.com.au/isp/aunz2"
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "2001",
-      "precision": "exact",
-      "details": "Last active capture of blaze.aunz.com (Sep 2001)."
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Alive in the Cynosure ISP directory Oct 2001; blaze.aunz.com is not archived, so the exact end date is unknown.",
+      "source": [
+        "https://web.archive.org/web/20011030085714/http://www.cynosure.com.au/isp/aunz2"
+      ]
     }
   ],
   "refs": [

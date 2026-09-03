@@ -4,7 +4,7 @@
   "birthplace": "Taren Point (Sydney), NSW",
   "status": "inactive",
   "website": "https://commnet.net.au",
-  "summary": "Sydney south dialup ISP (unlimited plans); defunct ~2016.",
+  "summary": "Sydney south (Taren Point) dialup ISP (unlimited plans); ISP homepage in Wayback only 2001-02, defunct by mid-2000s.",
   "names": [
     {
       "name": "Commnet Internet Services",
@@ -15,17 +15,23 @@
   "events": [
     {
       "kind": "birth",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 2002)."
+      "year": 2001,
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Listed in the Cynosure ISP directory (2001); earliest own-domain Wayback capture Dec 2001.",
+      "source": [
+        "https://web.archive.org/web/20011204042729/http://www.commnet.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2016,
-      "date_disp": "c. 2016",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "ISP homepage present in Wayback only 2001-02; no captures 2003-2013, then a minimal placeholder page 2014-2019 (not an active ISP). Exact closure unclear; retail ISP presence gone by mid-2000s.",
+      "source": [
+        "https://web.archive.org/web/20190302122201/http://www.commnet.net.au/"
+      ]
     }
   ],
   "refs": [

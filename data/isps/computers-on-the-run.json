@@ -4,7 +4,7 @@
   "birthplace": "Kilmore, VIC",
   "status": "inactive",
   "website": "https://ontherun.com.au",
-  "summary": "Kilmore region dialup ISP + web hosting; defunct ~Dec 2014.",
+  "summary": "Kilmore VIC region dialup ISP + web hosting; gone by ~2005, ontherun.com.au later taken over by the OTR / Peregrine Corporation convenience-store chain.",
   "names": [
     {
       "name": "Computers On The Run Internet",
@@ -18,21 +18,32 @@
       "year": 1997,
       "date_disp": "c. 1997-98",
       "precision": "approx",
-      "details": "Dialup, Kilmore region."
+      "details": "Kilmore-region dialup + web hosting; earliest Wayback capture of ontherun.com.au Dec 1998, listed in the Cynosure ISP directory from Aug 2000.",
+      "source": [
+        "https://web.archive.org/web/20000302032627/http://www.ontherun.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2014,
-      "date_disp": "c. 2014",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Last 'Computers On The Run' homepage capture Mar 2000; still listed in the Cynosure ISP directory to Jun 2005; ontherun.com.au taken over by On The Run (Peregrine Corporation) convenience stores by Aug 2006. The earlier 'defunct ~Dec 2014' reflected the unrelated convenience-store site.",
+      "source": [
+        "https://web.archive.org/web/20060820130015/http://www.ontherun.com.au/"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
-      "url": "https://web.archive.org/web/20011223000000/http://www.cynosure.com.au/isp/ontherun",
-      "label": "Cynosure: On The Run"
+      "url": "https://web.archive.org/web/20000302032627/http://www.ontherun.com.au/",
+      "label": "Computers On The Run homepage (Wayback 2000)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011101102341/http://www.cynosure.com.au/isp/ontherun",
+      "label": "Computers On The Run (Cynosure 2001)"
     }
   ]
 }

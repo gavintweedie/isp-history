@@ -1,10 +1,10 @@
 {
   "name": "Better Net",
   "slug": "better-net",
-  "birthplace": "Murwillumbah, QLD",
+  "birthplace": "Murwillumbah, NSW",
   "status": "inactive",
   "website": "https://better.net.au",
-  "summary": "Tweed Heads/Murwillumbah dialup ISP (Better Net Pty Ltd, ACN 003 868 120); acquired by Chariot by 2004 (-> TPG).",
+  "summary": "Tweed Heads/Murwillumbah (NSW) dialup + hosting ISP (Better Net Pty Ltd); acquired by Chariot, site rebranded Chariot netconnect by 2006 (-> TPG).",
   "names": [
     {
       "name": "Better Net",
@@ -18,14 +18,31 @@
       "year": 1998,
       "date_disp": "by 1998",
       "precision": "by",
-      "details": "Dialup, web hosting."
+      "details": "Dialup + web hosting; earliest Wayback capture 25 Jan 1998 (better.net.au).",
+      "source": [
+        "https://web.archive.org/web/19980125234748/http://www.better.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "by 2004",
+      "year": 2006,
+      "date_disp": "by 2006",
       "precision": "by",
-      "details": "Acquired by Chariot (-> TPG)."
+      "details": "Acquired by Chariot (-> TPG); better.net.au showed Chariot netconnect branding by Jan 2006 and 301-redirected to www.chariot.net.au by Feb 2007.",
+      "source": [
+        "https://web.archive.org/web/20060101094537/http://www.better.net.au/",
+        "https://web.archive.org/web/20070202100216/http://www.better.net.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "ACN 003 868 120 previously cited for this ISP is a name collision: on ABR it is BETTER NETWORK SERVICES GROUP PTY. LTD. (trading as BNS GROUP), an ACT company registered 11 Mar 2000 and still active, unrelated to this NSW dialup ISP.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=54003868120"
+      ]
     }
   ],
   "refs": [
@@ -37,7 +54,7 @@
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=54003868120",
-      "label": "ABR: BETTER NETWORK SERVICES GROUP PTY. LTD. ACN 003 868 120"
+      "label": "ABR: BETTER NETWORK SERVICES GROUP PTY. LTD. (BNS GROUP, ACT) ACN 003 868 120 — name collision, NOT this ISP"
     }
   ]
 }

@@ -4,12 +4,18 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://dialix.com.au",
-  "summary": "One of Australia's earliest commercial ISPs (conceived late 1989 in Perth); brand absorbed by JustNet by 2000.",
+  "summary": "One of Australia's earliest commercial ISPs (Perth, from 1989); acquired by JustNet (Sydney) by 2000-01 and run as 'DIALix by JustNet' until c.2010; dialix.com.au then redirected to Sublime IP c.2011.",
   "names": [
     {
       "name": "DIALix",
       "start_year": 1989,
-      "start_disp": "1989"
+      "start_disp": "1989",
+      "end_year": 2011,
+      "end_disp": "c. 2011",
+      "source": [
+        "https://web.archive.org/web/20101230131312/http://www.dialix.com.au/ (last DIALix homepage, Dec 2010)",
+        "https://web.archive.org/web/20130408073118/http://dialix.com.au/ (301 redirect to sublimeip.com from 2011)"
+      ]
     }
   ],
   "events": [
@@ -21,11 +27,26 @@
       "details": "Conceived in Perth, WA, late 1989; commercial dial-up from ~1992."
     },
     {
-      "kind": "death",
+      "kind": "note",
       "year": 2000,
-      "date_disp": "c. 1998-2000",
+      "date_disp": "by 2000-01",
+      "precision": "by",
+      "details": "Acquired by JustNet (Sydney): still independently branded 'DIALix Internet Services' (national dialup) in Jun 1998, branded 'DIALix by JustNet' by Feb 2001.",
+      "source": [
+        "https://web.archive.org/web/19980614093101/http://www.dialix.com.au/ (DIALix Internet Services, Jun 1998)",
+        "https://web.archive.org/web/20010201071400/http://www.dialix.com.au/ (DIALix by JustNet, Feb 2001)"
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2011,
+      "date_disp": "c. 2011",
       "precision": "approx",
-      "details": "Brand absorbed by JustNet Pty Ltd (Sydney)."
+      "details": "Ran under JustNet as 'DIALix by JustNet' until c.2010 (last DIALix homepage Dec 2010); dialix.com.au then redirected to Sublime IP (sublimeip.com) from Feb 2011.",
+      "source": [
+        "https://web.archive.org/web/20050602081232/http://www.dialix.com.au/ (DIALix by JustNet, 2005)",
+        "https://web.archive.org/web/20130408073118/http://dialix.com.au/ (301 to sublimeip.com)"
+      ]
     }
   ],
   "refs": [

@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "chariot.net.au",
-  "summary": "Adelaide ISP; built through acquisition: SA roll-up (OurWorld 1998; Cobweb, Newave, InterNex, Satlink, Pipeline, Box, Ompac, CNN, Universal; Picknowl 2002; Mr Bean, Better.Net, eCITE, Cyberwizards Mar 2003; Blue Pin/Northnet + Squirrel Net Aug 2003; Ledanet + Broadnet 11 May 2004) and a Queensland consolidation into the 'Chariot netconnect' brand (Qld Net, Technet 2000, Mackay Internet, Oznetcom by Mar 2005). FY2003-04 alone: 10 ISP acquisitions, ~32,000 customers. TPG took a controlling stake Feb 2007 but the Chariot netconnect brand continued under TPG/SP Telemedia until ~2010 (CHARIOT LIMITED, ACN 088 377 860).",
+  "summary": "Adelaide ISP; built through acquisition: SA roll-up (OurWorld 1998; Cobweb, Newave, InterNex, Satlink, Pipeline, Box, Ompac, CNN, Universal; Picknowl 2002; Mr Bean, Better.Net, eCITE, Cyberwizards Mar 2003; Blue Pin/Northnet + Squirrel Net Aug 2003; Ledanet + Broadnet 11 May 2004) and a Queensland consolidation into the 'Chariot netconnect' brand (Qld Net, Technet 2000, Mackay Internet, Oznetcom by Mar 2005). FY2003-04 alone: 10 ISP acquisitions, ~32,000 customers. TPG took a controlling stake Feb 2007 and the Chariot brand then ran on as a TPG-Soul/TPG retail ISP (dialup + ADSL/ADSL2+ + webmail) for over a decade, its site live to ~2023 (CHARIOT LIMITED, ACN 088 377 860).",
   "names": [
     {
       "name": "Chariot",
@@ -29,10 +29,15 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2023,
+      "date_disp": "c. 2023",
       "precision": "approx",
-      "details": "Brand folded into TPG/SP Telemedia (TPG control Feb 2007)."
+      "details": "Not folded c.2010: after TPG-Soul took full ownership (Feb 2009 site notes 'Chariot is now wholly owned by the TPG-Soul Group'), Chariot ran on as a live TPG retail ISP brand (dialup/ADSL/ADSL2+/webmail; 'Chariot Internet Ltd', 'Chariot Ltd trading as Picknowl') well into 2019. chariot.net.au served a maintained site through Jan 2023, then became a permanent 301 redirect from 2024, marking the brand's retirement.",
+      "source": [
+        "https://web.archive.org/web/20100105152520id_/http://chariot.net.au/",
+        "https://web.archive.org/web/20190113070021id_/http://chariot.net.au/",
+        "https://web.archive.org/cdx/search/cdx?url=chariot.net.au&output=json"
+      ]
     }
   ],
   "refs": [

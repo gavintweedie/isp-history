@@ -4,12 +4,18 @@
   "birthplace": "Sydney CBD, NSW",
   "status": "inactive",
   "website": "https://cherry.net.au",
-  "summary": "Sydney internet services company; no founding/acquisition details found.",
+  "summary": "Sydney dialup/access ISP (Cherry Access Pty Ltd, traded as Cherry Internet); wound down by 2008, company shell renamed ZHONG HUAN PTY LTD and ABN cancelled 1 Oct 2008 (formerly CHERRY ACCESS PTY LTD, ACN 075 816 045).",
+  "aliases": [
+    "Cherry Internet"
+  ],
   "names": [
     {
       "name": "Cherry Access",
       "start_year": 1996,
-      "start_disp": "30 Sep 1996"
+      "start_disp": "30 Sep 1996",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=61075816045 (ACN 075 816 045; trading name CHERRY INTERNET recorded from 28 Aug 2000; entity later renamed ZHONG HUAN PTY LTD)"
+      ]
     }
   ],
   "events": [
@@ -18,28 +24,41 @@
       "year": 1996,
       "date_disp": "30 Sep 1996",
       "precision": "exact",
-      "details": "CHERRY ACCESS PTY LTD ACN 075816045 registered 30 Sep 1996 as Rising Technology Pty Ltd; Cynosure listing by Apr 1997.",
+      "details": "CHERRY ACCESS PTY LTD ACN 075 816 045 registered 30 Sep 1996 as Rising Technology Pty Ltd; traded as Cherry Internet (ABR trading name from 28 Aug 2000); Cynosure listing by Apr 1997.",
       "refs": [
         {
           "kind": "official",
           "url": "https://creditorwatch.com.au/credit/profile/61075816045/cherry-access-pty-ltd",
           "label": "Cherry Access Pty Ltd ACN 075816045"
         }
+      ],
+      "source": [
+        "https://creditorwatch.com.au/credit/profile/61075816045/cherry-access-pty-ltd",
+        "https://abr.business.gov.au/ABN/View?abn=61075816045 (trading name CHERRY INTERNET from 28 Aug 2000)"
       ]
     },
     {
       "kind": "death",
-      "year": 2013,
-      "date_disp": "by 2013",
+      "year": 2008,
+      "date_disp": "by 2008",
       "precision": "by",
-      "details": "Domain parked/cPanel; ISP status unclear."
+      "details": "ABN cancelled 1 Oct 2008; company shell renamed ZHONG HUAN PTY LTD (now a Chinese-language business, NSW 2131). No live retail homepage was ever archived — the earliest Wayback capture (8 Feb 2013) already returns HTTP 403, i.e. the domain was dead/parked by then.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=61075816045 (ABN cancelled 01 Oct 2008)",
+        "https://web.archive.org/cdx/search/cdx?url=cherry.net.au (earliest capture 20130208, HTTP 403)"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
       "url": "https://web.archive.org/web/20130208020746/http://www.cherry.net.au/",
-      "label": "Cherry (Wayback 2013)"
+      "label": "Cherry (Wayback 2013, HTTP 403 — domain already dead)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=61075816045",
+      "label": "ABR: ACN 075 816 045 (Cherry Access Pty Ltd, later ZHONG HUAN PTY LTD; ABN cancelled 1 Oct 2008)"
     }
   ]
 }

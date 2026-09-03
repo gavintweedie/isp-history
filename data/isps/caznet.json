@@ -1,24 +1,39 @@
 {
   "name": "Caznet",
   "slug": "caznet",
-  "birthplace": "Adelaide, SA",
+  "birthplace": "Smithfield Plains (Adelaide), SA",
   "status": "active",
   "website": "https://www.caznet.com.au",
-  "summary": "Adelaide business telco/ISP (site first captured 2005) (CAZNET PTY LTD, ACN 143 897 303).",
+  "summary": "Adelaide business telco/ISP; began c.2005 as sole trader Caznet Solutions (Shane Clay, Smithfield Plains SA), incorporated May 2010 and still active (CAZNET PTY LTD, ACN 143 897 303).",
   "names": [
     {
       "name": "Caznet",
-      "start_year": 2004,
-      "start_disp": "c. 2004"
+      "start_year": 2005,
+      "start_disp": "by 2005"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Per site schema; Adelaide-based."
+      "year": 2005,
+      "date_disp": "by 2005",
+      "precision": "by",
+      "details": "Earliest Wayback capture 15 Jun 2005 shows 'Caznet Solutions' (new site under construction), run by sole trader Shane Adam Clay, PO Box 39 Smithfield Plains SA 5114, ABN 39 078 729 084.",
+      "source": [
+        "https://web.archive.org/web/20050615080955id_/http://www.caznet.com.au/",
+        "https://abr.business.gov.au/ABN/View?abn=39078729084"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2010,
+      "date_disp": "May 2010",
+      "precision": "exact",
+      "details": "Business incorporated as CAZNET PTY LTD (ACN 143 897 303, ABN 47 143 897 303) 27 May 2010, GST from 01 Jul 2010 — the same day Shane Clay's sole-trader ABN 39 078 729 084 was cancelled; trading name Caznet Solutions from Jun/Jul 2010, business name CAZNET registered 24 Dec 2018.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=47143897303",
+        "https://abr.business.gov.au/ABN/View?abn=39078729084"
+      ]
     }
   ],
   "refs": [

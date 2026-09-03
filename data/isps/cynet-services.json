@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://cynet.net.au",
-  "summary": "Melbourne business semi-permanent dialup (voice-modem to ISDN; web via Total Network Support, by 1996); defunct.",
+  "summary": "Melbourne business semi-permanent dialup (voice-modem to ISDN; web via Total Network Support, by 1996); merged with SubNet Internet Services c. Jan 1999.",
   "names": [
     {
       "name": "Cynet Services",
@@ -16,16 +16,23 @@
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "by 1996",
+      "date_disp": "by Dec 1996",
       "precision": "by",
-      "details": "Business dialup."
+      "details": "Business dialup (Cynet Internet Services); earliest cynet.net.au capture Dec 1996.",
+      "source": [
+        "https://web.archive.org/web/19961219002732id_/http://www.cynet.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 1999,
+      "date_disp": "Jan 1999",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "\"Cynet has merged with SubNet Internet Services to form one single ISP\" (Jan 1999); cynet.net.au then redirected to sub.net.au (still doing so in 2002). Domain later reused by the unrelated KeyPoint (2003-04).",
+      "source": [
+        "https://web.archive.org/web/20011128094737id_/http://www.cynet.net.au/",
+        "https://web.archive.org/web/20040201180936id_/http://www.cynet.net.au/"
+      ]
     }
   ]
 }

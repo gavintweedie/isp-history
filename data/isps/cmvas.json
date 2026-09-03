@@ -16,9 +16,12 @@
     {
       "kind": "birth",
       "year": 2024,
-      "date_disp": "2024",
+      "date_disp": "28 May 2024",
       "precision": "exact",
-      "details": "CM VALUE ADDED SERVICES PTY LTD incorporated 28 May 2024 (Adelaide)."
+      "details": "CM VALUE ADDED SERVICES PTY LTD incorporated 28 May 2024 (Adelaide, SA); ABN 39 673 140 737 active from 28 May 2024 per ABR.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=39673140737"
+      ]
     }
   ],
   "refs": [

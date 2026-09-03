@@ -9,7 +9,9 @@
     {
       "name": "DezzaNet",
       "start_year": 1996,
-      "start_disp": "27 Mar 1996"
+      "start_disp": "27 Mar 1996",
+      "end_year": 2005,
+      "end_disp": "late 2005"
     }
   ],
   "events": [
@@ -31,8 +33,12 @@
       "kind": "death",
       "year": 2005,
       "date_disp": "late 2005",
-      "precision": "exact",
-      "details": "Became part of Aardvark Internet."
+      "precision": "approx",
+      "details": "Still selling national dialup in Jul 2005 (new national dialup number from 1 Jul 2005); last DezzaNet-branded homepage Dec 2005; dezzanet.net.au redirected to aardvark.net.au by 2007. Customer/mail base absorbed by Aardvark Internet (Noro Communications Pty Ltd).",
+      "source": [
+        "https://web.archive.org/web/20050729084148/http://www.dezzanet.net.au/ (DezzaNet Pty Ltd national dialup, Jul 2005)",
+        "https://web.archive.org/web/20070629114634/http://www.dezzanet.net.au/ (redirect to aardvark.net.au)"
+      ]
     }
   ],
   "refs": [

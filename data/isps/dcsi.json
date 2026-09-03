@@ -25,7 +25,10 @@
       "year": 2020,
       "date_disp": "May 2020",
       "precision": "exact",
-      "details": "Acquired by Swoop (with Anycast Networks)."
+      "details": "Acquired by Swoop (with Anycast Networks); dcsi.net.au now 302-redirects to swoopbroadband.com.au.",
+      "source": [
+        "https://dcsi.net.au (302 -> https://swoopbroadband.com.au/, checked Sep 2026)"
+      ]
     }
   ],
   "refs": [

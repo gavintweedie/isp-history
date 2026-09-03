@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://connexus.net.au",
-  "summary": "One of Australia's older ISPs (established 1989); acquired by Pennytel ~2022 (CONNEXUS GLOBAL PTY. LTD., ACN 600 066 948).",
+  "summary": "One of Australia's older ISPs (Melbourne, established 1989; INTERNEX AUSTRALIA PTY LTD, t/a Connexus Internet Service, ACN 070 275 722); part of the MNF Group by 2019, retail site wound down c.2020-22.",
   "names": [
     {
       "name": "Connexus",
@@ -18,14 +18,30 @@
       "year": 1989,
       "date_disp": "1989",
       "precision": "exact",
-      "details": "Connexus Internet Service established, a division of InterNex Australia."
+      "details": "Connexus Internet Service established, operated by Internex Australia Pty Ltd (ACN 070 275 722); 1998 homepage states 'since 1989 Connexus has provided friendly, reliable Internet services throughout Melbourne'. Founding predates the archive and is the site's own claim.",
+      "source": [
+        "https://web.archive.org/web/19981202215103id_/http://www.connexus.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=83070275722"
+      ]
     },
     {
       "kind": "death",
-      "year": 2022,
-      "date_disp": "c. 2022",
+      "year": 2020,
+      "date_disp": "c. 2020-22",
       "precision": "approx",
-      "details": "Acquired by Pennytel."
+      "details": "Part of the MNF Group by 2019 (2019 homepage: 'Internex Australia Pty Ltd (t/a Connexus). Part of the MNF Group'); connexus.net.au last captured live Jan 2019, redirected to connexus.com.au c.2020 and returned 404 by 2022 as the retail brand wound down. The operating company Internex Australia Pty Ltd (ACN 070 275 722) remains registered/active on ABR.",
+      "source": [
+        "https://web.archive.org/web/20190120011923/http://connexus.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=83070275722"
+      ]
+    },
+    {
+      "kind": "note",
+      "details": "ACN misattribution corrected: an earlier version cited CONNEXUS GLOBAL PTY. LTD. (ABN 27 600 066 948, ACN 600 066 948) and 'acquired by Pennytel ~2022'. That company was not registered until 30 Jun 2014, trades as 'IPM Masterclass' and sits in the Goulburn Valley (VIC 3629) - an unrelated name collision, now removed. The Connexus ISP's actual operating entity is INTERNEX AUSTRALIA PTY LTD (ABN 83 070 275 722, ACN 070 275 722), whose sole trading name on ABR is CONNEXUS INTERNET SERVICE.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=27600066948",
+        "https://abr.business.gov.au/ABN/View?abn=83070275722"
+      ]
     }
   ],
   "refs": [
@@ -36,8 +52,8 @@
     },
     {
       "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=27600066948",
-      "label": "ABR: CONNEXUS GLOBAL PTY. LTD. ACN 600 066 948"
+      "url": "https://abr.business.gov.au/ABN/View?abn=83070275722",
+      "label": "ABR: INTERNEX AUSTRALIA PTY LTD ACN 070 275 722 (t/a Connexus Internet Service)"
     }
   ]
 }

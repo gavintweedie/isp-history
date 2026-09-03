@@ -17,15 +17,21 @@
       "kind": "birth",
       "year": 1998,
       "date_disp": "1998",
-      "precision": "exact",
-      "details": "Dialup 56k, Perth POP."
+      "precision": "by",
+      "details": "Perth 56k dialup ISP; earliest Wayback capture 12 Dec 1998.",
+      "source": [
+        "https://web.archive.org/web/19981212023816/http://www.citynet.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2002,
       "date_disp": "c. 2001-02",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Homepage last captured 28 Sep 2001, then a gap until an unrelated 2016 capture; defunct c. 2001-02.",
+      "source": [
+        "https://web.archive.org/web/20010928081810/http://www.citynet.net.au/"
+      ]
     }
   ],
   "refs": [

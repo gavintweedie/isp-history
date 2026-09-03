@@ -4,7 +4,7 @@
   "birthplace": "Merewether (Newcastle), NSW",
   "status": "inactive",
   "website": "https://bravo.net.au",
-  "summary": "Newcastle dialup/broadband ISP (bravo.net.au, PO Box 333 Merewether); defunct.",
+  "summary": "Newcastle/Hunter dialup + broadband ISP (bravo.net.au, locally owned, PO Box 333 Merewether); retail service ran into 2023, then site reduced to webmail-only (BRAVO INTERNET PTY LTD, ACN 078 354 588).",
   "names": [
     {
       "name": "Bravo Internet",
@@ -18,21 +18,28 @@
       "year": 1997,
       "date_disp": "29 Apr 1997",
       "precision": "exact",
-      "details": "BRAVO INTERNET PTY LTD ACN 078354588 registered 29 Apr 1997.",
+      "details": "BRAVO INTERNET PTY LTD, ACN 078 354 588, registered 29 Apr 1997. Earliest bravo.net.au capture 2 Mar 2000.",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.aubiz.net/company/bravo-internet-pty-ltd-078354588/",
           "label": "Bravo Internet ACN 078354588 \u2014 29 Apr 1997"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/20000302000000/http://www.bravo.net.au/"
       ]
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2023,
+      "date_disp": "c. 2023",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "BRAVO Internet retail homepage (dialup/broadband plans, join, member services) captured live through 15 Jun 2023; by 25 Aug 2023 bravo.net.au was reduced to a Roundcube webmail login only (still webmail in 2026). Earlier 'c. 2005' death was wrong \u2014 the retail site ran ~13 years longer.",
+      "source": [
+        "https://web.archive.org/web/20230615000000/http://www.bravo.net.au/",
+        "https://web.archive.org/web/20230825000000/http://www.bravo.net.au/"
+      ]
     }
   ]
 }

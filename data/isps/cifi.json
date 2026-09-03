@@ -19,13 +19,16 @@
       "year": 2019,
       "date_disp": "20 Nov 2019",
       "precision": "exact",
-      "details": "CIFI PTY LTD ACN 637574317 ABN 93 637574317 registered 20 Nov 2019; ASN AS140065 allocated 27 Jan 2020.",
+      "details": "CIFI PTY LTD ACN 637 574 317 (ABN 93 637 574 317) registered 20 Nov 2019; ASN AS140065 allocated 27 Jan 2020. The operating company is registered in WA (6030, northern Perth) and also holds the business names WHIZZ IT and Norfone; it delivers the CiFi (Christmas Island Fibre) service to Christmas Island.",
       "refs": [
         {
           "kind": "official",
           "url": "https://abr.business.gov.au/ABN/View?abn=93637574317",
           "label": "ABN Lookup: CiFi 93 637 574 317"
         }
+      ],
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=93637574317 (CIFI PTY LTD, ABN active 20 Nov 2019, WA 6030; business names WHIZZ IT, Norfone)"
       ]
     }
   ],

@@ -18,14 +18,20 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Founded in Hobart (to serve Thrifty Car Rental franchise)."
+      "details": "Founded in Hobart (to serve Thrifty Car Rental franchise); earliest Wayback capture 20 Sep 2003 (bbw.net.au).",
+      "source": [
+        "https://web.archive.org/web/20030920113038/http://www.bbw.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2012,
       "date_disp": "late Feb 2012",
       "precision": "exact",
-      "details": "Absorbed by iiNet directly (per user report; no public announcement)."
+      "details": "Absorbed by iiNet directly (per user report; no public announcement); bbw.net.au homepage froze at ©2011 'Broadband Wireless Pty Ltd' content and lingered as a static page to ~2021.",
+      "source": [
+        "https://web.archive.org/web/20200227234354/http://bbw.net.au/"
+      ]
     }
   ],
   "refs": [

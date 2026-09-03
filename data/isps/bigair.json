@@ -25,13 +25,27 @@
       "year": 2016,
       "date_disp": "2016",
       "precision": "exact",
-      "details": "Acquired by Superloop (~A$104m).",
+      "details": "Acquired by Superloop via scheme of arrangement; suspended 9 Dec 2016, delisted from ASX 21 Dec 2016.",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.delisted.com.au/company/bigair-group-limited/",
           "label": "deListed Australia: BigAir Group Limited (ASX:BGL) \u2014 delisted 21 Dec 2016 (Superloop scheme of arrangement)"
         }
+      ],
+      "source": [
+        "https://www.delisted.com.au/company/bigair-group-limited/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2006,
+      "date_disp": "7 Apr 2006",
+      "precision": "exact",
+      "details": "ASX-listed parent was BIGAIR GROUP LIMITED (ASX:BGL), listed 7 Apr 2006. Cited ACN 084 163 100 (BIGAIR COMMUNITY BROADBAND PTY LTD, reg. 1 Nov 1999) is a group subsidiary that carried the AccessPlus trading name, not the listed parent.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=80084163100",
+        "https://www.delisted.com.au/company/bigair-group-limited/"
       ]
     }
   ],

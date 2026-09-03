@@ -18,7 +18,10 @@
       "year": 1995,
       "date_disp": "1995",
       "precision": "exact",
-      "details": "C & N Newcastle Pty Ltd started late 1995 (Techcel arm)."
+      "details": "C & N Newcastle Pty Ltd started late 1995 (internet arm of Techcel Computer Services); earliest cnn.net.au capture Feb 2001.",
+      "source": [
+        "https://web.archive.org/web/20010215161955/http://www.cnn.net.au/about.html"
+      ]
     },
     {
       "kind": "death",

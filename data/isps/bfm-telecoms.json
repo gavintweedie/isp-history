@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://bfm.net.au",
-  "summary": "Community-fundraising telecom + ISP (~2007); defunct.",
+  "summary": "Community-fundraising telecom + ISP (phone + internet + mobile, by 2007); wound down c. 2012.",
   "names": [
     {
       "name": "BFM Telecoms",
@@ -16,16 +16,30 @@
     {
       "kind": "birth",
       "year": 2007,
-      "date_disp": "c. 2007",
-      "precision": "approx",
-      "details": "Phone/internet/mobile/VoIP."
+      "date_disp": "by 2007",
+      "precision": "by",
+      "details": "Phone + internet + mobile with a community fundraising program ('BFM as a major fundraiser'); earliest Wayback capture 28 Feb 2007.",
+      "source": [
+        "https://web.archive.org/web/20070403011243id_/http://www.bfm.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2012,
+      "date_disp": "c. 2012",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Homepage still 'Welcome to BFM Telecoms' through Jul 2010; by Feb 2012 replaced with an 'On Hold Message'; domain a HostGator default parking page by 2018.",
+      "source": [
+        "https://web.archive.org/web/20120221183654id_/http://www.bfm.net.au/",
+        "https://web.archive.org/web/20180803215721id_/http://www.bfm.net.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20070403011243/http://www.bfm.net.au/",
+      "label": "BFM Telecoms — phone/internet/mobile + community fundraising (Wayback 3 Apr 2007)"
     }
   ]
 }

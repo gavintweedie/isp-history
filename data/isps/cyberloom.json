@@ -4,7 +4,7 @@
   "birthplace": "Surry Hills (Sydney), NSW",
   "status": "inactive",
   "website": "https://loom.com.au",
-  "summary": "Sydney dialup ISP + web design (Cyberloom Pty Ltd, ACN 070 228 938); wound down ~2005-06.",
+  "summary": "Sydney dialup ISP (launched Mar 1995); retail ISP ceased c. 2001, customers pushed to OzEmail email forwarding (CYBERLOOM PTY. LTD., ACN 070 228 938).",
   "names": [
     {
       "name": "Cyberloom",
@@ -16,16 +16,24 @@
     {
       "kind": "birth",
       "year": 1995,
-      "date_disp": "1995",
+      "date_disp": "Mar 1995",
       "precision": "exact",
-      "details": "Cyberloom Internet Services launched Mar 1995."
+      "details": "\"Cyberloom is an Australian Internet Service Provider, launched in March 1995\" (homepage, Wayback 11 Jan 1997).",
+      "source": [
+        "https://web.archive.org/web/19970111022148id_/http://www.loom.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2005-06",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Wound down."
+      "details": "Retail ISP ceased c. 2001; homepage (authored 28 Jun 2001) redirected to OzEmail offering a free Cyberloom email-forwarding account; by May 2002 an explicit \"your Cyberloom Internet service has ceased\" notice; domain parked (Easy CGI placeholder) by Aug 2006, later reused for an unrelated \"loom design\" site.",
+      "source": [
+        "https://web.archive.org/web/20020330102636id_/http://loom.com.au/",
+        "https://web.archive.org/web/20020524153303id_/http://www.loom.com.au/",
+        "https://web.archive.org/web/20060820073447id_/http://www.loom.com.au/"
+      ]
     }
   ],
   "refs": [

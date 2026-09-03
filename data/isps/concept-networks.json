@@ -23,14 +23,21 @@
       "year": 1999,
       "date_disp": "Nov 1999",
       "precision": "exact",
-      "details": "Genium Pty Ltd registered 1 Nov 1999, trading as Concept Networks; renamed Conceptual Internet Australia Pty Ltd 18 Feb 2000; earliest Wayback capture of conceptual.net.au Aug 2000."
+      "details": "Genium Pty Ltd registered 1 Nov 1999, trading as Concept Networks; renamed Conceptual Internet Australia Pty Ltd (ABN 49 087 624 619, WA); earliest Wayback capture of conceptual.net.au Aug 2000. ABR records the trading name GENIUM.NET from 28 Apr 2000 and CONCEPTUAL INTERNET AUSTRALIA PTY LTD from 27 Mar 2002.",
+      "source": [
+        "https://web.archive.org/web/20000816174757/http://www.conceptual.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=49087624619"
+      ]
     },
     {
       "kind": "death",
       "year": 2010,
       "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "Last live Wayback capture of conceptual.net.au Apr 2009 (then redirects); ABN cancelled 5 Apr 2017."
+      "details": "Last live retail Wayback capture of conceptual.net.au Apr 2009 (later captures parked/redirect); ABN 49 087 624 619 cancelled 5 Apr 2017.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=49087624619"
+      ]
     }
   ],
   "refs": [

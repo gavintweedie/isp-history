@@ -4,28 +4,34 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://cmon.com.au",
-  "summary": "Dialup + ADSL ISP ('Cmon 24/7', ~2005); defunct.",
+  "summary": "Dialup + ADSL ISP ('Cmon 24/7'; site at cmon.com.au/portal/, ~2003-05); retail portal gone by 2006, domain parked thereafter.",
   "names": [
     {
       "name": "Cmon Internet",
-      "start_year": 2005,
-      "start_disp": "c. 2005"
+      "start_year": 2003,
+      "start_disp": "by 2003"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Dialup, residential ADSL."
+      "year": 2003,
+      "date_disp": "by 2003",
+      "precision": "by",
+      "details": "Dialup + residential ADSL; ISP site at cmon.com.au/portal/ (dialup + ADSL plans) captured from Jun 2003.",
+      "source": [
+        "https://web.archive.org/web/20030608071809/http://www.cmon.com.au:80/portal/adsl/index.html"
+      ]
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail portal pages returning 404 by Aug 2006; homepage a domain-parking page from Oct 2007, 302 redirect (parked) thereafter.",
+      "source": [
+        "Wayback CDX cmon.com.au/portal/*: 200 content to 2005, 404 by 20060820; homepage parking page from 20071012"
+      ]
     }
   ]
 }

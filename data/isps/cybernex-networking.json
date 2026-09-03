@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://cybernex.net.au",
-  "summary": "Dialup + web hosting ISP (since ~1995); site frozen from 1998; no acquisition found.",
+  "summary": "Dialup + web hosting ISP (©1995-1998); homepage frozen at Aug 1998 yet served for a decade; domain rebuilt as a CMS site c. 2012-13 then reduced to a placeholder.",
   "names": [
     {
       "name": "Cybernex Networking",
@@ -18,14 +18,23 @@
       "year": 1995,
       "date_disp": "c. 1995",
       "precision": "approx",
-      "details": "Dialup + web hosting."
+      "details": "Dialup + web hosting; homepage carries \"Copyright 1995-1998 by Cybernex Networking\" (founding year unverified beyond that). Full ISP portal captured Dec 1997.",
+      "source": [
+        "https://web.archive.org/web/19971224110549id_/http://cybernex.net.au/",
+        "https://web.archive.org/web/20090108030008id_/http://www.cybernex.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
+      "year": 2014,
+      "date_disp": "c. 2014",
       "precision": "approx",
-      "details": "Site frozen; defunct."
+      "details": "Homepage frozen at \"last updated 21 August 1998\" but kept serving unchanged through ~2009; domain rebuilt as a Joomla/Uvumi CMS site c. 2012-13, then reduced to a small placeholder page by 2014.",
+      "source": [
+        "https://web.archive.org/web/20090108030008id_/http://www.cybernex.net.au/",
+        "https://web.archive.org/web/20120221090026id_/http://www.cybernex.net.au/",
+        "https://web.archive.org/web/20140114025730/http://cybernex.net.au/"
+      ]
     }
   ],
   "refs": [

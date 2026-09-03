@@ -18,7 +18,11 @@
       "year": 1997,
       "date_disp": "1997",
       "precision": "exact",
-      "details": "Ozsky.net founded Deniliquin NSW; became Bordernet Dec 2001."
+      "details": "Ozsky.net founded Deniliquin NSW; became Bordernet Dec 2001. 1997 founding predates the archive (earliest ozsky.net capture 28 Nov 1999, branded 'OZSKY'); BORDERNET INTERNET PTY LTD, ACN 103 155 693, registered 1 Jan 2003.",
+      "source": [
+        "https://web.archive.org/web/19991128112310/http://www.ozsky.net/",
+        "https://abr.business.gov.au/ABN/View?abn=91103155693"
+      ]
     },
     {
       "kind": "death",

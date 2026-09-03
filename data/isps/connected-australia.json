@@ -2,9 +2,9 @@
   "name": "Connected Australia",
   "slug": "connected-australia",
   "birthplace": "Toowoomba, QLD",
-  "status": "inactive",
+  "status": "active",
   "website": "connected.net.au",
-  "summary": "Telco/ISP (brands: Connected Australia, Lemonade Broadband, ACN 112 124 231); acquired by On Q Communications ~Dec 2023.",
+  "summary": "Toowoomba/Queensland telco/ISP (CONNECTED AUSTRALIA PTY LTD, ACN 169 830 451; brands Connected Australia, Lemonade Broadband, later Pivit); reportedly acquired by On Q Communications ~Dec 2023, entity still active.",
   "names": [
     {
       "name": "Connected Australia",
@@ -15,24 +15,37 @@
   "events": [
     {
       "kind": "birth",
-      "year": 2015,
-      "date_disp": "2015",
-      "precision": "exact",
-      "details": "Founded 2015."
+      "year": 2014,
+      "date_disp": "by 2014",
+      "precision": "by",
+      "details": "Operating company CONNECTED AUSTRALIA PTY LTD (ABN 90 169 830 451, ACN 169 830 451) registered 29 May 2014; 'Connected Australia' business name from 23 May 2018. Reportedly founded 2015.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=90169830451"
+      ]
     },
     {
-      "kind": "death",
+      "kind": "note",
       "year": 2023,
-      "date_disp": "Dec 2023",
-      "precision": "exact",
-      "details": "Acquired by On Q Communications (~Dec 2023)."
+      "date_disp": "c. 2023",
+      "details": "Reportedly acquired by On Q Communications c.2023; the operating entity CONNECTED AUSTRALIA PTY LTD remains active on ABR and has since added business names LEMONADE BROADBAND (2 May 2024) and Pivit (25 Oct 2025).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=90169830451"
+      ]
+    },
+    {
+      "kind": "note",
+      "details": "ACN misattribution corrected: an earlier version cited CONNECTED GROUP AUSTRALIA PTY LIMITED (ABN 72 112 124 231, ACN 112 124 231). That entity trades as 'Connected Switchgear'/'Connected Cable' (electrical products) and is an unrelated name collision; the telco/ISP's actual entity is CONNECTED AUSTRALIA PTY LTD (ACN 169 830 451), which holds the 'Connected Australia' and 'Lemonade Broadband' business names.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=72112124231",
+        "https://abr.business.gov.au/ABN/View?abn=90169830451"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=72112124231",
-      "label": "ABR: CONNECTED GROUP AUSTRALIA PTY LIMITED ACN 112 124 231"
+      "url": "https://abr.business.gov.au/ABN/View?abn=90169830451",
+      "label": "ABR: CONNECTED AUSTRALIA PTY LTD ACN 169 830 451 (t/a Connected Australia, Lemonade Broadband)"
     }
   ]
 }

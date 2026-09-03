@@ -22,17 +22,21 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "by 2006",
+      "year": 2005,
+      "date_disp": "by 2005",
       "precision": "by",
-      "details": "Absorbed into EFTel (via Lexicon Internet)."
+      "details": "Retail site live through mid-2004; corplink.com.au began 301-redirecting to lexicon.net by Aug 2004 and to w3.eftel.com by Feb 2005 - absorbed into EFTel via Lexicon Internet.",
+      "source": [
+        "https://web.archive.org/web/20040830162705id_/http://www.corplink.com.au/",
+        "https://web.archive.org/web/20050207111630id_/http://www.corplink.com.au/"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
-      "url": "https://web.archive.org/web/2006/http://www.corplink.com.au/",
-      "label": "CorpLink (Wayback 2006)"
+      "url": "https://web.archive.org/web/19980709205302/http://www.corplink.com.au/",
+      "label": "CorpLink (Wayback 9 Jul 1998) — ©1997 APAC Internet Ltd, Melbourne + Brisbane"
     }
   ]
 }

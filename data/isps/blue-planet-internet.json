@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://bluep.com",
-  "summary": "Early FreeBSD-based dialup + hosting ISP (bluep.com, 1996, ACN 160 489 074); defunct.",
+  "summary": "Early FreeBSD-based dialup + hosting ISP (bluep.com, c. 1996); defunct c. 2001.",
   "names": [
     {
       "name": "Blue Planet Internet",
@@ -18,21 +18,42 @@
       "year": 1996,
       "date_disp": "c. 1996",
       "precision": "approx",
-      "details": "Dialup, hosting, Tucows mirror."
+      "details": "Dialup, hosting, Tucows mirror; earliest Wayback capture Apr 1997 (bluep.com).",
+      "source": [
+        "https://web.archive.org/web/19970409001022/http://www.bluep.com/"
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct; substantial homepage through 1999, minimal placeholder by 2000-01, redirect from 2006.",
+      "source": [
+        "https://web.archive.org/web/20010201061500/http://bluep.com/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2012,
+      "date_disp": "2012",
+      "precision": "exact",
+      "details": "BLUE PLANET PTY LTD (ACN 160 489 074) was registered 24 Sep 2012, ~11 years after this ISP was defunct, and is an unrelated later name-collision entity.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=75160489074"
+      ]
     }
   ],
   "refs": [
     {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970409001022/http://www.bluep.com/",
+      "label": "Blue Planet (Wayback 9 Apr 1997)"
+    },
+    {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=75160489074",
-      "label": "ABR: BLUE PLANET PTY LTD ACN 160 489 074"
+      "label": "ABR: BLUE PLANET PTY LTD ACN 160 489 074 (registered 2012; unrelated later entity)"
     }
   ]
 }

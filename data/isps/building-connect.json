@@ -28,7 +28,17 @@
       "year": 2019,
       "date_disp": "May 2019",
       "precision": "exact",
-      "details": "Acquired by Spirit Telecom (May 2019, $300k); team and Western Sydney fixed-wireless network retained."
+      "details": "Acquired by Spirit Telecom (May 2019, $300k); team and Western Sydney fixed-wireless network retained. buildingconnect.com.au served 301 redirects post-acquisition (last 200 capture Nov 2019)."
+    },
+    {
+      "kind": "note",
+      "year": 2014,
+      "date_disp": "2014",
+      "precision": "by",
+      "details": "The earliest Wayback captures of buildingconnect.com.au (from 27 Apr 2014) show an unrelated Perth IT firm, Blue Wire Technologies, not the Sydney telco wholesaler — so those captures do not evidence Building Connect's founding; its own content appears from ~2016.",
+      "source": [
+        "https://web.archive.org/web/20140427223128/http://www.buildingconnect.com.au/"
+      ]
     }
   ],
   "refs": [

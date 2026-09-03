@@ -227,22 +227,6 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 1999,
-      "date_disp": "1999",
-      "notes": "Post-IPO Perth-area acquisition.",
-      "from": "comtech",
-      "to": "iinet",
-      "refs": [
-        {
-          "kind": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/IiNet",
-          "label": "Wikipedia: iiNet acquisition history"
-        }
-      ]
-    },
-    {
-      "type": "acquisition",
-      "arm_label": "100%",
       "year": 2003,
       "date_disp": "2003",
       "notes": "Regional acquisition.",

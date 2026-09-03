@@ -1,10 +1,10 @@
 {
   "name": "Ciphertel",
   "slug": "ciphertel",
-  "birthplace": "Bunbury/Perth, WA",
+  "birthplace": "Bunbury, WA",
   "status": "active",
   "website": "https://ciphertel.com",
-  "summary": "WA licensed carrier and ISP (fixed wireless, microwave and fibre) serving regional Western Australia; Perth-origin, later based in Bunbury; still active (CIPHERTEL PTY LTD, ACN 101 635 563).",
+  "summary": "WA licensed carrier and ISP (fixed wireless, microwave and fibre) serving regional Western Australia; Bunbury-based, registered 2002 as Gateway Internet Services and trading as Ciphertel from 2016; still active (CIPHERTEL PTY LTD, ACN 101 635 563).",
   "names": [
     {
       "name": "Ciphertel",
@@ -16,9 +16,12 @@
     {
       "kind": "birth",
       "year": 2002,
-      "date_disp": "by 2002",
-      "precision": "by",
-      "details": "Perth communications company (SMS/GSM products) from 2002; later a licensed WA carrier ISP."
+      "date_disp": "2002",
+      "precision": "exact",
+      "details": "CIPHERTEL PTY LTD ACN 101 635 563 (ABN 59 101 635 563) active from 8 Aug 2002, Bunbury WA 6230; registered business name GATEWAY INTERNET SERVICES from the same date (8 Aug 2002), with the CIPHERTEL business name added 23 Jun 2016. Later a licensed WA carrier ISP.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=59101635563 (ABN active 08 Aug 2002; business names GATEWAY INTERNET SERVICES from 08 Aug 2002, CIPHERTEL from 23 Jun 2016; WA 6230)"
+      ]
     },
     {
       "kind": "note",

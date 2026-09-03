@@ -18,21 +18,27 @@
       "year": 1996,
       "date_disp": "by Dec 1996",
       "precision": "by",
-      "details": "Dialup/ISDN, hosting, VISP wholesale."
+      "details": "Dialup/ISDN, hosting, VISP wholesale. Earliest Wayback capture 21 Dec 1996 (dot.net.au).",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=dot.net.au"
+      ]
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
+      "year": 2002,
+      "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Focused on Viper billing platform; later defunct."
+      "details": "Retail ISP homepage last captured Jan 2001; dot.net.au began 302-redirecting in 2002 as the firm refocused on the Viper ISP billing platform. The domain was later reused for an unrelated site (live captures 2011-2025).",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=dot.net.au"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
-      "url": "https://web.archive.org/web/2006/http://www.dot.net.au/",
-      "label": "Dot (Wayback 2006)"
+      "url": "https://web.archive.org/web/20010118201700/http://www.dot.net.au/",
+      "label": "Dot Communications (Wayback 18 Jan 2001)"
     }
   ]
 }

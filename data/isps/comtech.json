@@ -1,10 +1,10 @@
 {
   "name": "Comtech",
   "slug": "comtech",
-  "birthplace": "WA",
+  "birthplace": "Albany, WA",
   "status": "inactive",
   "website": "comtech.net.au",
-  "summary": "Perth-area ISP, post-IPO iiNet acquisition.",
+  "summary": "Albany WA regional dialup ISP + community portal (member dialup hours, 'Launch Pad'); operated independently into the early 2020s (COMTECH CORPORATION PTY LTD, ACN 074 915 585).",
   "names": [
     {
       "name": "Comtech",
@@ -18,21 +18,28 @@
       "year": 1996,
       "date_disp": "18 Jul 1996",
       "precision": "exact",
-      "details": "COMTECH CORPORATION PTY LTD ACN 074915585 registered 18 Jul 1996 (Albany WA).",
+      "details": "COMTECH CORPORATION PTY LTD ACN 074 915 585 registered 18 Jul 1996 (Albany WA); ran the comtech.net.au Albany community-ISP portal.",
       "refs": [
         {
           "kind": "official",
           "url": "https://creditorwatch.com.au/credit/profile/074915585",
-          "label": "Comtech Corporation ACN 074915585 \u2014 registered 18 Jul 1996"
+          "label": "Comtech Corporation ACN 074 915 585 \u2014 registered 18 Jul 1996"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/20020331121350/http://www.comtech.net.au/"
       ]
     },
     {
       "kind": "death",
-      "year": 1999,
-      "date_disp": "1999",
-      "precision": "exact",
-      "details": "Acquired by iiNet."
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "comtech.net.au ran as an Albany WA dialup ISP / community portal with live homepage captures through 2023, then went dark. The previously-recorded 'acquired by iiNet 1999' is unsupported: Comtech is absent from iiNet's acquisition history and the site operated independently long after 1999.",
+      "source": [
+        "https://web.archive.org/web/20060620060845/http://www.comtech.net.au/",
+        "https://web.archive.org/web/20230222082206/http://www.comtech.net.au/"
+      ]
     }
   ]
 }

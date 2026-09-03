@@ -4,28 +4,41 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://comswest.com.au",
-  "summary": "Perth ISP (Comswest International Pty Ltd, ACN 081 430 426, from 1998); defunct.",
+  "summary": "Perth ISP + corporate IT&T (Comswest International Pty Ltd, ACN 081 430 426, from 1998); ISP division sold to Westnet c.2003.",
   "names": [
     {
       "name": "Comswest",
       "start_year": 1998,
-      "start_disp": "c. 1998"
+      "start_disp": "by 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "c. 1998",
-      "precision": "approx",
-      "details": "ISP + corporate IT&T."
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "Perth ISP + corporate IT&T; earliest Wayback capture of comswest.com.au 5 Dec 1998.",
+      "source": [
+        "https://web.archive.org/web/19981205105409/http://www.comswest.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "ISP division sold to Westnet (later iiNet group) c.2003; the Comswest International Pty Ltd parent continued as corporate IT&T / enterprise services.",
+      "source": [
+        "https://www.itnews.com.au/news/iinet-acquires-westnet-for-81-million-170763"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19981205105409/http://www.comswest.com.au/",
+      "label": "Comswest, Perth (Wayback 5 Dec 1998)"
     }
   ]
 }

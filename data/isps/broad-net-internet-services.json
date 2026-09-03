@@ -4,7 +4,7 @@
   "birthplace": "Burleigh Heads (Gold Coast), QLD",
   "status": "inactive",
   "website": "https://broad.net.au",
-  "summary": "Gold Coast dialup/ADSL ISP (Broadnet Pty Ltd); acquired by Chariot netconnect ~2004-05.",
+  "summary": "Gold Coast dialup + ADSL ISP (Broadnet Pty Ltd); folded into Chariot (netconnect) c. 2007.",
   "names": [
     {
       "name": "Broad Net Internet Services",
@@ -29,10 +29,15 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2004-05",
+      "year": 2007,
+      "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "Acquired by Chariot netconnect (-> TPG)."
+      "details": "Folded into Chariot (netconnect -> TPG). Retail broad.net.au homepage served Broad Net content through Dec 2006; from Feb 2007 the domain returned 301/302 redirects, and by Aug 2008 broad.net.au served Chariot's own homepage.",
+      "source": [
+        "https://web.archive.org/web/20061205023231/http://www.broad.net.au/",
+        "https://web.archive.org/web/20080820041825/http://www.broad.net.au/",
+        "Wayback CDX: Broad Net 200 homepage through Dec 2006, redirects/Chariot content from 2007"
+      ]
     }
   ],
   "refs": [

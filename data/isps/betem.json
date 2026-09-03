@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://betem.com.au",
-  "summary": "Brisbane wireless broadband ISP (Betem Pty Ltd, ABN 40 106 072 500, ~2003-04); defunct.",
+  "summary": "Brisbane wireless broadband ISP (Betem Pty Ltd); active mid-2000s, defunct by 2007.",
   "names": [
     {
       "name": "Betem Wireless Broadband",
@@ -15,17 +15,37 @@
   "events": [
     {
       "kind": "birth",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Wireless broadband."
+      "year": 2005,
+      "date_disp": "by 2005",
+      "precision": "by",
+      "details": "Wireless broadband; earliest Wayback capture 12 Jan 2005 (betem.com.au). Founding may predate the archive.",
+      "source": [
+        "https://web.archive.org/web/20050112023732/http://betem.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2007,
+      "date_disp": "by 2007",
+      "precision": "by",
+      "details": "Defunct; last Wayback capture 2 May 2007 (betem.com.au), no captures after.",
+      "source": [
+        "https://web.archive.org/web/20070502063432/http://betem.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2005,
+      "date_disp": "2005",
+      "precision": "unknown",
+      "details": "ABN 40 106 072 500 previously cited fails the ABN checksum and returns no ABR record (54 106 072 500 for the same ACN digits also returns none); the legal entity behind Betem Pty Ltd is unverified."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050112023732/http://betem.com.au/",
+      "label": "Betem (Wayback 12 Jan 2005)"
     }
   ]
 }
