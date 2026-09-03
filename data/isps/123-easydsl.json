@@ -4,28 +4,39 @@
   "birthplace": "Surry Hills (Sydney), NSW",
   "status": "inactive",
   "website": "https://123-easydsl.com",
-  "summary": "ADSL-only ISP (17 Chapman St, Surry Hills; ABN 97 562 994 794, ~2003); defunct by 2006.",
+  "summary": "ADSL-only ISP run as a sole trader (Anthony R James, Surry Hills NSW 2010; ABN 97 562 994 794); traded Oct 2003, ceased Dec 2004; website lingered into early 2006.",
   "names": [
     {
       "name": "123 easyDSL",
       "start_year": 2003,
-      "start_disp": "c. 2003"
+      "start_disp": "Oct 2003",
+      "source": [
+        "ABR ABN history: trading name '123 easyDSL', ABN 97 562 994 794, active 01 Oct 2003 - https://abr.business.gov.au/AbnHistory/View?id=97562994794"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "ADSL-only ISP."
+      "date_disp": "Oct 2003",
+      "precision": "exact",
+      "details": "ADSL-only ISP; sole trader Anthony R James. ABN, GST and '123 easyDSL' trading name all active from 01 Oct 2003 (first Wayback capture 29 Mar 2004).",
+      "source": [
+        "https://abr.business.gov.au/AbnHistory/View?id=97562994794",
+        "https://web.archive.org/web/20040329000000*/123-easydsl.com"
+      ]
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "by 2006",
-      "precision": "by",
-      "details": "Defunct."
+      "year": 2004,
+      "date_disp": "c. 2004–2005",
+      "precision": "approx",
+      "details": "ABN, GST registration and trading name cancelled 20 Dec 2004 (ceased trading); website last archived Feb 2006.",
+      "source": [
+        "ABR ABN history: cancelled 20 Dec 2004 - https://abr.business.gov.au/AbnHistory/View?id=97562994794",
+        "Last Wayback capture Feb 2006: https://web.archive.org/web/20060205000000*/123-easydsl.com"
+      ]
     }
   ]
 }

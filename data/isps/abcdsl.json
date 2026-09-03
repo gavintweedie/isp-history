@@ -9,23 +9,32 @@
     {
       "name": "ABCdsl.net",
       "start_year": 2002,
-      "start_disp": "2002"
+      "start_disp": "c. 2002",
+      "source": [
+        "Earliest Wayback capture 6 Feb 2003 (a redirect); 2002 launch is plausible but predates the earliest archived page: http://web.archive.org/cdx/search/cdx?url=abcdsl.com.au"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2002,
-      "date_disp": "2002",
-      "precision": "exact",
-      "details": "ADSL brand of Alias Internet."
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "ADSL brand of Alias Internet. Earliest Wayback capture is 6 Feb 2003 (a 302 redirect); the 2002 launch and the Alias Internet attribution are not independently confirmed by archived content.",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=abcdsl.com.au"
+      ]
     },
     {
       "kind": "death",
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct as an ADSL ISP by the mid-2000s; by 18 Jul 2008 abcdsl.com.au was just an Apache directory-index of CMS demo folders (b2/, mambo/, wordpress/, xoops/), no longer a live ISP.",
+      "source": [
+        "https://web.archive.org/web/20080718201959id_/http://abcdsl.com.au/"
+      ]
     }
   ]
 }

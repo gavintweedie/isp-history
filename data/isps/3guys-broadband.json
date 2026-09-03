@@ -4,12 +4,15 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://3guys.com.au",
-  "summary": "Regional dialup + ADSL + hosting ISP (community/sport-club focus, ~2005); defunct.",
+  "summary": "Dialup + ADSL + hosting ISP with a community/sport-club focus ('Community Net'); only live capture 2006, defunct as an ISP by ~2007–2008 (domain later became an unrelated recipe site).",
   "names": [
     {
       "name": "3Guys Broadband Internet",
       "start_year": 2005,
-      "start_disp": "c. 2005"
+      "start_disp": "c. 2005",
+      "source": [
+        "Birth inferred; earliest Wayback capture is 3 Feb 2006 (no launch date on page): https://web.archive.org/web/20060203134640/http://3guys.com.au/"
+      ]
     }
   ],
   "events": [
@@ -18,14 +21,21 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Dialup, ADSL, hosting."
+      "details": "Dialup, ADSL, hosting; community/sport-club focus ('Community Net'). Birth year inferred (low confidence) — earliest Wayback capture is 3 Feb 2006 with no launch date shown.",
+      "source": [
+        "https://web.archive.org/web/20060203134640/http://3guys.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2013,
-      "date_disp": "by 2013",
-      "precision": "by",
-      "details": "Defunct."
+      "year": 2008,
+      "date_disp": "c. 2007–2008",
+      "precision": "approx",
+      "details": "Only functioning ISP capture is Feb 2006; site broken (HTTP 500) by Feb 2007; homepage was a 302 redirect to a default IIS/ASP page 2008–2012; domain repurposed as 'In2Recipes' WordPress site by 2013.",
+      "source": [
+        "Abandoned default IIS redirect 2008: https://web.archive.org/web/20080627010005/http://3guys.com.au/",
+        "Unrelated In2Recipes site by 2013: https://web.archive.org/web/20130430021213/http://3guys.com.au/"
+      ]
     }
   ]
 }

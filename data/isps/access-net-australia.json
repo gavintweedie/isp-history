@@ -9,7 +9,10 @@
     {
       "name": "Access Net Australia",
       "start_year": 1994,
-      "start_disp": "1994"
+      "start_disp": "1994",
+      "source": [
+        "1998 homepage: 'Based in Melbourne, and formed in 1994 Access Net Australia … provides internet services': https://web.archive.org/web/19980201053239id_/http://www.access.net.au/"
+      ]
     }
   ],
   "events": [
@@ -18,14 +21,20 @@
       "year": 1994,
       "date_disp": "1994",
       "precision": "exact",
-      "details": "Business dialup, cohosting, national local-call dialup."
+      "details": "Business dialup, cohosting, national local-call dialup. 1998 homepage states 'Based in Melbourne, and formed in 1994'.",
+      "source": [
+        "https://web.archive.org/web/19980201053239id_/http://www.access.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2014,
       "date_disp": "c. 2013-15",
       "precision": "approx",
-      "details": "Wound down; no acquisition found."
+      "details": "Retail ISP wound down; no acquisition found. Exact wind-down date is uncertain — the access.net.au domain persisted with Wayback captures continuing into the 2020s.",
+      "source": [
+        "Wayback CDX for access.net.au (captures continue past 2013-15): http://web.archive.org/cdx/search/cdx?url=access.net.au"
+      ]
     }
   ],
   "refs": [

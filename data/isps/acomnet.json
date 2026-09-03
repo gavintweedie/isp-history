@@ -9,7 +9,10 @@
     {
       "name": "AcomNet",
       "start_year": 2000,
-      "start_disp": "17 Sep 2000"
+      "start_disp": "17 Sep 2000",
+      "source": [
+        "Earliest Wayback capture 17 Sep 2000 (AcomNet Pty Ltd): https://web.archive.org/web/20000917004800id_/http://www.acomnet.com.au/"
+      ]
     }
   ],
   "events": [
@@ -19,6 +22,9 @@
       "date_disp": "17 Sep 2000",
       "precision": "exact",
       "details": "Earliest Wayback capture 17 Sep 2000 (acomnet.com.au); Hornsby NSW ISP.",
+      "source": [
+        "https://web.archive.org/web/20000917004800id_/http://www.acomnet.com.au/"
+      ],
       "refs": [
         {
           "kind": "archive",
@@ -32,7 +38,10 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 2001)."
+      "details": "Last AcomNet-branded capture is the 2000 homepage; by 2003 the domain was repurposed by an unrelated 'TECH 2U Internet Services' (under construction), so AcomNet as an ISP was gone by ~2001–2002.",
+      "source": [
+        "Domain repurposed to TECH 2U by 2003: https://web.archive.org/web/20040103064501id_/http://www.acomnet.com.au/"
+      ]
     }
   ],
   "refs": [

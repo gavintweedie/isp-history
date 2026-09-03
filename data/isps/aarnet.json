@@ -7,20 +7,26 @@
   "names": [
     {
       "name": "AARNet",
-      "start_year": 1990,
-      "start_disp": "1990"
+      "start_year": 1989,
+      "start_disp": "1989",
+      "source": [
+        "AARNet's own 2000 homepage: 'In 1989 the first generation of the AARNet network introduced the Internet to Australia': https://web.archive.org/web/20000301150810id_/http://www.aarnet.edu.au/"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1990,
-      "date_disp": "1990",
+      "year": 1989,
+      "date_disp": "1989",
       "precision": "exact",
-      "details": "Australia's first internet service provider, serving the academic/research community."
+      "details": "Established 1989 as Australia's first national IP network, introducing the Internet to Australia for the academic/research community (backbone operational ~1990). AARNet Pty Ltd is the not-for-profit operator (shareholders: Australian universities + CSIRO).",
+      "source": [
+        "https://web.archive.org/web/20000301150810id_/http://www.aarnet.edu.au/"
+      ]
     }
   ],
-  "summary": "Australia's Academic and Research Network \u2014 provides internet services to universities and research institutions (AARNET PTY LTD, ACN 084 540 518).",
+  "summary": "Australia's Academic and Research Network \u2014 established 1989 as Australia's first national IP network; provides internet services to universities and research institutions (AARNET PTY LTD, ACN 084 540 518).",
   "refs": [
     {
       "kind": "gov",

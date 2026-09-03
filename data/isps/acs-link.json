@@ -9,7 +9,10 @@
     {
       "name": "ACS-link",
       "start_year": 1994,
-      "start_disp": "17 Mar 1994"
+      "start_disp": "17 Mar 1994",
+      "source": [
+        "Tom Worthington (ACS), 'ACS Data Highway Launch 17 Mar 1994': http://www.tomw.net.au/irc/irc12c.html"
+      ]
     }
   ],
   "events": [
@@ -19,6 +22,10 @@
       "date_disp": "17 Mar 1994",
       "precision": "exact",
       "details": "Inaugurated 17 Mar 1994 at National Press Club by David Lamont (ACT Legislative Assembly); service commenced 8 Nov 1994 (4,000 members online).",
+      "source": [
+        "http://www.tomw.net.au/irc/irc12c.html",
+        "http://www.tomw.net.au/acsintpr.html"
+      ],
       "refs": [
         {
           "kind": "archive",
@@ -33,11 +40,22 @@
       ]
     },
     {
+      "kind": "note",
+      "details": "The acslink.net.au website and network were operated by Pegasus Networks Communications Pty Ltd (a Brisbane APC-affiliated ISP); every Wayback capture 1996–1999 presents ACSLink as a Pegasus 'member network' rather than a directly ACS-run service.",
+      "source": [
+        "https://web.archive.org/web/19961227082329id_/http://www.acslink.net.au/",
+        "https://web.archive.org/web/19980425090143id_/http://www.acslink.net.au/"
+      ]
+    },
+    {
       "kind": "death",
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "source": [
+        "Wayback CDX for acslink.net.au: http://web.archive.org/cdx/search/cdx?url=acslink.net.au"
+      ]
     }
   ]
 }

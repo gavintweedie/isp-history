@@ -4,28 +4,39 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://123.net.au",
-  "summary": "Budget dialup + ADSL ISP (~2002, unlimited $15/mo dialup); defunct.",
+  "summary": "Budget Melbourne dialup + ADSL ISP (unlimited $15/mo dialup, Melbourne Metro); traded from ~2003 through 2009, gone by ~2010 (domain later reused by unrelated registrar Crazy Domains from ~2014).",
   "names": [
     {
       "name": "123 Internet",
-      "start_year": 2002,
-      "start_disp": "c. 2002"
+      "start_year": 2003,
+      "start_disp": "c. 2003",
+      "source": [
+        "Earliest Wayback capture 2003 with © 2003 footer: https://web.archive.org/web/20030607042546/http://www.123.net.au/"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2003,
+      "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Budget dialup/ADSL."
+      "details": "Budget dialup/ADSL, Melbourne Metro ('unlimited high speed dial-up for only $15 per month'). Earliest capture 7 Jun 2003, footer © 2003 (2002 plausible but undocumented).",
+      "source": [
+        "https://web.archive.org/web/20030607042546/http://www.123.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2010,
+      "date_disp": "by 2010",
+      "precision": "by",
+      "details": "Retail ISP still live through 2009; homepage replaced by a default cPanel placeholder page dated 14 Oct 2010 (captured 2011–2013). Domain later reused from ~2014 by unrelated registrar Crazy Domains.",
+      "source": [
+        "Still an ISP in 2009: https://web.archive.org/web/20090121013316/http://www.123.net.au/",
+        "Default cPanel placeholder (created Oct 2010): https://web.archive.org/web/20110205093346/http://123.net.au/",
+        "Unrelated Crazy Domains reseller from 2014: https://web.archive.org/web/20140114000004/http://123.net.au/"
+      ]
     }
   ]
 }
