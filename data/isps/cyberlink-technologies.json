@@ -26,6 +26,17 @@
       "date_disp": "c. 2004",
       "precision": "approx",
       "details": "Defunct."
+    },
+    {
+      "kind": "note",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "by",
+      "details": "cyberlink.com.au captures 1996-2005 show CYBERlink Computing Services Pty Ltd running an \"Australian Marketing Forum\" (real estate/tourism/B&B directory), not the described Perth dialup/satellite ISP; the domain existed by Nov 1996. Attribution of this domain to the Perth ISP is unverified.",
+      "source": [
+        "https://web.archive.org/web/19961101201256id_/http://www.cyberlink.com.au/",
+        "https://web.archive.org/web/20040729232553id_/http://www.cyberlink.com.au/"
+      ]
     }
   ]
 }

@@ -1,10 +1,13 @@
 {
   "name": "CSiS.net.au",
   "slug": "csis-net-au",
-  "birthplace": "Australia",
+  "birthplace": "Sutherland Shire (Sydney), NSW",
   "status": "inactive",
   "website": "https://csis.net.au",
-  "summary": "ISP; no detailed records found.",
+  "summary": "Sutherland Shire computer shop \"Computing Success\" with a dialup + email + Net-café ISP arm (csis.net.au); retail ISP gone by ~2001, domain later reused.",
+  "aliases": [
+    "Computing Success"
+  ],
   "names": [
     {
       "name": "CSiS.net.au",
@@ -18,14 +21,21 @@
       "year": 1998,
       "date_disp": "by 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1998)."
+      "details": "\"Computing Success Online\" (Sutherland Shire, NSW) computer shop offering dialup access, email and a Net café; earliest capture 12 Dec 1998.",
+      "source": [
+        "https://web.archive.org/web/19981212024128id_/http://www.csis.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "2007",
-      "precision": "exact",
-      "details": "Last active capture of csis.net.au (Feb 2007)."
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Full \"Computing Success Online\" ISP site (dialup/email/Net café) last captured Feb 2000; reduced to small placeholder pages thereafter; domain later reused as an IT-services site (\"Savings Thru Technology\", 2007-08) then a template page (by 2022).",
+      "source": [
+        "https://web.archive.org/web/20000207200756id_/http://csis.net.au/",
+        "https://web.archive.org/web/20070829003346id_/http://csis.net.au/"
+      ]
     }
   ],
   "refs": [

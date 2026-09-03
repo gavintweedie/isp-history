@@ -3539,6 +3539,38 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
+      "year": 2004,
+      "date_disp": "by 2004",
+      "notes": "Connect Direct Internet (Rye, VIC) absorbed into Chariot netconnect; cdi.com.au read 'now part of Chariot' (©2004 Chariot Netconnect).",
+      "from": "connect-direct",
+      "to": "chariot",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050829111357/http://www.cdi.com.au/",
+          "label": "CDI 'now part of Chariot' (Wayback 29 Aug 2005)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "notes": "Alphalink (Melbourne) customers folded into Chariot; alphalink.net.au 301-redirecting to chariot.net.au by Sep 2009.",
+      "from": "alphalink",
+      "to": "chariot",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110205111002/http://alphalink.net.au/",
+          "label": "Wayback 5 Feb 2011: alphalink.net.au 301 redirect to chariot.net.au"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
       "year": 2003,
       "date_disp": "by Jan 2003",
       "notes": "Newave merged into Chariot Internet (domain redirect).",

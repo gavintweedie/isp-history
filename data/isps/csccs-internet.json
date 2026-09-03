@@ -32,7 +32,11 @@
       "year": 1999,
       "date_disp": "1999",
       "precision": "exact",
-      "details": "Last active capture of cs.net.au (Apr 1999); parked from 2004."
+      "details": "Last CSCCS retail capture Apr 1999 (\"Canberra based Internet Service Provider\", Calwell ACT); by Nov 2004 cs.net.au was reused by an unrelated IT firm (computer-support.net), not parked.",
+      "source": [
+        "https://web.archive.org/web/19990125085304id_/http://cs.net.au/",
+        "https://web.archive.org/web/20041129233438id_/http://cs.net.au/"
+      ]
     }
   ],
   "refs": [
