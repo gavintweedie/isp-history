@@ -4,7 +4,7 @@
   "birthplace": "Ballarat, VIC",
   "status": "inactive",
   "website": "https://netconnect.com.au",
-  "summary": "Ballarat ISP (NetConnect Communications Pty Ltd, ACN 065 871 927, est. 1994). Its principals joined Chariot Limited by FY2003-04 (2004 Annual Report lists NetConnect's former CEO Ian as Chariot's General Manager and founding shareholder Gary at Chariot; Ballarat listed among Chariot's offices). The 'Chariot netconnect' brand used from c. 2004 derives from this NetConnect lineage; netconnect.com.au redirected to chariot.net.au by 2010 (brand's last use).",
+  "summary": "Ballarat ISP (NetConnect Communications Pty Ltd, ACN 065 871 927, est. 1994). Its principals joined Chariot Limited by FY2003-04 (2004 Annual Report lists NetConnect's former CEO Ian as Chariot's General Manager and founding shareholder Gary at Chariot; Ballarat listed among Chariot's offices). The 'Chariot netconnect' brand used from c. 2004 derives from this NetConnect lineage; netconnect.com.au served Chariot's Ballarat/VIC page by Apr 2006 and redirected to vic.chariot.net.au from Jan 2007 (brand's last use).",
   "names": [
     {
       "name": "Ballarat NetConnect",
@@ -19,6 +19,10 @@
       "date_disp": "1994",
       "precision": "approx",
       "details": "NetConnect Communications Pty Ltd ACN 065871927 incorporated 1994; newsletter Dec 1997 'Ballarat is now 56K!'; earliest capture 1 Feb 1998.",
+      "source": [
+        "https://web.archive.org/web/19980201185145id_/http://www.netconnect.com.au/",
+        "ABR: no ABN on record for ACN 065 871 927 (old company, not listed on ABN Lookup)"
+      ],
       "refs": [
         {
           "kind": "official",
@@ -37,7 +41,7 @@
       "year": 2004,
       "date_disp": "c. 2004 (principals joined Chariot; brand 'Chariot netconnect')",
       "precision": "approx",
-      "details": "Absorbed into Chariot Limited: NetConnect's former CEO Ian is listed as Chariot General Manager and founding shareholder Gary at Chariot in the FY2003-04 Annual Report (Executive Team), with Ballarat among Chariot's offices. The 'Chariot netconnect' brand (in use by c. 2004-05) derives from this lineage. The domain redirect of netconnect.com.au to chariot.net.au observed by 2010 marks the brand's last use, not the acquisition.",
+      "details": "Absorbed into Chariot Limited: NetConnect's former CEO Ian is listed as Chariot General Manager and founding shareholder Gary at Chariot in the FY2003-04 Annual Report (Executive Team), with Ballarat among Chariot's offices. The 'Chariot netconnect' brand (in use by c. 2004-05) derives from this lineage. By Apr 2006 netconnect.com.au already served Chariot's Ballarat/VIC page ('© Chariot', ABN 31 088 377 860); it 302-redirected to vic.chariot.net.au by Jan 2007 and 301-redirected to www.chariot.net.au by 2010 (brand's last use), not the acquisition.",
       "refs": [
         {
           "kind": "archive",
@@ -48,7 +52,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/19980201185145/http://www.netconnect.com.au/",
           "label": "Ballarat NetConnect (Wayback 1 Feb 1998)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060414010921/http://netconnect.com.au/",
+          "label": "netconnect.com.au serving Chariot Ballarat/VIC page, '© Chariot' ABN 31 088 377 860 (Wayback 14 Apr 2006)"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/20060414010921id_/http://netconnect.com.au/",
+        "netconnect.com.au 302->vic.chariot.net.au (Wayback 10 Jan 2007); 301->www.chariot.net.au (Wayback 19 Aug 2010)"
       ]
     }
   ],

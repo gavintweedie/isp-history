@@ -4,12 +4,15 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://amnet.com.au",
-  "summary": "Perth ISP/IT group (Amnet Limited; Amnet Internet Services, Amnet IT Services, Amnet IX, Ezsoftwrite); acquired by Amcom 1 Oct 2003; brand faded into Vocus after its 2015 acquisition of Amcom.",
+  "summary": "Perth ISP/IT group (Amnet Limited: Amnet Internet Services, Amnet IT Services, Amnet IX, Ezsoftwrite); acquired by Amcom 1 Oct 2003, later a Vocus brand via the 2015 Amcom merger; the Amnet Broadband domain remains live (AMNET BROADBAND PTY LTD, ACN 092 472 350).",
   "names": [
     {
       "name": "AmNet",
       "start_year": 2000,
-      "start_disp": "13 Apr 2000"
+      "start_disp": "13 Apr 2000",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=38092472350 (AMNET BROADBAND PTY LTD, formerly AMNET IT SERVICES PTY LTD, ACN 092 472 350, ABN active 13 Apr 2000; business name 'AMNET' from 5 Feb 2014)"
+      ]
     }
   ],
   "events": [
@@ -18,21 +21,35 @@
       "year": 2000,
       "date_disp": "13 Apr 2000",
       "precision": "exact",
-      "details": "AMNET IT SERVICES PTY LTD ACN 092472350 registered 13 Apr 2000; ABN 38 092472350 active 13 Apr 2000; earliest website capture 13 Jun 2000.",
+      "details": "AMNET IT SERVICES PTY LTD (ACN 092 472 350, ABN 38 092 472 350) registered 13 Apr 2000, later renamed AMNET BROADBAND PTY LTD; earliest amnet.com.au Wayback capture 25 Sep 2000.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=38092472350 (ABN active 13 Apr 2000)",
+        "https://web.archive.org/cdx/search/cdx?url=amnet.com.au&output=json (earliest capture 2000-09-25)"
+      ],
       "refs": [
         {
           "kind": "official",
           "url": "https://abr.business.gov.au/ABN/View?abn=38092472350",
-          "label": "ABN Lookup: AMNET IT SERVICES PTY LTD \u2014 Registered 13 Apr 2000"
+          "label": "ABN Lookup: AMNET BROADBAND PTY LTD (formerly AMNET IT SERVICES PTY LTD) \u2014 Registered 13 Apr 2000"
         }
       ]
     },
     {
       "kind": "death",
       "year": 2003,
-      "date_disp": "Oct 2003",
+      "date_disp": "1 Oct 2003",
       "precision": "exact",
-      "details": "Amcom acquired the Amnet group (A$2.14M)."
+      "details": "Amcom Telecommunications acquired the Amnet group (A$2.14M); independent Amnet ends here. Not acquired by iiNet."
+    },
+    {
+      "kind": "note",
+      "year": 2009,
+      "date_disp": "Mar 2009",
+      "precision": "approx",
+      "details": "amnet.com.au served an Amcom-branded 'Amnet BroadBand' Perth ADSL site into early 2009, then began returning 301 redirects from Mar 2009; the domain and brand later passed to Vocus (2015 Amcom merger) and amnet.com.au remains a live Vocus retail brand in 2026.",
+      "source": [
+        "https://web.archive.org/cdx/search/cdx?url=amnet.com.au&output=json (200 pages Jan-Feb 2009 mentioning Amcom/Amnet BroadBand/Perth; 301 redirects from 2009-03-13; live 200 pages 2023-2026)"
+      ]
     }
   ],
   "refs": [

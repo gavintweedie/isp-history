@@ -9,7 +9,12 @@
     {
       "name": "Bandwidth Unlimited",
       "start_year": 2003,
-      "start_disp": "5 May 2003"
+      "start_disp": "5 May 2003",
+      "end_year": 2005,
+      "end_disp": "3 Nov 2005",
+      "source": [
+        "https://web.archive.org/web/20060411164816id_/http://www.bu.net.au/"
+      ]
     }
   ],
   "events": [
@@ -23,9 +28,12 @@
     {
       "kind": "death",
       "year": 2005,
-      "date_disp": "Nov 2005",
+      "date_disp": "3 Nov 2005",
       "precision": "exact",
-      "details": "Taken over by CBIT Internet (3 Nov 2005)."
+      "details": "Taken over by CBIT Internet: site notice reads 'CBIT Internet have taken over the operations from November 3rd 2005'; existing customers referred to CBIT's Paul Hampson (paul@cbit.com.au).",
+      "source": [
+        "https://web.archive.org/web/20060411164816id_/http://www.bu.net.au/"
+      ]
     }
   ],
   "refs": [

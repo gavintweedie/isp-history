@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://ausconnect.com.au",
-  "summary": "Perth web consultancy/ISP (Ausconnect Pty Ltd, ACN 009 336 190); name history EEPO Pty Ltd -> 'Aussie Connect' (2001) -> Ausconnect (Dec 2002); EEPO was an Ausconnect brand (2005).",
+  "summary": "Perth web consultancy/ISP (Ausconnect Pty Ltd, ACN 009 336 190); name history EEPO Pty Ltd -> 'Aussie Connect' (2001) -> Ausconnect (Dec 2002); site gone by ~2007, ausconnect.com.au later a migration consultancy then parked.",
   "names": [
     {
       "name": "Ausconnect",
@@ -22,10 +22,36 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
-      "precision": "approx",
-      "details": "Wound down; no records after ~2010."
+      "year": 2007,
+      "date_disp": "by 2007",
+      "precision": "by",
+      "details": "Retail web-consultancy site gone; by May 2007 www.ausconnect.com.au served only a bare Apache directory index (cgi-bin, 'developmentsink', phpinfo), no homepage.",
+      "source": [
+        "https://web.archive.org/web/20070513053429/http://www.ausconnect.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2016,
+      "date_disp": "by 2016",
+      "precision": "by",
+      "details": "ausconnect.com.au later ran as 'AusConnect Migration Consultants' (online migration/immigration consultancy) by 2016, then parked at Crazy Domains by 2018.",
+      "source": [
+        "https://web.archive.org/web/20160109165247/http://www.ausconnect.com.au/",
+        "https://web.archive.org/web/20180224050057/http://ausconnect.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20070513053429/http://www.ausconnect.com.au/",
+      "label": "ausconnect.com.au — bare directory index (Wayback 13 May 2007)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20160109165247/http://www.ausconnect.com.au/",
+      "label": "AusConnect Migration Consultants (Wayback 9 Jan 2016)"
     }
   ]
 }

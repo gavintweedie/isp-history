@@ -20,7 +20,10 @@
       "year": 2012,
       "date_disp": "Apr 2012",
       "precision": "exact",
-      "details": "Founded April 2012 by Rob Appel (ex-OzEmail; founder of Chaos.com); first purely cloud-based ISP and first to offer unlimited NBN plans (May 2013); signed as first reseller of the LBNCo/Service Elements FTTP networks (Aug 2013); first to launch TPG FTTB (Mar 2015)."
+      "details": "Founded April 2012 by Rob Appel (ex-OzEmail; founder of Chaos.com); first purely cloud-based ISP and first to offer unlimited NBN plans (May 2013); signed as first reseller of the LBNCo/Service Elements FTTP networks (Aug 2013); first to launch TPG FTTB (Mar 2015).",
+      "source": [
+        "https://en.wikipedia.org/wiki/AusBBS"
+      ]
     },
     {
       "kind": "death",

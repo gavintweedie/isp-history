@@ -4,12 +4,15 @@
   "birthplace": "Bondi Junction (Sydney), NSW",
   "status": "inactive",
   "website": "https://asiaconnect.com.au",
-  "summary": "Sydney dialup + permanent access ISP aimed at Asian business/private users; dead ~2001 (ASIA CONNECT PTY LTD, ACN 678 861 839).",
+  "summary": "Sydney dialup + permanent access ISP aimed at Asian business/private users; frameset splash abandoned after 2001, gone by ~2002.",
   "names": [
     {
       "name": "Asia Connect",
       "start_year": 2001,
-      "start_disp": "17 Apr 2001"
+      "start_disp": "17 Apr 2001",
+      "source": [
+        "https://web.archive.org/web/20010417002359/http://www.asiaconnect.com.au/ (frameset splash, admin Jae Lee)"
+      ]
     }
   ],
   "aliases": [
@@ -32,10 +35,13 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2002,
+      "date_disp": "c. 2001-02",
       "precision": "approx",
-      "details": "Last capture Apr 2001."
+      "details": "Frameset splash last changed 2001; thereafter an identical placeholder frameset was captured unchanged through 2006 (site abandoned, not maintained).",
+      "source": [
+        "https://web.archive.org/web/20040206103053/http://www.asiaconnect.com.au/ (identical placeholder, digest unchanged 2002-2006)"
+      ]
     }
   ],
   "refs": [
@@ -47,7 +53,7 @@
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=31678861839",
-      "label": "ABR: ASIA CONNECT PTY LTD ACN 678 861 839"
+      "label": "ABR: ASIA CONNECT PTY LTD ACN 678 861 839 (ABN active from 5 Jul 2024, NSW 2137 — a later same-name company, not the 2001 ISP)"
     }
   ]
 }

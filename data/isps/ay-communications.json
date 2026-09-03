@@ -19,10 +19,13 @@
       "date_disp": "20 Jan 1998",
       "precision": "exact",
       "details": "Sydney dialup/hosting ISP + Linux consulting; earliest Wayback capture 20 Jan 1998 (\u00a91997 footer).",
+      "source": [
+        "https://web.archive.org/web/19980120114129/http://www.ay.com.au/"
+      ],
       "refs": [
         {
           "kind": "archive",
-          "url": "https://web.archive.org/web/19980120000000/http://www.ay.com.au/",
+          "url": "https://web.archive.org/web/19980120114129/http://www.ay.com.au/",
           "label": "AY Communications (Wayback 20 Jan 1998)"
         }
       ]
@@ -32,7 +35,10 @@
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Last capture Nov 2008."
+      "details": "Last capture Nov 2008.",
+      "source": [
+        "https://web.archive.org/web/20081119234003/http://www.ay.com.au/"
+      ]
     }
   ],
   "refs": [

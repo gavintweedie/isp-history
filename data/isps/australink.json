@@ -9,7 +9,11 @@
     {
       "name": "Australink",
       "start_year": 1999,
-      "start_disp": "c. 1999"
+      "start_disp": "c. 1999",
+      "source": [
+        "ACN 078 167 192 (ASIC registration in the 078 range implies incorporation c. 1997)",
+        "https://web.archive.org/web/20020331055209/http://www.australink.com.au/"
+      ]
     }
   ],
   "events": [
@@ -18,14 +22,27 @@
       "year": 1999,
       "date_disp": "c. 1999",
       "precision": "approx",
-      "details": "Telecom/ISP services."
+      "details": "Gold Coast telecom/ISP; ACN 078 167 192 implies incorporation c. 1997, but earliest Wayback capture is only 31 Mar 2002 (australink.com.au).",
+      "source": [
+        "https://web.archive.org/web/20020331055209/http://www.australink.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2004,
       "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct as an ISP c. 2004; australink.com.au later reused (captures continue to 2011 and beyond).",
+      "source": [
+        "https://web.archive.org/web/20110410160303/http://www.australink.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020331055209/http://www.australink.com.au/",
+      "label": "Australink (Wayback 31 Mar 2002)"
     }
   ]
 }

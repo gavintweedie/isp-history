@@ -16,9 +16,12 @@
     {
       "kind": "birth",
       "year": 2017,
-      "date_disp": "2017",
+      "date_disp": "Jun 2017",
       "precision": "exact",
-      "details": "Axecom Pty Ltd incorporated June 2017."
+      "details": "AXECOM PTY LTD registered 26 Jun 2017 (ABN/GST/ACN), Melbourne VIC.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=91620009350"
+      ]
     }
   ],
   "refs": [

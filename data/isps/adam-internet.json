@@ -18,7 +18,10 @@
       "year": 1992,
       "date_disp": "1992",
       "precision": "exact",
-      "details": "Founded as an ISP (origins: Adelaide Amiga Club 1986, BBS 1987, commercial TBBS 1989)."
+      "details": "Founded as an ISP (origins: Adelaide Amiga Club 1986, BBS 1987, commercial TBBS 1989); founding predates the archive, earliest Wayback capture 20 Dec 1996.",
+      "source": [
+        "https://web.archive.org/web/19961220002215/http://adam.com.au/"
+      ]
     },
     {
       "kind": "death",

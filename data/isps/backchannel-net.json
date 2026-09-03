@@ -15,16 +15,24 @@
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Earliest Wayback capture of backchannel.net.au."
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Small ISP; founding date unverified. backchannel.net.au has no Wayback captures (CDX empty); known only from former owner Darren Worley's attestation that it was acquired by IDEAL Internet in 1999.",
+      "source": [
+        "Wayback CDX for backchannel.net.au returns no captures (empty)",
+        "Owner attestation (Darren Worley)"
+      ]
     },
     {
       "kind": "death",
       "year": 1999,
       "date_disp": "1999",
-      "precision": "exact",
-      "details": "Acquired by IDEAL Internet."
+      "precision": "approx",
+      "details": "Acquired by IDEAL Internet (ideal.net.au; Ideal Internet Services, operating since 1995) in 1999, per former owner Darren Worley; date not independently verifiable.",
+      "source": [
+        "Owner attestation (Darren Worley)",
+        "https://web.archive.org/web/19990125090217id_/http://ideal.net.au/"
+      ]
     }
   ]
 }

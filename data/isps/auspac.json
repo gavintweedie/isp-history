@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "auspac.com.au",
-  "summary": "One of Australia's earliest ISPs (online from ~1990); acquired by MCI WorldCom 1998; brand defunct (AUSPAC CAPITAL PTY LTD, ACN 688 684 988).",
+  "summary": "One of Australia's earliest ISPs (online from ~1990); acquired by MCI WorldCom 1998; brand defunct.",
   "names": [
     {
       "name": "Auspac",
@@ -28,11 +28,5 @@
       "details": "Acquired by MCI WorldCom."
     }
   ],
-  "refs": [
-    {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=80688684988",
-      "label": "ABR: AUSPAC CAPITAL PTY LTD ACN 688 684 988"
-    }
-  ]
+  "refs": []
 }

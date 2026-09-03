@@ -16,9 +16,13 @@
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "1996",
+      "date_disp": "Jun 1996",
       "precision": "exact",
-      "details": "Founded June 1996; sister company of WAData."
+      "details": "Founded June 1996 with 30 33.6K modems; began as the ISP arm of sister computer/hardware company WAData; Perth WA; dialup + hosting; WAIA member and TUCOWS mirror.",
+      "source": [
+        "https://web.archive.org/web/20040902040024/http://www.arachnet.com.au/about/company_profile/",
+        "Arachnet company profile (Wayback 2 Sep 2004): 'From a very small beginning in June 1996 with 30 33.6K modems ... Arachnet began as an ISP when WAData - our sister Computer and Hardware company - first needed Internet access'"
+      ]
     },
     {
       "kind": "death",

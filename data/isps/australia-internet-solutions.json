@@ -2,9 +2,9 @@
   "name": "Australia Internet Solutions",
   "slug": "australia-internet-solutions",
   "birthplace": "Melbourne, VIC",
-  "status": "inactive",
+  "status": "active",
   "website": "https://ains.net.au",
-  "summary": "Melbourne dialup/ISDN + leased line/frame relay to 2Mb + hosting + internet cafe ISP; POPs Melbourne, Sydney, Perth; dead ~2006.",
+  "summary": "Melbourne dialup/ISDN + leased line/frame relay to 2Mb + hosting + internet cafe ISP; POPs Melbourne, Sydney, Perth; ISP brand wound down mid-2000s but company still trading (AINS Telecom, Palladium IT) (AUSTRALIA INTERNET SOLUTIONS PTY LTD, ACN 076 598 582).",
   "names": [
     {
       "name": "Australia Internet Solutions",
@@ -28,11 +28,16 @@
       ]
     },
     {
-      "kind": "death",
+      "kind": "note",
       "year": 2006,
       "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Last capture Aug 2006."
+      "details": "ains.net.au ISP site redirected to ains.com.au from c. 2003; last standalone capture Aug 2006. Company AUSTRALIA INTERNET SOLUTIONS PTY LTD (ACN 076 598 582, Werribee VIC) remains registered, later trading as AINS Telecom (2019) and Palladium IT / Advanced IT Services (2021).",
+      "source": [
+        "https://web.archive.org/web/20030201143800/http://www.ains.net.au/",
+        "https://web.archive.org/web/20060821035625/http://ains.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=59076598582"
+      ]
     }
   ],
   "refs": [

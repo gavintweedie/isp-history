@@ -4,7 +4,7 @@
   "birthplace": "Kalgoorlie, WA",
   "status": "inactive",
   "website": "https://aurum.net.au",
-  "summary": "Kalgoorlie ISP (Brandis Holdings Pty Ltd); acquired by WestNet c.1999-2000 (AURUM & CO. PTY LTD, ACN 609 989 157).",
+  "summary": "Kalgoorlie WA dialup ISP (Brandis Holdings Pty Ltd, aurum.net.au); acquired by WestNet c.1999-2000.",
   "names": [
     {
       "name": "Aurum Internet",
@@ -18,26 +18,34 @@
       "year": 1998,
       "date_disp": "c. 1998",
       "precision": "approx",
-      "details": "Kalgoorlie ISP; site from 1998."
+      "details": "Kalgoorlie WA ISP; earliest Wayback capture 11 Nov 1998 (aurum.net.au).",
+      "source": [
+        "https://web.archive.org/web/19981111191331/http://www.aurum.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2000,
       "date_disp": "c. 1999-2000",
       "precision": "approx",
-      "details": "Acquired by WestNet (aurum.net.au served WestNet from Aug 2000)."
+      "details": "Acquired by WestNet (aurum.net.au served WestNet from Aug 2000; still WestNet-served in captures through Aug 2007)."
+    },
+    {
+      "kind": "note",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "ABN 33 609 989 157 (AURUM & CO. PTY LTD, active from 27 Dec 2015, QLD) is an unrelated later entity, not this Kalgoorlie ISP; previously miscited here.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=33609989157"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
       "url": "https://web.archive.org/web/19981111191331id_/http://www.aurum.net.au/",
-      "label": "Aurum (Wayback 1998)"
-    },
-    {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=33609989157",
-      "label": "ABR: AURUM & CO. PTY LTD ACN 609 989 157"
+      "label": "Aurum (Wayback 11 Nov 1998)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "ADSLDirect",
   "slug": "adsldirect",
-  "birthplace": "Australia",
+  "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://adsldirect.com.au",
-  "summary": "Business ADSL/DSL specialist (2001-02); defunct.",
+  "summary": "Sydney business/residential ADSL provider + Billion router reseller (est. c.2001); retail ISP site ran to early 2013, domain later redirected to RomTech web hosting.",
   "names": [
     {
       "name": "ADSLDirect",
@@ -18,14 +18,41 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Business ADSL/DSL."
+      "details": "Sydney ADSL ISP (phone 02 9453 1990), Billion ADSL router reseller; founding year c.2001 predates the archive and is unverified (earliest Wayback capture 7 Dec 2002).",
+      "source": [
+        "https://web.archive.org/web/20021207034250/http://www.adsldirect.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2013,
+      "date_disp": "c. 2013",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail ADSL ISP page (stable 2007-Feb 2013) last captured Feb 2013; by 2013 the domain served a generic web-shop template and by 2020 redirected to RomTech's Sydney web-hosting site.",
+      "source": [
+        "https://web.archive.org/web/20130210111627/http://www.adsldirect.com.au/",
+        "https://web.archive.org/web/20200419152506/http://www.adsldirect.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040324181059/http://www.adsldirect.com.au/",
+      "label": "ADSL Direct (Wayback 24 Mar 2004): Sydney ADSL ISP, phone 02 9453 1990, Billion router reseller",
+      "year": 2004
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080108150333/http://www.adsldirect.com.au/",
+      "label": "ADSL Direct (Wayback 8 Jan 2008): ADSL internet provider",
+      "year": 2008
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20200419152506/http://www.adsldirect.com.au/",
+      "label": "adsldirect.com.au (Wayback 19 Apr 2020): redirect to RomTech Sydney web hosting",
+      "year": 2020
     }
   ]
 }

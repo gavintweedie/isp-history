@@ -4,7 +4,7 @@
   "birthplace": "Cairns, QLD",
   "status": "inactive",
   "website": "https://allhours.com.au",
-  "summary": "Far-north QLD call-centre group (Anthony Dodds); took over GetOnIt / Cairns Net / AussieWide effective 27 Mar 2008, amalgamated under the AussieWide banner.",
+  "summary": "Far-north QLD call-centre group (Anthony Dodds); took over GetOnIt / Cairns Net / AussieWide effective 27 Mar 2008, amalgamated under the AussieWide banner; site live to 2024, ABN cancelled 2026.",
   "names": [
     {
       "name": "All Hours Communications",
@@ -18,14 +18,20 @@
       "year": 1990,
       "date_disp": "c. 1990s",
       "precision": "approx",
-      "details": "Cairns-based call-centre operator."
+      "details": "Cairns-based call-centre operator (Anthony Dodds). Founding predates the archive; earliest Wayback capture 7 Dec 1998.",
+      "source": [
+        "https://web.archive.org/web/19981207055320/http://www.allhours.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2016,
-      "date_disp": "c. 2016",
-      "precision": "approx",
-      "details": "ABN cancelled (11 Mar 2026)."
+      "year": 2026,
+      "date_disp": "11 Mar 2026",
+      "precision": "exact",
+      "details": "ABN cancelled 11 Mar 2026; allhours.com.au live with retail content through 2024 (prior 'c. 2016' death year contradicted the archive and has been corrected).",
+      "source": [
+        "https://web.archive.org/web/20240420044748/https://www.allhours.com.au/"
+      ]
     }
   ],
   "refs": [

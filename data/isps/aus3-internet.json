@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://aus3.com",
-  "summary": "Brisbane dialup/hosting ISP (formerly Ozlinx Internet); wound down by 2003, name reused by a marketing agency.",
+  "summary": "Brisbane dialup + hosting + eCommerce ISP (formerly Ozlinx Internet); ISP gone by 2002, aus3.com pivoted to a marketing agency.",
   "names": [
     {
       "name": "AUS3 Internet",
@@ -18,14 +18,21 @@
       "year": 1998,
       "date_disp": "c. 1998",
       "precision": "approx",
-      "details": "Dialup (56k), hosting, eBusiness."
+      "details": "56k dialup + web hosting + eCommerce; Brisbane (GPO Box 788, ph 07 3841 4888); formerly Ozlinx Internet.",
+      "source": [
+        "https://web.archive.org/web/20011214021018/http://www.cynosure.com.au/isp/aus3"
+      ]
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2002-03",
-      "precision": "approx",
-      "details": "ISP wound down."
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "ISP still operating Sep 2001 (Cynosure directory, aus3.com internet access + hosting); by May 2002 aus3.com had pivoted to a marketing/branding agency, referring visitors elsewhere for a 'low-cost ISP'.",
+      "source": [
+        "https://web.archive.org/web/20010922062212/http://www.aus3.com/",
+        "https://web.archive.org/web/20020527123501/http://aus3.com/"
+      ]
     }
   ],
   "refs": [

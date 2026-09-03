@@ -16,16 +16,24 @@
     {
       "kind": "birth",
       "year": 2011,
-      "date_disp": "Nov 2011",
-      "precision": "exact",
-      "details": "Renamed from Apex Internet (~Nov 2011)."
+      "date_disp": "c. Nov 2011",
+      "precision": "approx",
+      "details": "Renamed from Apex Internet (~Nov 2011); legal entity APEX TELECOM PTY LTD (ABN 73 152 018 436) registered 10 Jul 2011 and first traded as 'Apex Internet'. apex.net.au began 301-redirecting from 7 Aug 2011; apextelecom.com.au first captured 25 Nov 2011.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=73152018436",
+        "ABR: APEX TELECOM PTY. LTD., ABN registered 10 Jul 2011, trading name 'Apex Internet' from 10 Jul 2011",
+        "https://web.archive.org/web/20111125094255/http://apextelecom.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2012,
       "date_disp": "Jun 2012",
       "precision": "exact",
-      "details": "Sold to NetSpeed Communications (June 2012)."
+      "details": "Sold to NetSpeed Communications (June 2012).",
+      "source": [
+        "https://web.archive.org/web/20121226043507/http://apextelecom.com.au/"
+      ]
     }
   ],
   "refs": [

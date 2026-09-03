@@ -1,10 +1,10 @@
 {
   "name": "Apex Networks",
   "slug": "apex-networks",
-  "birthplace": "Australia",
+  "birthplace": "Brisbane, QLD",
   "status": "inactive",
-  "website": "https://apex.net.au",
-  "summary": "Australian ISP acquired by Superloop.",
+  "website": "https://apexn.com.au",
+  "summary": "Brisbane business/wholesale broadband + connectivity ISP (APEXN PTY LTD, ACN 113 804 569); founded 2005, traded as Apex Networks from 2006; acquired by Superloop c.2015.",
   "names": [
     {
       "name": "Apex Networks",
@@ -18,21 +18,29 @@
       "year": 2005,
       "date_disp": "13 Apr 2005",
       "precision": "exact",
-      "details": "APEXN PTY LTD ACN 113804569 registered 13 Apr 2005; business name Apex Networks 26 Jun 2006; founder Ryan Crouch.",
+      "details": "APEXN PTY LTD ACN 113804569 registered 13 Apr 2005; business name Apex Networks 26 Jun 2006; founder Ryan Crouch. Self-described as a Brisbane-based wholesale/business-broadband ISP with a national footprint.",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.abn-lookup.com/firm/apexn-pty-ltd-113804569/",
           "label": "APEXN PTY LTD ACN 113804569 \u2014 registered 13 Apr 2005"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/20150226154033/http://www.apexn.com.au/",
+        "APEXnetworks (apexn.com.au) self-description: 'a Brisbane based ISP with a national footprint ... incorporated in 2006 to service niche requirements in Australian business broadband and connectivity'"
       ]
     },
     {
       "kind": "death",
       "year": 2015,
-      "date_disp": "2015",
-      "precision": "exact",
-      "details": "Acquired by Superloop (~A$5.8m)."
+      "date_disp": "c. 2015",
+      "precision": "approx",
+      "details": "Acquired by Superloop (~A$5.8m); APEXnetworks-branded site continued to c.2017, then apexn.com.au 301-redirected away (by Aug 2017).",
+      "source": [
+        "https://web.archive.org/web/20170821131809/http://www.apexn.com.au/",
+        "apexn.com.au CDX: APEXnetworks content 200-OK through 2016-2017, then 301 redirect from 21 Aug 2017"
+      ]
     }
   ]
 }

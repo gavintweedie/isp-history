@@ -32,7 +32,11 @@
       "year": 2012,
       "date_disp": "c. 2012",
       "precision": "approx",
-      "details": "Domain parked."
+      "details": "Retail ISP site last seen Feb 2011; replaced by a Tumblr placeholder by Jan 2012, then returned 404 by 2013.",
+      "source": [
+        "https://web.archive.org/web/20110205134003/http://www.alwaysonline.net.au/",
+        "https://web.archive.org/web/20120117023410/http://www.alwaysonline.net.au/"
+      ]
     }
   ],
   "refs": [

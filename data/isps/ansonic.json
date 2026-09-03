@@ -1,10 +1,10 @@
 {
   "name": "Ansonic",
   "slug": "ansonic",
-  "birthplace": "Western Victoria",
+  "birthplace": "Warrnambool, VIC",
   "status": "inactive",
   "website": "https://ansonic.com.au",
-  "summary": "Western Victorian provider (ansonic.com.au online by 1997; related to 'Westvic', ACN 094 488 963); fate unverified.",
+  "summary": "Warrnambool ISP: ansonic.com.au ran the 'Westvic Internet' service (Warrnambool/Camperdown/Portland) from 1997; carried Datafast Telecommunications content by 2000; domain held by ANSONIC ELECTRONICS PTY. LTD. (ACN 094 488 963, later Warrnambool Business Machines).",
   "names": [
     {
       "name": "Ansonic",
@@ -18,21 +18,39 @@
       "year": 1997,
       "date_disp": "29 Mar 1997",
       "precision": "exact",
-      "details": "Earliest Wayback capture 29 Mar 1997 (ansonic.com.au); Warrnambool ISP.",
+      "details": "Earliest ansonic.com.au capture 29 Mar 1997, branded 'Westvic Internet' - 'Western Victoria's Premier Internet Provider', local-call access from Warrnambool, Camperdown & Portland.",
+      "source": [
+        "https://web.archive.org/web/19970329171333/http://www.ansonic.com.au/",
+        "https://web.archive.org/web/19990125093237/http://www.ansonic.com.au/"
+      ],
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19970329171333/http://www.ansonic.com.au:80/",
-          "label": "Ansonic (Wayback 29 Mar 1997)"
+          "label": "Westvic Internet on ansonic.com.au (Wayback 29 Mar 1997)"
         }
       ]
     },
     {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "ansonic.com.au carried Datafast Telecommunications Ltd content by early 2000 (Westvic Internet Pty Ltd held ~2.19% of Datafast per its 14 Jul 2000 share register); Datafast-branded pages continued through 2006, then the domain 302-redirected from 2007.",
+      "source": [
+        "https://web.archive.org/web/20000302122043/http://www.ansonic.com.au/",
+        "https://web.archive.org/web/20030202220917/http://www.ansonic.com.au/"
+      ]
+    },
+    {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2007,
+      "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail ISP presence on ansonic.com.au ended when captures switched to 302 redirects (2007 onward); the earlier Westvic service had already been absorbed into Datafast Telecommunications.",
+      "source": [
+        "https://web.archive.org/web/20070829003242/http://www.ansonic.com.au/"
+      ]
     }
   ],
   "refs": [

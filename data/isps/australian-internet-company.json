@@ -4,12 +4,16 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://aic.net.au",
-  "summary": "Sydney dialup ISP (aic.net.au); dead ~2009.",
+  "summary": "Sydney dialup ISP turned full-service IT provider (aic.net.au); operating from 1996, company ABN cancelled Nov 2020 though the site persists (THE AUSTRALIAN INTERNET COMPANY PTY. LTD., ACN 070 007 555).",
   "names": [
     {
       "name": "Australian Internet Company",
       "start_year": 1996,
-      "start_disp": "1996"
+      "start_disp": "1996",
+      "source": [
+        "https://web.archive.org/web/19961220050800/http://www.aic.net.au/",
+        "https://www.aic.net.au/aboutus.php"
+      ]
     }
   ],
   "events": [
@@ -18,21 +22,40 @@
       "year": 1996,
       "date_disp": "1996",
       "precision": "approx",
-      "details": "The Australian Internet Company Pty Ltd established 1996 (footer \u00a91996-2026, aboutus Established since 1996).",
+      "details": "The Australian Internet Company Pty Ltd, established 1996 (own site \"Established since 1996\", footer \u00a91996-2026); earliest Wayback capture 20 Dec 1996 (www.aic.net.au).",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.aic.net.au/aboutus.php",
           "label": "AIC \u2014 Established since 1996, \u00a91996"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961220050800/http://www.aic.net.au/",
+          "label": "AIC homepage (Wayback 20 Dec 1996)"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/19961220050800/http://www.aic.net.au/",
+        "https://www.aic.net.au/aboutus.php"
       ]
     },
     {
       "kind": "death",
-      "year": 1998,
-      "date_disp": "c. 1998",
-      "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 1998)."
+      "year": 2020,
+      "date_disp": "6 Nov 2020",
+      "precision": "exact",
+      "details": "Company ABN 74 070 007 555 cancelled 6 Nov 2020 (per ABR); aic.net.au site nonetheless remained live afterward (still up 2026), so the retail ISP's effective end is uncertain.",
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=74070007555",
+          "label": "ABR: THE AUSTRALIAN INTERNET COMPANY PTY. LTD. ACN 070 007 555 (cancelled 6 Nov 2020)"
+        }
+      ],
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=74070007555"
+      ]
     }
   ],
   "refs": [
@@ -40,6 +63,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021019233609/http://www.cynosure.com.au/isp/aic",
       "label": "AIC (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=74070007555",
+      "label": "ABR: THE AUSTRALIAN INTERNET COMPANY PTY. LTD. ACN 070 007 555"
     }
   ]
 }

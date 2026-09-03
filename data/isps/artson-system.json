@@ -4,7 +4,7 @@
   "birthplace": "Gold Coast, QLD",
   "status": "inactive",
   "website": "https://onthenet.com.au",
-  "summary": "Corporate entity (Artson System Pty Ltd, ACN 054 001 759) that traded as 'On The Net'; the live onthenet.com.au ISP later sat under Network Technology (Aust) Pty Ltd t/as OntheNet.",
+  "summary": "Gold Coast ISP corporate entity (ARTSON SYSTEM PTY LTD, ACN 054 001 759) trading as 'On The Net'; ON THE NET business name and the onthenet.com.au ISP passed to NETWORK TECHNOLOGY (AUST) PTY LTD (ACN 096 864 836) c. May 2001; ABN cancelled 17 Aug 2022.",
   "names": [
     {
       "name": "Artson System",
@@ -18,14 +18,39 @@
       "year": 1995,
       "date_disp": "c. 1995",
       "precision": "approx",
-      "details": "Trading as 'On The Net' ISP."
+      "details": "Gold Coast QLD ISP trading as 'On The Net'; ARTSON SYSTEM PTY LTD (ACN 054 001 759, ABN 28 054 001 759) — ACN range suggests the company was incorporated c. 1991-92; ISP start year approximate.",
+      "source": [
+        "https://abr.business.gov.au/Search/ResultsActive?SearchText=054001759",
+        "ABR: ARTSON SYSTEM PTY LTD, ON THE NET business name recorded from 23 May 2000"
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "c. May 2001",
       "precision": "approx",
-      "details": "ISP operation under Network Technology (Aust)."
+      "details": "ON THE NET business name and the onthenet.com.au ISP moved to NETWORK TECHNOLOGY (AUST) PTY LTD (ACN 096 864 836), which registered its ABN and the ON THE NET business name on 21 May 2001.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=71096864836",
+        "ABR: NETWORK TECHNOLOGY (AUST) PTY LTD, ON THE NET business name from 21 May 2001"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2022,
+      "date_disp": "17 Aug 2022",
+      "precision": "exact",
+      "details": "ARTSON SYSTEM PTY LTD (ACN 054 001 759) ABN cancelled 17 Aug 2022; last registered in NSW.",
+      "source": [
+        "https://abr.business.gov.au/Search/ResultsActive?SearchText=054001759"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=71096864836",
+      "label": "ABR: NETWORK TECHNOLOGY (AUST) PTY LTD ACN 096 864 836 (t/as ON THE NET from 21 May 2001)"
     }
   ]
 }

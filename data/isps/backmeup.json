@@ -4,12 +4,18 @@
   "birthplace": "Casula (Sydney), NSW",
   "status": "inactive",
   "website": "https://backmeup.net.au",
-  "summary": "Sydney dialup ISP (unlimited $29.95/mo) since 1996; dead ~2014.",
+  "summary": "SW Sydney dialup + web-hosting ISP ('since 1996', unlimited $29.95/mo inc GST); retail site gone by 2006, operating company cancelled 4 Sep 2007 (BMU PTY. LIMITED, ACN 082 921 248); backmeup.net.au later reused for an unrelated 'Backme Up' online-backup service (to ~2014).",
   "names": [
     {
       "name": "BackMeUp",
       "start_year": 1996,
-      "start_disp": "1996"
+      "start_disp": "1996",
+      "end_year": 2004,
+      "end_disp": "c. 2004",
+      "source": [
+        "https://web.archive.org/web/20030128085415id_/http://www.backmeup.net.au/",
+        "https://web.archive.org/web/20060829125132id_/http://www.backmeup.net.au/"
+      ]
     }
   ],
   "events": [
@@ -17,22 +23,55 @@
       "kind": "birth",
       "year": 1996,
       "date_disp": "1996",
-      "precision": "exact",
-      "details": "Operating since 1996."
+      "precision": "approx",
+      "details": "Sydney dialup ISP, a division of BMU Pty Limited (ACN 082 921 248); site meta reads 'Internet Service Provider based in Sydney, Australia since 1996'; earliest Wayback capture 31 Mar 1997.",
+      "source": [
+        "https://web.archive.org/web/20030128085415id_/http://www.backmeup.net.au/",
+        "https://web.archive.org/web/19970331150907/http://www.backmeup.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2014,
-      "date_disp": "c. 2014",
+      "year": 2004,
+      "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Last ISP-era capture ~2014."
+      "details": "Retail dialup/hosting page last captured Jan 2003 ($29.95/mo inc GST); 302 redirect by Feb 2004; 'This site has been removed' by Aug 2006. Operating company BMU Pty Limited (ACN 082 921 248) cancelled 4 Sep 2007.",
+      "source": [
+        "https://web.archive.org/web/20060829125132id_/http://www.backmeup.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=35082921248"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2013,
+      "date_disp": "c. 2013-14",
+      "precision": "approx",
+      "details": "backmeup.net.au later reused for an unrelated 'Backme Up' online-backup service (captured 2013-2014); not the dialup ISP.",
+      "source": [
+        "https://web.archive.org/web/20130318103737id_/http://www.backmeup.net.au/"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
+      "url": "https://web.archive.org/web/20030128085415/http://www.backmeup.net.au/",
+      "label": "BackMeUp ISP - 'ISP based in Sydney since 1996', $29.95/mo, a division of BMU Pty Limited ACN 082 921 248 (Wayback 28 Jan 2003)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060829125132/http://www.backmeup.net.au/",
+      "label": "backmeup.net.au 'THIS SITE HAS BEEN REMOVED' (Wayback 29 Aug 2006)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=35082921248",
+      "label": "ABR: BMU PTY. LIMITED ACN 082 921 248 - cancelled 4 Sep 2007"
+    },
+    {
+      "kind": "archive",
       "url": "https://web.archive.org/web/20140518103152/http://backmeup.net.au/",
-      "label": "BackMeUp (Wayback 2014)"
+      "label": "'Backme Up' online-backup service reusing the domain (Wayback 18 May 2014) - not the ISP"
     }
   ]
 }

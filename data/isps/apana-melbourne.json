@@ -18,7 +18,10 @@
       "year": 1994,
       "date_disp": "c. 1994",
       "precision": "approx",
-      "details": "APANA regional structure; Melbourne hub."
+      "details": "APANA regional structure; Melbourne hub (founding predates the archive). Earliest Wayback capture 10 Jan 1998 (melbourne.apana.org.au), which names the \"Melbourne region (including Geelong)\".",
+      "source": [
+        "https://web.archive.org/web/19980110142635/http://melbourne.apana.org.au/"
+      ]
     },
     {
       "kind": "death",

@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://aol.net.au",
-  "summary": "America Online's Australian service: launched 1998 from a 50/50 AOL-Bertelsmann JV (announced Oct 1997); restructured as a 50/50 AOL-AAPT joint venture (announced 30 Mar 2000) with exclusive AOL/CompuServe rights across PC and wireless platforms; became the three-way AOL|7 venture with Seven Network (merging Seven's i7 portal, Oct 2001); sold to Primus Telecommunications Feb 2004, which ran the AOL-branded ISP under licence until AOL access was withdrawn 31 May 2010 (AOL AUSTRALIA PTY LTD, ACN 633 469 468).",
+  "summary": "America Online's Australian service: launched 1998 from a 50/50 AOL-Bertelsmann JV (announced Oct 1997); restructured as a 50/50 AOL-AAPT joint venture (announced 30 Mar 2000) with exclusive AOL/CompuServe rights across PC and wireless platforms; became the three-way AOL|7 venture with Seven Network (merging Seven's i7 portal, Oct 2001); sold to Primus Telecommunications Feb 2004, which ran the AOL-branded ISP under licence until AOL access was withdrawn 31 May 2010.",
   "names": [
     {
       "name": "AOL Australia",
@@ -39,7 +39,10 @@
       "year": 1998,
       "date_disp": "1998",
       "precision": "exact",
-      "details": "AOL Australia JV announced 7 Oct 1997 (with Bertelsmann); service launched 1998 (beta from late April 1998)."
+      "details": "AOL Australia JV announced 7 Oct 1997 (with Bertelsmann); service launched 1998 (beta from late April 1998; earliest aol.net.au capture 25 Apr 1998).",
+      "source": [
+        "https://web.archive.org/web/19980425150741/http://aol.net.au/"
+      ]
     },
     {
       "kind": "note",
@@ -93,7 +96,14 @@
       "year": 2010,
       "date_disp": "31 May 2010",
       "precision": "exact",
-      "details": "AOL dialup/broadband access withdrawn; ABN cancelled 1 Jun 2012."
+      "details": "Primus withdrew AOL dialup/broadband access in Australia 31 May 2010, ending the AOL-branded service."
+    },
+    {
+      "kind": "note",
+      "details": "The ABR entity AOL AUSTRALIA PTY LTD (ACN 633 469 468, SA) was registered only 16 May 2019 and is unrelated to the historical 1998-2010 AOL Australia / AOL|7 service; the earlier JV ran through AAPT/Seven and then under Primus Telecommunications' licence, not this company.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=46633469468"
+      ]
     }
   ],
   "refs": [
@@ -110,7 +120,7 @@
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=46633469468",
-      "label": "ABR: AOL AUSTRALIA PTY LTD ACN 633 469 468"
+      "label": "ABR: AOL AUSTRALIA PTY LTD ACN 633 469 468 (unrelated 2019 SA company, not the historic service)"
     }
   ]
 }

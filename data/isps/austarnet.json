@@ -4,7 +4,7 @@
   "birthplace": "Regional Australia",
   "status": "inactive",
   "website": "https://austarnet.com.au",
-  "summary": "AUSTAR's regional dialup ISP/portal (regional access points); active 2000-2002; superseded by AustarMetro and wound down.",
+  "summary": "AUSTAR's regional dialup ISP/portal (regional access points); active 2000-2003; superseded by AustarMetro and wound down.",
   "names": [
     {
       "name": "Austarnet",
@@ -16,16 +16,23 @@
     {
       "kind": "birth",
       "year": 2000,
-      "date_disp": "2000",
-      "precision": "exact",
-      "details": "austarnet.com.au live from 2000."
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "austarnet.com.au live by 2000; earliest Wayback capture 19 Jun 2000.",
+      "source": [
+        "https://web.archive.org/web/20000619165646/http://www.austarnet.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Superseded by AustarMetro; wound down."
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "by",
+      "details": "Superseded by AustarMetro; full portal content still live Feb 2003, austarnet.com.au serving a 302 redirect by Jan 2004.",
+      "source": [
+        "https://web.archive.org/web/20030212204003/http://www.austarnet.com.au/",
+        "https://web.archive.org/web/20040131173816/http://www.austarnet.com.au/"
+      ]
     }
   ],
   "refs": [

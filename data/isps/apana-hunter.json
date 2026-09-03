@@ -4,21 +4,28 @@
   "birthplace": "Newcastle/Maitland, NSW",
   "status": "inactive",
   "website": "https://hunter.apana.org.au",
-  "summary": "APANA regional hub hunter.apana.org.au (Newcastle/Maitland, Hunter region, from ~1999); defunct.",
+  "summary": "APANA regional hub hunter.apana.org.au (Newcastle/Maitland, Hunter region); listed as an APANA region by Jan 1998, subdomain live by 1999; defunct.",
   "names": [
     {
       "name": "APANA Hunter node",
-      "start_year": 1999,
-      "start_disp": "c. 1999"
+      "start_year": 1998,
+      "start_disp": "by 1998",
+      "source": [
+        "https://web.archive.org/web/19980110142635/http://melbourne.apana.org.au/"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "c. 1999",
-      "precision": "approx",
-      "details": "APANA Hunter region hub."
+      "year": 1998,
+      "date_disp": "by 1998",
+      "precision": "by",
+      "details": "APANA Hunter region (Newcastle/Maitland); listed among APANA's regions on the national homepage 10 Jan 1998, so it existed by then. The hunter.apana.org.au subdomain's earliest capture is 17 Jan 1999.",
+      "source": [
+        "https://web.archive.org/web/19980110142635/http://melbourne.apana.org.au/",
+        "https://web.archive.org/web/19990208004721/http://hunter.apana.org.au/"
+      ]
     },
     {
       "kind": "death",
