@@ -201,6 +201,91 @@ date upgraded. See `docs/DECISIONS.md` D10.
 6. **Full sale (single 100% arm):** one `split` transition with `arm_label` like
    `"100% sold to X"`. No need for a separate `sale` type.
 
+## Writing style & prose conventions
+
+The tone across all ~1,050 `data/isps/*.json` files is **terse, factual, encyclopaedic**
+— compressed reference prose, not marketing copy and not full sentences where a
+clause will do. Match it when adding or editing records.
+
+### `summary` (one field, one string)
+
+- **One packed sentence**, typically ~80–160 chars (median ≈120), clauses joined by
+  **semicolons** — not multiple sentences. Fragments are fine; a leading verb/subject
+  is often dropped: *"Sydney dialup ISP; gone by ~2002."*
+- **Shape:** `<place> <type> ISP (<parenthetical detail>); <fate>.` e.g.
+  *"Melbourne premium dialup + hosting + e-commerce ISP; dead c.2008."*
+- Service lists use `+`: *"dialup + ADSL + hosting"*.
+- **End with a parenthetical carrying the legal entity + ACN** where known — this is
+  the single most common closing device (≈1/3 of files):
+  *"…still active (ACE INTERNET SERVICES PTY LTD, ACN 071 944 959)."* Company names go
+  in ALL CAPS exactly as they read on ABR; ACN as three space-separated triplets.
+- State the **fate** plainly: `still active`, `defunct`, `dead c.2008`, `wound down`,
+  `acquired by X (YEAR)`, `merged with Y to form Z`.
+- Present tense for current status; past for history.
+
+### `details` (on events)
+
+- A phrase or one/two short sentences giving the *why/who/how* of that event.
+- **birth:** what it was + who/where — *"Founded October 1996, Perth WA (ACN 075 343 136)."*
+  When the year is a proxy, say so and cite the proxy inline: *"Earliest Wayback capture
+  17 Sep 2000 (acomnet.com.au); Hornsby NSW ISP."*
+- **death:** the mechanism — *"Acquired by EFTel (17 Jul 2006)."*, *"Merged with Viper…"*,
+  *"Defunct."* When tightening a bound from archive evidence, describe the transition
+  observed (retail page → parked/webmail/placeholder) so the reasoning is auditable.
+- **note:** incidental facts — ownership between dates, domain reuse, litigation, etc.
+- If a claim is inferred or uncertain, say it in the text (*"birth predates the archive
+  and is unverified"*, *"flagged low-confidence"*) rather than dropping it silently.
+
+### Date display (`start_disp` / `end_disp` / `date_disp`)
+
+Render honesty about precision (pairs with the `precision` field):
+
+| pattern | use with `precision` | example |
+|---|---|---|
+| `1997`, `2005` | `exact` (year only) | `"1992"` |
+| `3 Dec 1998`, `17 Jul 2006` | `exact` (full date) | `"15 Aug 2000"` |
+| `Jul 2001`, `Dec 2005` | `exact`/`approx` (month) | `"Jan 2004"` |
+| `c. 1997` | `approx` | `"c. 2005"` (most common form) |
+| `by 1998`, `by 2013` | `by` (terminus ante quem) | `"by Jul 2019"` |
+| `c. 2010-15`, `early 1997`, `mid-97` | `approx` (range/qualitative) | `"c. 2013-15"` |
+
+Use `c. ` (with the space) for circa; `by ` for "existed by". Keep `*_year` as the
+sortable integer even when `*_disp` is fuzzy.
+
+### `birthplace`
+
+Most common forms, in order: `City, STATE` (≈60%), `City (Region), STATE`
+(≈18%, region clarifies a suburb → metro, e.g. `"Chatswood (Sydney), NSW"`),
+`Australia` (national/unknown-city, ≈15%), `Australia (national)`, or bare `STATE`.
+State abbreviations: `NSW VIC QLD SA WA TAS NT ACT`.
+
+### `refs` labels
+
+Short, source-first, human-readable. Dominant patterns:
+
+- Archive: `"<Name> (Wayback <date>)"` — *"Acepia (Wayback 19 Dec 1996)"*; or a
+  descriptive `"Wayback <date>: <what it shows>"`.
+- Cynosure directory: `"<Name> (Cynosure 2002)"`.
+- ABR/gov: `"ABR: <ENTITY IN CAPS> ACN <nnn nnn nnn>"`.
+- News: `"<Publication> (<date>): '<headline/quote>' - <gloss>"`.
+
+Ref `kind` is one of `archive` / `gov` / `official` / `news` / `wikipedia`
+(`archive` is by far the most used). Prefer a real page URL over a search-engine URL;
+Wayback (`web.archive.org/web/<ts>/<url>`) and ABR (`abr.business.gov.au/ABN/View?abn=`)
+are the primary evidence sources.
+
+### The `source` field (added Sep 2026)
+
+Some `names[]` and `events[]` rows also carry a `source` field: an **array of plain
+strings**, each either a real URL (Wayback/ABR/etc. — never a search-engine link) or a
+short description of the source. It is a lightweight, human-readable evidence note added
+during verification passes; it complements but does **not** replace the structured
+`refs` array, which remains the canonical machine-consumed evidence mechanism (the app
+renders `refs`, not `source`). When both are present, keep them consistent. For new work,
+prefer adding a structured `refs` entry; use `source` when you want a quick inline
+citation without the full `{kind,url,label}` object. (Reconciling the two — or teaching
+the app to render `source` — is an open follow-up.)
+
 ## Open questions (to resolve during build)
 
 - Do we need a `parent company` / ownership chain separate from transitions, or is the
