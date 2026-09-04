@@ -92,6 +92,17 @@
       ]
     },
     {
+      "kind": "note",
+      "year": 1998,
+      "date_disp": "by Nov 1998",
+      "precision": "by",
+      "details": "Took over the aol.com.au domain from the unrelated independent Australia Online Pty Ltd (ACN 062 945 242), whose Apr 1998 page explicitly disclaimed AOL affiliation; aol.com.au served AOL content from the 11 Nov 1998 capture (see australia-online).",
+      "source": [
+        "https://web.archive.org/web/19980429004017/http://www.aol.com.au/index2.html",
+        "https://web.archive.org/web/19981111185057/http://aol.com.au/"
+      ]
+    },
+    {
       "kind": "death",
       "year": 2010,
       "date_disp": "31 May 2010",
@@ -111,6 +122,16 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980425150741/http://aol.net.au/",
       "label": "AOL Australia (Wayback 1998)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000302022318/http://aol.com.au/",
+      "label": "AOL Australia (Wayback 2000): 'AOL's ease of use... AOL's special browser'"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030206112734/http://aol.com.au/",
+      "label": "AOL Australia (Wayback 2003): 'Welcome to AOL Australia' (AOL|7)"
     },
     {
       "kind": "wikipedia",

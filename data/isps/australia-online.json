@@ -1,50 +1,41 @@
 {
-  "name": "AOL Australia",
+  "name": "Australia Online",
   "slug": "australia-online",
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://www.aol.com.au",
-  "summary": "America Online's Australian dialup/online service (aol.com.au); home page branded 'Australia Online' (1998) then 'AOL Australia' (from 2000); JV with Seven Network became AOL|7 (2002); brand later discontinued. NOT the Melbourne AUSTRALIA ON LINE PTY LTD (australiaonline.net.au, ACN 064 289 925).",
+  "summary": "Independent ISP, Australia Online Pty Ltd (ACN 062 945 242); held aol.com.au in early 1998 and explicitly disclaimed any affiliation with America Online; domain passed to AOL Australia by Nov 1998.",
   "names": [
     {
       "name": "Australia Online",
       "start_year": 1998,
       "start_disp": "by 1998",
-      "end_year": 2000,
-      "end_disp": "c. 2000",
+      "end_year": 1998,
+      "end_disp": "by Nov 1998",
       "source": [
         "https://web.archive.org/web/19980429003830/http://www.aol.com.au/"
-      ]
-    },
-    {
-      "name": "AOL Australia",
-      "start_year": 2000,
-      "start_disp": "c. 2000",
-      "source": [
-        "https://web.archive.org/web/20000302022318/http://aol.com.au/",
-        "https://web.archive.org/web/20030206112734/http://aol.com.au/"
       ]
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1995,
-      "date_disp": "c. 1995",
-      "precision": "approx",
-      "details": "America Online's Australian online service, c. 1995; earliest Wayback capture 29 Apr 1998 (aol.com.au, 'Welcome to Australia Online').",
+      "year": 1998,
+      "date_disp": "by Apr 1998",
+      "precision": "by",
+      "details": "Earliest Wayback capture 29 Apr 1998 (aol.com.au, 'Welcome to Australia Online'); actual founding predates the archive and is unverified.",
       "source": [
         "https://web.archive.org/web/19980429003830/http://www.aol.com.au/"
       ]
     },
     {
-      "kind": "note",
-      "year": 2002,
-      "date_disp": "2002",
-      "precision": "approx",
-      "details": "Became AOL|7 following a joint venture with the Seven Network (2002); AOL-branded ISP service later discontinued.",
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "by Nov 1998",
+      "precision": "by",
+      "details": "aol.com.au serving AOL Australia content by the 11 Nov 1998 capture; the independent's domain was taken over at AOL's Australian launch. The company's own fate beyond the domain loss is unverified (no ABR record for ACN 062 945 242).",
       "source": [
-        "https://web.archive.org/web/20030206112734/http://aol.com.au/"
+        "https://web.archive.org/web/19981111185057/http://aol.com.au/"
       ]
     }
   ],
@@ -52,12 +43,12 @@
     {
       "kind": "archive",
       "url": "https://web.archive.org/web/19980429004017/http://www.aol.com.au/index2.html",
-      "label": "Australia OnLine (Wayback 1998)"
+      "label": "Australia Online Pty Ltd (Wayback 29 Apr 1998): 'not affiliated with America Online Inc. or the AOL Australia Service' (ACN 062 945 242)"
     },
     {
       "kind": "archive",
-      "url": "https://web.archive.org/web/20000302022318/http://aol.com.au/",
-      "label": "AOL Australia (Wayback 2000): 'AOL's ease of use... AOL's special browser'"
+      "url": "https://web.archive.org/web/19981111185057/http://aol.com.au/",
+      "label": "aol.com.au (Wayback 11 Nov 1998): first AOL-content capture, marking the domain handover"
     }
   ]
 }
