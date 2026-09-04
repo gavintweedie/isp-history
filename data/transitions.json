@@ -562,27 +562,6 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 1998,
-      "date_disp": "1998",
-      "notes": "Early Melbourne ISP Auspac acquired by MCI WorldCom 1998.",
-      "from": "auspac",
-      "to": "mci-worldcom",
-      "refs": [
-        {
-          "kind": "news",
-          "url": "https://www.internetnews.com/archive/mci-worldcom-bids-323-million-for-ozemail/",
-          "label": "InternetNews: MCI WorldCom bids $323M for OzEmail"
-        },
-        {
-          "kind": "wikipedia",
-          "url": "https://en.wikipedia.org/wiki/OzEmail",
-          "label": "Wikipedia: OzEmail \u2014 WorldCom 100% owner Feb 1999"
-        }
-      ]
-    },
-    {
-      "type": "acquisition",
-      "arm_label": "100%",
       "year": 2008,
       "date_disp": "c. 2007-08",
       "notes": "Wix Telecommunications acquired by Blitz Telecom (~2007-08).",
