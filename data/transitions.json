@@ -758,7 +758,13 @@
       "notes": "Holodoc OZ Internet acquired by Amaze Communications.",
       "from": "holodoc-oz",
       "to": "amaze",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000821230704/http://www.holodoc.net.au/",
+          "label": "holodoc.net.au (Wayback 21 Aug 2000): 'IMPORTANT ANNOUNCEMENT - Amaze Communications has Acquired Holodoc OZ Internet'"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1238,7 +1244,13 @@
       "notes": "On Q Communications (Consolidated Telecom group) acquired Pivit.",
       "from": "pivit",
       "to": "on-q-communications",
-      "refs": []
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://pivit.com.au/home-2/news-alerts-2/",
+          "label": "Pivit: 'Pivit Pty Ltd has been acquired by Consolidated Telecom' - customers transition to Connected Australia or On Q Communications"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -1375,7 +1387,13 @@
       "notes": "Intervision closed; customers continued by Nella Networks.",
       "from": "intervision",
       "to": "nella-networks",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020927101451/http://www.intervision.net.au/",
+          "label": "intervision.net.au (Wayback Sep 2002): Intervision/ClubAOL closed 15 Aug 2002, 'Nella Networks has agreed to continue service'"
+        }
+      ]
     },
     {
       "type": "rename",
@@ -1385,7 +1403,13 @@
       "notes": "HoloHost changed name to Nella Networks (both under Beretvale Pty Ltd).",
       "from": "holohost",
       "to": "nella-networks",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041212230532/http://holohost.net/",
+          "label": "holohost.net (Wayback Dec 2004): serving Nella Telecommunications content, confirming the rename"
+        }
+      ]
     },
     {
       "type": "split",
@@ -2249,7 +2273,13 @@
       "notes": "Ace Online acquired Indigo Networks.",
       "from": "indigo-networks",
       "to": "ace-online",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020926143806/http://www.aceonline.com.au/",
+          "label": "aceonline.com.au (Wayback 26 Sep 2002): page titled 'Indigo Networks', confirming the acquisition"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3173,7 +3203,13 @@
       "notes": "EEPO brand redirected to Ausconnect.",
       "from": "eepo",
       "to": "ausconnect",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060527172904/http://www.eepo.com.au/",
+          "label": "eepo.com.au (Wayback May 2006): redirect page to the Ausconnect web page"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3293,7 +3329,13 @@
       "notes": "LiSP's wireless arm went to Cirrus Communications (satellite to GoBush).",
       "from": "lisp",
       "to": "cirrus",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080915170125/http://www.lisp.com.au/",
+          "label": "lisp.com.au (Wayback Sep 2008): 'Wireless Customers - Contact Cirrus Communications' (satellite arm separate)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3511,7 +3553,13 @@
       "notes": "Netinfo acquired by Dynamite Internet.",
       "from": "netinfo",
       "to": "dynamite-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990125101543/http://www.netinfo.net.au/",
+          "label": "netinfo.net.au (Wayback Jan 1999): 'In March 1998, Netinfo was acquired by Canberra\\'s Premier Internet Service Provider - Dynamite Internet'"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3675,7 +3723,13 @@
       "notes": "Starnet absorbed by Planet Internet.",
       "from": "starnet-internet",
       "to": "planet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010303221342/http://www.starnet.com.au/",
+          "label": "starnet.com.au (Wayback Mar 2001): HTTP 301 redirecting to planet.net.au"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4415,7 +4469,13 @@
       "notes": "DezzaNet became part of Aardvark Internet.",
       "from": "dezzanet",
       "to": "aardvark-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20071113013901/http://www.dezzanet.net.au/",
+          "label": "dezzanet.net.au (Wayback Nov 2007): 'Aardvarks website is located at http://www.aardvark.net.au - Now redirecting...'"
+        }
+      ]
     },
     {
       "type": "acquisition",
