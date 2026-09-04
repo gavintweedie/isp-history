@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://harvestroad.com.au",
-  "summary": "Perth content development + virtual serving + internet access + training company (HarvestRoad Ltd, est. 1996, ASX-listed Sept 1999); web-services arm gone; later e-learning software (Sidetrack Collective Pty Ltd, ACN 152 778 964).",
+  "summary": "Perth content development + virtual serving + internet access + training company (HarvestRoad Ltd, est. 1996, ASX-listed Sept 1999, renamed Guilford Investments Mar 2008); web-services arm gone c.2003.",
   "names": [
     {
       "name": "Harvest Road",
@@ -33,13 +33,21 @@
       "date_disp": "c. 2003",
       "precision": "approx",
       "details": "Web-services arm gone; later e-learning software."
+    },
+    {
+      "kind": "note",
+      "details": "HarvestRoad Limited renamed Guilford Investments Limited 28 Mar 2008 (per deListed); Sidetrack Collective Pty Ltd (ACN 152 778 964, WA; ABN cancelled 14 Apr 2015) has no documented link to HarvestRoad and is not the ISP's legal entity.",
+      "source": [
+        "https://www.delisted.com.au/company/harvestroad-limited/",
+        "https://abr.business.gov.au/ABN/View?abn=34152778964"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=34152778964",
-      "label": "ABR: Sidetrack Collective Pty Ltd ACN 152 778 964"
+      "label": "ABR: Sidetrack Collective Pty Ltd ACN 152 778 964 (unrelated to HarvestRoad; ABN cancelled Apr 2015)"
     }
   ]
 }

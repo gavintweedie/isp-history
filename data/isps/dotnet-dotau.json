@@ -2,7 +2,7 @@
   "name": "dotnet dotau Pty Ltd",
   "slug": "dotnet-dotau",
   "birthplace": "South Hedland, WA",
-  "status": "unknown",
+  "status": "inactive",
   "website": "https://www.norcom.net.au",
   "summary": "First internet provider to the Pilbara region of WA (4/9 Byass St, South Hedland), trading online as Norcom: dialup (to v.90/K56Flex) from POPs in Port/South Hedland, Newman, Tom Price and Perth; web hosting and development; internet cafes; domains norcom.net.au / pilbara.net.au / dotnet-dotau.au.com. Upstreams connect.com.au and Telstra plus an 8Mbit NetConnect satellite feed; WAIX peer; WAIA and TIO member.",
   "names": [
@@ -42,6 +42,20 @@
       "date_disp": "Aug 2026",
       "precision": "exact",
       "details": "norcom.net.au no longer resolves when checked (Aug 2026). A 'NORCOM PTY. LTD.' (ACN 071 527 583, ABN active since Mar 2000) registered the business name 'Norcom Communications' in Jul 2025 - possible continuation under a related entity, unverified."
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "by Feb 2009",
+      "precision": "by",
+      "details": "norcom.net.au serving Concept Networks (site footer: Concept Networks 2008) by 23 Feb 2009; Norcom ISP ended, domain passed to Concept Networks. Closest Wayback snapshot to today remains Feb 2009; norcom.net.au and pilbara.net.au no longer resolve.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090223202542/http://norcom.net.au/",
+          "label": "norcom.net.au (Wayback 23 Feb 2009): Concept Networks content, ending the Norcom era"
+        }
+      ]
     }
   ],
   "refs": [

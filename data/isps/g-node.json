@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://g-node.com.au",
-  "summary": "Gamer-focused low-latency ADSL ISP (free 10pm-7am unmetered, ~2006); defunct (G-NODE PTY LTD, ACN 649 898 224).",
+  "summary": "Gamer-focused low-latency ADSL ISP (free 10pm-7am unmetered, ~2006); defunct.",
   "names": [
     {
       "name": "G-node",
@@ -26,13 +26,20 @@
       "date_disp": "c. 2009",
       "precision": "approx",
       "details": "Defunct."
+    },
+    {
+      "kind": "note",
+      "details": "The ABR entity G-NODE PTY LTD (ACN 649 898 224, VIC; ABN cancelled 1 Jul 2024) is a later same-name company, over a decade after this gamer ISP's c.2009 end; unrelated.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=28649898224"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=28649898224",
-      "label": "ABR: G-NODE PTY LTD ACN 649 898 224"
+      "label": "ABR: G-NODE PTY LTD ACN 649 898 224 (unrelated later VIC company, not the gamer ISP)"
     }
   ]
 }

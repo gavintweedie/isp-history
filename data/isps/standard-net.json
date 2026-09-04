@@ -2,7 +2,7 @@
   "name": "Standard.Net",
   "slug": "standard-net",
   "birthplace": "Warrnambool, VIC",
-  "status": "unknown",
+  "status": "inactive",
   "website": "http://www.standard.net.au",
   "summary": "Regional Victoria ISP (Standard.Net, Warrnambool VIC; standard.net.au). Two 1997 IP-index allocations (STANDARDNET-AU 203.55.6.0/23; NETCONNECT-STANDARD 203.87.16.0/23). standard.net.au captured 28 Mar 1997 - hosted user websites and 'Read the Standard' (the Warrnambool Standard newspaper). The NETCONNECT-* netname ties it to NetConnect Communications (Ballarat; ballarat-netconnect) umbrella.",
   "names": [
@@ -32,6 +32,20 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/19970328131707/http://www.standard.net.au/",
           "label": "Wayback 28 Mar 1997: standard.net.au - user sites + 'Read the Standard'"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "by Dec 2003",
+      "precision": "by",
+      "details": "standard.net.au serving Hotkey Southcoast content by 18 Dec 2003 (last Standard.Net-era page Jan 2001); newspaper ISP arm ended in between, domain passed to Hotkey's South-West Victoria operation. No acquisition evidence; no transition asserted.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031218233641/http://www.standard.net.au/",
+          "label": "standard.net.au (Wayback 18 Dec 2003): Hotkey Southcoast content, ending the Standard.Net era"
         }
       ]
     }

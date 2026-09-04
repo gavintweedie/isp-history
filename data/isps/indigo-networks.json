@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "indigo.net.au",
-  "summary": "Perth ISP; took over Omon's business c.2001, then acquired by Ace Online 2002 (INDIGO NETWORKS PTY LTD, ACN 701 127 666).",
+  "summary": "Perth ISP; took over Omon's business c.2001, then acquired by Ace Online 2002.",
   "names": [
     {
       "name": "Indigo Networks",
@@ -26,13 +26,21 @@
       "date_disp": "2002",
       "precision": "exact",
       "details": "Acquired by Ace Online."
+    },
+    {
+      "kind": "note",
+      "details": "ABR name search finds no WA company matching the 1996-2002 Perth ISP: INDIGO NETWORKS PTY LTD (ACN 701 127 666, VIC) has ABN active only from 6 Aug 2026; INDIGO NETWORKS INTERNATIONAL PTY LTD (ACN 108 787 668, WA) dates only from ~2004 with ABN cancelled 3 Jun 2014. Both are later same-name companies, unrelated. A WA sole trader has used 'Indigo Networks' as a trading name since 2 Nov 2005 (ABN 73 420 393 074) — possible brand continuation after the Ace Online acquisition, unverified.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=88701127666",
+        "https://abr.business.gov.au/Search/ResultsAll?SearchText=INDIGO%20NETWORKS"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=88701127666",
-      "label": "ABR: INDIGO NETWORKS PTY LTD ACN 701 127 666"
+      "label": "ABR: INDIGO NETWORKS PTY LTD ACN 701 127 666 (unrelated 2026 VIC company, not the Perth ISP)"
     }
   ]
 }

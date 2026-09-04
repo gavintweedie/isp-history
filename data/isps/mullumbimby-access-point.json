@@ -2,7 +2,7 @@
   "name": "Mullumbimby Access Point",
   "slug": "mullumbimby-access-point",
   "birthplace": "Mullumbimby, NSW",
-  "status": "unknown",
+  "status": "inactive",
   "website": "",
   "summary": "Regional northern-NSW ISP (Mullumbimby Access Point Pty Ltd, ACN 078 688 418, ABN 67 078 688 418, Mullumbimby NSW 2482). Three 1997 IP-index allocations (MULLUMBIMBYACCE-AU 203.35.138.0/24, MULLUMBIMBYACCE1-AU 203.35.225.0/24, TIG-MULLUM-1 203.109.168.0/23) - the TIG netname places it on The Internet Group (ihug predecessor) network. A registered Pty Ltd holding /24 allocations on a carrier network indicates a dial-up ISP operation, NOT a net cafe. Business names: MAPIT (2001-2004), later Shelly Beach Cafe (2006-2010). ABN active 2000 - cancelled 16 Apr 2015.",
   "names": [
@@ -41,6 +41,20 @@
           "kind": "official",
           "url": "https://abr.business.gov.au/AbnHistory/View?id=67078688418",
           "label": "ABR: Mullumbimby Access Point Pty Ltd (ACN 078 688 418; MAPIT; cancelled 16 Apr 2015)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "by 10 Aug 2004",
+      "precision": "by",
+      "details": "ISP trading name MAPIT lapsed 10 Aug 2004; company later ran Shelly Beach Cafe (2006-2010). Dial-up ISP operation ended with the MAPIT name.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=67078688418",
+          "label": "ABR: business name MAPIT 21 May 2001 - 10 Aug 2004; later Shelly Beach Cafe"
         }
       ]
     }

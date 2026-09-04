@@ -4,7 +4,7 @@
   "birthplace": "St Leonards (Sydney), NSW",
   "status": "inactive",
   "website": "https://giga.net.au",
-  "summary": "Sydney dialup ISP + web app development; absorbed by Hotkey Internet by ~2003 (GIGANET PTY LTD, ACN 617 785 887).",
+  "summary": "Sydney dialup ISP + web app development; absorbed by Hotkey Internet by ~2003.",
   "names": [
     {
       "name": "GigaNet",
@@ -26,6 +26,13 @@
       "date_disp": "by May 2003",
       "precision": "by",
       "details": "Absorbed by Hotkey Internet."
+    },
+    {
+      "kind": "note",
+      "details": "The ABR entity GIGANET PTY LTD (ACN 617 785 887, VIC) has ABN active only from 6 Mar 2017, fourteen years after this Sydney ISP was absorbed by Hotkey; an unrelated later same-name company.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=45617785887"
+      ]
     }
   ],
   "refs": [
@@ -37,7 +44,7 @@
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=45617785887",
-      "label": "ABR: GIGANET PTY LTD ACN 617 785 887"
+      "label": "ABR: GIGANET PTY LTD ACN 617 785 887 (unrelated 2017 VIC company, not the Sydney ISP)"
     }
   ]
 }

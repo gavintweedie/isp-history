@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://gsn.net",
-  "summary": "Broadband services provider (GSN.net, ~2003); defunct (GLOBAL SOLUTIONS NETWORK PTY LTD, ACN 689 175 933).",
+  "summary": "Broadband services provider (GSN.net, ~2003); defunct.",
   "names": [
     {
       "name": "Global Solutions Network",
@@ -26,13 +26,20 @@
       "date_disp": "c. 2006",
       "precision": "approx",
       "details": "Defunct."
+    },
+    {
+      "kind": "note",
+      "details": "The ABR entity GLOBAL SOLUTIONS NETWORK PTY LTD (ACN 689 175 933, QLD) has ABN active only from 17 Jul 2025, two decades after this ISP's c.2006 end; an unrelated later same-name company.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=29689175933"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=29689175933",
-      "label": "ABR: GLOBAL SOLUTIONS NETWORK PTY LTD ACN 689 175 933"
+      "label": "ABR: GLOBAL SOLUTIONS NETWORK PTY LTD ACN 689 175 933 (unrelated 2025 QLD company, not the ISP)"
     }
   ]
 }
