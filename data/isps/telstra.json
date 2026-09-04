@@ -12,7 +12,25 @@
       "start_disp": "1975"
     }
   ],
+  "aliases": [
+    "PMG",
+    "Telecom Australia"
+  ],
   "events": [
+    {
+      "kind": "note",
+      "year": 1975,
+      "date_disp": "Jul 1975",
+      "precision": "approx",
+      "details": "Telecom operations split from the Postmaster-General's Department (est. 1 Jan 1901 at Federation, running postal + telephone + telegraph nationally); disaggregated into the Australian Telecommunications Commission (Telecom Australia) and the Australian Postal Commission (Australia Post). The PMG itself was abolished Dec 1975.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Postmaster-General%27s_Department",
+          "label": "Wikipedia: Postmaster-General's Department (1901-1975)"
+        }
+      ]
+    },
     {
       "kind": "birth",
       "year": 1975,
