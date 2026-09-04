@@ -18,21 +18,28 @@
       "year": 1996,
       "date_disp": "Dec 1996",
       "precision": "exact",
-      "details": "Braenet was founded Dec 1996 by Braemac Pty Ltd; Cisco Regional ISP status 1 Jul 1999.",
+      "details": "Braenet founded December 1996 by Braemac (semiconductor distributor); high-end corporate ISP; Cisco Regional ISP status 1 Jul 1999. Birth predates the archive (earliest braenet.com.au capture Jan 2001), but the 2001 'Company History' page states the Dec 1996 founding.",
       "refs": [
         {
-          "kind": "official",
-          "url": "https://braenet.com.au/about.html",
-          "label": "Braenet \u2014 founded Dec 1996 by Braemac"
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20011013074010/http://www.braenet.com.au/about.html",
+          "label": "Braenet Company History (Wayback 13 Oct 2001) \u2014 founded December 1996 by Braemac"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/20011013074010/http://www.braenet.com.au/about.html"
       ]
     },
     {
       "kind": "death",
       "year": 2003,
-      "date_disp": "c. 2003",
+      "date_disp": "early 2003",
       "precision": "approx",
-      "details": "Acquired by Savtek Internet Services."
+      "details": "Acquired by Savtek Internet Services: braenet.com.au still showed the Braenet corporate ISP site in Mar 2002 but had become Savtek.net by Mar 2003 (Savtek dialup changes effective 31 Jan 2003).",
+      "source": [
+        "https://web.archive.org/web/20020327000000/http://www.braenet.com.au/",
+        "https://web.archive.org/web/20030324000000/http://www.braenet.com.au/"
+      ]
     }
   ],
   "refs": [

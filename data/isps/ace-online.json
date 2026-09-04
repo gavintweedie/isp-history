@@ -9,7 +9,10 @@
     {
       "name": "Ace Online",
       "start_year": 1996,
-      "start_disp": "1996"
+      "start_disp": "1996",
+      "source": [
+        "2007 About page: 'Operating since October 1996'; 2002 homepage footer '© 1996-2001 Ace Online Internet' (Perth): https://web.archive.org/web/20070119010508id_/http://www.aceonline.com.au/about/index.php"
+      ]
     }
   ],
   "events": [
@@ -18,14 +21,30 @@
       "year": 1996,
       "date_disp": "1996",
       "precision": "exact",
-      "details": "Founded October 1996 (ACN 075 343 136)."
+      "details": "Founded October 1996, Perth WA (ACN 075 343 136).",
+      "source": [
+        "https://web.archive.org/web/20070119010508id_/http://www.aceonline.com.au/about/index.php"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2002,
+      "date_disp": "2002",
+      "precision": "approx",
+      "details": "Acquired Indigo Networks: aceonline.com.au page title changed to 'Indigo Networks' from Sept 2002; 2007 About page describes 'the fusion of two local internet/IT companies ... combined the operations, customer base and assets of Indigo Networks and Ace Online'.",
+      "source": [
+        "https://web.archive.org/web/20070119010508id_/http://www.aceonline.com.au/about/index.php"
+      ]
     },
     {
       "kind": "death",
       "year": 2006,
       "date_disp": "Jul 2006",
       "precision": "exact",
-      "details": "Acquired by EFTel (17 Jul 2006)."
+      "details": "Acquired by EFTel (reported 17 Jul 2006, ZDNet). Consistent with the retail site being gone/repurposed by 2008; the exact EFTel date rests on the ZDNet report rather than a located ASX announcement.",
+      "source": [
+        "ZDNet: 'EFTel continues ISP shopping spree' (Jul 2006): https://www.zdnet.com/home-and-office/networking/eftel-continues-isp-shopping-spree/"
+      ]
     }
   ],
   "refs": [

@@ -1,10 +1,10 @@
 {
   "name": "BigBlue",
   "slug": "bigblue",
-  "birthplace": "Australia",
+  "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://bigblue.net.au",
-  "summary": "Consumer/prepaid ISP (bigblue.net.au, ACN 623 023 263); became part of the iiNet group by ~Nov 2005.",
+  "summary": "Consumer/prepaid dialup + broadband ISP (bigblue.net.au), a brand of Perth-based Connect West Pty Ltd; became part of the iiNet group by ~2005 (CONNECT WEST PTY LTD, ACN 073 156 779).",
   "names": [
     {
       "name": "BigBlue",
@@ -16,16 +16,32 @@
     {
       "kind": "birth",
       "year": 2000,
-      "date_disp": "2000",
-      "precision": "exact",
-      "details": "bigblue.net.au online from 2000."
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "bigblue.net.au online by 2000 (earliest Wayback capture 8 Apr 2000); consumer/prepaid brand of Connect West Pty Ltd (ACN 073 156 779).",
+      "source": [
+        "https://web.archive.org/web/20000408135555id_/http://www.bigblue.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2005,
-      "date_disp": "2005",
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Operator Connect West Pty Ltd was acquired by iiNet; BigBlue folded into the iiNet group. Homepage (footer 'Connect West Pty Ltd. ACN 073 156 779') ran through at least late 2005.",
+      "source": [
+        "https://web.archive.org/web/20050629104825id_/http://www.bigblue.net.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2017,
+      "date_disp": "2017",
       "precision": "exact",
-      "details": "Part of the iiNet group."
+      "details": "ABN 67 623 023 263 (BIGBLUE CONSULTING PTY LTD, active from 23 Nov 2017) is an unrelated later same-name entity, not this ISP.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=67623023263"
+      ]
     }
   ],
   "refs": [
@@ -36,8 +52,8 @@
     },
     {
       "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=67623023263",
-      "label": "ABR: BIGBLUE CONSULTING PTY LTD ACN 623 023 263"
+      "url": "https://abr.business.gov.au/ABN/View?abn=40073156779",
+      "label": "ABR: CONNECT WEST PTY LTD ACN 073 156 779 (BigBlue operator; acquired by iiNet)"
     }
   ]
 }

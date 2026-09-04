@@ -18,14 +18,20 @@
       "year": 1983,
       "date_disp": "1983",
       "precision": "exact",
-      "details": "Campus Technologies established as University of Adelaide company; AARNet VAR from 1994."
+      "details": "Established as University of Adelaide company (reportedly Campus Technologies); AARNet VAR from 1994. 1983 founding predates the archive and is unverified; earliest Wayback capture 31 Oct 1996 (camtech.com.au).",
+      "source": [
+        "https://web.archive.org/web/19961031055601id_/http://www.camtech.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 1998,
       "date_disp": "Mar 1998",
       "precision": "exact",
-      "details": "OzEmail acquired Camtech's internet service business (31 March 1998)."
+      "details": "OzEmail acquired Camtech's SA internet service business (31 March 1998); Camtech itself continued as an IT company (camtech.com.au live to ~2011).",
+      "source": [
+        "https://web.archive.org/web/20000122191912id_/http://www.camtech.com.au/v3/corporate/coprofile_980507.html"
+      ]
     }
   ],
   "refs": [

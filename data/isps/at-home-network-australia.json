@@ -23,6 +23,10 @@
       "date_disp": "Jun 1999",
       "precision": "exact",
       "details": "Cable & Wireless Optus and Excite@Home formed a 50/50 joint venture company to provide @Home cable-broadband services in Australia (Optus media release, June 1999). The network held the ATHOME-AU allocation (203.164.0.0-203.164.255.255).",
+      "source": [
+        "https://www.optus.com.au/about/media-centre/media-releases/1999/06/cable-wireless-optus-and-excitehome-form-joint-venture-company",
+        "APNIC whois 203.164.0.0 (203.164.0.0-203.164.31.255): netname OPTUSINTERNET-AU, descr '@Home Network Australia', org Optus Internet Pty Ltd, abuse@optushome.com.au - confirms the @Home cable block, later held by Optus"
+      ],
       "refs": [
         {
           "kind": "official",

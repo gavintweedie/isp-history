@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://bigbutton.com.au",
-  "summary": "Adelaide dialup ISP ('Adelaide's Easier Internet', ~2000); defunct (BIG RED BUTTON PTY LTD, ACN 656 808 543).",
+  "summary": "Adelaide dialup + ADSL + wireless + hosting ISP ('Adelaide's Easier Internet', by 2001); owned by Telcoblue; ceased internet services 31 May 2013 (ADSL migrated to Telcoblue).",
   "names": [
     {
       "name": "Big Button",
@@ -18,21 +18,37 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Dialup."
+      "details": "Dialup ('Adelaide's Easier Internet'); earliest Wayback capture 14 Aug 2001.",
+      "source": [
+        "https://web.archive.org/web/20010814211709id_/http://www.bigbutton.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2013,
+      "date_disp": "31 May 2013",
+      "precision": "exact",
+      "details": "Shutdown notice on homepage: ceased providing internet services 31 May 2013; ADSL migrated to Telcoblue (which had owned Big Button for several years), dialup to Tech2u, prepaid wireless to Softel Internet, web hosting to GTC Networking.",
+      "source": [
+        "https://web.archive.org/web/20130702085734id_/http://www.bigbutton.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2022,
+      "date_disp": "2022",
+      "precision": "exact",
+      "details": "ABN 83 656 808 543 (BIG RED BUTTON PTY LTD, NSW, active from 22 Feb 2022) is an unrelated later entity with a similar name, not this Adelaide ISP.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=83656808543"
+      ]
     }
   ],
   "refs": [
     {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=83656808543",
-      "label": "ABR: BIG RED BUTTON PTY LTD ACN 656 808 543"
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20130702085734/http://www.bigbutton.com.au/",
+      "label": "Big Button shutdown notice (Wayback 2 Jul 2013): internet services ceased 31 May 2013, ADSL migrated to Telcoblue"
     }
   ]
 }

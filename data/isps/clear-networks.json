@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "clearnetworks.com.au",
-  "summary": "Melbourne NBN fibre/fixed-wireless + satellite (Sky Muster, IPSTAR) ISP (Clear Networks Pty Ltd, sister co. of Day3 via acquisition of Canberra's RBBS); acquired by SkyMesh 2022; brand continued as SkyMesh 'Clear Broadband'; infrastructure sold to Summit Internet 2023.",
+  "summary": "Melbourne (Blackburn North, VIC) satellite (HiBIS/Optus, later Sky Muster, IPSTAR) + fixed-wireless + NBN fibre ISP (Clear Networks Pty Ltd, sister co. of Day3 via acquisition of Canberra's RBBS); acquired by SkyMesh 2022; infrastructure sold to Summit Internet 2023.",
   "names": [
     {
       "name": "Clear Networks",
@@ -18,14 +18,21 @@
       "year": 2004,
       "date_disp": "2004",
       "precision": "exact",
-      "details": "Clear Networks Pty Ltd founded Melbourne."
+      "details": "Clear Networks Pty Ltd founded 2004 in Melbourne (HQ Blackburn North, VIC), sister company of Day3, via acquisition of Canberra's Regional Broadband Services (RBBS); HiBIS-funded Optus satellite broadband and ClearTowns fixed wireless for regional Australia. Earliest Wayback capture 30 Dec 2004.",
+      "source": [
+        "https://en.wikipedia.org/wiki/Clear_Networks",
+        "https://web.archive.org/web/20050206005022/http://www.clearnetworks.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2022,
       "date_disp": "2022",
-      "precision": "exact",
-      "details": "Acquired by SkyMesh (from Uniti/Harbour ISP)."
+      "precision": "approx",
+      "details": "Acquired by SkyMesh (2022); infrastructure on-sold to Summit Internet (2023).",
+      "source": [
+        "https://en.wikipedia.org/wiki/Clear_Networks"
+      ]
     }
   ],
   "refs": [
@@ -33,6 +40,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Clear_Networks",
       "label": "Wikipedia: Clear Networks"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050206005022/http://www.clearnetworks.com.au/",
+      "label": "Clear Networks (Wayback 6 Feb 2005): HiBIS satellite broadband"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Country Netlink",
   "slug": "country-netlink",
-  "birthplace": "Australia",
+  "birthplace": "Cobram, VIC",
   "status": "inactive",
   "website": "countrynetlink.com.au",
-  "summary": "Regional ISP acquired by iiNet.",
+  "summary": "Cobram VIC regional dialup ISP (POPs Benalla/Cobram/Shepparton); acquired by iiNet c.2003; company deregistered 8 Apr 2005 (COUNTRY NETLINK PTY LTD, ACN 069 744 896).",
   "names": [
     {
       "name": "Country Netlink",
@@ -18,12 +18,15 @@
       "year": 1995,
       "date_disp": "3 Jul 1995",
       "precision": "exact",
-      "details": "COUNTRY NETLINK PTY LTD ACN 069744896 registered 03 Jul 1995 (Cobram VIC); POPs Benalla/Cobram/Shepparton.",
+      "details": "COUNTRY NETLINK PTY LTD ACN 069 744 896 registered 3 Jul 1995 (Cobram VIC); POPs Benalla/Cobram/Shepparton.",
+      "source": [
+        "https://creditorwatch.com.au/credit/profile/069744896"
+      ],
       "refs": [
         {
           "kind": "official",
           "url": "https://creditorwatch.com.au/credit/profile/069744896",
-          "label": "Country Netlink Pty Ltd ACN 069744896 \u2014 registered 03 Jul 1995"
+          "label": "COUNTRY NETLINK PTY LTD ACN 069 744 896 \u2014 registered 3 Jul 1995, deregistered 8 Apr 2005"
         }
       ]
     },
@@ -32,7 +35,10 @@
       "year": 2003,
       "date_disp": "2003",
       "precision": "exact",
-      "details": "Acquired by iiNet.; company deregistered 08 Apr 2005."
+      "details": "Acquired by iiNet; COUNTRY NETLINK PTY LTD deregistered 8 Apr 2005.",
+      "source": [
+        "https://creditorwatch.com.au/credit/profile/069744896"
+      ]
     }
   ]
 }

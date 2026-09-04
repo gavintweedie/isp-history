@@ -22,10 +22,13 @@
     },
     {
       "kind": "death",
-      "year": 1999,
-      "date_disp": "by 1999",
+      "year": 2000,
+      "date_disp": "by 2000",
       "precision": "by",
-      "details": "No own-site captures found; last reference 1999."
+      "details": "No cn2000.com.au captures exist in the Wayback Machine; only evidence is a Cynosure ISP-directory listing (captured Mar 2000).",
+      "source": [
+        "https://web.archive.org/web/20000303002945/http://www.cynosure.com.au/isp/cn2000"
+      ]
     }
   ],
   "refs": [

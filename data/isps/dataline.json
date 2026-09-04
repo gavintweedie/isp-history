@@ -18,12 +18,17 @@
       "year": 1996,
       "date_disp": "28 Aug 1996",
       "precision": "exact",
-      "details": "DATALINE.NET.AU PTY LTD ACN 075400529 registered 28 Aug 1996 (Stafford QLD); founding member AACIP; deregistered 23 Jul 2006.",
+      "details": "DATALINE.NET.AU PTY LTD ACN 075 400 529 registered 28 Aug 1996 (Stafford QLD 4053); founding member AACIP; ABN cancelled 23 Jul 2008 (per ABR).",
       "refs": [
         {
           "kind": "official",
           "url": "https://creditorwatch.com.au/credit/profile/69075400529",
           "label": "Dataline.net.au Pty Ltd ACN 075400529 \u2014 28 Aug 1996"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=69075400529",
+          "label": "ABR: DATALINE.NET.AU PTY LTD ACN 075 400 529 (ABN cancelled 23 Jul 2008)"
         }
       ]
     },

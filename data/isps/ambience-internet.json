@@ -4,7 +4,7 @@
   "birthplace": "Ormeau (Brisbane), QLD",
   "status": "inactive",
   "website": "https://ambience.com.au",
-  "summary": "Queensland dialup + hosting ISP (Brisbane/Cairns/Townsville + Sydney); dead.",
+  "summary": "Queensland dialup + hosting ISP (Brisbane/Cairns/Townsville + Sydney); gone c.2001, domain reused by Asgard Web Technologies web host then Ambience Store.",
   "names": [
     {
       "name": "Ambience Internet",
@@ -29,10 +29,15 @@
     },
     {
       "kind": "death",
-      "year": 2013,
-      "date_disp": "c. 2013",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail ISP site last seen Feb 2001; ambience.com.au taken over by Asgard Web Technologies (a web host) by Sep 2001, later redirecting to Ambience Store — the ISP was gone by then.",
+      "source": [
+        "https://web.archive.org/web/20010202150800/http://www.ambience.com.au/",
+        "https://web.archive.org/web/20010926195126/http://www.ambience.com.au/",
+        "https://web.archive.org/web/20040328040056/http://www.ambience.com.au/"
+      ]
     }
   ],
   "refs": [

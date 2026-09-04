@@ -18,7 +18,10 @@
       "year": 1998,
       "date_disp": "3 Dec 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture 3 Dec 1998 (auscape.net.au); acquired by IDEAL Internet 1998. Earliest capture 3 dec 1998.",
+      "details": "Earliest Wayback capture 3 Dec 1998 (auscape.net.au); business-focused ISP at 138-140 Adderley St, Auburn, Sydney, serving the greater-Sydney 02 area; acquired by IDEAL Internet 1998 per owner Darren Worley.",
+      "source": [
+        "https://web.archive.org/web/19990129073739/http://auscape.net.au/about.html"
+      ],
       "refs": [
         {
           "kind": "archive",

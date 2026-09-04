@@ -4,25 +4,32 @@
   "birthplace": "Northmead (Sydney), NSW",
   "status": "inactive",
   "website": "https://accc.net.au",
-  "summary": "Sydney dialup + hosting ISP + IT consulting; ISP era ended ~2004 (COMMUNICATION CONCEPTS PTY LTD, ACN 002 954 458).",
+  "summary": "Sydney dialup + hosting ISP + IT consulting under COMMUNICATION CONCEPTS PTY LTD (ACN 002 954 458, an early-1980s registration; ABN active from Jun 2001); accc.net.au first archived Aug 2000, ISP era ended ~2004.",
   "names": [
     {
       "name": "Access Communication Concepts",
       "start_year": 2000,
-      "start_disp": "15 Aug 2000"
+      "start_disp": "by Aug 2000",
+      "source": [
+        "Earliest Wayback capture of accc.net.au: https://web.archive.org/web/20000815212358id_/http://www.accc.net.au/"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2000,
-      "date_disp": "15 Aug 2000",
-      "precision": "exact",
-      "details": "Dialup, hosting, IT/network consulting; incorporation 15 Aug 2000.",
+      "date_disp": "by Aug 2000",
+      "precision": "by",
+      "details": "Dialup, hosting, IT/network consulting. Website accc.net.au first archived 15 Aug 2000 (this is the first web presence, not an incorporation date). The operating company COMMUNICATION CONCEPTS PTY LTD (ACN 002 954 458) is an early-1980s registration; its ABN is active only from 1 Jun 2001 — so the ISP brand's web launch is best dated ~2000.",
+      "source": [
+        "https://web.archive.org/web/20000815212358id_/http://www.accc.net.au/",
+        "ABR: COMMUNICATION CONCEPTS PTY LTD, ABN 45 002 954 458 - https://abr.business.gov.au/ABN/View?abn=45002954458"
+      ],
       "refs": [
         {
           "kind": "archive",
-          "url": "https://web.archive.org/web/20000815000000/http://www.accc.net.au/",
+          "url": "https://web.archive.org/web/20000815212358/http://www.accc.net.au/",
           "label": "Access Communication Concepts (Wayback 15 Aug 2000)"
         }
       ]

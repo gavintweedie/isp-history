@@ -18,14 +18,20 @@
       "year": 1995,
       "date_disp": "c. 1995-96",
       "precision": "approx",
-      "details": "National dialup, web design/hosting."
+      "details": "National dialup, web design/hosting. Founding predates the archive; earliest Wayback capture 4 Feb 1998 (dnet.com.au).",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=dnet.com.au"
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct; last substantive homepage capture Feb 2001, then no captures until a stub in 2006 and HTTP 403 by 2007.",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=dnet.com.au"
+      ]
     }
   ],
   "refs": [

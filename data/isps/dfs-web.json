@@ -23,16 +23,24 @@
     {
       "kind": "death",
       "year": 2003,
-      "date_disp": "by Sep 2003",
+      "date_disp": "by 2003",
       "precision": "by",
-      "details": "Defunct."
+      "details": "Last live homepage Nov 2002 ('DFS Web - Internet Access'); dfs-web.net.au returned 403 (Feb 2003) then 404 (Apr-Sep 2003).",
+      "source": [
+        "https://web.archive.org/web/20021127193332/http://www.dfs-web.net.au/ (last live homepage, Nov 2002)"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
+      "url": "https://web.archive.org/web/20021127193332/http://www.dfs-web.net.au/",
+      "label": "DFS Web - Internet Access (Wayback 27 Nov 2002, last live capture)"
+    },
+    {
+      "kind": "archive",
       "url": "https://web.archive.org/web/20030924191111/http://www.dfs-web.net.au/",
-      "label": "DFS Web (Wayback 2003)"
+      "label": "DFS Web (Wayback 24 Sep 2003, 404 - site gone)"
     }
   ]
 }

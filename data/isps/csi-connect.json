@@ -4,7 +4,7 @@
   "birthplace": "Charlestown, NSW",
   "status": "inactive",
   "website": "https://csiconnect.com.au",
-  "summary": "Newcastle business ISP (Complete Systems Integration Pty Ltd); ADSL/VoIP/WiFi; defunct ~2015.",
+  "summary": "Newcastle business ISP; ADSL + VoIP + WiFi; brand defunct ~2015 but operating company still registered (AQUAMAW PTY LIMITED t/a Complete Systems Integration, ACN 050 095 442).",
   "names": [
     {
       "name": "CSI Connect",
@@ -18,14 +18,30 @@
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Business ISP, Charlestown Newcastle."
+      "details": "Business ISP, Charlestown NSW (Newcastle); operated by AQUAMAW PTY LIMITED (ACN 050 095 442, ABN active 10 Apr 2000) t/a Complete Systems Integration (trading name from 23 Jun 2006).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=11050095442"
+      ]
     },
     {
       "kind": "death",
       "year": 2015,
       "date_disp": "c. 2015",
       "precision": "approx",
-      "details": "Defunct (domain dead after ~2015)."
+      "details": "ISP brand defunct (csiconnect.com.au dead after ~2015).",
+      "source": [
+        "csiconnect.com.au no longer resolves (checked Sep 2026)"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "precision": "exact",
+      "details": "Operating company AQUAMAW PTY LIMITED (ACN 050 095 442) t/a Complete Systems Integration remains ABN-active; only the CSI Connect ISP brand ceased.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=11050095442"
+      ]
     }
   ],
   "refs": [

@@ -9,7 +9,10 @@
     {
       "name": "ACAY",
       "start_year": 1994,
-      "start_disp": "c. 1994"
+      "start_disp": "c. 1994",
+      "source": [
+        "1996 homepage 'ACAY Network Computing', Level 1, 10 Help St, Chatswood NSW 2067 (earliest Wayback capture; 1994 founding predates the archive and is unverified): https://web.archive.org/web/19961023062345id_/http://www.acay.com.au/"
+      ]
     }
   ],
   "events": [
@@ -18,14 +21,20 @@
       "year": 1994,
       "date_disp": "c. 1994",
       "precision": "approx",
-      "details": "Dialup across Sydney suburbs + Canberra."
+      "details": "Dialup across Sydney suburbs + Canberra ('ACAY Network Computing', Chatswood NSW). Earliest Wayback capture Oct 1996; 1994 founding predates the archive and is unverified.",
+      "source": [
+        "https://web.archive.org/web/19961023062345id_/http://www.acay.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "by 2012",
+      "year": 2013,
+      "date_disp": "by 2013",
       "precision": "by",
-      "details": "Brand absorbed into VentraIP."
+      "details": "Brand absorbed into VentraIP. VentraIP control of acay.com.au is confirmed by 3 Dec 2013 (homepage is a VentraIP Australia hosting/parking page); a Wayback gap 2005–2013 means the exact absorption year (possibly ~2012) can't be pinned.",
+      "source": [
+        "https://web.archive.org/web/20131203111809id_/http://acay.com.au/"
+      ]
     }
   ],
   "refs": [

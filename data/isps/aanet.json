@@ -1,31 +1,42 @@
 {
   "name": "aaNet",
   "slug": "aanet",
-  "birthplace": "Melbourne, VIC",
+  "birthplace": "Capalaba (Brisbane), QLD",
   "status": "inactive",
   "website": "https://aanet.com.au",
-  "summary": "Independent Melbourne broadband ISP; acquired by Eftel 2006.",
+  "summary": "Independent specialist broadband ISP founded Jan 2004 by Lorraine Rose (Capalaba, Brisbane QLD); acquired by Perth-based Eftel in 2006 and carried on as an Eftel brand.",
   "names": [
     {
       "name": "aaNet",
-      "start_year": 1996,
-      "start_disp": "c. 1996"
+      "start_year": 2004,
+      "start_disp": "Jan 2004",
+      "source": [
+        "en-academic (mirror of former Wikipedia article): established January 2004 by Lorraine Rose - https://en-academic.com/dic.nsf/enwiki/11810603"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "c. 1996",
+      "year": 2004,
+      "date_disp": "Jan 2004",
       "precision": "approx",
-      "details": "Independent Melbourne specialist broadband ISP."
+      "details": "Independent specialist broadband ISP established January 2004 by Lorraine Rose, based in Capalaba, Brisbane QLD. Earliest Wayback capture of aanet.com.au is 9 Apr 2004, consistent with a Jan-2004 launch (no evidence for the previously listed 1996 origin).",
+      "source": [
+        "https://en-academic.com/dic.nsf/enwiki/11810603",
+        "Earliest Wayback capture 9 Apr 2004: https://web.archive.org/web/20040409000000*/aanet.com.au"
+      ]
     },
     {
       "kind": "death",
       "year": 2006,
       "date_disp": "2006",
       "precision": "exact",
-      "details": "Acquired by Eftel; carried on as an Eftel brand."
+      "details": "Acquired by Perth-based Eftel (agreed Jan 2006, completed mid-2006), doubling Eftel's broadband base to ~40,000; carried on as an Eftel brand. Eftel was itself acquired by M2 Group (now Vocus) in 2013.",
+      "source": [
+        "Sydney Morning Herald, 14 Jul 2006: 'EFTel has doubled its broadband customer base ... with the purchase of privately held rival aaNet'",
+        "Eftel acquired by M2 Group in 2013: https://en.wikipedia.org/wiki/Eftel"
+      ]
     }
   ],
   "refs": [

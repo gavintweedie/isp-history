@@ -18,21 +18,27 @@
       "year": 1999,
       "date_disp": "by 1999",
       "precision": "by",
-      "details": "Dialup, network consulting, hosting."
+      "details": "Dialup, network consulting, hosting. Earliest Wayback capture 28 Apr 1999 (directnet.com.au).",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=directnet.com.au"
+      ]
     },
     {
       "kind": "death",
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Brand succeeded by AustralianIT."
+      "details": "Brand reportedly succeeded by AustralianIT (unverified); directnet.com.au held a small static holding page 2002-2004, with minor placeholder captures through Aug 2007.",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=directnet.com.au"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
-      "url": "https://web.archive.org/web/2005/http://www.directnet.com.au/",
-      "label": "Direct Net (Wayback 2005)"
+      "url": "https://web.archive.org/web/20040212072300/http://www.directnet.com.au/",
+      "label": "Direct Net Solutions (Wayback 12 Feb 2004)"
     }
   ]
 }

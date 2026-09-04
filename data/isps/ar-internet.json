@@ -18,14 +18,21 @@
       "year": 1994,
       "date_disp": "Jan 1994",
       "precision": "exact",
-      "details": "Dialup then nationwide ADSL, hosting."
+      "details": "Dialup (SLIP/PPP, shell) then nationwide ADSL + hosting; 'providing online services since January 1994 ... one of Sydney's longest running ISPs' per its own 1997 site.",
+      "source": [
+        "https://web.archive.org/web/19970209190710/http://www.ar.com.au/",
+        "A.R. Internet (Wayback 9 Feb 1997): 'Sydney, Australia. A.R. providing online services since January 1994. One of Sydney's longest running ISPs'"
+      ]
     },
     {
       "kind": "death",
       "year": 2018,
       "date_disp": "c. 2018",
       "precision": "approx",
-      "details": "Offline."
+      "details": "Offline; last Wayback capture 26 Jan 2018 (site content unchanged since c.2012).",
+      "source": [
+        "ar.com.au CDX: last HTTP 200 capture 26 Jan 2018, no captures thereafter"
+      ]
     }
   ],
   "refs": [

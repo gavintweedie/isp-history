@@ -18,7 +18,11 @@
       "year": 1992,
       "date_disp": "1992",
       "precision": "exact",
-      "details": "Founded by Mark Gregson, successor to PubNet."
+      "details": "Founded by Mark Gregson, successor to PubNet; incorporated in Victoria; predates the Wayback archive (earliest apana.org.au capture 12 Jul 1997) and unverified.",
+      "source": [
+        "https://web.archive.org/web/19970712064312/http://www.apana.org.au/",
+        "https://abr.business.gov.au/ABN/View?abn=84081355722"
+      ]
     }
   ],
   "refs": [

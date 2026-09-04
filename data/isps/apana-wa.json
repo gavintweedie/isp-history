@@ -18,7 +18,10 @@
       "year": 1994,
       "date_disp": "c. 1994",
       "precision": "approx",
-      "details": "APANA regional structure; WA hub."
+      "details": "APANA regional structure; WA hub ('Apana West'); region linked from apana.org.au homepage by 12 Jul 1997; founding predates the archive and is unverified.",
+      "source": [
+        "https://web.archive.org/web/19970712064312/http://www.apana.org.au/"
+      ]
     },
     {
       "kind": "death",

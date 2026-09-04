@@ -18,7 +18,10 @@
       "year": 2003,
       "date_disp": "17 Jul 2003",
       "precision": "exact",
-      "details": "BroadbandNet Pty Ltd registered (Perth WA)."
+      "details": "BroadbandNet Pty Ltd registered (Perth WA); earliest Wayback capture 6 Oct 2003 (broadbandnet.com.au) corroborates.",
+      "source": [
+        "https://web.archive.org/web/20031006102438/http://www.broadbandnet.com.au/"
+      ]
     },
     {
       "kind": "death",

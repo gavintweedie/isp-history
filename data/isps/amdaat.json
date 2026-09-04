@@ -4,7 +4,7 @@
   "birthplace": "Singleton, WA",
   "status": "inactive",
   "website": null,
-  "summary": "Singleton WA internet services provider (Redlea Investments Pty Ltd, ACN 086216766); operated as 'Amdaat Internet Services' Mar 2003 – Apr 2006; company pivoted to Ezybonds (electronic funds transfer).",
+  "summary": "Singleton WA internet + web-hosting + web-design services; operated as 'Amdaat Internet Services' Mar 2003 – Apr 2006, then the company pivoted to Ezybonds EFT (REDLEA INVESTMENTS PTY LTD, ACN 086 216 766).",
   "aliases": [
     "Amdaat Internet Services",
     "Redlea Investments Pty Ltd"
@@ -24,14 +24,20 @@
       "year": 2003,
       "date_disp": "18 Mar 2003",
       "precision": "exact",
-      "details": "Business name 'Amdaat Internet Services' registered 18 Mar 2003 (Redlea Investments Pty Ltd, ACN 086216766, incorporated 9 Feb 1999); 82 Murdoch Dr, Singleton WA 6175; phone 08 9537 2262; internet services, computer consulting, website design, web hosting."
+      "details": "Business name 'Amdaat Internet Services' registered 18 Mar 2003 (Redlea Investments Pty Ltd, ACN 086 216 766, incorporated 9 Feb 1999); 82 Murdoch Dr, Singleton WA 6175; phone 08 9537 2262; internet services, computer consulting, website design, web hosting.",
+      "source": [
+        "https://www.abn-lookup.com/firm/redlea-investments-pty-ltd-086216766/ (ABR: business name 'Amdaat Internet Services' 18 Mar 2003 - 24 Apr 2006; Redlea Investments Pty Ltd ACN 086 216 766, ABN 34 086 216 766, registered 9 Feb 1999)"
+      ]
     },
     {
       "kind": "death",
       "year": 2006,
-      "date_disp": "Apr 2006",
+      "date_disp": "24 Apr 2006",
       "precision": "exact",
-      "details": "Business name cancelled 24 Apr 2006; company pivoted to Ezybonds (electronic funds transfer services)."
+      "details": "Business name 'Amdaat Internet Services' cancelled 24 Apr 2006; company pivoted to 'Ezybonds Electronic Funds Transfer Services' (business name registered 23 Feb 2006).",
+      "source": [
+        "https://www.abn-lookup.com/firm/redlea-investments-pty-ltd-086216766/ (ABR: 'Ezybonds Electronic Funds Transfer Services' 23 Feb 2006 - 2 Apr 2012)"
+      ]
     }
   ],
   "refs": [

@@ -28,7 +28,11 @@
       "year": 2011,
       "date_disp": "c. 2011",
       "precision": "approx",
-      "details": "Absorbed by EFTel."
+      "details": "Crystal ISP retail (Perth WA) active through Feb 2011; www.crystal.com.au 302-redirected to w3.eftel.com.au from Oct 2011, confirming absorption into EFTel.",
+      "source": [
+        "https://web.archive.org/web/20110205080238id_/http://crystal.com.au/",
+        "302 redirect www.crystal.com.au -> w3.eftel.com.au (Wayback 16 Oct 2011)"
+      ]
     }
   ],
   "refs": [

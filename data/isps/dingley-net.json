@@ -32,7 +32,11 @@
       "year": 2017,
       "date_disp": "c. 2016-17",
       "precision": "approx",
-      "details": "Brand wound down (~2016-17); dingley.net email addresses continue via the webmail portal of sister brand Aardvark Internet - both operated by Noro Communications Pty Ltd (ACN 105 873 078) since 2003-04."
+      "details": "Brand wound down (~2016-17): last own-content homepage Oct 2016, dingley.net redirecting (301) from Mar 2017; dingley.net email addresses continue via the webmail portal of sister brand Aardvark Internet - both operated by Noro Communications Pty Ltd (ACN 105 873 078) since 2003-04.",
+      "source": [
+        "https://web.archive.org/web/20161002024144/http://dingley.net/ (last own-content homepage, Oct 2016)",
+        "https://web.archive.org/web/20170313105054/http://dingley.net/ (301 redirect, Mar 2017)"
+      ]
     }
   ],
   "refs": [

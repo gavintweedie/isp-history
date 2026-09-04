@@ -18,14 +18,32 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "ADSL plans."
+      "details": "Crazy Broadband ADSL retail (\"The Craze in Internet Connectivity\", with customer login); crazy.com.au was a parked Netregistry BizCard in 2004-05, with the branded retail site captured 2006-07.",
+      "source": [
+        "https://web.archive.org/web/20040612145522id_/http://www.crazy.com.au/",
+        "https://web.archive.org/web/20060728113239id_/http://www.crazy.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail site last substantive by 2007; reduced to a small page by 2008 and a generic domain-reseller page (\"Cheap Domain Names Australia\") by 2009.",
+      "source": [
+        "https://web.archive.org/web/20070829013654id_/http://www.crazy.com.au/",
+        "https://web.archive.org/web/20091204124441id_/http://www.crazy.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2016,
+      "date_disp": "2016",
+      "precision": "exact",
+      "details": "ABR lists ABN 83 402 157 060 as BARKER, ROBERT MICHAEL (QLD individual/sole trader, cancelled 21 Sep 2016), which does not corroborate the \"Comcen-backed\" description; the ABN attribution is unverified.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=83402157060"
+      ]
     }
   ]
 }

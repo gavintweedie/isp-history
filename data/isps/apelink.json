@@ -4,7 +4,7 @@
   "birthplace": "Blackburn South (Melbourne), VIC",
   "status": "inactive",
   "website": "https://apelink.net.au",
-  "summary": "Melbourne national dialup ISP (Asia Pacific Enterprise Link Pty Ltd); gone by 2001.",
+  "summary": "Melbourne national dialup ISP; formed Mar 1998, launched Jun 1999 on connect.com.au; gone by 2001 (ASIA PACIFIC ENTERPRISE LINK PTY LTD, ACN 082 100 409).",
   "names": [
     {
       "name": "APELink",
@@ -18,14 +18,20 @@
       "year": 1998,
       "date_disp": "Mar 1998",
       "precision": "exact",
-      "details": "Asia Pacific Enterprise Link; launched Jun 1999 on connect.com.au."
+      "details": "Formed March 1998 by directors Gary Samuels (MD), Tony Cheng, Patricia Wu and Bob Li; PO Box 210, Blackburn South VIC (ACN 082 100 409); signed connect.com.au May 1999 and launched national dialup service Jun 1999.",
+      "source": [
+        "https://web.archive.org/web/20000128212157id_/http://www.apelink.net.au/about.html"
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
       "date_disp": "by 2001",
       "precision": "by",
-      "details": "Defunct."
+      "details": "Defunct; last Wayback capture of www.apelink.net.au 16 Jun 2000, none thereafter.",
+      "source": [
+        "https://web.archive.org/web/20000616203956/http://www.apelink.net.au/"
+      ]
     }
   ],
   "refs": [

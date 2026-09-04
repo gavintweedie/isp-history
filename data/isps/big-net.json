@@ -4,7 +4,7 @@
   "birthplace": "Lutwyche (Brisbane), QLD",
   "status": "inactive",
   "website": "https://big.net.au",
-  "summary": "Brisbane unlimited dialup ISP ($27/mo, QLD-wide POPs); dead (domain parked).",
+  "summary": "Brisbane unlimited dialup ISP ($27/mo, QLD-wide POPs); rebranded/migrated to KeyPoint (keypoint.com.au) c. 2002-03, domain later redirected to Eftel.",
   "names": [
     {
       "name": "Big.net.au",
@@ -18,14 +18,21 @@
       "year": 1998,
       "date_disp": "by 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1998)."
+      "details": "Earliest Wayback capture of big.net.au 15 May 1998.",
+      "source": [
+        "https://web.archive.org/web/19980515125500id_/http://www.big.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "2005",
-      "precision": "exact",
-      "details": "Last active capture of big.net.au (Apr 2005)."
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Own-brand ISP homepage ran through late 2002; by Feb 2003 replaced by a 'Big.net >> KeyPoint Redirection Page' migrating users to keypoint.com.au (this static redirect page persisted to Apr 2005). From 2006 big.net.au 302-redirected to Eftel (w3.eftel.com).",
+      "source": [
+        "https://web.archive.org/web/20030202200518id_/http://www.big.net.au/",
+        "https://web.archive.org/web/20060610035821id_/http://www.big.net.au/"
+      ]
     }
   ],
   "refs": [

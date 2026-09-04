@@ -18,14 +18,21 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Dialup + ADSL (SIS Group Pty Ltd)."
+      "details": "Dialup + ADSL (SIS Group Pty Ltd, ACN 079 466 274). Earliest Wayback capture 2 Apr 2001 (bullet.net.au).",
+      "source": [
+        "https://web.archive.org/web/20010402011303/http://www.bullet.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2017,
       "date_disp": "by May 2017",
       "precision": "by",
-      "details": "Folded into SIS Group (Amaze)."
+      "details": "Folded into SIS Group (Amaze). Retail bullet.net.au homepage served content through early 2016 (last 200 capture Mar 2016); from 2017 the domain returned only 301 redirects.",
+      "source": [
+        "https://web.archive.org/web/20160306144724/http://www.bullet.net.au/",
+        "Wayback CDX: 200 homepage through Mar 2016, 301 from 2017"
+      ]
     }
   ]
 }

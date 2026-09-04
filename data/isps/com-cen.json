@@ -4,7 +4,7 @@
   "birthplace": "Camperdown (Sydney), NSW",
   "status": "inactive",
   "website": "https://comcen.com.au",
-  "summary": "Sydney dialup/ISDN/frame relay ISP; absorbed by Spintel ~2014-15 (CEN PTY. LTD., ACN 010 078 010).",
+  "summary": "Sydney dialup/ISDN/frame relay + virtual hosting ISP (Camperdown); live through 2008, absorbed by SpinTel ~2014-15.",
   "names": [
     {
       "name": "Com-Cen",
@@ -32,7 +32,20 @@
       "year": 2015,
       "date_disp": "c. 2014-15",
       "precision": "approx",
-      "details": "Absorbed by Spintel."
+      "details": "Retail homepage live through at least 2008 (Wayback, latterly www2.comcen.com.au); absorbed by SpinTel ~2014-15.",
+      "source": [
+        "https://web.archive.org/web/20080311015719/http://www2.comcen.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "exact",
+      "details": "The ABR entity CEN PTY. LTD. (ACN 010 078 010) previously cited here is a name collision — it is the MR TOYS TOYWORLD toy retailer, not the Sydney ISP Com-Cen. Gov ref removed.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=74010078010"
+      ]
     }
   ],
   "refs": [
@@ -40,11 +53,6 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970722025644/http://www.comcen.com.au/",
       "label": "Com-Cen (Wayback 1997)"
-    },
-    {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=74010078010",
-      "label": "ABR: CEN PTY. LTD. ACN 010 078 010"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Kelmscott (Perth), WA",
   "status": "inactive",
   "website": "https://amitar.com.au",
-  "summary": "Perth dialup/web-hosting ISP; defunct as ISP (domain repurposed as Amitar Publishing).",
+  "summary": "Kelmscott/Armadale (Perth) WA dialup + hosting + web-design ISP; live from 1998, site frozen as a static page from ~2008 through 2017, domain reused by 2023.",
   "names": [
     {
       "name": "Amitar Internet Services",
@@ -18,7 +18,11 @@
       "year": 1998,
       "date_disp": "12 Feb 1998",
       "precision": "exact",
-      "details": "Earliest Wayback capture 12 Feb 1998 (amitar.com.au); Usenet active Jun-Sep 1998.",
+      "details": "Earliest Wayback capture 12 Feb 1998 (amitar.com.au); Usenet active Jun-Sep 1998; 'Amitar Internet Services, based in Kelmscott Western Australia provides Internet Dial-up, hosting and Web Design Services' for the Armadale/Kelmscott area.",
+      "source": [
+        "https://web.archive.org/web/19980212045003/http://www.amitar.com.au/ (earliest of the amitar.com.au Wayback captures per CDX)",
+        "https://web.archive.org/web/20080827220315id_/http://www.amitar.com.au/ (meta description: dialup + hosting + web design, Kelmscott/Armadale WA)"
+      ],
       "refs": [
         {
           "kind": "archive",
@@ -29,10 +33,13 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000s",
+      "year": 2017,
+      "date_disp": "c. 2017",
       "precision": "approx",
-      "details": "Defunct as ISP."
+      "details": "Still presenting as an active 'Amitar Internet Services' dialup + hosting + web-design site in Aug 2008; that page then persisted byte-identical through Feb 2017 (business apparently wound down but the site was left up), and the domain shows unrelated content by 2023.",
+      "source": [
+        "https://web.archive.org/cdx/search/cdx?url=amitar.com.au&output=json (identical page digest XNSJDYWDSHYFECQEUNHYBJKBEONMIP7A across 2008-08-27, 2009, 2011, 2015, 2017; different content 2023-11-04)"
+      ]
     }
   ],
   "refs": [

@@ -18,14 +18,20 @@
       "year": 1999,
       "date_disp": "1999",
       "precision": "exact",
-      "details": "Established by Optus as an online phone/internet retailer."
+      "details": "Established by Optus as an online phone/internet retailer. Earliest Wayback capture 3 Oct 1999 (dingoblue.com.au).",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=dingoblue.com.au"
+      ]
     },
     {
       "kind": "death",
       "year": 2002,
       "date_disp": "May 2002",
       "precision": "exact",
-      "details": "Closed (services ceased 30 May 2002 after AGL wind-up)."
+      "details": "Closed (services ceased 30 May 2002 after AGL wind-up); dingoblue.com.au reduced to a small static placeholder by 2005-06.",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=dingoblue.com.au"
+      ]
     }
   ],
   "refs": [

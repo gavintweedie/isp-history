@@ -1,10 +1,10 @@
 {
   "name": "Broadband Solutions",
   "slug": "broadband-solutions",
-  "birthplace": "Melbourne/Sydney",
-  "status": "inactive",
+  "birthplace": "Melbourne, VIC",
+  "status": "active",
   "website": "https://broadbandsolutions.com.au",
-  "summary": "Broadband/VoIP specialist (ABN 68 114 405 248, ~2005); defunct.",
+  "summary": "Melbourne business broadband + VoIP + managed-network ISP; still active (BROADBAND SOLUTIONS PTY LTD, ACN 114 405 248).",
   "names": [
     {
       "name": "Broadband Solutions",
@@ -28,11 +28,16 @@
       ]
     },
     {
-      "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "precision": "exact",
+      "details": "Still trading: ABN 68 114 405 248 active, GST-registered, ABR record updated 27 Jul 2026 (business name SmartPABX); homepage broadbandsolutions.com.au live, offering NBN/fibre + SIP/SmartPABX + managed networks. Prior 'defunct c. 2008' was incorrect — continuous Wayback homepage captures run well past 2008 (through 2014+).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=68114405248",
+        "https://web.archive.org/web/20140618183417/http://www.broadbandsolutions.com.au/",
+        "https://broadbandsolutions.com.au"
+      ]
     }
   ]
 }

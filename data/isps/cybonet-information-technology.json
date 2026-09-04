@@ -16,16 +16,22 @@
     {
       "kind": "birth",
       "year": 1999,
-      "date_disp": "1999",
+      "date_disp": "Jul 1999",
       "precision": "exact",
-      "details": "Dialup, hosting, networking (ISP from Oct 1999)."
+      "details": "Cybonet Information Technology Pty Ltd established Jul 1999; became an ISP Oct 1999 providing dialup internet access in the Sydney region; also web hosting, web design, networking and IT sales.",
+      "source": [
+        "https://web.archive.org/web/20030603214817id_/http://www.cybonet.com.au/aboutus.html"
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
       "date_disp": "Feb 2001",
       "precision": "exact",
-      "details": "Internet operations sold to Internet Depot."
+      "details": "Sold its internet operations to Internet Depot (Feb 2001); continued as an IT company (Mount Druitt Village NSW).",
+      "source": [
+        "https://web.archive.org/web/20030603214817id_/http://www.cybonet.com.au/aboutus.html"
+      ]
     }
   ],
   "refs": [

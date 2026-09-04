@@ -4,7 +4,7 @@
   "birthplace": "Gosford, NSW",
   "status": "inactive",
   "website": "https://cirruscomms.com.au",
-  "summary": "Licensed fixed-wireless broadband carrier for regional Australia; serial acquirer of small regional wireless ISPs (CommsLogic 2007, WireFree 2008, UniSky 2008, LiSP wireless, My WiSP, Chariot wireless assets); rebranded Swoop ~2020 (CIRRUS PTY LTD, ACN 636 256 052).",
+  "summary": "Licensed fixed-wireless broadband carrier for regional Australia; serial acquirer of small regional wireless ISPs (CommsLogic 2007, WireFree 2008, UniSky 2008, LiSP wireless, My WiSP, Chariot wireless assets); rebranded Swoop ~2021 via reverse takeover.",
   "names": [
     {
       "name": "Cirrus Communications",
@@ -18,7 +18,10 @@
       "year": 2003,
       "date_disp": "2003",
       "precision": "exact",
-      "details": "Cirrus Communications founded, Gosford NSW (fixed wireless)."
+      "details": "Cirrus Communications founded, Gosford NSW (fixed wireless). Live by the earliest Wayback capture, 12 Jul 2005.",
+      "source": [
+        "https://web.archive.org/web/20050712050200/http://www.cirruscomms.com.au/"
+      ]
     },
     {
       "kind": "death",
@@ -26,6 +29,16 @@
       "date_disp": "May 2021",
       "precision": "exact",
       "details": "Rebranded Swoop; merged into Swoop Holdings via reverse takeover."
+    },
+    {
+      "kind": "note",
+      "year": 2021,
+      "date_disp": "2021",
+      "precision": "approx",
+      "details": "ACN attribution caveat: the entity CIRRUS PTY LTD (ACN 636 256 052, ABN 17 636 256 052, NSW 2023) does not correspond to the 2003 Gosford operating company — its ACN was registered ~2019 and its ABN is active only from 1 Sep 2021, postdating both the founding and the ~May 2021 Swoop rebrand, and its name (CIRRUS PTY LTD, not Cirrus Communications) and Sydney address differ. It appears to be a later Swoop-group brand-holding entity; the operating company's ABN is not currently locatable (no active 'Cirrus Communications' on ABR — likely cancelled/renamed after the reverse takeover).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=17636256052 (CIRRUS PTY LTD, ABN active from 01 Sep 2021, NSW 2023)"
+      ]
     }
   ],
   "refs": [
@@ -37,7 +50,7 @@
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=17636256052",
-      "label": "ABR: CIRRUS PTY LTD ACN 636 256 052"
+      "label": "ABR: CIRRUS PTY LTD ACN 636 256 052 (later same-name entity, ABN active from 2021 — not the 2003 operating company)"
     }
   ]
 }

@@ -4,12 +4,15 @@
   "birthplace": "Quakers Hill (Sydney), NSW",
   "status": "inactive",
   "website": "https://www.askaussie.com",
-  "summary": "Sydney budget dialup ISP (plans from $5/mo, 0198 Dial Connect; POPs Melbourne/Perth/Kalgoorlie); defunct.",
+  "summary": "Sydney budget dialup ISP (plans from $5/mo, 0198 Dial Connect; POPs Melbourne/Perth/Kalgoorlie), later dialup + broadband + home phone as Ask Aussie Internet & Telecom; defunct c.2008-09.",
   "names": [
     {
       "name": "AskAussie",
       "start_year": 2002,
-      "start_disp": "4 Jun 2002"
+      "start_disp": "4 Jun 2002",
+      "source": [
+        "https://web.archive.org/web/20080211100252/http://www.askaussie.com/ (branded \"Ask Aussie Internet & Telecom\" by 2008)"
+      ]
     }
   ],
   "events": [
@@ -29,10 +32,14 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2009,
+      "date_disp": "c. 2008-09",
       "precision": "approx",
-      "details": "No trace after early 2000s."
+      "details": "Full retail site (Ask Aussie Internet & Telecom: dialup + broadband + home phone) live through Feb 2008; \"site temporarily unavailable / Offline\" placeholder by Aug 2009.",
+      "source": [
+        "https://web.archive.org/web/20080211100252/http://www.askaussie.com/ (retail site, Feb 2008)",
+        "https://web.archive.org/web/20090809212144/http://www.askaussie.com/ (offline placeholder, Aug 2009)"
+      ]
     }
   ],
   "refs": [

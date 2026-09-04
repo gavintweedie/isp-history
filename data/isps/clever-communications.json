@@ -41,7 +41,30 @@
       "year": 2011,
       "date_disp": "Jan 2011",
       "precision": "exact",
-      "details": "Acquired by BigAir (compulsory acquisition); SMB assets to M2 (2010)."
+      "details": "Acquired by BigAir (compulsory acquisition); SMB assets to M2 (2010).",
+      "source": [
+        "https://www.delisted.com.au/company/access-providers-limited/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2003,
+      "date_disp": "5 Feb 2003",
+      "precision": "exact",
+      "details": "ACN note: CLEVER COMMUNICATIONS AUSTRALIA PTY LIMITED (ACN 103 623 356) is the operating private company, ABN active from 5 Feb 2003 and still registered; distinct from the ASX-listed parent Access Providers Limited (ASX:APV) that was renamed Clever Communications Australia Ltd on 19 Jul 2007 and acquired by BigAir.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=72103623356"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2021,
+      "date_disp": "2021",
+      "precision": "by",
+      "details": "The domain clever.net.au is unrelated to this company: it has no Wayback captures until 2021 (thereafter only a short redirect/parked page), long after the 2011 BigAir acquisition.",
+      "source": [
+        "https://web.archive.org/web/20211129232140/http://clever.net.au/"
+      ]
     }
   ],
   "refs": [

@@ -4,7 +4,7 @@
   "birthplace": "Australia (national)",
   "status": "inactive",
   "website": "https://bigfoot.com.au",
-  "summary": "US-owned national dialup ISP (AU from 2001; bought Blast & Hotlinks ISPs; 70+ POPs); defunct.",
+  "summary": "National dialup ISP ('100% Australian owned', by 2001; bought Blast & Hotlinks ISPs; 70+ POPs); brand absorbed into Eftel (bigfoot.com.au rebranded to EFTel early 2005).",
   "names": [
     {
       "name": "Bigfoot Internet",
@@ -16,16 +16,30 @@
     {
       "kind": "birth",
       "year": 2001,
-      "date_disp": "2001",
-      "precision": "exact",
-      "details": "Dialup, 70+ POPs."
+      "date_disp": "by 2001",
+      "precision": "by",
+      "details": "Dialup, 70+ POPs; earliest substantive Wayback capture of bigfoot.com.au 25 Sep 2001 ('Welcome to Bigfoot Internet').",
+      "source": [
+        "https://web.archive.org/web/20010925120545id_/http://www.bigfoot.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2005,
+      "date_disp": "c. early 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Brand absorbed into Eftel: bigfoot.com.au was still Bigfoot-branded ('100% Australian owned') on 9 Jan 2005 but EFTel-branded by 30 Mar 2005.",
+      "source": [
+        "https://web.archive.org/web/20050109092836id_/http://www.bigfoot.com.au/",
+        "https://web.archive.org/web/20050330011614id_/http://www.bigfoot.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040209165841/http://www.bigfoot.com.au/",
+      "label": "Bigfoot Internet — '100% Australian owned' (Wayback 9 Feb 2004)"
     }
   ]
 }

@@ -1,24 +1,38 @@
 {
   "name": "Arctel",
   "slug": "arctel",
-  "birthplace": "Australia",
+  "birthplace": "Baulkham Hills (Sydney), NSW",
   "status": "active",
   "website": "https://arctel.com.au/",
-  "summary": "Budget NBN provider (Arctel Pty Ltd, ABN 45 679 504 146, ~2023); still active.",
+  "summary": "Budget residential NBN provider (ARCTEL PTY LTD, ACN 679 504 146, 2024); still active.",
   "names": [
     {
       "name": "Arctel",
-      "start_year": 2023,
-      "start_disp": "c. 2023"
+      "start_year": 2024,
+      "start_disp": "2024",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=45679504146"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2023,
-      "date_disp": "c. 2023",
+      "year": 2024,
+      "date_disp": "2024",
       "precision": "approx",
-      "details": "Budget NBN."
+      "details": "Budget residential NBN reseller; ARCTEL PTY LTD (ACN 679 504 146) registered ABN and GST 29 Jul 2024, Baulkham Hills (Sydney) NSW.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=45679504146",
+        "https://arctel.com.au/ (live homepage, 2026)"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=45679504146",
+      "label": "ABR: ARCTEL PTY LTD ACN 679 504 146 (ABN active from 29 Jul 2024)"
     }
   ]
 }

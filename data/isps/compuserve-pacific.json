@@ -3,29 +3,32 @@
   "slug": "compuserve-pacific",
   "birthplace": "Australia",
   "status": "inactive",
-  "website": "https://compuserve.com",
-  "summary": "CompuServe's Australian service; operated as 'CompuServe Pacific' (managed in part by Fujitsu Australia); dial-in nodes from ~1991; phased out after AOL's 1998 global acquisition of CompuServe, shut down in the early 2000s.",
+  "website": "https://compuserve.com.au",
+  "summary": "CompuServe's Australian service, operated as 'CompuServe Pacific' by Fujitsu Australia Ltd; dial-in nodes from ~1991; phased out after AOL's 1998 global acquisition of CompuServe, shut down in the early 2000s.",
   "names": [
     {
       "name": "CompuServe Pacific",
       "start_year": 1991,
-      "start_disp": "1991"
+      "start_disp": "c. 1991"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1991,
-      "date_disp": "1991",
-      "precision": "exact",
-      "details": "CompuServe Pacific launched via dial-in access nodes in Australia."
+      "date_disp": "c. 1991",
+      "precision": "approx",
+      "details": "CompuServe Pacific offered dial-in access in Australia, run by Fujitsu Australia Ltd; the earliest Wayback capture of compuserve.com.au (25 Dec 1996) carries the 'CompuServe Pacific' / 'Fujitsu Australia Ltd' branding. The ~1991 start predates the archive and is approximate.",
+      "source": [
+        "https://web.archive.org/web/19961225024523/http://www.compuserve.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2004,
       "date_disp": "c. 2003-04",
       "precision": "approx",
-      "details": "Phased out and shut down (after AOL's 1998 acquisition of CompuServe)."
+      "details": "Australian service phased out and shut down following AOL's 1998 global acquisition of CompuServe; compuserve.com.au later redirected to the global compuserve.com."
     }
   ],
   "refs": [
@@ -33,6 +36,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/CompuServe",
       "label": "Wikipedia: CompuServe"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961225024523/http://www.compuserve.com.au/",
+      "label": "CompuServe Pacific / Fujitsu Australia (Wayback 25 Dec 1996)"
     }
   ]
 }

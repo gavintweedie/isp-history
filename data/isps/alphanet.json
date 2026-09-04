@@ -1,15 +1,19 @@
 {
   "name": "AlphaNet",
   "slug": "alphanet",
-  "birthplace": "Sydney, NSW",
+  "birthplace": "Melbourne, VIC",
   "status": "active",
   "website": "https://alphanet.com.au",
-  "summary": "Sydney dialup ISP since 1995; now IT solutions/provider company (ALPHANET PTY. LTD., ACN 068 104 058).",
+  "summary": "Melbourne dialup ISP since 1995; pivoted to VoIP/hosting/IT services, still active (ALPHANET PTY. LTD., ACN 068 104 058).",
   "names": [
     {
       "name": "AlphaNet",
       "start_year": 1995,
-      "start_disp": "1995"
+      "start_disp": "1995",
+      "source": [
+        "https://web.archive.org/web/19970606100225/http://www.alphanet.com.au/",
+        "https://abr.business.gov.au/ABN/View?abn=71068104058"
+      ]
     }
   ],
   "events": [
@@ -18,7 +22,11 @@
       "year": 1995,
       "date_disp": "1995",
       "precision": "exact",
-      "details": "Dialup, now IT solutions + managed services."
+      "details": "Melbourne dialup ISP (Doncaster, VIC 3109 per ABR); now VoIP/hosting/IT solutions + managed services. Earliest Wayback capture 6 Jun 1997.",
+      "source": [
+        "https://web.archive.org/web/19970606100225/http://www.alphanet.com.au/",
+        "https://abr.business.gov.au/ABN/View?abn=71068104058"
+      ]
     },
     {
       "kind": "note",

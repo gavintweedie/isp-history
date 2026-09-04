@@ -4,7 +4,7 @@
   "birthplace": "Wantirna South (Melbourne), VIC",
   "status": "inactive",
   "website": "https://cyberspace.net.au",
-  "summary": "Melbourne dialup/ISDN/dedicated-access ISP; defunct (CYBERSPACE CORPORATION PTY. LTD., ACN 071 433 666).",
+  "summary": "Melbourne dialup/ISDN/ADSL + hosting + online-backup ISP; retail ISP wound down c. 2010, domain then redirected to Montimedia (CYBERSPACE CORPORATION PTY. LTD., ACN 071 433 666).",
   "names": [
     {
       "name": "Cyberspace Corporation",
@@ -16,16 +16,23 @@
     {
       "kind": "birth",
       "year": 1996,
-      "date_disp": "c. 1996",
-      "precision": "approx",
-      "details": "Dialup/ISDN/dedicated access, hosting."
+      "date_disp": "by 1996",
+      "precision": "by",
+      "details": "Dialup/ISDN/dedicated access + hosting; earliest homepage capture Jan 1997. Later added broadband ADSL and online data backup.",
+      "source": [
+        "https://web.archive.org/web/19970118113345id_/http://www.cyberspace.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000s",
+      "year": 2010,
+      "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Live ADSL/dialup/hosting ISP homepage still served through 2009 (copyright 2006); from Sep 2010 cyberspace.net.au 301-redirected to montimedia.com.au and never returned a retail homepage again.",
+      "source": [
+        "https://web.archive.org/web/20090301145802id_/http://www.cyberspace.net.au/",
+        "https://web.archive.org/web/20100912061033/http://www.cyberspace.net.au/"
+      ]
     }
   ],
   "refs": [

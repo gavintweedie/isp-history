@@ -18,14 +18,21 @@
       "year": 1998,
       "date_disp": "1998",
       "precision": "exact",
-      "details": "BMR.NET Internet Services, Raymond Terrace."
+      "details": "BMR.NET Internet Services, Raymond Terrace; earliest Wayback capture Dec 1998.",
+      "source": [
+        "https://web.archive.org/web/19981203062631/http://www.bmr.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2002,
       "date_disp": "c. 2001-02",
       "precision": "approx",
-      "details": "Acquired by C&N/CNN Internet (Techcel)."
+      "details": "Acquired by C&N/CNN Internet (Techcel); homepage live to Apr 2001, collapsed to a stub by Mar 2002.",
+      "source": [
+        "https://web.archive.org/web/20010404062723/http://www.bmr.net.au/",
+        "https://web.archive.org/web/20020324084136/http://bmr.net.au/"
+      ]
     }
   ],
   "refs": [

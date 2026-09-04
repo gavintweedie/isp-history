@@ -4,12 +4,16 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://alphawest.com.au",
-  "summary": "Perth IT services & ISP ('Leaders in IT', from 1996); continued as an IT services firm (ALPHAWEST SERVICES PTY LTD, ACN 009 196 347).",
+  "summary": "Perth IT services & ISP ('Leaders in IT'; orig. Edcom Pty Ltd 1986, later Sydney HQ); ASX-listed 2004, taken over by Optus (SingTel) Nov 2005, brand retired 2013 (ALPHAWEST SERVICES PTY LTD, ACN 009 196 347).",
   "names": [
     {
       "name": "Alphawest",
       "start_year": 1996,
-      "start_disp": "c. 1996"
+      "start_disp": "c. 1996",
+      "source": [
+        "https://en.wikipedia.org/wiki/Alphawest",
+        "https://abr.business.gov.au/ABN/View?abn=49009196347"
+      ]
     }
   ],
   "events": [
@@ -18,17 +22,30 @@
       "year": 1996,
       "date_disp": "c. 1996",
       "precision": "approx",
-      "details": "Internet access + IT services."
+      "details": "Perth internet access + IT services; traces to Edcom Pty Ltd (Perth, 1986, PC sales/support). Acquired by Solution 6 (2000), management buyout (2003), ASX-listed (2004).",
+      "source": [
+        "https://en.wikipedia.org/wiki/Alphawest"
+      ]
     },
     {
       "kind": "death",
       "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Continued as IT services firm."
+      "date_disp": "Nov 2005",
+      "precision": "exact",
+      "details": "Optus (SingTel) takeover offer Jul 2005 (~$26M); completed and delisted from ASX Nov 2005. Continued as an Optus IT-services subsidiary (now Macquarie Park, NSW per ABR); Alphawest brand retired 2013.",
+      "source": [
+        "https://en.wikipedia.org/wiki/Alphawest",
+        "https://abr.business.gov.au/ABN/View?abn=49009196347"
+      ]
     }
   ],
   "refs": [
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alphawest",
+      "label": "Wikipedia: Alphawest",
+      "year": 2005
+    },
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=49009196347",

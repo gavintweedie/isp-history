@@ -30,9 +30,13 @@
     {
       "kind": "death",
       "year": 2005,
-      "date_disp": "2005",
-      "precision": "exact",
-      "details": "Last active capture of ozmedia.net (Jan 2005)."
+      "date_disp": "c. 2005",
+      "precision": "approx",
+      "details": "Successor domain ozmedia.net last captured content-rich 1 Sep 2004; reduced to a small placeholder page by 30 Jan 2005, then a gap to 2008. Defunct c. 2005.",
+      "source": [
+        "https://web.archive.org/web/20040901142100/http://ozmedia.net/",
+        "https://web.archive.org/web/20050130081946/http://ozmedia.net/"
+      ]
     }
   ],
   "refs": [

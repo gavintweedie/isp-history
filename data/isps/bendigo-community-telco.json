@@ -2,14 +2,24 @@
   "name": "Bendigo Community Telco",
   "slug": "bendigo-community-telco",
   "birthplace": "Bendigo, VIC",
-  "status": "inactive",
+  "status": "active",
   "website": "https://bendigotelco.com.au",
-  "summary": "Bendigo community phone company (2001; local/STD/ISD calls + internet); defunct (BENDIGO TELCO LTD, ACN 089 782 203).",
+  "summary": "Bendigo community phone company (2001; local/STD/ISD calls + internet); still trading as a regional NBN/voice/IT provider (BENDIGO TELCO LTD, ACN 089 782 203).",
   "names": [
     {
       "name": "Bendigo Community Telco",
       "start_year": 2001,
-      "start_disp": "2001"
+      "start_disp": "2001",
+      "end_year": 2014,
+      "end_disp": "c. 2014"
+    },
+    {
+      "name": "Bendigo Telco",
+      "start_year": 2014,
+      "start_disp": "c. 2014",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=88089782203"
+      ]
     }
   ],
   "events": [
@@ -21,22 +31,14 @@
       "details": "Community telecom + internet."
     },
     {
-      "kind": "death",
-      "year": 2008,
-      "date_disp": "by Jul 2008",
-      "precision": "by",
-      "details": "Defunct.",
-      "refs": [
-        {
-          "kind": "archive",
-          "url": "https://web.archive.org/web/20070701125143/http://bendigotelco.com.au/",
-          "label": "Wayback: last ISP retail homepage"
-        },
-        {
-          "kind": "archive",
-          "url": "https://web.archive.org/web/20080718181534/http://bendigotelco.com.au/",
-          "label": "Wayback: first webmail-only / parked homepage"
-        }
+      "kind": "note",
+      "year": 2014,
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Not defunct: BENDIGO TELCO LTD remains active (ABN 88 089 782 203) and still supplies residential/business NBN internet, voice and managed IT; rebranded from Bendigo Community Telco to Bendigo Telco c.2014. Earlier records mistook a 2008 homepage redesign for closure.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=88089782203",
+        "https://bendigotelco.com.au"
       ]
     }
   ],

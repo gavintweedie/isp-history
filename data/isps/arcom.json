@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://aandr.com.au",
-  "summary": "Adelaide ISP (ARCOMNET, operated by A&R Computer Services); redirected to aandr.com.au ~2000.",
+  "summary": "Adelaide ISP (ARCOMNET, run by ARCOM COMPUTER PTY LTD, ACN 080 253 309); redirected to A&R Computer Services (aandr.com.au) c. 2000; company ABN cancelled 19 Jan 2015.",
   "names": [
     {
       "name": "Arcom",
@@ -18,13 +18,16 @@
       "year": 1997,
       "date_disp": "1997",
       "precision": "approx",
-      "details": "ARCOM COMPUTER PTY LTD ABN 87080253309 incorporated 1997 (took over A & R Computer Services 1993); earliest website capture 30 Apr 1998.",
+      "details": "ARCOM COMPUTER PTY LTD (ACN 080 253 309) incorporated c. 1997 (took over A & R Computer Services 1993); earliest website capture 30 Apr 1998.",
       "refs": [
         {
-          "kind": "official",
+          "kind": "gov",
           "url": "https://abr.business.gov.au/ABN/View?abn=87080253309",
-          "label": "ABN Lookup: Arcom Computer 87 080 253 309"
+          "label": "ABR: ARCOM COMPUTER PTY LTD ACN 080 253 309"
         }
+      ],
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=87080253309"
       ]
     },
     {
@@ -32,7 +35,17 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Redirected to A&R Computer Services (aandr.com.au)."
+      "details": "Arcom/ARCOMNET ISP wound down; site redirected to A&R Computer Services (aandr.com.au)."
+    },
+    {
+      "kind": "note",
+      "year": 2015,
+      "date_disp": "19 Jan 2015",
+      "precision": "exact",
+      "details": "ARCOM COMPUTER PTY LTD (ACN 080 253 309) ABN cancelled 19 Jan 2015; registered in SA.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=87080253309"
+      ]
     }
   ],
   "refs": [

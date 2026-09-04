@@ -8,8 +8,14 @@
   "names": [
     {
       "name": "CanTech Online",
-      "start_year": 2003,
-      "start_disp": "2003"
+      "start_year": 1994,
+      "start_disp": "c. 1994",
+      "end_year": 2003,
+      "end_disp": "31 Dec 2003",
+      "source": [
+        "https://web.archive.org/web/19980206121244id_/http://www.cantech.net.au/",
+        "https://web.archive.org/web/20040129180813id_/http://www.cantech.net.au/"
+      ]
     }
   ],
   "events": [
@@ -18,14 +24,20 @@
       "year": 1994,
       "date_disp": "c. 1994",
       "precision": "approx",
-      "details": "Canning College ISP, c. 1994-95."
+      "details": "Canning College ISP, c. 1994-95; Bentley (Perth) WA. Earliest Wayback capture 6 Feb 1998 (cantech.net.au) links to Canning College site.",
+      "source": [
+        "https://web.archive.org/web/19980206121244id_/http://www.cantech.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2003,
-      "date_disp": "2003",
+      "date_disp": "31 Dec 2003",
       "precision": "exact",
-      "details": "Officially closed 31 Dec 2003."
+      "details": "Officially closed 31 Dec 2003; homepage carried notice 'AS OF 31 Dec 2003 CANTECH ONLINE IS OFFICIALLY CLOSED!' (still shown through 2005).",
+      "source": [
+        "https://web.archive.org/web/20040129180813id_/http://www.cantech.net.au/"
+      ]
     }
   ],
   "refs": [

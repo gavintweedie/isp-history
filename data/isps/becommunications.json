@@ -18,14 +18,28 @@
       "year": 2004,
       "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Wireless broadband, business services."
+      "details": "Geelong BeWireless wireless broadband + business services; earliest Wayback capture 26 Nov 2004 (becom.com.au).",
+      "source": [
+        "https://web.archive.org/web/20041126171301/http://www.becom.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "BeCommunications (Geelong) content archived through 2008; by Oct 2009 becom.com.au served only a '...' placeholder page.",
+      "source": [
+        "https://web.archive.org/web/20080228172805/http://www.becom.com.au/",
+        "https://web.archive.org/web/20091014201657/http://www.becom.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20041126171301/http://www.becom.com.au/",
+      "label": "BeCommunications (Wayback 26 Nov 2004)"
     }
   ]
 }

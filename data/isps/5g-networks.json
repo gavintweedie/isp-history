@@ -4,12 +4,15 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "5gnetworks.net.au",
-  "summary": "Data-centre/cloud/network company (ASX: 5GN, ACN 605 721 024); delisted 2021 via Webcentral Group scheme.",
+  "summary": "Data-centre/cloud/network company (ASX: 5GN); founding entity 5G Networks Holdings Pty Ltd (ACN 163 312 025, ~2013), ASX-listed Nov 2017; delisted Nov 2021 via Webcentral Group scheme (2 Webcentral per 5GN share). The merged group survives as 5G Networks Limited (ACN 073 716 793) — legally the former Melbourne IT / Arq / Webcentral listed entity, renamed after absorbing 5GN.",
   "names": [
     {
       "name": "5G Networks",
       "start_year": 2013,
-      "start_disp": "2013"
+      "start_disp": "2013",
+      "source": [
+        "ABR: 5G NETWORKS HOLDINGS PTY LTD, ACN 163 312 025 (ACN block ≈ 2013) - https://abr.business.gov.au/ABN/View?abn=30163312025"
+      ]
     }
   ],
   "events": [
@@ -17,22 +20,41 @@
       "kind": "birth",
       "year": 2013,
       "date_disp": "2013",
-      "precision": "exact",
-      "details": "5G Networks Pty Ltd (Melbourne); ASX-listed 2017."
+      "precision": "approx",
+      "details": "Founding entity 5G Networks Holdings Pty Ltd (ACN 163 312 025; ACN block ≈ 2013). ABN/GST activated 1 Jan 2017 for the IPO; ASX-listed 17 Nov 2017. (Some external profiles cite 2016 as the operational founding.)",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=30163312025",
+        "ASX listing 17 Nov 2017: https://www.delisted.com.au/company/5g-networks-limited/"
+      ]
     },
     {
       "kind": "death",
       "year": 2021,
       "date_disp": "2021",
       "precision": "exact",
-      "details": "Delisted via Webcentral Group acquisition (2 Webcentral per 5GN share)."
+      "details": "Delisted 26 Nov 2021 under a scheme of arrangement; Webcentral Group was the acquirer/surviving listed entity (2 new Webcentral shares per 5GN share); 5GN became a wholly-owned subsidiary. The surviving shell (legally former Melbourne IT / Arq / Webcentral, ACN 073 716 793) was subsequently renamed '5G Networks Limited'.",
+      "source": [
+        "Scheme approved 8 Nov 2021, Federal Court 11 Nov 2021, delisted 26 Nov 2021: https://www.delisted.com.au/company/5g-networks-limited/",
+        "Webcentral/Melbourne IT lineage: https://en.wikipedia.org/wiki/Webcentral",
+        "ABR: ACN 073 716 793 now named 5G NETWORKS LIMITED (hist. trading name Melbourne IT Ltd): https://abr.business.gov.au/ABN/View?abn=21073716793"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=30163312025",
+      "label": "ABR: 5G NETWORKS HOLDINGS PTY LTD ACN 163 312 025 (founding entity)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=21073716793",
+      "label": "ABR: 5G NETWORKS LIMITED ACN 073 716 793 (surviving ex-Melbourne IT/Webcentral entity)"
+    },
+    {
+      "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=16605721024",
-      "label": "ABR: 5G NETWORKS FINANCE PTY LTD ACN 605 721 024"
+      "label": "ABR: 5G NETWORKS FINANCE PTY LTD ACN 605 721 024 (subsidiary)"
     }
   ]
 }

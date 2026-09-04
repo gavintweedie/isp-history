@@ -22,16 +22,19 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "by Jul 2010",
+      "year": 2011,
+      "date_disp": "by 2011",
       "precision": "by",
-      "details": "Defunct with CIA.",
+      "details": "Wound down with CIA (Connect Infobahn Australia). Homepage content last changed 5 Sep 2011, then froze — the same page was recaptured unchanged through Sep 2017, indicating the retail site stopped being maintained around 2011 (the earlier 'by Jul 2010' bound was too early).",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20100713191058/http://ciadsl.com.au/",
-          "label": "Wayback: last ISP retail homepage"
+          "label": "CIA DSL homepage (Wayback 13 Jul 2010)"
         }
+      ],
+      "source": [
+        "https://web.archive.org/cdx/search/cdx?url=ciadsl.com.au (last distinct homepage digest 20110905; identical captures recaptured through 20170924)"
       ]
     }
   ]

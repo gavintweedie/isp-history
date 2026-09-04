@@ -33,6 +33,16 @@
       "date_disp": "c. 2000-01",
       "precision": "approx",
       "details": "Pivoted to web hosting/design; ISP wound down."
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "precision": "exact",
+      "details": "Domain crc.net.au later reused by the unrelated WA Community Resource Network (WACRN/DPIRD) login portal.",
+      "source": [
+        "https://crc.net.au/"
+      ]
     }
   ],
   "refs": [

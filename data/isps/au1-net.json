@@ -18,14 +18,27 @@
       "year": 1998,
       "date_disp": "c. 1998",
       "precision": "approx",
-      "details": "Dialup (all capitals), hosting."
+      "details": "56k dialup + hosting; earliest Wayback capture 2 Dec 1998 (au1.net).",
+      "source": [
+        "https://web.archive.org/web/19981202134111/http://www.au1.net/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981202134111/http://www.au1.net/",
+          "label": "Au1.Net (Wayback 2 Dec 1998)"
+        }
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail ISP wound down c.2001; au1.net domain still captured through 2012.",
+      "source": [
+        "https://web.archive.org/web/20120222010051/http://www.au1.net/"
+      ]
     }
   ]
 }

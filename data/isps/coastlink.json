@@ -18,7 +18,10 @@
       "year": 1993,
       "date_disp": "1993",
       "precision": "exact",
-      "details": "Began as Col's Point BBS, Rockingham WA; ISP from Aug 1995 as Coast Link Communications."
+      "details": "Began as Col's Point BBS, Rockingham WA; ISP from Aug 1995 as Coast Link Communications; earliest coastlink.com.au capture 22 Dec 1996.",
+      "source": [
+        "https://web.archive.org/web/19961222054700/http://coastlink.com.au/"
+      ]
     },
     {
       "kind": "death",

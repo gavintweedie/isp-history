@@ -3,28 +3,41 @@
   "slug": "beretvale",
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
-  "summary": "Melbourne holding company (Beretvale Pty Ltd, trading as HoloHost then Nella Networks; ABN 93 132 994 466, R B Allen Family Trust); parent of HoloHost/Nella Networks; now deregistered.",
+  "summary": "Melbourne operating company behind the HoloHost then Nella Networks ISP (Beretvale Pty Ltd); associated with the R B Allen Family Trust; Nella Telecommunications separated out c.2004, Beretvale later deregistered.",
   "names": [
     {
       "name": "Beretvale",
-      "start_year": 2000,
-      "start_disp": "24 Mar 2000"
+      "start_year": 1998,
+      "start_disp": "c. 1998"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2000,
-      "date_disp": "24 Mar 2000",
-      "precision": "exact",
-      "details": "ABN active from 24 Mar 2000 (R B Allen Family Trust)."
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Beretvale Pty Ltd ran the HoloHost ISP from c.1998, so the company predates the 24 Mar 2000 R B Allen Family Trust ABN.",
+      "source": [
+        "https://web.archive.org/web/20021130014520/http://www.holohost.net/"
+      ]
     },
     {
       "kind": "death",
       "year": 2004,
       "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Nella Telecommunications separated out; Beretvale later deregistered."
+      "details": "HoloHost/Nella Networks became Nella Telecommunications, which separated out from Beretvale c.2004; Beretvale later deregistered."
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "24 Mar 2000",
+      "precision": "exact",
+      "details": "ABN 93 132 994 466 (cited for Beretvale) is on ABR THE R B ALLEN FAMILY TRUST, a discretionary investment trust in VIC active from 24 Mar 2000 — the associated family trust, not the company Beretvale Pty Ltd itself.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=93132994466"
+      ]
     }
   ]
 }

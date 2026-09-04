@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://anittel.com.au",
-  "summary": "Hosting/telecoms subsidiary of the Anittel Group (ex-Hostech Communications / AK Communications Australia); acquired by BigAir ~2014 (completed Feb 2014 per ABN rename to BigAir Cloud Managed Services 13 May 2014) (ANITTEL PTY LTD, ACN 123 808 677).",
+  "summary": "Hosting/telecoms subsidiary of the Anittel Group (ex-AK Communications (Australia) / Hostech Communications); folded into the Anittel Group acquired by BigAir ~2014; parent ANITTEL PTY LTD (ACN 123 808 677) remains registered.",
   "names": [
     {
       "name": "Anittel Communications",
@@ -23,16 +23,26 @@
     {
       "kind": "death",
       "year": 2014,
-      "date_disp": "Feb 2014",
-      "precision": "exact",
-      "details": "Acquired by BigAir (announced Dec 2013/Jan 2014; completed ~Feb 2014)."
+      "date_disp": "c. 2014",
+      "precision": "approx",
+      "details": "Folded into the Anittel Group acquired by BigAir (announced late 2013, completed 2014).",
+      "source": [
+        "BigAir Group acquisition of Anittel Group Limited (ASX:AYG), 2013-2014"
+      ]
+    },
+    {
+      "kind": "note",
+      "details": "ABN 81123808677 (ANITTEL PTY LTD, ACN 123 808 677) is the parent Anittel Pty Ltd, registered 6 Feb 2007 and still active per ABR; it is cited here for the group lineage, not as the distinct legal vehicle of the communications subsidiary (whose own ACN is not established).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=81123808677"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=81123808677",
-      "label": "ABR: ANITTEL PTY LTD ACN 123 808 677"
+      "label": "ABR: ANITTEL PTY LTD ACN 123 808 677 (parent Anittel Pty Ltd)"
     }
   ]
 }

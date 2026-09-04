@@ -4,7 +4,7 @@
   "birthplace": "Newcastle, NSW",
   "status": "inactive",
   "website": "https://aljan.com.au",
-  "summary": "Newcastle dialup/ISDN + hosting ISP (AJM Services Pty Ltd, ACN 076 512 064, 1997); defunct.",
+  "summary": "Newcastle dialup/ISDN + hosting ISP from 1997; aljan.com.au taken over by NRU Internet (Newcastle) by 2000, later an Aussiewide page, parked by 2004 (AJM SERVICES PTY LTD, ACN 076 512 064).",
   "names": [
     {
       "name": "Aljan",
@@ -18,14 +18,22 @@
       "year": 1997,
       "date_disp": "1997",
       "precision": "exact",
-      "details": "Dialup, ISDN, hosting."
+      "details": "Newcastle NSW dialup/ISDN + hosting ISP ('Welcome to Aljan.Net Newcastle'); earliest Wayback capture 9 Feb 1997. AJM Services Pty Ltd, ACN 076 512 064.",
+      "source": [
+        "https://web.archive.org/web/19970209220131id_/http://www.aljan.com.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2000,
+      "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Aljan brand wound down c.2000: by Feb 2000 aljan.com.au served NRU Internet (Newcastle) content, then an Aussiewide Internet / Femtech page (Mar 2003); domain parked with no service by Jun 2004.",
+      "source": [
+        "https://web.archive.org/web/20000229222749id_/http://www.aljan.com.au/",
+        "https://web.archive.org/web/20030324234636id_/http://www.aljan.com.au/",
+        "https://web.archive.org/web/20040605224450id_/http://www.aljan.com.au/"
+      ]
     }
   ]
 }

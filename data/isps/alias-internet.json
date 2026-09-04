@@ -16,15 +16,18 @@
     {
       "kind": "birth",
       "year": 2001,
-      "date_disp": "3 Aug 2001",
-      "precision": "exact",
-      "details": "Earliest Wayback capture 3 Aug 2001 (alias.net.au); ASN AS18232 allocated 31 May 2002.",
+      "date_disp": "by 3 Aug 2001",
+      "precision": "by",
+      "details": "Earliest Wayback capture 3 Aug 2001 (alias.net.au), a live Alias Internet site (PO Box 449, North Perth WA 6906); ASN AS18232 allocated 31 May 2002.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20010803144312/http://www.alias.net.au:80/",
           "label": "Alias Internet (Wayback 3 Aug 2001)"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/20010803144312id_/http://www.alias.net.au/"
       ]
     },
     {
@@ -32,7 +35,11 @@
       "year": 2004,
       "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Last real ISP page Feb 2003; alias.net.au a default page by Sep 2004; AS18232 (Alias Internet) later inactive."
+      "details": "Last live ISP retail page 7 Feb 2003 (dialup + ADSL + webmail); alias.net.au a default Debian/Apache placeholder page by Feb 2005; domain later only redirected.",
+      "source": [
+        "https://web.archive.org/web/20030206214034id_/http://www.alias.net.au/",
+        "https://web.archive.org/web/20050202190020id_/http://alias.net.au/"
+      ]
     }
   ],
   "refs": [

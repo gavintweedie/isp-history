@@ -4,7 +4,7 @@
   "birthplace": "Fortitude Valley (Brisbane), QLD",
   "status": "inactive",
   "website": "https://bit.net.au",
-  "summary": "Brisbane dialup ISP (guaranteed no engaged tones); acquired by Asia Online ~2000-01 (per user report); dead ~2009.",
+  "summary": "Brisbane dialup + broadband + hosting ISP (BIT.net, \"guaranteed no engaged tones\"); ran under Asia Online branding c.2000-01, back to BIT.net by 2005; retail gone by ~2009, domain then Allegro Networks webmail.",
   "names": [
     {
       "name": "Brisbane Internet Technology",
@@ -32,7 +32,12 @@
       "year": 2009,
       "date_disp": "c. 2009",
       "precision": "approx",
-      "details": "Last capture Sep 2009."
+      "details": "Ran under Asia Online branding c.2000-01, reverted to BIT.net (broadband/dialup/hosting) by 2005; retail homepage gone by ~2009, after which bit.net.au served only Allegro Networks webmail (a 'BITNET Mail Server' option remained) by 2012.",
+      "source": [
+        "https://web.archive.org/web/20010401000000/http://www.bit.net.au/",
+        "https://web.archive.org/web/20050601000000/http://www.bit.net.au/",
+        "https://web.archive.org/web/20120601000000/http://www.bit.net.au/"
+      ]
     }
   ],
   "refs": [

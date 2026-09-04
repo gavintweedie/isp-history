@@ -4,7 +4,7 @@
   "birthplace": "Sydney CBD, NSW",
   "status": "inactive",
   "website": "https://apanet.com.au",
-  "summary": "Sydney dialup + hosting ISP (also sold ISP billing software); dead ~2000 (APA COMPANY PTY LTD, ACN 651 759 429).",
+  "summary": "Sydney dialup + hosting ISP (also sold ISP billing software); dead ~2000 (APA Communications Pty Ltd, per site footer).",
   "names": [
     {
       "name": "APA Communications",
@@ -18,7 +18,10 @@
       "year": 1998,
       "date_disp": "11 Jan 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture 11 Jan 1998 (apanet.com.au); footer \u00a91997 APA Communications Pty Ltd. Earliest capture 11 jan 1998.",
+      "details": "Earliest Wayback capture 11 Jan 1998 (apanet.com.au); footer \u00a91997 APA Communications Pty Ltd.",
+      "source": [
+        "https://web.archive.org/web/19980111103113/http://www.apanet.com.au/"
+      ],
       "refs": [
         {
           "kind": "archive",
@@ -32,7 +35,11 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Site last captured June 2000."
+      "details": "Retail site last captured 19 Jun 2000; no live capture thereafter (domain returns a 521 error by 2021).",
+      "source": [
+        "https://web.archive.org/web/20000619192717/http://www.apanet.com.au/",
+        "Wayback CDX apanet.com.au: last 200 capture 20000619, then 521 in 2021"
+      ]
     }
   ],
   "refs": [
@@ -40,11 +47,6 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011223121905/http://www.cynosure.com.au/isp/apanet",
       "label": "APA (Cynosure 2002)"
-    },
-    {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=83651759429",
-      "label": "ABR: APA COMPANY PTY LTD ACN 651 759 429"
     }
   ]
 }

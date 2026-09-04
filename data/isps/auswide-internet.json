@@ -4,7 +4,7 @@
   "birthplace": "Tasmania",
   "status": "inactive",
   "website": "https://auswide.net.au",
-  "summary": "Tasmanian business ISP (dialup, permanent links, ISDN, ~2000); defunct (AUSWIDE PTY. LTD., ACN 614 396 271).",
+  "summary": "Tasmanian business ISP (dialup + permanent links + ISDN); live by 2000, defunct by 2011.",
   "names": [
     {
       "name": "Auswide Internet",
@@ -18,7 +18,10 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Dialup, permanent links, ISDN."
+      "details": "Dialup, permanent links, ISDN; earliest Wayback capture 21 Jun 2000.",
+      "source": [
+        "https://web.archive.org/web/20000621142243/http://www.auswide.net.au/"
+      ]
     },
     {
       "kind": "death",
@@ -38,13 +41,23 @@
           "label": "Wayback: first webmail-only / parked homepage"
         }
       ]
+    },
+    {
+      "kind": "note",
+      "year": 2016,
+      "date_disp": "23 Aug 2016",
+      "precision": "exact",
+      "details": "ABN 32 614 396 271 (AUSWIDE PTY. LTD., ACN 614 396 271) is a Victorian company registered 23 Aug 2016, main location VIC 3029; post-dates this ISP and is a different, unrelated entity.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=32614396271"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=32614396271",
-      "label": "ABR: AUSWIDE PTY. LTD. ACN 614 396 271"
+      "label": "ABR: AUSWIDE PTY. LTD. ACN 614 396 271 (VIC co. reg. 2016 - likely unrelated to this TAS ISP)"
     }
   ]
 }

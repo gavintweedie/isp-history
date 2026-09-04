@@ -25,7 +25,11 @@
       "year": 2017,
       "date_disp": "Sep 2017",
       "precision": "exact",
-      "details": "Customer base moved to Planet Ozi."
+      "details": "Web-hosting/domain customer base moved to Planet Ozi; cairns.net.au served 200 through May 2017 then began 301-redirecting from 11 Sep 2017.",
+      "source": [
+        "https://web.archive.org/web/20170502213550id_/http://www.cairns.net.au/",
+        "https://web.archive.org/web/20170911225436/http://cairns.net.au/"
+      ]
     }
   ],
   "refs": [

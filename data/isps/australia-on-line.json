@@ -2,9 +2,9 @@
   "name": "Australia On Line",
   "slug": "australia-on-line",
   "birthplace": "Melbourne, VIC",
-  "status": "inactive",
+  "status": "active",
   "website": "https://australiaonline.net.au",
-  "summary": "Melbourne ISP + e-business software developer (australiaonline.net.au / ozonline.com.au, 'since 1994'; home/corporate connections, hosting, ACN 064 289 925). NOTE: distinct from aol.com.au's Australia OnLine.",
+  "summary": "Melbourne ISP + e-business software developer (australiaonline.net.au / ozonline.com.au, 'since 1994'; home/corporate connections, hosting); company still registered, later trading as Lizzy Internet / 1300EasyISP (AUSTRALIA ON LINE PTY. LTD., ACN 064 289 925); distinct from aol.com.au's AOL Australia.",
   "names": [
     {
       "name": "Australia On Line",
@@ -18,14 +18,21 @@
       "year": 1994,
       "date_disp": "1994",
       "precision": "exact",
-      "details": "ISP + e-business software."
+      "details": "ISP + e-business software; site advertised 'since 1994' (ACN 064 289 925 registered c. 1994).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=88064289925"
+      ]
     },
     {
-      "kind": "death",
+      "kind": "note",
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Australia On Line retail site (australiaonline.net.au) last archived c. 2005; company AUSTRALIA ON LINE PTY. LTD. (ACN 064 289 925, Warrandyte VIC) remains registered, later trading as Lizzy Internet and 1300EasyISP (both from Jun 2016).",
+      "source": [
+        "https://web.archive.org/web/20050128214931/http://australiaonline.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=88064289925"
+      ]
     }
   ],
   "refs": [

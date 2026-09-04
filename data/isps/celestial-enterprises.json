@@ -4,7 +4,7 @@
   "birthplace": "Ringwood (Melbourne), VIC",
   "status": "inactive",
   "website": "https://celestial.com.au",
-  "summary": "Melbourne dialup ISP (fixed low-cost plans $60-100/yr); dead.",
+  "summary": "Melbourne dialup ISP (fixed low-cost plans $60-100/yr); dead c.2012.",
   "names": [
     {
       "name": "Celestial Enterprises",
@@ -22,10 +22,14 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "2009",
-      "precision": "exact",
-      "details": "Last active capture of celestial.com.au (Oct 2009); parked from 2011."
+      "year": 2012,
+      "date_disp": "c. 2012",
+      "precision": "approx",
+      "details": "celestial.com.au still showed the full ISP homepage (Internet access accounts, domain hosting, help desk) at the 13 Jan 2012 capture; replaced by a small parked placeholder from 2013 (identical ~750-byte page 2013-2026).",
+      "source": [
+        "https://web.archive.org/web/20120113144517id_/http://celestial.com.au/",
+        "https://web.archive.org/cdx/search/cdx?url=celestial.com.au&output=json"
+      ]
     }
   ],
   "refs": [

@@ -4,21 +4,24 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://bluewiretech.com.au",
-  "summary": "Perth ISP + computer sales/support (ACN 105 837 036, ~2001-03); defunct.",
+  "summary": "Perth ISP + computer sales/support ('free internet', dialup + ADSL; ~2003-06); defunct (ACN 105 837 036).",
   "names": [
     {
       "name": "Blue Wire Technologies",
-      "start_year": 2001,
-      "start_disp": "c. 2001"
+      "start_year": 2003,
+      "start_disp": "by 2003"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Dialup, ADSL, computers."
+      "year": 2003,
+      "date_disp": "by 2003",
+      "precision": "by",
+      "details": "Perth 'free internet', dialup, ADSL broadband and computer/peripheral sales and support; earliest Wayback capture Oct 2003 (ACN 105 837 036 also consistent with ~2003 registration).",
+      "source": [
+        "https://web.archive.org/web/20031007091847/http://www.bluewiretech.com.au/"
+      ]
     },
     {
       "kind": "death",

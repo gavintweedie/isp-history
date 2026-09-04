@@ -4,7 +4,7 @@
   "birthplace": "Marrickville (Sydney), NSW",
   "status": "inactive",
   "website": "https://cooeee.com",
-  "summary": "Sydney dialup ISP (Sydney + Perth POPs); dead ~2002-03 (COOEEE PTY LTD, ACN 126 600 351).",
+  "summary": "Sydney dialup ISP (Sydney + Perth POPs); dead ~2002-03.",
   "names": [
     {
       "name": "Cooeee Australia",
@@ -25,7 +25,17 @@
       "year": 2003,
       "date_disp": "c. 2002-03",
       "precision": "approx",
-      "details": "Dead."
+      "details": "Dead.",
+      "source": [
+        "https://web.archive.org/web/20010722191805/http://www.cooeee.com/"
+      ]
+    },
+    {
+      "kind": "note",
+      "details": "ACN misattribution corrected: an earlier version cited COOEEE PTY LTD (ABN 19 126 600 351, ACN 126 600 351) as the operating entity. That company was not registered until 1 Aug 2007 - years after this ISP died c.2002-03 - and its only business name is a soccer academy (Golden Boot Strikers Academy, Blue Mountains NSW); it is an unrelated name collision and has been removed. No verified legal entity for the Cooeee dialup ISP is currently established.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=19126600351"
+      ]
     }
   ],
   "refs": [
@@ -33,11 +43,6 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010722191805/http://www.cooeee.com/",
       "label": "Cooeee (Wayback 2001)"
-    },
-    {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=19126600351",
-      "label": "ABR: COOEEE PTY LTD ACN 126 600 351"
     }
   ]
 }

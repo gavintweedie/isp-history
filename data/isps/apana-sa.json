@@ -18,7 +18,10 @@
       "year": 1995,
       "date_disp": "c. 1995",
       "precision": "approx",
-      "details": "APANA SA regional hub (after box/lemon merged to SATECH)."
+      "details": "APANA SA/Adelaide regional hub (after box/lemon merged to SATECH); Adelaide region linked from apana.org.au homepage by 12 Jul 1997; founding predates the archive and is unverified.",
+      "source": [
+        "https://web.archive.org/web/19970712064312/http://www.apana.org.au/"
+      ]
     },
     {
       "kind": "death",

@@ -19,13 +19,16 @@
       "year": 2013,
       "date_disp": "Oct 2013",
       "precision": "approx",
-      "details": "Telstra announced Belong as low-cost ADSL2+ ISP Oct 2013 (70GB/250GB plans); wholly owned Telstra brand.",
+      "details": "Telstra announced Belong as low-cost ADSL2+ ISP Oct 2013 (70GB/250GB plans); wholly owned Telstra brand; BELONG AUSTRALIA PTY LTD registered on ABR 6 Mar 2013. Now primarily NBN + mobile.",
       "refs": [
         {
           "kind": "news",
           "url": "https://www.itnews.com.au/news/telstra-launches-low-cost-isp-361446",
           "label": "iTnews: Telstra launches low-cost ISP Belong (Oct 2013)"
         }
+      ],
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=33162699845"
       ]
     }
   ],

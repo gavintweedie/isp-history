@@ -4,12 +4,16 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://alphalink.net.au",
-  "summary": "Melbourne ISP; ABN cancelled 2017, site unreachable (ALPHALINK TECHNOLOGY PTY LTD, ACN 663 309 500).",
+  "summary": "Melbourne dialup + ADSL ISP ('Cheaper Net, Better Net', Alphalink (Australia) Pty Ltd); folded into Chariot Internet, alphalink.net.au redirecting to chariot.net.au by 2009.",
   "names": [
     {
       "name": "Alphalink",
       "start_year": 1997,
-      "start_disp": "1997"
+      "start_disp": "1997",
+      "source": [
+        "https://web.archive.org/web/19971222145317/http://alphalink.net.au/",
+        "2008 site title: 'Alphalink (Australia) Pty Ltd - Cheaper Net, Better Net'"
+      ]
     }
   ],
   "events": [
@@ -18,21 +22,35 @@
       "year": 1997,
       "date_disp": "1997",
       "precision": "exact",
-      "details": "Commenced operations 7 January 1997."
+      "details": "Melbourne dialup ISP, trading as Alphalink (Australia) Pty Ltd; commenced operations 7 January 1997. Earliest Wayback capture 22 Dec 1997.",
+      "source": [
+        "https://web.archive.org/web/19971222145317/http://alphalink.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2017,
-      "date_disp": "2017",
-      "precision": "exact",
-      "details": "ABN cancelled 20 Sep 2017."
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Retail content last seen 2008; alphalink.net.au redirecting (301) to chariot.net.au by Sep 2009 — customers folded into Chariot Internet. Prior 'ABN cancelled 2017' record was misattributed to an unrelated 2022 company (ALPHALINK TECHNOLOGY PTY LTD, ACN 663 309 500) and has been removed.",
+      "source": [
+        "https://web.archive.org/web/20080513231801/http://www.alphalink.net.au/",
+        "https://web.archive.org/web/20110205111002/http://alphalink.net.au/"
+      ]
     }
   ],
   "refs": [
     {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=78663309500",
-      "label": "ABR: ALPHALINK TECHNOLOGY PTY LTD ACN 663 309 500"
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20080513231801/http://www.alphalink.net.au/",
+      "label": "Alphalink 'Cheaper Net, Better Net' (Wayback 13 May 2008)",
+      "year": 2008
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20110205111002/http://alphalink.net.au/",
+      "label": "Wayback 5 Feb 2011: alphalink.net.au 301 redirect to chariot.net.au",
+      "year": 2011
     }
   ]
 }

@@ -68,6 +68,23 @@
     },
     {
       "kind": "note",
+      "year": 2020,
+      "date_disp": "Sep 2020",
+      "precision": "exact",
+      "details": "Sold its energy retail business (Click Energy) to AGL for $115m (announced Sep 2020), separating energy from the mobile/broadband business ahead of the Optus takeover.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amaysim",
+          "label": "Wikipedia: Amaysim (AGL acquires Click Energy for $115m, Sep 2020)"
+        }
+      ],
+      "source": [
+        "https://en.wikipedia.org/wiki/Amaysim"
+      ]
+    },
+    {
+      "kind": "note",
       "year": 2021,
       "date_disp": "Apr 2021",
       "precision": "exact",

@@ -8,8 +8,13 @@
   "names": [
     {
       "name": "Digital Dimensions",
-      "start_year": 2001,
-      "start_disp": "by 2001"
+      "start_year": 2000,
+      "start_disp": "by 2000",
+      "end_year": 2006,
+      "end_disp": "c. 2005-06",
+      "source": [
+        "https://web.archive.org/web/20051211034939/http://www.digitaldimensions.com.au/ (Digital Dimensions homepage, Dec 2005)"
+      ]
     }
   ],
   "events": [
@@ -22,10 +27,14 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "2001",
-      "precision": "exact",
-      "details": "Last active capture of digitaldimensions.com.au (Apr 2001)."
+      "year": 2006,
+      "date_disp": "c. 2005-06",
+      "precision": "approx",
+      "details": "Flash-based 'Digital Dimensions Homepage' live through Dec 2005; from 2006 the homepage was a generic 'Flashcheck' placeholder, later an IIS7 default page (domain parked).",
+      "source": [
+        "https://web.archive.org/web/20051211034939/http://www.digitaldimensions.com.au/ (real homepage, Dec 2005)",
+        "https://web.archive.org/web/20060803065358/http://www.digitaldimensions.com.au/ (Flashcheck placeholder, 2006)"
+      ]
     }
   ],
   "refs": [

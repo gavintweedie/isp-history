@@ -4,28 +4,38 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://atu.net.au",
-  "summary": "Sydney web-hosting/dialup ISP ('Adap-2-Us', ATU Internet Pty Ltd, est. 1997); merged with Viper to form Independent Service Providers 2001.",
+  "summary": "Sydney web-hosting/dialup ISP ('Adap-2-Us', ATU Internet Pty Ltd, est. 1997); merged with Viper in 2001 to form Independent Service Providers Pty Ltd (ABN 28 096 599 352), reusing Viper's existing isp.net.au domain.",
   "names": [
     {
       "name": "A2U Internet",
       "start_year": 1997,
-      "start_disp": "early 1997"
+      "start_disp": "1997",
+      "source": [
+        "atu.net.au footer 'All content is Copyright © 1997 - 1999': https://web.archive.org/web/20000519231804/http://www.atu.net.au/"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "early 1997",
-      "precision": "exact",
-      "details": "Adap-2-Us established (ATU Internet Pty Ltd)."
+      "date_disp": "1997",
+      "precision": "approx",
+      "details": "Adap-2-Us established (ATU Internet Pty Ltd); Sydney web hosting, dialup and 'VISP'/virtual-ISP wholesaling. Every atu.net.au capture carries a © 1997–1999 footer.",
+      "source": [
+        "https://web.archive.org/web/20000519231804/http://www.atu.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "Jul 2001",
-      "precision": "exact",
-      "details": "Merged with Viper.net.au to create Independent Service Providers (isp.net.au)."
+      "date_disp": "2001",
+      "precision": "approx",
+      "details": "Merged with Viper.net.au in 2001 to form Independent Service Providers Pty Ltd (ABN 28 096 599 352). The isp.net.au domain was Viper's pre-existing domain (serving Viper content from Oct 2000) that was repurposed for the merged entity, not created by the merger; exact month not archive-verified (transition falls between May 2001 and 2002).",
+      "source": [
+        "isp.net.au addressing 'Viper or ATU customer?', © 2001 ISP: https://web.archive.org/web/20020525011550/http://www.isp.net.au/",
+        "isp.net.au serving Viper content Oct 2000: https://web.archive.org/web/20001021123328/http://isp.net.au/"
+      ]
     }
   ],
   "refs": [

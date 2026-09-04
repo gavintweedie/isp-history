@@ -18,7 +18,10 @@
       "year": 1999,
       "date_disp": "29 Apr 1999",
       "precision": "by",
-      "details": "Earliest Wayback capture 29 Apr 1999 (barrelrider.net.au). Earliest capture 29 apr 1999.",
+      "details": "Earliest Wayback capture 29 Apr 1999 (barrelrider.net.au).",
+      "source": [
+        "https://web.archive.org/web/19990429085308/http://www.barrelrider.net.au:80/"
+      ],
       "refs": [
         {
           "kind": "archive",
@@ -32,7 +35,10 @@
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Last capture Oct 2003."
+      "details": "Last Wayback capture 15 Oct 2003 (barrelrider.net.au); no later captures.",
+      "source": [
+        "https://web.archive.org/web/20031015002519/http://www.barrelrider.net.au/"
+      ]
     }
   ],
   "refs": [

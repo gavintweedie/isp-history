@@ -1,13 +1,13 @@
 {
-  "name": "Creative Internet (SA)",
+  "name": "Creative Internet",
   "slug": "creative-internet",
-  "birthplace": "Adelaide, SA",
+  "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://creative.net.au",
-  "summary": "Adelaide ISP (creative.net.au), active in the SA peering community by Mar 2000.",
+  "summary": "creative.net.au was Adrian Chadd's personal/community domain (WAIX, Perth WA) with user subdomains + hobbyist hosting; not a retail ISP.",
   "names": [
     {
-      "name": "Creative Internet (SA)",
+      "name": "Creative Internet",
       "start_year": 1998,
       "start_disp": "by 1998"
     }
@@ -18,14 +18,31 @@
       "year": 1998,
       "date_disp": "by 1998",
       "precision": "by",
-      "details": "In the SA peering mailing list community (creative.net.au)."
+      "details": "creative.net.au was Adrian Chadd's personal domain (WAIX looking-glass and link pages, user subdomains such as michelle./nikita.creative.net.au); the homepage was a personal page, not an ISP storefront.",
+      "source": [
+        "https://web.archive.org/web/19990125094449id_/http://www.creative.net.au/",
+        "https://web.archive.org/web/20000302205833id_/http://www.creative.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2000s",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "No later records found."
+      "details": "Personal page captured through 2005; site content changed 2006-07 and the domain later 301-redirected.",
+      "source": [
+        "https://web.archive.org/web/20050404195846id_/http://www.creative.net.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "approx",
+      "details": "Prior record described this as an \"Adelaide ISP\" active in the \"SA peering community\"; the archived homepage is instead Adrian Chadd's personal site tied to WAIX (the West Australian Internet Exchange, Perth WA), so the SA/Adelaide attribution is unsupported.",
+      "source": [
+        "https://web.archive.org/web/20000302205833id_/http://www.creative.net.au/"
+      ]
     }
   ],
   "refs": [

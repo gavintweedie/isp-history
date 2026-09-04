@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "active",
   "website": "https://www.brisnet.org.au",
-  "summary": "Brisbane community (not-for-profit) internet service provider, still active (INTPAY PTY LTD, ACN 106 545 073).",
+  "summary": "Brisbane ISP; began 1996 as a community not-for-profit network, now a commercial ADSL + wireless + NBN + hosting provider; still active (INTPAY PTY LTD, ACN 106 545 073).",
   "names": [
     {
       "name": "BrisNet",
@@ -18,13 +18,24 @@
       "year": 1996,
       "date_disp": "30 Oct 1996",
       "precision": "by",
-      "details": "Earliest Wayback capture 30 Oct 1996 (brisnet.org.au); last changed 26 Oct 1996; March 1996 minutes linked; community ISP. Earliest capture 30 oct 1996.",
+      "details": "Earliest Wayback capture 30 Oct 1996 (brisnet.org.au); page last changed 26 Oct 1996; March 1996 minutes linked; started as a Brisbane community ISP.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19961030192625/http://www.brisnet.org.au:80/",
           "label": "BrisNet (Wayback 30 Oct 1996)"
         }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2003,
+      "date_disp": "2003",
+      "precision": "by",
+      "details": "Present operator INTPAY PTY LTD (ACN 106 545 073, ABN 80 106 545 073, QLD) is an Australian private company registered 07 Oct 2003 — seven years after the 1996 community founding — and its internet-related ABR business names (Soft-Tech Internet, Country Hosting & Internet Provider Services) date only from 2018/2022. The live brisnet.org.au footer carries this ABN, so INTPAY trades as Brisnet today; whether this commercial entity is a direct continuation of the original community BrisNet or a later takeover of the brand/domain is uncertain.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=80106545073",
+        "https://www.brisnet.org.au"
       ]
     }
   ],

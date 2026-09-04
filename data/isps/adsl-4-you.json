@@ -4,7 +4,7 @@
   "birthplace": "Gold Coast, QLD",
   "status": "inactive",
   "website": "https://adsl4you.com.au",
-  "summary": "Gold Coast ADSL reseller (~2002); defunct.",
+  "summary": "Gold Coast ADSL connection reseller (est. c.2002); retail site gone by early 2005 (domain became a 'telebill' placeholder).",
   "names": [
     {
       "name": "ADSL 4 YOU",
@@ -18,14 +18,34 @@
       "year": 2002,
       "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "ADSL reseller."
+      "details": "Gold Coast ADSL connection reseller (phone 07 5526 7767); founding year c.2002 predates the archive and is unverified (earliest Wayback capture 20 Nov 2003).",
+      "source": [
+        "https://web.archive.org/web/20031120070356/http://www.adsl4you.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "date_disp": "by 2005",
+      "precision": "by",
+      "details": "Retail ADSL site last captured Apr 2004; by Feb 2005 adsl4you.com.au showed a 'telebill' placeholder, retail operation gone.",
+      "source": [
+        "https://web.archive.org/web/20050202081049/http://adsl4you.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20031120070356/http://www.adsl4you.com.au/",
+      "label": "ADSL 4 You (Wayback 20 Nov 2003): 'rebuilding our Website', Gold Coast phone 07 5526 7767",
+      "year": 2003
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050202081049/http://adsl4you.com.au/",
+      "label": "adsl4you.com.au (Wayback 2 Feb 2005): 'telebill' placeholder",
+      "year": 2005
     }
   ]
 }

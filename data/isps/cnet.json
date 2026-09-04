@@ -16,16 +16,23 @@
     {
       "kind": "birth",
       "year": 1999,
-      "date_disp": "by Mar 1999",
+      "date_disp": "by 1999",
       "precision": "by",
-      "details": "In directory from Mar 1999."
+      "details": "Cnet, 10 Bristlebird Drive, Morayfield QLD; computer retailer + ISP; earliest cnet.aunz.com capture 8 May 1999.",
+      "source": [
+        "https://web.archive.org/web/19990508224157/http://www.cnet.aunz.com/",
+        "https://web.archive.org/web/20011117172405/http://www.cynosure.com.au/isp/cnet"
+      ]
     },
     {
       "kind": "death",
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 1999)."
+      "details": "Substantive homepage through early 2001, then a small landing page (meta-refresh to a /cgi-bin/ shop); last cnet.aunz.com capture 28 Jan 2005.",
+      "source": [
+        "Wayback CDX cnet.aunz.com: final capture 20050128 (meta-refresh to /cgi-bin/index.cgi)"
+      ]
     }
   ],
   "refs": [

@@ -18,7 +18,10 @@
       "year": 1996,
       "date_disp": "1996",
       "precision": "exact",
-      "details": "Dialup then ADSL, now web hosting."
+      "details": "Dialup then ADSL, now web hosting; 'Since 1996' per ans.com.au branding. ANS COMMUNICATIONS PTY LTD (ACN 072 793 858) still active per ABR (ABN from 1 Nov 1999).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=26072793858"
+      ]
     },
     {
       "kind": "note",

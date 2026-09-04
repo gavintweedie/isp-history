@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://coldcoffee.net.au",
-  "summary": "Budget nationwide dialup ISP ($15.95-19.95 unlimited, ~2003); defunct.",
+  "summary": "Budget nationwide dialup ISP ($15.95-19.95 unlimited, ~2003-05); retail site gone by mid-2005.",
   "names": [
     {
       "name": "Cold Coffee",
@@ -18,14 +18,20 @@
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Unlimited dialup."
+      "details": "Unlimited dialup; earliest coldcoffee.net.au capture Oct 2003.",
+      "source": [
+        "https://web.archive.org/web/20031005025748/http://www.coldcoffee.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Last retail homepage capture Jan 2005; site returning 403/placeholder by mid-2005; no captures after Jul 2005.",
+      "source": [
+        "Wayback CDX coldcoffee.net.au: last 200 content 20050124, 403 by 20050614, final capture 20050717"
+      ]
     }
   ]
 }

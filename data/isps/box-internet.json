@@ -18,14 +18,21 @@
       "year": 1996,
       "date_disp": "c. 1996",
       "precision": "approx",
-      "details": "Box Internet (same Silicom entity as SATECH)."
+      "details": "Box Internet / S@t Internet Services (same Silicom entity as SATECH), Adelaide. Earliest box.net.au capture Dec 1996; 1998 site shows 'S@t Internet Services' dialup plans.",
+      "source": [
+        "https://web.archive.org/web/19980512000000/http://www.box.net.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Taken over by Chariot."
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Taken over by Chariot: box.net.au had become 'Chariot Netconnect' by mid-2002 (Chariot service@chariot.net.au, SA/VIC/QLD/NSW sites by 2004).",
+      "source": [
+        "https://web.archive.org/web/20020601000000/http://www.box.net.au/",
+        "https://web.archive.org/web/20040601000000/http://www.box.net.au/"
+      ]
     }
   ],
   "refs": [

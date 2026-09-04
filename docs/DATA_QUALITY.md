@@ -51,11 +51,35 @@ fails the load.)
   entities (WA Escape Net / Adelaide EscapeNet / Melbourne Escape Online Internet)
   and "On the Net" vs "OntheNet". When in doubt, research before merging.
 
+## ACN/ABN misattribution (systemic — check with `tools/check_acn_dates.py`)
+
+The most common defect found during the Sep-2026 verification sprints was a
+cited legal entity that is **not** the ISP: a later same-name or name-collision
+company (occasionally a future-dated 2026 registration, or an unrelated trust /
+foreign ARBN) whose ACN/ABN was scraped in as the ISP's own. When an ISP died
+in 2003 but its summary cites an ACN registered in 2019, the ACN belongs to a
+different company that happened to reuse the name.
+
+`python3 tools/check_acn_dates.py` flags these mechanically: it estimates each
+cited ACN's registration year (Australian Company Numbers are allocated roughly
+sequentially, so the 9-digit value encodes an era — the tool interpolates
+between ~60 anchor ACNs confirmed against ABR) and reports any dead ISP citing
+an ACN estimated to register after its death. It is a **verify-against-ABR
+worklist**, not proof — the estimate has a few years' slop. `--json` for
+machine output, `--strict` to fail CI. When a hit is confirmed: remove the ACN
+from the `summary`, relabel/replace the `gov` ref (mark it "unrelated" so the
+tool skips it thereafter), and add a `note` event documenting the mismatch.
+
+Entries 1-330 (by slug) were swept in Sep 2026; the check still surfaces
+genuine hits beyond that range (e.g. indigo-networks, giganet, gsn-net,
+g-node, lithoptix, harvest-road) for a future pass.
+
 ## Known deliberate gaps
 
-- **CM Value Added Services (CMvas)** — the entity that acquired Uniti assets in
-  2024 has no birth date (a proposed 1995 date was rejected as implausible). Needs
-  a proper incorporation date.
+- **CM Value Added Services (CMvas)** — RESOLVED (Sep 2026): ABR confirms
+  CM VALUE ADDED SERVICES PTY LTD, ABN 39 673 140 737 / ACN 673 140 737,
+  registered 28 May 2024 (SA); birth set to that date. The earlier proposed
+  1995 date was indeed wrong.
 - **Colocity / NTT Australia** — ABNs still active; no firm closure date found.
 - **Flowernet** — reported as a Kalgoorlie ISP by a local source, but research
   found only a nursery/florist site under that domain; likely not an ISP.

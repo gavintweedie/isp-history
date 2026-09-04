@@ -4,12 +4,15 @@
   "birthplace": "Sunshine Coast, QLD",
   "status": "inactive",
   "website": "accessplus.com.au",
-  "summary": "Sunshine Coast student accommodation/hotel/motel internet provider (managed internet services), founded 1999 by Neil Thompson; acquired by BigAir for $5m (announced 5 Jan 2011); Neil Thompson stayed as BigAir senior management (ACCESSPLUS PARTNERS PTY LTD, ACN 679 022 434).",
+  "summary": "Sunshine Coast QLD managed-internet provider for student accommodation/hotels/motels, founded 1999 by Neil Thompson; acquired by BigAir for $5m (announced 5 Jan 2011).",
   "names": [
     {
       "name": "AccessPlus",
       "start_year": 1999,
-      "start_disp": "1999"
+      "start_disp": "1999",
+      "source": [
+        "Earliest Wayback capture 18 Oct 2000 ('Access Plus - Specialist ISP - South East Queensland ... On-site Internet Service Provider to multi-lot developments: Student Accommodation/Colleges'), consistent with a 1999 founding: https://web.archive.org/web/20001018091221id_/http://www.accessplus.com.au/"
+      ]
     }
   ],
   "events": [
@@ -18,14 +21,20 @@
       "year": 1999,
       "date_disp": "1999",
       "precision": "exact",
-      "details": "Founded Sunshine Coast (student accommodation internet)."
+      "details": "Founded Sunshine Coast QLD; specialist on-site ISP for student accommodation/colleges. Web presence confirmed from Oct 2000.",
+      "source": [
+        "https://web.archive.org/web/20001018091221id_/http://www.accessplus.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2011,
       "date_disp": "Jan 2011",
       "precision": "exact",
-      "details": "Acquired by BigAir for $5m."
+      "details": "Acquired by BigAir for $5m (announced 5 Jan 2011).",
+      "source": [
+        "ZDNet: BigAir to acquire AccessPlus for $5m (Jan 2011): https://www.zdnet.com/home-and-office/networking/bigair-to-acquire-accessplus-for-5m/"
+      ]
     }
   ],
   "refs": [
@@ -33,11 +42,6 @@
       "kind": "news",
       "url": "https://www.zdnet.com/home-and-office/networking/bigair-to-acquire-accessplus-for-5m/",
       "label": "ZDNet: BigAir to acquire AccessPlus for $5m (Jan 2011)"
-    },
-    {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=15679022434",
-      "label": "ABR: ACCESSPLUS PARTNERS PTY LTD ACN 679 022 434"
     }
   ]
 }

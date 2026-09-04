@@ -25,7 +25,11 @@
       "year": 2001,
       "date_disp": "2001",
       "precision": "exact",
-      "details": "Last active capture of cheapa.net.au (May 2001)."
+      "details": "Last live homepage capture of cheapa.net.au 6 Apr 2001 (200); a 302 redirect by the next capture (25 May 2002).",
+      "source": [
+        "https://web.archive.org/web/20010406230007/http://cheapa.net.au/",
+        "https://web.archive.org/cdx/search/cdx?url=cheapa.net.au&output=json"
+      ]
     }
   ],
   "refs": [

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://brownbear.net.au",
-  "summary": "Budget dialup ISP (from $9.95; dialup, ADSL, ISDN, hosting, ~2005); defunct.",
+  "summary": "Budget national ISP (from $9.95; dialup + ADSL + ISDN + hosting, by 2005); defunct c. 2009-10.",
   "names": [
     {
       "name": "Brown Bear Internet",
@@ -16,16 +16,23 @@
     {
       "kind": "birth",
       "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Dialup, ADSL, ISDN, hosting."
+      "date_disp": "by 2005",
+      "precision": "by",
+      "details": "Dialup + ADSL + ISDN + hosting; earliest Wayback capture 15 Jun 2005 (brownbear.net.au).",
+      "source": [
+        "https://web.archive.org/web/20050615132716/http://www.brownbear.net.au/"
+      ]
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
+      "year": 2009,
+      "date_disp": "c. 2009-10",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail homepage served content through 13 Oct 2009 (last live capture); from Feb 2011 brownbear.net.au returned only 301 redirects. Defunct by ~2010.",
+      "source": [
+        "https://web.archive.org/web/20091013224316/http://www.brownbear.net.au/",
+        "Wayback CDX: 200 homepage captures 2005-2009, 301 from 2011"
+      ]
     }
   ]
 }

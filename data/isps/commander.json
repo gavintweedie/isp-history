@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "commander.com.au",
-  "summary": "Sydney telco/IT services group; parent of PBBA (iBurst wireless); collapsed 2009 (M2 COMMANDER PTY LTD, ACN 136 950 082).",
+  "summary": "ASX-listed telco/IT services group (Commander Communications Ltd), grew from the Commander business-phone-systems brand; parent of PBBA (iBurst wireless); entered administration 2008, SME/telco business acquired by M2 Telecommunications 2009 (brand continues as a Vocus brand).",
   "names": [
     {
       "name": "Commander",
@@ -22,17 +22,30 @@
     },
     {
       "kind": "death",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "approx",
+      "details": "Commander Communications Ltd entered voluntary administration in 2008; SME/telco business acquired by M2 Telecommunications in 2009. Homepage live (HTTP 200) through 2009 in Wayback, then redirects.",
+      "source": [
+        "https://web.archive.org/web/20090905151922/http://commander.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
       "year": 2009,
-      "date_disp": "2009",
+      "date_disp": "15 Jun 2009",
       "precision": "exact",
-      "details": "Collapsed/restructured."
+      "details": "M2 COMMANDER PTY LTD (ACN 136 950 082) is the M2 acquisition vehicle, registered 15 Jun 2009 — after Commander Communications collapsed — not the original ASX-listed entity; business name COMMANDER only assigned to it from 17 Jun 2014. Cited here as the successor brand holder, not the historical ISP.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=85136950082"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=85136950082",
-      "label": "ABR: M2 COMMANDER PTY LTD ACN 136 950 082"
+      "label": "ABR: M2 COMMANDER PTY LTD ACN 136 950 082 (successor brand holder, reg. 15 Jun 2009)"
     }
   ]
 }

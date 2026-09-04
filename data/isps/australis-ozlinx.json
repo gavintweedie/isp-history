@@ -18,21 +18,27 @@
       "year": 1999,
       "date_disp": "25 Jan 1999",
       "precision": "by",
-      "details": "Earliest Wayback capture 25 Jan 1999 (ozlinx.com.au); counter since 30 Sep 1998; subsidiary of Education Resources ACN 057057986. Earliest capture 25 jan 1999.",
+      "details": "Earliest Wayback capture 25 Jan 1999 (ozlinx.com.au); page counter running since 30 Sep 1998; subsidiary of Education Resources (ACN 057 057 986).",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19990125101919/http://www.ozlinx.com.au/",
           "label": "Australis Ozlinx (Wayback 25 Jan 1999)"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/19990125101919/http://www.ozlinx.com.au/"
       ]
     },
     {
       "kind": "death",
       "year": 2004,
-      "date_disp": "2004",
-      "precision": "exact",
-      "details": "Last active capture of ozlinx.com.au (May 2004)."
+      "date_disp": "c. 2004",
+      "precision": "approx",
+      "details": "Last active retail capture of ozlinx.com.au c. 2004; domain later reused (captures continue to 2025).",
+      "source": [
+        "https://web.archive.org/web/20031223224443/http://www.ozlinx.com.au/"
+      ]
     }
   ],
   "refs": [

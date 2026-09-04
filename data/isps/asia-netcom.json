@@ -18,14 +18,20 @@
       "year": 2002,
       "date_disp": "2002",
       "precision": "exact",
-      "details": "Formed from Asia Global Crossing's assets (EAC cable)."
+      "details": "Formed 2002 when a China Netcom-led consortium bought bankrupt Asia Global Crossing's assets (EAC cable) for ~US$120m; China Netcom took full ownership late 2003.",
+      "source": [
+        "https://en.wikipedia.org/wiki/Pacnet"
+      ]
     },
     {
       "kind": "death",
       "year": 2008,
-      "date_disp": "2008",
+      "date_disp": "8 Jan 2008",
       "precision": "exact",
-      "details": "Merged with Pacific Internet to form Pacnet."
+      "details": "Merged with Pacific Internet under a new corporate name, Pacnet Limited (8 Jan 2008).",
+      "source": [
+        "https://en.wikipedia.org/wiki/Pacnet"
+      ]
     }
   ],
   "refs": [

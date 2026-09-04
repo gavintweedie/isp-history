@@ -2,15 +2,27 @@
   "name": "Arafura Internet Services",
   "slug": "arafura-internet",
   "birthplace": "Darwin, NT",
-  "status": "inactive",
+  "status": "active",
   "website": "https://arafura.net.au",
-  "summary": "Darwin-region dialup ISP (Arafura Connect, ~1999); defunct.",
+  "summary": "Darwin, NT ISP trading as 'Arafura Connect'; dialup origins (c. 1999), now NBN + ADSL2 + business ethernet + hosting + VoIP + cloud; still active under NORTHERN TECHNOLOGY HOLDINGS PTY LTD (ACN 104 365 675).",
   "names": [
     {
       "name": "Arafura Internet Services",
       "start_year": 1999,
       "start_disp": "c. 1999"
+    },
+    {
+      "name": "Arafura Connect",
+      "start_year": 2010,
+      "start_disp": "c. 2010",
+      "source": [
+        "http://www.arafura.com.au/ (live homepage, 2026; 'over 16 years experience')",
+        "https://abr.business.gov.au/ABN/View?abn=51104365675"
+      ]
     }
+  ],
+  "aliases": [
+    "Arafura Connect"
   ],
   "events": [
     {
@@ -18,14 +30,30 @@
       "year": 1999,
       "date_disp": "c. 1999",
       "precision": "approx",
-      "details": "Dialup."
+      "details": "Darwin NT dialup ISP; founding year predates the archive and is approximate."
     },
     {
-      "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2015,
+      "date_disp": "2015",
+      "precision": "exact",
+      "details": "Still active as a Darwin NT ISP trading as 'Arafura Connect' (NBN, ADSL2, business ethernet, hosting, VoIP, cloud); ARAFURA INTERNET SERVICES / ARAFURA CONNECT and related business names held by NORTHERN TECHNOLOGY HOLDINGS PTY LTD (ACN 104 365 675, ABN active from 6 Jan 2014), business names registered 5 Mar 2015; arafura.net.au now redirects to arafura.com.au.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=51104365675",
+        "http://www.arafura.com.au/ (live homepage, 2026)"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=51104365675",
+      "label": "ABR: NORTHERN TECHNOLOGY HOLDINGS PTY LTD ACN 104 365 675 (t/as Arafura Internet Services / Arafura Connect)"
+    },
+    {
+      "kind": "official",
+      "url": "http://www.arafura.com.au/",
+      "label": "Arafura Connect homepage (live 2026)"
     }
   ]
 }

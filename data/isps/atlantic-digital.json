@@ -27,12 +27,15 @@
       "year": 2000,
       "date_disp": "Mar 2000",
       "precision": "exact",
-      "details": "Business name ATLANTIC INTERNET registered 9 Mar 2000 under Radtek Pty Ltd ACN 083 304 894 (informal operation by Oct 1999 - earliest Wayback capture of atlantech.com.au). Ran dialup plus hosting and 'The Computer Cafe' internet cafe on a 2Mbit HDSL link.",
+      "details": "Radtek Pty Ltd (ACN 083 304 894) registered its ABN 9 Mar 2000, initially trading as 'Atlantic Quality Computers' and 'The Computer Cafe' (both trading names from 9 Mar 2000); 'Atlantic Internet' added as a trading name 10 Oct 2000; informal operation by Oct 1999 - earliest Wayback capture of atlantech.com.au. Ran dialup plus hosting and 'The Computer Cafe' internet cafe on a 2Mbit HDSL link.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=55083304894 (RADTEK PTY. LTD., ABN active 9 Mar 2000; trading names 'Atlantic Quality Computers' and 'The Computer Cafe' from 9 Mar 2000, 'Atlantic Internet' from 10 Oct 2000)"
+      ],
       "refs": [
         {
           "kind": "gov",
           "url": "https://abr.business.gov.au/ABN/View?abn=55083304894",
-          "label": "ABN Lookup: Radtek Pty Ltd - Atlantic Internet business name, 9 Mar 2000"
+          "label": "ABN Lookup: Radtek Pty. Ltd., ABN active 9 Mar 2000; trading name 'Atlantic Internet' from 10 Oct 2000"
         },
         {
           "kind": "archive",
@@ -46,6 +49,9 @@
       "year": 2001,
       "date_disp": "Oct 2001",
       "details": "Rebranded as Atlantic Digital: business name ATLANTIC DIGITAL registered 17 Oct 2001 (same Radtek Pty Ltd); successor domain atlanticdigital.net first captured 20 Jul 2001 and operated continuously afterwards - Brisbane ISP offering 56k dialup and ISDN plus domain, web, email and database hosting ('We do NOT use satellite traffic'), alongside the Computer Cafe portal.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=55083304894 (business name 'ATLANTIC DIGITAL' registered 17 Oct 2001 under Radtek Pty. Ltd.)"
+      ],
       "refs": [
         {
           "kind": "archive",

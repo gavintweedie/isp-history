@@ -4,12 +4,15 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://angelnet.com.au",
-  "summary": "Nationwide dialup/ADSL ISP (~2003); defunct (ANGELNET PTY LTD, ACN 660 128 656).",
+  "summary": "Nationwide dialup + ADSL + hosting ISP (brand 'AngelNET Internet', 1300 780 949); live c. 2003-2005, domain parked/dead by 2013.",
   "names": [
     {
       "name": "Angelnet",
       "start_year": 2003,
-      "start_disp": "c. 2003"
+      "start_disp": "c. 2003",
+      "source": [
+        "https://web.archive.org/web/20031226175756/http://www.angelnet.com.au/ (masthead 'AngelNET Internet'; earliest capture per CDX)"
+      ]
     }
   ],
   "events": [
@@ -18,21 +21,37 @@
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Dialup, ADSL, hosting."
+      "details": "Dialup + ADSL + hosting, brand 'AngelNET Internet', national 1300 780 949 line; earliest angelnet.com.au Wayback capture 26 Dec 2003.",
+      "source": [
+        "https://web.archive.org/web/20031226175756id_/http://www.angelnet.com.au/ (services: Dial Up, ADSL, Hosting; ph 1300 780 949)"
+      ]
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Same 'AngelNET Internet' homepage captured unchanged Dec 2003 - Jan 2005; no captures 2005-2013, then the domain returns only redirects/errors (301 in 2013, 403 in 2014-16, 500 in 2021) - parked/dead by 2013.",
+      "source": [
+        "https://web.archive.org/cdx/search/cdx?url=angelnet.com.au&output=json (digest RQH6GM5EHQS4LXT3JMG3KTVFXIOWEGWZ across 2003-2005; 301/403/500 from 2013)"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2022,
+      "date_disp": "13 Jun 2022",
+      "precision": "exact",
+      "details": "The current ANGELNET PTY LTD (ACN 660 128 656, ABN 72 660 128 656, Parramatta NSW) was registered only 13 Jun 2022 and is unrelated to this c. 2003 ISP - a coincidental name match, not the same entity.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=72660128656 (ANGELNET PTY LTD, active from 13 Jun 2022)"
+      ]
     }
   ],
   "refs": [
     {
-      "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=72660128656",
-      "label": "ABR: ANGELNET PTY LTD ACN 660 128 656"
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20031226175756/http://www.angelnet.com.au/",
+      "label": "AngelNET Internet (Wayback 26 Dec 2003)"
     }
   ]
 }

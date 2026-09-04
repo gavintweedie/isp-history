@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://boldweb.com.au",
-  "summary": "SA ADSL-only provider (BoldWeb Internet, ~2002, alongside Adam & Airnet); domain later Boldweb Investments (BOLDNET PTY. LTD., ACN 059 788 653).",
+  "summary": "SA ADSL/VoIP provider (BoldWeb Internet, ~2002, alongside Adam & Airnet); domain served a Sipura VoIP portal by 2006, then a Boldweb Investments Pty Ltd holding page by 2009; defunct c. 2008.",
   "names": [
     {
       "name": "Boldnet",
@@ -25,19 +25,33 @@
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Domain to Boldweb Investments."
+      "details": "boldweb.com.au served a Sipura SPA (VoIP ATA) configuration/login portal by 2006, then a 'Boldweb Investments Pty Ltd' holding page by 2009.",
+      "source": [
+        "https://web.archive.org/web/20060819081419/http://boldweb.com.au/",
+        "https://web.archive.org/web/20091012074038/http://www.boldweb.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2000,
+      "date_disp": "2000",
+      "precision": "approx",
+      "details": "ACN attribution uncertain: the cited BOLDNET PTY. LTD. (ACN 059 788 653) is registered in QLD (Gold Coast 4217) and its name differs from the 'Boldweb Investments Pty Ltd' shown on the 2009 holding page, so it may be an unrelated name-collision entity rather than this SA provider's operator.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=58059788653"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
       "url": "https://web.archive.org/web/20091012074038/http://www.boldweb.com.au/",
-      "label": "BoldWeb (Wayback 2009)"
+      "label": "Boldweb Investments holding page (Wayback 2009)"
     },
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=58059788653",
-      "label": "ABR: BOLDNET PTY. LTD. ACN 059 788 653"
+      "label": "ABR: BOLDNET PTY. LTD. ACN 059 788 653 (QLD; link to this SA provider uncertain)"
     }
   ]
 }

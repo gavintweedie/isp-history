@@ -18,13 +18,16 @@
       "year": 2000,
       "date_disp": "21 Aug 2000",
       "precision": "by",
-      "details": "Earliest Wayback capture 21 Aug 2000 (bondinet.com.au); footer \u00a92000. Earliest capture 21 aug 2000.",
+      "details": "Earliest Wayback capture 21 Aug 2000 (bondinet.com.au); footer \u00a92000.",
       "refs": [
         {
           "kind": "archive",
-          "url": "https://web.archive.org/web/20000821000000/http://www.bondinet.com.au/",
+          "url": "https://web.archive.org/web/20000821182541/http://bondinet.com.au:80/",
           "label": "Bondi Internet Services (Wayback 21 Aug 2000)"
         }
+      ],
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=bondinet.com.au&output=json"
       ]
     },
     {
@@ -32,7 +35,10 @@
       "year": 2002,
       "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Dead (site dark after Nov 2001)."
+      "details": "Dead; only five bondinet.com.au captures exist (Aug 2000 to 30 Nov 2001), site dark thereafter.",
+      "source": [
+        "http://web.archive.org/cdx/search/cdx?url=bondinet.com.au&output=json"
+      ]
     }
   ],
   "refs": [

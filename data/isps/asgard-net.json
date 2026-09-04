@@ -4,12 +4,26 @@
   "birthplace": "Moorooka (Brisbane), QLD",
   "status": "inactive",
   "website": "https://asgard.net.au",
-  "summary": "Brisbane dialup/ISDN + hosting ISP; rebranded Instant Communications ~2002, absorbed into EFTel ~2005-07.",
+  "summary": "Brisbane dialup/ISDN + hosting ISP; still Asgard.net-branded to Feb 2003, rebranded Instant Communications by 2006 (dialup + ADSL + SDSL + hosting), absorbed into EFTel ~2007.",
   "names": [
     {
       "name": "Asgard.net",
       "start_year": 1997,
-      "start_disp": "22 Apr 1997"
+      "start_disp": "22 Apr 1997",
+      "end_year": 2005,
+      "end_disp": "c. 2005",
+      "source": [
+        "https://web.archive.org/web/20020122024818/http://www.asgard.net.au/ (\"Asgard.Net Internet\", Jan 2002)",
+        "https://web.archive.org/web/20030202181430/http://www.asgard.net.au/ (still Asgard.net-branded, Feb 2003)"
+      ]
+    },
+    {
+      "name": "Instant Communications",
+      "start_year": 2006,
+      "start_disp": "by 2006",
+      "source": [
+        "https://web.archive.org/web/20070828192812/http://www.asgard.net.au/ (asgard.net.au serving Instant Communications: dialup + ADSL + SDSL + hosting)"
+      ]
     }
   ],
   "events": [
@@ -30,9 +44,12 @@
     {
       "kind": "death",
       "year": 2007,
-      "date_disp": "c. 2005-07",
+      "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "Absorbed into EFTel (via Instant Communications)."
+      "details": "Absorbed into EFTel (via Instant Communications); asgard.net.au served an Instant Communications page that then sat frozen (identical capture) from 2007 through 2023.",
+      "source": [
+        "https://web.archive.org/web/20070828192812/http://www.asgard.net.au/ (Instant Communications page, unchanged 2007-2023)"
+      ]
     }
   ],
   "refs": [

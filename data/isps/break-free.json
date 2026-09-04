@@ -4,7 +4,7 @@
   "birthplace": "Coffs Harbour, NSW",
   "status": "inactive",
   "website": "https://breakfree.net.au",
-  "summary": "Coffs Harbour ADSL/bundle ISP (Break Free Communications Pty Ltd / Australia Power Control Systems, ACN 646 011 832); small provider to ~2017.",
+  "summary": "Coffs Harbour ADSL + wireless-broadband + bundle ISP (Break Free Communications, T/A Australia Power Control Systems P/L); rebranded to Jazi (jazi.net) c. 2019 (THE TRUSTEE FOR THE ANDERSON FAMILY TRUST, ABN 81 844 880 166).",
   "names": [
     {
       "name": "Break Free",
@@ -18,14 +18,33 @@
       "year": 2001,
       "date_disp": "by 2001",
       "precision": "by",
-      "details": "Break Free Communications (Coffs Harbour)."
+      "details": "Break Free Communications, Coffs Harbour NSW; T/A Australia Power Control Systems P/L, 2 Peterson Road; ABN 81 844 880 166 (The Anderson Family Trust). Earliest breakfree.net.au capture 20 May 2001.",
+      "source": [
+        "https://web.archive.org/web/20180310000000/http://breakfree.net.au/",
+        "https://abr.business.gov.au/ABN/View?abn=81844880166"
+      ]
     },
     {
       "kind": "death",
-      "year": 2017,
-      "date_disp": "by 2017",
-      "precision": "by",
-      "details": "Last captured 2017."
+      "year": 2019,
+      "date_disp": "c. 2019",
+      "precision": "approx",
+      "details": "Retail homepage live through early 2019 (ADSL/ADSL2+/wireless plans); breakfree.net.au began 301-redirecting to jazi.net by 27 May 2019, i.e. rebranded/absorbed into Jazi.",
+      "source": [
+        "https://web.archive.org/web/20190527083405/http://breakfree.net.au/",
+        "http://web.archive.org/cdx/search/cdx?url=breakfree.net.au&output=json"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2020,
+      "date_disp": "2020",
+      "precision": "exact",
+      "details": "Prior summary cited ACN 646 011 832 (BREAK FREE CORPORATION PTY LTD): a name-collision entity registered 19 Nov 2020, well after this ISP had rebranded to Jazi, so it does not belong to this record. The operating business was Break Free Communications (T/A Australia Power Control Systems P/L), ABN 81 844 880 166, cancelled 30 Nov 2022.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=53646011832",
+        "https://abr.business.gov.au/ABN/View?abn=81844880166"
+      ]
     }
   ],
   "refs": [
@@ -36,8 +55,8 @@
     },
     {
       "kind": "gov",
-      "url": "https://abr.business.gov.au/ABN/View?abn=53646011832",
-      "label": "ABR: BREAK FREE CORPORATION PTY LTD ACN 646 011 832"
+      "url": "https://abr.business.gov.au/ABN/View?abn=81844880166",
+      "label": "ABR: THE TRUSTEE FOR THE ANDERSON FAMILY TRUST (T/A Break Free Communications / Australia Power Control Systems) ABN 81 844 880 166"
     }
   ]
 }

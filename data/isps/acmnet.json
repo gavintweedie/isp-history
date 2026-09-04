@@ -9,7 +9,10 @@
     {
       "name": "ACMNet",
       "start_year": 2005,
-      "start_disp": "2005"
+      "start_disp": "2005",
+      "source": [
+        "Earliest Wayback capture 14 Dec 2005 (self-describes as 'ACMNET - WISP now serving the northern areas of Adelaide'): https://web.archive.org/web/20051214020948id_/http://www.acmnet.com.au/"
+      ]
     }
   ],
   "events": [
@@ -18,14 +21,20 @@
       "year": 2005,
       "date_disp": "2005",
       "precision": "exact",
-      "details": "ACMnet Pty Ltd (Salisbury SA)."
+      "details": "ACMnet Pty Ltd; wireless ISP (WISP) serving northern Adelaide (Salisbury/Brahma Lodge/Hillbank/Parafield). Earliest Wayback capture 14 Dec 2005 with 'now serving' launch language.",
+      "source": [
+        "https://web.archive.org/web/20051214020948id_/http://www.acmnet.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Wound down (founders -> NuSkope)."
+      "details": "Wound down (founders later established NuSkope). Last live retail capture 29 Aug 2007; site then reduced to webmail/parked. (NuSkope founder link and 2007 Ai Tel litigation not independently verified via web archives.)",
+      "source": [
+        "Wayback CDX for acmnet.com.au (last retail capture 29 Aug 2007): http://web.archive.org/cdx/search/cdx?url=acmnet.com.au"
+      ]
     }
   ],
   "refs": [

@@ -4,7 +4,7 @@
   "birthplace": "Duncraig (Perth), WA",
   "status": "inactive",
   "website": "https://cybernet.net.au",
-  "summary": "Perth dialup + web page creation/marketing ISP; defunct ~2002.",
+  "summary": "Perth dialup + web page creation/marketing ISP; defunct ~2004.",
   "names": [
     {
       "name": "Cyber*net (Australia)",
@@ -22,17 +22,21 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2004,
+      "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Homepage reduced to a single-image splash (\"Contact Mark & Joanne\") by early 2003 and last captured Feb 2004; no captures thereafter.",
+      "source": [
+        "https://web.archive.org/web/20030213005932id_/http://www.cybernet.net.au/",
+        "https://web.archive.org/web/20040207025039/http://www.cybernet.net.au/"
+      ]
     }
   ],
   "refs": [
     {
       "kind": "archive",
-      "url": "https://web.archive.org/web/2001/http://www.cybernet.net.au/",
-      "label": "Cyber*net (Wayback 2001)"
+      "url": "https://web.archive.org/web/20010401160038/http://cybernet.net.au/",
+      "label": "Cyber*net (Wayback 1 Apr 2001)"
     }
   ]
 }

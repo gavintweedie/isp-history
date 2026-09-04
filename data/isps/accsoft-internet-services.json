@@ -4,12 +4,15 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://accsoft.com.au",
-  "summary": "Sydney dialup + telephony + Asian-language web services; defunct ~2010s.",
+  "summary": "Sydney dialup + telephony + Asian-language web services; retail ISP ceased ~2002 (domain then redirected to onmyweb.net portal through 2006). Parent ACCSOFT COMPUTER TECHNOLOGY PTY LTD (ACN 065 617 549) remains registered.",
   "names": [
     {
       "name": "Accsoft Internet Services",
       "start_year": 1995,
-      "start_disp": "c. 1995"
+      "start_disp": "c. 1995",
+      "source": [
+        "ABR: ACCSOFT COMPUTER TECHNOLOGY PTY LTD, ABN 98 065 617 549, registered 11 Jul 1994 (ACN prefix 065 \u2248 1994): https://abr.business.gov.au/ABN/View?abn=98065617549"
+      ]
     }
   ],
   "events": [
@@ -18,7 +21,10 @@
       "year": 1995,
       "date_disp": "c. 1995",
       "precision": "approx",
-      "details": "Accsoft Computer Technology Pty Ltd incorporated 11 Jul 1994 (ACN 065617549); ISP/hosting diversified late 1995.",
+      "details": "Accsoft Computer Technology Pty Ltd incorporated 11 Jul 1994 (ACN 065 617 549); ISP/hosting diversified late 1995.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=98065617549"
+      ],
       "refs": [
         {
           "kind": "official",
@@ -29,21 +35,13 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "by Dec 2005",
-      "precision": "by",
-      "details": "Last Wayback capture of own domain (c. 2001).",
-      "refs": [
-        {
-          "kind": "archive",
-          "url": "https://web.archive.org/web/20051126061004/http://www.accsoft.com.au/index_org.htm",
-          "label": "Wayback: last ISP retail homepage"
-        },
-        {
-          "kind": "archive",
-          "url": "https://web.archive.org/web/20051210043336/http://www.accsoft.com.au/",
-          "label": "Wayback: first webmail-only / parked homepage"
-        }
+      "year": 2002,
+      "date_disp": "c. 2002",
+      "precision": "approx",
+      "details": "Retail ISP ceased ~2002: the full ISP homepage survived only until May 2002; from early 2003 through 2006 accsoft.com.au was a small meta-refresh redirect to onmyweb.net (the Nov 2005 and Dec 2005 captures are the identical redirect page, not a retail\u2192webmail transition). Corrects the previous 'defunct ~2010s' / 'by Dec 2005' framing.",
+      "source": [
+        "Wayback CDX for accsoft.com.au (last full homepage May 2002; redirect page from Feb 2003): http://web.archive.org/cdx/search/cdx?url=accsoft.com.au&output=json",
+        "Redirect to onmyweb.net (Nov 2005 capture): https://web.archive.org/web/20051108103852id_/http://www.accsoft.com.au/"
       ]
     }
   ],

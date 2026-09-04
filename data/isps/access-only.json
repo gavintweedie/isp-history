@@ -4,12 +4,15 @@
   "birthplace": "Australia (national)",
   "status": "inactive",
   "website": "https://accessonly.com.au",
-  "summary": "Prepaid month-by-month dialup ISP ('no strings attached', $13.95/mo, all-capital POPs, by 2002); defunct.",
+  "summary": "Prepaid month-by-month dialup ISP ('no strings attached', ~$13.75/mo in 2002, all-capital POPs); retail site live through ~2009, defunct c.2009-2010.",
   "names": [
     {
       "name": "Access Only",
       "start_year": 2002,
-      "start_disp": "19 Oct 2002"
+      "start_disp": "19 Oct 2002",
+      "source": [
+        "Earliest Wayback capture 19 Oct 2002: https://web.archive.org/web/20021019084954id_/http://www.accessonly.com.au/"
+      ]
     }
   ],
   "events": [
@@ -18,7 +21,10 @@
       "year": 2002,
       "date_disp": "19 Oct 2002",
       "precision": "approx",
-      "details": "Earliest Wayback capture 19 Oct 2002 (accessonly.com.au); no earlier captures 1996-2002.",
+      "details": "Earliest Wayback capture 19 Oct 2002 (accessonly.com.au); no earlier captures 1996-2002. Month-by-month prepaid unlimited dialup, advertised at $13.75/mo in the 2002 snapshot.",
+      "source": [
+        "https://web.archive.org/web/20021019084954id_/http://www.accessonly.com.au/"
+      ],
       "refs": [
         {
           "kind": "archive",
@@ -29,10 +35,13 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
+      "year": 2010,
+      "date_disp": "c. 2009-2010",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "The full retail homepage was still being captured through 27 Oct 2009 (with intermittent 404s/parked stubs), so the ISP operated far later than the previously listed ~2006; defunct c.2009-2010.",
+      "source": [
+        "Wayback CDX for accessonly.com.au (retail homepage through Oct 2009): http://web.archive.org/cdx/search/cdx?url=accessonly.com.au"
+      ]
     }
   ]
 }

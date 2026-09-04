@@ -25,7 +25,11 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Last live homepage Dec 2000; site down through the 2000s, digitech.net.au later parked (domain-parking 'car insurance' ads by 2008).",
+      "source": [
+        "https://web.archive.org/web/20001205165100/http://www.digitech.net.au/ (last live homepage, Dec 2000)",
+        "https://web.archive.org/web/20080718185852/http://www.digitech.net.au/ (parked 'Car Insurance' page, 2008)"
+      ]
     }
   ],
   "refs": [

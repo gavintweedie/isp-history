@@ -18,14 +18,20 @@
       "year": 1992,
       "date_disp": "1992",
       "precision": "exact",
-      "details": "Founded in South Melbourne; first commercial ISP per ABS."
+      "details": "Founded 1992 in South Melbourne; one of the first companies to bring the Internet to Australia (its own 'About Connect' page states 'Founded in 1992').",
+      "source": [
+        "https://web.archive.org/web/20000304060006/http://www.connect.com.au/info/about_connect.html"
+      ]
     },
     {
       "kind": "death",
       "year": 1999,
       "date_disp": "3 Feb 1999",
       "precision": "exact",
-      "details": "Acquired by AAPT."
+      "details": "Acquired by AAPT (3 Feb 1999); by 2000 the 'About Connect' page described Connect as a wholly owned subsidiary of AAPT Limited.",
+      "source": [
+        "https://web.archive.org/web/20000304060006/http://www.connect.com.au/info/about_connect.html"
+      ]
     }
   ],
   "refs": [

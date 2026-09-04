@@ -4,7 +4,7 @@
   "birthplace": "Gold Coast, QLD",
   "status": "inactive",
   "website": "https://bayside.net.au",
-  "summary": "Gold Coast ISP (trading as Female Technologies, 07 5526 7767; dialup, ISDN, ADSL, ~2004); defunct.",
+  "summary": "Gold Coast dialup + ISDN + ADSL ISP (operated by Female Technologies); retail Bayside Internet homepage last seen Jan 2006, then rebranded to The Femtech Group; bayside.net.au later reused by Network Voice and Data.",
   "names": [
     {
       "name": "Bayside Internet",
@@ -17,8 +17,11 @@
       "kind": "birth",
       "year": 1997,
       "date_disp": "14 Apr 1997",
-      "precision": "approx",
+      "precision": "by",
       "details": "Earliest Wayback capture 14 Apr 1997 (bayside.net.au); footer ACN 078668505 (Queensland Internet Services) incorporated 14 May 1997; ISDN link up.",
+      "source": [
+        "https://web.archive.org/web/19970414083038/http://www.bayside.net.au:80/"
+      ],
       "refs": [
         {
           "kind": "archive",
@@ -29,10 +32,24 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2007",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Retail 'Welcome to Bayside Internet' homepage last archived Jan 2006; site rebranded to The Femtech Group (same operator, Female Technologies) by Feb 2007.",
+      "source": [
+        "https://web.archive.org/web/20060111003547/http://www.bayside.net.au:80/",
+        "https://web.archive.org/web/20070208140640/http://www.bayside.net.au:80/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2020,
+      "date_disp": "by 2020",
+      "precision": "by",
+      "details": "bayside.net.au later reused by Network Voice and Data (Tropical North Queensland IT supplier), unrelated to the original Gold Coast ISP.",
+      "source": [
+        "https://web.archive.org/web/20200228135346/http://bayside.net.au/"
+      ]
     }
   ]
 }

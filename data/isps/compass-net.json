@@ -4,7 +4,7 @@
   "birthplace": "Bankstown (Sydney), NSW",
   "status": "inactive",
   "website": "https://compassnet.com.au",
-  "summary": "Sydney dialup ISP (Bankstown POP); defunct ~2007, domain later reused (Compass Network Pty Ltd, ACN 149 872 944).",
+  "summary": "Sydney dialup ISP (Bankstown POP); defunct ~2007, compassnet.com.au later reused by Volunteer Marine Rescue NSW's 'CompassNet' (Compass Network Pty Ltd, ACN 149 872 944, reg 2011).",
   "names": [
     {
       "name": "Compass Net",
@@ -18,14 +18,21 @@
       "year": 1997,
       "date_disp": "by Apr 1997",
       "precision": "by",
-      "details": "Dialup (PPP/SLIP/UNIX shell)."
+      "details": "Dialup (PPP/SLIP/UNIX shell); listed in the Cynosure ISP directory as early as 10 Apr 1997.",
+      "source": [
+        "https://web.archive.org/web/19970410102002/http://www.cynosure.com.au/isp/compassnet"
+      ]
     },
     {
       "kind": "death",
       "year": 2007,
       "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Dialup ISP wound down (still Cynosure-listed to mid-2005); compassnet.com.au subsequently reused by Volunteer Marine Rescue NSW's 'CompassNet' marine-radio service under Compass Network Pty Ltd (ABN 93 149 872 944, registered 16 Mar 2011 — well after the ISP, so a distinct reuse entity, not a continuation).",
+      "source": [
+        "https://web.archive.org/web/20130601000000/http://www.compassnet.com.au/",
+        "https://abr.business.gov.au/ABN/View?abn=93149872944"
+      ]
     }
   ],
   "refs": [
@@ -37,7 +44,7 @@
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=93149872944",
-      "label": "ABR: Compass Network Pty Ltd ACN 149 872 944"
+      "label": "ABR: Compass Network Pty Ltd ACN 149 872 944 (unrelated later-reuse entity, reg 2011, not the ISP)"
     }
   ]
 }

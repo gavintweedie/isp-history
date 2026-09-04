@@ -4,7 +4,7 @@
   "birthplace": "West Perth, WA",
   "status": "inactive",
   "website": "https://www.central-data.net",
-  "summary": "West Perth ISP and data centre operator (Central Data Systems Pty Ltd, founded 1983, ACN 120 156 185); built ISP/data centre infrastructure 1995; early IP block registered as SATIX (1997); AS18065; WAIX participant as 'Central Data' (2007); pivoted to cloud computing/IT consultancy.",
+  "summary": "West Perth ISP and data centre operator; built ISP/data centre infrastructure 1995 (early IP block registered as SATIX, 1997 APNIC); AS18065; WAIX participant as 'Central Data' (2007); ISP arm wound down, now cloud computing/IT consultancy (CENTRAL DATA SYSTEMS PTY LTD, ACN 120 156 185).",
   "aliases": [
     "Satix",
     "Central Data",
@@ -31,7 +31,10 @@
       "year": 1995,
       "date_disp": "1995",
       "precision": "approx",
-      "details": "Company founded 1983 as IT consultancy; built ISP/data centre infrastructure 1995; IP block 203.132.96.0-127 registered as SATIX (1997 APNIC); AS18065 (CENTRAL-AS-AP) registered to Central Data System Pty Ltd; 88 Havelock St, West Perth WA 6005."
+      "details": "Company's own history claims a 1983 founding as an IT consultancy (unverified, and predating the current incorporated entity); built ISP/data centre infrastructure 1995; IP block 203.132.96.0-127 registered as SATIX (1997 APNIC); AS18065 (CENTRAL-AS-AP) registered to Central Data System Pty Ltd; 88 Havelock St, West Perth WA 6005. The ACN 120 156 185 entity (CENTRAL DATA SYSTEMS PTY LTD) was only registered 19 Jun 2006, so it post-dates the ISP infrastructure and is either a re-incorporation or a later same-name vehicle.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=54120156185"
+      ]
     },
     {
       "kind": "death",

@@ -2,9 +2,9 @@
   "name": "BITS",
   "slug": "bits-internet",
   "birthplace": "Surry Hills (Sydney), NSW",
-  "status": "inactive",
+  "status": "active",
   "website": "https://bits.com.au",
-  "summary": "Sydney dialup + permanent 56k + hosting ISP; dead ~2011.",
+  "summary": "Sydney dialup + permanent 56k + hosting ISP (from Mar 1996); ISP arm wound down late 2000s, company still trading as computer + test-equipment retailer (BITS Technology).",
   "names": [
     {
       "name": "BITS",
@@ -28,11 +28,25 @@
       ]
     },
     {
-      "kind": "death",
-      "year": 2011,
-      "date_disp": "c. 2011",
+      "kind": "note",
+      "year": 2009,
+      "date_disp": "c. 2009-10",
       "precision": "approx",
-      "details": "Last capture Feb 2011."
+      "details": "ISP arm wound down: bits.com.au was still the ISP through ~2007, an 'Online Shopping / Shareware' retail site by 2008, and 'BITS Computer Storage, Peripherals, Accessories' by Jan 2010; the company pivoted to computer/test-equipment retail (not defunct).",
+      "source": [
+        "https://web.archive.org/web/20090919074610id_/http://www.bits.com.au/",
+        "https://web.archive.org/web/20100104115421id_/http://www.bits.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "2026",
+      "precision": "exact",
+      "details": "Still trading as 'BITS Computer and Test Equipment - BITS Technology' (bits.com.au live, 2026).",
+      "source": [
+        "https://www.bits.com.au/"
+      ]
     }
   ],
   "refs": [

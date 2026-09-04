@@ -25,7 +25,11 @@
       "year": 2012,
       "date_disp": "by 2012",
       "precision": "by",
-      "details": "Folded into EFTel."
+      "details": "Retail dialup site captured through 2003; by Feb 2012 www.cybanet.com.au 302-redirected to eftel.com, confirming absorption into EFTel.",
+      "source": [
+        "https://web.archive.org/web/20030204110659id_/http://www.cybanet.com.au/",
+        "302 redirect www.cybanet.com.au -> eftel.com (Wayback 21 Feb 2012)"
+      ]
     }
   ],
   "refs": [

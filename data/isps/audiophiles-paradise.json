@@ -32,7 +32,10 @@
       "year": 2006,
       "date_disp": "2006",
       "precision": "exact",
-      "details": "Last active capture of vds.net.au (Feb 2006)."
+      "details": "Last active capture of vds.net.au (7 Feb 2006).",
+      "source": [
+        "https://web.archive.org/web/20060207010315/http://www.vds.net.au/"
+      ]
     }
   ],
   "refs": [

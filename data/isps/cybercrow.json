@@ -4,7 +4,7 @@
   "birthplace": "Myrtle Bank (Adelaide), SA",
   "status": "inactive",
   "website": "https://cybercrow.net.au",
-  "summary": "Adelaide dialup ISP + PC training/consulting; defunct ~1999.",
+  "summary": "Adelaide dialup ISP + PC training/consulting; defunct ~2002.",
   "names": [
     {
       "name": "CyberCrow",
@@ -22,10 +22,15 @@
     },
     {
       "kind": "death",
-      "year": 1999,
-      "date_disp": "c. 1999",
+      "year": 2002,
+      "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "CyberCrow retail homepage (Adelaide) last captured Aug 2002; replaced by a blank \"Untitled Document\" placeholder from Sep 2002, later an Internode virtual-hosting holding page (2010-16).",
+      "source": [
+        "https://web.archive.org/web/20020819012204id_/http://www.cybercrow.net.au/",
+        "https://web.archive.org/web/20020926083048id_/http://www.cybercrow.net.au/",
+        "https://web.archive.org/web/20141218131230id_/http://cybercrow.net.au/"
+      ]
     }
   ],
   "refs": [

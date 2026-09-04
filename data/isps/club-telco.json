@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://clubtelco.com.au",
-  "summary": "Consumer broadband/phone/VoIP brand of goTalk (~2010).",
+  "summary": "Consumer ADSL2+ + home phone + VoIP brand of goTalk (operator ClubTelco Pty Ltd), c.2010; brand ended c.2015.",
   "names": [
     {
       "name": "Club Telco",
@@ -18,14 +18,29 @@
       "year": 2010,
       "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "ADSL2+, home phone, VoIP brand of goTalk."
+      "details": "ADSL2+, home phone and VoIP brand of goTalk; operating entity ClubTelco Pty Ltd (per site footer). Earliest Wayback capture 10 Jan 2011.",
+      "source": [
+        "https://web.archive.org/web/20110110043700/http://www.clubtelco.com.au/",
+        "https://web.archive.org/web/20120217234604/http://www.clubtelco.com.au/"
+      ]
     },
     {
       "kind": "death",
       "year": 2015,
       "date_disp": "c. 2015",
       "precision": "approx",
-      "details": "Brand ended."
+      "details": "Homepage last changed c. Dec 2014 then frozen unchanged through Jan 2017; brand effectively ended c. 2015.",
+      "source": [
+        "https://web.archive.org/web/20141218124445/http://clubtelco.com.au/",
+        "https://web.archive.org/web/20170117023959/http://clubtelco.com.au/"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20110110043700/http://www.clubtelco.com.au/",
+      "label": "Club Telco (Wayback 10 Jan 2011)"
     }
   ]
 }

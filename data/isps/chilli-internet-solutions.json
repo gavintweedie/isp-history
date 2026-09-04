@@ -4,12 +4,16 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://chilli.net.au",
-  "summary": "Sydney dialup/web-hosting ISP; defunct (domain parked by 2025).",
+  "summary": "Sydney dialup + web-hosting ISP; wound down c. 2012 (ABN cancelled 7 Aug 2012), domain later parked (CHILLI INTERNET SOLUTIONS PTY LTD, ACN 075 333 881).",
   "names": [
     {
       "name": "Chilli Internet Solutions",
       "start_year": 1996,
-      "start_disp": "22 Aug 1996"
+      "start_disp": "22 Aug 1996",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=11075333881 (ACN 075 333 881, NSW 2015; ABN cancelled 07 Aug 2012)",
+        "https://web.archive.org/web/19970625144853/http://www.chilli.net.au/"
+      ]
     }
   ],
   "events": [
@@ -29,10 +33,13 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010s",
+      "year": 2012,
+      "date_disp": "c. 2012",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "ABN cancelled 7 Aug 2012; retail ISP wound down around then. Domain later parked (still resolving with placeholder captures through the 2020s).",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=11075333881 (ABN cancelled 07 Aug 2012)"
+      ]
     }
   ],
   "refs": [
@@ -40,6 +47,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970625144853/http://www.chilli.net.au/",
       "label": "Chilli (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=11075333881",
+      "label": "ABR: CHILLI INTERNET SOLUTIONS PTY LTD ACN 075 333 881 (ABN cancelled 7 Aug 2012)"
     }
   ]
 }

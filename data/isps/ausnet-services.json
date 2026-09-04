@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://world.net",
-  "summary": "Sydney corporate ISP & systems integrator (world.net service); original ISP gone, domain later reused (AUSNET SERVICES (DISTRIBUTION) PTY LTD, ACN 108 788 245).",
+  "summary": "Sydney corporate ISP & systems integrator (est. 1994; world.net service); original ISP gone by ~2000s, ausnet.net.au later reused; unrelated to the Victorian electricity/gas network AUSNet Services (AUSNET SERVICES LTD).",
   "names": [
     {
       "name": "AUSNet Services",
@@ -18,7 +18,10 @@
       "year": 1994,
       "date_disp": "1994",
       "precision": "exact",
-      "details": "Corporate ISP & systems integrator."
+      "details": "Corporate ISP & systems integrator, Level 10 Norwich House, 6-10 O'Connell St, Sydney; 'world.net' service (sales@world.net). Established 1994 per its own about page.",
+      "source": [
+        "https://web.archive.org/web/19981202142853/http://www.ausnet.net.au/about.html"
+      ]
     },
     {
       "kind": "death",
@@ -26,6 +29,16 @@
       "date_disp": "c. 2000s",
       "precision": "approx",
       "details": "Original ISP gone; domain reused by Kempsey operator from 2015."
+    },
+    {
+      "kind": "note",
+      "year": 2004,
+      "date_disp": "2004",
+      "precision": "exact",
+      "details": "Name collision only: the unrelated Victorian electricity/gas network operator AUSNet Services (AUSNET SERVICES (DISTRIBUTION) PTY LTD, ACN 108 788 245, VIC, registered 1 Oct 2004) shares the name but is a different entity, not this Sydney ISP.",
+      "source": [
+        "https://abr.business.gov.au/ABN/View?abn=37108788245"
+      ]
     }
   ],
   "refs": [
@@ -37,7 +50,7 @@
     {
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=37108788245",
-      "label": "ABR: AUSNET SERVICES (DISTRIBUTION) PTY LTD ACN 108 788 245"
+      "label": "ABR: AUSNET SERVICES (DISTRIBUTION) PTY LTD ACN 108 788 245 (VIC electricity network — NAME COLLISION, not this ISP)"
     }
   ]
 }

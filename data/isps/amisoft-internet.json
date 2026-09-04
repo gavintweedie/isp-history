@@ -19,6 +19,9 @@
       "date_disp": "6 Apr 1997",
       "precision": "exact",
       "details": "Earliest Wayback capture 6 Apr 1997 (ami.com.au); ISP operation late 1995-1996 via CodeLand BBS2WEB.",
+      "source": [
+        "https://web.archive.org/web/19970406081220/http://www.ami.com.au/ (earliest of the ami.com.au Wayback captures per CDX; captures run 1997-2004)"
+      ],
       "refs": [
         {
           "kind": "archive",

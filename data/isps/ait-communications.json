@@ -4,7 +4,7 @@
   "birthplace": "Blackburn (Melbourne), VIC",
   "status": "inactive",
   "website": "https://aitnet.net",
-  "summary": "Melbourne national dialup ISP (Australian Internet Technologies); ceased operations by ~2000.",
+  "summary": "Melbourne dialup ISP (Australian Internet Technologies), Blackburn VIC, POPs across greater Melbourne; ceased operations by ~2002 (Cynosure delisted).",
   "names": [
     {
       "name": "AIT Communications",
@@ -18,21 +18,29 @@
       "year": 1999,
       "date_disp": "25 Jan 1999",
       "precision": "by",
-      "details": "Earliest Wayback capture 25 Jan 1999 (aitnet.net); headline Monday January 25, 1999. Earliest capture 25 jan 1999.",
+      "details": "Earliest Wayback capture 25 Jan 1999 (aitnet.net), 'AIT Communications - Australian Internet Technologies'; Blackburn Vic 3130, ph (03) 9893 3855; POPs at Melbourne, Werribee, Dandenong, Ringwood, Kalkallo, Geelong, Croydon (per Cynosure).",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19990125084537/http://aitnet.net/",
           "label": "AIT Communications (Wayback 25 Jan 1999)"
         }
+      ],
+      "source": [
+        "https://web.archive.org/web/19990125084537id_/http://aitnet.net/",
+        "https://web.archive.org/web/20020421052249id_/http://www.cynosure.com.au/isp/aitnet"
       ]
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "by 2000",
+      "year": 2002,
+      "date_disp": "by 2002",
       "precision": "by",
-      "details": "Cynosure delisted: provider ceased operations."
+      "details": "Cynosure 2002 snapshot marks provider 'no longer listed ... ceased operations'; aitnet.net stopped serving retail content after Jan 1999 and returned only 302 redirects from Sep 2002; domain later reused by an unrelated site.",
+      "source": [
+        "https://web.archive.org/web/20020421052249id_/http://www.cynosure.com.au/isp/aitnet",
+        "http://web.archive.org/cdx/search/cdx?url=aitnet.net&output=json"
+      ]
     }
   ],
   "refs": [

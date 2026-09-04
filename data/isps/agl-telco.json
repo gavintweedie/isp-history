@@ -4,28 +4,61 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "agl.com.au",
-  "summary": "AGL Energy's telecom arm, acquired by Aussie Broadband to become third-largest NBN provider.",
+  "summary": "AGL Energy's retail telco arm (NBN broadband from Nov 2020 + AGL Mobile from Feb 2021; built on Southern Phone, acq. Dec 2019); sold to Aussie Broadband for $115M in shares (Feb 2026), making ABB Australia's third-largest NBN provider (AGL ENERGY LIMITED, ACN 115 061 375).",
   "names": [
     {
       "name": "AGL Telco",
-      "start_year": 2026,
-      "start_disp": "2026"
+      "start_year": 2020,
+      "start_disp": "2020",
+      "end_year": 2026,
+      "end_disp": "2026",
+      "source": [
+        "https://web.archive.org/web/20201128034702/https://www.agl.com.au/about-agl/media-centre/asx-and-media-releases/2020/november/agl-enters-telecoms-market-with-broadband-products",
+        "https://en.wikipedia.org/wiki/Aussie_Broadband"
+      ]
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2020,
-      "date_disp": "Nov 2020",
+      "date_disp": "13 Nov 2020",
       "precision": "exact",
-      "details": "AGL launched telecommunications services (AGL media release)."
+      "details": "AGL launched NBN broadband under the AGL brand 13 Nov 2020 (AGL Mobile followed Feb 2021), building on Southern Phone Company (regional telco, ~168,000 services; acquired 19 Dec 2019).",
+      "source": [
+        "https://web.archive.org/web/20201128034702/https://www.agl.com.au/about-agl/media-centre/asx-and-media-releases/2020/november/agl-enters-telecoms-market-with-broadband-products"
+      ]
     },
     {
       "kind": "death",
       "year": 2026,
-      "date_disp": "2026",
+      "date_disp": "Feb 2026",
       "precision": "exact",
-      "details": "Acquired by Aussie Broadband."
+      "details": "AGL agreed to sell its telecommunications business to Aussie Broadband for $115M in ABB shares (plus up to $10M on growth targets), Feb 2026, making Aussie the third-largest NBN provider.",
+      "source": [
+        "https://en.wikipedia.org/wiki/Aussie_Broadband",
+        "https://en.wikipedia.org/wiki/AGL_Energy"
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20201128034702/https://www.agl.com.au/about-agl/media-centre/asx-and-media-releases/2020/november/agl-enters-telecoms-market-with-broadband-products",
+      "label": "AGL media release (13 Nov 2020): 'AGL enters telecoms market with broadband products'",
+      "year": 2020
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=74115061375",
+      "label": "ABR: AGL ENERGY LIMITED, ACN 115 061 375",
+      "year": 2005
+    },
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aussie_Broadband",
+      "label": "Aussie Broadband to acquire AGL Telco for $115M in shares (Feb 2026); becomes third-largest NBN provider",
+      "year": 2026
     }
   ]
 }
