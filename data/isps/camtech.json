@@ -4,23 +4,35 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://camtech.com.au",
-  "summary": "University of Adelaide-owned IT/ISP company; sold its SA internet business to OzEmail March 1998.",
+  "summary": "University of Adelaide IT company (Campus Technologies, from 1983; hardware/computer shops); ISP arm from 1994 (AARNet VAR), SA internet business sold to OzEmail March 1998.",
   "names": [
     {
       "name": "Camtech (SA)",
-      "start_year": 1983,
-      "start_disp": "1983"
+      "start_year": 1994,
+      "start_disp": "1994"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1983,
-      "date_disp": "1983",
+      "year": 1994,
+      "date_disp": "1994",
       "precision": "exact",
-      "details": "Established as University of Adelaide company (reportedly Campus Technologies); AARNet VAR from 1994. 1983 founding predates the archive and is unverified; earliest Wayback capture 31 Oct 1996 (camtech.com.au).",
+      "details": "University of Adelaide company (est. 1983, name a contraction of Campus Technologies; campus computer shops + hardware). Internet work from ~1988 via the University ('10 years experience' per its 1998 profile); AARNet Value Added Reseller 1994 - start of ISP operation. Retail access business built over ~3 years to the Mar 1998 OzEmail sale; earliest Wayback capture 31 Oct 1996.",
       "source": [
         "https://web.archive.org/web/19961031055601id_/http://www.camtech.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.rogerclarke.com/II/OzIHist.html",
+          "label": "Roger Clarke's Brief History of the Internet in Australia: Camtech among the 1994 AARNet VARs"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000122191912/http://www.camtech.com.au/v3/corporate/coprofile_980507.html",
+          "label": "Camtech corporate profile (May 1998): est. 1983, '10 years experience in the Internet', access business 'built over three years'"
+        }
       ]
     },
     {
@@ -39,6 +51,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000122191912/http://www.camtech.com.au/v3/corporate/coprofile_980507.html",
       "label": "Camtech corporate profile (Wayback 2000)"
+    },
+    {
+      "kind": "news",
+      "url": "https://www.rogerclarke.com/II/OzIHist.html",
+      "label": "Roger Clarke's Brief History of the Internet in Australia: Camtech among the 1994 AARNet VARs"
     }
   ]
 }

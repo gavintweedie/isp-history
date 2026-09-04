@@ -434,7 +434,13 @@
       "notes": "Adelaide ISP; ihug owned iWeb, then iiNet acquired ihug.",
       "from": "iweb",
       "to": "ihug",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060402201207/http://iweb.net.au/",
+          "label": "iweb.net.au (Wayback Apr 2006): serving iiNet content, endpoint of the Oct 2003 ihug acquisition chain"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -831,7 +837,13 @@
       "notes": "BettaNet customer base moved to Adam Internet (~1 Aug 2008).",
       "from": "bettanet",
       "to": "adam-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080829092315/https://www.momentuminternet.com.au/",
+          "label": "BettaMomentum closure notice (Aug 2008): 'As of the 1st August 2008 BettaMomentum Internet is closed. All customers have been migrated to Adam Internet'"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -841,7 +853,13 @@
       "notes": "Momentum (Betta Momentum) absorbed by Adam Internet (1 Aug 2008).",
       "from": "momentum-internet",
       "to": "adam-internet",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080829092315/https://www.momentuminternet.com.au/",
+          "label": "BettaMomentum closure notice (Aug 2008): 'As of the 1st August 2008 BettaMomentum Internet is closed. All customers have been migrated to Adam Internet'"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3238,7 +3256,13 @@
       "notes": "Cirrus Communications acquired CommsLogic's assets (customer notice 15 Aug 2007).",
       "from": "commslogic",
       "to": "cirrus",
-      "refs": []
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://forums.whirlpool.net.au/archive/1027705",
+          "label": "Whirlpool (Aug 2008): CommsLogic customers confirm 'when Cirrus bought out CommsLogic' (forum testimony, no primary notice found)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3264,7 +3288,13 @@
       "notes": "Cirrus Communications acquired UniSky (24 Jul 2008).",
       "from": "unisky",
       "to": "cirrus",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080929184518/http://www.unisky.com.au/",
+          "label": "unisky.com.au (Wayback 29 Sep 2008): 'The Unisky brand and network is now part of Cirrus Communications' (Copyright Cirrus 2008)"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -4783,7 +4813,13 @@
       "notes": "Internet Tasmania (Intas) took over all TrumpNet customers.",
       "from": "trumpnet",
       "to": "intas",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070829200336/http://trump.net.au/",
+          "label": "trump.net.au (Wayback 29 Aug 2007): Intas 15 Aug 2007 notice on TrumpNet changeover; access invoiced by Internet Tasmania from 1 Aug"
+        }
+      ]
     },
     {
       "type": "acquisition",

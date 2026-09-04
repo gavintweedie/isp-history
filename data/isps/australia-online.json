@@ -33,9 +33,16 @@
       "year": 1998,
       "date_disp": "by Nov 1998",
       "precision": "by",
-      "details": "aol.com.au serving AOL Australia content by the 11 Nov 1998 capture; the independent's domain was taken over at AOL's Australian launch. The company's own fate beyond the domain loss is unverified (no ABR record for ACN 062 945 242).",
+      "details": "aol.com.au serving AOL Australia content by the 11 Nov 1998 capture; the independent's domain was taken over at AOL's Australian launch.",
       "source": [
         "https://web.archive.org/web/19981111185057/http://aol.com.au/"
+      ]
+    },
+    {
+      "kind": "note",
+      "details": "Australia Online Pty Ltd (ACN 062 945 242) was deregistered ~Jun 2000 (ASIC notice 18 Apr 2000, Commonwealth Gazette 28 Apr 2000) — the independent company wound up after losing its domain, distinct from AOL's ongoing service.",
+      "source": [
+        "https://trove.nla.gov.au/newspaper/article/238038943?searchTerm=%22062%20945%20242%22"
       ]
     }
   ],
