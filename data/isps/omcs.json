@@ -37,7 +37,7 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Nornet's site states the Modulux/Nornet group had OMCS under its umbrella 'since 2001'; omcs.com.au kept operating until the domain began redirecting to linearg.com.",
+      "details": "Nornet's site states the Modulux/Nornet group had OMCS under its umbrella 'since 2001'; omcs.com.au kept operating until the domain began redirecting to nor.com.au.",
       "refs": [
         {
           "kind": "archive",
@@ -51,12 +51,12 @@
       "year": 2009,
       "date_disp": "c. 2009",
       "precision": "approx",
-      "details": "Brand folded into Linear G; omcs.com.au redirecting to linearg.com by May 2009 (an earlier single 301 was archived 29 Aug 2008).",
+      "details": "Brand folded into the group; omcs.com.au redirecting to nor.com.au by May 2009 (an earlier single 301 was archived 29 Aug 2008; Nornet itself folded into linearg.com Dec 2014).",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20090522125918/http://www.omcs.com.au/",
-          "label": "omcs.com.au -> linearg.com redirect (Wayback 22 May 2009)"
+          "label": "omcs.com.au -> nor.com.au redirect (Wayback 22 May 2009)"
         }
       ]
     }

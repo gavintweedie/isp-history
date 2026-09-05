@@ -46,12 +46,12 @@
       "year": 2009,
       "date_disp": "Jan 2009",
       "precision": "approx",
-      "details": "NRG Internet brand folded into Linear G; nrg.com.au first archived redirecting to linearg.com 23 Jan 2009.",
+      "details": "NRG Internet brand folded into the group; nrg.com.au first archived redirecting to nor.com.au 23 Jan 2009 (Nornet itself folded into linearg.com Dec 2014).",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20090123192022/http://www.nrg.com.au/",
-          "label": "nrg.com.au -> linearg.com redirect (Wayback 23 Jan 2009)"
+          "label": "nrg.com.au -> nor.com.au redirect (Wayback 23 Jan 2009)"
         }
       ]
     }

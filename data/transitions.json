@@ -5454,7 +5454,7 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "c. 2001",
-      "notes": "Northern Rivers Gateway (NRG, later NRG Internet) joined the Nornet/Linear G group (Nornet's site says Modulux had NRG under its umbrella since 2001); the NRG Internet brand kept trading until nrg.com.au was folded into linearg.com (Jan 2009).",
+      "notes": "Northern Rivers Gateway (NRG, later NRG Internet) joined the Nornet/Linear G group (Nornet's site says Modulux had NRG under its umbrella since 2001); the NRG Internet brand kept trading until nrg.com.au redirected to nor.com.au (Jan 2009), reaching linearg.com with Nornet's Dec 2014 fold.",
       "from": "northern-rivers-gateway",
       "to": "linear-g",
       "refs": [
@@ -5466,7 +5466,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20090123192022/http://www.nrg.com.au/",
-          "label": "nrg.com.au -> linearg.com redirect (Wayback 23 Jan 2009)"
+          "label": "nrg.com.au -> nor.com.au redirect (Wayback 23 Jan 2009)"
         }
       ]
     },
@@ -5517,7 +5517,7 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "c. 2001",
-      "notes": "OMCS (Gold Coast) joined the Nornet/Linear G group (Nornet's site says Modulux had OMCS under its umbrella since 2001); kept trading until omcs.com.au was folded into linearg.com (c. 2009).",
+      "notes": "OMCS (Gold Coast) joined the Nornet/Linear G group (Nornet's site says Modulux had OMCS under its umbrella since 2001); kept trading until omcs.com.au redirected to nor.com.au (c. 2009), reaching linearg.com with Nornet's Dec 2014 fold.",
       "from": "omcs",
       "to": "linear-g",
       "refs": [
@@ -5529,7 +5529,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20090522125918/http://www.omcs.com.au/",
-          "label": "omcs.com.au -> linearg.com redirect (Wayback 22 May 2009)"
+          "label": "omcs.com.au -> nor.com.au redirect (Wayback 22 May 2009)"
         }
       ]
     },
