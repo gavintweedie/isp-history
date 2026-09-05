@@ -4,7 +4,7 @@
   "birthplace": "Lismore, NSW",
   "status": "inactive",
   "website": "http://www.nrg.com.au",
-  "summary": "Lismore/Northern Rivers NSW regional ISP (Northern Rivers Gateway, NRG; nrg.com.au live by 1997); later run as NRG Internet; absorbed (with Nornet, Big River Internet, OMCS) by Linear G.",
+  "summary": "Lismore/Northern Rivers NSW regional ISP (Northern Rivers Gateway, NRG; nrg.com.au live by 1997); ran later as NRG Internet; in the Nornet/Linear G group from ~2001, brand folded into LinearG Jan 2009.",
   "aliases": [
     "NRG",
     "NRG Internet",
@@ -14,7 +14,9 @@
     {
       "name": "Northern Rivers Gateway",
       "start_year": 1997,
-      "start_disp": "1997"
+      "start_disp": "1997",
+      "end_year": 2009,
+      "end_disp": "Jan 2009"
     }
   ],
   "events": [
@@ -26,11 +28,32 @@
       "details": "Northern Rivers regional ISP. Live by 1997."
     },
     {
-      "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
+      "kind": "note",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Absorbed by Linear G."
+      "details": "Nornet's site states the Modulux/Nornet group had NRG under its umbrella 'since 2001'; the NRG Internet brand and nrg.com.au kept operating until the domain began redirecting to linearg.com.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130725044902/http://www.nor.com.au/",
+          "label": "Nornet (Wayback 25 Jul 2013): 'Since 2001, Modulux pty ltd have under its umbrella ... Lismore's NRG (Northern Rivers Gateway)'"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2009,
+      "date_disp": "Jan 2009",
+      "precision": "approx",
+      "details": "NRG Internet brand folded into Linear G; nrg.com.au first archived redirecting to linearg.com 23 Jan 2009.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090123192022/http://www.nrg.com.au/",
+          "label": "nrg.com.au -> linearg.com redirect (Wayback 23 Jan 2009)"
+        }
+      ]
     }
   ],
   "refs": [

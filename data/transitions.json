@@ -5452,16 +5452,84 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2000,
-      "date_disp": "c. 2000",
-      "notes": "Linear G absorbed Northern Rivers Gateway (NRG), and also Nornet, Big River Internet and OMCS, to consolidate the Lismore/Northern Rivers market.",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "notes": "Northern Rivers Gateway (NRG, later NRG Internet) joined the Nornet/Linear G group (Nornet's site says Modulux had NRG under its umbrella since 2001); the NRG Internet brand kept trading until nrg.com.au was folded into linearg.com (Jan 2009).",
       "from": "northern-rivers-gateway",
       "to": "linear-g",
       "refs": [
         {
-          "kind": "news",
-          "url": "https://linearg.com/",
-          "label": "LinearG homepage \u2013 Since 2010 incorporated NRG Internet"
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130725044902/http://www.nor.com.au/",
+          "label": "Nornet (Wayback 25 Jul 2013): NRG under the Modulux umbrella since 2001"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090123192022/http://www.nrg.com.au/",
+          "label": "nrg.com.au -> linearg.com redirect (Wayback 23 Jan 2009)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 1999,
+      "date_disp": "1999",
+      "notes": "Nornet sold during 1999 by Norsearch Ltd (wholly owned by Southern Cross University) to a Lismore consortium that ran the Linear G group (later incorporated as Modulux Pty Ltd); Nornet kept its own brand until nor.com.au was folded into linearg.com (Dec 2014).",
+      "from": "nornet",
+      "to": "linear-g",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://files.parliament.nsw.gov.au/fileapi/ParlFiles/GetArtifact/SCU%201999annual_report%5B1%5D.pdf?serverRelativeUrl=%2Ftp%2Ffiles%2F31583%2FSCU%201999annual_report%5B1%5D.pdf",
+          "label": "SCU Annual Report 1999 (Norsearch Ltd): NORNET sold during 1999 to a local consortium"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20141218185638/http://www.nor.com.au/",
+          "label": "nor.com.au -> linearg.com redirect (Wayback 18 Dec 2014)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "notes": "Big River Internet (Grafton) joined the Nornet/Linear G group (Nornet's site says Modulux had BRI under its umbrella since 2001); kept trading under its own brand until bri.net.au was folded into linearg.com (Dec 2018).",
+      "from": "big-river-internet",
+      "to": "linear-g",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130725044902/http://www.nor.com.au/",
+          "label": "Nornet (Wayback 25 Jul 2013): BRI under the Modulux umbrella since 2001"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20181227220930/http://bri.net.au/",
+          "label": "bri.net.au -> linearg.com redirect (Wayback 27 Dec 2018)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "notes": "OMCS (Gold Coast) joined the Nornet/Linear G group (Nornet's site says Modulux had OMCS under its umbrella since 2001); kept trading until omcs.com.au was folded into linearg.com (c. 2009).",
+      "from": "omcs",
+      "to": "linear-g",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130725044902/http://www.nor.com.au/",
+          "label": "Nornet (Wayback 25 Jul 2013): OMCS under the Modulux umbrella since 2001"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090522125918/http://www.omcs.com.au/",
+          "label": "omcs.com.au -> linearg.com redirect (Wayback 22 May 2009)"
         }
       ]
     },
