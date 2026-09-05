@@ -1,0 +1,72 @@
+{
+  "name": "Big River Internet",
+  "slug": "big-river-internet",
+  "birthplace": "Grafton, NSW",
+  "status": "inactive",
+  "website": "https://bri.net.au",
+  "summary": "Grafton NSW regional ISP (bri.net.au live by Jan 1998; BRI); in the Nornet/Linear G group from ~2001; brand folded into LinearG Dec 2018.",
+  "aliases": [
+    "BRI",
+    "bri.net.au"
+  ],
+  "names": [
+    {
+      "name": "Big River Internet",
+      "start_year": 1998,
+      "start_disp": "by Jan 1998",
+      "end_year": 2018,
+      "end_disp": "Dec 2018"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "by Jan 1998",
+      "precision": "by",
+      "details": "Grafton NSW regional dialup/ISP; bri.net.au live by 11 Jan 1998 (earliest Wayback capture).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980111091009/http://bri.net.au/",
+          "label": "Big River Internet (Wayback 11 Jan 1998)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2001,
+      "date_disp": "c. 2001",
+      "precision": "approx",
+      "details": "Nornet's site states the Modulux/Nornet group had Big River Internet under its umbrella 'since 2001'; bri.net.au kept operating under the Big River Internet brand until Dec 2018.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130725044902/http://www.nor.com.au/",
+          "label": "Nornet (Wayback 25 Jul 2013): 'Since 2001, Modulux pty ltd have under its umbrella ... Grafton's BRI (Big River Internet)'"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2018,
+      "date_disp": "Dec 2018",
+      "precision": "exact",
+      "details": "Brand folded into Linear G; bri.net.au first archived redirecting to linearg.com 27 Dec 2018.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20181227220930/http://bri.net.au/",
+          "label": "bri.net.au -> linearg.com redirect (Wayback 27 Dec 2018)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://linearg.com/",
+      "label": "LinearG homepage: lists Big River Internet among the ISPs incorporated"
+    }
+  ]
+}

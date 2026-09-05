@@ -1,15 +1,17 @@
 {
-  "name": "NORNET",
+  "name": "Nornet",
   "slug": "nornet",
-  "birthplace": "Northern Rivers, NSW",
+  "birthplace": "Lismore, NSW",
   "status": "inactive",
   "website": "https://nor.com.au",
-  "summary": "Northern Rivers NSW regional dialup ISP + local directories (site live by Nov 1995); defunct.",
+  "summary": "Lismore/Northern Rivers NSW regional dialup + hosting + local directories ISP (nor.com.au live by Nov 1995); run by Norsearch Ltd, the company wholly owned by Southern Cross University, until sold 1999 to the Linear G group; brand folded into LinearG Dec 2014.",
   "names": [
     {
-      "name": "NORNET",
+      "name": "Nornet",
       "start_year": 1995,
-      "start_disp": "Nov 1995"
+      "start_disp": "Nov 1995",
+      "end_year": 2014,
+      "end_disp": "Dec 2014"
     }
   ],
   "events": [
@@ -18,14 +20,64 @@
       "year": 1995,
       "date_disp": "Nov 1995",
       "precision": "approx",
-      "details": "Regional dialup. Live by Nov 1995."
+      "details": "Regional dialup ISP + local directories (Clarence/Richmond/Tweed etc.); nor.com.au homepage counter 'Accessed ... times since 24-Nov-1995'. In the 1997 IP index as NORNET-AU (203.15.154.0/24), NORNET1-AU (203.29.213.0/24) and NORNET2-AU (203.35.123.0/24), registered to 'Norsearch (trading as NORNET)' c/- Southern Cross University, Lismore.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990208015218/http://www.nor.com.au/",
+          "label": "Nornet (Wayback 8 Feb 1999): homepage counter 'since 24-Nov-1995'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203_15.html",
+          "label": "IP Network Index 1997: NORNET-AU 203.15.154.0/24 'Norsearch (trading as NORNET) c/- Southern Cross University'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203_29.html",
+          "label": "IP Network Index 1997: NORNET1-AU 203.29.213.0/24 'Nornet - Norsearch, Lismore'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203_35.html",
+          "label": "IP Network Index 1997: NORNET2-AU 203.35.123.0/24 'Nornet, Lismore'"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "exact",
+      "details": "Owned by Norsearch Ltd, the company wholly owned by Southern Cross University; NORNET ran in Norsearch's Communications Division (with the printery and SCU Press). Sold by Norsearch during 1999 to a local consortium that ran the Linear G group (later incorporated as Modulux Pty Ltd), and continued operating under its own name.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://files.parliament.nsw.gov.au/fileapi/ParlFiles/GetArtifact/SCU%201999annual_report%5B1%5D.pdf?serverRelativeUrl=%2Ftp%2Ffiles%2F31583%2FSCU%201999annual_report%5B1%5D.pdf",
+          "label": "Southern Cross University Annual Report 1999 (Norsearch Ltd): 'NORNET Internet Service Provider was sold by the company during 1999 to a local consortium'"
+        }
+      ]
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2014,
+      "date_disp": "Dec 2014",
+      "precision": "exact",
+      "details": "Brand folded into Linear G; nor.com.au first archived redirecting to linearg.com 18 Dec 2014.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20141218185638/http://www.nor.com.au/",
+          "label": "nor.com.au -> linearg.com redirect (Wayback 18 Dec 2014)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://linearg.com/",
+      "label": "LinearG homepage - began Internet services Jan 2000; 'Since 2010 Linear G has incorporated ... Nornet, Big River Internet, OMCS, and NRG Internet'"
     }
   ]
 }
