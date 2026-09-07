@@ -1,0 +1,91 @@
+{
+  "name": "ispONE",
+  "slug": "ispone",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://ispone.com.au",
+  "summary": "Melbourne wholesale-only ISP (white-label vISP/ADSL/mobile via OneSolution/iBOSS platform, 150+ ISP customers); collapsed Aug 2013 (~$30M debts), assets to Conec2 (ispONE, ACN 103 220 766).",
+  "names": [
+    {
+      "name": "ispONE",
+      "start_year": 2002,
+      "start_disp": "Dec 2002"
+    }
+  ],
+  "aliases": [
+    "ispOne",
+    "Data Consulting Group",
+    "DCG"
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "Dec 2002",
+      "precision": "exact",
+      "details": "Founded by Zac Swindells and Chris Monching - met in a Melbourne bar, $2,000 each; registered Dec 2002, bought a struggling internet company for $16,000 and renamed it ispONE (as Data Consulting Group/Dinkum Internet); Sep 2004 DCG axed retail Dinkum to go wholesale-only.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smartcompany.com.au/finance/how-i-led-a-tough-negotiation-to-buy-my-business/",
+          "label": "SmartCompany (Aug 2012, Swindells interview): registered Dec 2002, wholesale-only model, bought debt-laden client business"
+        },
+        {
+          "kind": "news",
+          "url": "https://bambooinnovator.com/2013/08/20/inside-the-collapse-of-ispone-near-death-episodes-and-a-broken-partnership/",
+          "label": "BRW via Bamboo (Aug 2013): bar meeting, $2,000 each, $16,000 credit-card buy, renamed ispONE"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/dcg-becomes-ispone-to-focus-on-wholesale-19976",
+          "label": "ARN (Sep 2004): DCG axes retail Dinkum Internet, renames ispOne to focus on wholesale (~40 ISPs)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2011,
+      "date_disp": "Aug 2011",
+      "precision": "exact",
+      "details": "NBN Co certified service provider, claimed first dedicated to wholesale (one of six certified, alongside Telstra, iiNet, iPrimus, Internode, Exetel); 150+ wholesale ISP customers.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/networking/ispone-claims-to-be-first-wholesale-only-nbn-reseller.html",
+          "label": "CommsWire (Aug 2011): ispONE NBN Co certified, first wholesale-only"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2013,
+      "date_disp": "Aug 2013",
+      "precision": "exact",
+      "details": "Voluntary administration (Ferrier Hodgson; ~$30M debts, Telstra biggest creditor); Telstra cut wholesale supply, stranding Kogan (120k) and Aldi/Medion (130k) users. Assets (29 staff, 61k customers, DSL, iBOSS platform) acquired by Conec2 Sep 2013, excluding debt.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.abc.net.au/news/2013-08-20/isp-one-collapses-putting-50-jobs-at-risk/4898678",
+          "label": "ABC (Aug 2013): ispONE collapses, ~$30M debts, Kogan/Aldi users stranded"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/ispone-acquired-by-melbourne-telco-provider-356210",
+          "label": "iTnews (Sep 2013): Conec2 acquires ispONE assets (staff, customers, iBOSS), excluding debt"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=70103220766",
+      "label": "ABR: A.C.N. 103 220 766 PTY LTD (trading names DATA CONSULTING GROUP, IspOne; ABN cancelled May 2020)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20050106061432/http://www.ispone.com.au/",
+      "label": "ispOne (Wayback Jan 2005): 'Wholesale Internet Solutions - vISP, ADSL Broadband, Dial' (ACN 103 220 766)"
+    }
+  ]
+}
