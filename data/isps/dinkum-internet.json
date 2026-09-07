@@ -1,0 +1,53 @@
+{
+  "name": "Dinkum Internet",
+  "slug": "dinkum-internet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "",
+  "summary": "Melbourne residential dialup ISP (later DCG Retail); bought by Swindells/Monching 2002 as half of DCG, axed Sep 2004 when DCG renamed ispOne.",
+  "names": [
+    {
+      "name": "Dinkum Internet",
+      "start_year": 2002,
+      "start_disp": "by 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "Residential ISP; acquired 2002 by Swindells/Monching with Prime Internet to form Data Consulting Group (as DCG Retail). Small base: management, friends/family and one dealer partner (AKA, ~100 dealers).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/wholesale-isps-must-add-value-argues-new-player-14272",
+          "label": "iTnews (Feb 2004): DCG formed by acquiring Dinkum Internet (DCG Retail) and Prime Internet (DCG Business) in 2002"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Sep 2004",
+      "precision": "exact",
+      "details": "Retail operation axed (dormant ~1 year); DCG renamed itself ispOne to focus on wholesale (~40 ISPs).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/dcg-becomes-ispone-to-focus-on-wholesale-19976",
+          "label": "ARN (Sep 2004): DCG axes retail Dinkum Internet, renames ispOne"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "details": "Possible pre-2002 owner: a LANcare staffer profile lists 'Dinkum Internet (ISP for residential areas)' among LANcare subsidiaries - unverified, needs corroboration.",
+      "source": [
+        "https://www.linkedin.com/in/craig-piefke-05912b9"
+      ]
+    }
+  ],
+  "refs": []
+}

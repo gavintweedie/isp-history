@@ -1,0 +1,76 @@
+{
+  "name": "Conec2",
+  "slug": "conec2",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "https://conec2.com.au",
+  "summary": "Melbourne telecom/IT group (CEO Cameron Adams; core business from 2008); bought ispONE assets Sep 2013 (via AsiaPAC), collapsed May 2014 after iBoss/One Telecom went to Vocus (CONEC2 Pty Ltd, ACN 131 677 588).",
+  "names": [
+    {
+      "name": "Conec2",
+      "start_year": 2008,
+      "start_disp": "2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "2008",
+      "precision": "exact",
+      "details": "Melbourne telecom/IT group under CEO Cameron Adams; core telecommunications business launched 2008.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/ispone-acquired-by-melbourne-telco-provider-356210",
+          "label": "iTnews (Sep 2013): Conec2 core business launched 2008, strong growth since"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2013,
+      "date_disp": "9 Sep 2013",
+      "precision": "exact",
+      "details": "Acquired ispONE assets from Ferrier Hodgson (29 staff, 61,000 customers, DSL, iBOSS platform; price confidential, debt excluded) via subsidiary AsiaPAC Communications; took over Aldi Mobile (Medion) services; brands ONEseniors, One Mobile, One Telecom. Kogan Mobile not included.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/ispone-acquired-by-melbourne-telco-provider-356210",
+          "label": "iTnews (Sep 2013): Conec2 acquires ispONE assets via AsiaPAC, ex-debt"
+        },
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/deals/conec2-picks-up-what%E2%80%99s-left-of-ispone.html",
+          "label": "CommsWire (Sep 2013): Aldi Mobile continues under Conec2; Kogan excluded"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "May 2014",
+      "precision": "exact",
+      "details": "iBoss + One Telecom (50,000 customers) sold to Vocus after a Swindells/Adams court deadlock forced administration; Conec2 left with $4-6M AAPT/Telstra debts and entered administration, keeping ~2,500 small-business customers.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/conec2-forced-into-administration-after-iboss-goes-under-384994",
+          "label": "iTnews (May 2014): iBoss/One Telecom to Vocus; Conec2 into administration"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?abn=23131677588",
+      "label": "ABR: CONEC2 Pty Ltd ACN 131 677 588 (ABN cancelled)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20140114222952/http://www.conec2.com.au/",
+      "label": "Conec2 (Wayback Jan 2014)"
+    }
+  ]
+}

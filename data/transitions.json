@@ -6453,6 +6453,38 @@
           "label": "archive.is/wxISS \u2014 mirror of AFR 1999-10-04 k922k"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "100%",
+      "year": 2013,
+      "date_disp": "9 Sep 2013",
+      "notes": "Conec2 Group acquired ispONE assets from Ferrier Hodgson (29 staff, 61,000 customers, DSL, iBOSS platform; debt excluded) via AsiaPAC Communications; Aldi Mobile continued, Kogan excluded.",
+      "from": "ispone",
+      "to": "conec2",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/ispone-acquired-by-melbourne-telco-provider-356210",
+          "label": "iTnews (Sep 2013): Conec2 acquires ispONE assets via AsiaPAC, ex-debt"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "arm_label": "iBoss/One Telecom arms",
+      "year": 2014,
+      "date_disp": "May 2014",
+      "notes": "iBoss + One Telecom (50,000 customers, ex-ispONE retail) sold to Vocus after Swindells/Adams court deadlock; Conec2 entered administration on the remaining debts.",
+      "from": "conec2",
+      "to": "vocus",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/conec2-forced-into-administration-after-iboss-goes-under-384994",
+          "label": "iTnews (May 2014): iBoss/One Telecom to Vocus; Conec2 into administration"
+        }
+      ]
     }
   ]
 }
