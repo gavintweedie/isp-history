@@ -3598,7 +3598,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "by 2004",
-      "notes": "Connect Direct Internet (Rye, VIC) absorbed into Chariot netconnect; cdi.com.au read 'now part of Chariot' (©2004 Chariot Netconnect).",
+      "notes": "Connect Direct Internet (Rye, VIC) absorbed into Chariot netconnect; cdi.com.au read 'now part of Chariot' (\u00a92004 Chariot Netconnect).",
       "from": "connect-direct",
       "to": "chariot",
       "refs": [
@@ -6483,6 +6483,86 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/conec2-forced-into-administration-after-iboss-goes-under-384994",
           "label": "iTnews (May 2014): iBoss/One Telecom to Vocus; Conec2 into administration"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "impaq",
+      "to": "eftel",
+      "year": 2003,
+      "date_disp": "late 2003",
+      "notes": "Datafast Telecommunications acquired Impaq in late 2003 (alongside KeyPoint and EZ Web); Datafast renamed EFTel Ltd Dec 2005.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eftel",
+          "label": "Wikipedia: Eftel \u2014 Datafast acquisitions (KeyPoint, EZ Web, Impaq, late 2003)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.owiki.org/wiki/Eftel",
+          "label": "oWiki: Eftel acquisition history"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "ozzienet",
+      "to": "eftel",
+      "year": 2004,
+      "date_disp": "Jun 2004",
+      "notes": "Datafast Telecommunications acquired Bunbury ISP OzzieNet (ozzienet) in Jun 2004; Datafast renamed EFTel Ltd Dec 2005.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eftel",
+          "label": "Wikipedia: Eftel \u2014 Jun 2004 OzzieNet acquisition"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.owiki.org/wiki/Eftel",
+          "label": "oWiki: Eftel acquisition history"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "clever-communications",
+      "to": "m2-group",
+      "year": 2010,
+      "date_disp": "1 May 2010",
+      "notes": "M2 Telecommunications acquired Clever Communications' SMB assets (off-net fixed/mobile/data/VPN contracts + dealers, ~$8m revenue) via People Telecom subsidiary; announced 15 Apr 2010, completed 1 May 2010, $5m (upfront+deferred). Remainder of Clever went to BigAir Jan 2011.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smartcompany.com.au/finance/20100415-m2-continues-run-of-acquisitions-buys-clever-communications-for-5-million/",
+          "label": "SmartCompany 15-Apr-2010: M2 buys Clever Communications SMB assets for $5m"
+        },
+        {
+          "kind": "official",
+          "url": "https://announcements.asx.com.au/asxpdf/20100927/pdf/31sr5hknh8q190.pdf",
+          "label": "ASX Sep-2010: M2 accounts (Clever/Bell table)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "commander",
+      "to": "m2-group",
+      "year": 2009,
+      "date_disp": "Jun 2009",
+      "notes": "M2 Telecommunications acquired Commander Communications' SME/telco business under Asset Sale Deed 2 Jun 2009 (completed 15-16 Jun 2009): all SME contracts + OneStream data network + Commander/OneStream/Australia Star/Call Australia/Newtel brands + Unitel wholesale (bought Feb 2008); $19m ex-inventory.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://announcements.asx.com.au/asxpdf/20090616/pdf/31j2nvdnygtd5g.pdf",
+          "label": "ASX 16-Jun-2009: M2 Commander Asset Sale Deed completion"
+        },
+        {
+          "kind": "official",
+          "url": "https://announcements.asx.com.au/asxpdf/20090602/pdf/31hwdcy1nk9m18.pdf",
+          "label": "ASX 2-Jun-2009: M2 Commander acquisition announcement"
         }
       ]
     }

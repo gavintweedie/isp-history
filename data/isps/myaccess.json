@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://myaccess.com.au",
-  "summary": "Melbourne dialup/ADSL ISP; customers/services moved to EFTel ~2009.",
+  "summary": "Melbourne dialup/ADSL ISP; acquired by Datafast Telecommunications/Eftel in 2005.",
   "names": [
     {
       "name": "Myaccess",
@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2009",
+      "year": 2005,
+      "date_disp": "2005",
       "precision": "approx",
-      "details": "Moved to EFTel."
+      "details": "Acquired by Datafast Telecommunications/Eftel in 2005 (listed among Eftel's 2005 ISP acquisitions).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/strategy/datafast-to-become-eftel.html",
+          "label": "CommsWire Dec-2005: 'ViaNetAIP and MyAccess in 2005'"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.theage.com.au/business/eftel-buys-aanet-doubles-its-money-but-not-its-profit-20060715-ge2pyr.html",
+          "label": "The Age Jul-2006: MyAccess among ISPs Eftel acquired in prior two years"
+        }
+      ]
     }
   ],
   "refs": [

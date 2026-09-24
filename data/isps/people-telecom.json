@@ -33,6 +33,25 @@
           "label": "deListed Australia: People Telecom Limited (ASX:PEO) \u2014 delisted 1 May 2009 (M2 scheme of arrangement)"
         }
       ]
+    },
+    {
+      "kind": "note",
+      "year": 2007,
+      "date_disp": "Apr 2007",
+      "precision": "exact",
+      "details": "Perth/WA carve-out: People Telecom sold its WA fibre + DSL broadband customer base and ~600 sqm Perth datacentre to Amcom for A$6.25m (announced Mar 2007, completed Apr 2007) \u2014 separate from and before the 2008 whole-business sale to M2.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.zdnet.com/home-and-office/networking/amcom-nabs-people-telecoms-perth-fibre/",
+          "label": "ZDNet 6-Mar-2007: Amcom purchases People Telecom Perth fibre business (A$6.25m, 600 sqm DC)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.zdnet.com/home-and-office/networking/people-telecom-in-amcom-deal/",
+          "label": "ZDNet 5-Mar-2007: trading-halt precursor"
+        }
+      ]
     }
   ],
   "refs": [

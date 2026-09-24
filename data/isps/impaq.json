@@ -4,7 +4,7 @@
   "birthplace": "Box Hill (Melbourne), VIC",
   "status": "inactive",
   "website": "https://impaq.net.au",
-  "summary": "Melbourne dialup/ISDN/satellite/wireless ISP, education VPN provider; defunct ~2006-07.",
+  "summary": "Melbourne dialup/ISDN/satellite/wireless ISP, education VPN provider; acquired by Datafast Telecommunications in late 2003 (renamed Eftel 2005).",
   "names": [
     {
       "name": "Impaq",
@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2006-07",
+      "year": 2003,
+      "date_disp": "late 2003",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Acquired by Datafast Telecommunications in late 2003 (alongside KeyPoint and EZ Web); Datafast renamed Eftel 2005.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eftel",
+          "label": "Wikipedia: Eftel \u2014 Datafast acquisitions (KeyPoint, EZ Web, Impaq, late 2003)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.owiki.org/wiki/Eftel",
+          "label": "oWiki: Eftel acquisition history"
+        }
+      ]
     }
   ],
   "refs": [

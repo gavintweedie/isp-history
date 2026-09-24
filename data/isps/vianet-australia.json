@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://vianet.net.au",
-  "summary": "One of WA's leading ISPs, founded 1995; acquired by Eftel in 2005.",
+  "summary": "One of WA's leading ISPs, founded 1995 (VianetAIP = Vianet+AIP Media merger); sold by Comdek to Datafast Telecommunications effective 1 Jul 2005 (renamed Eftel Dec 2005).",
   "names": [
     {
       "name": "Vianet Australia",
@@ -25,7 +25,19 @@
       "year": 2005,
       "date_disp": "2005",
       "precision": "exact",
-      "details": "Acquired by Eftel; vianet.net.au redirected to w3.eftel.com."
+      "details": "Sold by Comdek to Datafast Telecommunications, effective 1 Jul 2005 (VianetAIP = Vianet+AIP Media post-merger trading name); vianet.net.au redirected to w3.eftel.com.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/comdek-sells-corporate-isp-arm-to-datafast-23599",
+          "label": "iTnews 5-Jul-2005: Comdek sells VianetAIP to Datafast, effective 1 July"
+        },
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/strategy/datafast-to-become-eftel.html",
+          "label": "CommsWire Dec-2005: ViaNetAIP among 2005 Datafast acquisitions"
+        }
+      ]
     }
   ],
   "refs": [
@@ -34,5 +46,8 @@
       "url": "https://web.archive.org/web/19961219062242/http://vianet.net.au/",
       "label": "Vianet (Wayback 1996)"
     }
+  ],
+  "aliases": [
+    "VianetAIP"
   ]
 }

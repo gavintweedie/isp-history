@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://ozzienet.com.au",
-  "summary": "Wholesale + retail internet access provider ('become your own ISP', ~2001); defunct.",
+  "summary": "Wholesale + retail internet access provider ('become your own ISP', ~2001, trading as OzzieNet, Bunbury); acquired by Datafast Telecommunications in Jun 2004 (renamed Eftel 2005).",
   "names": [
     {
       "name": "Ozzienet",
@@ -23,9 +23,24 @@
     {
       "kind": "death",
       "year": 2004,
-      "date_disp": "c. 2004",
+      "date_disp": "Jun 2004",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Acquired by Datafast Telecommunications in Jun 2004 (Bunbury 'OzzieNet' ISP); Datafast renamed Eftel Dec 2005.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eftel",
+          "label": "Wikipedia: Eftel \u2014 Datafast acquisitions (incl. Jun 2004 OzzieNet)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.owiki.org/wiki/Eftel",
+          "label": "oWiki: Eftel acquisition history"
+        }
+      ]
     }
+  ],
+  "aliases": [
+    "OzzieNet"
   ]
 }
