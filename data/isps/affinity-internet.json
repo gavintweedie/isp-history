@@ -1,0 +1,47 @@
+{
+  "name": "Affinity Internet",
+  "slug": "affinity-internet",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "summary": "Melbourne ISP group (Affinity ISP Group: Bigfoot and Affinity Internet brands, 12,000 accounts); acquired by Datafast Telecommunications in Oct/Nov 2004 (renamed Eftel Dec 2005).",
+  "names": [
+    {
+      "name": "Affinity Internet",
+      "start_year": 2004,
+      "start_disp": "by 2004",
+      "end_year": 2004,
+      "end_disp": "Nov 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "approx",
+      "details": "Melbourne-based Affinity ISP Group operating Bigfoot and Affinity Internet brands (12,000 active accounts at sale); founding year unknown."
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Nov 2004",
+      "precision": "exact",
+      "details": "Acquired by Datafast Telecommunications (announced 9 Nov 2004); took Datafast network to ~120,000 accounts.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/development/datafast-buys-12000-melbourne-customers.html",
+          "label": "CommsWire 9-Nov-2004: Datafast buys 12,000 Melbourne customers"
+        },
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/strategy/datafast-to-become-eftel.html",
+          "label": "CommsWire Dec-2005: Datafast-EFTel recap incl. Affinity 2004"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "Affinity ISP Group"
+  ]
+}

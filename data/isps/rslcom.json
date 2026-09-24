@@ -1,0 +1,51 @@
+{
+  "name": "RSLCOM Australia",
+  "slug": "rslcom",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "summary": "Australian arm of RSL Communications (RSL COM Australia Pty Ltd, from Oct 1996); fixed-line SME telco; acquired by Commander Communications in Mar 2003 ($59.9m). Distinct from RSL COM New Zealand.",
+  "names": [
+    {
+      "name": "RSLCOM Australia",
+      "start_year": 1996,
+      "start_disp": "Oct 1996",
+      "end_year": 2003,
+      "end_disp": "Mar 2003"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "Oct 1996",
+      "precision": "exact",
+      "details": "Australian startup of RSL Communications Ltd: RSL Asia established RSL COM Australia Pty Limited in Oct 1996 (SEC filing). Servicing from Apr 1997; planned $400m ASX float (~2000) aborted after global parent bankruptcy 2001.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.sec.gov/Archives/edgar/data/1036297/0001005477-98-000963/0001005477-98-000963.txt",
+          "label": "SEC S-1: RSL Asia established RSL COM Australia, Oct 1996"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2003,
+      "date_disp": "Mar 2003",
+      "precision": "exact",
+      "details": "Acquired by Commander Communications, announced 25 Mar 2003, $59.9m cash (some reports $72m incl. liabilities/earn-outs).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/commander-takes-over-at-rsl-20030325-k2755",
+          "label": "AFR 25-Mar-2003: Commander takes over RSL ($59.9m)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.budde.com.au/Research/RSL-COM-Australia",
+          "label": "Budde: RSL-COM Australia, Commander subsidiary 2003"
+        }
+      ]
+    }
+  ]
+}

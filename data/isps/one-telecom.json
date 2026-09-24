@@ -1,0 +1,48 @@
+{
+  "name": "One Telecom",
+  "slug": "one-telecom",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "summary": "Wholesale telco (One Telecom Pty Ltd, incl. ONEseniors/One Mobile; AsiaPAC group, ex-ispONE). Distinct from One.Tel (collapsed 2001). Acquired with AsiaPAC and iBOSS by Vocus Communications in May 2014, joint deal.",
+  "names": [
+    {
+      "name": "One Telecom",
+      "start_year": 2008,
+      "start_disp": "by 2008",
+      "end_year": 2014,
+      "end_disp": "May 2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "by 2008",
+      "precision": "approx",
+      "details": "Wholesale telecommunications provider incl. ONEseniors/One Mobile brands (AsiaPAC group); founding year unknown. Not One.Tel."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "May 2014",
+      "precision": "exact",
+      "details": "Acquired with AsiaPAC Communications and iBOSS International by Vocus Communications 6-7 May 2014 (joint deal, see AsiaPAC).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.zdnet.com/home-and-office/networking/vocus-buys-iboss-and-one-telecom-business/",
+          "label": "ZDNet May-2014: joint deal"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/companies/telecommunications/vocus-picks-up-stranded-ispone-customers-20140507-itzlb",
+          "label": "AFR 7-May-2014: stranded ispONE customers"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "ONEseniors",
+    "One Mobile"
+  ]
+}

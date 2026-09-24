@@ -1,0 +1,44 @@
+{
+  "name": "Southern Cross Telco",
+  "slug": "southern-cross-telco",
+  "birthplace": "Hobart, TAS",
+  "status": "inactive",
+  "summary": "Hobart-founded retail telco (Southern Cross Telco Holdings Ltd, 1994; phone/mobile/broadband, ~A$44.4m revenue); Orion subsidiary (via NewTel from 2004); came to M2 automatically with Orion in Oct 2007. Not the Southern Cross Cable.",
+  "names": [
+    {
+      "name": "Southern Cross Telco",
+      "start_year": 1994,
+      "start_disp": "1994",
+      "end_year": 2007,
+      "end_disp": "Oct 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1994,
+      "date_disp": "1994",
+      "precision": "approx",
+      "details": "Southern Cross Telco Holdings Ltd founded Hobart 1994 (phone/mobile/broadband retail + SME)."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "Oct 2007",
+      "precision": "exact",
+      "details": "Came to M2 Group automatically via the Orion scheme (Orion's largest subsidiary since 2004) \u2014 not a separate acquisition; Vocus-style lists double-count it.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Southern_Cross_Telco",
+          "label": "Wikipedia: Southern Cross Telco, founded 1994, Orion subsidiary, M2 Oct 2007"
+        },
+        {
+          "kind": "official",
+          "url": "https://takeovers.gov.au/reasons-decisions/2006-atp-23",
+          "label": "Takeovers Panel 2006-ATP-23: Orion's largest subsidiary was Southern Cross Telco"
+        }
+      ]
+    }
+  ]
+}

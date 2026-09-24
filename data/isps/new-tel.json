@@ -1,0 +1,49 @@
+{
+  "name": "New Tel",
+  "slug": "new-tel",
+  "birthplace": "Perth, WA",
+  "status": "inactive",
+  "summary": "Perth-listed carrier (New Tel Ltd, ASX+Nasdaq) focused on international/national voice+data; bought DigiPlus Mar 2002 ($50m); administration Dec 2002; customer base to RSL COM late 2002.",
+  "names": [
+    {
+      "name": "New Tel",
+      "start_year": 1998,
+      "start_disp": "c. 1998",
+      "end_year": 2002,
+      "end_disp": "Dec 2002"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1998,
+      "date_disp": "c. 1998",
+      "precision": "approx",
+      "details": "Perth-based listed telecommunications carrier (international/national voice+data, Asia/China focus); ASX- and Nasdaq-listed."
+    },
+    {
+      "kind": "death",
+      "year": 2002,
+      "date_disp": "Dec 2002",
+      "precision": "exact",
+      "details": "Administration 10 Dec 2002 (PWC); liquidation Feb-Mar 2003 ($40-50m liabilities); customer base to RSL COM late 2002.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.austlii.edu.au/au/cases/nsw/NSWSC/2003/128.html",
+          "label": "AustLII NSWSC 2003/128 (Carter v New Tel)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/national/new-tel-assets-sale-in-january-20021221-gdg00f.html",
+          "label": "SMH Dec-2002: New Tel assets sale"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/new-tels-buys-digiplus-for-50-million-20020315-gdf56o.html",
+          "label": "SMH Mar-2002: New Tel buys DigiPlus for $50m"
+        }
+      ]
+    }
+  ]
+}

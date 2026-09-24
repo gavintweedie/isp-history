@@ -1,0 +1,49 @@
+{
+  "name": "Orion Telecommunications",
+  "slug": "orion-telecommunications",
+  "birthplace": "Hobart, TAS",
+  "status": "inactive",
+  "summary": "ASX-listed telco (Orion Telecommunications Ltd, listed 5 Oct 2004; Hobart/Melbourne fixed/mobile/data); merged into M2 Group via scheme Sep/Oct 2007.",
+  "names": [
+    {
+      "name": "Orion Telecommunications",
+      "start_year": 2004,
+      "start_disp": "Oct 2004",
+      "end_year": 2007,
+      "end_disp": "Oct 2007"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "Oct 2004",
+      "precision": "exact",
+      "details": "Orion Telecommunications Ltd listed on ASX 5 Oct 2004 (fixed/mobile/data, Hobart/Melbourne, plus Irish/UK arm via NewTel)."
+    },
+    {
+      "kind": "death",
+      "year": 2007,
+      "date_disp": "Oct 2007",
+      "precision": "exact",
+      "details": "Merged into M2 Group via scheme of arrangement (approved Sep 2007, completed Oct 2007; ~28c/share: 0.238 M2 shares + ~8.78c cash).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/orion-telecommunications-limited/",
+          "label": "deListed: Orion Telecommunications Ltd scheme summary"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/business/institutions-back-m2-takeover-of-orion-20070919-gdr57u.html",
+          "label": "SMH 19-Sep-2007: institutions back M2 takeover of Orion"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.austlii.edu.au/au/cases/cth/FCA/2007/1389.html",
+          "label": "AustLII FCA 2007/1389: Orion scheme approval"
+        }
+      ]
+    }
+  ]
+}

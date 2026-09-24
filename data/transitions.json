@@ -6565,6 +6565,216 @@
           "label": "ASX 2-Jun-2009: M2 Commander acquisition announcement"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "from": "rslcom",
+      "to": "commander",
+      "year": 2003,
+      "date_disp": "Mar 2003",
+      "notes": "Commander Communications acquired RSL COM Australia, announced 25 Mar 2003 ($59.9m cash).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.afr.com/politics/commander-takes-over-at-rsl-20030325-k2755",
+          "label": "AFR 25-Mar-2003: Commander takes over RSL ($59.9m)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "eclipse-telecommunications",
+      "to": "primus-telecom-australia",
+      "year": 1998,
+      "date_disp": "Apr 1998",
+      "notes": "Primus Telecommunications Group acquired Eclipse Telecommunications (announced 6 Apr 1998, ~$2.5m); became Primus data division.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/primus-finalises-its-total-eclipse-takeover-19980406-k825l",
+          "label": "AFR 6-Apr-1998: Primus finalises Eclipse takeover"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "new-tel",
+      "to": "rslcom",
+      "year": 2002,
+      "date_disp": "late 2002",
+      "notes": "New Tel customer base to RSL COM late 2002 (administration 10 Dec 2002, PWC; liquidation Feb-Mar 2003).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.austlii.edu.au/au/cases/nsw/NSWSC/2003/128.html",
+          "label": "AustLII NSWSC 2003/128 (Carter v New Tel)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "jtec-panaseer",
+      "to": "commander",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "notes": "Commander Communications acquired the Panaseer business (Jtec Pty Limited) from listed Panaseer Ltd (conditionally exchanged Jan 2004, completed ~16 Feb 2004).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://prwire.com.au/pr/9202/panaseer-expands-business-offering-with-commander-communications",
+          "label": "PRWire: Panaseer/Commander structure and dates"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "affinity-internet",
+      "to": "eftel",
+      "year": 2004,
+      "date_disp": "Nov 2004",
+      "notes": "Datafast Telecommunications acquired Affinity Internet (9 Nov 2004, 12,000 Melbourne accounts); Datafast renamed EFTel Ltd Dec 2005.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/development/datafast-buys-12000-melbourne-customers.html",
+          "label": "CommsWire 9-Nov-2004: Datafast buys 12,000 Melbourne customers"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "tenex",
+      "to": "m2-group",
+      "year": 2007,
+      "date_disp": "Jun 2007",
+      "notes": "M2 Telecommunications acquired all customers and business assets of Tenex Communications in Jun 2007.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abnnewswire.net/press/en/42724/M2-Telecommunications-Group-Limited-ASX-MTU-FY2007-AGM-Briefing-Mr-Vaughan-Bowen-MD.html",
+          "label": "M2 FY2007 AGM brief: Tenex acquisition Jun 2007"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "orion-telecommunications",
+      "to": "m2-group",
+      "year": 2007,
+      "date_disp": "Oct 2007",
+      "notes": "M2 Group merged with Orion Telecommunications via scheme (approved Sep 2007, completed Oct 2007).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/orion-telecommunications-limited/",
+          "label": "deListed: Orion Telecommunications Ltd scheme summary"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "southern-cross-telco",
+      "to": "m2-group",
+      "year": 2007,
+      "date_disp": "Oct 2007",
+      "notes": "Southern Cross Telco came to M2 automatically via the Orion scheme (Orion's largest subsidiary since 2004), not a separate acquisition.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Southern_Cross_Telco",
+          "label": "Wikipedia: Southern Cross Telco, M2 Oct 2007 via Orion"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "wholesale-communications-group",
+      "to": "m2-group",
+      "year": 2007,
+      "date_disp": "May 2007",
+      "notes": "M2 Telecommunications completed purchase of Wholesale Communications Group in May 2007.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abnnewswire.net/press/en/42724/M2-Telecommunications-Group-Limited-ASX-MTU-FY2007-AGM-Briefing-Mr-Vaughan-Bowen-MD.html",
+          "label": "M2 FY2007 AGM brief: WCG acquisition May 2007"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "unitel",
+      "to": "m2-group",
+      "year": 2008,
+      "date_disp": "Feb 2008",
+      "notes": "M2 Telecommunications acquired Unitel Australia (announced 4 Feb 2008, completed 22 Feb 2008; $10m + up to $2.5m earnout).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abnnewswire.net/press/en/48546/M2-Telecommunications-(ASX-MTU)-Confirms-Completion-of-Share-Sale-Agreement-For-Acquisition-of-Unitel-Australia.html",
+          "label": "ABN Newswire 22-Feb-2008: completion confirmed"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "asiapac-communications",
+      "to": "vocus",
+      "year": 2014,
+      "date_disp": "May 2014",
+      "notes": "Vocus Communications bought the businesses+customers 6-7 May 2014 (~$147k, ~50k customers), joint deal with iBOSS and One Telecom.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/vocus-buys-iboss-one-telecom-customers-384747",
+          "label": "iTnews: Vocus buys iBOSS/One Telecom customers"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "iboss-international",
+      "to": "vocus",
+      "year": 2014,
+      "date_disp": "May 2014",
+      "notes": "Joint acquisition with AsiaPAC Communications and One Telecom by Vocus, 6-7 May 2014 (see AsiaPAC).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.zdnet.com/home-and-office/networking/vocus-buys-iboss-and-one-telecom-business/",
+          "label": "ZDNet May-2014: joint deal"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "one-telecom",
+      "to": "vocus",
+      "year": 2014,
+      "date_disp": "May 2014",
+      "notes": "Joint acquisition with AsiaPAC Communications and iBOSS International by Vocus, 6-7 May 2014 (see AsiaPAC). Not One.Tel.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/companies/telecommunications/vocus-picks-up-stranded-ispone-customers-20140507-itzlb",
+          "label": "AFR 7-May-2014: stranded ispONE customers"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "protel-communications",
+      "to": "m2-group",
+      "year": 2005,
+      "date_disp": "Feb 2005",
+      "notes": "M2 Telecommunications acquired Protel Communications International in Feb 2005 (M2's first major acquisition).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/protel-to-boost-growth-at-m2-telecoms-20050209-jle8s",
+          "label": "AFR 9-Feb-2005: M2 acquisition of Protel"
+        }
+      ]
     }
   ]
 }

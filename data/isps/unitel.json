@@ -1,0 +1,52 @@
+{
+  "name": "Unitel Australia",
+  "slug": "unitel",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "summary": "Wholesale network services arm of Commander Communications (Unitel Australia Pty Ltd, ex-RSL Com Partners, wholesaling since 1999; fixed/mobile/data to RSPs); acquired by M2 Telecommunications in Feb 2008 ($10m + up to $2.5m earnout).",
+  "names": [
+    {
+      "name": "Unitel Australia",
+      "start_year": 1999,
+      "start_disp": "1999",
+      "end_year": 2008,
+      "end_disp": "Feb 2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1999,
+      "date_disp": "1999",
+      "precision": "approx",
+      "details": "Wholesale network services business (ex-RSL Com Partners), later Commander Communications wholesale arm (fixed/LAR, mobile, data to RSPs nationally)."
+    },
+    {
+      "kind": "death",
+      "year": 2008,
+      "date_disp": "Feb 2008",
+      "precision": "exact",
+      "details": "M2 Telecommunications acquired Unitel Australia: binding sale announced 4 Feb 2008, completed 22 Feb 2008 (A$10m base + up to A$2.5m earnout over 36 months).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.abnnewswire.net/press/en/47713/M2-Telecommunications-(ASX-MTU)-To-Acquire-Commanders-Wholesale-Network-Services-Business-Unitel-Australia.html",
+          "label": "ABN Newswire 4-Feb-2008: M2 to acquire Unitel ($10m terms)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.abnnewswire.net/press/en/48546/M2-Telecommunications-(ASX-MTU)-Confirms-Completion-of-Share-Sale-Agreement-For-Acquisition-of-Unitel-Australia.html",
+          "label": "ABN Newswire 22-Feb-2008: completion confirmed"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/commander-lets-go-of-unitel-for-10m-102560",
+          "label": "iTnews: Commander lets go of Unitel for $10m"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "Unitel Australia Pty Ltd"
+  ]
+}

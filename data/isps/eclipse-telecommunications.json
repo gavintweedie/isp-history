@@ -1,0 +1,44 @@
+{
+  "name": "Eclipse Telecommunications",
+  "slug": "eclipse-telecommunications",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "summary": "Sydney data communications / frame-relay provider (from 1996, ~100 business customers); acquired by Primus Telecommunications Group in Apr 1998 (~$2.5m).",
+  "names": [
+    {
+      "name": "Eclipse Telecommunications",
+      "start_year": 1996,
+      "start_disp": "1996",
+      "end_year": 1998,
+      "end_disp": "Apr 1998"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "approx",
+      "details": "Sydney-based data communications provider operating from early 1996 (~100 business customers, $4m annualised revenue, switches/PoPs in 5 capitals)."
+    },
+    {
+      "kind": "death",
+      "year": 1998,
+      "date_disp": "Apr 1998",
+      "precision": "exact",
+      "details": "Acquired by Primus Telecommunications Group Inc, announced 6 Apr 1998 (~$2.5m cash + 27,500 Primus shares); became Primus data division.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://web.archive.org/web/20121021031654/http:/www.thefreelibrary.com/PRIMUS+Acquires+Data+Communications+Service+Provider-a020469637",
+          "label": "PR Newswire 6-Apr-1998 (archive): Primus acquires Eclipse"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/primus-finalises-its-total-eclipse-takeover-19980406-k825l",
+          "label": "AFR 6-Apr-1998: Primus finalises Eclipse takeover"
+        }
+      ]
+    }
+  ]
+}

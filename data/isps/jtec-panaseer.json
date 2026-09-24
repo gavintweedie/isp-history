@@ -1,0 +1,55 @@
+{
+  "name": "JTEC / Panaseer",
+  "slug": "jtec-panaseer",
+  "birthplace": "Brisbane, QLD",
+  "status": "inactive",
+  "summary": "Managed telecoms/VPN provider: Panaseer services division of Jtec Pty Ltd (launched Feb 2000; parent Jtec from 1987, ex-AWA engineers); acquired by Commander Communications in Jan/Feb 2004.",
+  "names": [
+    {
+      "name": "Panaseer (Jtec Pty Ltd)",
+      "start_year": 2000,
+      "start_disp": "Feb 2000",
+      "end_year": 2004,
+      "end_disp": "Feb 2004"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "Feb 2000",
+      "precision": "exact",
+      "details": "Panaseer managed-services division of Jtec Pty Ltd launched Feb 2000 (national ATM backbone, NOC, >1,200 corporates, $8.5m contracted revenue at Jun 2000); parent Jtec founded 1987 by ex-AWA engineers.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/companies/high-tech-plan-for-high-hopes-company-19900622-kamsl",
+          "label": "AFR 1990: Jtec origins (ex-AWA, ISDN)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2004,
+      "date_disp": "Feb 2004",
+      "precision": "exact",
+      "details": "Commander Communications acquired the Panaseer business (Jtec Pty Limited) from listed Panaseer Ltd (conditionally exchanged Jan 2004, completed ~16 Feb 2004).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://prwire.com.au/pr/9202/panaseer-expands-business-offering-with-commander-communications",
+          "label": "PRWire: Panaseer/Commander structure and dates"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/panaseer-limited/",
+          "label": "deListed: Panaseer Ltd (ex-Techniche), Jtec sale Mar 2004"
+        }
+      ]
+    }
+  ],
+  "aliases": [
+    "Panaseer",
+    "Jtec Pty Ltd"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Protel Communications",
+  "slug": "protel-communications",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "summary": "Melbourne broadband/telephony reseller (Protel Communications International, business/SMB focus); acquired by M2 Telecommunications in Feb 2005 (M2's first major acquisition). Not acquired by Eftel.",
+  "names": [
+    {
+      "name": "Protel Communications",
+      "start_year": 2004,
+      "start_disp": "by 2004",
+      "end_year": 2005,
+      "end_disp": "Feb 2005"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "approx",
+      "details": "Melbourne-based reseller of broadband/telephone services (business/SMB focus); founding year unknown."
+    },
+    {
+      "kind": "death",
+      "year": 2005,
+      "date_disp": "Feb 2005",
+      "precision": "exact",
+      "details": "Acquired by M2 Telecommunications in Feb 2005 (announced week of 2-9 Feb 2005, funded from $2.5m raising; M2's first major acquisition).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/protel-to-boost-growth-at-m2-telecoms-20050209-jle8s",
+          "label": "AFR 9-Feb-2005: M2 acquisition of Protel"
+        }
+      ]
+    }
+  ]
+}

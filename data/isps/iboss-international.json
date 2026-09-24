@@ -1,0 +1,44 @@
+{
+  "name": "iBOSS International",
+  "slug": "iboss-international",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "summary": "Wholesale telco (iBOSS International Pty Ltd, AsiaPAC group, ex-ispONE); acquired with AsiaPAC and One Telecom by Vocus Communications in May 2014, joint deal.",
+  "names": [
+    {
+      "name": "iBOSS International",
+      "start_year": 2008,
+      "start_disp": "by 2008",
+      "end_year": 2014,
+      "end_disp": "May 2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "by 2008",
+      "precision": "approx",
+      "details": "Wholesale telecommunications provider (AsiaPAC group); founding year unknown, active by 2008."
+    },
+    {
+      "kind": "death",
+      "year": 2014,
+      "date_disp": "May 2014",
+      "precision": "exact",
+      "details": "Acquired with AsiaPAC Communications and One Telecom by Vocus Communications 6-7 May 2014 (joint deal, see AsiaPAC).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.zdnet.com/home-and-office/networking/vocus-buys-iboss-and-one-telecom-business/",
+          "label": "ZDNet May-2014: joint AsiaPAC/iBOSS/One Telecom deal"
+        },
+        {
+          "kind": "news",
+          "url": "https://commswire.com.au/deals/vocus-picks-up-oneseniors-iboss-one-telecom.html",
+          "label": "CommsWire: ONEseniors included in Vocus pickup"
+        }
+      ]
+    }
+  ]
+}
