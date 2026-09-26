@@ -25,6 +25,7 @@ AARNET = {
     "birthplace": "Australia (national)",
     "status": "active",
     "website": "https://www.aarnet.edu.au",
+    "aliases": ["AARNet Pty Ltd"],
     "events": [
         {"kind": "birth", "year": 1990, "date_disp": "1990", "precision": "exact",
          "details": "Australia's first ISP."},
@@ -144,6 +145,20 @@ def test_isp_detail_and_404(client):
     assert client.get("/isp/does-not-exist").status_code == 404
 
 
+def test_isp_detail_aliases_render(client):
+    """Aliases are plain strings in the data model — they must render."""
+    html = client.get("/isp/aarnet").data.decode()
+    assert "AARNet Pty Ltd" in html
+    assert "<li></li>" not in html
+
+
+def test_isp_detail_no_inline_js(client):
+    """CSP blocks inline scripts/handlers, so none may be present."""
+    html = client.get("/isp/aarnet").data.decode()
+    assert "onclick=" not in html
+    assert "<script>" not in html  # external <script src=...> only
+
+
 def test_isp_detail_shows_other_party_and_refs(client):
     html = client.get("/isp/aarnet").data.decode()
     assert "Internode" in html          # the "other" party on the transition
@@ -192,5 +207,7 @@ def test_cache_headers(client):
     r = client.get("/static/graph.js")
     assert r.headers["Cache-Control"] == "public, max-age=3600"
 
-    r = client.get("/")
-    assert "Cache-Control" not in r.headers
+    # HTML always revalidates so a deploy shows fresh content
+    assert client.get("/").headers["Cache-Control"] == "no-cache"
+    assert client.get("/directory").headers["Cache-Control"] == "no-cache"
+    assert client.get("/isp/aarnet").headers["Cache-Control"] == "no-cache"

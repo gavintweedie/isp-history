@@ -23,7 +23,11 @@ import os
 import re
 import threading
 import time
-from urllib.parse import urlsplit
+
+try:
+    from urlutil import is_safe_url_strict
+except ImportError:  # imported as app.db without app/ on sys.path
+    from app.urlutil import is_safe_url_strict
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.environ.get("ISP_HISTORY_DATA", os.path.join(BASE_DIR, "data"))
@@ -70,28 +74,14 @@ def _fingerprint():
     return fp
 
 
-def _is_safe_url(url):
-    """Allow only http/https URLs with a host (defense against javascript: etc)."""
-    if not url or not isinstance(url, str):
-        return False
-    url = url.strip()
-    if not url:
-        return False
-    try:
-        p = urlsplit(url)
-    except ValueError:
-        return False
-    return p.scheme in ("http", "https") and bool(p.netloc)
-
-
 def _validate_refs(refs, context):
     """Fail fast on unsafe ref URLs so a bad PR cannot land stored XSS."""
     for r in refs or []:
         url = r.get("url")
-        if url is not None and not _is_safe_url(url):
+        if url is not None and not is_safe_url_strict(url):
             raise ValueError(f"unsafe ref url in {context}: {url!r} (must be http/https)")
         archive = r.get("archive_url")
-        if archive is not None and not _is_safe_url(archive):
+        if archive is not None and not is_safe_url_strict(archive):
             raise ValueError(f"unsafe archive_url in {context}: {archive!r}")
 
 
@@ -103,7 +93,7 @@ def _validate_website(url, context):
         return
     # Website may be a bare host like "example.com" (no scheme) — treat
     # "http://"+url as the test. Reject only javascript:/data:/etc.
-    if _is_safe_url(url) or _is_safe_url("http://" + url):
+    if is_safe_url_strict(url) or is_safe_url_strict("http://" + url):
         return
     # Also reject if it looks like a dangerous scheme even without slashes
     low = url.lower()

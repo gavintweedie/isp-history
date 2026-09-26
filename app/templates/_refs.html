@@ -1,9 +1,11 @@
 {# Renders a list of refs; expects `refs` in context. Defense-in-depth:
-   db.py rejects non-http(s) at load, but template also guards. #}
+   db.py rejects non-http(s) at load, but template also guards. Bare hosts
+   (no scheme) pass the lenient check and get an https:// prefix, like
+   website fields on the detail page. #}
 {% if refs %}
   {% for r in refs %}
     {% if is_safe_url(r.url) %}
-      <a href="{{ r.url }}" target="_blank" rel="noopener" title="{{ r.label }}">{{ r.kind }}</a>
+      <a href="{{ r.url if '://' in r.url else 'https://' + r.url }}" target="_blank" rel="noopener" title="{{ r.label }}">{{ r.kind }}</a>
     {% else %}
       <span title="{{ r.label }}">{{ r.kind }}</span>
     {% endif %}

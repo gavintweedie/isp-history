@@ -28,6 +28,7 @@ from flask import (
 
 from config import BASE_PATH, PORT
 import db
+from urlutil import is_safe_url as _is_safe_url
 
 app = Flask(__name__)
 
@@ -92,35 +93,6 @@ class BasePathMiddleware:
 app.wsgi_app = BasePathMiddleware(app.wsgi_app, BASE_PATH)
 
 
-def _is_safe_url_strict(url):
-    """Strict http/https with host."""
-    try:
-        p = urlsplit(url.strip())
-    except ValueError:
-        return False
-    return p.scheme in ("http", "https") and bool(p.netloc)
-
-
-def _is_safe_url(url):
-    """Jinja helper: allow only http/https (defense-in-depth vs stored XSS).
-    Bare hosts like 'example.com' (no scheme) are considered safe for
-    website fields — they will be rendered as https://<host>."""
-    if not url or not isinstance(url, str):
-        return False
-    url = url.strip()
-    if not url:
-        return False
-    low = url.lower()
-    if low.startswith("javascript:") or low.startswith("data:") or low.startswith("vbscript:"):
-        return False
-    if "://" in url:
-        return _is_safe_url_strict(url)
-    # No scheme: treat as bare host/path, test with https:// prefix
-    if " " in url or "<" in url or ">" in url or '"' in url or "'" in url:
-        return False
-    return _is_safe_url_strict("https://" + url)
-
-
 # Expose to Jinja directly (so get_template().render works) and via context
 app.jinja_env.globals["is_safe_url"] = _is_safe_url
 
@@ -152,7 +124,7 @@ def set_security_headers(resp):
     )
     # Browser caching: static assets with ?v=<hash> are immutable (hash
     # changes on any local edit or git pull), so 1y; without ?v fall back
-    # to 1h. HTML pages left uncached so a deploy shows fresh content.
+    # to 1h. HTML always revalidates so a deploy shows fresh content.
     # /api/graph is 5m + ETag (304) + gzip via Caddy.
     path = request.path
     if path.startswith("/static/"):
@@ -166,6 +138,10 @@ def set_security_headers(resp):
     elif path == "/api/graph":
         resp.headers.setdefault("Cache-Control", "public, max-age=300")
         resp.headers.setdefault("Vary", "Accept-Encoding")
+    else:
+        # HTML and anything else: always revalidate so a deploy shows
+        # fresh content (no ETag on these responses).
+        resp.headers["Cache-Control"] = "no-cache"
     return resp
 
 

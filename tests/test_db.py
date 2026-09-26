@@ -178,6 +178,46 @@ def test_reload_when_data_changes():
     assert dbmod.get_isp_by_slug("iinet")["website"] == "https://example.com"
 
 
+def test_unsafe_ref_url_rejected_at_load():
+    write_isp({**IINET, "refs": [
+        {"kind": "news", "url": "javascript:alert(1)", "label": "x"},
+    ]})
+    dbmod._store = None
+    with pytest.raises(ValueError):
+        dbmod.all_isps()
+
+
+def test_control_char_ref_url_rejected_at_load():
+    # urlsplit strips \t\r\n after parsing (bpo-43882), so a scheme check
+    # alone can miss "java\tscript:" — the shared validator rejects it.
+    write_isp({**IINET, "refs": [
+        {"kind": "news", "url": "java\tscript:alert(1)", "label": "x"},
+    ]})
+    dbmod._store = None
+    with pytest.raises(ValueError):
+        dbmod.all_isps()
+
+
+def test_unsafe_event_ref_rejected_at_load():
+    write_isp({**IINET, "events": [
+        {**IINET["events"][0],
+         "refs": [{"kind": "news", "url": "data:text/html,<h1>x</h1>"}]},
+    ]})
+    dbmod._store = None
+    with pytest.raises(ValueError):
+        dbmod.all_isps()
+
+
+def test_transition_ref_url_validated():
+    write_transitions([{
+        "type": "acquisition", "from": "iinet", "to": "tpg-telecom",
+        "year": 2015, "refs": [{"kind": "news", "url": "vbscript:msgbox(1)"}],
+    }])
+    dbmod._store = None
+    with pytest.raises(ValueError):
+        dbmod.all_isps()
+
+
 def test_missing_slug_in_transition_raises():
     write_transitions([{"type": "merge", "from": "iinet", "to": "ghost"}])
     dbmod._store = None
