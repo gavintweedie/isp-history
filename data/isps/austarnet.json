@@ -4,7 +4,7 @@
   "birthplace": "Regional Australia",
   "status": "inactive",
   "website": "https://austarnet.com.au",
-  "summary": "AUSTAR's regional dialup ISP/portal (regional access points); active 2000-2003; superseded by AustarMetro and wound down.",
+  "summary": "AUSTAR's regional dialup ISP/portal (regional access points); website folded over to the AustarMetro presence by Jan 2004, but the regional customer base persisted (ACCC records ~9,328 customers Dec 2010); fate after Austar's 2012 Foxtel merger undocumented.",
   "names": [
     {
       "name": "Austarnet",
@@ -28,7 +28,7 @@
       "year": 2004,
       "date_disp": "by 2004",
       "precision": "by",
-      "details": "Superseded by AustarMetro; full portal content still live Feb 2003, austarnet.com.au serving a 302 redirect by Jan 2004.",
+      "details": "austarnet.com.au full portal content live Feb 2003, serving a 302 redirect by Jan 2004 (web presence folded over). The regional customer base evidently persisted: ACCC industry records still listed ~9,328 AUSTARnet customers in Dec 2010. Final fate undocumented (Austar merged with Foxtel in 2012).",
       "source": [
         "https://web.archive.org/web/20030212204003/http://www.austarnet.com.au/",
         "https://web.archive.org/web/20040131173816/http://www.austarnet.com.au/"
@@ -40,6 +40,16 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000619165646id_/http://www.austarnet.com.au/",
       "label": "Austarnet (Wayback 2000)"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.accc.gov.au/system/files/MER11%208112.pdf",
+      "label": "ACCC document: AUSTARnet ~9,328 customers at Dec 2010"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.sec.gov/Archives/edgar/data/1015611/000101490901500097/0001014909-01-500097.txt",
+      "label": "United Austar Form 20-F (SEC, 2001): eisa asset acquisition, AustarMetro 'formerly EISA'"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "Internet Tasmania (Intas)",
   "slug": "intas",
-  "birthplace": "Hobart/Launceston, TAS",
+  "birthplace": "Hobart, TAS",
   "status": "inactive",
   "website": "https://intas.net.au",
-  "summary": "Tasmanian ISP (intas.net.au); took over all TrumpNet customers Aug 2007; absorbed by iiNet directly ~late Feb 2012.",
+  "summary": "Tasmanian ISP: Internet Tasmania (Intas, c.1996) and BBW Telecom (c.2001) were both trading names of Broadband Wireless Pty Ltd (ACN 096 428 634, Hobart); took over all TrumpNet customers Aug 2007; creditors' voluntary liquidation 11 Apr 2012; customer base absorbed by iiNet (per user report; no public announcement).",
   "names": [
     {
       "name": "Internet Tasmania (Intas)",
@@ -18,14 +18,14 @@
       "year": 1996,
       "date_disp": "c. 1996",
       "precision": "approx",
-      "details": "Operated as a Hobart/Launceston ISP."
+      "details": "Operated as a Hobart/Launceston ISP; sister brand BBW Telecom of Broadband Wireless Pty Ltd from c.2001 (earliest bbw.net.au capture 20 Sep 2003)."
     },
     {
       "kind": "death",
       "year": 2012,
-      "date_disp": "late Feb 2012",
+      "date_disp": "11 Apr 2012",
       "precision": "exact",
-      "details": "Absorbed by iiNet directly (per user report; no public announcement)."
+      "details": "Broadband Wireless Pty Ltd (ACN 096 428 634), formerly trading as BBW Telecom & Internet Tasmania, entered creditors' voluntary liquidation 11 Apr 2012 (ASIC published notices); customer base absorbed by iiNet ~Feb 2012 (per user report; no public announcement). bbw.net.au homepage froze at 2011 content and lingered as a static page to ~2021."
     }
   ],
   "refs": [
@@ -33,6 +33,25 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20170801212208/http://intas.net.au/",
       "label": "Intas (Wayback 2017)"
+    },
+    {
+      "kind": "official",
+      "url": "https://publishednotices.asic.gov.au/",
+      "label": "ASIC Published Notices: BROADBAND WIRELESS PTY LTD (IN LIQ), formerly t/as BBW Telecom & Internet Tasmania, ACN 096 428 634 - CVL appointed 11/04/2012"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030920113038/http://www.bbw.net.au/",
+      "label": "BBW Telecom earliest capture (Wayback 20 Sep 2003)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20091030054947/http://www.bbw.net.au/",
+      "label": "BBW Telecom (Wayback 2009)"
     }
+  ],
+  "aliases": [
+    "BBW Telecom",
+    "Broadband Wireless"
   ]
 }

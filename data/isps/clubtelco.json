@@ -25,7 +25,7 @@
       "year": 2020,
       "date_disp": "Jul 2020",
       "precision": "exact",
-      "details": "Closed 21 Jul 2020."
+      "details": "Closed 21 Jul 2020 (M2/Vocus wind-down). Homepage had frozen at its c.2012-era design from ~Dec 2014 and stayed unchanged through Jan 2017 (Wayback) - but the brand formally ran to Jul 2020."
     }
   ],
   "refs": [
@@ -33,6 +33,24 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/ClubTelco",
       "label": "Wikipedia: ClubTelco"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20110110043700/http://www.clubtelco.com.au/",
+      "label": "ClubTelco earliest capture (Wayback 10 Jan 2011)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20141218124445/http://clubtelco.com.au/",
+      "label": "ClubTelco frozen homepage (Wayback Dec 2014)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20170117023959/http://clubtelco.com.au/",
+      "label": "ClubTelco still frozen (Wayback Jan 2017)"
     }
+  ],
+  "aliases": [
+    "Club Telco"
   ]
 }

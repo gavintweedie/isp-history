@@ -1,10 +1,10 @@
 {
   "name": "Blitz Telecom (Australia)",
   "slug": "blitz-telecom",
-  "birthplace": "Australia",
+  "birthplace": "Port Melbourne, VIC",
   "status": "inactive",
   "website": "https://blitztelecom.com.au",
-  "summary": "Telecom reseller (UK/US/AU; Aug 2007 acquired Koala Telecom's business); defunct c. 2009, domain later reused by AINS Telecommunications.",
+  "summary": "Telecom reseller (Port Melbourne VIC; acquired Koala Telecom's business Aug 2007, then Wix/TelPacific/G-Node in 2007-08); collapsed into administration Jun 2008, customers sold to SuperNerd; domain later reused by AINS Telecommunications.",
   "names": [
     {
       "name": "Blitz Telecom (Australia)",
@@ -25,10 +25,10 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2009",
-      "precision": "approx",
-      "details": "Retail homepage live to Apr 2008; domain served only a redirect from Sep 2009, then hosted AINS Telecommunications from ~2013.",
+      "year": 2008,
+      "date_disp": "Jun 2008",
+      "precision": "exact",
+      "details": "Collapsed into administration in Jun 2008, immediately after its buying spree (Wix, TelPacific, G-Node, Koala); customers sold to SuperNerd. Domain later served only a redirect (from Sep 2009), then hosted AINS Telecommunications (from ~2013).",
       "source": [
         "https://web.archive.org/web/20090912003556/http://www.blitztelecom.com.au/",
         "https://web.archive.org/web/20130408063341/http://blitztelecom.com.au/"
@@ -40,6 +40,16 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20080409214618/http://www.blitztelecom.com.au/",
       "label": "Blitz Telecom (Australia) (Wayback 9 Apr 2008)"
+    },
+    {
+      "kind": "news",
+      "url": "https://whirlpool.net.au/news/?id=1798",
+      "label": "Whirlpool news Jun 2008: SuperNerd purchases Blitz customers"
+    },
+    {
+      "kind": "forum",
+      "url": "https://forums.whirlpool.net.au/archive/1000634",
+      "label": "Whirlpool Jun 2008: Blitz buying spree (Wix, TelPacific, G-Node, Koala)"
     }
   ]
 }

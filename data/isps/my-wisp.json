@@ -4,7 +4,7 @@
   "birthplace": "Canungra, QLD",
   "status": "inactive",
   "website": "https://mywisp.net.au",
-  "summary": "Queensland fixed-wireless/hotspot ISP (mywisp.net.au, Canungra area, active 2005-08, ACN 110 247 946); network taken over by LiSP, then by Cirrus Communications (Dec 2008).",
+  "summary": "Queensland fixed-wireless/hotspot ISP (mywisp.net.au, Canungra area, active 2005-07, ACN 110 247 946); network taken over by LiSP by Jul 2007 (LiSP later absorbed by Cirrus Communications).",
   "names": [
     {
       "name": "My WiSP",
@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "Dec 2008",
-      "precision": "exact",
-      "details": "Network to LiSP then Cirrus Communications."
+      "year": 2007,
+      "date_disp": "by Jul 2007",
+      "precision": "by",
+      "details": "Closure notice live by 3 Jul 2007: 'My WiSP is no longer operating... the equipment forming the My WiSP network is now being operated by LiSP Pty Ltd' (mywisp.net.au, Wayback 8 Aug 2007). LiSP was itself later absorbed by Cirrus Communications."
     }
   ],
   "refs": [

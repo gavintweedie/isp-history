@@ -4,7 +4,7 @@
   "birthplace": "Victor Harbor, SA",
   "status": "inactive",
   "website": "https://granite.net.au",
-  "summary": "South Australian regional ISP (granite.net.au) serving the Fleurieu Peninsula; defunct Oct 2002; userbase mostly acquired by RuralNet.",
+  "summary": "South Australian regional ISP (granite.net.au) serving the Fleurieu Peninsula; acquired by iiNet in 2002.",
   "names": [
     {
       "name": "Granite Internet Services",
@@ -23,9 +23,9 @@
     {
       "kind": "death",
       "year": 2002,
-      "date_disp": "Oct 2002",
-      "precision": "exact",
-      "details": "Defunct; userbase mostly to RuralNet."
+      "date_disp": "2002",
+      "precision": "approx",
+      "details": "Acquired by iiNet in its 2002 regional acquisition round. The earlier 'userbase mostly to RuralNet' note was wrong - RuralNet (Mildura VIC) was itself acquired by iiNet (announced 31 Dec 2002)."
     }
   ],
   "refs": [
@@ -33,6 +33,16 @@
       "kind": "archive",
       "url": "https://trove.nla.gov.au/newspaper/page/22010383",
       "label": "Trove: page 22010383"
+    },
+    {
+      "kind": "wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IiNet",
+      "label": "Wikipedia: iiNet acquisitions incl. Granite Internet"
+    },
+    {
+      "kind": "news",
+      "url": "https://delimiter.com.au/2011/06/21/making-don-malone-an-offer-he-cant-refuse/",
+      "label": "Delimiter 21-Jun-2011: Granite Internet among iiNet's regional ISP acquisitions"
     }
   ]
 }

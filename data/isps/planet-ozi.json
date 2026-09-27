@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://esc.net.au",
-  "summary": "ISP (Planet Ozi Pty Ltd, ACN 108 139 037) that absorbed CairnsNet customer base (2017) and ran Silogen/Starwon brand; ADSL/NBN/dialup provider; ABN cancelled 2020; customers/services absorbed by Adelaide's EscapeNet (esc.net.au).",
+  "summary": "ISP (Planet Ozi Pty Ltd, ACN 108 139 037) that absorbed CairnsNet customer base (2017) and ran Silogen/Starwon brand; ADSL/NBN/dialup provider; creditors' voluntary liquidation 7 Feb 2019; business/customers sold to Adelaide's EscapeNet (esc.net.au) ~Mar 2019; ABN cancelled 2020.",
   "names": [
     {
       "name": "Planet Ozi",
@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2021,
-      "date_disp": "c. 2021",
+      "year": 2019,
+      "date_disp": "Mar 2019",
       "precision": "approx",
-      "details": "Customers/services absorbed by EscapeNet (Adelaide); site last live ~Mar 2021."
+      "details": "Creditors' voluntary liquidation appointed 7 Feb 2019 (ASIC, ACN 108 139 037); business/customers sold to EscapeNet (Adelaide) ~Mar 2019; residual site wound down by ~2021."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://publishednotices.asic.gov.au/",
+      "label": "ASIC Published Notices: PLANET OZI PTY LTD ACN 108 139 037 - CVL appointed 07/02/2019"
+    },
+    {
+      "kind": "forum",
+      "url": "https://forums.whirlpool.net.au/archive/2789583",
+      "label": "Whirlpool Mar 2019: 'Planet Ozi ... now been bought by Escape Net'"
     }
   ]
 }
