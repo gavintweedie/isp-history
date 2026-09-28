@@ -4,7 +4,7 @@
   "birthplace": "Australia (national)",
   "status": "inactive",
   "website": "https://macconnect.net.au",
-  "summary": "Australia's only Macintosh-specific ISP (POPs via connect.com.au network), Mac consulting/hosting; defunct.",
+  "summary": "Australia's only Macintosh-specific ISP (POPs via connect.com.au network), Mac consulting/hosting; defunct (MACCONNECT PTY LIMITED, ACN 088 420 268).",
   "names": [
     {
       "name": "Mac Connect",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021003135606/http://www.cynosure.com.au/isp/macconnect",
       "label": "Mac Connect (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=17088420268",
+      "label": "ABR: MACCONNECT PTY LIMITED ACN 088 420 268"
     }
   ]
 }

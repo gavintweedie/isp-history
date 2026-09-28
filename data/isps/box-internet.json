@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://box.net.au",
-  "summary": "Adelaide ISP (S@t Internet Services, Silicom Pty Ltd), successor to SATECH; taken over by Chariot.",
+  "summary": "Adelaide ISP (S@t Internet Services, Silicom Pty Ltd), successor to SATECH; taken over by Chariot (SILCOM PTY. LTD., ACN 062 597 102).",
   "names": [
     {
       "name": "Box Internet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980512000000id_/http://www.box.net.au/",
       "label": "Box Internet (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=34062597102",
+      "label": "ABR: SILCOM PTY. LTD. ACN 062 597 102"
     }
   ]
 }

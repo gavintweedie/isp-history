@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://creative.net.au",
-  "summary": "creative.net.au was Adrian Chadd's personal/community domain (WAIX, Perth WA) with user subdomains + hobbyist hosting; not a retail ISP.",
+  "summary": "creative.net.au was Adrian Chadd's personal/community domain (WAIX, Perth WA) with user subdomains + hobbyist hosting; not a retail ISP (ABN 40 491 440 127).",
   "names": [
     {
       "name": "Creative Internet",
@@ -50,6 +50,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2000/http://www.creative.net.au/",
       "label": "Creative (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=40491440127",
+      "label": "ABR: CHADD, ADRIAN HAROLD ABN 40 491 440 127"
     }
   ]
 }

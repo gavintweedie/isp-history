@@ -4,7 +4,7 @@
   "birthplace": "Melville (Perth), WA",
   "status": "active",
   "website": "https://ic-net.com.au",
-  "summary": "Perth computer retailer + dialup ISP (IC-Net); still active as Interact Internet/IC Computers (O'Connor WA since 1994). NOTE: Gemini's interactit.com.au is a different, Tasmanian company.",
+  "summary": "Perth computer retailer + dialup ISP (IC-Net); still active as Interact Internet/IC Computers (O'Connor WA since 1994). NOTE: Gemini's interactit.com.au is a different, Tasmanian company (THE TRUSTEE FOR IC COMPUTER TRUST (trust), ABN 78 761 848 840).",
   "names": [
     {
       "name": "Interact Computers",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20160730145023/http://ic-net.com.au/",
       "label": "IC-Net (Wayback 2016)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=78761848840",
+      "label": "ABR: THE TRUSTEE FOR IC COMPUTER TRUST ABN 78 761 848 840"
     }
   ]
 }

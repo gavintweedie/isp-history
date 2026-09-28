@@ -3,7 +3,7 @@
   "slug": "affinity-internet",
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
-  "summary": "Melbourne ISP group (Affinity ISP Group: Bigfoot and Affinity Internet brands, 12,000 accounts); acquired by Datafast Telecommunications in Oct/Nov 2004 (renamed Eftel Dec 2005).",
+  "summary": "Melbourne ISP group (Affinity ISP Group: Bigfoot and Affinity Internet brands, 12,000 accounts); acquired by Datafast Telecommunications in Oct/Nov 2004 (renamed Eftel Dec 2005) (ACN 099 881 053).",
   "names": [
     {
       "name": "Affinity Internet",
@@ -43,5 +43,12 @@
   ],
   "aliases": [
     "Affinity ISP Group"
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=32099881053",
+      "label": "ABR: AFFINITY INTERNET PTY LTD ACN 099 881 053"
+    }
   ]
 }

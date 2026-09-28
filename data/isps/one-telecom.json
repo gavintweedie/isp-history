@@ -3,7 +3,7 @@
   "slug": "one-telecom",
   "birthplace": "Sydney, NSW",
   "status": "inactive",
-  "summary": "Wholesale telco (One Telecom Pty Ltd, incl. ONEseniors/One Mobile; AsiaPAC group, ex-ispONE). Distinct from One.Tel (collapsed 2001). Acquired with AsiaPAC and iBOSS by Vocus Communications in May 2014, joint deal.",
+  "summary": "Wholesale telco (One Telecom Pty Ltd, incl. ONEseniors/One Mobile; AsiaPAC group, ex-ispONE). Distinct from One.Tel (collapsed 2001). Acquired with AsiaPAC and iBOSS by Vocus Communications in May 2014, joint deal (ACN 076 483 657).",
   "names": [
     {
       "name": "One Telecom",
@@ -44,5 +44,12 @@
   "aliases": [
     "ONEseniors",
     "One Mobile"
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=85076483657",
+      "label": "ABR: ONE TELECOM PTY LTD ACN 076 483 657"
+    }
   ]
 }

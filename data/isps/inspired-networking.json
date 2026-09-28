@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://inspired.net.au",
-  "summary": "Canberra business ISP (dialup + semi-permanent, hosting, many regional domains e.g. goulburn.net, queanbeyan.net); IIA member; defunct.",
+  "summary": "Canberra business ISP (dialup + semi-permanent, hosting, many regional domains e.g. goulburn.net, queanbeyan.net); IIA member; defunct (INSPIRED NETWORKING PTY LTD, ACN 106 130 965).",
   "names": [
     {
       "name": "Inspired Networking Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021202124435/http://www.cynosure.com.au/isp/inspired",
       "label": "Inspired (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=36106130965",
+      "label": "ABR: INSPIRED NETWORKING PTY LTD ACN 106 130 965"
     }
   ]
 }

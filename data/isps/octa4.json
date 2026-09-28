@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "octa4.com.au",
-  "summary": "ISP acquired by iiNet.",
+  "summary": "ISP acquired by iiNet (OCTA4 PTY LTD (NOW ICA SOLUTION (NT) PTY LTD), ACN 066 663 554).",
   "names": [
     {
       "name": "Octa4",
@@ -26,6 +26,13 @@
       "date_disp": "2003",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=77066663554",
+      "label": "ABR: OCTA4 PTY LTD PTY LTD) ACN 066 663 554"
     }
   ]
 }

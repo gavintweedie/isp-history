@@ -4,7 +4,7 @@
   "birthplace": "Geelong West, VIC",
   "status": "inactive",
   "website": "https://pipeline.com.au",
-  "summary": "Geelong regional ISP (Pipeline Computing Services, 1996; dialup/ISDN then ADSL 2003, hosting, computer sales); became part of Chariot netconnect ~Aug 2003.",
+  "summary": "Geelong regional ISP (Pipeline Computing Services, 1996; dialup/ISDN then ADSL 2003, hosting, computer sales); became part of Chariot netconnect ~Aug 2003 (MICHAEL BOWE PTY. LTD. (T/A PIPELINE COMPUTING SERVICES / PIPELINE INTERNET; BRAND ACQUIRED BY CHARIOT LIMITED IN 2003), ACN 074 522 268).",
   "names": [
     {
       "name": "Pipeline Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030802000000/http://www.pipeline.com.au/",
       "label": "Pipeline (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=15074522268",
+      "label": "ABR: MICHAEL BOWE PTY. LTD. (T/A PIPELINE COMPUTING SERVICES / PIPELINE INTERNET; BRAND ACQUIRED BY CHARIOT LIMITED IN 2003) ACN 074 522 268"
     }
   ]
 }

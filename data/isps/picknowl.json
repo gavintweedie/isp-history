@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://picknowl.com.au",
-  "summary": "Adelaide ISP (Professionals In Computer Knowledge Pty Ltd), cheap prepaid dialup (~30k users); acquired by Chariot c.2002.",
+  "summary": "Adelaide ISP (Professionals In Computer Knowledge Pty Ltd), cheap prepaid dialup (~30k users); acquired by Chariot c.2002 (ACN 008 096 179).",
   "names": [
     {
       "name": "Picknowl",
@@ -36,6 +36,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961219175501/http://www.picknowl.com.au/",
       "label": "Picknowl (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=95008096179",
+      "label": "ABR: PROFESSIONALS IN COMPUTER KNOWLEDGE PTY. LTD. ACN 008 096 179"
     }
   ]
 }

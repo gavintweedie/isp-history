@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://jumba.com.au",
-  "summary": "Broadband/VoIP + cPanel hosting provider (Jumba Interactive Group, ex-Alternative Web Services, renamed 2005); defunct.",
+  "summary": "Broadband/VoIP + cPanel hosting provider (Jumba Interactive Group, ex-Alternative Web Services, renamed 2005); defunct (ACN 097 172 560).",
   "names": [
     {
       "name": "Jumba Broadband",
@@ -26,6 +26,13 @@
       "date_disp": "2005",
       "precision": "exact",
       "details": "Renamed Jumba from Alternative Web Services."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=72097172560",
+      "label": "ABR: JUMBA INTERACTIVE GROUP PTY LTD ACN 097 172 560"
     }
   ]
 }

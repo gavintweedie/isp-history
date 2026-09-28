@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://lizzy.com.au",
-  "summary": "National dialup + broadband ISP (lizzy.com.au, ~2003); defunct.",
+  "summary": "National dialup + broadband ISP (lizzy.com.au, ~2003); defunct (AUSTRALIA ON LINE PTY. LTD., ACN 064 289 925).",
   "names": [
     {
       "name": "Lizzy Internet",
@@ -33,6 +33,13 @@
           "label": "Wayback: last ISP retail homepage"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=88064289925",
+      "label": "ABR: AUSTRALIA ON LINE PTY. LTD. ACN 064 289 925"
     }
   ]
 }

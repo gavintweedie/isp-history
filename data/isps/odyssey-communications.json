@@ -4,7 +4,7 @@
   "birthplace": "Fortitude Valley, QLD",
   "status": "inactive",
   "website": "http://www.odyssey.com.au",
-  "summary": "Brisbane ISP (ODYSSEY Communications, Fortitude Valley QLD; trading as Odyssey World Pty Ltd). One contiguous /22 in the 1997 IP Network Index (ODYSSEY-AU 203.11.104.0-203.11.107.255). odyssey.com.au captured from 6 Jun 1997; by 2000 the site was branded 'Welcome to Odyssey World' and advertised dial-up points of presence in Sydney and Brisbane. ISP-era captures end 2001; the domain had become a WordPress site by 2016.",
+  "summary": "Brisbane ISP (ODYSSEY Communications, Fortitude Valley QLD; trading as Odyssey World Pty Ltd). One contiguous /22 in the 1997 IP Network Index (ODYSSEY-AU 203.11.104.0-203.11.107.255). odyssey.com.au captured from 6 Jun 1997; by 2000 the site was branded 'Welcome to Odyssey World' and advertised dial-up points of presence in Sydney and Brisbane. ISP-era captures end 2001; the domain had become a WordPress site by 2016 (ACN 070 394 491).",
   "names": [
     {
       "name": "ODYSSEY Communications",
@@ -70,5 +70,11 @@
       ]
     }
   ],
-  "refs": []
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=99070394491",
+      "label": "ABR: ODYSSEY WORLD PTY. LTD. ACN 070 394 491"
+    }
+  ]
 }

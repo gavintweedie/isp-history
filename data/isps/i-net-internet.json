@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://i-net.net.au",
-  "summary": "Dialup + web/IT services ISP (i-net.net.au, ~1998); evolved into 'Internetwork Solutions' (Sydney web design/hosting, 2008-12); dormant after.",
+  "summary": "Dialup + web/IT services ISP (i-net.net.au, ~1998); evolved into 'Internetwork Solutions' (Sydney web design/hosting, 2008-12); dormant after (ACN 124 685 767).",
   "names": [
     {
       "name": "I-net Internet Services",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2012",
       "precision": "approx",
       "details": "Dormant."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=45124685767",
+      "label": "ABR: INTERNETWORK SOLUTIONS PTY LIMITED ACN 124 685 767"
     }
   ]
 }

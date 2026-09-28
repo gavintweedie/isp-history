@@ -4,7 +4,7 @@
   "birthplace": "Croydon, VIC",
   "status": "inactive",
   "website": "https://www.ivt.com.au",
-  "summary": "Successor to Mission Internet (formerly Mission Internet Marketing, est. 1994); web development/hosting firm, now software for associations (Association Online); acquired by ASI (Advanced Solutions International) June 2017.",
+  "summary": "Successor to Mission Internet (formerly Mission Internet Marketing, est. 1994); web development/hosting firm, now software for associations (Association Online); acquired by ASI (Advanced Solutions International) June 2017 (A.C.N. 092 716 188 PTY LTD, ACN 092 716 188).",
   "names": [
     {
       "name": "Internet Vision Technologies",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20020205131103/http://www.ivt.com.au/about.php",
       "label": "IVT about (Wayback 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=30092716188",
+      "label": "ABR: A.C.N. 092 716 188 PTY LTD ACN 092 716 188"
     }
   ]
 }

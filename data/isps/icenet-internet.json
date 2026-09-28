@@ -4,7 +4,7 @@
   "birthplace": "East Perth, WA",
   "status": "inactive",
   "website": "https://icenet.com.au",
-  "summary": "Perth dialup + networking consultancy ISP (LAN, wireless, VPN, co-location, hosting); dead ~2008.",
+  "summary": "Perth dialup + networking consultancy ISP (LAN, wireless, VPN, co-location, hosting); dead ~2008 (ICENET PTY LTD (NOW DRAM INVESTMENTS PTY LTD), ACN 056 599 305).",
   "names": [
     {
       "name": "Icenet Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20081121143720/http://icenet.com.au/",
       "label": "Icenet (Wayback 2008)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=76056599305",
+      "label": "ABR: ICENET PTY LTD ACN 056 599 305"
     }
   ]
 }

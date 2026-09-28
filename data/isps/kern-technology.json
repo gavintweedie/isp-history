@@ -4,7 +4,7 @@
   "birthplace": "Stepney (Adelaide), SA",
   "status": "inactive",
   "website": "https://kern.com.au",
-  "summary": "Adelaide dialup + hosting + e-commerce ISP (BankSA eCommerce partner, ISO 9002); defunct.",
+  "summary": "Adelaide dialup + hosting + e-commerce ISP (BankSA eCommerce partner, ISO 9002); defunct (KERN TECHNOLOGY PTY LTD, ACN 060 754 476).",
   "names": [
     {
       "name": "Kern Technology",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030106192143/http://www.cynosure.com.au/isp/kern",
       "label": "Kern (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=51060754476",
+      "label": "ABR: KERN TECHNOLOGY PTY LTD ACN 060 754 476"
     }
   ]
 }

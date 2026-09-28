@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://ciadsl.com.au",
-  "summary": "ADSL arm of Connect Infobahn Australia (CIA, ~2003); defunct with CIA.",
+  "summary": "ADSL arm of Connect Infobahn Australia (CIA, ~2003); defunct with CIA (THE TRUSTEE FOR C.I.A. UNIT TRUST (TRADING AS CONNECT INFOBAHN AUSTRALIA) (trust), ABN 72 924 334 435).",
   "names": [
     {
       "name": "CIA DSL",
@@ -36,6 +36,13 @@
       "source": [
         "https://web.archive.org/cdx/search/cdx?url=ciadsl.com.au (last distinct homepage digest 20110905; identical captures recaptured through 20170924)"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=72924334435",
+      "label": "ABR: THE TRUSTEE FOR C.I.A. UNIT TRUST (TRADING AS CONNECT INFOBAHN AUSTRALIA) ABN 72 924 334 435"
     }
   ]
 }

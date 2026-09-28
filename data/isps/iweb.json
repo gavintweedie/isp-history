@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://iweb.net.au",
-  "summary": "Adelaide ISP ('The Internet Company', trading as InterWeb Connections / iweb.net.au); acquired by ihug.",
+  "summary": "Adelaide ISP ('The Internet Company', trading as InterWeb Connections / iweb.net.au); acquired by ihug (ACN 083 233 694).",
   "names": [
     {
       "name": "iWeb",
@@ -26,6 +26,13 @@
       "date_disp": "Oct 2003",
       "precision": "exact",
       "details": "Acquired by ihug (then iiNet acquired ihug Oct 2003)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=74083233694",
+      "label": "ABR: THE INTERNET COMPANY PTY LTD PTY LIMITED) ACN 083 233 694"
     }
   ]
 }

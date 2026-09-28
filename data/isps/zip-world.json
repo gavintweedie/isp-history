@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://zipworld.com.au",
-  "summary": "Sydney budget dialup ISP (Zip World Pty Ltd), formed April 1998 from the merger of Zip Internet Professionals and World Reach (both founded 1995); one of Sydney's largest private ISPs (~10,000 users); acquired by Pacific Internet June 1999.",
+  "summary": "Sydney budget dialup ISP (Zip World Pty Ltd), formed April 1998 from the merger of Zip Internet Professionals and World Reach (both founded 1995); one of Sydney's largest private ISPs (~10,000 users); acquired by Pacific Internet June 1999 (ACN 067 973 184).",
   "names": [
     {
       "name": "Zip World",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000930070813/http://www.zipworld.com.au/about/background.shtml",
       "label": "Zip World background (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=41067973184",
+      "label": "ABR: ZIP WORLD PTY LTD ACN 067 973 184"
     }
   ]
 }

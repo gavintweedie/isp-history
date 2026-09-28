@@ -4,7 +4,7 @@
   "birthplace": "Canberra (Kambah), ACT",
   "status": "inactive",
   "website": "https://spirit.net.au",
-  "summary": "Canberra dialup ISP since 1994 (distinct from Spirit Telecom, Melbourne); ISP business acquired by Asia Online ~2001, then pivoted to Metabrowser Systems.",
+  "summary": "Canberra dialup ISP since 1994 (distinct from Spirit Telecom, Melbourne); ISP business acquired by Asia Online ~2001, then pivoted to Metabrowser Systems (SPIRIT COMMUNICATIONS PTY LIMITED, ACN 068 670 155).",
   "aliases": [
     "Spirit Internet (ACT)"
   ],
@@ -36,6 +36,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980211084112/http://www.spirit.net.au/",
       "label": "Spirit Networks (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=43068670155",
+      "label": "ABR: SPIRIT COMMUNICATIONS PTY LIMITED ACN 068 670 155"
     }
   ]
 }

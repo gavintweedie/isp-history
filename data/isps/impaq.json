@@ -4,7 +4,7 @@
   "birthplace": "Box Hill (Melbourne), VIC",
   "status": "inactive",
   "website": "https://impaq.net.au",
-  "summary": "Melbourne dialup/ISDN/satellite/wireless ISP, education VPN provider; acquired by Datafast Telecommunications in late 2003 (renamed Eftel 2005).",
+  "summary": "Melbourne dialup/ISDN/satellite/wireless ISP, education VPN provider; acquired by Datafast Telecommunications in late 2003 (renamed Eftel 2005) (IMPAQ AUSTRALIA PTY LTD, ACN 091 657 199).",
   "names": [
     {
       "name": "Impaq",
@@ -30,7 +30,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
-          "label": "Wikipedia: Eftel \u2014 Datafast acquisitions (KeyPoint, EZ Web, Impaq, late 2003)"
+          "label": "Wikipedia: Eftel — Datafast acquisitions (KeyPoint, EZ Web, Impaq, late 2003)"
         },
         {
           "kind": "news",
@@ -45,6 +45,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981212025837/http://www.impaq.net.au/",
       "label": "Impaq (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=42091657199",
+      "label": "ABR: IMPAQ AUSTRALIA PTY LTD ACN 091 657 199"
     }
   ]
 }

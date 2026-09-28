@@ -4,7 +4,7 @@
   "birthplace": "Port Macquarie, NSW",
   "status": "inactive",
   "website": "https://tsninternet.com.au",
-  "summary": "Family-run ISP from Port Macquarie, operating by 1998.",
+  "summary": "Family-run ISP from Port Macquarie, operating by 1998 (SAUNDERS PROPERTIES PTY. LIMITED, ACN 083 037 772).",
   "names": [
     {
       "name": "TSN Communications",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20081217141913/http://www.tsninternet.com.au/about/",
       "label": "TSN about (Wayback 2008)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=97083037772",
+      "label": "ABR: SAUNDERS PROPERTIES PTY. LIMITED ACN 083 037 772"
     }
   ]
 }

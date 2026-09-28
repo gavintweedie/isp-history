@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://macarthurcook.com.au",
-  "summary": "Parent of Tassienet and RuralNet, trading as Local Telecom and Internet Ltd (ASX; formerly MBL Holdings); renamed Macarthurcook Ltd 2003 (ASX code MCK) as a property funds manager; delisted 4 Sep 2009 after AIMS compulsory acquisition.",
+  "summary": "Parent of Tassienet and RuralNet, trading as Local Telecom and Internet Ltd (ASX; formerly MBL Holdings); renamed Macarthurcook Ltd 2003 (ASX code MCK) as a property funds manager; delisted 4 Sep 2009 after AIMS compulsory acquisition (ACN 009 110 463).",
   "names": [
     {
       "name": "Local Telecom and Internet",
@@ -56,6 +56,13 @@
           "label": "deListed Australia: MacarthurCook Limited (ASX:MCK) - delisted 4 Sep 2009 (AIMS Securities compulsory acquisition)"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=64009110463",
+      "label": "ABR: LOCAL TELECOM AND INTERNET LIMITED ACN 009 110 463"
     }
   ]
 }

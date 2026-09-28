@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "just.net.au",
-  "summary": "Sydney ISP that absorbed the DIALix brand c.1998-2000; rebranded to Sublime IP ~2010-11.",
+  "summary": "Sydney ISP that absorbed the DIALix brand c.1998-2000; rebranded to Sublime IP ~2010-11 (ACN 068 467 667).",
   "names": [
     {
       "name": "JustNet",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2010-11",
       "precision": "approx",
       "details": "Rebranded to Sublime IP (same company)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=29068467667",
+      "label": "ABR: SUBLIME IP PTY LTD ACN 068 467 667"
     }
   ]
 }

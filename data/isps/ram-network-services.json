@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://ram.net",
-  "summary": "Sydney dialup + web dev + networking ISP (Ram Network Services Pty Ltd, 'Ram.Net', 1996); domain later served AlchemyIT.",
+  "summary": "Sydney dialup + web dev + networking ISP (Ram Network Services Pty Ltd, 'Ram.Net', 1996); domain later served AlchemyIT (ACN 082 639 969).",
   "names": [
     {
       "name": "Ram Network Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970101113716/http://www.ram.net.au/service.html",
       "label": "Ram.Net (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=56082639969",
+      "label": "ABR: RAM NETWORK SERVICES PTY LIMITED ACN 082 639 969"
     }
   ]
 }

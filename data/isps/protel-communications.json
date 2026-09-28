@@ -3,7 +3,7 @@
   "slug": "protel-communications",
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
-  "summary": "Melbourne broadband/telephony reseller (Protel Communications International, business/SMB focus); acquired by M2 Telecommunications in Feb 2005 (M2's first major acquisition). Not acquired by Eftel.",
+  "summary": "Melbourne broadband/telephony reseller (Protel Communications International, business/SMB focus); acquired by M2 Telecommunications in Feb 2005 (M2's first major acquisition). Not acquired by Eftel (ACN 099 023 766).",
   "names": [
     {
       "name": "Protel Communications",
@@ -34,6 +34,13 @@
           "label": "AFR 9-Feb-2005: M2 acquisition of Protel"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=54099023766",
+      "label": "ABR: PROTEL COMMUNICATIONS INTERNATIONAL PTY LTD ACN 099 023 766"
     }
   ]
 }

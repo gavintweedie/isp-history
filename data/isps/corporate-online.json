@@ -4,7 +4,7 @@
   "birthplace": "Fremantle (White Gum Valley), WA",
   "status": "inactive",
   "website": "http://www.copl.com.au",
-  "summary": "Perth ISP offering dialup and web development services (Corporate Online Pty Ltd); 4 Stack Street, White Gum Valley/Fremantle WA; tagline 'Your online technology partner'; product 'Corporate Private Network (CPN)'; closed 7 March 2001.",
+  "summary": "Perth ISP offering dialup and web development services (Corporate Online Pty Ltd); 4 Stack Street, White Gum Valley/Fremantle WA; tagline 'Your online technology partner'; product 'Corporate Private Network (CPN)'; closed 7 March 2001 (ACN 080 956 092).",
   "aliases": [
     "Corporate Online Pty Ltd",
     "CPN Solutions"
@@ -44,6 +44,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010517022914/http://www.copl.com.au/",
       "label": "Corporate Online closure notice (Wayback May 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=99080956092",
+      "label": "ABR: CORPORATE ONLINE PTY LTD ACN 080 956 092"
     }
   ]
 }

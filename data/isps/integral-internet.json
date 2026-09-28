@@ -4,7 +4,7 @@
   "birthplace": "Bondi Junction (Sydney), NSW",
   "status": "inactive",
   "website": "https://integral.net.au",
-  "summary": "Sydney dialup + permanent-connection ISP; defunct ~2007-08.",
+  "summary": "Sydney dialup + permanent-connection ISP; defunct ~2007-08 (INTEGRAL DEVELOPMENT PTY. LTD., ACN 059 156 875).",
   "names": [
     {
       "name": "Integral Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980615014715/http://www.integral.net.au/",
       "label": "Integral (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=69059156875",
+      "label": "ABR: INTEGRAL DEVELOPMENT PTY. LTD. ACN 059 156 875"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Kerang, VIC",
   "status": "inactive",
   "website": "https://cybanet.com.au",
-  "summary": "Regional VIC dialup ISP (Kerang/Swan Hill/Cohuna/Bendigo); folded into EFTel by 2012.",
+  "summary": "Regional VIC dialup ISP (Kerang/Swan Hill/Cohuna/Bendigo); folded into EFTel by 2012 (CYBANET INTERNET SERVICES PTY LTD, ACN 084 518 123).",
   "names": [
     {
       "name": "CybaNet Internet Services",
@@ -37,6 +37,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010720075951/http://www.cybanet.com.au/",
       "label": "CybaNet (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=32084518123",
+      "label": "ABR: CYBANET INTERNET SERVICES PTY LTD ACN 084 518 123"
     }
   ]
 }

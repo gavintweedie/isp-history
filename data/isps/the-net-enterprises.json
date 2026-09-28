@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://tne.net.au",
-  "summary": "Adelaide ISP (tne.net.au), founded Oct 1995; liquidated mid-2002, brand continued under Fleet Internet SA to ~2014.",
+  "summary": "Adelaide ISP (tne.net.au), founded Oct 1995; liquidated mid-2002, brand continued under Fleet Internet SA to ~2014 (THE NET ENTERPRISES PTY LTD, ACN 071 563 623).",
   "names": [
     {
       "name": "The Net Enterprises",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000126201519/http://www.tne.net.au/tne1999/company/company_history.html",
       "label": "TNE company history (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=82071563623",
+      "label": "ABR: THE NET ENTERPRISES PTY LTD ACN 071 563 623"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Carlingford (Sydney), NSW",
   "status": "inactive",
   "website": "https://syd.net.au",
-  "summary": "Sydney dialup + permanent-connection ISP; defunct.",
+  "summary": "Sydney dialup + permanent-connection ISP; defunct (SYDNET GROUP PTY LTD, ACN 083 901 777).",
   "names": [
     {
       "name": "Access Sydnet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021217021022/http://www.cynosure.com.au/isp/syd",
       "label": "Access Sydnet (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=32083901777",
+      "label": "ABR: SYDNET GROUP PTY LTD ACN 083 901 777"
     }
   ]
 }

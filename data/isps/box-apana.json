@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://box.apana.org.au",
-  "summary": "APANA node box.apana.org.au (originally the bkroom.apana.org.au BBS), began selling internet access ~1993-94; merged with lemon.apana.org.au late 1995 to form South Australian Technologies (SATECH).",
+  "summary": "APANA node box.apana.org.au (originally the bkroom.apana.org.au BBS), began selling internet access ~1993-94; merged with lemon.apana.org.au late 1995 to form South Australian Technologies (SATECH) (ACN 072 244 592).",
   "names": [
     {
       "name": "Box APANA node",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
       "label": "APANA (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=26072244592",
+      "label": "ABR: SATECH PTY. LTD. ACN 072 244 592"
     }
   ]
 }

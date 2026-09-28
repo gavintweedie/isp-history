@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "space.net.au",
-  "summary": "Perth ISP; acquired/merged into EFTel May 2000.",
+  "summary": "Perth ISP; acquired/merged into EFTel May 2000 (THE TRUSTEE FOR INTERNET TRUST (trust), ABN 13 150 289 399).",
   "names": [
     {
       "name": "space.net",
@@ -26,6 +26,13 @@
       "date_disp": "May 2000",
       "precision": "exact",
       "details": "Acquired/merged into EFTel."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=13150289399",
+      "label": "ABR: THE TRUSTEE FOR INTERNET TRUST ABN 13 150 289 399"
     }
   ]
 }

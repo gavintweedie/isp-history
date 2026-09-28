@@ -4,7 +4,7 @@
   "birthplace": "Sydney/Melbourne (Croydon)",
   "status": "inactive",
   "website": "https://australia.net.au",
-  "summary": "Budget PPP dialup ISP, NSW/VIC (3 POPs), domains mt.net.au / australia.net.au; defunct.",
+  "summary": "Budget PPP dialup ISP, NSW/VIC (3 POPs), domains mt.net.au / australia.net.au; defunct (CLARKE, DANIEL CHRISTOPHER (T/A MACROTEC COMPUTER SYSTEMS) (sole trader), ABN 47 652 920 112).",
   "names": [
     {
       "name": "MacroTec Computer/Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001219000000/http://www.cynosure.com.au/isp/mt",
       "label": "MacroTec (Cynosure 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=47652920112",
+      "label": "ABR: CLARKE, DANIEL CHRISTOPHER (T/A MACROTEC COMPUTER SYSTEMS) ABN 47 652 920 112"
     }
   ]
 }

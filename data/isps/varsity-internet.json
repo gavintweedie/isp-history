@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "varsity.net.au",
-  "summary": "Retail ISP acquired by Fuzenet pre-2019; passed to Uniti via the Fuzenet deal; brand retired Oct 2020.",
+  "summary": "Retail ISP acquired by Fuzenet pre-2019; passed to Uniti via the Fuzenet deal; brand retired Oct 2020 (AUSTRALIAN BROADBAND NETWORK PTY LTD (FORMERLY VARSITY INTERNET PTY LTD), ACN 160 316 101).",
   "names": [
     {
       "name": "Varsity Internet",
@@ -26,6 +26,13 @@
       "date_disp": "Oct 2020",
       "precision": "exact",
       "details": "Brand retired/migrated into FuzeNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=94160316101",
+      "label": "ABR: AUSTRALIAN BROADBAND NETWORK PTY LTD ACN 160 316 101"
     }
   ]
 }

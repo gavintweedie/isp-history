@@ -4,7 +4,7 @@
   "birthplace": "Rural/regional VIC/NSW",
   "status": "inactive",
   "website": "https://onewire.com.au",
-  "summary": "Radio + satellite broadband under Broadband Connect (Onewire, early 2000s); later rebranded Skyoptic; defunct.",
+  "summary": "Radio + satellite broadband under Broadband Connect (Onewire, early 2000s); later rebranded Skyoptic; defunct (154 COLLINS STREET PTY LIMITED, ACN 103 233 567).",
   "names": [
     {
       "name": "Onewire",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2006",
       "precision": "approx",
       "details": "Rebranded Skyoptic; defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=31103233567",
+      "label": "ABR: 154 COLLINS STREET PTY LIMITED ACN 103 233 567"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "iboss-international",
   "birthplace": "Sydney, NSW",
   "status": "inactive",
-  "summary": "Wholesale telco (iBOSS International Pty Ltd, AsiaPAC group, ex-ispONE); acquired with AsiaPAC and One Telecom by Vocus Communications in May 2014, joint deal.",
+  "summary": "Wholesale telco (iBOSS International Pty Ltd, AsiaPAC group, ex-ispONE); acquired with AsiaPAC and One Telecom by Vocus Communications in May 2014, joint deal (ACN 161 565 573).",
   "names": [
     {
       "name": "iBOSS International",
@@ -39,6 +39,13 @@
           "label": "CommsWire: ONEseniors included in Vocus pickup"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=77161565573",
+      "label": "ABR: IBOSS INTERNATIONAL PTY LTD ACN 161 565 573"
     }
   ]
 }

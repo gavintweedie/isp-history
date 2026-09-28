@@ -4,7 +4,7 @@
   "birthplace": "St Kilda (Melbourne), VIC",
   "status": "inactive",
   "website": "https://lavalink.com.au",
-  "summary": "Melbourne dialup + web design + hosting ISP (IIA member); defunct.",
+  "summary": "Melbourne dialup + web design + hosting ISP (IIA member); defunct (LAVALINK INTERNET SERVICES PTY. LTD., ACN 097 439 355).",
   "names": [
     {
       "name": "Lavalink Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021203171536/http://www.cynosure.com.au/isp/lavalink",
       "label": "Lavalink (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=39097439355",
+      "label": "ABR: LAVALINK INTERNET SERVICES PTY. LTD. ACN 097 439 355"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Penrith, NSW",
   "status": "inactive",
   "website": "https://www.mac.com.au",
-  "summary": "Small dialup ISP in Penrith (NSW) run by Mountain Apple Computers (Mountain Apple Pty Ltd), alongside Apple Macintosh/PC retail and graphic prepress support; established 1993; mac.com.au live from ~1998 (Wayback); the domain was later taken up by Apple Inc.",
+  "summary": "Small dialup ISP in Penrith (NSW) run by Mountain Apple Computers (Mountain Apple Pty Ltd), alongside Apple Macintosh/PC retail and graphic prepress support; established 1993; mac.com.au live from ~1998 (Wayback); the domain was later taken up by Apple Inc (ACN 060 008 335).",
   "aliases": [
     "mac.com.au",
     "Mountain Computers",
@@ -50,6 +50,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981205053432/http://www.mac.com.au/page2.html",
       "label": "Mountain Apple Computers - Company Profile (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=41060008335",
+      "label": "ABR: MOUNTAIN APPLE PTY LTD ACN 060 008 335"
     }
   ]
 }

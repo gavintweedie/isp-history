@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://newave.net.au",
-  "summary": "Adelaide's first 56K dialup provider (unlimited + block-hour plans, principal Tim Buchalka); merged into Chariot Internet by Jan 2003.",
+  "summary": "Adelaide's first 56K dialup provider (unlimited + block-hour plans, principal Tim Buchalka); merged into Chariot Internet by Jan 2003 (ZARG FUTURES PTY LTD (FORMERLY NEWAVE INTERNET SERVICES PTY LTD), ACN 078 991 465).",
   "names": [
     {
       "name": "Newave Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19990507000000/http://www.cynosure.com.au/isp/newave",
       "label": "Newave (Cynosure 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=92078991465",
+      "label": "ABR: ZARG FUTURES PTY LTD ACN 078 991 465"
     }
   ]
 }

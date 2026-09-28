@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://lynx.net.au",
-  "summary": "Adelaide flat-fee dialup + hosting ISP (parent Net Media Solutions); defunct.",
+  "summary": "Adelaide flat-fee dialup + hosting ISP (parent Net Media Solutions); defunct (ACN 082 199 399).",
   "names": [
     {
       "name": "Lynx Internet Connections",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030106192658/http://www.cynosure.com.au/isp/lynx",
       "label": "Lynx (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=74082199399",
+      "label": "ABR: NET MEDIA SOLUTIONS PTY LTD ACN 082 199 399"
     }
   ]
 }

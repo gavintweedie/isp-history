@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "q-net.net.au",
-  "summary": "WAIA/WAIX member 2000; Perth ISP. Likely acquired into EFTel (Perth agglomeration of ISPs, 2000); identity uncertain, possibly iQnet Pty Ltd.",
+  "summary": "WAIA/WAIX member 2000; Perth ISP. Likely acquired into EFTel (Perth agglomeration of ISPs, 2000); identity uncertain, possibly iQnet Pty Ltd (Q-NET AUSTRALIA PTY LTD, ACN 072 021 553).",
   "names": [
     {
       "name": "Q-NET Australia",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001206145600/http://www.waia.asn.au/members/corporate.html",
       "label": "WAIA corporate members (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=65072021553",
+      "label": "ABR: Q-NET AUSTRALIA PTY LTD ACN 072 021 553"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Worongary (Gold Coast), QLD",
   "status": "inactive",
   "website": "https://atnet.net.au",
-  "summary": "Gold Coast dialup ISP (owners Neil & Dianne Pentland); dead.",
+  "summary": "Gold Coast dialup ISP (owners Neil & Dianne Pentland); dead (ATNET PTY LTD (NOW GOLDEN ORB TECHNOLOGIES PTY LTD), ACN 071 692 021).",
   "names": [
     {
       "name": "Atnet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030102010056/http://www.cynosure.com.au/isp/atnet",
       "label": "Atnet (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=92071692021",
+      "label": "ABR: ATNET PTY LTD ACN 071 692 021"
     }
   ]
 }

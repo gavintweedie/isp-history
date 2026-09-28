@@ -4,7 +4,7 @@
   "birthplace": "Regional Australia",
   "status": "inactive",
   "website": "https://austarnet.com.au",
-  "summary": "AUSTAR's regional dialup ISP/portal (regional access points); website folded over to the AustarMetro presence by Jan 2004, but the regional customer base persisted (ACCC records ~9,328 customers Dec 2010); fate after Austar's 2012 Foxtel merger undocumented.",
+  "summary": "AUSTAR's regional dialup ISP/portal (regional access points); website folded over to the AustarMetro presence by Jan 2004, but the regional customer base persisted (ACCC records ~9,328 customers Dec 2010); fate after Austar's 2012 Foxtel merger undocumented (AUSTAR UNITED BROADBAND PTY LTD, ACN 089 048 439).",
   "names": [
     {
       "name": "Austarnet",
@@ -50,6 +50,11 @@
       "kind": "official",
       "url": "https://www.sec.gov/Archives/edgar/data/1015611/000101490901500097/0001014909-01-500097.txt",
       "label": "United Austar Form 20-F (SEC, 2001): eisa asset acquisition, AustarMetro 'formerly EISA'"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=11089048439",
+      "label": "ABR: AUSTAR UNITED BROADBAND PTY LTD ACN 089 048 439"
     }
   ]
 }

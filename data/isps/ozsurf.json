@@ -4,7 +4,7 @@
   "birthplace": "Richmond (Melbourne), VIC",
   "status": "inactive",
   "website": "https://ozsurf.net.au",
-  "summary": "Melbourne dialup ISP + \"ODDS\" stock/futures data downloading (MetaStock, ASX/FOREX/Futures; principal Albert Dadon); gone by ~1999.",
+  "summary": "Melbourne dialup ISP + \"ODDS\" stock/futures data downloading (MetaStock, ASX/FOREX/Futures; principal Albert Dadon); gone by ~1999 (OZSURF PTY LIMITED, ACN 087 259 318).",
   "names": [
     {
       "name": "OzSurf",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19990507000000/http://www.cynosure.com.au/isp/ozsurf",
       "label": "OzSurf (Cynosure 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=51087259318",
+      "label": "ABR: OZSURF PTY LIMITED ACN 087 259 318"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Gold Coast, QLD",
   "status": "inactive",
   "website": "https://www.onthenet.com.au",
-  "summary": "Gold Coast regional telco/ISP (Network Technology (Aust) Pty Ltd; run by Melbourne-registered ONTHENET Pty Ltd); 'On the Net' trading identity; NBN/business fibre/VoIP; acquired by Vonex 2022.",
+  "summary": "Gold Coast regional telco/ISP (Network Technology (Aust) Pty Ltd; run by Melbourne-registered ONTHENET Pty Ltd); 'On the Net' trading identity; NBN/business fibre/VoIP; acquired by Vonex 2022 (ACN 096 864 836).",
   "names": [
     {
       "name": "OntheNet",
@@ -37,6 +37,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20221019074133/https://www.onthenet.com.au/25-years-of-service/",
       "label": "OntheNet 25 years (Wayback 2022)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=71096864836",
+      "label": "ABR: NETWORK TECHNOLOGY (AUST) PTY LTD ACN 096 864 836"
     }
   ]
 }

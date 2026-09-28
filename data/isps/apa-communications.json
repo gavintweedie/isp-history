@@ -4,7 +4,7 @@
   "birthplace": "Sydney CBD, NSW",
   "status": "inactive",
   "website": "https://apanet.com.au",
-  "summary": "Sydney dialup + hosting ISP (also sold ISP billing software); dead ~2000 (APA Communications Pty Ltd, per site footer).",
+  "summary": "Sydney dialup + hosting ISP (also sold ISP billing software); dead ~2000 (APA Communications Pty Ltd, per site footer) (ACN 074 970 415).",
   "names": [
     {
       "name": "APA Communications",
@@ -18,7 +18,7 @@
       "year": 1998,
       "date_disp": "11 Jan 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture 11 Jan 1998 (apanet.com.au); footer \u00a91997 APA Communications Pty Ltd.",
+      "details": "Earliest Wayback capture 11 Jan 1998 (apanet.com.au); footer ©1997 APA Communications Pty Ltd.",
       "source": [
         "https://web.archive.org/web/19980111103113/http://www.apanet.com.au/"
       ],
@@ -47,6 +47,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011223121905/http://www.cynosure.com.au/isp/apanet",
       "label": "APA (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=62074970415",
+      "label": "ABR: APA COMMUNICATIONS PTY LTD ACN 074 970 415"
     }
   ]
 }

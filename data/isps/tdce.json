@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://tdce.com.au",
-  "summary": "Brisbane dialup + semi-permanent line ISP (TereDonn Computer Engineering), started Sep 1995 by Terry & Donna Giufre-Sweetser; AusBone/AUIX member; defunct.",
+  "summary": "Brisbane dialup + semi-permanent line ISP (TereDonn Computer Engineering), started Sep 1995 by Terry & Donna Giufre-Sweetser; AusBone/AUIX member; defunct (TC & DM GIUFRE-SWEETSER PTY LTD, ACN 077 992 744).",
   "names": [
     {
       "name": "TDCE",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19990224212055/http://www.tdce.com.au/profile.htm",
       "label": "TDCE (Wayback 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=94077992744",
+      "label": "ABR: TC & DM GIUFRE-SWEETSER PTY LTD ACN 077 992 744"
     }
   ]
 }

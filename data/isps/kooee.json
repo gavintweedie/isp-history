@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://kooee.com.au",
-  "summary": "Australia's first 'free' ISP (Melbourne, launched 1998); collapsed ~1999.",
+  "summary": "Australia's first 'free' ISP (Melbourne, launched 1998); collapsed ~1999 (KOOEE COMMUNICATIONS PTY LIMITED, ACN 001 341 331).",
   "names": [
     {
       "name": "Kooee",
@@ -26,6 +26,13 @@
       "date_disp": "c. 1999",
       "precision": "approx",
       "details": "Collapsed."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=71001341331",
+      "label": "ABR: KOOEE COMMUNICATIONS PTY LIMITED ACN 001 341 331"
     }
   ]
 }

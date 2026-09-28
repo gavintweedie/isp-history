@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "mania.com.au",
-  "summary": "ISP acquired by IDEAL Internet 1998 (per owner Darren Worley).",
+  "summary": "ISP acquired by IDEAL Internet 1998 (per owner Darren Worley) (COMPUTER MANIA AUSTRALIA PTY. LTD., ACN 070 927 294).",
   "names": [
     {
       "name": "Internet Mania",
@@ -34,6 +34,11 @@
       "url": "https://web.archive.org/web/19961225003658/http://www.mania.com.au/",
       "label": "Internet Mania (Wayback 1996)",
       "year": 1996
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=56070927294",
+      "label": "ABR: COMPUTER MANIA AUSTRALIA PTY. LTD. ACN 070 927 294"
     }
   ]
 }

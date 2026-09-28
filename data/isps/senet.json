@@ -4,7 +4,7 @@
   "birthplace": "South Australia",
   "status": "inactive",
   "website": "https://senet.com.au",
-  "summary": "Early SA ISP founded 1994 by Steve Baxter from his Adelaide home; grew to >35,000 customers; acquired by OzEmail/UUNet.",
+  "summary": "Early SA ISP founded 1994 by Steve Baxter from his Adelaide home; grew to >35,000 customers; acquired by OzEmail/UUNet (SE NETWORK ACCESS PTY LTD, ACN 072 620 243).",
   "names": [
     {
       "name": "SENET",
@@ -41,6 +41,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Steve_Baxter_(entrepreneur)",
       "label": "Wikipedia: Steve Baxter — SE Net founded 1994, >35,000 customers, acquired by OzEmail/UUNet"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=86072620243",
+      "label": "ABR: SE NETWORK ACCESS PTY LTD ACN 072 620 243"
     }
   ]
 }

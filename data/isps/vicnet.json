@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "http://www.vicnet.net.au",
-  "summary": "Victorian community/education ISP run by the State Library of Victoria and RMIT (AS7637); launched May 1995 to provide free and low-cost internet access, hosting and web services to communities, public libraries and non-profits; a Victoria Internet Exchange (VIX) member; connectivity role wound down from the late 2000s. Distinct from the modern vicnet.com.au network-monitoring firm.",
+  "summary": "Victorian community/education ISP run by the State Library of Victoria and RMIT (AS7637); launched May 1995 to provide free and low-cost internet access, hosting and web services to communities, public libraries and non-profits; a Victoria Internet Exchange (VIX) member; connectivity role wound down from the late 2000s. Distinct from the modern vicnet.com.au network-monitoring firm (LIBRARY BOARD OF VICTORIA (government), ABN 73 190 237 854).",
   "aliases": [
     "Victoria's Network"
   ],
@@ -41,6 +41,11 @@
       "kind": "archive",
       "url": "https://rtsak.com/en/as-numbers/AS7637",
       "label": "AS7637 State Library of Victoria / VICNET (RTSAK)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=73190237854",
+      "label": "ABR: LIBRARY BOARD OF VICTORIA ABN 73 190 237 854"
     }
   ]
 }

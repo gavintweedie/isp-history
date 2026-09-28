@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://velocity.net.au",
-  "summary": "Canberra ISP (est. Aug 2003); acquired Goldweb Internet 2006, then merged into NetSpeed group c.2010.",
+  "summary": "Canberra ISP (est. Aug 2003); acquired Goldweb Internet 2006, then merged into NetSpeed group c.2010 (VELOCITY INTERNET PTY LIMITED (LATER WASVI PTY LIMITED), ACN 090 776 579).",
   "names": [
     {
       "name": "Velocity Internet",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2010",
       "precision": "approx",
       "details": "Merged into Velocity Internet Holdings."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=94090776579",
+      "label": "ABR: VELOCITY INTERNET PTY LIMITED ACN 090 776 579"
     }
   ]
 }

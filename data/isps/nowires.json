@@ -4,7 +4,7 @@
   "birthplace": "Tamworth, NSW",
   "status": "inactive",
   "website": "https://nowires.com.au",
-  "summary": "Tamworth wireless (802.11b) broadband + point-to-point provider (NoWires Pty Ltd, ~2003); defunct.",
+  "summary": "Tamworth wireless (802.11b) broadband + point-to-point provider (NoWires Pty Ltd, ~2003); defunct (ACN 103 320 583).",
   "names": [
     {
       "name": "NoWires",
@@ -38,6 +38,13 @@
           "label": "Wayback: first webmail-only / parked homepage"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=25103320583",
+      "label": "ABR: NOWIRES PTY. LTD. ACN 103 320 583"
     }
   ]
 }

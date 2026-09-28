@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "active",
   "website": "https://wanet.com.au",
-  "summary": "Perth ISP (WAnet); office on Beaufort Street, Mount Lawley in the early 2000s with OPAL dial-in modem pools; broadband, hosting and 'premium internet services and support'; still active.",
+  "summary": "Perth ISP (WAnet); office on Beaufort Street, Mount Lawley in the early 2000s with OPAL dial-in modem pools; broadband, hosting and 'premium internet services and support'; still active (INTERNETWA PTY LTD, ACN 090 110 222).",
   "names": [
     {
       "name": "WAnet",
@@ -31,6 +31,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20031119204305/http://www.wanet.com.au/home.shtml",
       "label": "WAnet contact details (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=21090110222",
+      "label": "ABR: INTERNETWA PTY LTD ACN 090 110 222"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "WA",
   "status": "inactive",
   "website": "ois.net.au",
-  "summary": "Early Western Australian ISP acquired by iiNet.",
+  "summary": "Early Western Australian ISP acquired by iiNet (ONLINE INFORMATION SYSTEMS PTY LTD, ACN 059 612 609).",
   "names": [
     {
       "name": "Online Information Systems",
@@ -26,6 +26,13 @@
       "date_disp": "1996",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=15059612609",
+      "label": "ABR: ONLINE INFORMATION SYSTEMS PTY LTD ACN 059 612 609"
     }
   ]
 }

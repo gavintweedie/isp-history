@@ -4,7 +4,7 @@
   "birthplace": "Australia (national)",
   "status": "inactive",
   "website": "https://bigfoot.com.au",
-  "summary": "National dialup ISP ('100% Australian owned', by 2001; bought Blast & Hotlinks ISPs; 70+ POPs); brand absorbed into Eftel (bigfoot.com.au rebranded to EFTel early 2005).",
+  "summary": "National dialup ISP ('100% Australian owned', by 2001; bought Blast & Hotlinks ISPs; 70+ POPs); brand absorbed into Eftel (bigfoot.com.au rebranded to EFTel early 2005) (AFFINITY SUBSCRIBER PTY LTD (FORMERLY BIGFOOT INTERNET PTY LTD), ACN 091 319 167).",
   "names": [
     {
       "name": "Bigfoot Internet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20040209165841/http://www.bigfoot.com.au/",
       "label": "Bigfoot Internet — '100% Australian owned' (Wayback 9 Feb 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=87091319167",
+      "label": "ABR: AFFINITY SUBSCRIBER PTY LTD ACN 091 319 167"
     }
   ]
 }

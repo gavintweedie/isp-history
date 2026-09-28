@@ -4,7 +4,7 @@
   "birthplace": "Penrith/Sydney, NSW",
   "status": "inactive",
   "website": "https://healey.com.au",
-  "summary": "Sydney ISP (division of Healey Corporation); founded by Antony Healey (deceased); Campbelltown customers transferred to IDEAL Internet ~2002.",
+  "summary": "Sydney ISP (division of Healey Corporation); founded by Antony Healey (deceased); Campbelltown customers transferred to IDEAL Internet ~2002 (ACN 086 934 367).",
   "names": [
     {
       "name": "Healey Communications",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961230192915/http://healey.com.au/",
       "label": "Healey Communications (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=16086934367",
+      "label": "ABR: HEALEY CORPORATION PTY. LTD. ACN 086 934 367"
     }
   ]
 }

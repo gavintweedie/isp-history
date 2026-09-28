@@ -4,7 +4,7 @@
   "birthplace": "Cairns, QLD",
   "status": "inactive",
   "website": "https://cairns.net.au",
-  "summary": "Cairns/Far North QLD dialup + ISDN ISP (CairnsNet Pty Ltd), first flat-rate provider in Cairns; ISP side sold to GetOnIt ~Dec 2005 (Cairns Net Services/AussieWide); later web-hosting/domain arm moved customers to Planet Ozi ~Sep 2017.",
+  "summary": "Cairns/Far North QLD dialup + ISDN ISP (CairnsNet Pty Ltd), first flat-rate provider in Cairns; ISP side sold to GetOnIt ~Dec 2005 (Cairns Net Services/AussieWide); later web-hosting/domain arm moved customers to Planet Ozi ~Sep 2017 (ACN 079 158 517).",
   "names": [
     {
       "name": "Cairns Network Services",
@@ -37,6 +37,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970423144514/http://www.cairns.net.au/",
       "label": "CairnsNet (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53079158517",
+      "label": "ABR: CAIRNSNET PTY LTD ACN 079 158 517"
     }
   ]
 }

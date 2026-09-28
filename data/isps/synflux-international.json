@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://synflux.com.au",
-  "summary": "ISP access + web hosting + network/security consulting (from late Dec 1995); fate unknown.",
+  "summary": "ISP access + web hosting + network/security consulting (from late Dec 1995); fate unknown (SYNFLUX INTERNATIONAL PTY. LIMITED, ACN 075 328 273).",
   "names": [
     {
       "name": "Synflux International",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2002",
       "precision": "approx",
       "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=26075328273",
+      "label": "ABR: SYNFLUX INTERNATIONAL PTY. LIMITED ACN 075 328 273"
     }
   ]
 }

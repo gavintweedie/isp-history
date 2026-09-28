@@ -4,7 +4,7 @@
   "birthplace": "Golden Grove (Adelaide), SA",
   "status": "inactive",
   "website": "https://konectanet.com.au",
-  "summary": "Adelaide dialup + hosting + web design ISP (Golden Grove Village); defunct.",
+  "summary": "Adelaide dialup + hosting + web design ISP (Golden Grove Village); defunct (KONECTANET PTY LTD, ACN 082 461 130).",
   "names": [
     {
       "name": "KonectaNet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030106194244/http://www.cynosure.com.au/isp/konectanet",
       "label": "KonectaNet (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=42082461130",
+      "label": "ABR: KONECTANET PTY LTD ACN 082 461 130"
     }
   ]
 }

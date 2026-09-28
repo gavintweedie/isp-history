@@ -4,7 +4,7 @@
   "birthplace": "Perth (Bentley), WA",
   "status": "inactive",
   "website": "https://cantech.net.au",
-  "summary": "Perth ISP associated with Canning College; closed 31 Dec 2003.",
+  "summary": "Perth ISP associated with Canning College; closed 31 Dec 2003 (ABN 37 181 327 897).",
   "names": [
     {
       "name": "CanTech Online",
@@ -45,6 +45,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980206121244/http://www.cantech.net.au/",
       "label": "CanTech Online (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=37181327897",
+      "label": "ABR: CANNING COLLEGE ABN 37 181 327 897"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "slug": "tenex",
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
-  "summary": "Melbourne business telco (Tenex Communications); customers and business assets acquired by M2 Telecommunications in Jun 2007.",
+  "summary": "Melbourne business telco (Tenex Communications); customers and business assets acquired by M2 Telecommunications in Jun 2007 (ACN 080 933 811).",
   "names": [
     {
       "name": "Tenex Communications",
@@ -39,6 +39,13 @@
           "label": "LightReading Feb-2008: integration of Tenex assets"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=17080933811",
+      "label": "ABR: TENEX PTY LTD ACN 080 933 811"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "http://www.ispau.net",
-  "summary": "Melbourne ISP operator trading as ispau.net (AS4752); an AusBone Melbourne (MEL-BONE) exchange participant; referred to as the parent of budget brand BlazeNet, which folded into Hotkey Internet Services.",
+  "summary": "Melbourne ISP operator trading as ispau.net (AS4752); an AusBone Melbourne (MEL-BONE) exchange participant; referred to as the parent of budget brand BlazeNet, which folded into Hotkey Internet Services (ACN 005 482 904).",
   "aliases": [
     "Internet Service Providers Ltd",
     "ispau.net"
@@ -46,6 +46,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010214080158/http://www.ausbone.net/melbourne.htm",
       "label": "AusBone Melbourne (MEL-BONE) participants (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=59005482904",
+      "label": "ABR: ISP LIMITED (RENAMED SYNERGY METALS PTY LIMITED IN 2013) ACN 005 482 904"
     }
   ]
 }

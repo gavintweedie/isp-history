@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://ussr.net",
-  "summary": "Perth ISP (brand lineage: USSR.net since 1995 -> Digital Media Corp -> Omon New Media -> Omon Group); folded into Indigo Networks c.2001.",
+  "summary": "Perth ISP (brand lineage: USSR.net since 1995 -> Digital Media Corp -> Omon New Media -> Omon Group); folded into Indigo Networks c.2001 (DIGITAL MEDIA CORPORATION PTY LTD (T/A THE OMON GROUP), ACN 082 140 065).",
   "names": [
     {
       "name": "Omon",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010201052700/http://www.omon.net.au/",
       "label": "Omon Net (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=62082140065",
+      "label": "ABR: DIGITAL MEDIA CORPORATION PTY LTD (T/A THE OMON GROUP) ACN 082 140 065"
     }
   ]
 }

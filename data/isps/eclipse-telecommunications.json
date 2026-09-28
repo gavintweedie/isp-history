@@ -3,7 +3,7 @@
   "slug": "eclipse-telecommunications",
   "birthplace": "Sydney, NSW",
   "status": "inactive",
-  "summary": "Sydney data communications / frame-relay provider (from 1996, ~100 business customers); acquired by Primus Telecommunications Group in Apr 1998 (~$2.5m).",
+  "summary": "Sydney data communications / frame-relay provider (from 1996, ~100 business customers); acquired by Primus Telecommunications Group in Apr 1998 (~$2.5m) (ECLIPSE TELECOMMUNICATIONS PTY. LTD., ACN 069 554 383).",
   "names": [
     {
       "name": "Eclipse Telecommunications",
@@ -39,6 +39,13 @@
           "label": "AFR 6-Apr-1998: Primus finalises Eclipse takeover"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=61069554383",
+      "label": "ABR: ECLIPSE TELECOMMUNICATIONS PTY. LTD. ACN 069 554 383"
     }
   ]
 }

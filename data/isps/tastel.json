@@ -4,7 +4,7 @@
   "birthplace": "Hobart, TAS",
   "status": "inactive",
   "website": "https://tastel.com.au",
-  "summary": "Tasmanian telco JV of Aurora Energy, Hydro Tasmania and AAPT; ran Tasmania's BPL (broadband over power line) trial; relaunched 2008 as Tastel Community Telco.",
+  "summary": "Tasmanian telco JV of Aurora Energy, Hydro Tasmania and AAPT; ran Tasmania's BPL (broadband over power line) trial; relaunched 2008 as Tastel Community Telco (ACN 095 965 021).",
   "names": [
     {
       "name": "TasTel",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20051026172305/https://www.tastel.com.au/bpl/",
       "label": "TasTel BPL (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=21095965021",
+      "label": "ABR: TASTEL COMMUNITY TELCO PTY LTD ACN 095 965 021"
     }
   ]
 }

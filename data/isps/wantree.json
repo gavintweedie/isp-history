@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "wantree.com.au",
-  "summary": "Perth-area ISP, post-IPO iiNet acquisition.",
+  "summary": "Perth-area ISP, post-IPO iiNet acquisition (WANTREE DEVELOPMENT PTY LTD, ACN 066 482 406).",
   "names": [
     {
       "name": "Wantree",
@@ -26,6 +26,13 @@
       "date_disp": "Dec 1999",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=59066482406",
+      "label": "ABR: WANTREE DEVELOPMENT PTY LTD ACN 066 482 406"
     }
   ]
 }

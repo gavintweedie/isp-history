@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://nextep.com.au",
-  "summary": "Business broadband provider backed by NEC Australia; sold ADSL/SDSL/secure networking via channel/agent model (incl. Swift Internet as an agent).",
+  "summary": "Business broadband provider backed by NEC Australia; sold ADSL/SDSL/secure networking via channel/agent model (incl. Swift Internet as an agent) (ABN 44 138 187 739).",
   "names": [
     {
       "name": "NEXTEP Broadband",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20050615035750/http://nextep.com.au/",
       "label": "NEXTEP (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=44138187739",
+      "label": "ABR: NEC AUSTRALIA PTY LTD & XDSL LIMITED ABN 44 138 187 739"
     }
   ]
 }

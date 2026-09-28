@@ -4,7 +4,7 @@
   "birthplace": "Parramatta (Sydney), NSW",
   "status": "inactive",
   "website": "https://free.net.au",
-  "summary": "Sydney free ad-funded unlimited dialup; became paid ISP PremiumNet by 2004, gone by 2006.",
+  "summary": "Sydney free ad-funded unlimited dialup; became paid ISP PremiumNet by 2004, gone by 2006 (ESTHER RUTH WILKINSON (TRADING AS PREMIUMNET INTERNET SERVICES) (sole trader), ABN 82 439 200 203).",
   "names": [
     {
       "name": "Free Net",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2004/http://www.free.net.au/",
       "label": "Free Net (Wayback 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=82439200203",
+      "label": "ABR: ESTHER RUTH WILKINSON (TRADING AS PREMIUMNET INTERNET SERVICES) ABN 82 439 200 203"
     }
   ]
 }

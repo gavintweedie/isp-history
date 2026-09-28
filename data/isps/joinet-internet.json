@@ -4,7 +4,7 @@
   "birthplace": "Innaloo (Perth), WA",
   "status": "inactive",
   "website": "https://joinet.net.au",
-  "summary": "Perth dialup ISP (Joinet Internet); dead ~2005-06.",
+  "summary": "Perth dialup ISP (Joinet Internet); dead ~2005-06 (SINGARA INVESTMENTS PTY LTD, ACN 061 094 880).",
   "names": [
     {
       "name": "Joinet Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20051210134735/http://www.joinet.net.au/",
       "label": "Joinet (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=11061094880",
+      "label": "ABR: SINGARA INVESTMENTS PTY LTD ACN 061 094 880"
     }
   ]
 }

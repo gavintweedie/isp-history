@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://safetyweb.com.au",
-  "summary": "Canberra business-only corporate ISP (web dev, DB/CGI, hosting, 24hr phone support); gone by ~2000.",
+  "summary": "Canberra business-only corporate ISP (web dev, DB/CGI, hosting, 24hr phone support); gone by ~2000 (SAFETYWEB INTERNET SOLUTIONS PTY LIMITED, ACN 091 483 153).",
   "names": [
     {
       "name": "SafetyWeb",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001207000000/http://www.cynosure.com.au/isp/safetyweb",
       "label": "SafetyWeb (Cynosure 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=83091483153",
+      "label": "ABR: SAFETYWEB INTERNET SOLUTIONS PTY LIMITED ACN 091 483 153"
     }
   ]
 }

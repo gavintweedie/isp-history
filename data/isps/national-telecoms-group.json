@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://ntg.com.au",
-  "summary": "SME telecom (National Telecoms Group Limited, ASX-listed NTG, IPO Dec 2000; PABX, voice/data, LCR, unified billing, internet, VPNs); bought PSINet Australia assets <$1M (2002); delisted 3 Mar 2006 after compulsory acquisition by Anthony Hakim.",
+  "summary": "SME telecom (National Telecoms Group Limited, ASX-listed NTG, IPO Dec 2000; PABX, voice/data, LCR, unified billing, internet, VPNs); bought PSINet Australia assets <$1M (2002); delisted 3 Mar 2006 after compulsory acquisition by Anthony Hakim (ACN 094 312 704).",
   "names": [
     {
       "name": "National Telecoms Group",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://www.delisted.com.au/company/national-telecoms-group",
       "label": "Delisted: National Telecoms Group"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=48094312704",
+      "label": "ABR: NATIONAL TELECOMS GROUP LIMITED ACN 094 312 704"
     }
   ]
 }

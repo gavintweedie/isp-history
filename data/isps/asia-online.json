@@ -4,7 +4,7 @@
   "birthplace": "Hong Kong / Sydney, NSW",
   "status": "inactive",
   "website": "https://asiaonline.net",
-  "summary": "Pan-Asia-Pacific ISP (Softbank-led from 1999); acquired Access Australia, InterACT, Internet Company NZ (Oct 1999), then Spirit Internet, Brisbane Internet Technology, Dove, Message Exchange; Australian ops in Sydney/Adelaide/Melbourne; went bust late 2001, subscriber base to OzEmail.",
+  "summary": "Pan-Asia-Pacific ISP (Softbank-led from 1999); acquired Access Australia, InterACT, Internet Company NZ (Oct 1999), then Spirit Internet, Brisbane Internet Technology, Dove, Message Exchange; Australian ops in Sydney/Adelaide/Melbourne; went bust late 2001, subscriber base to OzEmail (ASIA ONLINE-AUSTRALIA PTY LTD, ACN 089 444 691).",
   "names": [
     {
       "name": "Asia Online",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961029091429/http://www.asiaonline.net/",
       "label": "Asia On-Line (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=47089444691",
+      "label": "ABR: ASIA ONLINE-AUSTRALIA PTY LTD ACN 089 444 691"
     }
   ]
 }

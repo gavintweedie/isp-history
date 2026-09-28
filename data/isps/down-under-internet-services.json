@@ -4,7 +4,7 @@
   "birthplace": "Stuart Park (Darwin), NT",
   "status": "inactive",
   "website": "https://downunder.net.au",
-  "summary": "Darwin national dialup (71 POPs) + hosting + internet cafe; defunct ~2003-04.",
+  "summary": "Darwin national dialup (71 POPs) + hosting + internet cafe; defunct ~2003-04 (ANEXCOM PTY. LIMITED, ACN 093 856 172).",
   "names": [
     {
       "name": "Down Under Internet Services",
@@ -18,12 +18,12 @@
       "year": 1996,
       "date_disp": "1996",
       "precision": "approx",
-      "details": "Footer Copyright \u00a9 Dayworld and Down Under Internet Services 1996-1997; later contact page \u00a9 1995-2001. Darwin NT ISP operated with Dayworld.",
+      "details": "Footer Copyright © Dayworld and Down Under Internet Services 1996-1997; later contact page © 1995-2001. Darwin NT ISP operated with Dayworld.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19981206065603/http://www.downunder.net.au/access.html",
-          "label": "Down Under Internet Services \u2014 \u00a9 1996-97"
+          "label": "Down Under Internet Services — © 1996-97"
         }
       ]
     },
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981202105341/http://www.downunder.net.au/",
       "label": "Down Under (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=12093856172",
+      "label": "ABR: ANEXCOM PTY. LIMITED ACN 093 856 172"
     }
   ]
 }

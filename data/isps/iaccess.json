@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://iaccess.com.au",
-  "summary": "Sydney dialup + web hosting ISP (iaccess.com.au, live by 1997); defunct.",
+  "summary": "Sydney dialup + web hosting ISP (iaccess.com.au, live by 1997); defunct (INTERNET ACCESS AUSTRALIA PTY LTD, ACN 064 758 747).",
   "names": [
     {
       "name": "iaccess",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2001",
       "precision": "approx",
       "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=47064758747",
+      "label": "ABR: INTERNET ACCESS AUSTRALIA PTY LTD ACN 064 758 747"
     }
   ]
 }

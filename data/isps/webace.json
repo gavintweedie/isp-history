@@ -4,7 +4,7 @@
   "birthplace": "Perth (Willetton), WA",
   "status": "inactive",
   "website": "http://www.webace.com.au",
-  "summary": "Perth metro dial-up, ADSL, VOIP and web hosting ISP (PO Box 136, Willetton WA 6155); active from at least 2000 through 2013.",
+  "summary": "Perth metro dial-up, ADSL, VOIP and web hosting ISP (PO Box 136, Willetton WA 6155); active from at least 2000 through 2013 (MCKAY, JASON (sole trader), ABN 29 915 448 876).",
   "names": [
     {
       "name": "Web Ace",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20130522161148/http://webace.com.au/",
       "label": "Web Ace (Wayback May 2013)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=29915448876",
+      "label": "ABR: MCKAY, JASON ABN 29 915 448 876"
     }
   ]
 }

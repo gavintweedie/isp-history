@@ -4,7 +4,7 @@
   "birthplace": "Auckland, NZ",
   "status": "inactive",
   "website": "telecom.co.nz",
-  "summary": "New Zealand incumbent telco; owned AAPT from 2000; later Spark NZ.",
+  "summary": "New Zealand incumbent telco; owned AAPT from 2000; later Spark NZ (TELECOM NEW ZEALAND AUSTRALIA PTY LTD, ACN 050 060 341).",
   "names": [
     {
       "name": "Telecom New Zealand",
@@ -26,6 +26,13 @@
       "date_disp": "2000",
       "precision": "exact",
       "details": "Acquired AAPT; renamed Spark New Zealand in 2014."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=54050060341",
+      "label": "ABR: TELECOM NEW ZEALAND AUSTRALIA PTY LTD ACN 050 060 341"
     }
   ]
 }

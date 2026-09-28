@@ -4,7 +4,7 @@
   "birthplace": "Rural Victoria",
   "status": "inactive",
   "website": "https://ruralnet.com.au",
-  "summary": "Rural Victorian ISP, brand of Local Telecom and Internet Ltd (with Tassienet); acquired by iiNet ~Jan 2003.",
+  "summary": "Rural Victorian ISP, brand of Local Telecom and Internet Ltd (with Tassienet); acquired by iiNet ~Jan 2003 (RURALNET.NET.AU PTY LTD (FORMERLY LOCAL TELECOM AND INTERNET PTY LTD), ACN 087 334 932).",
   "names": [
     {
       "name": "RuralNet",
@@ -26,6 +26,13 @@
       "date_disp": "2003",
       "precision": "exact",
       "details": "Acquired by iiNet (with Tassienet, $2.25M for 15,000 customers)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=30087334932",
+      "label": "ABR: RURALNET.NET.AU PTY LTD ACN 087 334 932"
     }
   ]
 }

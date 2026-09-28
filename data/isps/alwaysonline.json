@@ -4,7 +4,7 @@
   "birthplace": "Glebe (Sydney), NSW",
   "status": "inactive",
   "website": "https://alwaysonline.net.au",
-  "summary": "Sydney business-grade dialup ISP on First Link network; dead c.2012.",
+  "summary": "Sydney business-grade dialup ISP on First Link network; dead c.2012 (ALWAYSONLINE PTY. LTD., ACN 093 918 015).",
   "names": [
     {
       "name": "AlwaysONLINE",
@@ -44,6 +44,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20020212184804/http://www.cynosure.com.au/isp/alwaysonline",
       "label": "AlwaysONLINE (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=81093918015",
+      "label": "ABR: ALWAYSONLINE PTY. LTD. ACN 093 918 015"
     }
   ]
 }

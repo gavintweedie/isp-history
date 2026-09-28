@@ -4,7 +4,7 @@
   "birthplace": "Fremantle, WA",
   "status": "inactive",
   "website": "https://westlink.net.au",
-  "summary": "Fremantle boutique dialup/ADSL ISP + domains/hosting (1999); rebranded Concept Networks (Concept Group).",
+  "summary": "Fremantle boutique dialup/ADSL ISP + domains/hosting (1999); rebranded Concept Networks (Concept Group) (CONCEPTUAL INTERNET AUSTRALIA PTY LTD, ACN 087 624 619).",
   "names": [
     {
       "name": "Westlink",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2003",
       "precision": "approx",
       "details": "Rebranded Concept Networks."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=49087624619",
+      "label": "ABR: CONCEPTUAL INTERNET AUSTRALIA PTY LTD ACN 087 624 619"
     }
   ]
 }

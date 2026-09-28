@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.terminus.net.au",
-  "summary": "Small Perth ISP and open-source IT firm founded and run by Jeremy Malcolm (manager/MD 1998-2005); internet connectivity, web design, consultancy, training and networking solutions based on Debian/open-source software; ~3 staff; defunct by mid-2000s.",
+  "summary": "Small Perth ISP and open-source IT firm founded and run by Jeremy Malcolm (manager/MD 1998-2005); internet connectivity, web design, consultancy, training and networking solutions based on Debian/open-source software; ~3 staff; defunct by mid-2000s (LINUX CONSULTANTS PTY LTD, ACN 083 643 556).",
   "names": [
     {
       "name": "Terminus Network Services",
@@ -38,6 +38,11 @@
       "kind": "official",
       "url": "https://www.icann.org/sites/default/files/packages/applications-16nov15/malcolm-cv-16nov15-en.pdf",
       "label": "Jeremy Malcolm CV (1998-2005 Managing Director)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=72083643556",
+      "label": "ABR: LINUX CONSULTANTS PTY LTD ACN 083 643 556"
     }
   ]
 }

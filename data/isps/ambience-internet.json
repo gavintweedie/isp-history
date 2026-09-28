@@ -4,7 +4,7 @@
   "birthplace": "Ormeau (Brisbane), QLD",
   "status": "inactive",
   "website": "https://ambience.com.au",
-  "summary": "Queensland dialup + hosting ISP (Brisbane/Cairns/Townsville + Sydney); gone c.2001, domain reused by Asgard Web Technologies web host then Ambience Store.",
+  "summary": "Queensland dialup + hosting ISP (Brisbane/Cairns/Townsville + Sydney); gone c.2001, domain reused by Asgard Web Technologies web host then Ambience Store (AMBIENCE INTERNATIONAL PTY. LTD., ACN 090 134 106).",
   "names": [
     {
       "name": "Ambience Internet",
@@ -45,6 +45,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20020207063555/http://www.cynosure.com.au/isp/ambience",
       "label": "Ambience (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=98090134106",
+      "label": "ABR: AMBIENCE INTERNATIONAL PTY. LTD. ACN 090 134 106"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Eagle Farm (Brisbane), QLD",
   "status": "inactive",
   "website": "https://ezweb.com.au",
-  "summary": "Brisbane unlimited dialup (national, 38 POPs); absorbed into EFTel by 2006.",
+  "summary": "Brisbane unlimited dialup (national, 38 POPs); absorbed into EFTel by 2006 (E Z WEB PTY LTD, ACN 074 220 974).",
   "names": [
     {
       "name": "EZWeb",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2006/http://www.ezweb.com.au/",
       "label": "EZWeb (Wayback 2006)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=22074220974",
+      "label": "ABR: E Z WEB PTY LTD ACN 074 220 974"
     }
   ]
 }

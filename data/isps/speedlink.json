@@ -4,7 +4,7 @@
   "birthplace": "Wollongong, NSW",
   "status": "inactive",
   "website": "https://www.speedlink.com.au",
-  "summary": "Wollongong dialup ISP ('56k digital access and Fiber Optic links to the Internet'); access plans, hosting/domains, modem sales and Half-Life game servers; defunct.",
+  "summary": "Wollongong dialup ISP ('56k digital access and Fiber Optic links to the Internet'); access plans, hosting/domains, modem sales and Half-Life game servers; defunct (SPEEDLINK COMMUNICATIONS PTY LIMITED, ACN 082 214 882).",
   "names": [
     {
       "name": "Speedlink",
@@ -50,6 +50,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19990428155403/http://www.speedlink.com.au/",
       "label": "Speedlink (Wayback Apr 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=26082214882",
+      "label": "ABR: SPEEDLINK COMMUNICATIONS PTY LIMITED ACN 082 214 882"
     }
   ]
 }

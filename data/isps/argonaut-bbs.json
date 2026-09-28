@@ -4,7 +4,7 @@
   "birthplace": "Willetton (Perth), WA",
   "status": "inactive",
   "website": "https://argo.net.au",
-  "summary": "Perth BBS + dialup + IRC + hosting (argo.net.au, 1996; 'argoDSL'); defunct.",
+  "summary": "Perth BBS + dialup + IRC + hosting (argo.net.au, 1996; 'argoDSL'); defunct (MCKAY, KENNETH (sole trader), ABN 27 302 904 533).",
   "names": [
     {
       "name": "Argonaut BBS",
@@ -38,6 +38,13 @@
           "label": "Wayback: first webmail-only / parked homepage"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=27302904533",
+      "label": "ABR: MCKAY, KENNETH ABN 27 302 904 533"
     }
   ]
 }

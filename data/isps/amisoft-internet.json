@@ -4,7 +4,7 @@
   "birthplace": "Kalamunda (Perth), WA",
   "status": "inactive",
   "website": "https://ami.com.au",
-  "summary": "Perth OS/2-based dialup + hosting ISP; dead by ~2005.",
+  "summary": "Perth OS/2-based dialup + hosting ISP; dead by ~2005 (WHEAT, COLIN CHARLES (sole trader), ABN 89 949 171 379).",
   "names": [
     {
       "name": "Amisoft Internet",
@@ -43,6 +43,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20050118000000/http://www.ami.com.au/",
       "label": "Amisoft (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=89949171379",
+      "label": "ABR: WHEAT, COLIN CHARLES ABN 89 949 171 379"
     }
   ]
 }

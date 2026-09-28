@@ -4,7 +4,7 @@
   "birthplace": "Newcastle, NSW",
   "status": "inactive",
   "website": "https://cnn.net.au",
-  "summary": "Newcastle/Hunter regional ISP, internet arm of Techcel Computer Services; acquired by Chariot 2004.",
+  "summary": "Newcastle/Hunter regional ISP, internet arm of Techcel Computer Services; acquired by Chariot 2004 (A.C.N. 003 118 349 PTY LTD, ACN 003 118 349).",
   "names": [
     {
       "name": "C&N Newcastle (CNN Internet)",
@@ -36,6 +36,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010215161955/http://www.cnn.net.au/about.html",
       "label": "CNN Internet about (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=26003118349",
+      "label": "ABR: A.C.N. 003 118 349 PTY LTD ACN 003 118 349"
     }
   ]
 }

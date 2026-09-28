@@ -4,7 +4,7 @@
   "birthplace": "Mona Vale (Northern Beaches), Sydney, NSW",
   "status": "inactive",
   "website": "https://www.netline.net.au",
-  "summary": "Sydney Northern Beaches dialup ISP (Netline Internet Services Pty Ltd, PO Box 615 Mona Vale): PPP/SLIP/shell access at 14k4-33k6 from a Terrey Hills POP; ph (02) 9999 2558.",
+  "summary": "Sydney Northern Beaches dialup ISP (Netline Internet Services Pty Ltd, PO Box 615 Mona Vale): PPP/SLIP/shell access at 14k4-33k6 from a Terrey Hills POP; ph (02) 9999 2558 (ACN 097 780 615).",
   "names": [
     {
       "name": "Netline Internet Services",
@@ -48,6 +48,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961224130703/http://www.netline.net.au/",
       "label": "Netline (Wayback Dec 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=97097780615",
+      "label": "ABR: NETLINE INTERNET SERVICES PTY. LIMITED ACN 097 780 615"
     }
   ]
 }

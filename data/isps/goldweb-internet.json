@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://goldweb.com.au",
-  "summary": "Canberra ISP (dial-up, ADSL, TransACT broadband, iBurst wireless, web hosting and domain registration); acquired by Velocity Internet in 2006, brand retired.",
+  "summary": "Canberra ISP (dial-up, ADSL, TransACT broadband, iBurst wireless, web hosting and domain registration); acquired by Velocity Internet in 2006, brand retired (GOLDWEB COMMUNICATIONS PTY LTD, ACN 101 369 706).",
   "names": [
     {
       "name": "Goldweb Internet",
@@ -25,12 +25,12 @@
       "year": 2006,
       "date_disp": "Apr 2006",
       "precision": "exact",
-      "details": "Acquired by Velocity Internet. Goldweb's own site carried a media release 'Velocity Acquires Goldweb' dated 10 Apr 2006 (news item posted 10 Jun 2006); by Dec 2007 goldweb.com.au was fully rebranded as Velocity's portal ('\u00a9 2003-08 Velocity Internet Pty Ltd'). Brand retired. [Prior record said 'defunct c.2012, domain reused' \u2014 that was Velocity's continuing use of the domain after the 2006 acquisition.]",
+      "details": "Acquired by Velocity Internet. Goldweb's own site carried a media release 'Velocity Acquires Goldweb' dated 10 Apr 2006 (news item posted 10 Jun 2006); by Dec 2007 goldweb.com.au was fully rebranded as Velocity's portal ('© 2003-08 Velocity Internet Pty Ltd'). Brand retired. [Prior record said 'defunct c.2012, domain reused' — that was Velocity's continuing use of the domain after the 2006 acquisition.]",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20060926120206/http://www.goldweb.com.au/news.php",
-          "label": "Wayback Sep 2006: Goldweb news page \u2014 media release 'Velocity Acquires Goldweb' (10 Apr 2006)"
+          "label": "Wayback Sep 2006: Goldweb news page — media release 'Velocity Acquires Goldweb' (10 Apr 2006)"
         },
         {
           "kind": "archive",
@@ -40,7 +40,7 @@
         {
           "kind": "forum",
           "url": "https://forums.whirlpool.net.au/archive/2073114",
-          "label": "Whirlpool: RIP the Australian midsize ISP \u2014 'Goldweb (Acquired by Velocity Internet)'"
+          "label": "Whirlpool: RIP the Australian midsize ISP — 'Goldweb (Acquired by Velocity Internet)'"
         }
       ]
     }
@@ -50,6 +50,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980127101903/http://www.goldweb.com.au/",
       "label": "Goldweb (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=16101369706",
+      "label": "ABR: GOLDWEB COMMUNICATIONS PTY LTD ACN 101 369 706"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Mildura/Ballarat/Geelong, VIC",
   "status": "inactive",
   "website": "neighbourhoodcable.com.au",
-  "summary": "Regional Victorian HFC cable provider (Mildura, Ballarat, Geelong); acquired by TransACT 2007, brand dropped 2011.",
+  "summary": "Regional Victorian HFC cable provider (Mildura, Ballarat, Geelong); acquired by TransACT 2007, brand dropped 2011 (NEIGHBOURHOOD CABLE LIMITED (NOW TRANSACT VICTORIA HOLDINGS PTY LTD), ACN 000 042 295).",
   "names": [
     {
       "name": "Neighbourhood Cable",
@@ -33,6 +33,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Neighbourhood_Cable",
       "label": "Wikipedia: Neighbourhood Cable"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=18000042295",
+      "label": "ABR: NEIGHBOURHOOD CABLE LIMITED ACN 000 042 295"
     }
   ]
 }

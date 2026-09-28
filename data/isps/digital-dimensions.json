@@ -4,7 +4,7 @@
   "birthplace": "Townsville/Cairns, QLD",
   "status": "inactive",
   "website": "https://digitaldimensions.com.au",
-  "summary": "North QLD web production business (underwater video) that also offered web services; not clearly an access ISP.",
+  "summary": "North QLD web production business (underwater video) that also offered web services; not clearly an access ISP (ERIC B SHORTHOUSE & RICHARD J FITZPATRICK (PARTNERSHIP) TRADING AS DIGITAL DIMENSIONS (partnership), ABN 16 778 412 149).",
   "names": [
     {
       "name": "Digital Dimensions",
@@ -42,6 +42,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000818080613/http://www.digitaldimensions.com.au/",
       "label": "Digital Dimensions (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=16778412149",
+      "label": "ABR: ERIC B SHORTHOUSE & RICHARD J FITZPATRICK (PARTNERSHIP) TRADING AS DIGITAL DIMENSIONS ABN 16 778 412 149"
     }
   ]
 }

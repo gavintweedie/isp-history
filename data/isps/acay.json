@@ -4,7 +4,7 @@
   "birthplace": "Chatswood (Sydney), NSW",
   "status": "inactive",
   "website": "https://acay.com.au",
-  "summary": "Sydney dialup ISP (since 1994); brand absorbed into VentraIP by 2012.",
+  "summary": "Sydney dialup ISP (since 1994); brand absorbed into VentraIP by 2012 (NEXTGEN INTERNATIONAL PTY LIMITED, ACN 061 471 707).",
   "names": [
     {
       "name": "ACAY",
@@ -42,6 +42,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20131203111809/http://www.acay.com.au/",
       "label": "ACAY (Wayback 2013)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=54061471707",
+      "label": "ABR: NEXTGEN INTERNATIONAL PTY LIMITED ACN 061 471 707"
     }
   ]
 }

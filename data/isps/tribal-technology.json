@@ -4,7 +4,7 @@
   "birthplace": "Mount Lawley (Perth), WA",
   "status": "active",
   "website": "http://www.tribal.net.au",
-  "summary": "Perth ISP and IT provider (dialup, ADSL, web design, hosting) since ~2000; later rebranded 'Tribal Networks'; still active.",
+  "summary": "Perth ISP and IT provider (dialup, ADSL, web design, hosting) since ~2000; later rebranded 'Tribal Networks'; still active (THE GARCIA FAMILY TRUST & THE G R PARISE FAMILY TRUST (partnership), ABN 53 497 178 236).",
   "aliases": [
     "Tribal Networks"
   ],
@@ -34,6 +34,11 @@
       "kind": "official",
       "url": "http://www.tribal.net.au",
       "label": "Tribal Technology"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53497178236",
+      "label": "ABR: THE GARCIA FAMILY TRUST & THE G R PARISE FAMILY TRUST ABN 53 497 178 236"
     }
   ]
 }

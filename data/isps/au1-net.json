@@ -4,7 +4,7 @@
   "birthplace": "Australia (national)",
   "status": "inactive",
   "website": "https://au1.net",
-  "summary": "Nationwide 56k ISP + hosting (au1.net, ~1998-2000); defunct.",
+  "summary": "Nationwide 56k ISP + hosting (au1.net, ~1998-2000); defunct (ACN 092 981 363).",
   "names": [
     {
       "name": "Au1.Net",
@@ -39,6 +39,13 @@
       "source": [
         "https://web.archive.org/web/20120222010051/http://www.au1.net/"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=99092981363",
+      "label": "ABR: AU1.NET PTY LTD ACN 092 981 363"
     }
   ]
 }

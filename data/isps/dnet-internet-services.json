@@ -4,7 +4,7 @@
   "birthplace": "Wollongong, NSW",
   "status": "inactive",
   "website": "https://dnet.com.au",
-  "summary": "Wollongong national dialup ISP (38 POPs) + web design (Dynasty Networks); defunct ~2001.",
+  "summary": "Wollongong national dialup ISP (38 POPs) + web design (Dynasty Networks); defunct ~2001 (ACN 070 371 514).",
   "names": [
     {
       "name": "DNet Internet Services",
@@ -39,6 +39,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000519224836/http://www.dnet.com.au/home.htm",
       "label": "DNet (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=46070371514",
+      "label": "ABR: DYNASTY NETWORKS PTY LTD ACN 070 371 514"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Lithgow, NSW",
   "status": "inactive",
   "website": "https://lisp.com.au",
-  "summary": "Regional NSW ISP (LiSP Pty Ltd, 'Local Internet Service Provider, Penrith and Blue Mountains to Bourke'; ©1995-2007); dialup, ADSL, wireless (Lithgow), IPSTAR satellite; split ~2008 with wireless arm to Cirrus Communications and satellite to GoBush; satellite service cut off by IPSTAR ~Oct 2008.",
+  "summary": "Regional NSW ISP (LiSP Pty Ltd, 'Local Internet Service Provider, Penrith and Blue Mountains to Bourke'; ©1995-2007); dialup, ADSL, wireless (Lithgow), IPSTAR satellite; split ~2008 with wireless arm to Cirrus Communications and satellite to GoBush; satellite service cut off by IPSTAR ~Oct 2008 (L.I.S.P. PTY. LIMITED, ACN 071 617 966).",
   "names": [
     {
       "name": "LiSP",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20080915170125/http://www.lisp.com.au/",
       "label": "LiSP (Wayback 2008)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=84071617966",
+      "label": "ABR: L.I.S.P. PTY. LIMITED ACN 071 617 966"
     }
   ]
 }

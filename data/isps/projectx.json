@@ -4,7 +4,7 @@
   "birthplace": "Albert Park (Melbourne), VIC",
   "status": "inactive",
   "website": "https://projectx.com.au",
-  "summary": "Premium dialup + hosting + ISDN permanent connections + games server ISP, established 1995; defunct.",
+  "summary": "Premium dialup + hosting + ISDN permanent connections + games server ISP, established 1995; defunct (KEY POINT PTY LTD (FORMERLY LABYRINTH CONNECTIONS PTY LTD), ACN 069 211 678).",
   "names": [
     {
       "name": "ProjectX",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021203000000/http://www.cynosure.com.au/isp/projectx",
       "label": "ProjectX (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=48069211678",
+      "label": "ABR: KEY POINT PTY LTD ACN 069 211 678"
     }
   ]
 }

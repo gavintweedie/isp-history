@@ -3,7 +3,7 @@
   "slug": "asiapac-communications",
   "birthplace": "Sydney, NSW",
   "status": "inactive",
-  "summary": "Wholesale telco group (AsiaPAC; owner of iBOSS International and One Telecom, ex-ispONE); businesses and customers acquired by Vocus Communications in May 2014 (~$147k, via Ferrier Hodgson receiver), joint deal with iBOSS and One Telecom.",
+  "summary": "Wholesale telco group (AsiaPAC; owner of iBOSS International and One Telecom, ex-ispONE); businesses and customers acquired by Vocus Communications in May 2014 (~$147k, via Ferrier Hodgson receiver), joint deal with iBOSS and One Telecom (ASIAPAC COMMUNICATIONS GROUP PTY. LTD., ACN 165 203 574).",
   "names": [
     {
       "name": "AsiaPAC Communications",
@@ -39,6 +39,13 @@
           "label": "iTnews: Vocus buys iBOSS/One Telecom customers (<$500k, 50k customers)"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=60165203574",
+      "label": "ABR: ASIAPAC COMMUNICATIONS GROUP PTY. LTD. ACN 165 203 574"
     }
   ]
 }

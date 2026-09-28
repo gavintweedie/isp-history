@@ -4,7 +4,7 @@
   "birthplace": "Castle Hill (Sydney), NSW",
   "status": "inactive",
   "website": "https://ozdocs.net.au",
-  "summary": "Sydney dialup (incl. Blue Mountains) + hosting + web design ISP; defunct.",
+  "summary": "Sydney dialup (incl. Blue Mountains) + hosting + web design ISP; defunct (OZDOCS INTERNATIONAL PTY LTD, ACN 095 021 622).",
   "names": [
     {
       "name": "Ozdocs Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021203000000/http://www.cynosure.com.au/isp/ozdocs",
       "label": "Ozdocs (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=89095021622",
+      "label": "ABR: OZDOCS INTERNATIONAL PTY LTD ACN 095 021 622"
     }
   ]
 }

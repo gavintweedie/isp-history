@@ -4,7 +4,7 @@
   "birthplace": "Canberra (Fyshwick), ACT",
   "status": "inactive",
   "website": "https://actweb.net",
-  "summary": "Canberra ISP (TekNet Computer Services est. 1986; ActWEB.NET brand); dormant ~2007-09.",
+  "summary": "Canberra ISP (TekNet Computer Services est. 1986; ActWEB.NET brand); dormant ~2007-09 (ACN 058 198 208).",
   "names": [
     {
       "name": "TekNet Canberra",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980114045754/http://www.teknet.net.au/",
       "label": "TekNet (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=69058198208",
+      "label": "ABR: TEKNET COMPUTER SERVICES PTY. LTD. ACN 058 198 208"
     }
   ]
 }

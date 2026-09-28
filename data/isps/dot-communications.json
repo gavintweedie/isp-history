@@ -4,7 +4,7 @@
   "birthplace": "Sydney CBD, NSW",
   "status": "inactive",
   "website": "https://dot.net.au",
-  "summary": "Sydney dialup/ISDN + hosting + VISP wholesale ISP; pivoted to Viper ISP billing platform; later defunct.",
+  "summary": "Sydney dialup/ISDN + hosting + VISP wholesale ISP; pivoted to Viper ISP billing platform; later defunct (DOT COMMUNICATIONS PTY LIMITED, ACN 060 319 824).",
   "names": [
     {
       "name": "Dot Communications",
@@ -39,6 +39,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010118201700/http://www.dot.net.au/",
       "label": "Dot Communications (Wayback 18 Jan 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=40060319824",
+      "label": "ABR: DOT COMMUNICATIONS PTY LIMITED ACN 060 319 824"
     }
   ]
 }

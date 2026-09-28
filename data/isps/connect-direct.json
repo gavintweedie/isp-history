@@ -4,7 +4,7 @@
   "birthplace": "Rye (Mornington Peninsula), VIC",
   "status": "inactive",
   "website": "https://cdi.com.au",
-  "summary": "Mornington Peninsula/Melbourne dial-up + ISDN + web design/hosting ISP (CDI, Rye VIC, 1997); became part of Chariot Netconnect c.2004.",
+  "summary": "Mornington Peninsula/Melbourne dial-up + ISDN + web design/hosting ISP (CDI, Rye VIC, 1997); became part of Chariot Netconnect c.2004 (STAVRETIS, SCOTT (sole trader), ABN 72 327 756 345).",
   "names": [
     {
       "name": "Connect Direct Internet",
@@ -50,6 +50,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20050829111357/http://www.cdi.com.au/",
       "label": "CDI 'now part of Chariot' (Wayback 29 Aug 2005) — ©2004 Chariot Netconnect"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=72327756345",
+      "label": "ABR: STAVRETIS, SCOTT ABN 72 327 756 345"
     }
   ]
 }

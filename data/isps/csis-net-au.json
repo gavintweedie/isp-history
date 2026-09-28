@@ -4,7 +4,7 @@
   "birthplace": "Sutherland Shire (Sydney), NSW",
   "status": "inactive",
   "website": "https://csis.net.au",
-  "summary": "Sutherland Shire computer shop \"Computing Success\" with a dialup + email + Net-café ISP arm (csis.net.au); retail ISP gone by ~2001, domain later reused.",
+  "summary": "Sutherland Shire computer shop \"Computing Success\" with a dialup + email + Net-café ISP arm (csis.net.au); retail ISP gone by ~2001, domain later reused (BOURNE, GREGORY ROBERT (sole trader), ABN 59 220 949 314).",
   "aliases": [
     "Computing Success"
   ],
@@ -43,6 +43,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021204235136/http://www.cynosure.com.au/",
       "label": "Cynosure (Wayback 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=59220949314",
+      "label": "ABR: BOURNE, GREGORY ROBERT ABN 59 220 949 314"
     }
   ]
 }

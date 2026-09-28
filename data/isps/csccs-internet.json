@@ -4,7 +4,7 @@
   "birthplace": "Calwell (Canberra), ACT",
   "status": "inactive",
   "website": "https://cs.net.au",
-  "summary": "Canberra dialup + hosting ISP (cs.net.au); defunct.",
+  "summary": "Canberra dialup + hosting ISP (cs.net.au); defunct (GREENTHORPE PTY LTD, ACN 083 856 624).",
   "names": [
     {
       "name": "CSCCS Internet",
@@ -18,12 +18,12 @@
       "year": 1997,
       "date_disp": "1997",
       "precision": "by",
-      "details": "Earliest capture 12 Jan 1998 shows \u00a9 1997 CSCCS Internet; Revised Dec 1997.",
+      "details": "Earliest capture 12 Jan 1998 shows © 1997 CSCCS Internet; Revised Dec 1997.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19980112214315/http://cs.net.au/",
-          "label": "CSCCS Internet (Wayback 12 Jan 1998) \u2014 \u00a91997"
+          "label": "CSCCS Internet (Wayback 12 Jan 1998) — ©1997"
         }
       ]
     },
@@ -44,6 +44,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021217021157/http://www.cynosure.com.au/isp/cs",
       "label": "CSCCS (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=78083856624",
+      "label": "ABR: GREENTHORPE PTY LTD ACN 083 856 624"
     }
   ]
 }

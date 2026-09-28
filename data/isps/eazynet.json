@@ -4,7 +4,7 @@
   "birthplace": "Dianella (Perth), WA",
   "status": "inactive",
   "website": "https://eazy.net.au",
-  "summary": "Perth high-speed permanent connections + dialup ISP (155 Walter Rd Dianella, ~2001); defunct.",
+  "summary": "Perth high-speed permanent connections + dialup ISP (155 Walter Rd Dianella, ~2001); defunct (EAZYNET PTY LTD, ACN 097 174 537).",
   "names": [
     {
       "name": "EazyNet",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2013",
       "precision": "approx",
       "details": "Defunct."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53097174537",
+      "label": "ABR: EAZYNET PTY LTD ACN 097 174 537"
     }
   ]
 }

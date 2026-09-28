@@ -3,7 +3,7 @@
   "slug": "octal",
   "birthplace": "Australia",
   "status": "inactive",
-  "summary": "ISP acquired by iiNet.",
+  "summary": "ISP acquired by iiNet (OCTAL COMPUTER CONSULTANTS PTY LTD, ACN 009 261 241).",
   "names": [
     {
       "name": "Octal",
@@ -25,6 +25,13 @@
       "date_disp": "2000",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=89009261241",
+      "label": "ABR: OCTAL COMPUTER CONSULTANTS PTY LTD ACN 009 261 241"
     }
   ]
 }

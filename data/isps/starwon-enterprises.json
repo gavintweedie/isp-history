@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.starwon.com.au",
-  "summary": "Perth ISP 'Starwon Internet' (starwon.com.au); dialup, pricing/status/support portal; WAIA WAIX-class member; absorbed into the Perth ispX (formed July 2004 with Starwon, Karratha Internet and Netserv Connect).",
+  "summary": "Perth ISP 'Starwon Internet' (starwon.com.au); dialup, pricing/status/support portal; WAIA WAIX-class member; absorbed into the Perth ispX (formed July 2004 with Starwon, Karratha Internet and Netserv Connect) (AUSTRALIAN INTERNET PTY LTD, ACN 089 479 836).",
   "names": [
     {
       "name": "Starwon Enterprises",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961228025035/http://www.starwon.com.au/",
       "label": "Starwon Internet (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=15089479836",
+      "label": "ABR: AUSTRALIAN INTERNET PTY LTD ACN 089 479 836"
     }
   ]
 }

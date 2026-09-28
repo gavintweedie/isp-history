@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.westnet.net.au",
-  "summary": "WA-owned ISP trading as 'Westnet' on westnet.net.au \u2014 unrelated to Westnet (westnet.com.au, bought by iiNet); dialup, ISDN, ADSL2+, mobile broadband, VoIP, hosting and web design, with a focus on rural, regional and remote areas; TIO and WAIA member; acquired by EFTel (Jul 2012).",
+  "summary": "WA-owned ISP trading as 'Westnet' on westnet.net.au — unrelated to Westnet (westnet.com.au, bought by iiNet); dialup, ISDN, ADSL2+, mobile broadband, VoIP, hosting and web design, with a focus on rural, regional and remote areas; TIO and WAIA member; acquired by EFTel (Jul 2012) (THE EMERY FAMILY TRUST (trust), ABN 33 170 747 028).",
   "names": [
     {
       "name": "West Australian Networks",
@@ -55,6 +55,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20120829124416/http://www.westnet.net.au/",
       "label": "Last capture (Wayback 2012)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=33170747028",
+      "label": "ABR: THE EMERY FAMILY TRUST ABN 33 170 747 028"
     }
   ]
 }

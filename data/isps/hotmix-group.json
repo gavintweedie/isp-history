@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "active",
   "website": "https://www.hotmix.com.au",
-  "summary": "Perth computer/internet services + web design company (also dialup); still active (2022).",
+  "summary": "Perth computer/internet services + web design company (also dialup); still active (2022) (HOTMIX GROUP UNIT TRUST (trust), ABN 25 919 965 052).",
   "names": [
     {
       "name": "Hotmix Group",
@@ -22,7 +22,7 @@
     },
     {
       "kind": "note",
-      "details": "Continues as Hotmix Group, a Perth IT support/services company (hotmix.com.au, \u00a9 2024). Prior 'death c.2005' record was fabricated boilerplate and has been removed."
+      "details": "Continues as Hotmix Group, a Perth IT support/services company (hotmix.com.au, © 2024). Prior 'death c.2005' record was fabricated boilerplate and has been removed."
     }
   ],
   "refs": [
@@ -30,6 +30,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20221027035555/http://www.hotmix.com.au/",
       "label": "Hotmix Group (Wayback 2022)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=25919965052",
+      "label": "ABR: HOTMIX GROUP UNIT TRUST ABN 25 919 965 052"
     }
   ]
 }

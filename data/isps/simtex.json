@@ -4,7 +4,7 @@
   "birthplace": "Osborne Park, Perth, WA",
   "status": "inactive",
   "website": "https://simtex.com.au",
-  "summary": "Perth VoIP/SIP provider; origin as Up'N'Away's VoIP arm, acquired by Highway 1 in 2009; later a division of Highway 1 (ZettaNet), now a division of Zettagrid.",
+  "summary": "Perth VoIP/SIP provider; origin as Up'N'Away's VoIP arm, acquired by Highway 1 in 2009; later a division of Highway 1 (ZettaNet), now a division of Zettagrid (ICT EXPRESS PTY LTD (FORMERLY PLATINUM CALLING PTY LTD), ACN 106 915 351).",
   "names": [
     {
       "name": "Simtex",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20120426220420/http://www.simtex.com.au/about-us/",
       "label": "Simtex about (Wayback 2012)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=15106915351",
+      "label": "ABR: ICT EXPRESS PTY LTD ACN 106 915 351"
     }
   ]
 }

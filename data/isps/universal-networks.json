@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://universal.net.au",
-  "summary": "Brisbane dialup ISP with reseller program (Level 5, 46 Edward St, ~1997-98); absorbed into Chariot netconnect (~2004).",
+  "summary": "Brisbane dialup ISP with reseller program (Level 5, 46 Edward St, ~1997-98); absorbed into Chariot netconnect (~2004) (UNIVERSAL NETWORKS AUSTRALIA PTY LTD, ACN 080 545 437).",
   "names": [
     {
       "name": "Universal Networks Australia",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2004",
       "precision": "approx",
       "details": "Absorbed into Chariot netconnect."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=17080545437",
+      "label": "ABR: UNIVERSAL NETWORKS AUSTRALIA PTY LTD ACN 080 545 437"
     }
   ]
 }

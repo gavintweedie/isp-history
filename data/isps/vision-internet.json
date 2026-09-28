@@ -4,7 +4,7 @@
   "birthplace": "Launceston, TAS",
   "status": "inactive",
   "website": "https://vision.net.au",
-  "summary": "Tasmanian regional ISP (division of Australian PC Technologies); acquired by EFTel ~2001-02.",
+  "summary": "Tasmanian regional ISP (division of Australian PC Technologies); acquired by EFTel ~2001-02 (AUSTRALIAN P.C. TECHNOLOGIES PTY. LTD., ACN 067 543 766).",
   "names": [
     {
       "name": "Vision Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970513044036/http://www.vision.net.au/",
       "label": "Vision (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=16067543766",
+      "label": "ABR: AUSTRALIAN P.C. TECHNOLOGIES PTY. LTD. ACN 067 543 766"
     }
   ]
 }

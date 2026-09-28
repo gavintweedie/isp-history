@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://star.net.au",
-  "summary": "Perth dialup ISP, trading as STAR Online Services; absorbed by EFTel May 2000.",
+  "summary": "Perth dialup ISP, trading as STAR Online Services; absorbed by EFTel May 2000 (TOWER.NET PTY LTD, ACN 089 076 684).",
   "names": [
     {
       "name": "Tower.Net",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981212033029/http://www.star.net.au/",
       "label": "STAR Online (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=73089076684",
+      "label": "ABR: TOWER.NET PTY LTD ACN 089 076 684"
     }
   ]
 }

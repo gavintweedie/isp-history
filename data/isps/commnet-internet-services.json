@@ -4,7 +4,7 @@
   "birthplace": "Taren Point (Sydney), NSW",
   "status": "inactive",
   "website": "https://commnet.net.au",
-  "summary": "Sydney south (Taren Point) dialup ISP (unlimited plans); ISP homepage in Wayback only 2001-02, defunct by mid-2000s.",
+  "summary": "Sydney south (Taren Point) dialup ISP (unlimited plans); ISP homepage in Wayback only 2001-02, defunct by mid-2000s (CRANFIELD, KRIS (sole trader), ABN 24 508 910 551).",
   "names": [
     {
       "name": "Commnet Internet Services",
@@ -39,6 +39,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011223111520/http://www.cynosure.com.au/isp/commnet",
       "label": "Cynosure: Commnet"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=24508910551",
+      "label": "ABR: CRANFIELD, KRIS ABN 24 508 910 551"
     }
   ]
 }

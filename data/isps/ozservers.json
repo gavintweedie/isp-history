@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://www.ozservers.com.au",
-  "summary": "Brisbane hosting/dedicated-server provider (since 2000); acquired by Servers Australia Sept 2017, operates as their brand.",
+  "summary": "Brisbane hosting/dedicated-server provider (since 2000); acquired by Servers Australia Sept 2017, operates as their brand (OZ SERVERS PTY LTD, ACN 092 740 497).",
   "names": [
     {
       "name": "OzServers",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20180811190841/https://www.ozservers.com.au/",
       "label": "OzServers (Wayback 2018)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=32092740497",
+      "label": "ABR: OZ SERVERS PTY LTD ACN 092 740 497"
     }
   ]
 }

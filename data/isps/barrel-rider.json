@@ -4,7 +4,7 @@
   "birthplace": "Wavell Heights (Brisbane), QLD",
   "status": "inactive",
   "website": "https://barrelrider.net.au",
-  "summary": "Brisbane/Gold Coast dialup + portal ISP; dead ~2003.",
+  "summary": "Brisbane/Gold Coast dialup + portal ISP; dead ~2003 (BOULTER, JUAN (sole trader), ABN 68 246 484 734).",
   "names": [
     {
       "name": "Barrel Rider",
@@ -46,6 +46,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030828102558/http://www.barrelrider.net.au/64123.asp",
       "label": "Barrel Rider (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=68246484734",
+      "label": "ABR: BOULTER, JUAN ABN 68 246 484 734"
     }
   ]
 }

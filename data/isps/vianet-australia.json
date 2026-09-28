@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://vianet.net.au",
-  "summary": "One of WA's leading ISPs, founded 1995 (VianetAIP = Vianet+AIP Media merger); sold by Comdek to Datafast Telecommunications effective 1 Jul 2005 (renamed Eftel Dec 2005).",
+  "summary": "One of WA's leading ISPs, founded 1995 (VianetAIP = Vianet+AIP Media merger); sold by Comdek to Datafast Telecommunications effective 1 Jul 2005 (renamed Eftel Dec 2005) (VIANET COMMUNICATIONS PTY LTD, ACN 070 937 807).",
   "names": [
     {
       "name": "Vianet Australia",
@@ -45,6 +45,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961219062242/http://vianet.net.au/",
       "label": "Vianet (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=51070937807",
+      "label": "ABR: VIANET COMMUNICATIONS PTY LTD ACN 070 937 807"
     }
   ],
   "aliases": [

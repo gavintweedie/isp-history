@@ -3,7 +3,7 @@
   "slug": "orion-telecommunications",
   "birthplace": "Hobart, TAS",
   "status": "inactive",
-  "summary": "ASX-listed telco (Orion Telecommunications Ltd, listed 5 Oct 2004; Hobart/Melbourne fixed/mobile/data); merged into M2 Group via scheme Sep/Oct 2007.",
+  "summary": "ASX-listed telco (Orion Telecommunications Ltd, listed 5 Oct 2004; Hobart/Melbourne fixed/mobile/data); merged into M2 Group via scheme Sep/Oct 2007 (ACN 109 038 520).",
   "names": [
     {
       "name": "Orion Telecommunications",
@@ -44,6 +44,13 @@
           "label": "AustLII FCA 2007/1389: Orion scheme approval"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=54109038520",
+      "label": "ABR: ORION TELECOMMUNICATIONS LIMITED ACN 109 038 520"
     }
   ]
 }

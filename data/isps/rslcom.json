@@ -3,7 +3,7 @@
   "slug": "rslcom",
   "birthplace": "Sydney, NSW",
   "status": "inactive",
-  "summary": "Australian arm of RSL Communications (RSL COM Australia Pty Ltd, from Oct 1996); fixed-line SME telco; acquired by Commander Communications in Mar 2003 ($59.9m). Distinct from RSL COM New Zealand.",
+  "summary": "Australian arm of RSL Communications (RSL COM Australia Pty Ltd, from Oct 1996); fixed-line SME telco; acquired by Commander Communications in Mar 2003 ($59.9m). Distinct from RSL COM New Zealand (ACN 074 627 642).",
   "names": [
     {
       "name": "RSLCOM Australia",
@@ -46,6 +46,13 @@
           "label": "Budde: RSL-COM Australia, Commander subsidiary 2003"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=29074627642",
+      "label": "ABR: RSL COM AUSTRALIA PTY LIMITED ACN 074 627 642"
     }
   ]
 }

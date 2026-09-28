@@ -4,7 +4,7 @@
   "birthplace": "Burleigh Heads (Gold Coast), QLD",
   "status": "inactive",
   "website": "https://broad.net.au",
-  "summary": "Gold Coast dialup + ADSL ISP (Broadnet Pty Ltd); folded into Chariot (netconnect) c. 2007.",
+  "summary": "Gold Coast dialup + ADSL ISP (Broadnet Pty Ltd); folded into Chariot (netconnect) c. 2007 (ACN 088 184 258).",
   "names": [
     {
       "name": "Broad Net Internet Services",
@@ -45,6 +45,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20040208230316/http://broad.net.au/",
       "label": "Broad Net (Wayback 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=32088184258",
+      "label": "ABR: BROADNET PTY LTD ACN 088 184 258"
     }
   ]
 }

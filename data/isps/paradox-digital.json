@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://paradox.net.au",
-  "summary": "Perth wholesale Internet carrier (bandwidth/transit/peering for retail ISPs); acquired by Fleet Broadband c.2001, folded into Datafast/Eftel.",
+  "summary": "Perth wholesale Internet carrier (bandwidth/transit/peering for retail ISPs); acquired by Fleet Broadband c.2001, folded into Datafast/Eftel (PARADOX DIGITAL PTY LTD, ACN 008 875 714).",
   "names": [
     {
       "name": "Paradox Digital",
@@ -52,6 +52,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980215130024/http://www.paradox.net.au/",
       "label": "Paradox Digital (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=76008875714",
+      "label": "ABR: PARADOX DIGITAL PTY LTD ACN 008 875 714"
     }
   ]
 }

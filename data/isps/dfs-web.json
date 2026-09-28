@@ -4,7 +4,7 @@
   "birthplace": "Glendenning (Sydney), NSW",
   "status": "inactive",
   "website": "https://dfs-web.net.au",
-  "summary": "Sydney unlimited dialup + hosting ISP; dead by Sep 2003.",
+  "summary": "Sydney unlimited dialup + hosting ISP; dead by Sep 2003 (SHELLIEN, DAVID FRANK (TRADING AS DFS WEB) (sole trader), ABN 66 002 634 554).",
   "names": [
     {
       "name": "DFS Web",
@@ -41,6 +41,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030924191111/http://www.dfs-web.net.au/",
       "label": "DFS Web (Wayback 24 Sep 2003, 404 - site gone)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=66002634554",
+      "label": "ABR: SHELLIEN, DAVID FRANK (TRADING AS DFS WEB) ABN 66 002 634 554"
     }
   ]
 }

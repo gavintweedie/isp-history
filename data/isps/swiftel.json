@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://swiftel.net.au",
-  "summary": "Perth business network carrier; became an ASX shell reverse-taken-over by People Telecom.",
+  "summary": "Perth business network carrier; became an ASX shell reverse-taken-over by People Telecom (SWIFTEL COMMUNICATIONS PTY LTD (FORMERLY SWIFTEL PTY LTD), ACN 090 877 008).",
   "names": [
     {
       "name": "Swiftel",
@@ -30,9 +30,16 @@
         {
           "kind": "official",
           "url": "https://www.delisted.com.au/company/swiftel-limited",
-          "label": "deListed Australia: Swiftel Limited (ASX:SWT) \u2014 became People Telecom Ltd 5 Jul 2004"
+          "label": "deListed Australia: Swiftel Limited (ASX:SWT) — became People Telecom Ltd 5 Jul 2004"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=18090877008",
+      "label": "ABR: SWIFTEL COMMUNICATIONS PTY LTD ACN 090 877 008"
     }
   ]
 }

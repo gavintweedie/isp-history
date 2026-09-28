@@ -4,7 +4,7 @@
   "birthplace": "Nelson Bay, NSW",
   "status": "inactive",
   "website": "https://nelsonbay.com",
-  "summary": "Port Stephens ISP + community portal; operated by Oghma Pty Ltd from 2007.",
+  "summary": "Port Stephens ISP + community portal; operated by Oghma Pty Ltd from 2007 (ACN 124 080 324).",
   "names": [
     {
       "name": "Nelson Bay Online",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981202211755/http://www.nelsonbay.com/",
       "label": "Nelson Bay Online (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=82124080324",
+      "label": "ABR: OGHMA PTY LTD ACN 124 080 324"
     }
   ]
 }

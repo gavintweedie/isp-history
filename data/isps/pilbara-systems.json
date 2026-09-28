@@ -4,7 +4,7 @@
   "birthplace": "Pilbara, WA",
   "status": "inactive",
   "website": "https://pilbara.net.au",
-  "summary": "WAIA member 2000; listed with WAIX as 'Pilbara Internet / Norcom'; site (pilbara.net.au, a dotnet dotau Pty Ltd service) went to a hosting default page Dec 2003, then Concept Networks 2004-06; domain later to Primus.",
+  "summary": "WAIA member 2000; listed with WAIX as 'Pilbara Internet / Norcom'; site (pilbara.net.au, a dotnet dotau Pty Ltd service) went to a hosting default page Dec 2003, then Concept Networks 2004-06; domain later to Primus (ACN 086 757 011).",
   "names": [
     {
       "name": "Pilbara Systems Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001206153500/http://www.waia.asn.au/members/iap.html",
       "label": "WAIA IAP member list (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=39086757011",
+      "label": "ABR: DOTNET DOTAU PTY LTD ACN 086 757 011"
     }
   ]
 }

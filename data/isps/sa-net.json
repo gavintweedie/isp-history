@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://sanet.com.au",
-  "summary": "Early Adelaide dialup/hosting ISP (SA Net Pty Ltd, sanet.com.au); defunct by early 2000s.",
+  "summary": "Early Adelaide dialup/hosting ISP (SA Net Pty Ltd, sanet.com.au); defunct by early 2000s (ELECTRONIC ACCESSORIES AUSTRALIA PTY. LIMITED (NAMED ON THE SA NET REGISTRATION PAGE AS 'EASY ACCESS AUSTRALIA PTY LTD'), ACN 010 834 492).",
   "names": [
     {
       "name": "SA Net",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961219010632/http://sanet.com.au/",
       "label": "SA Net (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=42010834492",
+      "label": "ABR: ELECTRONIC ACCESSORIES AUSTRALIA PTY. LIMITED (NAMED ON THE SA NET REGISTRATION PAGE AS 'EASY ACCESS AUSTRALIA PTY LTD') ACN 010 834 492"
     }
   ]
 }

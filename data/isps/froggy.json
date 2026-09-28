@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "froggy.com.au",
-  "summary": "Dial-up ISP, subsidiary of FlowCom; acquired by iiNet.",
+  "summary": "Dial-up ISP, subsidiary of FlowCom; acquired by iiNet (REELTIME MEDIA LIMITED (FORMERLY FLOWCOM LIMITED), ACN 085 462 362).",
   "names": [
     {
       "name": "Froggy dialup",
@@ -26,6 +26,13 @@
       "date_disp": "Feb 2004",
       "precision": "exact",
       "details": "Acquired by iiNet via FlowCom."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=67085462362",
+      "label": "ABR: REELTIME MEDIA LIMITED ACN 085 462 362"
     }
   ]
 }

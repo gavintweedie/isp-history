@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://tmx.com.au",
-  "summary": "Sydney corporate ISP ('The Message eXchange'); involved with internet since 1989; ceased ~2005.",
+  "summary": "Sydney corporate ISP ('The Message eXchange'); involved with internet since 1989; ceased ~2005 (ACN 053 463 291).",
   "names": [
     {
       "name": "TMX",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961222012638/http://www.tmx.com.au/tmx/tmx.html",
       "label": "TMX (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=66053463291",
+      "label": "ABR: THE MESSAGE EXCHANGE PTY LTD ACN 053 463 291"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://zeta.org.au",
-  "summary": "One of Australia's earliest ISPs (Zeta Microcomputer Software, later Kralizec Pty Ltd); family-owned by Nick and Masami Andrew; Riverstone POP (02 9837 exchange) for western-Sydney local calls; acquired by Pacific Internet Dec 1999.",
+  "summary": "One of Australia's earliest ISPs (Zeta Microcomputer Software, later Kralizec Pty Ltd); family-owned by Nick and Masami Andrew; Riverstone POP (02 9837 exchange) for western-Sydney local calls; acquired by Pacific Internet Dec 1999 (ACN 074 568 737).",
   "names": [
     {
       "name": "Zeta Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000524033055/http://www.zeta.org.au/timeline.html",
       "label": "Zeta timeline (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=66074568737",
+      "label": "ABR: KRALIZEC PTY LTD ACN 074 568 737"
     }
   ]
 }

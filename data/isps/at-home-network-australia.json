@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "",
-  "summary": "Australian cable-broadband network operated by the 50/50 joint venture of Cable & Wireless Optus and Excite@Home (June 1999). One /16-scale 1997-era allocation (ATHOME-AU, 203.164.0.0-203.164.255.255). Optus took control of the venture in September 2001 after Excite@Home's US parent collapsed; the service continued under the Optus cable broadband umbrella.",
+  "summary": "Australian cable-broadband network operated by the 50/50 joint venture of Cable & Wireless Optus and Excite@Home (June 1999). One /16-scale 1997-era allocation (ATHOME-AU, 203.164.0.0-203.164.255.255). Optus took control of the venture in September 2001 after Excite@Home's US parent collapsed; the service continued under the Optus cable broadband umbrella (AT HOME NETWORK AUSTRALIA PTY LIMITED (LATER RENAMED OPTUS BROADBAND PTY LIMITED), ACN 087 048 440).",
   "names": [
     {
       "name": "@Home Network Australia",
@@ -57,5 +57,11 @@
       "details": "With Optus holding control from Sept 2001 and Excite@Home's US parent in bankruptcy, the joint venture ceased to operate as a distinct entity; the service was absorbed into Optus's cable broadband operation."
     }
   ],
-  "refs": []
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=90087048440",
+      "label": "ABR: AT HOME NETWORK AUSTRALIA PTY LIMITED ACN 087 048 440"
+    }
+  ]
 }

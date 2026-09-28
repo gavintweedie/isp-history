@@ -4,7 +4,7 @@
   "birthplace": "North Perth, WA",
   "status": "inactive",
   "website": "http://www.alias.net.au",
-  "summary": "Small North Perth ISP (PO Box 449, North Perth); dialup, permanent dial-up/ADSL and hosting; WAIA member; defunct by ~2004.",
+  "summary": "Small North Perth ISP (PO Box 449, North Perth); dialup, permanent dial-up/ADSL and hosting; WAIA member; defunct by ~2004 (THOMPSON, KEVIN ROBERT (sole trader), ABN 30 132 447 973).",
   "names": [
     {
       "name": "Alias Internet",
@@ -47,6 +47,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010803144312/http://www.alias.net.au/",
       "label": "Alias Internet (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=30132447973",
+      "label": "ABR: THOMPSON, KEVIN ROBERT ABN 30 132 447 973"
     }
   ]
 }

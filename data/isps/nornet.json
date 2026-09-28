@@ -4,7 +4,7 @@
   "birthplace": "Lismore, NSW",
   "status": "inactive",
   "website": "https://nor.com.au",
-  "summary": "Lismore/Northern Rivers NSW regional dialup + hosting + local directories ISP (nor.com.au live by Nov 1995); run by Norsearch Ltd, the company wholly owned by Southern Cross University, until sold 1999 to the Linear G group; brand folded into LinearG Dec 2014.",
+  "summary": "Lismore/Northern Rivers NSW regional dialup + hosting + local directories ISP (nor.com.au live by Nov 1995); run by Norsearch Ltd, the company wholly owned by Southern Cross University, until sold 1999 to the Linear G group; brand folded into LinearG Dec 2014 (ABN 57 003 082 406).",
   "names": [
     {
       "name": "Nornet",
@@ -78,6 +78,11 @@
       "kind": "official",
       "url": "https://linearg.com/",
       "label": "LinearG homepage - began Internet services Jan 2000; 'Since 2010 Linear G has incorporated ... Nornet, Big River Internet, OMCS, and NRG Internet'"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=57003082406",
+      "label": "ABR: NORSEARCH LTD ACN 003 082 406"
     }
   ]
 }

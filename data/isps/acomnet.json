@@ -4,7 +4,7 @@
   "birthplace": "Hornsby (Sydney), NSW",
   "status": "inactive",
   "website": "https://acomnet.com.au",
-  "summary": "Sydney SMB ISP (dialup, permanent, e-commerce, intranet); dead mid-2000s.",
+  "summary": "Sydney SMB ISP (dialup, permanent, e-commerce, intranet); dead mid-2000s (ACOMNET PTY LTD, ACN 088 334 883).",
   "names": [
     {
       "name": "AcomNet",
@@ -49,6 +49,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20020212181748/http://www.cynosure.com.au/isp/acomnet",
       "label": "AcomNet (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=23088334883",
+      "label": "ABR: ACOMNET PTY LTD ACN 088 334 883"
     }
   ]
 }

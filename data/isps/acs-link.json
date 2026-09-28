@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://acslink.net.au",
-  "summary": "ACS Internet service (acslink.net.au); launched 17 Mar 1994 by Canberra Branch of Australian Computer Society, service commenced 8 Nov 1994.",
+  "summary": "ACS Internet service (acslink.net.au); launched 17 Mar 1994 by Canberra Branch of Australian Computer Society, service commenced 8 Nov 1994 (AUSTRALIAN COMPUTER SOCIETY INCORPORATED, ABN 53 156 305 487).",
   "names": [
     {
       "name": "ACS-link",
@@ -56,6 +56,13 @@
       "source": [
         "Wayback CDX for acslink.net.au: http://web.archive.org/cdx/search/cdx?url=acslink.net.au"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53156305487",
+      "label": "ABR: AUSTRALIAN COMPUTER SOCIETY INCORPORATED ABN 53 156 305 487"
     }
   ]
 }

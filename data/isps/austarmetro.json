@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://austarmetro.com.au",
-  "summary": "Dialup ISP (A$24.95 unlimited) in all capital cities; successor to ISP eisa after AUSTAR acquired it; customer base transferred to Virtual Communities c. 2003, reaching iiNet in 2004.",
+  "summary": "Dialup ISP (A$24.95 unlimited) in all capital cities; successor to ISP eisa after AUSTAR acquired it; customer base transferred to Virtual Communities c. 2003, reaching iiNet in 2004 (AUSTAR UNITED BROADBAND PTY LTD, ACN 089 048 439).",
   "names": [
     {
       "name": "AustarMetro",
@@ -50,6 +50,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010607042553/http://www.austarmetro.com.au/aboutus.php",
       "label": "AustarMetro about (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=11089048439",
+      "label": "ABR: AUSTAR UNITED BROADBAND PTY LTD ACN 089 048 439"
     }
   ]
 }

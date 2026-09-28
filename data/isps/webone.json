@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "webone.com.au",
-  "summary": "ISP acquired by iiNet.",
+  "summary": "ISP acquired by iiNet (AUSTRALIA COMPUTER NETWORK SOLUTIONS PTY. LTD., ACN 088 342 876).",
   "names": [
     {
       "name": "WebOne",
@@ -33,6 +33,13 @@
       "date_disp": "2003",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=87088342876",
+      "label": "ABR: AUSTRALIA COMPUTER NETWORK SOLUTIONS PTY. LTD. ACN 088 342 876"
     }
   ]
 }

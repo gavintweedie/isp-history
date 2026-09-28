@@ -4,7 +4,7 @@
   "birthplace": "Glenelg (Adelaide), SA",
   "status": "inactive",
   "website": "https://bettanet.net.au",
-  "summary": "SA ADSL/dialup ISP (BettaNet Connections); merged with Momentum Internet ~2006-07 to form Betta Momentum Internet; customer base moved to Adam Internet ~1 Aug 2008.",
+  "summary": "SA ADSL/dialup ISP (BettaNet Connections); merged with Momentum Internet ~2006-07 to form Betta Momentum Internet; customer base moved to Adam Internet ~1 Aug 2008 (THE TRUSTEE FOR BETTANET CONNECTIONS TRADING TRUST (trust), ABN 40 589 642 934).",
   "names": [
     {
       "name": "BettaNet",
@@ -43,6 +43,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20050801000000/http://www.bettanet.net.au/",
       "label": "BettaNet (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=40589642934",
+      "label": "ABR: THE TRUSTEE FOR BETTANET CONNECTIONS TRADING TRUST ABN 40 589 642 934"
     }
   ]
 }

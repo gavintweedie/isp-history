@@ -4,7 +4,7 @@
   "birthplace": "Kelmscott (Perth), WA",
   "status": "inactive",
   "website": "https://amitar.com.au",
-  "summary": "Kelmscott/Armadale (Perth) WA dialup + hosting + web-design ISP; live from 1998, site frozen as a static page from ~2008 through 2017, domain reused by 2023.",
+  "summary": "Kelmscott/Armadale (Perth) WA dialup + hosting + web-design ISP; live from 1998, site frozen as a static page from ~2008 through 2017, domain reused by 2023 (TURVEY, RICHARD JOHN (sole trader), ABN 62 984 651 267).",
   "names": [
     {
       "name": "Amitar Internet Services",
@@ -47,6 +47,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980212045003/http://www.amitar.com.au/",
       "label": "Amitar (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=62984651267",
+      "label": "ABR: TURVEY, RICHARD JOHN ABN 62 984 651 267"
     }
   ]
 }

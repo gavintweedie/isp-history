@@ -3,7 +3,7 @@
   "slug": "wholesale-communications-group",
   "birthplace": "Sydney, NSW",
   "status": "inactive",
-  "summary": "Independent data wholesaler (Wholesale Communications Group Pty Ltd); acquired by M2 Telecommunications in May 2007.",
+  "summary": "Independent data wholesaler (Wholesale Communications Group Pty Ltd); acquired by M2 Telecommunications in May 2007 (ACN 109 626 011).",
   "names": [
     {
       "name": "Wholesale Communications Group",
@@ -43,5 +43,12 @@
   ],
   "aliases": [
     "WCG"
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=21109626011",
+      "label": "ABR: WHOLESALE COMMUNICATIONS GROUP PTY LTD ACN 109 626 011"
+    }
   ]
 }

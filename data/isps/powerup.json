@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://powerup.com.au",
-  "summary": "Brisbane ISP, began as a community BBS (Morningside, Lloyd Ernst); became Qld's largest ISP; spun off WebCentral; sold to OzEmail.",
+  "summary": "Brisbane ISP, began as a community BBS (Morningside, Lloyd Ernst); became Qld's largest ISP; spun off WebCentral; sold to OzEmail (POWER UP PTY LTD, ACN 068 604 955).",
   "names": [
     {
       "name": "PowerUp",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000303092740/http://www.home.powerup.com.au/about.htm",
       "label": "PowerUp about (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=37068604955",
+      "label": "ABR: POWER UP PTY LTD ACN 068 604 955"
     }
   ]
 }

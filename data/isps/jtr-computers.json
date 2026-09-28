@@ -4,7 +4,7 @@
   "birthplace": "Adelaide Hills, SA",
   "status": "inactive",
   "website": "https://jtr.net.au",
-  "summary": "Adelaide Hills computer/internet services business (mini-ISP, jtr.net.au); hosted local Hills sites.",
+  "summary": "Adelaide Hills computer/internet services business (mini-ISP, jtr.net.au); hosted local Hills sites (OSSINI PTY LTD, ACN 100 584 656).",
   "names": [
     {
       "name": "JTR Computers",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000818174905/http://www.jtr.net.au/",
       "label": "JTR (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=67100584656",
+      "label": "ABR: OSSINI PTY LTD ACN 100 584 656"
     }
   ]
 }

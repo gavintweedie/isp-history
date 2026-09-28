@@ -4,7 +4,7 @@
   "birthplace": "Mount Druitt (Sydney), NSW",
   "status": "inactive",
   "website": "https://cybonet.com.au",
-  "summary": "Sydney dialup/web-hosting ISP; sold internet operations to Internet Depot Feb 2001, continued as IT company.",
+  "summary": "Sydney dialup/web-hosting ISP; sold internet operations to Internet Depot Feb 2001, continued as IT company (CYBONET INFORMATION TECHNOLOGY PTY. LTD., ACN 088 214 546).",
   "names": [
     {
       "name": "Cybonet Information Technology",
@@ -39,6 +39,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030603214817/http://www.cybonet.com.au/aboutus.html",
       "label": "Cybonet (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=21088214546",
+      "label": "ABR: CYBONET INFORMATION TECHNOLOGY PTY. LTD. ACN 088 214 546"
     }
   ]
 }

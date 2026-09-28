@@ -4,7 +4,7 @@
   "birthplace": "Auchenflower (Brisbane), QLD",
   "status": "inactive",
   "website": "https://dovenetq.net.au",
-  "summary": "Brisbane ISP of the Uniting Church in Australia (national dialup, 71 POPs); rebranded ISPX ~2012, then Planet Ozi by 2018.",
+  "summary": "Brisbane ISP of the Uniting Church in Australia (national dialup, 71 POPs); rebranded ISPX ~2012, then Planet Ozi by 2018 (THE UNITING CHURCH IN AUSTRALIA PROPERTY TRUST (Q.), ABN 25 548 385 225).",
   "names": [
     {
       "name": "DoveNetQ",
@@ -39,6 +39,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20120221092221/http://www.dovenetq.net.au/",
       "label": "DoveNetQ (Wayback 21 Feb 2012)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=25548385225",
+      "label": "ABR: THE UNITING CHURCH IN AUSTRALIA PROPERTY TRUST (Q.) ABN 25 548 385 225"
     }
   ]
 }

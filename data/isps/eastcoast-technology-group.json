@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://eastcoast.net.au",
-  "summary": "Canberra dialup ISP; defunct by 2004.",
+  "summary": "Canberra dialup ISP; defunct by 2004 (SUTHERLAND, ROSS (sole trader), ABN 62 436 841 187).",
   "names": [
     {
       "name": "Eastcoast Technology Group",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20011223095143/http://www.cynosure.com.au/isp/eastcoast",
       "label": "Cynosure: Eastcoast"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=62436841187",
+      "label": "ABR: SUTHERLAND, ROSS ABN 62 436 841 187"
     }
   ]
 }

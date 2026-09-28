@@ -4,7 +4,7 @@
   "birthplace": "Mosman, Sydney, NSW",
   "status": "inactive",
   "website": "https://www.bb.com.au",
-  "summary": "Sydney lower-north-shore dialup ISP (Mosman; bb.com.au / mosman.com / australians.com): PPP dialup from 14k4 to 33k6 plus ISDN, Sydney-only POPs, web design arm, upstream via Telstra Internet; IIA member. Listed in the Australian ISP List by Apr 1997.",
+  "summary": "Sydney lower-north-shore dialup ISP (Mosman; bb.com.au / mosman.com / australians.com): PPP dialup from 14k4 to 33k6 plus ISDN, Sydney-only POPs, web design arm, upstream via Telstra Internet; IIA member. Listed in the Australian ISP List by Apr 1997 (BARROBAND PTY. LIMITED, ACN 003 614 202).",
   "names": [
     {
       "name": "Mosman City Internet Services",
@@ -49,6 +49,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19991012163854/http://cynosure.com.au/isp/bb",
       "label": "Australian ISP List: Mosman City Internet Services (Cynosure detail page)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=71003614202",
+      "label": "ABR: BARROBAND PTY. LIMITED ACN 003 614 202"
     }
   ]
 }

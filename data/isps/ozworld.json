@@ -4,7 +4,7 @@
   "birthplace": "Carlingford (Sydney), NSW",
   "status": "inactive",
   "website": "https://oz-world.com",
-  "summary": "Budget national dialup ISP (co-located on connect.com.au); defunct.",
+  "summary": "Budget national dialup ISP (co-located on connect.com.au); defunct (OZWORLD NETWORK PTY. LIMITED, ACN 090 886 150).",
   "names": [
     {
       "name": "OzWorld",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021201000000/http://www.cynosure.com.au/isp/ozworld",
       "label": "OzWorld (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=72090886150",
+      "label": "ABR: OZWORLD NETWORK PTY. LIMITED ACN 090 886 150"
     }
   ]
 }

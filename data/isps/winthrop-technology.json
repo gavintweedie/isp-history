@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "wt.com.au",
-  "summary": "UWA's Western Australian Regional Computing Centre (WARCC, 1972) renamed and spun off as Winthrop Technology ~1992; commercial computing-services company (lineage continues as Winthrop Australia). NOT related to Westnet (a separate Geraldton-founded ISP, 1994, -> iiNet 2008).",
+  "summary": "UWA's Western Australian Regional Computing Centre (WARCC, 1972) renamed and spun off as Winthrop Technology ~1992; commercial computing-services company (lineage continues as Winthrop Australia). NOT related to Westnet (a separate Geraldton-founded ISP, 1994, -> iiNet 2008) (ALPHAWEST SERVICES PTY LTD, ACN 009 196 347).",
   "names": [
     {
       "name": "Winthrop Technology",
@@ -39,6 +39,11 @@
       "url": "https://web.archive.org/web/19971007180439/http://www.wt.com.au/",
       "label": "Winthrop Technology (Wayback 1997)",
       "year": 1997
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=49009196347",
+      "label": "ABR: ALPHAWEST SERVICES PTY LTD ACN 009 196 347"
     }
   ]
 }

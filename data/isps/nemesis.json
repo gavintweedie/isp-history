@@ -4,7 +4,7 @@
   "birthplace": "Essendon (Melbourne), VIC",
   "status": "inactive",
   "website": "https://nemesis.com.au",
-  "summary": "Melbourne dialup + hosting + mail gateways + LAN integration ISP (est. ~1990 as an online service); defunct.",
+  "summary": "Melbourne dialup + hosting + mail gateways + LAN integration ISP (est. ~1990 as an online service); defunct (NEMESIS COMMUNICATIONS PTY LTD, ACN 076 119 483).",
   "names": [
     {
       "name": "Nemesis",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030217000000/http://www.cynosure.com.au/isp/nemesis",
       "label": "Nemesis (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=77076119483",
+      "label": "ABR: NEMESIS COMMUNICATIONS PTY LTD ACN 076 119 483"
     }
   ]
 }

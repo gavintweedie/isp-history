@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://act.apana.org.au",
-  "summary": "APANA regional hub act.apana.org.au / canberra.apana.org.au (webmaster Michael Moynihan); defunct.",
+  "summary": "APANA regional hub act.apana.org.au / canberra.apana.org.au (webmaster Michael Moynihan); defunct (AUSTRALIAN PUBLIC ACCESS NETWORK ASSOCIATION INC., ABN 84 081 355 722).",
   "names": [
     {
       "name": "APANA ACT node",
@@ -36,6 +36,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
       "label": "APANA (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=84081355722",
+      "label": "ABR: AUSTRALIAN PUBLIC ACCESS NETWORK ASSOCIATION INC. ACN 081 355 722"
     }
   ]
 }

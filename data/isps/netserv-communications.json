@@ -4,7 +4,7 @@
   "birthplace": "Busselton, WA",
   "status": "inactive",
   "website": "https://netserv.net.au",
-  "summary": "Busselton and the Capes' first ISP (since 1995); absorbed by Silogen c.2007.",
+  "summary": "Busselton and the Capes' first ISP (since 1995); absorbed by Silogen c.2007 (NETSERV PTY LTD, ACN 072 995 263).",
   "names": [
     {
       "name": "NetServ Communications",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000519223543/http://www.netserv.net.au/",
       "label": "NetServ (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=61072995263",
+      "label": "ABR: NETSERV PTY LTD ACN 072 995 263"
     }
   ]
 }

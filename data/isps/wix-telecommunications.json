@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://wix.com.au",
-  "summary": "Pre-paid dialup provider (~2001); acquired by Blitz Telecom ~2007-08.",
+  "summary": "Pre-paid dialup provider (~2001); acquired by Blitz Telecom ~2007-08 (BLITZ IP PTY. LTD., ACN 128 843 881).",
   "names": [
     {
       "name": "Wix Telecommunications",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2007-08",
       "precision": "approx",
       "details": "Acquired by Blitz Telecom."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=45128843881",
+      "label": "ABR: BLITZ IP PTY. LTD. ACN 128 843 881"
     }
   ]
 }

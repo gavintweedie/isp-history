@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "http://www.request.com.au",
-  "summary": "Brisbane DSL/broadband provider ('Request DSL', later Request Broadband Pty Ltd, Waterfront Place Eagle St); WAIX-connected; acquired by PowerTel, completed March 2004.",
+  "summary": "Brisbane DSL/broadband provider ('Request DSL', later Request Broadband Pty Ltd, Waterfront Place Eagle St); WAIX-connected; acquired by PowerTel, completed March 2004 (ACN 091 530 586).",
   "names": [
     {
       "name": "Request Broadband",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000916155055/http://www.request.com.au/",
       "label": "Request DSL (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=89091530586",
+      "label": "ABR: REQUEST BROADBAND PTY LTD ACN 091 530 586"
     }
   ],
   "aliases": [

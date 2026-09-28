@@ -4,7 +4,7 @@
   "birthplace": "Glendenning (Blacktown), NSW",
   "status": "inactive",
   "website": "https://isp.net.au",
-  "summary": "Budget western-Sydney dial-up ISP (rpi.net.au, RP Internet Services), run by Rob Thomas from 2 Della Place, Glendenning NSW. rpi.net.au live from 23 Dec 1996 ('RP Internet Services is an Internet Service Provider, based in Sydney'); flat-rate dial-up, connect.com.au uplink, ACC Tigris dial-up access servers; AS9449 (RPI-AS-AP, announced in the BGP table). Ceased trading ~Aug 2001; customers reportedly absorbed by Independent Service Providers (isp.net.au). AS9449 later passed to Rob Thomas's subsequent venture QLD VoIP Services (qldvoip.com.au).",
+  "summary": "Budget western-Sydney dial-up ISP (rpi.net.au, RP Internet Services), run by Rob Thomas from 2 Della Place, Glendenning NSW. rpi.net.au live from 23 Dec 1996 ('RP Internet Services is an Internet Service Provider, based in Sydney'); flat-rate dial-up, connect.com.au uplink, ACC Tigris dial-up access servers; AS9449 (RPI-AS-AP, announced in the BGP table). Ceased trading ~Aug 2001; customers reportedly absorbed by Independent Service Providers (isp.net.au). AS9449 later passed to Rob Thomas's subsequent venture QLD VoIP Services (qldvoip.com.au) (PAMELA M ZACOVICH & ROBIN E THOMAS (T/A RP INTERNET SERVICES) (partnership), ABN 93 023 536 876).",
   "names": [
     {
       "name": "RP Internet Services",
@@ -85,6 +85,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961223005045/http://www.rpi.net.au/",
       "label": "RPI Internet (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=93023536876",
+      "label": "ABR: PAMELA M ZACOVICH & ROBIN E THOMAS (T/A RP INTERNET SERVICES) ABN 93 023 536 876"
     }
   ]
 }

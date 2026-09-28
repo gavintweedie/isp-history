@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://isage.net.au",
-  "summary": "ISP (iSage Internet Pty Ltd, ©1998-2012; dialup, ADSL, VoIP, hosting); after Veridas collapsed 2006, re-contracted with ispOne; site up to 2012.",
+  "summary": "ISP (iSage Internet Pty Ltd, ©1998-2012; dialup, ADSL, VoIP, hosting); after Veridas collapsed 2006, re-contracted with ispOne; site up to 2012 (ACN 133 451 224).",
   "names": [
     {
       "name": "isage",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20121028063256/http://www.isage.net.au/",
       "label": "isage (Wayback 2012)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=83133451224",
+      "label": "ABR: ISAGE INTERNET PTY. LTD. ACN 133 451 224"
     }
   ]
 }

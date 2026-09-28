@@ -4,7 +4,7 @@
   "birthplace": "Reservoir (Melbourne), VIC",
   "status": "inactive",
   "website": "https://beterlnk.com.au",
-  "summary": "Melbourne dialup ISP; dead c. 2003.",
+  "summary": "Melbourne dialup ISP; dead c. 2003 (BETTERLINK PTY LTD, ACN 075 486 618).",
   "names": [
     {
       "name": "Betterlink",
@@ -47,6 +47,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000820191354/http://www.cynosure.com.au/isp/beterlnk",
       "label": "Betterlink (Cynosure 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=13075486618",
+      "label": "ABR: BETTERLINK PTY LTD ACN 075 486 618"
     }
   ]
 }

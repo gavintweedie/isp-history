@@ -4,7 +4,7 @@
   "birthplace": "Mascot (Sydney), NSW",
   "status": "inactive",
   "website": "https://ip.net.au",
-  "summary": "Sydney dialup/dedicated + hosting ISP (a division of Zircon Systems Pty Ltd, ip.net.au; POPs Syd/Melb/Bris/Adel/Perth); went to PSINet (1999) as part of Zircon, then NTG (2002), then Nexon (2003-04).",
+  "summary": "Sydney dialup/dedicated + hosting ISP (a division of Zircon Systems Pty Ltd, ip.net.au; POPs Syd/Melb/Bris/Adel/Perth); went to PSINet (1999) as part of Zircon, then NTG (2002), then Nexon (2003-04) (ACN 003 233 421).",
   "names": [
     {
       "name": "Internet Plus",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021202222937/http://www.cynosure.com.au/isp/ip",
       "label": "Internet Plus (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53003233421",
+      "label": "ABR: ZIRCON SYSTEMS PTY LIMITED ACN 003 233 421"
     }
   ]
 }

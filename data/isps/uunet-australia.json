@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "uunet.com",
-  "summary": "Australian operation of UUNet (MCI WorldCom subsidiary; launched AU/NZ 2 Sep 1999); inherited Access One's business services (rebranded UUNet 1999); corporate arm wound down after WorldCom's 2002 bankruptcy.",
+  "summary": "Australian operation of UUNet (MCI WorldCom subsidiary; launched AU/NZ 2 Sep 1999); inherited Access One's business services (rebranded UUNet 1999); corporate arm wound down after WorldCom's 2002 bankruptcy (VERIZON AUSTRALIA PTY LIMITED (FORMERLY MCI WORLDCOM AUST PTY LTD), ACN 081 001 194).",
   "names": [
     {
       "name": "UUNet Australia",
@@ -33,6 +33,11 @@
       "kind": "news",
       "url": "https://www.computerworld.com/article/1653759/uunet-launches-in-australia.html",
       "label": "Computerworld: UUNet launches in Australia (1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=62081001194",
+      "label": "ABR: VERIZON AUSTRALIA PTY LIMITED ACN 081 001 194"
     }
   ]
 }

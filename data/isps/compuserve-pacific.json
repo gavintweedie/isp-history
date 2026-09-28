@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://compuserve.com.au",
-  "summary": "CompuServe's Australian service, operated as 'CompuServe Pacific' by Fujitsu Australia Ltd; dial-in nodes from ~1991; phased out after AOL's 1998 global acquisition of CompuServe, shut down in the early 2000s.",
+  "summary": "CompuServe's Australian service, operated as 'CompuServe Pacific' by Fujitsu Australia Ltd; dial-in nodes from ~1991; phased out after AOL's 1998 global acquisition of CompuServe, shut down in the early 2000s (ACN 001 011 427).",
   "names": [
     {
       "name": "CompuServe Pacific",
@@ -41,6 +41,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961225024523/http://www.compuserve.com.au/",
       "label": "CompuServe Pacific / Fujitsu Australia (Wayback 25 Dec 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=19001011427",
+      "label": "ABR: FUJITSU AUSTRALIA LTD ACN 001 011 427"
     }
   ]
 }

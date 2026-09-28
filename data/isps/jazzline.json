@@ -4,7 +4,7 @@
   "birthplace": "Mount Lawley (Perth), WA",
   "status": "inactive",
   "website": "https://jazzline.net.au",
-  "summary": "Perth dialup-via-ISDN ISP (uplink Paradox Digital); defunct.",
+  "summary": "Perth dialup-via-ISDN ISP (uplink Paradox Digital); defunct (JAZZLINE ENTERPRISES PTY LTD, ACN 081 208 362).",
   "names": [
     {
       "name": "Jazzline Internet Systems",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021219070047/http://www.cynosure.com.au/isp/jazzline",
       "label": "Jazzline (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=12081208362",
+      "label": "ABR: JAZZLINE ENTERPRISES PTY LTD ACN 081 208 362"
     }
   ]
 }

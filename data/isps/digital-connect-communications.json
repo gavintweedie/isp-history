@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://dcc.net.au",
-  "summary": "Brisbane dialup (Quick Link) + games servers + hosting; later a managed-solutions provider.",
+  "summary": "Brisbane dialup (Quick Link) + games servers + hosting; later a managed-solutions provider (A BROWN & E.W BROWN & C.T THOMAS (partnership), ABN 70 558 229 454).",
   "names": [
     {
       "name": "Digital Connect Communications",
@@ -37,6 +37,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20020612041612/http://www.cynosure.com.au/isp/dcc",
       "label": "DCC (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=70558229454",
+      "label": "ABR: A BROWN & E.W BROWN & C.T THOMAS ABN 70 558 229 454"
     }
   ]
 }

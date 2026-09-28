@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://lemon.apana.org.au",
-  "summary": "APANA node lemon.apana.org.au (originally arrakis.apana.org.au, which sold internet access), renamed lemon in 1995; merged with box.apana.org.au late 1995 to form South Australian Technologies (SATECH).",
+  "summary": "APANA node lemon.apana.org.au (originally arrakis.apana.org.au, which sold internet access), renamed lemon in 1995; merged with box.apana.org.au late 1995 to form South Australian Technologies (SATECH) (AUSTRALIAN PUBLIC ACCESS NETWORK ASSOCIATION INC., ABN 84 081 355 722).",
   "names": [
     {
       "name": "Lemon APANA node",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
       "label": "APANA (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=84081355722",
+      "label": "ABR: AUSTRALIAN PUBLIC ACCESS NETWORK ASSOCIATION INC. ACN 081 355 722"
     }
   ]
 }

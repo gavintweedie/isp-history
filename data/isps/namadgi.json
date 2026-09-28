@@ -4,7 +4,7 @@
   "birthplace": "Fyshwick (Canberra), ACT",
   "status": "inactive",
   "website": "https://namadgi.com.au",
-  "summary": "Canberra business/govt internet + hosting + video conferencing + database dev ISP (Sydney POP); defunct.",
+  "summary": "Canberra business/govt internet + hosting + video conferencing + database dev ISP (Sydney POP); defunct (NAMADGI CORPORATION PTY LIMITED, ACN 008 660 204).",
   "names": [
     {
       "name": "Namadgi Corporation",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021221000000/http://www.cynosure.com.au/isp/namadgi",
       "label": "Namadgi (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=84008660204",
+      "label": "ABR: NAMADGI CORPORATION PTY LIMITED ACN 008 660 204"
     }
   ]
 }

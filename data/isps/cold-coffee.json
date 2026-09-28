@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://coldcoffee.net.au",
-  "summary": "Budget nationwide dialup ISP ($15.95-19.95 unlimited, ~2003-05); retail site gone by mid-2005.",
+  "summary": "Budget nationwide dialup ISP ($15.95-19.95 unlimited, ~2003-05); retail site gone by mid-2005 (A.C.N. 097 108 999 PTY LTD (FORMERLY COLD COFFEE INTERNET SERVICES PTY LTD), ACN 097 108 999).",
   "names": [
     {
       "name": "Cold Coffee",
@@ -32,6 +32,13 @@
       "source": [
         "Wayback CDX coldcoffee.net.au: last 200 content 20050124, 403 by 20050614, final capture 20050717"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=56097108999",
+      "label": "ABR: A.C.N. 097 108 999 PTY LTD ACN 097 108 999"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://orac.net.au",
-  "summary": "Canberra dialup/hosting ISP (ORAC Global Pty Ltd); merged into APEX Internet ~2001.",
+  "summary": "Canberra dialup/hosting ISP (ORAC Global Pty Ltd); merged into APEX Internet ~2001 (ORAC GLOBAL INTERNET PTY LTD, ACN 079 896 656).",
   "names": [
     {
       "name": "ORAC Global Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980110232356/http://www.orac.net.au/",
       "label": "ORAC (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=86079896656",
+      "label": "ABR: ORAC GLOBAL INTERNET PTY LTD ACN 079 896 656"
     }
   ]
 }

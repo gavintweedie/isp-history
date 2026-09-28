@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://intervision.net.au",
-  "summary": "Melbourne ISP (branded Intervision/ClubAOL); closed Aug 2002, customers continued by Nella Networks.",
+  "summary": "Melbourne ISP (branded Intervision/ClubAOL); closed Aug 2002, customers continued by Nella Networks (CLUB AUSTRALASIA PTY. LTD. (TRADING AS INTERVISION INTERNET SERVICES), ACN 066 984 067).",
   "names": [
     {
       "name": "Intervision Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030925071459/http://www.intervision.net.au/",
       "label": "Intervision closure notice (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=16066984067",
+      "label": "ABR: CLUB AUSTRALASIA PTY. LTD. (TRADING AS INTERVISION INTERNET SERVICES) ACN 066 984 067"
     }
   ]
 }

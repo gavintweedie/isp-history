@@ -4,7 +4,7 @@
   "birthplace": "Seymour, VIC",
   "status": "inactive",
   "website": "https://eck.net.au",
-  "summary": "Regional VIC dialup ISP (E.C.K. Computers, Melbourne/Seymour POPs), later ADSL; dead by 2009.",
+  "summary": "Regional VIC dialup ISP (E.C.K. Computers, Melbourne/Seymour POPs), later ADSL; dead by 2009 (THE TRUSTEE FOR NEUMEISTER FAMILY TRUST (T/A ECK COMPUTERS PTY LTD) (trust), ABN 30 950 685 474).",
   "names": [
     {
       "name": "ECKnet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030529/http://www.eck.net.au/",
       "label": "ECKnet (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=30950685474",
+      "label": "ABR: THE TRUSTEE FOR NEUMEISTER FAMILY TRUST (T/A ECK COMPUTERS PTY LTD) ABN 30 950 685 474"
     }
   ]
 }

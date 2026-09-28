@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://ozramp.com.au",
-  "summary": "Melbourne dialup ISP (oZramp Pty Ltd, 1995, AS9332; later 'full national coverage'); run under Phoneware Online Pty Ltd (also t/a Lexicon Internet Services), which went into administration ~May 2002.",
+  "summary": "Melbourne dialup ISP (oZramp Pty Ltd, 1995, AS9332; later 'full national coverage'); run under Phoneware Online Pty Ltd (also t/a Lexicon Internet Services), which went into administration ~May 2002 (ACN 081 165 871).",
   "names": [
     {
       "name": "Ozramp",
@@ -26,6 +26,13 @@
       "date_disp": "May 2002",
       "precision": "exact",
       "details": "Phoneware Online administration."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=99081165871",
+      "label": "ABR: PHONEWARE ONLINE PTY LTD ACN 081 165 871"
     }
   ]
 }

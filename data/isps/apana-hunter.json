@@ -4,7 +4,7 @@
   "birthplace": "Newcastle/Maitland, NSW",
   "status": "inactive",
   "website": "https://hunter.apana.org.au",
-  "summary": "APANA regional hub hunter.apana.org.au (Newcastle/Maitland, Hunter region); listed as an APANA region by Jan 1998, subdomain live by 1999; defunct.",
+  "summary": "APANA regional hub hunter.apana.org.au (Newcastle/Maitland, Hunter region); listed as an APANA region by Jan 1998, subdomain live by 1999; defunct (AUSTRALIAN PUBLIC ACCESS NETWORK ASSOCIATION INC., ABN 84 081 355 722).",
   "names": [
     {
       "name": "APANA Hunter node",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970712064912/http://www.apana.org.au/",
       "label": "APANA (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=84081355722",
+      "label": "ABR: AUSTRALIAN PUBLIC ACCESS NETWORK ASSOCIATION INC. ACN 081 355 722"
     }
   ]
 }

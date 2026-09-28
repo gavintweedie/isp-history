@@ -4,7 +4,7 @@
   "birthplace": "Wagga Wagga, NSW",
   "status": "inactive",
   "website": "http://www.rivnet.com.au",
-  "summary": "Wagga Wagga / Riverina NSW regional ISP (rivnet.com.au); live site 2012-2016, then defunct (domain parked). Founding year unconfirmed.",
+  "summary": "Wagga Wagga / Riverina NSW regional ISP (rivnet.com.au); live site 2012-2016, then defunct (domain parked). Founding year unconfirmed (2M SYSTEMS PTY LTD, ACN 613 465 900).",
   "aliases": [
     "Riverina Internet",
     "rivnet.com.au"
@@ -43,6 +43,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2012/http://www.rivnet.com.au/",
       "label": "RivNet (Wayback 2012)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=20613465900",
+      "label": "ABR: 2M SYSTEMS PTY LTD ACN 613 465 900"
     }
   ]
 }

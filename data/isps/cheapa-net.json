@@ -4,7 +4,7 @@
   "birthplace": "Bondi Junction (Sydney), NSW",
   "status": "inactive",
   "website": "https://cheapa.net",
-  "summary": "Sydney cheap unlimited dialup ISP (IIA member), same address as Asia Connect; defunct.",
+  "summary": "Sydney cheap unlimited dialup ISP (IIA member), same address as Asia Connect; defunct (CHEAPA.NET UNIT TRUST (trust), ABN 58 531 317 409).",
   "names": [
     {
       "name": "Cheapa Net",
@@ -37,6 +37,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021217021915/http://www.cynosure.com.au/isp/cheapa",
       "label": "Cheapa Net (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=58531317409",
+      "label": "ABR: CHEAPA.NET UNIT TRUST ABN 58 531 317 409"
     }
   ]
 }

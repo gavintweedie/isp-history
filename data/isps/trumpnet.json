@@ -4,7 +4,7 @@
   "birthplace": "Hobart, TAS",
   "status": "inactive",
   "website": "https://trump.net.au",
-  "summary": "Tasmania's first commercial ISP; the ISP division of Trumpet Software International (Trumpet Winsock, Peter Tattam); statewide dialup + web hosting; receivership mid-2007, customers to Internet Tasmania (Intas) 1 Aug 2007; domain later on iiNet infrastructure.",
+  "summary": "Tasmania's first commercial ISP; the ISP division of Trumpet Software International (Trumpet Winsock, Peter Tattam); statewide dialup + web hosting; receivership mid-2007, customers to Internet Tasmania (Intas) 1 Aug 2007; domain later on iiNet infrastructure (TRUMPNET PTY LTD, ACN 071 094 963).",
   "names": [
     {
       "name": "TrumpNet",
@@ -38,6 +38,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20080821044841/http://trump.net.au/announce.html",
       "label": "TrumpNet takeover notice (Wayback 2008)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=57071094963",
+      "label": "ABR: TRUMPNET PTY LTD ACN 071 094 963"
     }
   ]
 }

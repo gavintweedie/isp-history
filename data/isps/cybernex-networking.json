@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://cybernex.net.au",
-  "summary": "Dialup + web hosting ISP (©1995-1998); homepage frozen at Aug 1998 yet served for a decade; domain rebuilt as a CMS site c. 2012-13 then reduced to a placeholder.",
+  "summary": "Dialup + web hosting ISP (©1995-1998); homepage frozen at Aug 1998 yet served for a decade; domain rebuilt as a CMS site c. 2012-13 then reduced to a placeholder (THE R DEPPELER FAMILY TRUST (trust), ABN 66 949 205 804).",
   "names": [
     {
       "name": "Cybernex Networking",
@@ -42,6 +42,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19971224110549/http://cybernex.net.au/",
       "label": "Cybernex (Wayback 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=66949205804",
+      "label": "ABR: THE R DEPPELER FAMILY TRUST ABN 66 949 205 804"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Katherine, NT",
   "status": "inactive",
   "website": "https://nt-tech.com.au",
-  "summary": "Katherine NT dialup/ISDN + hosting + web dev + internet cafe (15 PCs) ISP; defunct.",
+  "summary": "Katherine NT dialup/ISDN + hosting + web dev + internet cafe (15 PCs) ISP; defunct (NT TECHNOLOGY TRUST (trust), ABN 31 203 875 614).",
   "names": [
     {
       "name": "NT Technology",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030106000000/http://www.cynosure.com.au/isp/nttech",
       "label": "NT Technology (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=31203875614",
+      "label": "ABR: NT TECHNOLOGY TRUST ABN 31 203 875 614"
     }
   ]
 }

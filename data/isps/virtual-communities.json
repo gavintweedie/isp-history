@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "virtual.net.au",
-  "summary": "Melbourne-based ISP; acquired the AustarMetro customer base (c. 2003, Austar's metro ISP brand descended from Eisa); acquired by iiNet in 2004.",
+  "summary": "Melbourne-based ISP; acquired the AustarMetro customer base (c. 2003, Austar's metro ISP brand descended from Eisa); acquired by iiNet in 2004 (VIRTUAL COMMUNITIES LIMITED, ACN 086 385 346).",
   "names": [
     {
       "name": "Internet Services of Virtual Communities",
@@ -40,6 +40,13 @@
           "label": "Whirlpool (Oct 2005): iiNet bought the austarmetro customer base from Virtual Communities in 2004"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=55086385346",
+      "label": "ABR: VIRTUAL COMMUNITIES LIMITED ACN 086 385 346"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://grapevine.com.au",
-  "summary": "Canberra dialup/broadband ISP over TransACT's network; began as ActewAGL Net Connect (2003), rebranded Grapevine 2005 (ActewAGL + TransACT JV), wholly owned by TransACT from May 2010.",
+  "summary": "Canberra dialup/broadband ISP over TransACT's network; began as ActewAGL Net Connect (2003), rebranded Grapevine 2005 (ActewAGL + TransACT JV), wholly owned by TransACT from May 2010 (ACTEW RETAIL LTD & AGL ACT RETAIL INVESTMENTS PTY LIMITED & TRANSACT CAPITAL COMMUNICATIONS PTY LTD (partnership), ABN 49 135 731 130).",
   "names": [
     {
       "name": "Grapevine",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20111224061650/http://www.grapevine.com.au/about/whoIsGrapevine.aspx",
       "label": "Grapevine: Who is Grapevine (Wayback 2011)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=49135731130",
+      "label": "ABR: ACTEW RETAIL LTD & AGL ACT RETAIL INVESTMENTS PTY LIMITED & TRANSACT CAPITAL COMMUNICATIONS PTY LTD ABN 49 135 731 130"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://world-link.com.au",
-  "summary": "Adelaide ISP (world-link.com.au, operator Don); no connection fees; in the SA peering community by Jan 1998.",
+  "summary": "Adelaide ISP (world-link.com.au, operator Don); no connection fees; in the SA peering community by Jan 1998 (SURFINDAWEB COMMUNICATIONS PTY LTD, ACN 086 769 075).",
   "names": [
     {
       "name": "World-Link Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001204230000/http://www.world-link.com.au/",
       "label": "World-Link (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=91086769075",
+      "label": "ABR: SURFINDAWEB COMMUNICATIONS PTY LTD ACN 086 769 075"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://camtech.com.au",
-  "summary": "University of Adelaide IT company (Campus Technologies, from 1983; hardware/computer shops); ISP arm from 1994 (AARNet VAR), SA internet business sold to OzEmail March 1998.",
+  "summary": "University of Adelaide IT company (Campus Technologies, from 1983; hardware/computer shops); ISP arm from 1994 (AARNet VAR), SA internet business sold to OzEmail March 1998 (CAMTECH (SA) PTY LTD, ACN 060 292 846).",
   "names": [
     {
       "name": "Camtech (SA)",
@@ -56,6 +56,11 @@
       "kind": "news",
       "url": "https://www.rogerclarke.com/II/OzIHist.html",
       "label": "Roger Clarke's Brief History of the Internet in Australia: Camtech among the 1994 AARNet VARs"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=69060292846",
+      "label": "ABR: CAMTECH (SA) PTY LTD ACN 060 292 846"
     }
   ]
 }

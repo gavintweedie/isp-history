@@ -4,7 +4,7 @@
   "birthplace": "Osborne Park (Perth), WA",
   "status": "inactive",
   "website": "https://directnet.com.au",
-  "summary": "Perth dialup + network consulting + hosting ISP; brand succeeded by AustralianIT ~2005 (unverified).",
+  "summary": "Perth dialup + network consulting + hosting ISP; brand succeeded by AustralianIT ~2005 (unverified) (DIRECT NET SOLUTIONS PTY LTD, ACN 082 687 858).",
   "names": [
     {
       "name": "Direct Net Solutions",
@@ -39,6 +39,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20040212072300/http://www.directnet.com.au/",
       "label": "Direct Net Solutions (Wayback 12 Feb 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=78082687858",
+      "label": "ABR: DIRECT NET SOLUTIONS PTY LTD ACN 082 687 858"
     }
   ]
 }

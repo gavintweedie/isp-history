@@ -4,7 +4,7 @@
   "birthplace": "Balaklava, SA",
   "status": "inactive",
   "website": "https://rbe.net.au",
-  "summary": "Regional SA dialup ISP (rbe.net.au, by 1998); defunct.",
+  "summary": "Regional SA dialup ISP (rbe.net.au, by 1998); defunct (B.L NANKIVELL & R.G NANKIVELL (partnership), ABN 21 809 727 975).",
   "names": [
     {
       "name": "RBE Internet",
@@ -45,6 +45,13 @@
           "label": "Wayback: first webmail-only / parked homepage"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=21809727975",
+      "label": "ABR: B.L NANKIVELL & R.G NANKIVELL ABN 21 809 727 975"
     }
   ]
 }

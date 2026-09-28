@@ -4,7 +4,7 @@
   "birthplace": "Liverpool (Sydney), NSW",
   "status": "inactive",
   "website": "https://npgx.com.au",
-  "summary": "BBS/filebase/email/telnet/ftp/web + online gaming provider (Liverpool POP); defunct.",
+  "summary": "BBS/filebase/email/telnet/ftp/web + online gaming provider (Liverpool POP); defunct (NPGX PTY. LTD., ACN 072 229 031).",
   "names": [
     {
       "name": "NPGX",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021221000000/http://www.cynosure.com.au/isp/npgx",
       "label": "NPGX (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=90072229031",
+      "label": "ABR: NPGX PTY. LTD. ACN 072 229 031"
     }
   ]
 }

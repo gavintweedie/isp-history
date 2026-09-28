@@ -4,7 +4,7 @@
   "birthplace": "North Perth, WA",
   "status": "inactive",
   "website": "https://radiowan.net.au",
-  "summary": "Perth wireless (radio) high-speed internet + VPNs; founded 1998, died ~2002.",
+  "summary": "Perth wireless (radio) high-speed internet + VPNs; founded 1998, died ~2002 (EFTEL RADIO PTY LTD, ACN 093 759 061).",
   "names": [
     {
       "name": "Radiowan",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000304181029/http://www.radiowan.net.au/1About.htm",
       "label": "Radiowan (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=33093759061",
+      "label": "ABR: EFTEL RADIO PTY LTD ACN 093 759 061"
     }
   ]
 }

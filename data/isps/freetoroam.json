@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://iroam.com.au",
-  "summary": "iBurst wireless broadband reseller (iRoam, ~2003); defunct when iBurst closed.",
+  "summary": "iBurst wireless broadband reseller (iRoam, ~2003); defunct when iBurst closed (MICHAEL ISSA (SOLE TRADER) (sole trader), ABN 93 701 923 886).",
   "names": [
     {
       "name": "FreeToRoam",
@@ -26,6 +26,13 @@
       "date_disp": "2008",
       "precision": "exact",
       "details": "Defunct (iBurst network closed)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=93701923886",
+      "label": "ABR: MICHAEL ISSA (SOLE TRADER) ABN 93 701 923 886"
     }
   ]
 }

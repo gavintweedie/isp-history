@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "http://www.pnc.com.au",
-  "summary": "Sydney ISP (pnc.com.au, AS7694), a participant on the AusBone Sydney (SIX) exchange with a 2M DDS link; peering contact Luke McKinnon.",
+  "summary": "Sydney ISP (pnc.com.au, AS7694), a participant on the AusBone Sydney (SIX) exchange with a 2M DDS link; peering contact Luke McKinnon (PLANET NETCOM PTY. LIMITED, ACN 066 981 235).",
   "aliases": [
     "pnc.com.au"
   ],
@@ -51,6 +51,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010408024258/http://www.ausbone.net/sydney.htm",
       "label": "AusBone Sydney (SIX) participants (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=25066981235",
+      "label": "ABR: PLANET NETCOM PTY. LIMITED ACN 066 981 235"
     }
   ]
 }

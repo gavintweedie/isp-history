@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://cobweb.com.au",
-  "summary": "Adelaide dialup ISP (cobweb.com.au); in the SA peering community by Apr 1998; absorbed into Chariot netconnect by Dec 2003.",
+  "summary": "Adelaide dialup ISP (cobweb.com.au); in the SA peering community by Apr 1998; absorbed into Chariot netconnect by Dec 2003 (ACN 088 377 860).",
   "names": [
     {
       "name": "Cobweb Internet Services",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980422231623/http://cobweb.com.au/",
       "label": "Cobweb (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=31088377860",
+      "label": "ABR: CHARIOT LIMITED ACN 088 377 860"
     }
   ]
 }

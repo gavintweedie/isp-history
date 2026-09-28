@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://arachnet.com.au",
-  "summary": "Perth ISP founded 1996; acquired by Amcom Telecommunications c.2005.",
+  "summary": "Perth ISP founded 1996; acquired by Amcom Telecommunications c.2005 (W.A. DATA PTY. LTD. (T/A ARACHNET; ALSO TRUSTEE FOR THE ARACHNET UNIT TRUST), ACN 009 432 044).",
   "names": [
     {
       "name": "Arachnet",
@@ -37,6 +37,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20040902040024/http://www.arachnet.com.au/about/company_profile/",
       "label": "Arachnet company profile (Wayback 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=64009432044",
+      "label": "ABR: W.A. DATA PTY. LTD. (T/A ARACHNET; ALSO TRUSTEE FOR THE ARACHNET UNIT TRUST) ACN 009 432 044"
     }
   ]
 }

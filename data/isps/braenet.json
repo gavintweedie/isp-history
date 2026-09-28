@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://braenet.com.au",
-  "summary": "Corporate ISP (Cisco Regional ISP); acquired by Savtek Internet Services ~2003.",
+  "summary": "Corporate ISP (Cisco Regional ISP); acquired by Savtek Internet Services ~2003 (BRAENET PTY LIMITED (LATER RENAMED BRAEMAC (AUSTRALIA) PTY LIMITED), ACN 077 445 320).",
   "names": [
     {
       "name": "Braenet",
@@ -23,7 +23,7 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20011013074010/http://www.braenet.com.au/about.html",
-          "label": "Braenet Company History (Wayback 13 Oct 2001) \u2014 founded December 1996 by Braemac"
+          "label": "Braenet Company History (Wayback 13 Oct 2001) — founded December 1996 by Braemac"
         }
       ],
       "source": [
@@ -47,6 +47,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021128084647/http://www.braenet.com.au/",
       "label": "Braenet (Wayback 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=58077445320",
+      "label": "ABR: BRAENET PTY LIMITED PTY LIMITED) ACN 077 445 320"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://crystal.com.au",
-  "summary": "Perth dialup ISP (16 public dialups); absorbed by EFTel ~2011.",
+  "summary": "Perth dialup ISP (16 public dialups); absorbed by EFTel ~2011 (A I P GROUP PTY LTD (T/A CRYSTAL INTERNET SERVICES), ACN 081 304 789).",
   "names": [
     {
       "name": "Crystal Internet Services",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981212013414/http://crystal.com.au/",
       "label": "Crystal (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=95081304789",
+      "label": "ABR: A I P GROUP PTY LTD (T/A CRYSTAL INTERNET SERVICES) ACN 081 304 789"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Christmas Island (Australian Indian Ocean Territory)",
   "status": "inactive",
   "website": "http://www.cia.org.cx",
-  "summary": "Community-owned, non-profit ISP (Christmas Island Internet Administration Limited, CIIA) serving Christmas Island and the Cocos (Keeling) Islands; established Mar 2000 from the assets of IOComm; the sole ISP for the Indian Ocean Territories from c. 2001; also operator of the .cx ccTLD; ceased services 1 Mar 2017.",
+  "summary": "Community-owned, non-profit ISP (Christmas Island Internet Administration Limited, CIIA) serving Christmas Island and the Cocos (Keeling) Islands; established Mar 2000 from the assets of IOComm; the sole ISP for the Indian Ocean Territories from c. 2001; also operator of the .cx ccTLD; ceased services 1 Mar 2017 (CHRISTMAS ISLAND DOMAIN ADMINISTRATION LIMITED (TRADING AS CHRISTMAS ISLAND INTERNET ADMINISTRATION LIMITED / CIIA), ACN 091 843 417).",
   "aliases": [
     "CIIA",
     "Christmas Island Internet Administration Limited",
@@ -50,6 +50,11 @@
       "kind": "official",
       "url": "https://www.legislation.gov.au/C2016G01003/asmade",
       "label": "Grant of carrier licence (2016)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=38091843417",
+      "label": "ABR: CHRISTMAS ISLAND DOMAIN ADMINISTRATION LIMITED (TRADING AS CHRISTMAS ISLAND INTERNET ADMINISTRATION LIMITED / CIIA) ACN 091 843 417"
     }
   ]
 }

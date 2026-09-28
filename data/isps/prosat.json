@@ -4,7 +4,7 @@
   "birthplace": "Minto Heights (Sydney), NSW",
   "status": "inactive",
   "website": "https://prosat.com.au",
-  "summary": "Sydney dialup + hosting + training ISP (Liverpool POP via Paradox Digital); defunct.",
+  "summary": "Sydney dialup + hosting + training ISP (Liverpool POP via Paradox Digital); defunct (PROFESSIONAL SATELLITE SERVICES PTY LTD, ACN 092 682 516).",
   "names": [
     {
       "name": "Prosat Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021225000000/http://www.cynosure.com.au/isp/prosat",
       "label": "Prosat (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=22092682516",
+      "label": "ABR: PROFESSIONAL SATELLITE SERVICES PTY LTD ACN 092 682 516"
     }
   ]
 }

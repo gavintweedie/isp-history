@@ -4,7 +4,7 @@
   "birthplace": "Raymond Terrace, NSW",
   "status": "inactive",
   "website": "https://bmr.net.au",
-  "summary": "Raymond Terrace dial-up ISP + web hosting; acquired by C&N/CNN Internet ~2001-02.",
+  "summary": "Raymond Terrace dial-up ISP + web hosting; acquired by C&N/CNN Internet ~2001-02 (ROBERTS, BRYCE MARTIN (sole trader), ABN 46 256 749 209).",
   "names": [
     {
       "name": "BMR.NET",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981203062631/http://www.bmr.net.au/",
       "label": "BMR.NET (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=46256749209",
+      "label": "ABR: ROBERTS, BRYCE MARTIN ABN 46 256 749 209"
     }
   ]
 }

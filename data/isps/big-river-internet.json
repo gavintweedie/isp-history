@@ -4,7 +4,7 @@
   "birthplace": "Grafton, NSW",
   "status": "inactive",
   "website": "https://bri.net.au",
-  "summary": "Grafton NSW regional ISP (bri.net.au live by Jan 1998; BRI); in the Nornet/Linear G group from ~2001; brand folded into LinearG Dec 2018.",
+  "summary": "Grafton NSW regional ISP (bri.net.au live by Jan 1998; BRI); in the Nornet/Linear G group from ~2001; brand folded into LinearG Dec 2018 (NORNET ENTERPRISES PTY. LTD., ACN 097 787 892).",
   "aliases": [
     "BRI",
     "bri.net.au"
@@ -67,6 +67,11 @@
       "kind": "official",
       "url": "https://linearg.com/",
       "label": "LinearG homepage: lists Big River Internet among the ISPs incorporated"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=75097787892",
+      "label": "ABR: NORNET ENTERPRISES PTY. LTD. ACN 097 787 892"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Keswick (Adelaide), SA",
   "status": "inactive",
   "website": "https://esc.net.au",
-  "summary": "Adelaide ISP (esc.net.au, Keswick SA, operator Stavros Patiniotis); in the SA peering community by Feb 2000.",
+  "summary": "Adelaide ISP (esc.net.au, Keswick SA, operator Stavros Patiniotis); in the SA peering community by Feb 2000 (ESCAPENET TRUST (trust), ABN 27 133 173 957).",
   "names": [
     {
       "name": "ESC Internet",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000303110745/http://www.esc.net.au/",
       "label": "ESC (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=27133173957",
+      "label": "ABR: ESCAPENET TRUST ABN 27 133 173 957"
     }
   ]
 }

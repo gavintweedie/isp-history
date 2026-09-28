@@ -4,7 +4,7 @@
   "birthplace": "Meadowbank (Sydney), NSW",
   "status": "inactive",
   "website": "https://ar.com.au",
-  "summary": "Sydney dialup then ADSL ISP since Jan 1994; operated to ~2018.",
+  "summary": "Sydney dialup then ADSL ISP since Jan 1994; operated to ~2018 (THE TRUSTEE FOR C.I.A. UNIT TRUST (trust), ABN 72 924 334 435).",
   "names": [
     {
       "name": "AR Internet",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20180127000000/http://ar.com.au/",
       "label": "AR Internet (Wayback 2018)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=72924334435",
+      "label": "ABR: THE TRUSTEE FOR C.I.A. UNIT TRUST ABN 72 924 334 435"
     }
   ]
 }

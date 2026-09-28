@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "http://www.one.net.au",
-  "summary": "Australian ISP (one.net.au, AS7617); a participant on the AusBone Brisbane (BIX) exchange; NOC contact listed at a Sydney number.",
+  "summary": "Australian ISP (one.net.au, AS7617); a participant on the AusBone Brisbane (BIX) exchange; NOC contact listed at a Sydney number (ACN 075 553 927).",
   "aliases": [
     "one.net.au"
   ],
@@ -50,6 +50,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010406105734/http://www.ausbone.net/brisbane.htm",
       "label": "AusBone Brisbane (BIX) participants (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=33075553927",
+      "label": "ABR: ONE.NET PTY LIMITED ACN 075 553 927"
     }
   ]
 }

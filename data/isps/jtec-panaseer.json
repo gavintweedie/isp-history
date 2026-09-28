@@ -3,7 +3,7 @@
   "slug": "jtec-panaseer",
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
-  "summary": "Managed telecoms/VPN provider: Panaseer services division of Jtec Pty Ltd (launched Feb 2000; parent Jtec from 1987, ex-AWA engineers); acquired by Commander Communications in Jan/Feb 2004.",
+  "summary": "Managed telecoms/VPN provider: Panaseer services division of Jtec Pty Ltd (launched Feb 2000; parent Jtec from 1987, ex-AWA engineers); acquired by Commander Communications in Jan/Feb 2004 (ACN 003 169 088).",
   "names": [
     {
       "name": "Panaseer (Jtec Pty Ltd)",
@@ -51,5 +51,12 @@
   "aliases": [
     "Panaseer",
     "Jtec Pty Ltd"
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=43003169088",
+      "label": "ABR: JTEC PTY LIMITED ACN 003 169 088"
+    }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Longreach, QLD",
   "status": "inactive",
   "website": "https://outbackqld.net.au",
-  "summary": "Longreach regional dialup ISP + computer sales/support + networking consultancy (GITC-accredited, ~1996); defunct.",
+  "summary": "Longreach regional dialup ISP + computer sales/support + networking consultancy (GITC-accredited, ~1996); defunct (DA & MLR FREEMAN (T/A OUTBACK QUEENSLAND INTERNET) (partnership), ABN 57 860 639 305).",
   "names": [
     {
       "name": "Outback Queensland Internet",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2005",
       "precision": "approx",
       "details": "Defunct (domain later Leading Edge Computers Longreach)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=57860639305",
+      "label": "ABR: DA & MLR FREEMAN (T/A OUTBACK QUEENSLAND INTERNET) ABN 57 860 639 305"
     }
   ]
 }

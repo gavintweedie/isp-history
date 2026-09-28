@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://jazi.net",
-  "summary": "WA-owned dialup ISP (PAYG/Casual/Home/Premium plans; POPs Perth + Busselton); defunct.",
+  "summary": "WA-owned dialup ISP (PAYG/Casual/Home/Premium plans; POPs Perth + Busselton); defunct (JAZINET (LIMITED PARTNERSHIP) (partnership), ABN 31 331 748 159).",
   "names": [
     {
       "name": "JaziNET",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021219070007/http://www.cynosure.com.au/isp/jazi",
       "label": "JaziNET (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=31331748159",
+      "label": "ABR: JAZINET (LIMITED PARTNERSHIP) ABN 31 331 748 159"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://atlaswest.com.au",
-  "summary": "Security + internet services (atlaswest.com.au, ~1999-2000); renamed Qwestcom ~2001; defunct by ~2004.",
+  "summary": "Security + internet services (atlaswest.com.au, ~1999-2000); renamed Qwestcom ~2001; defunct by ~2004 (ACN 096 994 704).",
   "names": [
     {
       "name": "Mosaic Security and Internet Services",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2001",
       "precision": "approx",
       "details": "Renamed Qwestcom; defunct ~2004."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=44096994704",
+      "label": "ABR: QWESTCOM PTY LTD ACN 096 994 704"
     }
   ]
 }

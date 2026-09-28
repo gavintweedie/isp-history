@@ -4,7 +4,7 @@
   "birthplace": "Figtree (Wollongong), NSW",
   "status": "inactive",
   "website": "https://aspire.com.au",
-  "summary": "Illawarra dialup/broadband ISP ('Aspire Internet Services', Figtree NSW, \u00a91998); acquired by Melbourne micro-ISP Aardvark Internet in late 2012; aspire.com.au mail continues via Aardvark webmail.",
+  "summary": "Illawarra dialup/broadband ISP ('Aspire Internet Services', Figtree NSW, ©1998); acquired by Melbourne micro-ISP Aardvark Internet in late 2012; aspire.com.au mail continues via Aardvark webmail (ATCHESON, TIMOTHY RUSSELL (sole trader), ABN 68 220 133 079).",
   "names": [
     {
       "name": "Aspire Internet",
@@ -40,6 +40,13 @@
           "label": "Aardvark blog (13 Jan 2013): acquisition of Aspire Internet and Funnelweb Internet"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=68220133079",
+      "label": "ABR: ATCHESON, TIMOTHY RUSSELL ABN 68 220 133 079"
     }
   ]
 }

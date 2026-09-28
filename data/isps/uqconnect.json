@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://uqconnect.net",
-  "summary": "University of Queensland not-for-profit ISP (UQconnect, UQ Information Technology Services); launched 1 Mar 2001; internet/web hosting for UQ community; ceased retail internet services 31 Mar 2012.",
+  "summary": "University of Queensland not-for-profit ISP (UQconnect, UQ Information Technology Services); launched 1 Mar 2001; internet/web hosting for UQ community; ceased retail internet services 31 Mar 2012 (THE UNIVERSITY OF QUEENSLAND (government), ABN 63 942 912 684).",
   "names": [
     {
       "name": "UQConnect",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010518155426/http://uqconnect.net/",
       "label": "UQConnect (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=63942912684",
+      "label": "ABR: THE UNIVERSITY OF QUEENSLAND ABN 63 942 912 684"
     }
   ]
 }

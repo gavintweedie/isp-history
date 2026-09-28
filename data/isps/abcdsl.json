@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://abcdsl.com.au",
-  "summary": "ADSL ISP (brand of Alias Internet web agency, 2002); defunct.",
+  "summary": "ADSL ISP (brand of Alias Internet web agency, 2002); defunct (KEVIN R THOMPSON & KIM RICHARDSON (partnership), ABN 42 024 635 477).",
   "names": [
     {
       "name": "ABCdsl.net",
@@ -35,6 +35,13 @@
       "source": [
         "https://web.archive.org/web/20080718201959id_/http://abcdsl.com.au/"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=42024635477",
+      "label": "ABR: KEVIN R THOMPSON & KIM RICHARDSON ABN 42 024 635 477"
     }
   ]
 }

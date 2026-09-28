@@ -4,7 +4,7 @@
   "birthplace": "Rockingham, WA",
   "status": "inactive",
   "website": "https://coastlink.com.au",
-  "summary": "Rockingham/Kwinana ISP, began as 'Col's Point BBS' (1993); merged into Netway Technologies Jan 1997 as 'Netway Coastlink'.",
+  "summary": "Rockingham/Kwinana ISP, began as 'Col's Point BBS' (1993); merged into Netway Technologies Jan 1997 as 'Netway Coastlink' (ACN 076 696 243).",
   "names": [
     {
       "name": "Coastlink Communications",
@@ -36,6 +36,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980109181416/http://coastlink.com.au/main.html",
       "label": "Coastlink history (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=81076696243",
+      "label": "ABR: NETWAY TECHNOLOGIES PTY LTD ACN 076 696 243"
     }
   ]
 }

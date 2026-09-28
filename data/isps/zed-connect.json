@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "http://www.zed.org",
-  "summary": "Sydney ISP (zed.org, AS9507), a participant on the AusBone Sydney (SIX) exchange with a 2M PAPL link; peering contact James Robinson.",
+  "summary": "Sydney ISP (zed.org, AS9507), a participant on the AusBone Sydney (SIX) exchange with a 2M PAPL link; peering contact James Robinson (ZED CONNECT PTY LTD, ACN 080 117 166).",
   "aliases": [
     "zed.org"
   ],
@@ -40,7 +40,7 @@
         {
           "kind": "archive",
           "url": "https://bgp.tools/as/9507",
-          "label": "AS9507 bgp.tools \u2014 registered to NextHop Pty Ltd"
+          "label": "AS9507 bgp.tools — registered to NextHop Pty Ltd"
         }
       ]
     }
@@ -50,6 +50,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20010408024258/http://www.ausbone.net/sydney.htm",
       "label": "AusBone Sydney (SIX) participants (Wayback 2001)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=73080117166",
+      "label": "ABR: ZED CONNECT PTY LTD ACN 080 117 166"
     }
   ]
 }

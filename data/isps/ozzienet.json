@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://ozzienet.com.au",
-  "summary": "Wholesale + retail internet access provider ('become your own ISP', ~2001, trading as OzzieNet, Bunbury); acquired by Datafast Telecommunications in Jun 2004 (renamed Eftel 2005).",
+  "summary": "Wholesale + retail internet access provider ('become your own ISP', ~2001, trading as OzzieNet, Bunbury); acquired by Datafast Telecommunications in Jun 2004 (renamed Eftel 2005) (OZGLOBAL COMMUNICATIONS PTY LTD (FORMERLY OZZIENET PTY LTD), ACN 097 460 930).",
   "names": [
     {
       "name": "Ozzienet",
@@ -30,7 +30,7 @@
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
-          "label": "Wikipedia: Eftel \u2014 Datafast acquisitions (incl. Jun 2004 OzzieNet)"
+          "label": "Wikipedia: Eftel — Datafast acquisitions (incl. Jun 2004 OzzieNet)"
         },
         {
           "kind": "news",
@@ -42,5 +42,12 @@
   ],
   "aliases": [
     "OzzieNet"
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=73097460930",
+      "label": "ABR: OZGLOBAL COMMUNICATIONS PTY LTD ACN 097 460 930"
+    }
   ]
 }

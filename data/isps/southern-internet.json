@@ -4,7 +4,7 @@
   "birthplace": "Hobart, TAS",
   "status": "inactive",
   "website": "https://southcom.com.au",
-  "summary": "Tasmanian ISP (southcom.com.au); bought by Keypoint, then EFTel.",
+  "summary": "Tasmanian ISP (southcom.com.au); bought by Keypoint, then EFTel (H.B. AUSTRALASIA PTY LTD, ACN 066 489 852).",
   "names": [
     {
       "name": "Southern Internet Services",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961206115012/http://southcom.com.au/",
       "label": "Southcom (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=77066489852",
+      "label": "ABR: H.B. AUSTRALASIA PTY LTD ACN 066 489 852"
     }
   ]
 }

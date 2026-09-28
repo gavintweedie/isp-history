@@ -4,7 +4,7 @@
   "birthplace": "Sydney (Edgecliff), NSW",
   "status": "inactive",
   "website": "https://dragon.net.au",
-  "summary": "Sydney dialup SLIP/PPP ISP (The Hoath Family Trust, Mark Hoath; started 1995, AS7592); used Access One backbone; folded into Bullet Internet ~2006.",
+  "summary": "Sydney dialup SLIP/PPP ISP (The Hoath Family Trust, Mark Hoath; started 1995, AS7592); used Access One backbone; folded into Bullet Internet ~2006 (DRAGON.NET.AU PTY LTD, ACN 084 888 120).",
   "names": [
     {
       "name": "Dragon Net",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19991018195042/http://www.dragon.net.au/about.html",
       "label": "Dragon Net about (Wayback 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=74084888120",
+      "label": "ABR: DRAGON.NET.AU PTY LTD ACN 084 888 120"
     }
   ]
 }

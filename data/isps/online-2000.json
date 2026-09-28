@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "http://www.online2000.com.au",
-  "summary": "Business internet provider acquired by Access Providers (Jul 2005) for an undisclosed sum.",
+  "summary": "Business internet provider acquired by Access Providers (Jul 2005) for an undisclosed sum (PETER SKALIOTIS & PHILLIP KROKIDIS (partnership), ABN 69 402 114 990).",
   "aliases": [
     "Online 2000"
   ],
@@ -36,6 +36,11 @@
       "kind": "news",
       "url": "https://www.itnews.com.au/news/access-providers-weighs-into-wireless-broadband-battle-170330",
       "label": "iTnews: Access Providers buys Online 2000 (Jul 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=69402114990",
+      "label": "ABR: PETER SKALIOTIS & PHILLIP KROKIDIS ABN 69 402 114 990"
     }
   ]
 }

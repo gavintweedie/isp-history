@@ -4,7 +4,7 @@
   "birthplace": "Milton (Brisbane), QLD",
   "status": "inactive",
   "website": "https://bn.quik.com.au",
-  "summary": "Australian franchise arm of the US Quik Internet franchise network (Brisbane dialup + hosting + training); defunct.",
+  "summary": "Australian franchise arm of the US Quik Internet franchise network (Brisbane dialup + hosting + training); defunct (ACN 084 182 203).",
   "names": [
     {
       "name": "Quik Internet Australia",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20030111000000/http://www.cynosure.com.au/isp/quik",
       "label": "Quik Australia (Cynosure 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=88084182203",
+      "label": "ABR: QUIK INTERNET PTY LTD ACN 084 182 203"
     }
   ]
 }

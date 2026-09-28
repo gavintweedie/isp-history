@@ -4,7 +4,7 @@
   "birthplace": "Carnegie (Melbourne), VIC",
   "status": "inactive",
   "website": "https://easysurf.com.au",
-  "summary": "Melbourne ADSL + hosting ISP (Easy Surf Pty Ltd, 80 Koornang Rd, ~2003); defunct.",
+  "summary": "Melbourne ADSL + hosting ISP (Easy Surf Pty Ltd, 80 Koornang Rd, ~2003); defunct (ACN 103 891 550).",
   "names": [
     {
       "name": "Easy Surf",
@@ -38,6 +38,13 @@
           "label": "Wayback: first webmail-only / parked homepage"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=87103891550",
+      "label": "ABR: EASY SURF PTY. LTD. ACN 103 891 550"
     }
   ]
 }

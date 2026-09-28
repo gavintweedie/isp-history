@@ -4,7 +4,7 @@
   "birthplace": "Kalorama (Dandenong Ranges), VIC",
   "status": "active",
   "website": "https://mission.net.au",
-  "summary": "Dialup/ISDN ISP (51 national POPs), Mac specialist; renamed Internet Vision Technologies (IVT) 2000; still active as web dev.",
+  "summary": "Dialup/ISDN ISP (51 national POPs), Mac specialist; renamed Internet Vision Technologies (IVT) 2000; still active as web dev (ACN 092 716 188).",
   "names": [
     {
       "name": "Mission Internet",
@@ -26,6 +26,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000301045147/http://www.mission.net.au/",
       "label": "Mission (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=30092716188",
+      "label": "ABR: INTERNET VISION TECHNOLOGIES PTY LTD ACN 092 716 188"
     }
   ]
 }

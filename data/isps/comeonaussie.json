@@ -4,7 +4,7 @@
   "birthplace": "Taree, NSW",
   "status": "inactive",
   "website": "https://comeonaussie.net",
-  "summary": "Mid-north coast NSW (Taree) dialup + ADSL + hosting ISP (Stephen Spry); access-ISP retail wound down late 2000s; site continued as web hosting/design/domains, then web design/promotion.",
+  "summary": "Mid-north coast NSW (Taree) dialup + ADSL + hosting ISP (Stephen Spry); access-ISP retail wound down late 2000s; site continued as web hosting/design/domains, then web design/promotion (ABN 76 487 053 890).",
   "names": [
     {
       "name": "ComeOnAussie.net",
@@ -33,6 +33,13 @@
         "https://web.archive.org/web/20110902013639/http://www.comeonaussie.net/",
         "https://web.archive.org/web/20131106182631/http://www.comeonaussie.net/"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=76487053890",
+      "label": "ABR: SPRY, STEPHEN ANDREW ABN 76 487 053 890"
     }
   ]
 }

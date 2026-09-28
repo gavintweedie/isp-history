@@ -4,7 +4,7 @@
   "birthplace": "Darwin, NT",
   "status": "inactive",
   "website": "https://topend.com.au",
-  "summary": "NT/QLD dialup ISP (Darwin, Katherine, Alice Springs, Tennant Creek, Mt Isa, Cloncurry, Townsville hubs); 'The First With 2MB In The Territory'; acquired into the Edge/Eisa group c. 2000; defunct.",
+  "summary": "NT/QLD dialup ISP (Darwin, Katherine, Alice Springs, Tennant Creek, Mt Isa, Cloncurry, Townsville hubs); 'The First With 2MB In The Territory'; acquired into the Edge/Eisa group c. 2000; defunct (ACN 077 368 257).",
   "names": [
     {
       "name": "Topend.Com.Au",
@@ -56,6 +56,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20021226000000/http://www.cynosure.com.au/isp/topend",
       "label": "Topend (Cynosure 2002)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=15077368257",
+      "label": "ABR: EISA LIMITED ACN 077 368 257"
     }
   ]
 }
