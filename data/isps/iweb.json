@@ -15,10 +15,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
+      "year": 1997,
+      "date_disp": "by 1997",
       "precision": "by",
-      "details": "Earliest Wayback capture of iweb.net.au Jan 1998."
+      "details": "Earliest Wayback capture of iweb.net.au Jan 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980110155657/http://iweb.net.au/",
+          "label": "Earliest Wayback capture, 10 Jan 1998; the site's 1997 copyright dates the business a year earlier."
+        }
+      ]
     },
     {
       "kind": "death",

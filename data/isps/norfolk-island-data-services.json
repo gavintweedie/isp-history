@@ -15,10 +15,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "by 1996",
+      "year": 1998,
+      "date_disp": "by Dec 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture of ni.net Dec 1996. CAUTION: ni.net 1996-98 captures show 'Network Intensive' (Irvine CA, US ISP) \u2014 different company; do not use ni.net captures as evidence."
+      "details": "Earliest Wayback capture of ni.net Dec 1996. CAUTION: ni.net 1996-98 captures show 'Network Intensive' (Irvine CA, US ISP) — different company; do not use ni.net captures as evidence.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981206200352/http://www.ni.net.nf/",
+          "label": "ni.net.nf first captured 6 Dec 1998."
+        }
+      ]
     },
     {
       "kind": "death",

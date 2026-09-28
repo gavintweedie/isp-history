@@ -17,10 +17,17 @@
       "kind": "birth",
       "year": 2002,
       "date_disp": "by 2002",
-      "precision": "by",
+      "precision": "exact",
       "details": "ISP, hosting, managed IT, IP telephony; earliest cynergic.net.au capture Oct 2002.",
       "source": [
         "https://web.archive.org/web/20021022063050/http://www.cynergic.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=25221157126",
+          "label": "ABN and CYNERGIC NET SOLUTIONS trading name both registered 1 Jul 2002."
+        }
       ]
     },
     {

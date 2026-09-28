@@ -1,0 +1,2492 @@
+[
+ {
+  "slug": "everyones-internet",
+  "found": true,
+  "legal_name": "SAUER, CHRISTOPHER MICHEAL (t/a Nuclear Days Online / Lismore Online; previously SAWTELL, CRAIG JOHN)",
+  "acn": null,
+  "abn": "84723024730",
+  "entity_type": "sole trader",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2003,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20040825120716/http://www.everyonesinternet.com.au/privacy.htm",
+    "quote": "Everyones Internet P.O Box 6159 South Lismore, NSW 2480 ... contact the Everyones Internet Webmaster at info@nucleardaysonline.com",
+    "note": "Site ties the ISP to the Lismore/Nuclear Days operator"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=84723024730",
+    "quote": "Entity name: SAWTELL, CRAIG JOHN 01 Apr 2003 - 01 Aug 2006 | SAUER, CHRISTOPHER MICHEAL 01 Aug 2006 - current | Trading names: Lismore Online; Nuclear Days Online",
+    "note": "Historical ABR record showing the sole trader and Lismore trading names"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The ABR record carries 'Nuclear Days Online'/'Lismore Online', not 'Everyones Internet' itself. Link rests on matching PO Box/email/town. Distinct from the large US 'Everyone's Internet (EV1)' company."
+ },
+ {
+  "slug": "yourhub",
+  "found": true,
+  "legal_name": "J.A KING & R.J KING (t/a Webs-U-See Internet Solutions)",
+  "acn": null,
+  "abn": "13969037584",
+  "entity_type": "partnership",
+  "abn_status": "cancelled",
+  "status_date": "2006-03-31",
+  "registration_year": 2003,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20051106125548/http://www.yourhub.com.au/",
+    "quote": "\u00a9 2005 yourhub- All rights reserved, Another Online partner of Internet Solutions Pty Ltd ... Web Design & Hosting by: Webs-U-See, Internet Solutions Pty Ltd",
+    "note": "Site links yourhub to Webs-U-See / Internet Solutions in Townsville"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=13969037584",
+    "quote": "Entity name: J.A KING & R.J KING | Entity type: Family Partnership | Trading name (search): Webs-U-See Internet Solutions | QLD 4814 | Cancelled from 31 Mar 2006",
+    "note": "ABR links Webs-U-See to the King family partnership in Townsville 4814"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Footer names 'Internet Solutions Pty Ltd' but the matching ABR trading name 'Webs-U-See Internet Solutions' sits on a partnership, and related sole trader ROGER JUSTIN KING (ABN 71 763 098 665) also held the Webs-U-See name. Current YOURHUB business names (AROWANA/ROJOTASH, 2021-2023) are a separate revival."
+ },
+ {
+  "slug": "ozziehost",
+  "found": true,
+  "legal_name": "Michael Troy Willis (sole trader)",
+  "acn": null,
+  "abn": "89909213296",
+  "entity_type": "sole trader",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Ozziehost+Internet&AllNames=True",
+    "quote": "89 909 213 296 Active | OZZIEHOST INTERNET SOLUTIONS | Trading Name (Historic) | 2444 NSW; Entity name WILLIS, MICHAEL TROY; Individual/Sole Trader",
+    "note": "Only exact match for the brand name on the ABR"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20040822050120/http://ozziehost.com.au/",
+    "quote": "Copyright (c) 2004 Ozziehost Internet Solutions",
+    "note": "Archived site uses the same trading name"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABN on the archived site; ABN current active period starts 2026; alternative 'OZZYHOST PTY LTD' (ABN 31 153 296 087) uses a different spelling."
+ },
+ {
+  "slug": "hyperoz",
+  "found": true,
+  "legal_name": "HYPR-OZ Pty. Ltd.",
+  "acn": "129502718",
+  "abn": "34129502718",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2014-06-05",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=34129502718",
+    "quote": "Entity name: HYPR-OZ PTY. LTD.; ACN 129 502 718; Cancelled from 05 Jun 2014",
+    "note": "Closest entity-name match on the ABR"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20030618195943/http://www.hyperoz.com.au/",
+    "quote": "PO Box 3832 Parramatta B.C NSW 2142",
+    "note": "Confirms the site was the Parramatta HyperOz ISP"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABN/ACN on the archived site; HYPR-OZ's ACN (129 502 718) dates to ~2008, after the site's c.2006 death, and ABR location 2486 NSW differs from Parramatta 2142."
+ },
+ {
+  "slug": "123-internet",
+  "found": true,
+  "legal_name": "Sibercom Limited",
+  "acn": "090940515",
+  "abn": "98090940515",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2014-06-05",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=98090940515",
+    "quote": "Entity name: SIBERCOM LIMITED; ACN 090 940 515; trading/business name 123 INTERNET PROVIDER; cancelled 05 Jun 2014",
+    "note": "Only '123 Internet' brand match on the ABR"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20051201020015/http://www.123.net.au/",
+    "quote": "(Available only within Melbourne Metro area) ... Copyright (c) 2003, 123 Internet",
+    "note": "Confirms Melbourne focus of the site"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABR location NSW 2000 clashes with the site's Melbourne Metro focus; no ABN was printed on the archived site, so the linkage is by brand name only."
+ },
+ {
+  "slug": "ezconnect-broadband",
+  "found": true,
+  "legal_name": "Solutions International Pty Limited",
+  "acn": "084159204",
+  "abn": "11084159204",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2022-02-11",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=11084159204",
+    "quote": "Entity name: SOLUTIONS INTERNATIONAL PTY LIMITED; ACN 084 159 204; cancelled 11 Feb 2022",
+    "note": "Entity behind the EZCONNECT business name"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=ezConnect&AllNames=True",
+    "quote": "11 084 159 204 Cancelled | EZCONNECT | Business Name (Historic) | 4115 QLD",
+    "note": "Only EZCONNECT brand match on the ABR"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Only a brand-name match; ABR location QLD 4115; the brief's Inabox backend link is unproven; a distinct 'EZICONNECT.COM.AU PTY LIMITED' (ABN 79 163 864 373) also exists."
+ },
+ {
+  "slug": "zebra-internet",
+  "found": true,
+  "legal_name": "Saunders Properties Pty. Limited",
+  "acn": "083037772",
+  "abn": "97083037772",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2011-12-31",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Zebra+Internet&AllNames=True",
+    "quote": "97 083 037 772 Cancelled | ZEBRA INTERNET | Business Name (Historic) | 2444 NSW",
+    "note": "Historic ZEBRA INTERNET business name under Saunders Properties"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=97083037772",
+    "quote": "Entity name: SAUNDERS PROPERTIES PTY. LIMITED; ACN 083 037 772; cancelled 31 Dec 2011",
+    "note": "Entity holding the ZEBRA INTERNET name"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABN on the archived site; two later entities also held a 'ZEBRA INTERNET' name (SPV Co Pty Ltd ABN 43 127 289 098; Ultimate Communication Solutions Pty Ltd ABN 48 604 957 477), so the 2003 operator is uncertain."
+ },
+ {
+  "slug": "monkeynet",
+  "found": true,
+  "legal_name": "A.K BOENING & S.C COONEY",
+  "acn": null,
+  "abn": "80432738364",
+  "entity_type": "partnership",
+  "abn_status": "cancelled",
+  "status_date": "2015-01-22",
+  "registration_year": 2004,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=80432738364",
+    "quote": "Entity name: A.K BOENING & S.C COONEY ... Entity type: Other Partnership ... Main business location: VIC 3178 ... Trading name(s): MONKEYNET | 09 Jun 2004",
+    "note": "Partnership whose registered trading name was MONKEYNET (Rowville VIC)."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=42254986561",
+    "quote": "Entity name: BOENING, ANDREW KARL ... Trading name(s): EEC ... Monkey Internet ... Monkey Networks ... Cancelled from 03 Apr 2002",
+    "note": "Related sole-trader ABN with 'EEC' (= Eagle Edge Computing) and Monkey* trading names; same person as the partnership."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Given summary describes a partnership of 'Eagle Edge Computing & 342 IT Solutions', but ABR names the partnership as A.K Boening & S.C Cooney. Related sole-trader ABNs in the same name (42 254 986 561 and 79 285 327 194) also carry Monkey* trading names; ABN 80 432 738 364 registered 2004 but stayed registered until 2015, years after the c.2006 death."
+ },
+ {
+  "slug": "adsl-4-you",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20031120070356/http://www.adsl4you.com.au/",
+    "quote": "We are rebuilding our Website.... Should you need a connection please Phone: 0755267767 or 1300668375",
+    "note": "2003 snapshot of adsl4you.com.au; Gold Coast phone number but no ABN/ACN/entity shown."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20050202081049/http://adsl4you.com.au/",
+    "quote": "Welcome to the telebill site.",
+    "note": "By Feb 2005 the domain was a 'telebill' placeholder, consistent with the c.2005 death."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR match for 'adsl4you'/'ADSL 4 YOU'; likely a business name only. Distinct from unrelated ADSL/4U entities."
+ },
+ {
+  "slug": "netmagic",
+  "found": true,
+  "legal_name": "LEHNE, ANTHONY JAMES",
+  "acn": null,
+  "abn": "98784385592",
+  "entity_type": "sole trader",
+  "abn_status": "cancelled",
+  "status_date": "2022-09-28",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=98784385592",
+    "quote": "Entity name: LEHNE, ANTHONY JAMES ... Entity type: Individual/Sole Trader ... Main business location: WA 6062 ... Trading name(s): NETMAGIC INTERNET | 01 Jul 2003",
+    "note": "Sole trader whose registered trading name NETMAGIC INTERNET (Perth) matches the ISP."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20060118143105/http://netmagic.net.au/leftsidebar/terms_conditions/terms_conditions.html",
+    "quote": "NetMagic Internet ... Internet Access Terms & Conditions ... This Agreement is governed by the law of Western Australia.",
+    "note": "Archived terms confirm 'NetMagic Internet' and WA jurisdiction."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Ambiguous: NETMAGIC HOLDINGS PTY LTD (ABN 19 094 652 801, ACN 094 652 801, WA 6155, active since 2000) and LINUX CONSULTANTS PTY LTD (ABN 72 083 643 556, WA 6155, business name 'NETMAGIC INTERNET' historic) are also plausible operators. Also a later WA sole trader (Matthew Ogilvie, ABN 49 481 611 023) used 'NETMAGIC INTERNET SOLUTIONS'. ABN active-from date not captured."
+ },
+ {
+  "slug": "extremedsl",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20050209030557/http://www.extremedsl.com.au/nonflash/networks.html",
+    "quote": "extremeDSL ... Running fully-redundant systems from the prestigeous Q.V.1. builiding in Perth, WA.",
+    "note": "Archived site confirms Perth ISP 'extremeDSL' but names no company/ABN."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20050209030140/http://www.extremedsl.com.au/nonflash/contacts.html",
+    "quote": "Main Perth Office extremeDSL PO Box 2673 Malaga, 6090 Western Australia",
+    "note": "Contact page, still no entity/ABN."
+   },
+   {
+    "kind": "forum",
+    "url": "https://au.bdir.in/australia/abn/7971/EXTREME-DSL",
+    "quote": "EXTREME DSL ... State Number BN09517200 ... Registration Date 11 June 2002 ... WA",
+    "note": "WA business name 'EXTREME DSL' registered June 2002; owner entity not given."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Only a WA business name (BN09517200) confirmed; no ABN/ACN determined. The domain was co-hosted with metatech.net and xpress.cynergic.net, and associated entities (METATECH INTERNET PTY LTD ABN 76 621 410 151, registered 2017) are candidates but none proven."
+ },
+ {
+  "slug": "nuclear-days-online",
+  "found": true,
+  "legal_name": "SAUER, CHRISTOPHER MICHEAL",
+  "acn": null,
+  "abn": "84723024730",
+  "entity_type": "sole trader",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2006,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=84723024730",
+    "quote": "Entity name: SAUER, CHRISTOPHER MICHEAL ... Entity type: Individual/Sole Trader ... Main business location: NSW 2480 ... Active from 07 Jul 2006",
+    "note": "Sole trader ABN; same ABN is linked to both 'Lismore Online' and 'Nuclear Days Online' names."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Nuclear+Days",
+    "quote": "84 723 024 730 ... Nuclear Days Online | Other Name (Historic) | 2480 NSW",
+    "note": "ABR search links the 'Nuclear Days Online' name to ABN 84 723 024 730 (Lismore NSW 2480)."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Sole trader, no ACN; ABN registered 2006 whereas Nuclear Days Online launched Nov 2002. 'Lismore Online Group' is not a separate registered entity; both brands sit under this ABN."
+ },
+ {
+  "slug": "silver-telecom",
+  "found": true,
+  "legal_name": "SILVER TELECOM PTY LTD",
+  "acn": "110105667",
+  "abn": "48110105667",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2010-12-31",
+  "registration_year": 2004,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=48110105667",
+    "quote": "Entity name: SILVER TELECOM PTY LTD ... ACN 110 105 667 ... Cancelled from 31 Dec 2010",
+    "note": "Company literally named Silver Telecom Pty Ltd, QLD 4000"
+   },
+   {
+    "kind": "archive",
+    "url": "http://web.archive.org/web/20080223231352if_/http://silvertelecom.com.au:80/",
+    "quote": "frame src=\"http://www.silverconnect.com.au/\"",
+    "note": "silvertelecom.com.au redirected its frame to silverconnect.com.au in 2008, matching the brief's silvertelecom.com.au -> silverconnect.com.au note"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Business name 'OFFICELINK PLUS & SILVER TELECOM' (ABN 77 069 288 839) is held by ACIS CONSULTING PTY LTD (ex-ACIS/OfficeLink Plus, ACN 069 288 839, NSW 2230), and 'SILVER CONNECT' (ABN 33 100 281 936) was held by SILVER COMMUNITIES PTY. LTD. (ACN 100 281 936). Multiple Silver-brand entities exist; SILVER TELECOM PTY LTD chosen as the literal domain-name match."
+ },
+ {
+  "slug": "streamnet2000",
+  "found": true,
+  "legal_name": "STREAMNET PTY LTD",
+  "acn": "102801883",
+  "abn": "40102801883",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2006-06-30",
+  "registration_year": 2002,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "http://web.archive.org/web/20031220222035id_/http://streamnet2000.com/",
+    "quote": "Welcome to streamnet internet services",
+    "note": "The site brands itself 'streamnet internet services' and was a tiny hobby ISP"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=40102801883",
+    "quote": "Entity name: STREAMNET PTY LTD ... Trading name STREAMNET PTY LTD from 12 Nov 2002 ... Cancelled 30 Jun 2006",
+    "note": "ABR company with matching name and 2002-2006 dates"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABN is shown in the archived site (hosted at members.dodo.net.au/~neverdie). An unrelated sole trader, Jason David Stead, used trading name 'Streamnet Internet Services' (ABN 66 787 477 564) with an ABN starting 2008, two years after this ISP's death."
+ },
+ {
+  "slug": "myaccess",
+  "found": true,
+  "legal_name": "EFTEL PTY LTD",
+  "acn": "073238178",
+  "abn": "47073238178",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=47073238178",
+    "quote": "Business name MY ACCESS; historic entity name DATAFAST TELECOMMUNICATIONS LIMITED; DATAFAST INTERNET SERVICES",
+    "note": "The MyAccess brand sits with Eftel (formerly Datafast Telecommunications Ltd), matching the brief's acquisition by Datafast/Eftel"
+   },
+   {
+    "kind": "archive",
+    "url": "http://web.archive.org/web/20051231130955fw_/http://www.myaccess.com.au/main.htm",
+    "quote": "MyAccess has recently become part of the EFTel Group",
+    "note": "ISP's own 2005 page confirming acquisition by the Eftel Group"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The original pre-2005 Myaccess operating company was not identified; the ABN reported is the acquirer (Datafast/Eftel) that now holds the MyAccess business name."
+ },
+ {
+  "slug": "lets-go",
+  "found": true,
+  "legal_name": "EFTEL PTY LTD",
+  "acn": "073238178",
+  "abn": "47073238178",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Concept%20Networks",
+    "quote": "47 073 238 178 Active | CONCEPT NETWORKS | Business Name (Historic) | 3000 VIC",
+    "note": "The CONCEPT NETWORKS business name is registered to Eftel Pty Ltd, the parent that acquired the brand in 2008"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19991129024135/http://letsgo.com.au/",
+    "quote": "LedaNet ... The Gibson Group of companies ... 134 Sheridan Street, Cairns",
+    "note": "The brief's own reference shows letsgo.com.au was early operated as 'Ledanet', an apparent conflict with the Concept Networks summary"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR entity named 'Concept Networks' or 'Ledanet' found. Archive shows the domain belonged to Ledanet (Cairns) 1999-2003 before the Concept Networks/Eftel phase; the reported ABN is the brand's final holder."
+ },
+ {
+  "slug": "cheetah-adsl",
+  "found": true,
+  "legal_name": "WERNER FAMILY TRUST (trading as Ozzieweb Pty Ltd)",
+  "acn": null,
+  "abn": "11021212958",
+  "entity_type": "trust",
+  "abn_status": "cancelled",
+  "status_date": "2016-02-14",
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=11021212958",
+    "quote": "Entity name: WERNER FAMILY TRUST ... Other trust ... Active 22 Apr 2000 - 14 Feb 2016",
+    "note": "ABR record carrying the trading name OZZIEWEB PTY LTD."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=ozzieweb",
+    "quote": "OZZIEWEB PTY LTD | Trading Name | 11 021 212 958",
+    "note": "Ties the Ozzieweb trading name to this trust."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Cheetah was an Ozzieweb ADSL brand (per brief); no ABR entity literally named 'Cheetah' matched, and the ABR trading name owner is a family trust, not a company. Brand-to-trust link is indirect."
+ },
+ {
+  "slug": "blaze-internet-services",
+  "found": true,
+  "legal_name": "AUSTRALIS INTERNET PTY. LTD.",
+  "acn": "090539432",
+  "abn": "66090539432",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2007-03-31",
+  "registration_year": 1999,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=66090539432",
+    "quote": "Entity name: AUSTRALIS INTERNET PTY. LTD. ... Cancelled from 31 Mar 2007 ... ACN 090 539 432",
+    "note": "Candidate operating entity of the 'aunz.com'/Australis network."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20011030085714/http://www.cynosure.com.au/isp/aunz2",
+    "quote": "Blaze Internet Services ... 4 Knight Avenue Silkstone QLD 4304 ... www.blaze.aunz.com",
+    "note": "ISP listing; part of the aunz.com network."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20010518013918/http://www.wps.com.au/",
+    "quote": "Australis/WPS - Web Hosting, Domain Registration and E-Commerce Services",
+    "note": "aunz.com registry operated under the 'Australis/WPS' banner, linking Blaze's host to Australis."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR entity named 'Blaze Internet Services' exists at the QLD 4304/4305 address; identification with Australis Internet Pty Ltd rests on the shared aunz.com/Australis network branding. Alternative candidate: Netting Australia Pty Ltd (ABN 30069333044), also Ipswich, linked from the same listing."
+ },
+ {
+  "slug": "internet-depot",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=internet%20depot",
+    "quote": "Your search for internet depot found 91 matches",
+    "note": "No ABN/entity named 'Internet Depot' (or Internet Depot Pty Ltd). Closest is 'INTERNET TELEGRAPH DEPOT' (QLD, unrelated)."
+   },
+   {
+    "kind": "news",
+    "url": "https://en.wikipedia.org/wiki/Comindico",
+    "quote": "It started as IPTel in 2000",
+    "note": "Internet Depot described as buying Cybonet's internet operations Feb 2001; no registry trace of a distinct entity."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Cybonet Limited (ABN 50 009 188 694) is sometimes conflated; Internet Depot had no separately-registered name found. Domain ipbox/internet-depot unarchived per brief."
+ },
+ {
+  "slug": "grafton-internet",
+  "found": true,
+  "legal_name": "SAUER, CHRISTOPHER MICHEAL (formerly SAWTELL, CRAIG JOHN), trading as Lismore Online",
+  "acn": null,
+  "abn": "84723024730",
+  "entity_type": "sole trader",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2003,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=84723024730",
+    "quote": "Lismore Online | 01 Apr 2003 | 01 Aug 2006",
+    "note": "ABR trading name 'Lismore Online' (NSW 2480 Lismore) held by sole trader SAWTELL, CRAIG JOHN (later SAUER, CHRISTOPHER MICHEAL). Brief states Grafton Internet was run by Lismore Online."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20030529194904/http://www.graftoninternet.com.au/",
+    "quote": "18 captures ... 30 Sep 2001 - 17 Jul 2005",
+    "note": "graftoninternet.com.au live 2001-2005, consistent with brief."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The Lismore Online ABN only appears from Apr 2003 (Sawtell); Grafton Internet's 2001-02 period may have used a predecessor ABN or Nella/Linear-G network. Operating entity identity inferred from brief, not an archived Grafton footer."
+ },
+ {
+  "slug": "ccsweb",
+  "found": true,
+  "legal_name": "CASWEB PROPRIETARY LIMITED",
+  "acn": "007783173",
+  "abn": "25007783173",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2012-10-10",
+  "registration_year": 1965,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=25007783173",
+    "quote": "CASWEB PTY LTD | 29 May 2000 | 04 Aug 2000; CASWEB PROPRIETARY LIMITED ... ABN Active | 29 May 2000 | 10 Oct 2012",
+    "note": "Company began exactly May 2000 (matching CCSWEB's 'by 2000' launch); name 'CASWEB' is one letter from 'CCSWEB'."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20000619192426/http://www.ccsweb.com.au/",
+    "quote": "31 captures ... 19 Jun 2000 - 03 Feb 2014",
+    "note": "ccsweb.com.au existed from Jun 2000; archived homepage is frameset-only so the footer ABN could not be read."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Name (CASWEB vs CCSWEB) and location (SA 5076 vs Pennant Hills NSW) both differ; no archived footer proof. Could be a different entity entirely."
+ },
+ {
+  "slug": "ipbox",
+  "found": true,
+  "legal_name": "WORLEY, DARREN CHRISTOPHER",
+  "acn": null,
+  "abn": "65501770865",
+  "entity_type": "sole trader",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2021,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=65501770865",
+    "quote": "Entity name: WORLEY, DARREN CHRISTOPHER ... Trading name: IPBOX | From 26 May 2000",
+    "note": "Sole trader with trading name IPBOX from May 2000, matching ipbox.com.au; brief names owner Darren Worley."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=ipbox",
+    "quote": "IPBOX | Other Name | 2560 NSW (ABN 65 501 770 865)",
+    "note": "Other name IPBOX linked to the same ABN."
+   }
+  ],
+  "confidence": "high",
+  "misattribution_note": "ABN currently shown 'Active from 01 Jul 2021' (reactivated); original IPBOX trading name dates to 26 May 2000. ipbox was sold to Ideal Internet (IDEAL INTERNET PTY LTD ABN 78 086 119 753) in 2000; report the original owner/operator, not the acquirer."
+ },
+ {
+  "slug": "bondi-internet-services",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20011130120501/http://www.bondinet.com.au/",
+    "quote": "Copyright 2000 Bondi Internet Services ... BondiNet is a Trademark of Bondi Internet Services. SureDial is a trademark of Oznet Internet Services.",
+    "note": "Site footer shows Bondi Internet Services as a brand/trademark, not a registered company"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=66091971587",
+    "quote": "Entity name: OZNET INTERNET SERVICES PTY. LTD.; NSW 2010; ASIC 091 971 587",
+    "note": "Closest registered entity, sharing the Bondi Junction site area"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR entity named 'Bondi Internet Services' was found; the BondiNet site shared infrastructure with Oznet Internet Services Pty Ltd (ACN 091 971 587, ABN 66 091 971 587). Bondi Internet Services may be an unregistered trading name or a company deregistered before ABN capture."
+ },
+ {
+  "slug": "cybernet-2000",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20001214094500/http://www.cynosure.com.au/isp/cn2000",
+    "quote": "CyberNet 2000, 9 Gracemere Place, Forest Lake QLD 4078, admin@cn2000.com.au",
+    "note": "Only surviving record; address in Forest Lake, Brisbane"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=cybernet%202000",
+    "quote": "No entity/business name 'CyberNet 2000' in ABR",
+    "note": "No matching ABR entity found; no Wayback captures exist for cn2000.com.au"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Possible later/related entity PRACTICAL CYBERNETICS PTY. LTD. (ACN 159 861 033, same 4078 postcode) but registered 2012, unproven link."
+ },
+ {
+  "slug": "pintech",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20021219065827/http://www.cynosure.com.au/isp/pintech",
+    "quote": "Pintech Internet Services, Unit 2/34 George Street, Pinjarra WA 6208",
+    "note": "Directory confirms Pinjarra address; no company/ABN shown"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=pintech",
+    "quote": "Only PINTECH PTY LTD (ACN 618 935 265, ABN 59 618 935 265) in WA, registered 2017",
+    "note": "No ABR entity matches the 1999-2008 Pinjarra ISP"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "PINTECH PTY LTD (ABN 59 618 935 265, WA 6018) is the only modern namesake but was registered 2017, well after the ISP's 2008 death; operating entity c.1999-2008 likely an unincorporated business not on ABR."
+ },
+ {
+  "slug": "modnet",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20041009192054/http://www.modnet.com.au/contact.htm",
+    "quote": "Contact Modnet Internet Services ... Geraldton Office 59 North West Coastal Highway Geraldton WA 6530",
+    "note": "confirms Modnet was a Geraldton WA ISP, with a Perth office"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=modnet",
+    "quote": "MODNET CONSULTING ... 2600 ACT ... ABN 91 265 574 345 (only 'modnet' match)",
+    "note": "no ABR name matching the Geraldton operator"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABR's only 'modnet' entry (MODNET CONSULTING, ACT 2600) may be unrelated to the Geraldton WA ISP."
+ },
+ {
+  "slug": "cnet",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20030106190255/http://www.cynosure.com.au/isp/cnet",
+    "quote": "Cnet ... 10 Bristlebird Drive Morayfield QLD 4506 ... Computer Retailer & Internet Service Provider",
+    "note": "contemporaneous listing describing the ISP; no ABN/ACN printed"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=cnet",
+    "quote": "no QLD/4506 'Cnet' entity; matches are mainly Victorian 'Cnet Technology' unrelated businesses",
+    "note": "no ABR name/entity verifiably matching the Morayfield Cnet"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Victorian 'Cnet Technology' businesses in ABR are a different franchise and not the Brisbane-area Cnet ISP."
+ },
+ {
+  "slug": "ait-communications",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20020421052249/http://www.cynosure.com.au/isp/aitnet",
+    "quote": "AIT Communications ... 70A Williams Road Blackburn Vic 3130 ... Delisted.",
+    "note": "contemporaneous listing confirms the Blackburn VIC ISP; no ABN/ACN printed"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=ait+communications",
+    "quote": "no exact 'AIT Communications' / 'Australian Internet Technologies' entity match in ABR",
+    "note": "ABR searches by trading and legal name failed to return a verifiable entity"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABR entries 'AIT PTY LIMITED' (NSW) and 'AIT' (VIC 3003, a super fund) could not be confirmed as this ISP."
+ },
+ {
+  "slug": "holodoc-oz",
+  "found": true,
+  "legal_name": "AMAZE TECHNOLOGIES PTY LIMITED (trading as Amaze Communications)",
+  "acn": "075832281",
+  "abn": "69075832281",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2003-09-30",
+  "registration_year": 1996,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20000918040447/http://www.holodoc.net.au/amaze.htm",
+    "quote": "Holodoc OZ Internet has been acquired by Amaze Communications in Sydney ... Regards Dr Robert Allen, Director - Holodoc OZ Internet",
+    "note": "Names the acquirer/operator Amaze Communications and Holodoc's director"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=69075832281",
+    "quote": "Entity name: AMAZE TECHNOLOGIES PTY LIMITED ... Trading name AMAZE COMMUNICATIONS ... Cancelled from 30 Sep 2003 ... ACN 075 832 281",
+    "note": "Legal entity behind Amaze Communications"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Holodoc OZ itself (run by Dr Robert Allen) predates Amaze and its own entity is unproven; the domain was later operated by Nella Telecommunications Pty Ltd (ABN 64 108 689 541) from c.2004. HOLIDOC PTY LIMITED (NSW, ABN 63 082 657 378) is a possible but unconfirmed name match."
+ },
+ {
+  "slug": "global-internet-communications",
+  "found": true,
+  "legal_name": "KUC, NERMIN (trading as G.I. Communications)",
+  "acn": null,
+  "abn": "66167044887",
+  "entity_type": "sole trader",
+  "abn_status": "cancelled",
+  "status_date": "2015-11-03",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19990508205527/http://www.gic.net.au/",
+    "quote": "G.I. COMMUNICATIONS ... Copyright (c) 1997-1998 Global Internet Communications. Phone +61-8-9336-6553 ... Office 2, 197 High St. Fremantle.",
+    "note": "Operator traded as G.I. Communications in Fremantle"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=66167044887",
+    "quote": "Entity name: KUC, NERMIN ... Individual/Sole Trader ... Trading name G I COMMUNITIONS ... WA 6162 ... Cancelled from 03 Nov 2015",
+    "note": "Only ABR hit matching 'G I Communications' in the Fremantle 6162 area"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "By Sep 2000 gic.net.au served the iiNet website (iiNet Limited ABN 48 068 628 937) and the 2001 iiNet timeline records acquiring Fremantle ISPs. The pre-2000 entity is not conclusively proven; a company named 'Global Internet Communications Pty Ltd' was not found in the ABR, and the trading name is only dated from 2006. Verify with ASIC."
+ },
+ {
+  "slug": "cyberlink-technologies",
+  "found": true,
+  "legal_name": "CYBER NETWORKS PTY LTD (trading as Cyberlink Technologies)",
+  "acn": "109342074",
+  "abn": "97109342074",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2014-06-17",
+  "registration_year": 2004,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=97109342074",
+    "quote": "Entity name: Cyber Networks Pty Ltd ... Trading name Cyberlink Technologies from 01 Jul 2004 ... Cancelled from 17 Jun 2014 ... ACN 109 342 074 ... WA 6210",
+    "note": "Exact trading name 'Cyberlink Technologies' under a WA company"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Trading name only registered 2004, whereas the brief says since 1998 (ACN 109 342 074 >5y after birth). Rival candidate: sole trader TAN, YEW KIM (ABN 94 582 951 766, WA 6155, also trading 'Cyberlink Technologies'); the 1996 cyberlink.com.au 'CYBERlink Computing Services' (ABN 94 763 190 687, QLD) may be a different business."
+ },
+ {
+  "slug": "netlink-wa",
+  "found": true,
+  "legal_name": "NETLINK COMPUTER RESOURCE MANAGEMENT PTY LTD (Netlink WA / Netlink CRM)",
+  "acn": "055311110",
+  "abn": "45055311110",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2007-07-01",
+  "registration_year": 1992,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20001208075600/http://www.cynosure.com.au/isp/netlinkwa",
+    "quote": "Netlink WA Pty Ltd, 45 Stirling Highway, Nedlands WA 6009",
+    "note": "Legal name given in 1998 ISP listing"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20020126013732/http://www.netlinkwa.com.au/",
+    "quote": "Our page has moved.. Redirecting to http://www.netlinkcrm.com.au",
+    "note": "netlinkwa.com.au redirected to Netlink CRM, linking the brands"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=45055311110",
+    "quote": "Entity name: NETLINK COMPUTER RESOURCE MANAGEMENT PTY LTD ... WA 6007 ... Cancelled from 01 Jul 2007 ... ACN 055 311 110 ... NETLINK TELECOMMUNICATIONS (business name)",
+    "note": "Netlink CRM entity with NETLINK TELECOMMUNICATIONS business name"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Not proven that 'Netlink WA Pty Ltd' (Nedlands 6009, 1998) is the same company as Netlink Computer Resource Management Pty Ltd (6007, ACN ~1992); likely a rename given the 2002 redirect to netlinkcrm.com.au, but ASIC history should be checked. ACN predates the 1998 birth by ~6y."
+ },
+ {
+  "slug": "pinnacle-internet",
+  "found": true,
+  "legal_name": "TRIPLE I INTERNET PTY LTD (later I CORPORATE SERVICES PTY. LTD.)",
+  "acn": "095209671",
+  "abn": "12095209671",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2010-08-18",
+  "registration_year": 2001,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20021122042957/http://www.pinnacle.net.au/",
+    "quote": "Triple i Internet",
+    "note": "pinnacle.net.au served 'Triple i Internet' in 2002-03, linking the brand to that operator"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=triple%20i%20internet",
+    "quote": "TRIPLE I INTERNET PTY LTD | Entity Name (Historic) | 5152 SA | 12 095 209 671",
+    "note": "Historic company name and SA address"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=12095209671",
+    "quote": "Entity name: I CORPORATE SERVICES PTY. LTD. ... SA 5152 ... Cancelled from 18 Aug 2010 ... ACN 095 209 671",
+    "note": "Current name and ACN"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The exact legal entity behind the 'Pinnacle Internet' brand before 2001 is unproven; ACN 095 209 671 (~2001) is >2y after the 1998 birth, and pinnacle.net.au may have been transferred to Triple i rather than the brand's original owner. No ABR record named 'Pinnacle Internet' (SA) was found."
+ },
+ {
+  "slug": "panorama",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20021219071617/http://www.cynosure.com.au/isp/panorama",
+    "quote": "Panorama ... Level 2 5 Barrack Street Perth WA 6000 ... account@panorama.net.au ... $35/mo ... This entry last updated on 29 March 1998",
+    "note": "Confirms Perth ISP identity/address but gives no entity/ABN."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19990208015442/http://www.panorama.net.au/",
+    "quote": "webmaster@panorama.net.au",
+    "note": "1999 site (before it became a home-builder site) gives no ABN or company name."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR match found for 'Panorama Internet'/'Panorama Internet Services'; 'Panorama Networks Pty Ltd' (ABN 27 600 404 206, NSW) is ACN-era ~2014 and likely unrelated. Entity remains unconfirmed."
+ },
+ {
+  "slug": "upnaway",
+  "found": true,
+  "legal_name": "INTEK PTY LTD",
+  "acn": "060844117",
+  "abn": "92060844117",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 1993,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=92060844117",
+    "quote": "Entity name: INTEK PTY LTD ... Business name(s): UP N AWAY NET SOLUTIONS | 01 Sep 2016 ... ACN 060 844 117 ... WA 6017",
+    "note": "Only ABR record carrying the exact business name 'UP N AWAY NET SOLUTIONS' in WA."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20080509140828/http://www.upnaway.com/",
+    "quote": "\u00a9 2007 iiNet Limited ACN 068 628 937",
+    "note": "By 2008 upnaway.com was branded/resold by iiNet, confirming the iiNet connection."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The Intek business name was registered in 2016, years after the 2008 iiNet acquisition, and Intek's location (6017) is not South Perth. Pre-2008 operating entity (possibly a reseller) is unconfirmed; iiNet Limited ACN 068 628 937 is the acquirer/brand."
+ },
+ {
+  "slug": "city-net-internet-services",
+  "found": true,
+  "legal_name": "CITYPAK PTY LTD",
+  "acn": "009418339",
+  "abn": "63009418339",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 1999,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Citynet",
+    "quote": "63 009 418 339 ... CITYNET INTERNET SERVICES ... Business Name (Historic) ... 6158 WA",
+    "note": "ABR business name CITYNET INTERNET SERVICES in Perth on this ABN."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=63009418339",
+    "quote": "Entity name: CITYPAK PTY LTD ... Active from 01 Nov 1999 ... ACN 009 418 339",
+    "note": "Identifies the entity behind the business name."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Legal name (Citypak) bears no resemblance to the brand; other 'Citynet' ABNs exist. Company incorporated 1987 though ABN from 1999."
+ },
+ {
+  "slug": "jcorp",
+  "found": true,
+  "legal_name": "J-CORP. PTY LTD",
+  "acn": "009063076",
+  "abn": "54009063076",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=54009063076",
+    "quote": "Entity name: J-CORP. PTY LTD ... Active from 08 Apr 2000 ... Trading names: J-CORP PTY LTD, J CORP PROJECTS ... ACN 009 063 076",
+    "note": "Perth (WA 6017) entity with J-CORP trading names matching the brief."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Entity later became a Perth home builder (BGC/Perceptions) and ABR shows no explicit 'JCorp On-line' trading name; the ISP arm was wound down ~2004-05 while the ABN stayed active."
+ },
+ {
+  "slug": "jatoga",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20000819023106/http://www.jatoga.net.au/",
+    "quote": "JATOGA ONLINE ... Copyright (c) 1998 - 2000 JATOGA ONLINE",
+    "note": "Confirms brand, dates and 'Jatoga Online' but no ABN/entity is stated."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Jatoga",
+    "quote": "Your search for Jatoga found 20 matches ... (JATAG/JETOGA/JATIG only)",
+    "note": "No ABR entity or business name literally named Jatoga."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Brief attributes the ISP to Jarrod Friedland; his sole-trader ABN 97641180034 (JARROD MARK FRIEDLAND) lists ZENWEB trading names but not JATOGA, so the link is unproven."
+ },
+ {
+  "slug": "oz2000-internet",
+  "found": true,
+  "legal_name": "OZ 2000 PTY. LIMITED",
+  "acn": "067710730",
+  "abn": "57067710730",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2010-06-13",
+  "registration_year": 1994,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=57067710730",
+    "quote": "OZ 2000 PTY. LIMITED ... Australian Private Company ... NSW 2000 ... ACN 067 710 730 ... Cancelled from 13 Jun 2010",
+    "note": "Sydney-registered company name 'OZ 2000' matching OZ2000 Internet; ABN cancelled 2010, death period c.2009"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19981212031659/http://www.oz2000.com/",
+    "quote": "At OZ-2000 Internet we strive to bring you fast reliable Internet Connection ... Phone us at 61-2-9896-6449",
+    "note": "ISP identity and Sydney 9896 (Toongabbie/Blacktown) phone"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Alternative candidates: OZ 2000 ENTERPRISES PTY. LTD. (ACN 071 513 356, NSW 2550) and Netfast Communications Pty Ltd (business name OZ2000 INTERNET, NSW 2067, 2003+). No ABR trading name or address directly ties any of them to oz2000.com."
+ },
+ {
+  "slug": "axs-internet-services",
+  "found": true,
+  "legal_name": "BL SOFTWARE PROPRIETARY LIMITED",
+  "acn": "006904847",
+  "abn": "48006904847",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 1986,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=48006904847",
+    "quote": "BL SOFTWARE PROPRIETARY LIMITED ... AXS SYSTEMS (Business Name Historic) ... VIC 3192 ... ACN 006 904 847",
+    "note": "ABR links AXS SYSTEMS business name to this Melbourne company"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980206100356/http://axs.com.au/systeminfo.html",
+    "quote": "AXS Internet Services is dedicated to offering cost efficient, complete internet solutions ... over 5 years",
+    "note": "axs.com.au was 'AXS Internet Services', Melbourne, operating since c.1993"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The AXS SYSTEMS business name is flagged Historic on ABR and the current entity is named BL Software/Paradigm Electronics; direct tie to axs.com.au is circumstantial. Hotkey acquired the customer base c.2002."
+ },
+ {
+  "slug": "quantum-access",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": null,
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970413221312/http://www.qa.net.au/",
+    "quote": "Quantum Access, 43 Greenhill Rd, Wayville SA 5034, Ph: +61 08 8272 8885",
+    "note": "Confirms Adelaide ISP 'Quantum Access' at Wayville (qa.net.au) from Mar 1997"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=quantum+access",
+    "quote": "QUANTUM ACCESS ... 3187 VIC (Business Name Historic)",
+    "note": "Only VIC 3187 names matched; no SA/Adelaide Quantum Access ABN found"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR entity matches Adelaide's Quantum Access; the VIC 3187 'QUANTUM ACCESS' names are a different operation. qa.net.au later passed to QA Business Pty Ltd (Alstonville NSW) by 2007."
+ },
+ {
+  "slug": "digitech-internet",
+  "found": true,
+  "legal_name": "A.C DAVID & C.D DENTON & A.B MATTISKE & G PATHINATHAN",
+  "acn": null,
+  "abn": "80906513774",
+  "entity_type": "partnership",
+  "abn_status": "cancelled",
+  "status_date": "2016-06-09",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=80906513774",
+    "quote": "Entity name: A.C DAVID & C.D DENTON & A.B MATTISKE & G PATHINATHAN | Entity type: Other Partnership | ABN status: Cancelled from 09 Jun 2016 | Main business location: SA 5070",
+    "note": "ABR entity whose historic trading name is 'DigiTech' (SA)"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980615021729/http://www.digitech.net.au/info/index.html",
+    "quote": "Digitech Internet Service Provider 265 Pulteney Street Adelaide SA 5000",
+    "note": "ISP's own 1998 page confirms Digitech Internet, SA"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The ABR partnership carries only a historic 'DigiTech' trading name and SA 5070 (Glynde), while the 1998 site gives an Adelaide CBD address; no company named Digitech was found, so identity is trading-name-only."
+ },
+ {
+  "slug": "web-express",
+  "found": true,
+  "legal_name": "THE TRUSTEE FOR WEB EXPRESS UNIT TRUST",
+  "acn": null,
+  "abn": "37891836112",
+  "entity_type": "trust",
+  "abn_status": "cancelled",
+  "status_date": "2016-02-09",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=37891836112",
+    "quote": "Entity name: The Trustee for WEB EXPRESS UNIT TRUST | Entity type: Fixed Unit Trust | ABN status: Cancelled from 09 Feb 2016 | Main business location: QLD 4053 | Trading name: WEB EXPRESS PTY LTD",
+    "note": "ABR trust whose trading name is Web Express in Brisbane (4053)"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Trust ABN registered ~2000s (trading name from Jul 2003), while the brief's Web Express ISP dates to 1997; link is by name and Brisbane (4053) location only, not a documented 1997 source."
+ },
+ {
+  "slug": "gist-internet",
+  "found": true,
+  "legal_name": "Global-Link Internet Services & Training",
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980624055723/http://www.gist.net.au/about.html",
+    "quote": "Copyright \u00a9 1996 Global-Link Internet Services & Training",
+    "note": "ISP's own archived footer names the operating business; gist.net.au was Global-Link's Adelaide dialup brand."
+   },
+   {
+    "kind": "archive",
+    "url": "http://web.archive.org/web/20060819005922/http://www.gist.net.au/",
+    "quote": "Site Designed and Copyright (c) 2001 Allen Bolderoff Hosted By Global Link",
+    "note": "Later gist.net.au page attributes the business to Allen Bolderoff, suggesting a sole-trader/individual operation."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABN/ACN found for 'Global-Link Internet Services & Training' in ABN Lookup (no SA match); the business likely pre-dated/barely met the ABN era. The 'GIST AUSTRALIA' ABN 27157331376 (I. Inoue 2005-2015) and 'GIST Networks' (DanveraMax Pty Ltd ACN 139139209, gist.net.au's current registrant) are later/re-used identities, not the 1997 entity."
+ },
+ {
+  "slug": "mission-control-systems",
+  "found": true,
+  "legal_name": "Mission Control Systems Pty Ltd",
+  "acn": null,
+  "abn": null,
+  "entity_type": "Pty Ltd company",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980114225348/http://www.mcs.net.au/",
+    "quote": "Copyright \u00a9 1997 Mission Control Systems Pty Ltd",
+    "note": "ISP's own archived footer gives the full legal company name."
+   },
+   {
+    "kind": "archive",
+    "url": "https://files.mpoli.fi/sekalaiset/1997-IP-SUBNETS/c/203/203_34.html",
+    "quote": "203.34.102.0 - 203.34.103.255 (MISSIONCONTROLS-AU) Mission Control Systems Pty Ltd; Level 8, 307 Queen St; Brisbane; QLD 4000",
+    "note": "1997 IP allocation registry confirms the Brisbane company operated the network."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No matching ABN/ACN located: the c.1997 Brisbane company appears to have ceased before/around the start of the ABN era. Do NOT use ACN 126 262 057 'Mission Controls Pty Ltd' (NSW 2147, registered ~2007, cancelled 2010) or BIZVID Pty Ltd's later 'MISSION CONTROL SYSTEMS' business name (2022-2024) without caution."
+ },
+ {
+  "slug": "mort-bay-communications",
+  "found": true,
+  "legal_name": "MORT BAY COMMUNICATIONS PTY. LTD.",
+  "acn": "094657271",
+  "abn": "14094657271",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2016-10-24",
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=14094657271",
+    "quote": "Entity name: MORT BAY COMMUNICATIONS PTY. LTD. | ABN status: Cancelled from 24 Oct 2016 | Trading name: MORT BAY COMMUNICATIONS PTY LTD | ASIC registration: 094 657 271",
+    "note": "Company name matches the brand; ACN 094m and 2000 trading-name date match the Kym Kovan MBComms operation's later corporate phase."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "A separate MICROSET PTY LTD (ABN 80 001 121 099, ACN 001 121 099, NSW 2000) also held a 'MORT BAY COMMUNICATIONS' business name, cancelled 2004. The brief says the business began as 'The Hub' BBS ~1997 (pre-company), so the 2000-registered company may not cover the whole life. NSW 2430 (Taree) vs Sydney noted."
+ },
+ {
+  "slug": "funnelweb-internet",
+  "found": true,
+  "legal_name": "TRUE NORTH CONSULTING PTY LTD",
+  "acn": "076837039",
+  "abn": "49076837039",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2019-11-07",
+  "registration_year": 1997,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://www.woowhois.com/whois/atrax.net.au",
+    "quote": "Registrant: FunnelWeb Internet | Registrant ID: OTHER 076837039 | Registrant Contact Name: Noel Prictor",
+    "note": "atrax.net.au whois shows a registrant ID equal to ACN 076 837 039 with FunnelWeb Internet as registrant."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=49076837039",
+    "quote": "Entity name: TRUE NORTH CONSULTING PTY LTD | ACT 2913 | ASIC registration: 076 837 039",
+    "note": "That ACN resolves to an ACT company, geographically matching the Canberra ISP."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No 'FunnelWeb' ABN name exists; link is inferred from the whois registrant ID 076837039 matching True North Consulting Pty Ltd's ACN. Not confirmed via an archived footer. ABN 68 220 133 079 'Funnel Web Internet Service Provider' (NSW 2526) is an unrelated Wollongong business."
+ },
+ {
+  "slug": "coastnet",
+  "found": true,
+  "legal_name": "COASTNET PTY LTD",
+  "acn": "117489442",
+  "abn": "80117489442",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2008-04-26",
+  "registration_year": 2005,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=80117489442",
+    "quote": "Entity name: COASTNET PTY LTD | ABN status: Cancelled from 26 Apr 2008 | Main business location: QLD 4575 | ASIC registration: 117 489 442",
+    "note": "Only Coastnet-named company near the Sunshine Coast; matches the ISP branding."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ACN 117m implies a ~2005 registration, i.e. ~2 years AFTER the brief's c.2003 death and well after the 1997 birth \u2014 likely a later corporate incarnation of the name. A separate Coastnet Pty Ltd (ABN 46 137 425 382, QLD 4208 Gold Coast) also exists."
+ },
+ {
+  "slug": "savtek",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20011017134754/http://www.savtek.net/",
+    "quote": "Savtek Internet is a leading Sydney based ISP ... PO BOX 6146, Wetherill Park, NSW, 2164 Ph: 02 9610 0626",
+    "note": "ISP's own 2001 site confirms Sydney/Wetherill Park operation but shows no ABN or company name."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Savtek%20Internet",
+    "quote": "No exact Savtek Internet entity; nearest is SAVTEK PTY LTD (trading name) ABN 63 477 467 935, 4508 QLD",
+    "note": "ABR has no NSW 2164 Savtek entity; QLD 'Savtek Pty Ltd' is a different business."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABR contains no entity named Savtek Internet in NSW; the operator (reportedly Eugene Savva) may have traded under a name later changed, or as a sole trader, before the 2004-05 end. No legal name/ABN confirmed."
+ },
+ {
+  "slug": "gippsnet",
+  "found": true,
+  "legal_name": "R.W McCracken & S.F McCracken (trading as Sarsfield Solutions)",
+  "acn": null,
+  "abn": "53297487299",
+  "entity_type": "partnership",
+  "abn_status": "cancelled",
+  "status_date": "2004-06-30",
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Sarsfield%20Solutions",
+    "quote": "53 297 487 299 Cancelled | SARSFIELD SOLUTIONS | Trading Name (Historic) | 3875 VIC",
+    "note": "ABR ties the Sarsfield Solutions trading name (the brief's GippsNET operator) to this ABN."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=53297487299",
+    "quote": "Entity name: R.W MCCRACKEN & S.F MCCRACKEN ... Entity type: Family Partnership ... Cancelled from 30 Jun 2004",
+    "note": "ABR gives the legal persons behind Sarsfield Solutions."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The 'run by Sarsfield Solutions' link is from the brief; ABR ABN cancelled Jun 2004 while GippsNET is reported alive to 2007 at Sarsfield (Latrobe Valley). VIC 3875 is Sale, near but not identical to Sarsfield. GippsNET itself has no ABR entry (search 'Gippsnet' returned only GPSNETWA/GippSnip)."
+ },
+ {
+  "slug": "cybercrow",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20010409035222/http://www.cybercrow.net.au/html/contact.html",
+    "quote": "Company Director: headcrow@cybercrow.net.au ... 23 Braemar Tce Stirling S.A. 5152",
+    "note": "ISP's own contact page names no company, only a 'Company Director'."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20021025164444/http://www.cynosure.com.au/isp/cybercrow",
+    "quote": "CyberCrow ... 19 Myrtle Avenue Myrtle Bank SA 5064 ... Trainer: John Schiller",
+    "note": "ISP listing; likely run by John Schiller of Myrtle Bank."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Cybercrow",
+    "quote": "No ABR entry named Cybercrow",
+    "note": "Searching ABR 'Cybercrow'/'Cyber Crow' returned no matching entity or business name."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR record under Cybercrow; operator likely a sole trader (John Schiller) without a registered Cybercrow business name. Two unrelated SCHILLER PTY LTD records exist (ABN 72 085 444 186, SA 5096; ABN 97 124 773 459, SA 5065) but neither is confirmed as the ISP."
+ },
+ {
+  "slug": "computers-on-the-run",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20011101102341/http://www.cynosure.com.au/isp/ontherun",
+    "quote": "Computers On The Run Internet ... 5A Sydney St Kilmore VIC 3764 ... ontherun.com.au",
+    "note": "Contemporaneous ISP listing confirms the Kilmore VIC operation and domain."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=51249954115",
+    "quote": "PIRON, JACKO JOHAN ... COMPUTERS ON THE RUN ... QLD 4211",
+    "note": "ABR has a 'COMPUTERS ON THE RUN' trading name but at QLD 4211, not Kilmore VIC 3764."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The only ABR 'COMPUTERS ON THE RUN' (ABN 51 249 954 115, J Pirron, QLD 4211) does not match the Kilmore VIC address; a VIC entity was not found. The later ontherun.com.au site (from ~2006) is the unrelated OTR/Peregrine SA convenience chain."
+ },
+ {
+  "slug": "cybernet-australia",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961127165124id_/http://cybernet.net.au/",
+    "quote": "CYBER*NET (Australia) is a totally owned West Australian Company ... Copyright (c) 1995 CYBER*NET (Australia) Communications Systems",
+    "note": "Own site says a WA-owned company but never gives an ACN/ABN"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABR name search for 'Cybernet' returns no WA company matching 'Cybernet (Australia)'; the nearest WA hit is sole trader HESSELMAN, JOHAN (ABN 40 116 515 518, WA 6171, business name 'Cybernet') but 6171 is not Duncraig 6023. Not asserted."
+ },
+ {
+  "slug": "portal-net",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19990209064013id_/http://www.portal.net.au/signal/",
+    "quote": "portal.net Suite 804, Shell House 170 North Terrace, Adelaide, S.A. 5000",
+    "note": "Own contact page gives postal address and phone (08) 8211-8331 but no company name or ABN"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABR has no 'portal.net' entity; operator may have been the individual(s) behind the domain. Not asserted. Claimed 1998 InterWeb merger / 1999 ihug sale remain unverified."
+ },
+ {
+  "slug": "ipax-systems",
+  "found": true,
+  "legal_name": "IPAX PTY LTD",
+  "acn": "169791879",
+  "abn": "41169791879",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2021-06-30",
+  "registration_year": 2014,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=41169791879",
+    "quote": "Entity name: IPAX PTY LTD ... ABN status: Cancelled from 30 Jun 2021 ... ACN 169 791 879",
+    "note": "Only ABR entity matching 'IPAX'; location 3078 matches the site's (03) 9887 1984 phone"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980110053727id_/http://ipax.com.au/",
+    "quote": "IPAX Systems now provides unlimited transfer per month on 64k and 128k ISDN services ... helpdesk@ipax.com.au ph 03 9887 1984",
+    "note": "1998 site brands the business 'IPAX Systems' with no ABN"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ACN 169791879 (c.2014) postdates the 1996-2003 ISP by ~11 years; the original iPAX Systems may have been a sole trader (contact was Adam Neat). IPAX Pty Ltd is a plausible successor but not proven."
+ },
+ {
+  "slug": "internet-academy",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20060325230917id_/http://www.academy.net.au/index.php",
+    "quote": "Our principal Steve Goodridge is a long term board member ... The Internet Academy was one of the first ISPs in Adelaide Australia",
+    "note": "Identifies the operator as principal Steve Goodridge (sole-trader-scale), but no ABN/ACN on site"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961219144521id_/http://www.academy.net.au/",
+    "quote": "Copyright (c) 1996 Academy Internet Demos. All Rights Reserved.",
+    "note": "Earliest capture; 'Academy Internet' trading name"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Operator appears to be an individual (Steve Goodridge) trading as 'Internet Academy'; no ABR ABN was located under that name, so ABN/ACN left null."
+ },
+ {
+  "slug": "ultranet",
+  "found": true,
+  "legal_name": "GILBERT INTERNATIONAL PTY. LTD.",
+  "acn": "155779481",
+  "abn": "98155779481",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2012-04-11",
+  "registration_year": 2012,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970418022150id_/http://www.ultranet.com.au/profile.htm",
+    "quote": "Gilbert International was formed in the early seventies ... UltraNet Australia ... hosts and manages sites",
+    "note": "Own 1997 site identifies Gilbert International as the UltraNet operator"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=98155779481",
+    "quote": "Entity name: Gilbert International Pty. Ltd. ... ABN status: Cancelled from 11 Apr 2012 ... ACN 155 779 481",
+    "note": "Only ABR entity matching the name"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ACN 155779481 (2012) is ~12 years after the ISP ended and the brand had already been on-sold (Austar 2000). The original 'Gilbert International' (said to date from the 1970s) predates ABNs, so this ACN may be a later reuse of the same name."
+ },
+ {
+  "slug": "wave-nz",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "news",
+    "url": "https://en.wikipedia.org/wiki/IiNet",
+    "quote": "iiNet acquired its major local competitors in the Perth area, including Wantree Internet and Omen Internet",
+    "note": "Context only; wave.co.nz is a New Zealand company with no Australian ABN"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "New Zealand entity so has no ACN/ABN by default; NZBN not queried. The predicate that it was acquired by iiNet is from the brief."
+ },
+ {
+  "slug": "werple",
+  "found": true,
+  "legal_name": "MIRA NETWORKING PTY LTD (now PACNET INTERNET (A) PTY LTD)",
+  "acn": "085213690",
+  "abn": "69085213690",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 1998,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961115032308id_/http://werple.net.au/",
+    "quote": "Mira Networking Pty Ltd - A Melbourne based Internet service provider ... Copyright (c) 1995 Mira Networking Pty Ltd",
+    "note": "werple.net.au's own 1996 capture is a Mira Networking page"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=69085213690",
+    "quote": "Entity name: PACNET INTERNET (A) PTY LTD ... Trading name MIRA NETWORKING | 21 Apr 2000 ... ACN 085 213 690",
+    "note": "ABR links Mira Networking name to this company"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Brief says werple was a Perth ISP, but its own domain served Melbourne-based Mira Networking content. werple.net.au may be a Mira service/alias. ACN 085 (1998) postdates the Nov 1996 birth."
+ },
+ {
+  "slug": "cyberlabs",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961224130650id_/http://www.cyberlabs.com.au/",
+    "quote": "Copyright (c) CyberLabs 1996 ... contact us: demon@cyberlabs.com.au",
+    "note": "Own site uses only the trading name 'CyberLabs' with no ABN/ACN"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABR's 'Cyberlabs Pty Ltd' (ACN 606456044, 2015) is a much later unrelated/crypto-era reuse; CYBERLABS AUSTRALIA business names are VIC-based. The 1996 entity behind cyberlabs.com.au was not confirmed."
+ },
+ {
+  "slug": "hal9000",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19990202185502/http://www.hal9000.net.au/hal9000/",
+    "quote": "Hal is located in Adelaide, South Australia and is owned and operated by Mike Bruins.",
+    "note": "ISP's own site names the operator but prints no ABN/ACN"
+   },
+   {
+    "kind": "forum",
+    "url": "https://forums.whirlpool.net.au/archive/159340",
+    "quote": "a private account in Adelaide with an ISP called HAL9000 around 1992",
+    "note": "Confirms Adelaide ISP identity; existed before ABNs (Nov 1999)"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=18601814953",
+    "quote": "HAL 9000 19 Jul 2001 - 19 Nov 2001 | The Trustee for HAL 9000 | Discretionary Trading Trust | Trading name: SPEAKERBITS",
+    "note": "Only ABR 'HAL 9000' name, but is a Melbourne trust trading as Speakerbits"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR record tied to Mike Bruins/the SA ISP was found; site never printed an ABN. The unrelated-looking 'The Trustee for HAL 9000' (ABN 18 601 814 953, VIC, trading name SPEAKERBITS) is the only ABR name match and is a possible but unproven candidate."
+ },
+ {
+  "slug": "on-ramp",
+  "found": true,
+  "legal_name": "Onramp Computer Services Pty Ltd",
+  "acn": "134122151",
+  "abn": "55134122151",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2008,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970206075131/http://www.onramp.com.au/internet/profile.html",
+    "quote": "Onramp has been operational in Perth, Western Australia since Dec 1994.",
+    "note": "Confirms the ISP was a Perth WA operation from Dec 1994"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=55134122151",
+    "quote": "Onramp Computer Services Pty Ltd ... ACN 134 122 151 ... Active from 12 Nov 2008 ... WA 6007",
+    "note": "Only ABN entity carrying the exact 'Onramp Computer Services' name, in the same Perth area"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Company registered 2008, roughly 3 years after the brand's c.2005 death and 14 years after the 1994 founding. The 1994-2005 operator may have been a sole trader/partnership (contact 'cliff@onramp.com.au') with no surviving ABN. Same-name risk: ONRAMP PTY LTD (NSW 2444) is unrelated."
+ },
+ {
+  "slug": "norfolk-island-data-services",
+  "found": true,
+  "legal_name": "NORFOLK ISLAND DATA SERVICES PTY. LTD.",
+  "acn": "605238613",
+  "abn": "83605238613",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2015,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=83605238613",
+    "quote": "NORFOLK ISLAND DATA SERVICES PTY. LTD. ... ABN Active from 01 May 2015 ... ACN 605 238 613 ... NSW 2899",
+    "note": "Exact-name company at the Norfolk Island postcode 2899"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ACN 605 xxx is a 2015 registration, more than a decade after the c.2003 ISP death; it may be a later re-registration for the same business. Related name NIDS Pty Limited (ABN 53843802983) also exists."
+ },
+ {
+  "slug": "flowernet",
+  "found": true,
+  "legal_name": "IMAG-E-NATION MEDIA PTY. LTD. (site author; site credited to Hawkins Nursery)",
+  "acn": "074089115",
+  "abn": null,
+  "entity_type": "Pty Ltd company",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": 1996,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19971010164254/http://www.flowernet.com.au/",
+    "quote": "Flowernet is brought to you by Hawkins Nursery ... Copyright \u00a9 1996 Imag-e-Nation Media Pty. Ltd. ACN 074 089 115",
+    "note": "Only corporation named on the original Flowernet site, as author/copyright holder"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20071112115531/http://www.flowernet.com.au/",
+    "quote": "Copyright \u00a9 2007 FlowerNet.com.au Designed by CATR Holdings Pty Ltd",
+    "note": "Later the domain is a florist e-commerce site; the 'member-login portal' aspect is the shop login, not an ISP account portal"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ACN 074 089 115 has no ABN on ABN Lookup (Image-Nation Media never registered one). Site owner was Hawkins Nursery (Kalgoorlie), a separate entity with no traceable ACN; evidence that Flowernet was actually an ISP (rather than a nursery/florist site) is weak. Same-name risk: FLOWERNET business name ABN 92420610240 is an unrelated NSW florist."
+ },
+ {
+  "slug": "ctel",
+  "found": true,
+  "legal_name": "CTEL PTY LIMITED",
+  "acn": "087140181",
+  "abn": "54087140181",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2014-12-19",
+  "registration_year": 1999,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=54087140181",
+    "quote": "Entity name: CTEL PTY LIMITED | ABN status: Cancelled from 19 Dec 2014 | ASIC registration: 087 140 181 | NSW 2126 | Trading name: CTEL PTY LTD",
+    "note": "Company named exactly Ctel, matching the ctel.com.au domain"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961101192745/http://www.ctel.com.au/",
+    "quote": "(C)Copyright 1996, Ctel, ConnectWARE Network Australia. All rights reserved. ... 168 Melbourne Street, NORTH ADELAIDE, SA 5006",
+    "note": "ISP's own 1996 site names the operator 'ConnectWARE Network Australia' and the Adelaide address"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No SA-registered Ctel/Connectware entity was found on ABR; the named operating business 'ConnectWARE Network Australia' (Adelaide, 1996) is untraced. The matching ABR company CTEL PTY LIMITED is NSW 2126 and its ABN only starts 1 Nov 1999 \u2014 likely the later Ctel Group payment business, not proven to be the 1996 Adelaide ISP. Also a separate Connectware Pty Limited (ACN 103 804 244, 2046 NSW) was only registered 2003."
+ },
+ {
+  "slug": "magic-net",
+  "found": true,
+  "legal_name": "SOLOMOVIC, DAVID (t/a Magic Net)",
+  "acn": null,
+  "abn": "69871557219",
+  "entity_type": "sole trader",
+  "abn_status": "cancelled",
+  "status_date": "2022-06-29",
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=69871557219",
+    "quote": "Entity name: DAVID SOLOMOVIC | Entity type: Individual/Sole Trader | ABN status: Cancelled from 29 Jun 2022 | Main business location: NSW 2077",
+    "note": "Sole trader"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=magic+net",
+    "quote": "MAGIC NET | Business Name (Historic) | 2077 NSW | ABN 69 871 557 219",
+    "note": "ABR ties the exact Magic Net business name to this ABN"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980109224109/http://magicnet.net.au/",
+    "quote": "MagicNet Internet is located in Sydney ... (c) MagicNet 1995",
+    "note": "ISP's own 1998 site confirms Sydney MagicNet from 1995"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ACN (sole trader). The archived site lists a Lane Cove PO Box (2066) while the ABR business name is at Hornsby (2077). ABN only from the ABN era and cancelled 2022, far beyond the c.2001 death. An unrelated MAGICNET COMPUTERS trading name (QLD 4207, ABN 67 089 752 581) also exists."
+ },
+ {
+  "slug": "world-link-gold-coast",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970302183905/http://www.worldlink.com.au/",
+    "quote": "WORLD LINK INTERNET SERVICES ... World Link strives to provide the highest quality Internet Service on Australias Gold Coast.",
+    "note": "Confirms Gold Coast ISP trading name 'World Link Internet Services' c.1997; no ACN/ABN in the page."
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980415211543/http://worldlink.com.au/",
+    "quote": "WORLD LINK INTERNET SERVICES",
+    "note": "No company/ACN footer on the 1998 capture."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABN Lookup searches for 'worldlink' / 'world link internet services' returned no Queensland operator. The present-day worldlink.com.au is WorldLink Property Group Pty Ltd (Eight Mile Plains QLD, Chinese-language real-estate site, c.2015+), a different, later business. Likely a small sole trader/partnership with no surviving ABN record."
+ },
+ {
+  "slug": "merlin-australia",
+  "found": true,
+  "legal_name": "M GARDNER & K MCCARTHY & S J RUSSELL KELTIE",
+  "acn": null,
+  "abn": "30416991998",
+  "entity_type": "partnership",
+  "abn_status": "cancelled",
+  "status_date": "2000-08-16",
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=30416991998",
+    "quote": "M GARDNER & K MCCARTHY & S J RUSSELL KELTIE ... Other Partnership ... Trading name MERLIN INTERNET SERVICE PROVIDER | 16 Aug 2000 ... SA 5000",
+    "note": "ABR partnership registered Jun 2000 holding the Merlin ISP trading name."
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Merlin commenced 1 Sep 1995, before ABNs; the only surviving ABR record is a short-lived 2000 partnership registration cancelled two months later. Earlier sole-trader/other registrations may exist but were not found. Low confidence that this covers the whole 1995-2005 life."
+ },
+ {
+  "slug": "swis",
+  "found": false,
+  "legal_name": "Paul Rolfe & Jurgen Steinert (partnership)",
+  "acn": null,
+  "abn": null,
+  "entity_type": "partnership",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980210103858/http://www.southwest.com.au/about.html",
+    "quote": "SWIS is wholly owned & operated by dedicated local business people, Paul Rolfe & Jurgen Steinert",
+    "note": "Period site names the two owner-operators; no ABN traced to the original partnership."
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=47073238178",
+    "quote": "SOUTH WEST INTERNET SYSTEMS | Business Name (Historic) | 3000 VIC",
+    "note": "The business name now sits under the acquirer EFTel Pty Ltd (ABN 47 073 238 178)."
+   }
+  ],
+  "confidence": "medium",
+  "misattribution_note": "Current ABN for the SOUTH WEST INTERNET SYSTEMS business name belongs to EFTel (acquirer), not the original Rolfe/Steinert partnership."
+ },
+ {
+  "slug": "access-net-australia",
+  "found": true,
+  "legal_name": "COM.ACCESS NET. PTY. LTD.",
+  "acn": "092501249",
+  "abn": "69092501249",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2014-12-19",
+  "registration_year": 2000,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20001212053100/http://cynosure.com.au/isp/access",
+    "quote": "Access Net Australia, Address 440 Clarendon Street, South Melbourne VIC 3205",
+    "note": "ISP directory confirms the business but not its company; MD was Max Rogalsky"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=69092501249",
+    "quote": "Entity name: COM.ACCESS NET. PTY. LTD. ... Cancelled from 19 Dec 2014 ... VIC 3939",
+    "note": "Closest ABR entity matching 'Access Net', cancelled in the same window the ISP wound down"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Brief asserts 'Access Net Internet Services Pty Ltd', which does not appear as an ABR entity name; best ABR match judged to be COM.ACCESS NET. PTY. LTD. (cancelled 2014, matching c.2013-15 wind-down). Alternatives considered: ACCESS COMMUNICATIONS NET PROPRIETARY LIMITED (ACN 100 768 394, still active, VIC 3166) and ACCESS NET UNIT TRUST (ABN 74 687 575 203, VIC 3168)."
+ },
+ {
+  "slug": "pudney-internet",
+  "found": true,
+  "legal_name": "PUDNEY, PHILLIP",
+  "acn": null,
+  "abn": "70179881818",
+  "entity_type": "sole trader",
+  "abn_status": "cancelled",
+  "status_date": "2024-07-16",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19991014004641/http://www.pudney.net.au/about/",
+    "quote": "Our Director, Phillip Pudney, has been involved with the Internet since early 1992 ... Copyright (c) 1998 Pudney Pty Ltd",
+    "note": "ISP's own footer/company profile names Pudney Pty Ltd and director Phillip Pudney"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=70179881818",
+    "quote": "Entity name: PUDNEY, PHILLIP ... Entity type: Individual/Sole Trader ... SA 5062 ... Cancelled from 16 Jul 2024",
+    "note": "ABR individual ABN matching the named director and Adelaide location"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The 1998 site footer claims 'Pudney Pty Ltd', but no ABR entity named 'Pudney Pty Ltd' (or 'Pudney Internet') is found; the matching Adelaide person is sole trader Phillip Pudney (ABN 70 179 881 818, cancelled 2024). A different 'PHILLIP PUDNEY' ABN 74 233 095 650 exists in VIC. Relationship between the company claim and the sole-trader ABN is unconfirmed."
+ },
+ {
+  "slug": "att-easylink",
+  "found": true,
+  "legal_name": "EasyLink Services Australia Pty Limited",
+  "acn": "132582140",
+  "abn": "92132582140",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2015-03-16",
+  "registration_year": 2008,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=92132582140",
+    "quote": "EASYLINK SERVICES AUSTRALIA PTY LIMITED 05 Aug 2008 (current)",
+    "note": "ABR entity name history; ACN 132 582 140 registered 2008"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ACN 132 582 140 dates to 2008, whereas AT&T EasyLink Services Australia was sold to AAPT in Aug 1999; the 1999 business may have been a branch/predecessor of AT&T. No ABN-era record found for the exact 1999 AT&T entity."
+ },
+ {
+  "slug": "cyrus-technologies",
+  "found": true,
+  "legal_name": "Cyrus Technologies Pty. Limited",
+  "acn": "068194089",
+  "abn": "80068194089",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2008-07-23",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=80068194089",
+    "quote": "Entity name: CYRUS TECHNOLOGIES PTY. LIMITED; ABN status: Cancelled from 23 Jul 2008; ACN 068 194 089; NSW 2148",
+    "note": "ABR entity matching the cyrustech.com.au name"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19990125094613/http://www.cyrustech.com.au:80/",
+    "quote": "OzEmail Home Page ... Copyright 1999 - OzEmail Ltd",
+    "note": "First capture already shows an OzEmail-resold homepage, consistent with a short-lived reseller"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Name matches the domain, but the archived 1999 site shows no self-branding (OzEmail homepage), so the entity link is name-based only. ACN 068 194 089 predates the ABN era."
+ },
+ {
+  "slug": "dynamic-bells-networld",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19981212024249/http://www.dbnw.com.au:80/",
+    "quote": "DBNW - Dynamic Bell's NetWorld ... Dynamic Bell",
+    "note": "Confirms brand 'Dynamic Bell's NetWorld' (DBNW) run by phone reseller Dynamic Bell"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970630204440/http://www.dynamicbell.com.au:80/dbinfo.html",
+    "quote": "Dynamic Bell Information - www.dynamicbell.com.au",
+    "note": "Dynamic Bell's own site; no ABN/ACN shown (pre-ABN, ceased 1999)"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Ceased ~1999 before ABNs existed; ABN Lookup has no 'Dynamic Bell' entity (nearest are unrelated Dynamic Telecommunications Pty Ltd)."
+ },
+ {
+  "slug": "infinite-data",
+  "found": true,
+  "legal_name": "The Trustee for Digital Ventures Unit Trust",
+  "acn": null,
+  "abn": "71286296831",
+  "entity_type": "trust",
+  "abn_status": "cancelled",
+  "status_date": "2012-09-30",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=71286296831",
+    "quote": "Entity name: The Trustee for DIGITAL VENTURES UNIT TRUST; Trading name: INFINITE DATA; Cancelled from 30 Sep 2012; WA 6152",
+    "note": "ABR trading name 'INFINITE DATA' with a Perth (Como) location"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=73089076684",
+    "quote": "Entity name: TOWER.NET PTY LTD; Business name: INFINITE DATA AUSTRALIA; Cancelled from 28 Aug 2013; WA 6000; ACN 089 076 684",
+    "note": "Alternate 'Infinite Data Australia' registrant"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Perth-area ISP acquired by iiNet in Feb 2000 (iiNet history), so pre-dates ABNs; two later registrants ('INFINITE DATA' under Digital Ventures Unit Trust; 'INFINITE DATA AUSTRALIA' under Tower.net Pty Ltd) are candidates and the link is not conclusive."
+ },
+ {
+  "slug": "swiftlink",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19990829011252/http://www.swiftlink.net.au:80/contact.html",
+    "quote": "SwiftLink Communications, Suite 9/17 Boag Place, Morley 6062, Western Australia",
+    "note": "Archived contact gives the Perth trading name/address but no ACN/ABN (pre-ABN, defunct c.1999)"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABN Lookup match for a WA 'Swiftlink'; existing SWIFTLINK PTY LTD (ABN 78 647 144 394, NSW, ACN era 2021) and SWIFTLINK COMMUNICATIONS PTY LTD (QLD, ACN era 2024) likely post-date the 1998-99 Perth ISP."
+ },
+ {
+  "slug": "mns",
+  "found": true,
+  "legal_name": "Michael Taungahihifo",
+  "acn": null,
+  "abn": "21390744616",
+  "entity_type": "sole trader",
+  "abn_status": "cancelled",
+  "status_date": "2026-02-17",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=21390744616",
+    "quote": "Entity name: TAUNGAHIHIFO, MICHAEL; Trading name: MNS; Individual/Sole Trader; WA 6722",
+    "note": "ABR sole-trader ABN carrying the trading name 'MNS'"
+   },
+   {
+    "kind": "official",
+    "url": "https://www.iinet.net.au/about-us/history",
+    "quote": "iiNet rapidly acquires Omen Internet, Networx, Nettrek and Infinite Data in Perth, as well as regional service providers MNS and Comtech.",
+    "note": "Confirms MNS was an acquired regional provider (consistent with Karratha WA 6722)"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABN-only match based on trading name 'MNS' plus regional WA location; ISP ceased on acquisition ~2000, so the ABN record post-dates it and the identity is not certain."
+ },
+ {
+  "slug": "backchannel-net",
+  "found": true,
+  "legal_name": "Darren Christopher Worley",
+  "acn": null,
+  "abn": "65501770865",
+  "entity_type": "sole trader",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2021,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=65501770865",
+    "quote": "Entity name: WORLEY, DARREN CHRISTOPHER; Other name: BACKCHANNEL NET; Individual/Sole Trader; Active from 01 Jul 2021",
+    "note": "Sole-trader ABN carrying the 'Backchannel Net' name, matching brief's owner Darren Worley"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABN is active only from 2021 though the brief dates the ISP to 1997-99 (acquired by IDEAL 1999); the pre-ABN operation is inferred from the owner name, not a contemporaneous ABN."
+ },
+ {
+  "slug": "networx",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://www.iinet.net.au/about-us/history",
+    "quote": "iiNet rapidly acquires Omen Internet, Networx, Nettrek and Infinite Data in Perth",
+    "note": "Confirms Networx was a Perth ISP absorbed by iiNet ~2000, before ABNs were used"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "ABN Lookup has no WA 'Networx' entity; existing NETWORX PTY LTD records are in QLD (ABN 23 061 452 506, 28 115 749 776) and unrelated to the Perth ISP."
+ },
+ {
+  "slug": "pronet",
+  "found": true,
+  "legal_name": "Professional Internet Services Pty Ltd",
+  "acn": null,
+  "abn": null,
+  "entity_type": "Pty Ltd company",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980524043104/http://www.pronet.net.au/",
+    "quote": "Professional Internet Services, Pronet Australian ISP ... Pronet is becoming Australia's premier Internet Service Provider",
+    "note": "Pronet's own homepage trading as 'Professional Internet Services'"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Liquidated Jul 1998, before ABNs; no ABN Lookup record for 'Professional Internet Services Pty Ltd'. Legal name comes from the site title/brief rather than an official register."
+ },
+ {
+  "slug": "interworld",
+  "found": true,
+  "legal_name": "Wantree Development Pty Ltd",
+  "acn": "066482406",
+  "abn": "59066482406",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2016-11-09",
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961107050631/http://www.interworld.com.au:80/about_us.html",
+    "quote": "About Wantree Development ... we expanded our operations to include Internet Services in January 1995 ... one of Western Australia's leading commercial Internet Access Providers",
+    "note": "interworld.com.au's own 1996 about page is branded Wantree Development after the Nov 1996 acquisition"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=59066482406",
+    "quote": "WANTREE DEVELOPMENT PTY LTD 14 May 2000 10 Aug 2000 ... PHASE THREE PTY LTD",
+    "note": "ABR confirms the entity name Wantree Development Pty Ltd, later renamed"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "Brief names the ISP 'Interworld Communications', but the surviving 1996 site was run by Wantree Development Pty Ltd after it acquired Interworld; no ASIC/ABN record found for a Perth 'Interworld Communications'. ACN 066 482 406 predates the ABN era."
+ },
+ {
+  "slug": "nettrek",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961222021232/http://nettrek.com.au/",
+    "quote": "Net Trek Cafe Western Australia's first Internet Cafe",
+    "note": "1996 identity: Net Trek, WA, cafe + dialup ISP"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970410105637/http://www.cynosure.com.au/isp/nettrek",
+    "quote": "Net Trek Online Services ... Office Shop 8 Bannister Street Mall Fremantle WA 6160",
+    "note": "directory listing confirms trading name/location, no company"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20000511031657/http://www.nettrek.com.au/",
+    "quote": "Nettrek is now part of iiNet",
+    "note": "absorbed by iiNet Jan 2000"
+   }
+  ],
+  "confidence": "medium",
+  "misattribution_note": "No ABR record found for the original Nettrek operator (pre-ABN, deregistered c.2000). Domain later reused by iiNet, whose ABN/ACN appear on 2005-08 snapshots."
+ },
+ {
+  "slug": "internet-one",
+  "found": true,
+  "legal_name": "ONLINE ADVANTAGE AUSTRALASIA PTY LTD",
+  "acn": "065641090",
+  "abn": "37065641090",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2003-06-30",
+  "registration_year": 1994,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=37065641090",
+    "quote": "Business name INTERNET ONE WORLD ACCESS 22 May 2000 22 Jun 2002 | Entity name ONLINE ADVANTAGE AUSTRALASIA PTY LTD",
+    "note": "ABR business name 'Internet One World Access' under this WA company"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No archived site (no website in brief); ABR business name post-dates the 1996 birth and the 1999 IDEAL Internet acquisition. Could be a later relaunch rather than the original operator. Name match only."
+ },
+ {
+  "slug": "cynet-services",
+  "found": true,
+  "legal_name": "TOTAL NETWORK SUPPORT PTY. LTD.",
+  "acn": "089552223",
+  "abn": "16089552223",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2018-10-03",
+  "registration_year": 1999,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970410112119/http://www.cynosure.com.au/isp/cynet",
+    "quote": "Total Network Support ... Domains cynet.net.au tns.com.au ... Level 4 71 Palmerston Crescent South Melbourne",
+    "note": "1997 directory groups Cynet under Total Network Support"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19981202104353/http://www.cynet.net.au/contact/",
+    "quote": "Cynet work closely in conjunction with Total Network Support (our sister company)",
+    "note": "same South Melbourne office; links Cynet to TNS"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=16089552223",
+    "quote": "Entity name: TOTAL NETWORK SUPPORT PTY. LTD. | Cancelled from 03 Oct 2018 | ASIC registration: 089 552 223",
+    "note": "ABR record for TNS, South Melbourne 3205"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "TNS's ACN (089 552 223) registered ~1999 postdates Cynet (1996), so Cynet likely traded as a sole trader/earlier entity before incorporation. Cynet 'merged with SubNet Internet Services' c.Jan 1999; SUBNET INTERNET SERVICES PTY LTD (ACN 078 593 272, VIC 3205) is an alternative candidate."
+ },
+ {
+  "slug": "iap-direct",
+  "found": false,
+  "legal_name": "IAP Direct",
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970410103741/http://www.cynosure.com.au/isp/iap",
+    "quote": "IAP Direct ... Service went into liquidation in April 1997 after 16 months of trading, and was bought by Highway 1",
+    "note": "operator dissolved pre-ABN era; no company name given"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961225155636/http://iap.net.au/",
+    "quote": "WELCOME TO IAP DIRECT ... 361 Oxford Street Leederville 6007 WESTERN AUSTRALIA",
+    "note": "1996 site confirms trading name/address, no ABN/ACN"
+   }
+  ],
+  "confidence": "medium",
+  "misattribution_note": "Acquirer HIGHWAY 1 (AUST) PTY LTD (ACN 066 394 509, later ZETTANET PTY LTD) is a separate company; iap.net.au later redirected to Highway1, so its ABN is not IAP's."
+ },
+ {
+  "slug": "terra-communications-sa",
+  "found": false,
+  "legal_name": "Terra Communications (SA) Pty Ltd",
+  "acn": null,
+  "abn": null,
+  "entity_type": "Pty Ltd company",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980627005909/http://www.terra.net.au/",
+    "quote": "Terra Communications Home Page ... (c) Terra Communications (SA) Pty Ltd 1997",
+    "note": "1997 footer names the operating company"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20000229143610/http://www.terra.net.au/",
+    "quote": "Terra Communications / OzEmail Camtech Internet Information Page",
+    "note": "by 2000 folded into Camtech/OzEmail"
+   }
+  ],
+  "confidence": "medium",
+  "misattribution_note": "Company deregistered/absorbed pre-2000 so no ABR ABN found under 'Terra Communications'. Principal Luke Vanderfluit (sole-trader ABN 38 213 847 096, SA) is a possible but unconfirmed operator link."
+ },
+ {
+  "slug": "interconnect",
+  "found": true,
+  "legal_name": "INTERCONNECT AUSTRALIA PTY. LTD.",
+  "acn": "063283634",
+  "abn": "42063283634",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2005-06-23",
+  "registration_year": 1993,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19961230115711/http://www.interconnect.com.au/",
+    "quote": "Interconnect is now supported as a direct product of connect.com.au pty ltd",
+    "note": "1996 site ties the InterConnect brand to connect.com.au pty ltd"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=42063283634",
+    "quote": "Entity name CI 3 PTY LIMITED 17 Feb 2005 (current) | INTERCONNECT AUSTRALIA PTY. LTD. 30 May 2000 17 Feb 2005 | INTERCONNECT AUSTRALIA PTY LTD 01 Nov 1999 ... (IN LIQUIDATION)",
+    "note": "ABR former names include the exact brand; liquidated 2005"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "High risk: the 1996 archive names CONNECT.COM.AU PTY. LTD. (ACN 054 112 435, now CONNECT INTERNET SOLUTIONS PTY LIMITED) as the entity, while a distinct company actually named INTERCONNECT AUSTRALIA PTY LTD (ACN 063 283 634) was only renamed to that from 1999. Both are candidates."
+ },
+ {
+  "slug": "omen-internet",
+  "found": false,
+  "legal_name": "Omen Internet",
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970410110104/http://www.cynosure.com.au/isp/omen",
+    "quote": "Omen Computer Services have worked with the telecommunications industry for over a decade, establishing WA's first Bulletin Board System",
+    "note": "trading entity described as 'Omen Computer Services', Innaloo WA, no company/ABN"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20000511112052/http://www.omen.com.au/",
+    "quote": "Omen Internet is now part of iiNet",
+    "note": "absorbed by iiNet 1999-2000"
+   }
+  ],
+  "confidence": "medium",
+  "misattribution_note": "Possible but unconfirmed match: OMEN PTY LTD (ACN 008 924 561, WA 6012, ABN active since 2009) \u2014 old ACN but no ABR trading-name link. ABR's Sydney sole-trader trading name 'OMEN INTERNET' (ABN 69 066 726 423) is likely unrelated."
+ },
+ {
+  "slug": "netinfo",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19990125101543/http://www.netinfo.net.au/",
+    "quote": "In March 1998, Netinfo was acquired by Canberra's Premier Internet Service Provider - Dynamite Internet",
+    "note": "operator absorbed by Dynamite Internet; no company name/ABN"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970410105743/http://www.cynosure.com.au/isp/netinfo",
+    "quote": "Netinfo ... Office 72 Wattle Street Lyneham ACT 2602",
+    "note": "directory confirms Canberra trading location"
+   }
+  ],
+  "confidence": "medium",
+  "misattribution_note": "No ABR record for 'Netinfo'. Dynamite Internet name links only to CONNECT WEST PTY LTD (ABN 40 073 156 779) much later, not necessarily Netinfo's operator."
+ },
+ {
+  "slug": "access-one",
+  "found": true,
+  "legal_name": "ACCESS ONE PTY LTD",
+  "acn": "070546977",
+  "abn": "44070546977",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "cancelled",
+  "status_date": "2000-07-01",
+  "registration_year": 1995,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19980111063029/http://www.aone.net.au/main.htm",
+    "quote": "Access One ... A wholly owned subsidiary of OzEmail Ltd",
+    "note": "1998 confirms Access One was an OzEmail subsidiary"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/AbnHistory/View?id=44070546977",
+    "quote": "Entity name CMIST PTY LTD 04 Aug 2000 (current) | ACCESS ONE PTY LTD 18 May 2000 04 Aug 2000 ... Business name ACCESS ONE DIRECT | Trading name PROVISION OF INTERNET SERVICES",
+    "note": "ABR former name and ISP business names"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?abn=44070546977",
+    "quote": "Main business location: NSW 2065 | ASIC registration: 070 546 977",
+    "note": "NSW 2065 matches OzEmail's Sydney base"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The company only bore the name ACCESS ONE PTY LTD for ~3 months in 2000, then CMIST PTY LTD; its original pre-2000 name is not in ABR (registered ~1995). aone.net.au was by then an OzEmail/iiNet domain, so its ABN is not Access One's. Identity only partly corroborated."
+ },
+ {
+  "slug": "byron-network-services",
+  "found": false,
+  "legal_name": "Byron Network Services",
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19990125084901/http://bns.com.au/",
+    "quote": "Byron Network Services was once a dial up ISP. Now it is the personal toy of its owner, John Lindsay",
+    "note": "names owner John Lindsay; no company form or ABN"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/19970103014045/http://bns.com.au/",
+    "quote": "The iiNet deal for BNS users",
+    "note": "1997/98 fold-in to iiNet SA"
+   }
+  ],
+  "confidence": "medium",
+  "misattribution_note": "Likely a sole-trader business (John Lindsay) active 1994-96 before the ABN era; no ABR record found under 'Byron Network Services'. BNS domain bns.com.au later unrelated."
+ },
+ {
+  "slug": "desertnet",
+  "found": false,
+  "legal_name": null,
+  "acn": null,
+  "abn": null,
+  "entity_type": "unknown",
+  "abn_status": null,
+  "status_date": null,
+  "registration_year": null,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=DesertNet&AllNames=True&SearchType=AllAbns&AllStates=True",
+    "quote": "DESERTNET COMPUTERS | Trading Name | 5311 SA",
+    "note": "Only ABR name hits are SA (DESERTNET COMPUTERS / DESERT NET, 5311 SA); none in Kalgoorlie WA"
+   },
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=Desertnet&BusinessName=True&AllNames=False&SearchType=AllAbns&AllStates=False&WA=True",
+    "quote": "Your search for Desertnet found no matching names",
+    "note": "No WA business name 'DesertNet' in ABR"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "No ABR record matches the brief's Kalgoorlie WA location; the SA 'DesertNet Computers' (5311 SA, Loxton/Riverland) may be a different operation. Pre-2000 so may never have had an ABN."
+ },
+ {
+  "slug": "psinet-perth",
+  "found": true,
+  "legal_name": "The Trustee for DIGITAL VENTURES UNIT TRUST",
+  "acn": null,
+  "abn": "71286296831",
+  "entity_type": "trust",
+  "abn_status": "cancelled",
+  "status_date": "2012-09-30",
+  "registration_year": 2001,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=71286296831",
+    "quote": "Entity name: The Trustee for DIGITAL VENTURES UNIT TRUST ... Former entity name PSINET UNIT TRUST ... Main business location: WA 6152 ... Trading name(s): DIGITAL VENTURES | 16 Nov 2001",
+    "note": "ABR shows the WA entity formerly named PSINET UNIT TRUST that became DIGITAL VENTURES - matching the brief's 'remaining business continued as Digital Ventures'"
+   }
+  ],
+  "confidence": "medium",
+  "misattribution_note": "This Perth WA trust (6152) is distinct from the US PSINet group entities (PSINET AUSTRALIA PTY LTD etc.). The 1992-1999 ISP-era operating entity may have been a different/earlier vehicle; the ABR record only dates from 2001."
+ },
+ {
+  "slug": "krytech",
+  "found": true,
+  "legal_name": "KRYTECH PTY LTD",
+  "acn": "699357554",
+  "abn": "98699357554",
+  "entity_type": "Pty Ltd company",
+  "abn_status": "active",
+  "status_date": null,
+  "registration_year": 2026,
+  "evidence": [
+   {
+    "kind": "official",
+    "url": "https://abr.business.gov.au/ABN/View?id=98699357554",
+    "quote": "Entity name: KRYTECH PTY LTD ... Main business location: QLD 4157 ... ABN status: Active from 01 Jul 2026",
+    "note": "ABR company named KRYTECH PTY LTD, Brisbane (4157 Capalaba/Redlands), with ABN/ACN only from 2026"
+   },
+   {
+    "kind": "archive",
+    "url": "https://web.archive.org/web/20040827193325/http://krytech.net/",
+    "quote": "Krytech.net",
+    "note": "krytech.net was live from 2003, well before the 2026 company"
+   }
+  ],
+  "confidence": "low",
+  "misattribution_note": "The only ABR entity named 'Krytech' has ACN 699 357 554 = incorporated 2026, ~20 years after the 2003-2006 ISP. It is likely the same brand/operator relaunched, but the original 2006-era legal entity (possibly sole trader) has no surviving ABR record."
+ }
+]

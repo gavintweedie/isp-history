@@ -19,10 +19,22 @@
   "events": [
     {
       "kind": "birth",
-      "year": 2008,
-      "date_disp": "by 2008",
-      "precision": "by",
-      "details": "Cairns/FNQ regional ISP portal."
+      "year": 2000,
+      "date_disp": "by Mar 2000",
+      "precision": "approx",
+      "details": "Cairns/FNQ regional ISP portal.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=14077236590",
+          "label": "The domain-named company and an internet-services trading name both date to Mar 2000, eight years before the first Wayback capture."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080309231659/http://www.fnq.net.au/",
+          "label": "Lower bound only; confirms the portal."
+        }
+      ]
     },
     {
       "kind": "note",

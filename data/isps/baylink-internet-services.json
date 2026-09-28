@@ -17,13 +17,23 @@
       "kind": "birth",
       "year": 2000,
       "date_disp": "6 Dec 2000",
-      "precision": "by",
+      "precision": "exact",
       "details": "Earliest Wayback capture 6 Dec 2000 (baylink.com.au); footer ©2000. Earliest capture 6 dec 2000.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20001206204100/http://www.baylink.com.au:80/",
           "label": "Baylink (Wayback 6 Dec 2000)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20001206204100/http://www.baylink.com.au/",
+          "label": "Baylink dialup/cyber-cafe site."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=49216136076",
+          "label": "ABR partnership record."
         }
       ]
     },

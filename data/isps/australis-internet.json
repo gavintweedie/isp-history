@@ -15,8 +15,8 @@
   "events": [
     {
       "kind": "birth",
-      "year": 2000,
-      "date_disp": "2 Mar 2000",
+      "year": 2001,
+      "date_disp": "by Sep 2001",
       "precision": "by",
       "details": "Earliest Wayback capture 2 Mar 2000 (australis.aunz.com); shared with Blaze via aunz.com group.",
       "refs": [
@@ -24,6 +24,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20000302035735/http://australis.aunz.com/",
           "label": "Australis Internet (Wayback 2 Mar 2000)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010925043951/http://www.australis.net/",
+          "label": "Australis Internet site."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=66090539432",
+          "label": "ABR company record."
         }
       ],
       "source": [

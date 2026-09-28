@@ -16,14 +16,24 @@
     {
       "kind": "birth",
       "year": 2003,
-      "date_disp": "30 Sep 2003",
-      "precision": "by",
+      "date_disp": "c. 2003",
+      "precision": "approx",
       "details": "inabox.net.au robots.txt captured 30 Sep 2003; portal live Apr-Jun 2004.",
       "refs": [
         {
           "kind": "archive",
           "url": "http://web.archive.org/cdx/search/cdx?url=inabox.net.au&matchType=domain&from=2003&to=2005",
-          "label": "inabox.net.au CDX \u2014 robots.txt 30 Sep 2003"
+          "label": "inabox.net.au CDX — robots.txt 30 Sep 2003"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041126045858/http://www.ezconnect.com.au/",
+          "label": "Earliest ezConnect capture (Nov 2004) with a 2004 copyright."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040901071122/http://www.inabox.net.au/",
+          "label": "Backend domain live by Sep 2004."
         }
       ]
     },

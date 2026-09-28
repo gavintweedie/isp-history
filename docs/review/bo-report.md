@@ -1,0 +1,81 @@
+# by-only birth + leaf-connection research (258)
+
+proposed birth changes: 42 | upgrades to exact/approx: 22
+absorption candidates: 115 (already-edged 64, NEW 51)
+
+## NEW absorption edges suggested
+- airnet -> Digital247 (digital247) 2014
+- alias-internet -> Tribal Technology (tribal-technology) 2009
+- aussie-isp -> AussieLinx (aussielinx) 2014
+- australia-online -> AOL Australia (aol-australia) 1998
+- australis-internet -> Comcen (comcen) None
+- australis-ozlinx -> Australis Internet (australis-internet) None
+- beyond-net -> yourhub (yourhub) 2005
+- big-net -> Eftel (eftel) 2005
+- big-river-internet -> LinearG (linearg) 2018
+- break-free -> Jazi (jazi) 2019
+- brown-bear-internet -> Key Internet (key-internet) 2011
+- chariot -> TPG Holdings (tpg) 2007
+- cqnet -> Matilda Internet (Mackay) (matilda-internet) None
+- cyberspace-corporation -> Montimedia (montimedia) 2010
+- cynet-services -> SubNet Internet Services (subnet-internet-services) 1999
+- digital-connect-communications -> MSI (Managed Solutions Internet) (msi-managed-solutions-internet) 2008
+- dinkum-internet -> Data Consulting Group (DCG) (ispone) 2002
+- direct-net-solutions -> TheDC (thedc) None
+- dotnet-dotau -> Concept Networks (concept-networks) 2009
+- foxnet-australia -> Satlink Internet Services (satlink-internet) 1998
+- futureweb -> Voice2net Telecom Group (voice2net) 2015
+- geko-internet -> Hotkey Internet Services (hotkey-internet) 2002
+- harbourit -> Canon Australia (canon-australia) 2022
+- harboursat -> HarbourISP (harbourisp) 2013
+- hawknet -> Telstra BigPond (telstra) 2006
+- iclick -> Up'N'Away (later iiNet) (iinet) 2008
+- iexec -> SecureTelecom (securetelecom) 2006
+- internet-plus -> PSINet (psinet) 1999
+- interworld -> Wantree Development (wantree-development) 1996
+- iqnet -> IQconnect (iqconnect) 2004
+- jade-communications -> Labyrinth Connections Pty Ltd (labyrinth-connections) 2000
+- netmagic -> Eezi.Net (eezi-net) 2007
+- network-technology -> Datafast Telecommunications (datafast) 2000
+- north-power-communications -> Country Energy (country-energy) 2001
+- ompac-internet -> Chariot Netconnect (chariot-netconnect) 2006
+- one-earth-internet -> ihug (Australia) (ihug) 2000
+- one-net -> Key Internet (key-internet) 2012
+- oz-internet-services -> Veridas (veridas) 2006
+- paradox-digital -> Eftel (via Fleet Broadband/Datafast) (eftel) 2001
+- pbba -> Commander Australia (parent); iBurst service wound up (commander-australia) 2008
+- planet-netcomm -> Datafast (later Eftel) (datafast) 2004
+- satlink -> Chariot Netconnect (chariot-netconnect) 2006
+- silver-telecom -> Silver Connect (rebrand) (None) None
+- standard-net -> Hotkey Southcoast (hotkey) 2003
+- starwon-enterprises -> ispX (ispx) 2004
+- techex -> Destra Communications (destra-communications) 2005
+- topend-com-au -> Austar Entertainment (Austarnet) (austar) 2000
+- v-app -> EFTEL (eftel) 2009
+- webaxs -> Labyrinth (labyrinth) 2001
+- westvic-internet -> Aussie Broadband (aussie-broadband) 2008
+- widelinx -> Amcom (amcom) 2014
+
+## Birth upgrades (by -> exact/approx)
+- baylink-internet-services: 6 Dec 2000 (by) -> 6 Dec 2000 (exact, medium)
+- best-telecom: by 2007 (by) -> by Sep 2007 (approx, high)
+- betem: by 2005 (by) -> c. 2004 (approx, medium)
+- bfm-telecoms: by 2007 (by) -> c. 2006 (approx, medium)
+- brown-bear-internet: by 2005 (by) -> by Jun 2004 (exact, high)
+- bushcom: by 2005 (by) -> c. 2004 (approx, medium)
+- cheapa-net: by 2001 (by) -> by 2001 (exact, high)
+- connected-australia: by 2014 (by) -> 2015 (company says 'delivering ... since 2015') (approx, medium)
+- corinthian: by 1995 (by) -> 1992 (company states it began commercial internet services) (approx, medium)
+- csis-net-au: by 1998 (by) -> 1996 (self-stated) (approx, medium)
+- cynergic: by 2002 (by) -> by 2002 (exact, high)
+- ezconnect-broadband: 30 Sep 2003 (by) -> c. 2003 (approx, low)
+- fnqnet: by 2008 (by) -> by Mar 2000 (approx, medium)
+- gist-internet: by 1997 (by) -> by 1996 (site copyright) (approx, low)
+- harboursat: by Feb 2007 (by) -> c. 2005 (approx, medium)
+- internet-express: by c. 1995 (by) -> by c. 1995 (approx, low)
+- interphone: by Dec 2015 (by) -> 2013 (approx, medium)
+- message-exchange: by 2000 (by) -> c. 1989 (10-year history as of Oct 1999) (approx, medium)
+- network-technology: Aug 1996 (by) -> 1996 (founder profile) (approx, medium)
+- oz-internet-services: by May 2004 (by) -> c. 1996 (approx, medium)
+- snoopa-hervey-bay: by Jan 2005 (by) -> c. 2003 (approx, low)
+- tsn-communications: by 1998 (by) -> c. 1998 (12-year history as of Jul 2010) (approx, medium)

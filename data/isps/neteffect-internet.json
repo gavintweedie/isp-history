@@ -15,10 +15,22 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1997",
+      "year": 1996,
+      "date_disp": "by Mar 1997",
       "precision": "by",
-      "details": "Dialup PPP, Kidz.Net, web hosting."
+      "details": "Dialup PPP, Kidz.Net, web hosting.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.australiacheck.com/act/neteffect-internet",
+          "label": "ASIC company registration date."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970327090023/http://www.effect.net.au/",
+          "label": "Site live shortly after registration."
+        }
+      ]
     },
     {
       "kind": "death",

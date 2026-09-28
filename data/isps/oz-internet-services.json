@@ -15,15 +15,20 @@
   "events": [
     {
       "kind": "birth",
-      "year": 2004,
-      "date_disp": "by May 2004",
-      "precision": "by",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
       "details": "Dialup, ADSL, hosting. Earliest verified Wayback capture 28 May 2004.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20040528104539/http://www.ozinet.net.au/",
           "label": "Wayback Machine: earliest capture (May 2004)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=94074660307",
+          "label": "ACN 074 660 307 implies 1996 incorporation; internet trading name from 2000."
         }
       ]
     },

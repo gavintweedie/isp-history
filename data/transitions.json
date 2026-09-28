@@ -7190,6 +7190,211 @@
           "label": "ARN 12 May 2022: 'Pennytel gains momentum with MeshTelco buy'"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "from": "australis-ozlinx",
+      "to": "australis-internet",
+      "year": 2004,
+      "date_disp": "2004",
+      "notes": "Absorbed by Australis Internet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010925043951/http://www.australis.net/",
+          "label": "Account: AUSTRALIS / Keynet / Ozlinx"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "big-net",
+      "to": "eftel",
+      "year": 2005,
+      "date_disp": "2005",
+      "notes": "Absorbed by Eftel.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050305104404/http://www.big.net.au/",
+          "label": "big.net migrated customers to KeyPoint in 2005."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060610035821/http://big.net.au/",
+          "label": "By 2006 big.net redirected to Eftel."
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eftel",
+          "label": "KeyPoint (big.net's successor brand) was acquired by Datafast, later renamed Eftel."
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "beyond-net",
+      "to": "yourhub",
+      "year": 2005,
+      "date_disp": "2005",
+      "notes": "Absorbed by yourhub.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050830160444/http://beyond.net.au/",
+          "label": "www.beyond.net.au 301-redirected to Townsville ISP yourhub.com.au from 30 Aug 2005."
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "cqnet",
+      "to": "matilda-internet",
+      "year": 2010,
+      "date_disp": "2010",
+      "notes": "Absorbed by Matilda Internet (Mackay).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://matilda.net.au/faqs-matilda-internet/",
+          "label": "Matilda Internet (Mackay) serves cqnet.com.au mailboxes; cqnet.com.au now 301-redirects to matilda.net.au (absorbed after CQnet's ABN was cancelled 2010)."
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "australia-online",
+      "to": "aol-australia",
+      "year": 1998,
+      "date_disp": "1998",
+      "notes": "Absorbed by AOL Australia.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981111185057/http://aol.com.au/",
+          "label": "aol.com.au serving AOL Australia content by the 11 Nov 1998 capture; the independent's domain was taken over at AOL's Australian launch"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980425150741/http://aol.net.au/",
+          "label": "aol.net.au captured 25 Apr 1998 (AOL Australia launch)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "westvic-internet",
+      "to": "aussie-broadband",
+      "year": 2008,
+      "date_disp": "2008",
+      "notes": "Absorbed by Aussie Broadband.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.aussiebroadband.com.au/about-us/our-history/",
+          "label": "Aussie Broadband was born from the merger of two regional internet service providers in 2008, Wideband Networks and Westvic Broadband."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=82106835947",
+          "label": "Westvic Broadband Pty Ltd (ACN 106 835 947) ... '.AUSSIE BROADBAND' business name from 02 Aug 2007"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "dotnet-dotau",
+      "to": "concept-networks",
+      "year": 2009,
+      "date_disp": "2009",
+      "notes": "Absorbed by Concept Networks.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090223202542/http://norcom.net.au/",
+          "label": "Concept Networks has been offering Internet solutions to Australian households and businesses for over 4 years ... All content copyright (c) Concept Networks 20"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "standard-net",
+      "to": "hotkey",
+      "year": 2003,
+      "date_disp": "2003",
+      "notes": "Absorbed by Hotkey Southcoast.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031218233641/http://www.standard.net.au/",
+          "label": "Hotkey Southcoast - Your Local Internet Service Provider, Supporting South-West Victoria"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "hawknet",
+      "to": "telstra",
+      "year": 2006,
+      "date_disp": "2006",
+      "notes": "Absorbed by Telstra BigPond.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060813083106/http://www.hawknet.com.au/",
+          "label": "From Friday 16th June 2006 Hypermax will no longer provide your internet access and email services. You are now being diverted to BigPond who can provide you wi"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "starwon-enterprises",
+      "to": "ispx",
+      "year": 2004,
+      "date_disp": "2004",
+      "notes": "Absorbed by ispX.",
+      "refs": [
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/1637171",
+          "label": "Whirlpool thread (Feb 2011) confirms the Starwon/Silogen/ispX entity lineage in Perth."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040827152906/http://ispx.com.au/",
+          "label": "ispX site first captured 27 Aug 2004, matching the reported July 2004 formation with Starwon, Karratha Internet and Netserv Connect."
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "iclick",
+      "to": "iinet",
+      "year": 2008,
+      "date_disp": "2008",
+      "notes": "Absorbed by Up'N'Away (later iiNet).",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/IiNet",
+          "label": "iiNet acquired Up'N'Away in Jan 2008; brief says iClick had earlier been acquired by Up'N'Away."
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "paradox-digital",
+      "to": "eftel",
+      "year": 2001,
+      "date_disp": "2001",
+      "notes": "Absorbed by Eftel (via Fleet Broadband/Datafast).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120221220058id_/http://www.paradox.net.au/",
+          "label": "302 ... moved to http://www.eftelwholesale.net/"
+        }
+      ]
     }
   ]
 }

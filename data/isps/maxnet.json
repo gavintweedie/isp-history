@@ -15,10 +15,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by Jun 1997",
+      "year": 1998,
+      "date_disp": "by 1 Sep 1998",
       "precision": "by",
-      "details": "Company registered (NZ Companies Office)."
+      "details": "Company registered (NZ Companies Office).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://app.companiesoffice.govt.nz/co/924295",
+          "label": "NZ Companies Register company 924295: incorporated 1 Sep 1998 as Maximum Internet, renamed Maxnet in 2009. Earliest maxnet.co.nz capture is 4 Mar 2000."
+        }
+      ]
     },
     {
       "kind": "death",

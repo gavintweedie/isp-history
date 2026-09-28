@@ -15,10 +15,22 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
+      "year": 2012,
+      "date_disp": "by 12 Sep 2012",
       "precision": "by",
-      "details": "Serviced Varsity Lakes/Bond University area; earliest Wayback capture."
+      "details": "Serviced Varsity Lakes/Bond University area; earliest Wayback capture.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=94160316101",
+          "label": "ABR history: entity registered 12 Sep 2012 and renamed AUSTRALIAN BROADBAND NETWORK PTY LTD in Oct 2015. No Wayback capture exists for varsity.net.au (CDX empty"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=71154074218",
+          "label": "Business name 'Varsity Internet' registered under Fuzenet Pty Ltd (later Uniti Retail) from 29 Aug 2016."
+        }
+      ]
     },
     {
       "kind": "death",

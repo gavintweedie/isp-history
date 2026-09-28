@@ -17,8 +17,20 @@
       "kind": "birth",
       "year": 2001,
       "date_disp": "by 2001",
-      "precision": "by",
-      "details": "Last known alive by 2001 (Wayback capture)."
+      "precision": "exact",
+      "details": "Last known alive by 2001 (Wayback capture).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=58531317409",
+          "label": "Trust GST-registered 11 Jul 2001."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010721203337/http://cheapa.net/",
+          "label": "Bondi Junction cheap-dialup ISP."
+        }
+      ]
     },
     {
       "kind": "death",

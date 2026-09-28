@@ -18,12 +18,24 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
+      "year": 1996,
+      "date_disp": "1996",
+      "precision": "approx",
       "details": "\"Computing Success Online\" (Sutherland Shire, NSW) computer shop offering dialup access, email and a Net café; earliest capture 12 Dec 1998.",
       "source": [
         "https://web.archive.org/web/19981212024128id_/http://www.csis.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000207200756/http://www.csis.net.au/",
+          "label": "Self-stated 1996 founding; earliest Wayback capture 12 Dec 1998 (repo uses 1998)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=59220949314",
+          "label": "Later domain-reuse entity, not the original ISP"
+        }
       ]
     },
     {

@@ -15,10 +15,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1998,
-      "date_disp": "by 1998",
+      "year": 1997,
+      "date_disp": "by 5 Jul 1997",
       "precision": "by",
-      "details": "Domain upnaway.com.au live from Dec 1998."
+      "details": "Domain upnaway.com.au live from Dec 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970705001617/http://www.cynosure.com.au/isp/@list",
+          "label": "Listed in the Australian ISP List as at 5 Jul 1997, earlier than the domain's first own-site capture (11 Nov 1998)."
+        }
+      ]
     },
     {
       "kind": "death",

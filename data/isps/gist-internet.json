@@ -15,10 +15,17 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Earliest Wayback capture of gist.net.au Apr 1997."
+      "year": 1996,
+      "date_disp": "by 1996",
+      "precision": "approx",
+      "details": "Earliest Wayback capture of gist.net.au Apr 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970402200615/http://www.gist.net.au/",
+          "label": "Earliest capture 2 Apr 1997; footer copyright 1996 indicates the business traded from 1996. gist = Global-Link Internet Services & Training."
+        }
+      ]
     },
     {
       "kind": "death",

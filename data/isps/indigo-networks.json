@@ -15,10 +15,22 @@
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "by 1996",
+      "year": 2000,
+      "date_disp": "by Jun 2000",
       "precision": "by",
-      "details": "WA internet provider, operational by Oct 1996."
+      "details": "WA internet provider, operational by Oct 1996.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000604061134/http://www.indigo.net.au/",
+          "label": "Earliest capture of the Perth ISP domain."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000821031600/http://www.cynosure.com.au/isp/indigo",
+          "label": "Cynosure entry updated 23 July 2000."
+        }
+      ]
     },
     {
       "kind": "death",

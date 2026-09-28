@@ -16,14 +16,24 @@
     {
       "kind": "birth",
       "year": 1998,
-      "date_disp": "by 1998",
-      "precision": "by",
+      "date_disp": "c. 1998",
+      "precision": "approx",
       "details": "First Wayback capture Dec 1998.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20081217141913/http://www.tsninternet.com.au/about/",
           "label": "First known reference"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.portnews.com.au/story/1016414/net-company-sold-five-are-logged-off/",
+          "label": "Port Macquarie News, 8 Jul 2010, dates the founding to ~1998; earliest site capture is 29 Nov 1999."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991129003938/http://www.tsninternet.com.au/",
+          "label": "Earliest Wayback capture of tsninternet.com.au, 29 Nov 1999."
         }
       ]
     },

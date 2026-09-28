@@ -16,9 +16,16 @@
     {
       "kind": "birth",
       "year": 1995,
-      "date_disp": "by c. 1995",
-      "precision": "by",
-      "details": "Earliest Wayback capture (ix.net.au)."
+      "date_disp": "c. 1995",
+      "precision": "approx",
+      "details": "Earliest Wayback capture (ix.net.au).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=42088018615",
+          "label": "ABR entity (ACN 088 018 615) behind Internet Express; earliest web capture of internetexpress.com.au is 9 Nov 2000."
+        }
+      ]
     },
     {
       "kind": "death",
