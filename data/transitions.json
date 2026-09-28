@@ -21,7 +21,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "1999",
-      "notes": "Agile was Internode's licensed carrier arm (from 1999).",
+      "notes": "Agile was Internode's licensed carrier arm (from 1999.",
       "from": "agile-communications",
       "to": "internode",
       "refs": [
@@ -101,7 +101,7 @@
       "arm_label": "100%",
       "year": 1997,
       "date_disp": "Dec 1997",
-      "notes": "Access Communications (WA, accesswa.com.au) acquired by iiNet Technologies in December 1997 (iiNet's archived accesswa redirect page, confirmed). Earlier 'Dec 1995'/'c. Dec 1996' records were unsupported; iiNet's compressed later history grouped it with OIS as 1996.",
+      "notes": "Access Communications (WA, accesswa.com.au acquired by iiNet Technologies in December 1997 (iiNet's archived accesswa redirect page, confirmed. Earlier 'Dec 1995'/'c. Dec 1996' records were unsupported; iiNet's compressed later history grouped it with OIS as 1996.",
       "from": "access-communications",
       "to": "iinet",
       "refs": [
@@ -277,7 +277,7 @@
       "arm_label": "100%",
       "year": 2003,
       "date_disp": "2003",
-      "notes": "Tasmanian acquisition (Tassienet, ex-Tasmania's Access Server).",
+      "notes": "Tasmanian acquisition (Tassienet, ex-Tasmania's Access Server.",
       "from": "tassienet",
       "to": "iinet",
       "refs": [
@@ -293,7 +293,7 @@
       "arm_label": "brand",
       "year": 2002,
       "date_disp": "by 2002",
-      "notes": "RuralNet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd).",
+      "notes": "RuralNet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd.",
       "from": "ruralnet",
       "to": "macarthurcook",
       "refs": [
@@ -309,7 +309,7 @@
       "arm_label": "brand",
       "year": 2002,
       "date_disp": "by 2002",
-      "notes": "Tassienet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd).",
+      "notes": "Tassienet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd.",
       "from": "tassienet",
       "to": "macarthurcook",
       "refs": [
@@ -405,7 +405,7 @@
       "arm_label": "100%",
       "year": 2002,
       "date_disp": "2002",
-      "notes": "Regional NSW ISP (Griffith).",
+      "notes": "Regional NSW ISP (Griffith.",
       "from": "webfront",
       "to": "iinet",
       "refs": [
@@ -451,8 +451,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2003,
-      "date_disp": "by 2004",
+      "year": 2002,
+      "date_disp": "by early 2002",
       "notes": "Planet ISP was a FlowCom subsidiary.",
       "from": "planet",
       "to": "flowcom",
@@ -461,6 +461,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/200300000000/http://www.planet.com.au/",
           "label": "planet (2003) \u2014 Wayback"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020328222214/http://www.planet.com.au/",
+          "label": "28 Mar 2002 capture: planet.com.au already drives traffic to Flow Communications' broadband page."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020929222555/http://www.planet.com.au/",
+          "label": "By Sep 2002 Planet's site carried a Flow Communications copyright and linked to FLOW Communications."
         }
       ]
     },
@@ -468,7 +478,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2003,
-      "date_disp": "by 2004",
+      "date_disp": "Dec 2003",
       "notes": "Froggy Internet was a FlowCom subsidiary.",
       "from": "froggy",
       "to": "flowcom",
@@ -477,6 +487,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/200300000000/http://www.froggy.com.au/",
           "label": "froggy (2003) \u2014 Wayback"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030609082325/http://froggy.com.au/",
+          "label": "Jun 2003 and Oct/Nov 2003 captures still show Bluejoy ownership."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031222082103/http://froggy.com.au/",
+          "label": "By 22 Dec 2003 Froggy was owned by Flow Communications. Acquisition falls between 19 Nov and 22 Dec 2003."
         }
       ]
     },
@@ -485,7 +505,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Feb 2004",
-      "notes": "iiNet acquired FlowCom (~A$6.3M) including iGreen, Froggy Internet, Planet ISP.",
+      "notes": "iiNet acquired FlowCom (~A$6.3M including iGreen, Froggy Internet, Planet ISP.",
       "from": "flowcom",
       "to": "iinet",
       "refs": [
@@ -553,8 +573,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2008,
-      "date_disp": "c. 2007-08",
-      "notes": "Wix Telecommunications acquired by Blitz Telecom (Port Melbourne VIC) in Blitz's 2007-08 buying spree (with TelPacific, G-Node, Koala); Blitz itself collapsed into administration Jun 2008.",
+      "date_disp": "by Feb 2008",
+      "notes": "Wix Telecommunications acquired by Blitz Telecom (Port Melbourne VIC in Blitz's 2007-08 buying spree (with TelPacific, G-Node, Koala; Blitz itself collapsed into administration Jun 2008.",
       "from": "wix-telecommunications",
       "to": "blitz-telecom",
       "refs": [
@@ -567,6 +587,11 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/?id=1798",
           "label": "Whirlpool news Jun 2008: Blitz collapses right after the buying spree; customers to SuperNerd"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=45128843881",
+          "label": "ABR: the Wix Telecommunications business name was registered to a Blitz entity on 21 Feb 2008, proving Blitz ownership by then."
         }
       ]
     },
@@ -644,7 +669,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "2000",
-      "notes": "Telecom New Zealand acquired AAPT (staged takeover; delisted).",
+      "notes": "Telecom New Zealand acquired AAPT (staged takeover; delisted.",
       "from": "telecom-nz",
       "to": "aapt",
       "refs": [
@@ -724,7 +749,7 @@
       "arm_label": "100%",
       "year": 2010,
       "date_disp": "May 2010",
-      "notes": "TransACT acquired ActewAGL's 50% share of Grapevine (fully owned).",
+      "notes": "TransACT acquired ActewAGL's 50% share of Grapevine (fully owned.",
       "from": "grapevine",
       "to": "transact",
       "refs": [
@@ -788,7 +813,7 @@
       "arm_label": "100%",
       "year": 2007,
       "date_disp": "2007",
-      "notes": "Neighbourhood Cable acquired by TransACT (effective 1 Jan 2008); brand dropped 2011.",
+      "notes": "Neighbourhood Cable acquired by TransACT (effective 1 Jan 2008; brand dropped 2011.",
       "from": "neighbourhood-cable",
       "to": "transact",
       "refs": [
@@ -820,7 +845,7 @@
       "arm_label": "100%",
       "year": 2008,
       "date_disp": "Aug 2008",
-      "notes": "BettaNet customer base moved to Adam Internet (~1 Aug 2008).",
+      "notes": "BettaNet customer base moved to Adam Internet (~1 Aug 2008.",
       "from": "bettanet",
       "to": "adam-internet",
       "refs": [
@@ -836,7 +861,7 @@
       "arm_label": "100%",
       "year": 2008,
       "date_disp": "Aug 2008",
-      "notes": "Momentum (Betta Momentum) absorbed by Adam Internet (1 Aug 2008).",
+      "notes": "Momentum (Betta Momentum absorbed by Adam Internet (1 Aug 2008.",
       "from": "momentum-internet",
       "to": "adam-internet",
       "refs": [
@@ -850,8 +875,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2007,
-      "date_disp": "c. 2007",
+      "year": 2008,
+      "date_disp": "by Jan 2008",
       "notes": "Operational by 2007; acquired by Up'N'Away before Up'N'Away was acquired by iiNet in Jan 2008.",
       "from": "iclick",
       "to": "upnaway",
@@ -866,8 +891,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2007,
-      "date_disp": "c. 2007",
+      "year": 2008,
+      "date_disp": "by Jan 2008",
       "notes": "Operational by 2007; acquired by Up'N'Away before Up'N'Away was acquired by iiNet in Jan 2008.",
       "from": "netway-internet",
       "to": "upnaway",
@@ -899,7 +924,7 @@
       "arm_label": "dark fibre assets",
       "year": 2011,
       "date_disp": "Apr 2011",
-      "notes": "Vocus acquired Digital River's dark-fibre assets + metro-Ethernet contracts for $3.95m (announced 8 Apr 2011).",
+      "notes": "Vocus acquired Digital River's dark-fibre assets + metro-Ethernet contracts for $3.95m (announced 8 Apr 2011.",
       "from": "digital-river-networks",
       "to": "vocus",
       "refs": [
@@ -1005,7 +1030,7 @@
       "arm_label": "enterprise/wholesale",
       "year": 2025,
       "date_disp": "Jul 2025",
-      "notes": "Vocus acquired TPG Telecom's Enterprise, Government & Wholesale (EG&W) fixed business incl. AAPT Wholesale for A$5.25bn.",
+      "notes": "Vocus acquired TPG Telecom's Enterprise, Government & Wholesale (EG&W fixed business incl. AAPT Wholesale for A$5.25bn.",
       "from": "tpg-telecom",
       "to": "vocus",
       "refs": [
@@ -1021,7 +1046,7 @@
       "arm_label": "100%",
       "year": 2010,
       "date_disp": "Mar 2010",
-      "notes": "TPG (SP Telemedia) acquired PIPE Networks for ~$373M (approved 17 Mar 2010); fibre to Vocus 2025.",
+      "notes": "TPG (SP Telemedia acquired PIPE Networks for ~$373M (approved 17 Mar 2010; fibre to Vocus 2025.",
       "from": "pipe-networks",
       "to": "tpg-internet",
       "refs": [
@@ -1037,7 +1062,7 @@
       "arm_label": "100%",
       "year": 2008,
       "date_disp": "2008",
-      "notes": "Regional Wireless parents (Wideband + Westvic) amalgamated into Aussie Broadband.",
+      "notes": "Regional Wireless parents (Wideband + Westvic amalgamated into Aussie Broadband.",
       "from": "regional-wireless",
       "to": "aussie-broadband",
       "refs": [
@@ -1101,7 +1126,7 @@
       "arm_label": "100%",
       "year": 2019,
       "date_disp": "Feb 2019",
-      "notes": "Uniti acquired Fuzenet (retail RSP, incl. Varsity Internet).",
+      "notes": "Uniti acquired Fuzenet (retail RSP, incl. Varsity Internet.",
       "from": "fuzenet",
       "to": "uniti-wireless",
       "refs": [
@@ -1132,7 +1157,7 @@
       "arm_label": "100%",
       "year": 2020,
       "date_disp": "Nov 2020",
-      "notes": "Uniti acquired Harbour ISP (~30,000 customers).",
+      "notes": "Uniti acquired Harbour ISP (~30,000 customers.",
       "from": "harbour-isp",
       "to": "uniti-wireless",
       "refs": [
@@ -1148,7 +1173,7 @@
       "arm_label": "satellite customers",
       "year": 2022,
       "date_disp": "Dec 2022",
-      "notes": "Uniti (via acquired Harbour ISP) sold satellite customers to SkyMesh.",
+      "notes": "Uniti (via acquired Harbour ISP sold satellite customers to SkyMesh.",
       "from": "uniti-wireless",
       "to": "skymesh",
       "refs": [
@@ -1164,7 +1189,7 @@
       "arm_label": "NBN customer base",
       "year": 2023,
       "date_disp": "May 2023",
-      "notes": "Uniti (via Harbour ISP + Fuzenet) NBN customer base sold to Aussie Broadband (announced 31 May 2023).",
+      "notes": "Uniti (via Harbour ISP + Fuzenet NBN customer base sold to Aussie Broadband (announced 31 May 2023.",
       "from": "uniti-wireless",
       "to": "aussie-broadband",
       "refs": [
@@ -1180,7 +1205,7 @@
       "arm_label": "retail consumer brand",
       "year": 2024,
       "date_disp": "2024",
-      "notes": "Uniti Wireless retail consumer brand sold to CM Value Added Services (CMvas), 2024.",
+      "notes": "Uniti Wireless retail consumer brand sold to CM Value Added Services (CMvas, 2024.",
       "from": "uniti-wireless",
       "to": "cmvas",
       "refs": [
@@ -1196,7 +1221,7 @@
       "arm_label": "fixed-wireless network assets",
       "year": 2024,
       "date_disp": "2024",
-      "notes": "Uniti Wireless fixed-wireless network assets (Melbourne + Adelaide) acquired by CMvas, 2024.",
+      "notes": "Uniti Wireless fixed-wireless network assets (Melbourne + Adelaide acquired by CMvas, 2024.",
       "from": "uniti-wireless",
       "to": "cmvas",
       "refs": [
@@ -1212,7 +1237,7 @@
       "arm_label": "100%",
       "year": 2024,
       "date_disp": "2024",
-      "notes": "yless4u absorbed into the CM Value Added Services (CMVAS) stable in 2024; the brand continues operating alongside Elevate Internet (brand/operations integration \u2014 YLESS4U Pty Ltd footer remains live).",
+      "notes": "yless4u absorbed into the CM Value Added Services (CMVAS stable in 2024; the brand continues operating alongside Elevate Internet (brand/operations integration \u2014 YLESS4U Pty Ltd footer remains live.",
       "from": "yless4u",
       "to": "cmvas",
       "refs": [
@@ -1233,7 +1258,7 @@
       "arm_label": "new retail brand",
       "year": 2025,
       "date_disp": "2025",
-      "notes": "Elevate Internet Pty Ltd is the Nov 2024 rename of Uniti Fixed Wireless Pty Ltd; the CMVAS-linked team acquired the ex-Uniti fixed-wireless network/customers and runs Elevate as its retail brand (publicly acknowledged May 2025).",
+      "notes": "Elevate Internet Pty Ltd is the Nov 2024 rename of Uniti Fixed Wireless Pty Ltd; the CMVAS-linked team acquired the ex-Uniti fixed-wireless network/customers and runs Elevate as its retail brand (publicly acknowledged May 2025.",
       "from": "cmvas",
       "to": "elevate-internet",
       "refs": [
@@ -1254,7 +1279,7 @@
       "arm_label": "100%",
       "year": 2023,
       "date_disp": "Dec 2023",
-      "notes": "Not an arm's-length acquisition: Connected Australia and On Q Communications became sister brands under Consolidated Telecom Holdings Pty Ltd (ex-DPGP Holdings, renamed Jul 2023, Teneriffe QLD). Pivit (also acquired by Consolidated Telecom) transitioned customers to either of the two brands.",
+      "notes": "Not an arm's-length acquisition: Connected Australia and On Q Communications became sister brands under Consolidated Telecom Holdings Pty Ltd (ex-DPGP Holdings, renamed Jul 2023, Teneriffe QLD. Pivit (also acquired by Consolidated Telecom transitioned customers to either of the two brands.",
       "from": "connected-australia",
       "to": "on-q-communications",
       "refs": [
@@ -1275,7 +1300,7 @@
       "arm_label": "100%",
       "year": 2025,
       "date_disp": "Dec 2025",
-      "notes": "On Q Communications (Consolidated Telecom group) acquired Pivit.",
+      "notes": "On Q Communications (Consolidated Telecom group acquired Pivit.",
       "from": "pivit",
       "to": "on-q-communications",
       "refs": [
@@ -1322,7 +1347,7 @@
       "arm_label": "100%",
       "year": 2020,
       "date_disp": "May 2020",
-      "notes": "Swoop acquired DCSI (with Anycast Networks).",
+      "notes": "Swoop acquired DCSI (with Anycast Networks.",
       "from": "dcsi",
       "to": "swoop",
       "refs": [
@@ -1338,7 +1363,7 @@
       "arm_label": "100%",
       "year": 2020,
       "date_disp": "May 2020",
-      "notes": "Swoop acquired Anycast Networks (Connectivity I.T./Anycast Holdings).",
+      "notes": "Swoop acquired Anycast Networks (Connectivity I.T./Anycast Holdings.",
       "from": "connectivity-it",
       "to": "swoop",
       "refs": [
@@ -1370,7 +1395,7 @@
       "arm_label": "NodeOne arm",
       "year": 2021,
       "date_disp": "2021",
-      "notes": "NodeOne merged into Swoop Holdings (Stemify reverse takeover).",
+      "notes": "NodeOne merged into Swoop Holdings (Stemify reverse takeover.",
       "from": "nodeone",
       "to": "swoop",
       "refs": [
@@ -1402,7 +1427,7 @@
       "arm_label": "100%",
       "year": 2021,
       "date_disp": "Jul 2021",
-      "notes": "Swoop acquired Speedweb for $1.75M (completed 1 Jul 2021).",
+      "notes": "Swoop acquired Speedweb for $1.75M (completed 1 Jul 2021.",
       "from": "speedweb",
       "to": "swoop",
       "refs": [
@@ -1433,8 +1458,8 @@
       "type": "rename",
       "arm_label": "renamed",
       "year": 2004,
-      "date_disp": "c. 2004",
-      "notes": "HoloHost changed name to Nella Networks (both under Beretvale Pty Ltd).",
+      "date_disp": "Apr 2004",
+      "notes": "HoloHost changed name to Nella Networks (both under Beretvale Pty Ltd.",
       "from": "holohost",
       "to": "nella-networks",
       "refs": [
@@ -1442,6 +1467,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20041212230532/http://holohost.net/",
           "label": "holohost.net (Wayback Dec 2004): serving Nella Telecommunications content, confirming the rename"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=64108689541",
+          "label": "ABR: the Nella Networks business name was registered on 23 Apr 2004."
         }
       ]
     },
@@ -1466,7 +1496,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Oct 2004",
-      "notes": "Nella Networks ISP clients merged into Bordernet; date approximate (Nella still independent Sep 2004, VOISE-branded by Jul 2005).",
+      "notes": "Nella Networks ISP clients merged into Bordernet; date approximate (Nella still independent Sep 2004, VOISE-branded by Jul 2005.",
       "from": "nella-networks",
       "to": "bordernet",
       "refs": [
@@ -1482,7 +1512,7 @@
       "arm_label": "100%",
       "year": 2017,
       "date_disp": "Mar 2017",
-      "notes": "Bordernet acquired by Bigblu Broadband (SkyMesh parent); folded into SkyMesh group.",
+      "notes": "Bordernet acquired by Bigblu Broadband (SkyMesh parent; folded into SkyMesh group.",
       "from": "bordernet",
       "to": "skymesh",
       "refs": [
@@ -1498,7 +1528,7 @@
       "arm_label": "100%",
       "year": 2022,
       "date_disp": "2022",
-      "notes": "SkyMesh acquired Clear Networks (from Uniti/Harbour ISP); brand continued as Clear Broadband.",
+      "notes": "SkyMesh acquired Clear Networks (from Uniti/Harbour ISP; brand continued as Clear Broadband.",
       "from": "clear-networks",
       "to": "skymesh",
       "refs": [
@@ -1514,7 +1544,7 @@
       "arm_label": "100%",
       "year": 2005,
       "date_disp": "Nov 2005",
-      "notes": "Clever Communications (then Access Providers) acquired Saise Telecom.",
+      "notes": "Clever Communications (then Access Providers acquired Saise Telecom.",
       "from": "saise-telecom",
       "to": "clever-communications",
       "refs": [
@@ -1530,7 +1560,7 @@
       "arm_label": "100%",
       "year": 2006,
       "date_disp": "Oct 2006",
-      "notes": "Clever Communications (then Access Providers) acquired Activ Australia.",
+      "notes": "Clever Communications (then Access Providers acquired Activ Australia.",
       "from": "activ-australia",
       "to": "clever-communications",
       "refs": [
@@ -1546,7 +1576,7 @@
       "arm_label": "100%",
       "year": 2011,
       "date_disp": "28 Feb 2011",
-      "notes": "BigAir acquired Clever Communications (28 Feb 2011).",
+      "notes": "BigAir acquired Clever Communications (28 Feb 2011.",
       "from": "clever-communications",
       "to": "bigair",
       "refs": [
@@ -1562,7 +1592,7 @@
       "arm_label": "100%",
       "year": 2011,
       "date_disp": "Jan 2011",
-      "notes": "BigAir acquired AccessPlus for $5m (announced 5 Jan 2011).",
+      "notes": "BigAir acquired AccessPlus for $5m (announced 5 Jan 2011.",
       "from": "accessplus",
       "to": "bigair",
       "refs": [
@@ -1578,7 +1608,7 @@
       "arm_label": "100%",
       "year": 2014,
       "date_disp": "Apr 2014",
-      "notes": "BigAir acquired all shares in Unistar Enterprises (Star-Tech Communications) for A$1.2m (completion 30 Apr 2014).",
+      "notes": "BigAir acquired all shares in Unistar Enterprises (Star-Tech Communications for A$1.2m (completion 30 Apr 2014.",
       "from": "unistar-enterprises",
       "to": "bigair",
       "refs": [
@@ -1594,7 +1624,7 @@
       "arm_label": "100%",
       "year": 2015,
       "date_disp": "Dec 2015",
-      "notes": "BigAir acquired Everywhere Internet (control from 4 Dec 2015; A$750k cash + earnout).",
+      "notes": "BigAir acquired Everywhere Internet (control from 4 Dec 2015; A$750k cash + earnout.",
       "from": "everywhere-internet",
       "to": "bigair",
       "refs": [
@@ -1610,7 +1640,7 @@
       "arm_label": "iBurst customers",
       "year": 2006,
       "date_disp": "Jun 2006",
-      "notes": "Pacific Internet (via its T3 subsidiary) sold ~800 iBurst customers to BigAir (June 2006).",
+      "notes": "Pacific Internet (via its T3 subsidiary sold ~800 iBurst customers to BigAir (June 2006.",
       "from": "pacific-internet",
       "to": "bigair",
       "refs": [
@@ -1626,7 +1656,7 @@
       "arm_label": "100%",
       "year": 2010,
       "date_disp": "May 2010",
-      "notes": "Amcom acquired IP Systems (announced 25 Feb 2010; settled 26 May 2010, up to ~$20.5m).",
+      "notes": "Amcom acquired IP Systems (announced 25 Feb 2010; settled 26 May 2010, up to ~$20.5m.",
       "from": "ip-systems",
       "to": "amcom",
       "refs": [
@@ -1727,7 +1757,7 @@
       "arm_label": "100%",
       "year": 2015,
       "date_disp": "19 Feb 2015",
-      "notes": "BigAir acquired IDL Internet (Integrated Data Labs).",
+      "notes": "BigAir acquired IDL Internet (Integrated Data Labs.",
       "from": "idl-internet",
       "to": "bigair",
       "refs": [
@@ -1743,7 +1773,7 @@
       "arm_label": "parent",
       "year": 2010,
       "date_disp": "Feb 2010",
-      "notes": "Anittel Communications was a subsidiary of the Anittel Group (ex-PKBA, renamed Anittel ~Sep 2009).",
+      "notes": "Anittel Communications was a subsidiary of the Anittel Group (ex-PKBA, renamed Anittel ~Sep 2009.",
       "from": "anittel-communications",
       "to": "anittel",
       "refs": [
@@ -1759,7 +1789,7 @@
       "arm_label": "100%",
       "year": 2010,
       "date_disp": "Feb 2010",
-      "notes": "Hostech bought Anittel, Accord Technologies, Axxis Technology and Aspirence (Feb 2010); group renamed Anittel Group Limited Dec 2010.",
+      "notes": "Hostech bought Anittel, Accord Technologies, Axxis Technology and Aspirence (Feb 2010; group renamed Anittel Group Limited Dec 2010.",
       "from": "anittel",
       "to": "hostech",
       "refs": [
@@ -1791,7 +1821,7 @@
       "arm_label": "brand",
       "year": 2010,
       "date_disp": "c. 2010",
-      "notes": "Crox brand folded into the Anittel web (AS7631).",
+      "notes": "Crox brand folded into the Anittel web (AS7631.",
       "from": "crox-developments",
       "to": "anittel",
       "refs": [
@@ -1807,7 +1837,7 @@
       "arm_label": "brand",
       "year": 2010,
       "date_disp": "c. 2010",
-      "notes": "Silver Telecom / Officelink Plus brands absorbed into the Anittel web (AS7631).",
+      "notes": "Silver Telecom / Officelink Plus brands absorbed into the Anittel web (AS7631.",
       "from": "silver-telecom",
       "to": "anittel",
       "refs": [
@@ -1822,7 +1852,7 @@
       "type": "acquisition",
       "arm_label": "brand",
       "year": 2010,
-      "date_disp": "c. 2010",
+      "date_disp": "Mar 2010",
       "notes": "Officelink Plus brand registered to Anittel Communications 2010-2016.",
       "from": "officelink-plus",
       "to": "anittel",
@@ -1831,6 +1861,11 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/hostech-buys-anittel-139004",
           "label": "iTnews: Hostech buys Anittel"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=37118033051",
+          "label": "ABR shows the Officelink Plus brand registered to Anittel Communications from 4 Mar 2010 to 1 Feb 2016, matching the brief's 2010-2016 window."
         }
       ]
     },
@@ -1839,7 +1874,7 @@
       "arm_label": "100%",
       "year": 2017,
       "date_disp": "2017",
-      "notes": "Spirit Telecom acquired World Without Wires (Wires Broadband).",
+      "notes": "Spirit Telecom acquired World Without Wires (Wires Broadband.",
       "from": "world-without-wires",
       "to": "spirit-telecom",
       "refs": [
@@ -1903,7 +1938,7 @@
       "arm_label": "100%",
       "year": 2019,
       "date_disp": "2019",
-      "notes": "Spirit Telecom acquired LinkOne (5th acquisition).",
+      "notes": "Spirit Telecom acquired LinkOne (5th acquisition.",
       "from": "linkone",
       "to": "spirit-telecom",
       "refs": [
@@ -1945,7 +1980,7 @@
       "arm_label": "100%",
       "year": 2011,
       "date_disp": "Jul 2011",
-      "notes": "TPG Telecom acquired IntraPower (~A$12.8m).",
+      "notes": "TPG Telecom acquired IntraPower (~A$12.8m.",
       "from": "intrapower",
       "to": "tpg-internet",
       "refs": [
@@ -1961,7 +1996,7 @@
       "arm_label": "fixed-wireless infrastructure",
       "year": 2022,
       "date_disp": "2022",
-      "notes": "Spirit Telecom (ASX:ST1) divested fixed-wireless/network/data-centre assets to Maret Group during 2022 (fixed wireless $21m completed 1 Jun 2022; remainder completed 1 Dec 2022); XYZ Telecom Pty Ltd is the divestment vehicle.",
+      "notes": "Spirit Telecom (ASX:ST1 divested fixed-wireless/network/data-centre assets to Maret Group during 2022 (fixed wireless $21m completed 1 Jun 2022; remainder completed 1 Dec 2022; XYZ Telecom Pty Ltd is the divestment vehicle.",
       "from": "spirit-telecom",
       "to": "maret-group",
       "refs": [
@@ -1982,7 +2017,7 @@
       "arm_label": "DC/core infrastructure",
       "year": 2022,
       "date_disp": "2022",
-      "notes": "Maret acquired Spirit's data-centre/network assets (Dec 2022), which sit under XYZ Telecom. (Refs shared with the fixed-wireless arm - same 2022 Spirit->Maret divestment.)",
+      "notes": "Maret acquired Spirit's data-centre/network assets (Dec 2022, which sit under XYZ Telecom. (Refs shared with the fixed-wireless arm - same 2022 Spirit->Maret divestment.",
       "from": "spirit-telecom",
       "to": "maret-group",
       "refs": [
@@ -2051,7 +2086,7 @@
       "arm_label": "100%",
       "year": 2015,
       "date_disp": "Dec 2015",
-      "notes": "Gave Superloop specialised dark-fibre infrastructure for media (agreement Nov 2015, completed Dec 2015).",
+      "notes": "Gave Superloop specialised dark-fibre infrastructure for media (agreement Nov 2015, completed Dec 2015.",
       "from": "cinenet-systems",
       "to": "superloop",
       "refs": [
@@ -2067,7 +2102,7 @@
       "arm_label": "fixed-line NBN base",
       "year": 2018,
       "date_disp": "Jun 2018",
-      "notes": "Superloop acquired SkyMesh's fixed-line NBN customer base (~A$1.5m).",
+      "notes": "Superloop acquired SkyMesh's fixed-line NBN customer base (~A$1.5m.",
       "from": "skymesh",
       "to": "superloop",
       "refs": [
@@ -2147,7 +2182,7 @@
       "arm_label": "customer base",
       "year": 2007,
       "date_disp": "Mar 2007",
-      "notes": "GoTalk bought Wild IT's customer base for $240k (28 Mar 2007).",
+      "notes": "GoTalk bought Wild IT's customer base for $240k (28 Mar 2007.",
       "from": "wild-it",
       "to": "gotalk",
       "refs": [
@@ -2162,8 +2197,8 @@
       "type": "acquisition",
       "arm_label": "post-paid customers",
       "year": 2010,
-      "date_disp": "late 2010",
-      "notes": "GoTalk transferred its post-paid services/customers to ClubTelco (~Oct-Nov 2010).",
+      "date_disp": "Sep 2010",
+      "notes": "GoTalk transferred its post-paid services/customers to ClubTelco (~Oct-Nov 2010.",
       "from": "gotalk",
       "to": "clubtelco",
       "refs": [
@@ -2171,6 +2206,11 @@
           "kind": "news",
           "url": "https://www.businessnewsaustralia.com/articles/gotalk-sells-off-consumer-division.html",
           "label": "Business News Australia \u2013 GOTALK SELLS OFF CONSUMER DIVISION (7 Sep 2010)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=52144488620",
+          "label": "ABR proves Bean Communications Pty Ltd is the entity that became CLUBTELCO PTY LTD (renamed 24 Aug 2010)."
         }
       ]
     },
@@ -2179,7 +2219,7 @@
       "arm_label": "reverse takeover",
       "year": 2011,
       "date_disp": "2011",
-      "notes": "ClubTelco completed a reverse takeover of ASX-listed EFTel (ClubTelco interests 75.6% of merged entity).",
+      "notes": "ClubTelco completed a reverse takeover of ASX-listed EFTel (ClubTelco interests 75.6% of merged entity.",
       "from": "clubtelco",
       "to": "eftel",
       "refs": [
@@ -2210,8 +2250,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "notes": "Fleet Broadband acquired Paradox Digital (wholesale bandwidth provider).",
+      "date_disp": "20 Apr 2001",
+      "notes": "Fleet Broadband acquired Paradox Digital (wholesale bandwidth provider.",
       "from": "paradox-digital",
       "to": "fleet-broadband",
       "refs": [
@@ -2227,7 +2267,7 @@
       "arm_label": "WA ADSL customer base",
       "year": 2002,
       "date_disp": "Aug 2002",
-      "notes": "Fleet Broadband acquired XiS's Western Australian ADSL customer base (confirmed by Fleet National Sales Manager John Lane, 1 Aug 2002); WA XiS ADSL customers moved to Fleet. A full takeover of XiS was considered but did not proceed.",
+      "notes": "Fleet Broadband acquired XiS's Western Australian ADSL customer base (confirmed by Fleet National Sales Manager John Lane, 1 Aug 2002; WA XiS ADSL customers moved to Fleet. A full takeover of XiS was considered but did not proceed.",
       "from": "xis",
       "to": "fleet-broadband",
       "refs": [
@@ -2261,6 +2301,11 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "official",
+          "url": "https://truinvestigations.com.au/fleet-broadband-holdings-pty-ltd-anor-v-paradox-digital-pty-ltd-subject-to-a-deed-of-company-arrangement-ors-2005-wasc-261/",
+          "label": "WASC: Eftel (later Datafast-owned) managed Paradox via Fleet; Datafast acquired Eftel in Dec 2002."
         }
       ]
     },
@@ -2316,7 +2361,7 @@
       "type": "acquisition",
       "arm_label": "brand folded in",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "by Dec 2001",
       "notes": "Omon's ISP business folded into Indigo Networks; omon.net.au served Indigo content by Dec 2001.",
       "from": "omon",
       "to": "indigo-networks",
@@ -2347,8 +2392,8 @@
     {
       "type": "acquisition",
       "year": 2010,
-      "date_disp": "c. 2010",
-      "notes": "NetSpeed acquired Velocity Internet (announced Nov 2010, after two months of negotiations), adding ~5,000 broadband subscribers (~1/10th of NetSpeed's base). Both brands initially continued under Velocity Internet Holdings Pty Ltd. [Earlier record framed this as a merger into holdings; iTnews reporting confirms acquisition by NetSpeed.]",
+      "date_disp": "Nov 2010",
+      "notes": "NetSpeed acquired Velocity Internet (announced Nov 2010, after two months of negotiations, adding ~5,000 broadband subscribers (~1/10th of NetSpeed's base. Both brands initially continued under Velocity Internet Holdings Pty Ltd. [Earlier record framed this as a merger into holdings; iTnews reporting confirms acquisition by NetSpeed.].",
       "from": "netspeed",
       "to": "velocity-holdings",
       "refs": [
@@ -2356,6 +2401,11 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/netspeed-buys-canberra-isp-velocity-236940",
           "label": "iTnews: Netspeed buys Canberra ISP Velocity (Nov 2010)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/velocity-internet-holdings-pty-ltd-146772330/",
+          "label": "The holding company was registered 11 Oct 2010, just before the announced acquisition."
         }
       ]
     },
@@ -2363,8 +2413,8 @@
       "type": "merger",
       "arm_label": "Velocity arm",
       "year": 2010,
-      "date_disp": "c. 2010",
-      "notes": "NetSpeed acquired Velocity Internet (announced 1 Nov 2010); combined holding Velocity Internet Holdings Pty Ltd (ACN 146 772 330, registered 11 Oct 2010); both brands traded separately afterwards.",
+      "date_disp": "Nov 2010",
+      "notes": "NetSpeed acquired Velocity Internet (announced 1 Nov 2010; combined holding Velocity Internet Holdings Pty Ltd (ACN 146 772 330, registered 11 Oct 2010; both brands traded separately afterwards.",
       "from": "velocity-internet",
       "to": "velocity-holdings",
       "refs": [
@@ -2384,8 +2434,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2005,
-      "date_disp": "c. 2005",
-      "notes": "Arachnet acquired by Amcom Telecommunications.",
+      "date_disp": "6 Sep 2005",
+      "notes": "Arachnet acquired by Amcom Telecommunications. settlement 16 Sep 2005. announced.",
       "from": "arachnet",
       "to": "amcom",
       "refs": [
@@ -2393,14 +2443,24 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/amcom-to-buy-ip-systems-9910",
           "label": "iTnews: Amcom acquisitions"
+        },
+        {
+          "kind": "asx",
+          "url": "https://whirlpool.net.au/news/?id=1537",
+          "label": "Whirlpool news item dated 6 Sep 2005, linking the Amcom ASX release of the same date."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/article/Amcom-Telecommunications-Ltd-5",
+          "label": "Business News company timeline gives settlement date."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2009,
-      "date_disp": "c. 2009",
+      "year": 2008,
+      "date_disp": "8 Sep 2008",
       "notes": "Concept Networks taken over by Eftel; LetsGo services migrated to Eftel.",
       "from": "concept-networks",
       "to": "eftel",
@@ -2409,6 +2469,21 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "news",
+          "url": "https://itwire.com/it-industry-news/listed-tech/eftel-engulfs-concept.html",
+          "label": "iTWire article dated 8 Sep 2008."
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/?id=1811",
+          "label": "Whirlpool, 29 Sep 2008, corroborates Sept 2008."
+        },
+        {
+          "kind": "asx",
+          "url": "https://www.asx.com.au/asxpdf/20080908/pdf/31c5vfhrqdcp0n.pdf",
+          "label": "EFTel ASX announcement, 8 Sep 2008."
         }
       ]
     },
@@ -2427,7 +2502,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "early 2004",
-      "notes": "Firestar Internet absorbed into Concept Networks (LetsGo); firestar.com.au later redirected to letsgo.com.au (Aug 2006); Firestar was previously a wholesale dialup customer of WiredCity.",
+      "notes": "Firestar Internet absorbed into Concept Networks (LetsGo; firestar.com.au later redirected to letsgo.com.au (Aug 2006; Firestar was previously a wholesale dialup customer of WiredCity.",
       "from": "firestar",
       "to": "concept-networks",
       "refs": [
@@ -2442,8 +2517,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 1996,
-      "date_disp": "by Nov 1996",
-      "notes": "Interworld acquired by Wantree Development; earliest Wayback capture of interworld.com.au (Nov 1996) already presents it as Wantree's Perth/Adelaide operation.",
+      "date_disp": "by 7 Nov 1996",
+      "notes": "Interworld acquired by Wantree Development; earliest Wayback capture of interworld.com.au (Nov 1996 already presents it as Wantree's Perth/Adelaide operation.",
       "from": "interworld",
       "to": "wantree",
       "refs": [
@@ -2457,8 +2532,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2003,
+      "date_disp": "13 Mar 2003",
       "notes": "Mr Bean's Internet was a Chariot netconnect reseller; under Chariot by ~2004.",
       "from": "mr-beans-internet",
       "to": "chariot",
@@ -2467,6 +2542,16 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.theage.com.au/national/chariot-gallops-off-with-four-isp-acquisitions-20030313-gdvda1.html",
+          "label": "The Age, 13 Mar 2003, reporting Chariot's acquisition agreements."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-acquires-two-isps-20030808-gdh8cw.html",
+          "label": "SMH, 8 Aug 2003, corroborates."
         }
       ]
     },
@@ -2475,7 +2560,7 @@
       "arm_label": "100%",
       "year": 2010,
       "date_disp": "2010",
-      "notes": "EON Technology acquired by Highway 1 (ZettaServe Group).",
+      "notes": "EON Technology acquired by Highway 1 (ZettaServe Group.",
       "from": "eon-technology",
       "to": "highway-1",
       "refs": [
@@ -2507,7 +2592,7 @@
       "arm_label": "100%",
       "year": 1997,
       "date_disp": "1997",
-      "notes": "IAP taken over by Highway 1 (user report; Wayback takeover notice Oct 1999).",
+      "notes": "IAP taken over by Highway 1 (user report; Wayback takeover notice Oct 1999.",
       "from": "iap-direct",
       "to": "highway-1",
       "refs": [
@@ -2523,7 +2608,7 @@
       "arm_label": "100%",
       "year": 2010,
       "date_disp": "01 Jun 2010",
-      "notes": "Global Dial Pty Ltd (incl. 'Global Dial Internet' trading name) acquired by ZettaNet Pty Ltd (trading as Highway 1) 01 Jun 2010; merged into Highway 1/ZettaNet, later Zettagrid. Merged from duplicate global-dial-internet entry.",
+      "notes": "Global Dial Pty Ltd (incl. 'Global Dial Internet' trading name acquired by ZettaNet Pty Ltd (trading as Highway 1 01 Jun 2010; merged into Highway 1/ZettaNet, later Zettagrid. Merged from duplicate global-dial-internet entry.",
       "from": "global-dial",
       "to": "highway-1",
       "refs": [
@@ -2540,7 +2625,7 @@
       "arm_label": "100%",
       "year": 2009,
       "date_disp": "2009",
-      "notes": "Simtex (Up'N'Away VoIP) acquired by Highway 1 (user report).",
+      "notes": "Simtex (Up'N'Away VoIP acquired by Highway 1 (user report.",
       "from": "simtex",
       "to": "highway-1",
       "refs": [
@@ -2555,8 +2640,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2007,
-      "date_disp": "c. 2007",
-      "notes": "NetServ absorbed by Silogen; netserv.net.au 302-redirected to silogen.com.au from 29 Aug 2007.",
+      "date_disp": "from 29 Aug 2007",
+      "notes": "NetServ absorbed by Silogen; netserv.net.au 302-redirected to silogen.com.au from 29 Aug 2007. 302 to silogen.com.au.",
       "from": "netserv-communications",
       "to": "silogen",
       "refs": [
@@ -2564,6 +2649,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20080718194550/http://www.netserv.net.au/",
           "label": "netserv.net.au (Wayback Jul 2008): 'This website has moved, you will be redirected to www.silogen.com.au'"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=netserv.net.au&from=2006&to=2009",
+          "label": "CDX shows site was still 200 on 1 Apr 2007 but returning 302 by 29 Aug 2007."
         }
       ]
     },
@@ -2636,7 +2726,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "2012",
-      "notes": "Unwired went Seven (2008) then Optus (2012); network shut Feb 2013.",
+      "notes": "Unwired went Seven (2008 then Optus (2012; network shut Feb 2013.",
       "from": "unwired",
       "to": "optus",
       "refs": [
@@ -2684,7 +2774,7 @@
       "arm_label": "SA internet business",
       "year": 1998,
       "date_disp": "Mar 1998",
-      "notes": "OzEmail acquired Camtech's SA internet service business (31 March 1998).",
+      "notes": "OzEmail acquired Camtech's SA internet service business (31 March 1998.",
       "from": "camtech",
       "to": "ozemail",
       "refs": [
@@ -2699,8 +2789,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 1997,
-      "date_disp": "c. 1997",
-      "notes": "Access One acquired by OzEmail; business later rebranded UUNet.",
+      "date_disp": "10 Nov 1997",
+      "notes": "Access One acquired by OzEmail; business later rebranded UUNet. due to close 24 Nov 1997. announced.",
       "from": "access-one",
       "to": "ozemail",
       "refs": [
@@ -2708,6 +2798,16 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/OzEmail",
           "label": "Wikipedia: OzEmail"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.techmonitor.ai/technology/ozemail_pays_137m_to_buy_competitor_access_one_1",
+          "label": "Tech Monitor (CBR) article dated 10 Nov 1997."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.techmonitor.ai/technology/ozemail_listing_to_comply_with_terms_of_acquisition",
+          "label": "Corroborates the Nov 1997 acquisition."
         }
       ]
     },
@@ -2715,8 +2815,8 @@
       "type": "rename",
       "arm_label": "100%",
       "year": 2002,
-      "date_disp": "c. 2002",
-      "notes": "Southern Internet (southcom.com.au) rebranded into the KeyPoint (Geelong) group, announced late 2002 (promises same plans/passwords) \u2014 part of the same Geelong rebrand as WebAXS.",
+      "date_disp": "late 2002 / Jan-Feb 2003",
+      "notes": "Southern Internet (southcom.com.au rebranded into the KeyPoint (Geelong group, announced late 2002 (promises same plans/passwords \u2014 part of the same Geelong rebrand as WebAXS.",
       "from": "southern-internet",
       "to": "keypoint",
       "refs": [
@@ -2732,7 +2832,7 @@
       "arm_label": "100%",
       "year": 2003,
       "date_disp": "late 2003",
-      "notes": "Datafast acquired KeyPoint (with EZ Web and Impaq); Datafast renamed EFTel 2005.",
+      "notes": "Datafast acquired KeyPoint (with EZ Web and Impaq; Datafast renamed EFTel 2005. renamed Eftel 2005. via Datafast.",
       "from": "keypoint",
       "to": "eftel",
       "refs": [
@@ -2747,8 +2847,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2002,
-      "date_disp": "c. 2001-02",
-      "notes": "Vision Internet Services (Launceston) acquired by EFTel.",
+      "date_disp": "by 23 May 2002",
+      "notes": "Vision Internet Services (Launceston acquired by EFTel.",
       "from": "vision-internet",
       "to": "eftel",
       "refs": [
@@ -2756,15 +2856,25 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020523014054/http://w3.vision.net.au/",
+          "label": "Vision site captured 23 May 2002 uses Eftel accounts/paths, showing Eftel ownership."
+        },
+        {
+          "kind": "web",
+          "url": "https://sur.ly/i/vision.net.au/",
+          "label": "vision.net.au remains an Eftel/Dodo domain."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "notes": "SouthWest Internet Systems (Mandurah) absorbed by EFTel.",
+      "year": 2003,
+      "date_disp": "by 2 Feb 2003",
+      "notes": "SouthWest Internet Systems (Mandurah absorbed by EFTel.",
       "from": "swis",
       "to": "eftel",
       "refs": [
@@ -2772,6 +2882,11 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030202071352/http://www.swis.net.au/",
+          "label": "SWIS (Southwest Internet Systems, Mandurah) site captured 2 Feb 2003 names EFTel as parent."
         }
       ]
     },
@@ -2780,7 +2895,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "May 2000",
-      "notes": "Tower.Net (STAR Online Services) acquired/merged into EFTel.",
+      "notes": "Tower.Net (STAR Online Services acquired/merged into EFTel.",
       "from": "tower-net",
       "to": "eftel",
       "refs": [
@@ -2796,7 +2911,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "May 2000",
-      "notes": "Internet Express (Perth) acquired/merged into EFTel.",
+      "notes": "Internet Express (Perth acquired/merged into EFTel.",
       "from": "internet-express",
       "to": "eftel",
       "refs": [
@@ -2812,7 +2927,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "May 2000",
-      "notes": "space.net (Perth) acquired/merged into EFTel.",
+      "notes": "space.net (Perth acquired/merged into EFTel.",
       "from": "space-net",
       "to": "eftel",
       "refs": [
@@ -2844,7 +2959,7 @@
       "arm_label": "100%",
       "year": 1998,
       "date_disp": "1998",
-      "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
+      "notes": "Acquired by IDEAL Internet (per owner Darren Worley.",
       "from": "auscape-internet",
       "to": "ideal-internet",
       "refs": [
@@ -2860,7 +2975,7 @@
       "arm_label": "100%",
       "year": 1998,
       "date_disp": "1998",
-      "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
+      "notes": "Acquired by IDEAL Internet (per owner Darren Worley.",
       "from": "internet-mania",
       "to": "ideal-internet",
       "refs": [
@@ -2876,7 +2991,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "end 1999",
-      "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
+      "notes": "Acquired by IDEAL Internet (per owner Darren Worley.",
       "from": "internet-one",
       "to": "ideal-internet",
       "refs": [
@@ -2892,7 +3007,7 @@
       "arm_label": "operating assets",
       "year": 2000,
       "date_disp": "c. 2000",
-      "notes": "IDEAL acquired Viper's operating assets (customers, equipment, staff) ~2000 (per owner Darren Worley). The unacquired Viper shell later became part of Independent Service Providers (isp.net.au).",
+      "notes": "IDEAL acquired Viper's operating assets (customers, equipment, staff ~2000 (per owner Darren Worley. The unacquired Viper shell later became part of Independent Service Providers (isp.net.au.",
       "from": "viper-internet",
       "to": "ideal-internet",
       "refs": [
@@ -2907,7 +3022,7 @@
       "type": "split",
       "arm_label": "web hosting arm",
       "year": 1997,
-      "date_disp": "c. 1997",
+      "date_disp": "c.1996-97",
       "notes": "PowerUp split; WebCentral formed as Australia's first web-hosting business.",
       "from": "powerup",
       "to": "webcentral",
@@ -2916,6 +3031,16 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/ftr-acquires-rest-of-webcentral-update-15863",
           "label": "iTnews: FTR acquires rest of WebCentral: UPDATE \u2013 states 'WebCentral began in 1997 as part of PowerUp' (mentions both parties and split origin)"
+        },
+        {
+          "kind": "encyclopedia",
+          "url": "https://en.wikipedia.org/wiki/Webcentral",
+          "label": "WebCentral/WebCentral Group arose from PowerUp's web-hosting arm; listed on ASX Dec 1999."
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/396735",
+          "label": "Whirlpool account of the PowerUp web-hosting split."
         }
       ]
     },
@@ -2924,7 +3049,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "c. 1999",
-      "notes": "PowerUp sold to OzEmail (per founder Lloyd Ernst).",
+      "notes": "PowerUp sold to OzEmail (per founder Lloyd Ernst.",
       "from": "powerup",
       "to": "ozemail",
       "refs": [
@@ -2940,7 +3065,7 @@
       "arm_label": "100%",
       "year": 2006,
       "date_disp": "Sep 2006",
-      "notes": "WebCentral Group acquired by Melbourne IT (delisted 25 Sep 2006).",
+      "notes": "WebCentral Group acquired by Melbourne IT (delisted 25 Sep 2006.",
       "from": "webcentral",
       "to": "melbourne-it",
       "refs": [
@@ -2956,7 +3081,7 @@
       "arm_label": "A2U arm",
       "year": 2001,
       "date_disp": "Jul 2001",
-      "notes": "A2U (ATU) merged with Viper to create Independent Service Providers (isp.net.au).",
+      "notes": "A2U (ATU merged with Viper to create Independent Service Providers (isp.net.au.",
       "from": "a2u",
       "to": "independent-service-providers",
       "refs": [
@@ -2977,7 +3102,7 @@
       "arm_label": "Viper shell arm",
       "year": 2001,
       "date_disp": "Jul 2001",
-      "notes": "Viper merged with A2U (ATU) to create ISP (isp.net.au) in Jul 2001 ('joined forces', per ISP's own About page).",
+      "notes": "Viper merged with A2U (ATU to create ISP (isp.net.au in Jul 2001 ('joined forces', per ISP's own About page.",
       "from": "viper-internet",
       "to": "independent-service-providers",
       "refs": [
@@ -2993,7 +3118,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "1999",
-      "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
+      "notes": "Acquired by IDEAL Internet (per owner Darren Worley.",
       "from": "backchannel-net",
       "to": "ideal-internet",
       "refs": [
@@ -3009,7 +3134,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "2000",
-      "notes": "Acquired by IDEAL Internet (per owner Darren Worley).",
+      "notes": "Acquired by IDEAL Internet (per owner Darren Worley.",
       "from": "ipbox",
       "to": "ideal-internet",
       "refs": [
@@ -3025,7 +3150,7 @@
       "arm_label": "Campbelltown customers",
       "year": 2002,
       "date_disp": "c. 2002",
-      "notes": "Healey Communications closed ~2001-02; Campbelltown customers transferred to IDEAL Internet (per archive ISP-transfer page).",
+      "notes": "Healey Communications closed ~2001-02; Campbelltown customers transferred to IDEAL Internet (per archive ISP-transfer page.",
       "from": "healey-communications",
       "to": "ideal-internet",
       "refs": [
@@ -3040,8 +3165,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "notes": "RP Internet ceased trading 20 Aug 2001; ISP (isp.net.au) acquired all its customers.",
+      "date_disp": "20 Aug 2001",
+      "notes": "RP Internet ceased trading 20 Aug 2001; ISP (isp.net.au acquired all its customers.",
       "from": "rpi-internet",
       "to": "independent-service-providers",
       "refs": [
@@ -3056,8 +3181,8 @@
       "type": "merger",
       "arm_label": "Fastrac arm",
       "year": 2001,
-      "date_disp": "c. 2000-01",
-      "notes": "Fastrac Internet Services merged with Shoalnet under Tourist Facilities Pty Ltd (Shoalnet-Fastrac).",
+      "date_disp": "by 15 May 2001",
+      "notes": "Fastrac Internet Services merged with Shoalnet under Tourist Facilities Pty Ltd (Shoalnet-Fastrac. likely 2000-01.",
       "from": "fastrac",
       "to": "shoalnet",
       "refs": [
@@ -3065,6 +3190,11 @@
           "kind": "news",
           "url": "https://shoal.net.au/",
           "label": "Shoalnet homepage \u2013 Shoalnet Fastrac Internet Services (also www.fastrac.net.au mirrors same branding)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010515060328/http://www.shoal.net.au/",
+          "label": "Merged 'Shoalnet-Fastrac' trading name already present in the 15 May 2001 capture."
         }
       ]
     },
@@ -3072,8 +3202,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2002,
-      "date_disp": "c. 2002",
-      "notes": "AXS customers handed to Hotkey Internet Services (Kew).",
+      "date_disp": "by 2003",
+      "notes": "AXS customers handed to Hotkey Internet Services (Kew. c. 2002.",
       "from": "axs-internet-services",
       "to": "hotkey",
       "refs": [
@@ -3081,6 +3211,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
           "label": "Hotkey Internet Services (Wayback)"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20031227034719/http://axs.com.au/",
+          "label": "AXS's own 2002-01 capture is unbranded AXS Systems; by 2003-12-27 the site is a Hotkey (kew.hotkey.net.au) page handing customers over. Copyright 2002 and a 'we"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/primus-subsidiary-acquires-three-isps-20021202-gdfwiu.html",
+          "label": "Shows Hotkey was actively acquiring in late 2002, but AXS is NOT among the three named in this deal, so AXS was a separate Hotkey pickup."
         }
       ]
     },
@@ -3089,7 +3229,7 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "2001",
-      "notes": "Mikka International acquired Cosmos, continuing under the Cosmos name (Mikka t/as Cosmos on cosmos.net.au by Mar 2002; no Mikka branding in May 2001).",
+      "notes": "Mikka International acquired Cosmos, continuing under the Cosmos name (Mikka t/as Cosmos on cosmos.net.au by Mar 2002; no Mikka branding in May 2001.",
       "from": "cosmos-internet-services",
       "to": "mikka-international",
       "refs": [
@@ -3131,7 +3271,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "Jun 2012",
-      "notes": "Apex Telecom sold to NetSpeed Communications (June 2012); ultimate holding Velocity Internet.",
+      "notes": "Apex Telecom sold to NetSpeed Communications (June 2012; ultimate holding Velocity Internet.",
       "from": "apex-telecom",
       "to": "netspeed",
       "refs": [
@@ -3147,7 +3287,7 @@
       "arm_label": "renamed",
       "year": 2011,
       "date_disp": "Nov 2011",
-      "notes": "APEX Internet renamed Apex Telecom (~Nov 2011).",
+      "notes": "APEX Internet renamed Apex Telecom (~Nov 2011.",
       "from": "apex-internet",
       "to": "apex-telecom",
       "refs": [
@@ -3163,7 +3303,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "Jun 2012",
-      "notes": "CyberOne's ISP customers absorbed by Apex Telecom (26 Jun 2012).",
+      "notes": "CyberOne's ISP customers absorbed by Apex Telecom (26 Jun 2012.",
       "from": "cyberone",
       "to": "apex-telecom",
       "refs": [
@@ -3179,7 +3319,7 @@
       "arm_label": "100%",
       "year": 2005,
       "date_disp": "Nov 2005",
-      "notes": "CBIT Internet took over Bandwidth Unlimited (bU) operations (3 Nov 2005).",
+      "notes": "CBIT Internet took over Bandwidth Unlimited (bU operations (3 Nov 2005.",
       "from": "bandwidth-unlimited",
       "to": "cbit-internet",
       "refs": [
@@ -3195,7 +3335,7 @@
       "arm_label": "100%",
       "year": 2009,
       "date_disp": "Feb 2009",
-      "notes": "Spitfire Internet merged into CBIT Internet (2 Feb 2009).",
+      "notes": "Spitfire Internet merged into CBIT Internet (2 Feb 2009.",
       "from": "spitfire-internet",
       "to": "cbit-internet",
       "refs": [
@@ -3209,9 +3349,9 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2010,
-      "date_disp": "c. 2010",
-      "notes": "Goldweb acquired by Velocity Internet (per Whirlpool).",
+      "year": 2006,
+      "date_disp": "10 April 2006",
+      "notes": "Goldweb acquired by Velocity Internet (per Whirlpool.",
       "from": "goldweb-internet",
       "to": "velocity-internet",
       "refs": [
@@ -3219,6 +3359,11 @@
           "kind": "news",
           "url": "https://forums.whirlpool.net.au/archive/2073114",
           "label": "Whirlpool \u2013 RIP the Australian midsize ISP 2001-2013"
+        },
+        {
+          "kind": "news-primary-media-release",
+          "url": "https://forums.whirlpool.net.au/archive/503980",
+          "label": "Full media release reproduced by Velocity MD on Whirlpool, with a firm date and handover date."
         }
       ]
     },
@@ -3227,7 +3372,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "by 2012",
-      "notes": "ACAY's web brand absorbed into VentraIP; acay.com.au parked with VentraIP by Dec 2013 (capture gap 2010-Nov 2013, so 2012 is approximate).",
+      "notes": "ACAY's web brand absorbed into VentraIP; acay.com.au parked with VentraIP by Dec 2013 (capture gap 2010-Nov 2013, so 2012 is approximate.",
       "from": "acay",
       "to": "ventraip",
       "refs": [
@@ -3242,7 +3387,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2004,
-      "date_disp": "by 2004",
+      "date_disp": "by Aug 2004",
       "notes": "CorpLink redirected to Lexicon Internet.",
       "from": "corplink",
       "to": "lexicon-internet-services",
@@ -3251,15 +3396,20 @@
           "kind": "news",
           "url": "https://www.internetnews.com/it-management/phoneware-continues-isp-spree/",
           "label": "InternetNews 2 Jan 2001 \u2013 Phoneware Continues ISP Spree"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20040830162705/http://corplink.com.au/",
+          "label": "Earliest indexed 3xx for corplink.com.au (2004-08-30) sends it to lexicon.net."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2006,
-      "date_disp": "by 2006",
-      "notes": "Lexicon Internet (and CorpLink) absorbed into EFTel.",
+      "year": 2005,
+      "date_disp": "by Feb 2005",
+      "notes": "Lexicon Internet (and CorpLink absorbed into EFTel.",
       "from": "lexicon-internet-services",
       "to": "eftel",
       "refs": [
@@ -3267,14 +3417,24 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20050211111106/http://lexicon.com.au/",
+          "label": "Earliest indexed 3xx for lexicon.com.au (2005-02-11) goes to Eftel."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20060819144557/http://lexicon.com.au/",
+          "label": "By 2006 the domain had been repointed to dynamic.net.au, showing the Eftel period was earlier."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2006,
-      "date_disp": "by 2006",
+      "year": 2003,
+      "date_disp": "late 2003",
       "notes": "EZWeb absorbed into EFTel.",
       "from": "ezweb",
       "to": "eftel",
@@ -3283,6 +3443,11 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20040124012026/http://www.ezweb.com.au/",
+          "label": "Consistent with a Datafast/Eftel-controlled deployment by Jan 2004."
         }
       ]
     },
@@ -3291,7 +3456,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "Sep 2000",
-      "notes": "Eagles Internet acquired by Netspace (customer conversion Sep 2000).",
+      "notes": "Eagles Internet acquired by Netspace (customer conversion Sep 2000.",
       "from": "eagles-internet",
       "to": "netspace",
       "refs": [
@@ -3307,7 +3472,7 @@
       "arm_label": "100%",
       "year": 1998,
       "date_disp": "by Dec 1998",
-      "notes": "Foxnet was operating as/redirecting to Satlink by Dec 1998 (not 2003); founder John Barton sold the business to a public company in 2005.",
+      "notes": "Foxnet was operating as/redirecting to Satlink by Dec 1998 (not 2003; founder John Barton sold the business to a public company in 2005.",
       "from": "foxnet-australia",
       "to": "satlink",
       "refs": [
@@ -3327,7 +3492,7 @@
       "type": "rename",
       "arm_label": "100%",
       "year": 2004,
-      "date_disp": "by 2004",
+      "date_disp": "21 March 2004",
       "notes": "Free Net became paid ISP PremiumNet; free.net.au 302-redirected to premiumnet.com.au from 21 Mar 2004.",
       "from": "free-net",
       "to": "premiumnet",
@@ -3358,8 +3523,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2012,
-      "date_disp": "c. 2012",
+      "year": 2013,
+      "date_disp": "by Apr 2013",
       "notes": "DoveNetQ rebranded to ISPX; last DoveNetQ-branded capture Mar 2012, redirect to home.ispx.com.au observed from Apr 2013.",
       "from": "dovenetq",
       "to": "ispx",
@@ -3375,8 +3540,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2018,
-      "date_disp": "by 2018",
-      "notes": "ISPX absorbed into Planet Ozi: ispx.com.au 301-redirected to home.planetozi.com.au from Sep 2017. (Planet Ozi itself entered liquidation Feb 2019.)",
+      "date_disp": "by Feb 2018",
+      "notes": "ISPX absorbed into Planet Ozi: ispx.com.au 301-redirected to home.planetozi.com.au from Sep 2017. (Planet Ozi itself entered liquidation Feb 2019.",
       "from": "ispx",
       "to": "planet-ozi",
       "refs": [
@@ -3397,7 +3562,7 @@
       "arm_label": "customer base",
       "year": 2019,
       "date_disp": "Mar 2019",
-      "notes": "Planet Ozi Pty Ltd entered creditors' voluntary liquidation 7 Feb 2019 (ASIC); the business/customers were sold to EscapeNet (Adelaide) ~Mar 2019; the residual site wound down by ~2021.",
+      "notes": "Planet Ozi Pty Ltd entered creditors' voluntary liquidation 7 Feb 2019 (ASIC; the business/customers were sold to EscapeNet (Adelaide ~Mar 2019; the residual site wound down by ~2021.",
       "from": "planet-ozi",
       "to": "escape-net-dot",
       "refs": [
@@ -3434,7 +3599,7 @@
       "arm_label": "100%",
       "year": 2007,
       "date_disp": "Aug 2007",
-      "notes": "Cirrus Communications acquired CommsLogic's assets (customer notice 15 Aug 2007).",
+      "notes": "Cirrus Communications acquired CommsLogic's assets (customer notice 15 Aug 2007.",
       "from": "commslogic",
       "to": "cirrus",
       "refs": [
@@ -3450,7 +3615,7 @@
       "arm_label": "100%",
       "year": 2008,
       "date_disp": "May 2008",
-      "notes": "Cirrus Communications acquired WireFree Networks (shareholder sale May 2008).",
+      "notes": "Cirrus Communications acquired WireFree Networks (shareholder sale May 2008.",
       "from": "wirefree-networks",
       "to": "cirrus",
       "refs": [
@@ -3466,7 +3631,7 @@
       "arm_label": "100%",
       "year": 2008,
       "date_disp": "Jul 2008",
-      "notes": "Cirrus Communications acquired UniSky (24 Jul 2008).",
+      "notes": "Cirrus Communications acquired UniSky (24 Jul 2008.",
       "from": "unisky",
       "to": "cirrus",
       "refs": [
@@ -3481,8 +3646,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2007,
-      "date_disp": "mid-2007",
-      "notes": "Closure notice live by 3 Jul 2007: My WiSP network/equipment taken over by LiSP Pty Ltd. (Earlier 'Dec 2008' date was wrong.)",
+      "date_disp": "by Aug 2007",
+      "notes": "Closure notice live by 3 Jul 2007: My WiSP network/equipment taken over by LiSP Pty Ltd. (Earlier 'Dec 2008' date was wrong.. c. mid-2007.",
       "from": "my-wisp",
       "to": "lisp",
       "refs": [
@@ -3498,7 +3663,7 @@
       "arm_label": "wireless assets",
       "year": 2008,
       "date_disp": "2008",
-      "notes": "LiSP's wireless arm went to Cirrus Communications (satellite to GoBush).",
+      "notes": "LiSP's wireless arm went to Cirrus Communications (satellite to GoBush.",
       "from": "lisp",
       "to": "cirrus",
       "refs": [
@@ -3529,8 +3694,8 @@
       "type": "acquisition",
       "arm_label": "wireless assets",
       "year": 2008,
-      "date_disp": "c. 2008",
-      "notes": "Cirrus Communications acquired Chariot's wireless assets (per user report).",
+      "date_disp": "2008",
+      "notes": "Cirrus Communications acquired Chariot's wireless assets (per user report.",
       "from": "chariot",
       "to": "cirrus",
       "refs": [
@@ -3538,6 +3703,16 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/TPG_(internet_service_provider)",
           "label": "Wikipedia: Summit Internet \u2014 documents acquisition/closure"
+        },
+        {
+          "kind": "forum-customer-account",
+          "url": "https://forums.whirlpool.net.au/archive/843208",
+          "label": "Post dated Oct 2008 states Chariot's Adelaide wireless service was sold to Cirrus 'earlier this year'."
+        },
+        {
+          "kind": "news",
+          "url": "https://itwire.com/it-industry-news/deals/chariot-buys-wimax-network",
+          "label": "Chariot bought its wireless asset (Omninet, Oct 2005) and later divested it, consistent with the 2008 sale to Cirrus."
         }
       ]
     },
@@ -3562,7 +3737,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "3 Feb 1999",
-      "notes": "AAPT acquired connect.com.au (exact date 3 Feb 1999).",
+      "notes": "AAPT acquired connect.com.au (exact date 3 Feb 1999.",
       "from": "connect-com-au",
       "to": "aapt",
       "refs": [
@@ -3577,7 +3752,7 @@
       "type": "acquisition",
       "arm_label": "brand",
       "year": 2000,
-      "date_disp": "c. 1998-2000",
+      "date_disp": "by Dec 2000",
       "notes": "DIALix brand absorbed by JustNet Pty Ltd.",
       "from": "dialix",
       "to": "justnet",
@@ -3594,7 +3769,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "May 1999",
-      "notes": "Pacific Internet acquired Mira Networking (20 May 1999).",
+      "notes": "Pacific Internet acquired Mira Networking (20 May 1999.",
       "from": "mira-networking",
       "to": "pacific-internet",
       "refs": [
@@ -3610,7 +3785,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "Jun 1999",
-      "notes": "Pacific Internet acquired Zip World (agreement announced 14 Jun 1999).",
+      "notes": "Pacific Internet acquired Zip World (agreement announced 14 Jun 1999.",
       "from": "zip-world",
       "to": "pacific-internet",
       "refs": [
@@ -3626,7 +3801,7 @@
       "arm_label": "100%",
       "year": 2005,
       "date_disp": "Oct 2005",
-      "notes": "Pacific Internet acquired T3 Communications (SPA dated 31 Oct 2005, up to A$5m).",
+      "notes": "Pacific Internet acquired T3 Communications (SPA dated 31 Oct 2005, up to A$5m.",
       "from": "t3-communications",
       "to": "pacific-internet",
       "refs": [
@@ -3642,7 +3817,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "Dec 1999",
-      "notes": "Pacific Internet acquired Zeta Internet (Sydney) with Hub Communications.",
+      "notes": "Pacific Internet acquired Zeta Internet (Sydney with Hub Communications.",
       "from": "zeta-internet",
       "to": "pacific-internet",
       "refs": [
@@ -3658,7 +3833,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "Dec 1999",
-      "notes": "Pacific Internet acquired Hub Communications (Brisbane) with Zeta Internet.",
+      "notes": "Pacific Internet acquired Hub Communications (Brisbane with Zeta Internet.",
       "from": "hub-communications",
       "to": "pacific-internet",
       "refs": [
@@ -3673,8 +3848,8 @@
       "type": "acquisition",
       "arm_label": "subscriber base",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "notes": "Asia Online (incl. Internet Access Australia's base) subscriber base later to OzEmail.",
+      "date_disp": "November 2001",
+      "notes": "Asia Online (incl. Internet Access Australia's base subscriber base later to OzEmail.",
       "from": "asia-online",
       "to": "ozemail",
       "refs": [
@@ -3682,6 +3857,16 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/OzEmail",
           "label": "Wikipedia: OzEmail"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.nzherald.co.nz/technology/queue-forms-for-failed-isp/P5E556AXY5RKVLR2J757F6BYAI/",
+          "label": "Asia Online liquidation was Oct/Nov 2001; OzEmail bought the Australian subscriber base."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/worldcom-will-hang-on-to-ozemail-says-chief-20020611-k1lgn",
+          "label": "Corroborates the OzEmail acquisition of Asia Online."
         }
       ]
     },
@@ -3689,8 +3874,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2004,
-      "date_disp": "c. 2004 (NetConnect principals joined Chariot; brand became Chariot netconnect)",
-      "notes": "NetConnect Communications (Ballarat) principals joined Chariot by FY2003-04 (2004 Annual Report Executive Team lists former NetConnect CEO Ian as Chariot GM; Ballarat among Chariot offices). The 2010 date previously recorded was netconnect.com.au's redirect to chariot.net.au (brand last use), not the acquisition.",
+      "date_disp": "c. 2004",
+      "notes": "NetConnect Communications (Ballarat principals joined Chariot by FY2003-04 (2004 Annual Report Executive Team lists former NetConnect CEO Ian as Chariot GM; Ballarat among Chariot offices. The 2010 date previously recorded was netconnect.com.au's redirect to chariot.net.au (brand last use, not the acquisition. NetConnect principals joined Chariot; brand became Chariot netconnect.",
       "from": "ballarat-netconnect",
       "to": "chariot",
       "refs": [
@@ -3737,8 +3922,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2002,
-      "date_disp": "c. 2002",
-      "notes": "Picknowl acquired by Chariot (part of Chariot Netconnect by late 2002).",
+      "date_disp": "by Jul 2002",
+      "notes": "Picknowl acquired by Chariot (part of Chariot Netconnect by late 2002.",
       "from": "picknowl",
       "to": "chariot",
       "refs": [
@@ -3746,6 +3931,16 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "business-register",
+          "url": "https://au.companiesdb.net/companies/chariot-limited/",
+          "label": "Chariot registered 'Picknowl' as a business name on 1 Jul 2002, consistent with an acquisition/absorption in 2002."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=picknowl.com.au&output=json&fl=timestamp,statuscode&from=2001&to=2006",
+          "label": "picknowl.com.au continued to serve its own site after 2002, so 'acquisition' did not immediately kill the brand."
         }
       ]
     },
@@ -3753,7 +3948,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2003,
-      "date_disp": "by Dec 2003",
+      "date_disp": "by 19 Feb 2003",
       "notes": "Cobweb absorbed into Chariot netconnect.",
       "from": "cobweb-internet",
       "to": "chariot",
@@ -3762,6 +3957,16 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20030219045947/http://www.cobweb.net.au/",
+          "label": "cobweb.net.au returned 200 on 12 Feb 2003, then 302 to chariot on 19 Feb 2003."
+        },
+        {
+          "kind": "wayback-status",
+          "url": "https://web.archive.org/cdx/search/cdx?url=cobweb.net.au&output=json&fl=timestamp,statuscode",
+          "label": "Transition bracketed to mid-Feb 2003."
         }
       ]
     },
@@ -3769,8 +3974,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2004,
-      "date_disp": "by 2004",
-      "notes": "Connect Direct Internet (Rye, VIC) absorbed into Chariot netconnect; cdi.com.au read 'now part of Chariot' (\u00a92004 Chariot Netconnect).",
+      "date_disp": "by late 2004",
+      "notes": "Connect Direct Internet (Rye, VIC absorbed into Chariot netconnect; cdi.com.au read 'now part of Chariot' (\u00a92004 Chariot Netconnect.",
       "from": "connect-direct",
       "to": "chariot",
       "refs": [
@@ -3778,6 +3983,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20050829111357/http://www.cdi.com.au/",
           "label": "CDI 'now part of Chariot' (Wayback 29 Aug 2005)"
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20041129214652/http://www.cdi.com.au/",
+          "label": "Notice present by 29 Nov 2004 with a 2004 Chariot copyright."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20040605071733/http://www.cdi.com.au/",
+          "label": "Still an independent CDI page on 5 Jun 2004, bracketing the change to 2004."
         }
       ]
     },
@@ -3785,8 +4000,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2009,
-      "date_disp": "c. 2009",
-      "notes": "Alphalink (Melbourne) customers folded into Chariot; alphalink.net.au 301-redirecting to chariot.net.au by Sep 2009.",
+      "date_disp": "by 13 Sep 2009",
+      "notes": "Alphalink (Melbourne customers folded into Chariot; alphalink.net.au 301-redirecting to chariot.net.au by Sep 2009.",
       "from": "alphalink",
       "to": "chariot",
       "refs": [
@@ -3794,6 +4009,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20110205111002/http://alphalink.net.au/",
           "label": "Wayback 5 Feb 2011: alphalink.net.au 301 redirect to chariot.net.au"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20090913000233/http://alphalink.net.au/",
+          "label": "First 301 capture; 8 Sep 2008 still returned 200 with alphalink branding."
+        },
+        {
+          "kind": "wayback-status",
+          "url": "https://web.archive.org/cdx/search/cdx?url=alphalink.net.au&output=json&filter=statuscode:301",
+          "label": "Earliest 301 record."
         }
       ]
     },
@@ -3801,8 +4026,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2003,
-      "date_disp": "by Jan 2003",
-      "notes": "Newave merged into Chariot Internet (domain redirect).",
+      "date_disp": "by 22 Jan 2003",
+      "notes": "Newave merged into Chariot Internet (domain redirect.",
       "from": "newave",
       "to": "chariot",
       "refs": [
@@ -3810,6 +4035,11 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "wayback-status",
+          "url": "https://web.archive.org/cdx/search/cdx?url=newave.net.au&output=json&fl=timestamp,statuscode",
+          "label": "newave.net.au switched from 200 to redirect between Nov 2002 and 22 Jan 2003."
         }
       ]
     },
@@ -3818,7 +4048,7 @@
       "arm_label": "100%",
       "year": 2003,
       "date_disp": "Nov 2003",
-      "notes": "Internex Internet acquired by Chariot Ltd (announced 7 Nov 2003).",
+      "notes": "Internex Internet acquired by Chariot Ltd (announced 7 Nov 2003.",
       "from": "internex-australia",
       "to": "chariot",
       "refs": [
@@ -3833,8 +4063,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2004,
-      "date_disp": "c. mid-2004",
-      "notes": "Satlink absorbed into Chariot Netconnect (ABN cancelled 1 Jul 2004).",
+      "date_disp": "c. 2004",
+      "notes": "Satlink absorbed into Chariot Netconnect (ABN cancelled 1 Jul 2004.",
       "from": "satlink",
       "to": "chariot",
       "refs": [
@@ -3842,6 +4072,16 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "abr-abn-history",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=12119272460",
+          "label": "The Satlink Internet unit trust's ABN/GST was cancelled 1 Jul 2004."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20060820010441/http://satlink.net.au/",
+          "label": "Domain-level redirect to Chariot only appears from Aug 2006."
         }
       ]
     },
@@ -3850,7 +4090,7 @@
       "arm_label": "100%",
       "year": 2003,
       "date_disp": "Aug 2003",
-      "notes": "Pipeline Internet became part of Chariot netconnect (Geelong).",
+      "notes": "Pipeline Internet became part of Chariot netconnect (Geelong.",
       "from": "pipeline-internet",
       "to": "chariot",
       "refs": [
@@ -3865,7 +4105,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2006,
-      "date_disp": "c. 2006",
+      "date_disp": "by 9 May 2006",
       "notes": "Dragon Net folded into Bullet Internet; dragon.net.au 302-redirected to bullet.net.au from 9 May 2006.",
       "from": "dragon-net",
       "to": "bullet-internet",
@@ -3881,8 +4121,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2017,
-      "date_disp": "by May 2017",
-      "notes": "Bullet Internet (SIS Group) folded into SIS Group (Amaze); domain redirected to amaze.com.au.",
+      "date_disp": "by 20 May 2017",
+      "notes": "Bullet Internet (SIS Group folded into SIS Group (Amaze; domain redirected to amaze.com.au.",
       "from": "bullet-internet",
       "to": "sis-group-amaze",
       "refs": [
@@ -3890,6 +4130,11 @@
           "kind": "gov",
           "url": "https://abr.business.gov.au/AbnHistory/View?id=41079466274",
           "label": "ABN Lookup - SIS Group Pty Ltd ABN 41 079 466 274 historical details"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20170520124627/http://bullet.net.au/",
+          "label": "bullet.net.au redirected to Amaze; last 200 capture was 27 Feb 2016."
         }
       ]
     },
@@ -3897,7 +4142,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2000,
-      "date_disp": "by Oct 2000",
+      "date_disp": "by 2 Oct 2000",
       "notes": "Starnet absorbed by Planet Internet.",
       "from": "starnet-internet",
       "to": "planet",
@@ -3906,6 +4151,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20010303221342/http://www.starnet.com.au/",
           "label": "starnet.com.au (Wayback Mar 2001): HTTP 301 redirecting to planet.net.au"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20001002050417/http://www.starnet.com.au/",
+          "label": "starnet.com.au already 301-redirecting to planet.net.au by 2 Oct 2000."
         }
       ]
     },
@@ -3914,7 +4164,7 @@
       "arm_label": "customer base",
       "year": 1999,
       "date_disp": "Oct 1999",
-      "notes": "AUSOM (Apple Users' Society of Melbourne) handed its 542 ISP users to Labyrinth Connections after deciding an ISP couldn't be run by volunteers.",
+      "notes": "AUSOM (Apple Users' Society of Melbourne handed its 542 ISP users to Labyrinth Connections after deciding an ISP couldn't be run by volunteers.",
       "from": "ausom",
       "to": "keypoint",
       "refs": [
@@ -3929,8 +4179,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2000,
-      "date_disp": "by 2000",
-      "notes": "Sprint Online (Parergon Technology Pty Ltd, ACN 065 972 107) became a division of Labyrinth Connections; sprint.net.au styled itself 'a division of Labyrinth Connections' by Feb 2000. The Sprint company later inherited the 'Labyrinth Connections Pty Ltd' corporate name (21 Oct 2002) when the group consolidated under Key Point Pty Ltd - the origin of the two same-named entities.",
+      "date_disp": "by Feb 2000",
+      "notes": "Sprint Online (Parergon Technology Pty Ltd, ACN 065 972 107 became a division of Labyrinth Connections; sprint.net.au styled itself 'a division of Labyrinth Connections' by Feb 2000. The Sprint company later inherited the 'Labyrinth Connections Pty Ltd' corporate name (21 Oct 2002 when the group consolidated under Key Point Pty Ltd - the origin of the two same-named entities.",
       "from": "parergon-technology",
       "to": "keypoint",
       "refs": [
@@ -3956,7 +4206,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "2004",
-      "notes": "C&N Newcastle (CNN Internet) acquired by Chariot ($400k).",
+      "notes": "C&N Newcastle (CNN Internet acquired by Chariot ($400k.",
       "from": "cnn-internet",
       "to": "chariot",
       "refs": [
@@ -3971,8 +4221,8 @@
       "type": "rename",
       "arm_label": "division",
       "year": 1996,
-      "date_disp": "by Dec 1996",
-      "notes": "Same-operator pairing ('Zircon Systems / Internet Plus', Mascot NSW \u2014 shared staff; sole AU distributor of Spry's Internet-in-a-Box). Not a third-party acquisition.",
+      "date_disp": "by Nov 1996",
+      "notes": "Same-operator pairing ('Zircon Systems / Internet Plus', Mascot NSW \u2014 shared staff; sole AU distributor of Spry's Internet-in-a-Box. Not a third-party acquisition.",
       "from": "internet-plus",
       "to": "zircon-systems",
       "refs": [
@@ -3985,6 +4235,11 @@
           "kind": "news",
           "url": "https://www.internetnews.com/it-management/psinet-buys-australian-isp-reports-earnings/",
           "label": "internetnews.com 1999: PSINet buys Australian ISP (Zircon Systems)"
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/19961107071557/http://www.zircon.net.au/",
+          "label": "By Nov 1996 Internet Plus was already a division of Zircon Systems; 'Internet Plus' was the ISP brand on the zircon.net.au domain."
         }
       ]
     },
@@ -3993,7 +4248,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "Oct 1999",
-      "notes": "PSINet Inc acquired Zircon Systems (announced 26 Oct 1999); rebranded PSINet Australia.",
+      "notes": "PSINet Inc acquired Zircon Systems (announced 26 Oct 1999; rebranded PSINet Australia.",
       "from": "zircon-systems",
       "to": "psinet-australia",
       "refs": [
@@ -4009,7 +4264,7 @@
       "arm_label": "100%",
       "year": 2002,
       "date_disp": "Jun 2002",
-      "notes": "National Telecoms Group took over PSINet Australia's assets; Zircon Systems (formerly PSINet Australia) traded on as an NTG subsidiary until Nexon acquired its customers and support infrastructure in 2003.",
+      "notes": "National Telecoms Group took over PSINet Australia's assets; Zircon Systems (formerly PSINet Australia traded on as an NTG subsidiary until Nexon acquired its customers and support infrastructure in 2003.",
       "from": "psinet-australia",
       "to": "national-telecoms-group",
       "refs": [
@@ -4029,8 +4284,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2004,
-      "date_disp": "c. 2003-04",
-      "notes": "Nexon Asia Pacific acquired the Zircon/PSINet Australia business from NTG (its own timeline says 2003; press says ~2004).",
+      "date_disp": "6 Dec 2004",
+      "notes": "Nexon Asia Pacific acquired the Zircon/PSINet Australia business from NTG (its own timeline says 2003; press says ~2004.",
       "from": "national-telecoms-group",
       "to": "nexon",
       "refs": [
@@ -4045,8 +4300,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2004,
-      "date_disp": "c. 2004",
-      "notes": "Universal Networks Internet absorbed into Chariot netconnect.",
+      "date_disp": "by mid-2005",
+      "notes": "Universal Networks Internet absorbed into Chariot netconnect. c 2004.",
       "from": "universal-networks",
       "to": "chariot",
       "refs": [
@@ -4054,6 +4309,11 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20050615093226/http://universal.net.au/",
+          "label": "Notice live by 15 Jun 2005 with a 2004 copyright; universal.net.au only began redirecting (302) in mid-2006."
         }
       ]
     },
@@ -4061,8 +4321,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2002,
-      "date_disp": "c. 2001-02",
-      "notes": "bmr.net.au (Raymond Terrace NSW) rebranded to 'CNN Internet & Techcel Computer Services' between Apr 2001 and Jan 2003; CNN brand live by Mar 2002.",
+      "date_disp": "c. 2001-2002",
+      "notes": "bmr.net.au (Raymond Terrace NSW rebranded to 'CNN Internet & Techcel Computer Services' between Apr 2001 and Jan 2003; CNN brand live by Mar 2002.",
       "from": "bmr-net",
       "to": "cnn-internet",
       "refs": [
@@ -4083,7 +4343,7 @@
       "arm_label": "WA assets",
       "year": 2020,
       "date_disp": "7 Jan 2020",
-      "notes": "Pentanet absorbed Uniscope's WA fixed-wireless network; APNIC records the number-resource transfer effective 7 Jan 2020 (reason M&A). (No 2019 ASX announcement exists \u2014 Pentanet IPO'd Jan 2021.)",
+      "notes": "Pentanet absorbed Uniscope's WA fixed-wireless network; APNIC records the number-resource transfer effective 7 Jan 2020 (reason M&A. (No 2019 ASX announcement exists \u2014 Pentanet IPO'd Jan 2021.",
       "from": "uniscope",
       "to": "pentanet",
       "refs": [
@@ -4104,7 +4364,7 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "Sep 2001",
-      "notes": "Ipswich (QLD) council-run community ISP Global Info-Links restructured into iTEL Community Telco Limited (incorporated 3 Sep 2001). Not a Perth entity.",
+      "notes": "Ipswich (QLD council-run community ISP Global Info-Links restructured into iTEL Community Telco Limited (incorporated 3 Sep 2001. Not a Perth entity.",
       "from": "global-info-links",
       "to": "itel-community-telco",
       "refs": [
@@ -4125,7 +4385,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "c. 1999-2001",
-      "notes": "MagnaData became NTT Australia (via Davnet).",
+      "notes": "MagnaData became NTT Australia (via Davnet.",
       "from": "magnadata",
       "to": "ntt-australia",
       "refs": [
@@ -4141,7 +4401,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Aug 2004",
-      "notes": "Optus acquired Uecomm (~A$227m), corporate fibre network.",
+      "notes": "Optus acquired Uecomm (~A$227m, corporate fibre network.",
       "from": "uecomm",
       "to": "optus",
       "refs": [
@@ -4156,7 +4416,7 @@
       "type": "rename",
       "arm_label": "brand",
       "year": 1998,
-      "date_disp": "c. 1997-98",
+      "date_disp": "c. 1997-1998",
       "notes": "Same Adelaide operator, domain retained: SATECH branding in Jan 1997, BOX Internet branding by Dec 1998 \u2014 a rebrand, not an external acquisition.",
       "from": "satech",
       "to": "box-internet",
@@ -4170,6 +4430,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/19981212023335/http://www.box.net.au/",
           "label": "box.net.au (Wayback Dec 1998): 'Welcome to BOX Internet Services'"
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/19980221095736/http://www.box.net.au/",
+          "label": "By Feb 1998 the site had dropped the SATECH name and used SAT/BOX branding on the same domain."
         }
       ]
     },
@@ -4178,7 +4443,7 @@
       "arm_label": "merged",
       "year": 1995,
       "date_disp": "late 1995",
-      "notes": "box.apana.org.au merged with lemon.apana.org.au to form South Australian Technologies (SATECH).",
+      "notes": "box.apana.org.au merged with lemon.apana.org.au to form South Australian Technologies (SATECH.",
       "from": "box-apana",
       "to": "satech",
       "refs": []
@@ -4188,7 +4453,7 @@
       "arm_label": "merged",
       "year": 1995,
       "date_disp": "late 1995",
-      "notes": "lemon.apana.org.au merged with box.apana.org.au to form South Australian Technologies (SATECH).",
+      "notes": "lemon.apana.org.au merged with box.apana.org.au to form South Australian Technologies (SATECH.",
       "from": "lemon-apana",
       "to": "satech",
       "refs": []
@@ -4206,6 +4471,16 @@
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
           "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        },
+        {
+          "kind": "usenet-faq",
+          "url": "http://www.rogerclarke.com/II/zik.faq.9403.html",
+          "label": "Multiple APANA Melbourne nodes listed as part of the national APANA organisation in Mar 1994."
+        },
+        {
+          "kind": "faq",
+          "url": "https://web.archive.org/web/19990117023217/http://www.apana.org.au/faq/apanafaq.html",
+          "label": "Regionalisation in Oct 1994 formalised state regions including Melbourne."
         }
       ]
     },
@@ -4222,6 +4497,16 @@
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
           "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        },
+        {
+          "kind": "usenet-faq",
+          "url": "http://www.rogerclarke.com/II/zik.faq.9403.html",
+          "label": "APANA Sydney node/hub listed in Mar 1994."
+        },
+        {
+          "kind": "faq",
+          "url": "https://web.archive.org/web/19990117023217/http://www.apana.org.au/faq/apanafaq.html",
+          "label": "APANA Sydney became a formal region in this period."
         }
       ]
     },
@@ -4238,6 +4523,16 @@
           "kind": "archive",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
           "label": "Roger Clarke: Brief History of the Internet in Australia \u2014 APANA"
+        },
+        {
+          "kind": "usenet-faq",
+          "url": "http://www.rogerclarke.com/II/zik.faq.9403.html",
+          "label": "APANA Brisbane presence/contact documented in Mar 1994."
+        },
+        {
+          "kind": "faq",
+          "url": "https://web.archive.org/web/19990117023217/http://www.apana.org.au/faq/apanafaq.html",
+          "label": "Brisbane is a recognised APANA region."
         }
       ]
     },
@@ -4308,8 +4603,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2003,
+      "date_disp": "c. late 2002 - by 7 Feb 2003",
       "notes": "Box Internet taken over by Chariot.",
       "from": "box-internet",
       "to": "chariot",
@@ -4318,6 +4613,16 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20030207212417/http://www.box.net.au/",
+          "label": "By 7 Feb 2003 box.net.au redirected to chariot.net.au."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021128165959/http://www.box.net.au/",
+          "label": "Still serving its own site on 28 Nov 2002, bounding the transition to between late Nov 2002 and 7 Feb 2003."
         }
       ]
     },
@@ -4326,7 +4631,7 @@
       "arm_label": "100%",
       "year": 2002,
       "date_disp": "late 2002",
-      "notes": "Geelong group rebrand (same operator \u2014 WebAXS's 1997 phone (03) 5244 0866 = KeyPoint's Geelong number; customers promised no change to plans/email/passwords). Redirect live by Feb 2003.",
+      "notes": "Geelong group rebrand (same operator \u2014 WebAXS's 1997 phone (03 5244 0866 = KeyPoint's Geelong number; customers promised no change to plans/email/passwords. Redirect live by Feb 2003. by 25 Nov 2002.",
       "from": "webaxs",
       "to": "keypoint",
       "refs": [
@@ -4363,7 +4668,7 @@
       "arm_label": "ETSA arm",
       "year": 2005,
       "date_disp": "2005",
-      "notes": "ETSA's telecom business combined into Silk Telecom (with Powercor and Citipower).",
+      "notes": "ETSA's telecom business combined into Silk Telecom (with Powercor and Citipower.",
       "from": "etsa-telecom",
       "to": "silk-telecom",
       "refs": [
@@ -4395,7 +4700,7 @@
       "arm_label": "Ludin arm",
       "year": 1999,
       "date_disp": "Jul 1999",
-      "notes": "Ludin Computers (trading as Goldfields-Esperance Internet) was one of three Kalgoorlie businesses merged to form Emerge Technologies in Jul 1999.",
+      "notes": "Ludin Computers (trading as Goldfields-Esperance Internet was one of three Kalgoorlie businesses merged to form Emerge Technologies in Jul 1999.",
       "from": "ludin",
       "to": "emerge-technologies",
       "refs": [
@@ -4427,7 +4732,7 @@
       "arm_label": "ISP side",
       "year": 2013,
       "date_disp": "c. 2013",
-      "notes": "By May 2013 the ISP business was back operating as GoldNet (gold.net.au, licensed carrier); Emerge continued separately as a strategic managed-services provider. No explicit spin-off announcement found.",
+      "notes": "By May 2013 the ISP business was back operating as GoldNet (gold.net.au, licensed carrier; Emerge continued separately as a strategic managed-services provider. No explicit spin-off announcement found.",
       "from": "emerge-technologies",
       "to": "goldnet",
       "refs": [
@@ -4459,7 +4764,7 @@
       "arm_label": "100%",
       "year": 2013,
       "date_disp": "2013",
-      "notes": "M2 acquired Dodo ($203.9M).",
+      "notes": "M2 acquired Dodo ($203.9M.",
       "from": "dodo",
       "to": "m2-group",
       "refs": [
@@ -4475,7 +4780,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "2012",
-      "notes": "M2 acquired iPrimus ($192M).",
+      "notes": "M2 acquired iPrimus ($192M.",
       "from": "iprimus",
       "to": "m2-group",
       "refs": [
@@ -4507,7 +4812,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "1999",
-      "notes": "Primus acquired HotKey (60% 1998, 40% 1999).",
+      "notes": "Primus acquired HotKey (60% 1998, 40% 1999.",
       "from": "hotkey",
       "to": "iprimus",
       "refs": [
@@ -4523,7 +4828,7 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "c. 2001",
-      "notes": "BlazeNet folded into Hotkey Internet Services (via parent ISP Ltd).",
+      "notes": "BlazeNet folded into Hotkey Internet Services (via parent ISP Ltd.",
       "from": "blazenet",
       "to": "hotkey",
       "refs": [
@@ -4539,7 +4844,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Nov 2004",
-      "notes": "Dart Global (Direct Data) acquired by Hotkey Internet Services.",
+      "notes": "Dart Global (Direct Data acquired by Hotkey Internet Services.",
       "from": "dart-global",
       "to": "hotkey",
       "refs": [
@@ -4555,7 +4860,7 @@
       "arm_label": "100%",
       "year": 2003,
       "date_disp": "Sep 2003",
-      "notes": "DART Internet acquired Ultrawave Internet (announced 13 Sep 2003); Ultrawave merged into DART, staff released, customers migrated.",
+      "notes": "DART Internet acquired Ultrawave Internet (announced 13 Sep 2003; Ultrawave merged into DART, staff released, customers migrated.",
       "from": "ultrawave-internet",
       "to": "dart-internet",
       "refs": [
@@ -4571,7 +4876,7 @@
       "arm_label": "customer base",
       "year": 2004,
       "date_disp": "c. Nov 2004",
-      "notes": "DART Internet entered external administration (PwC, Brisbane) ~Nov 2004; its customer base was handed to Hotkey. Distinct from Dart Global (dart.com.au), which Hotkey separately acquired Nov 2004.",
+      "notes": "DART Internet entered external administration (PwC, Brisbane ~Nov 2004; its customer base was handed to Hotkey. Distinct from Dart Global (dart.com.au, which Hotkey separately acquired Nov 2004.",
       "from": "dart-internet",
       "to": "hotkey",
       "refs": [
@@ -4602,8 +4907,8 @@
       "type": "acquisition",
       "arm_label": "customer base",
       "year": 2013,
-      "date_disp": "c. 2013",
-      "notes": "Eftel bought the Dragnet customer base (dialup, ADSL, domains, webhosting); satellite business kept separate.",
+      "date_disp": "early 2013",
+      "notes": "Eftel bought the Dragnet customer base (dialup, ADSL, domains, webhosting; satellite business kept separate. by 8 Feb 2013.",
       "from": "dragnet",
       "to": "eftel",
       "refs": [
@@ -4611,6 +4916,11 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130208053151/http://www.dragnet.com.au/",
+          "label": "Explicit notice on Dragnet's homepage captured 8 Feb 2013."
         }
       ]
     },
@@ -4667,7 +4977,7 @@
       "arm_label": "renamed",
       "year": 2002,
       "date_disp": "c. 2002",
-      "notes": "Same-operator rebrand (identical 07 3278 phone/fax): in.com.au served Instant Communications (Indooroopilly QLD) content by Jan 2003.",
+      "notes": "Same-operator rebrand (identical 07 3278 phone/fax: in.com.au served Instant Communications (Indooroopilly QLD content by Jan 2003.",
       "from": "asgard-net",
       "to": "instant-communications",
       "refs": [
@@ -4675,6 +4985,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20030123142616id_/http://www.in.com.au/",
           "label": "in.com.au (Wayback Jan 2003): Instant Communications, Indooroopilly QLD (fax 07 3278 5666, matching asgard.net.au)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=asgard.net.au&output=text",
+          "label": "Old Asgard domain stopped being updated around the same period."
         }
       ]
     },
@@ -4697,8 +5012,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2015,
-      "date_disp": "c. 2014-15",
+      "year": 2012,
+      "date_disp": "Feb-Apr 2012",
       "notes": "Com-Cen absorbed by Spintel.",
       "from": "com-cen",
       "to": "spintel",
@@ -4707,6 +5022,11 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/comcen-folds-into-sister-spintel-292213",
           "label": "iTnews: Comcen folds into sister Spintel (1 Mar 2012)"
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/SpinTel",
+          "label": "Corroborates a 2012 merger."
         }
       ]
     },
@@ -4731,7 +5051,7 @@
       "arm_label": "100%",
       "year": 2018,
       "date_disp": "c. 2018-19",
-      "notes": "InterACT infrastructure passed to Velocity Internet (HostIT).",
+      "notes": "InterACT infrastructure passed to Velocity Internet (HostIT.",
       "from": "interact-technology-group",
       "to": "velocity-holdings",
       "refs": []
@@ -4740,7 +5060,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2005,
-      "date_disp": "late 2005",
+      "date_disp": "late 2005 - 2006",
       "notes": "DezzaNet became part of Aardvark Internet.",
       "from": "dezzanet",
       "to": "aardvark-internet",
@@ -4749,6 +5069,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20071113013901/http://www.dezzanet.net.au/",
           "label": "dezzanet.net.au (Wayback Nov 2007): 'Aardvarks website is located at http://www.aardvark.net.au - Now redirecting...'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=dezzanet.net.au&output=text",
+          "label": "Bounds the transition to late 2005/early 2006."
         }
       ]
     },
@@ -4772,8 +5097,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2003,
-      "date_disp": "c. 2003",
-      "notes": "Confirmed by Savtek's own homepage news item (Jun 2003). Braenet (est. 1996 by Braemac Pty Ltd, Alexandria NSW) served Sydney/Penrith/Brisbane/Perth/Melbourne.",
+      "date_disp": "c. Jun 2003",
+      "notes": "Confirmed by Savtek's own homepage news item (Jun 2003. Braenet (est. 1996 by Braemac Pty Ltd, Alexandria NSW served Sydney/Penrith/Brisbane/Perth/Melbourne.",
       "from": "braenet",
       "to": "savtek",
       "refs": [
@@ -4810,7 +5135,7 @@
       "arm_label": "100%",
       "year": 2006,
       "date_disp": "Jul 2006",
-      "notes": "Ace Online acquired by EFTel (17 Jul 2006); part of EFTel's ISP shopping spree.",
+      "notes": "Ace Online acquired by EFTel (17 Jul 2006; part of EFTel's ISP shopping spree.",
       "from": "ace-online",
       "to": "eftel",
       "refs": [
@@ -4824,8 +5149,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2009,
-      "date_disp": "c. 2009",
+      "year": 2005,
+      "date_disp": "2005",
       "notes": "Myaccess customers/services moved to EFTel.",
       "from": "myaccess",
       "to": "eftel",
@@ -4834,6 +5159,11 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "news",
+          "url": "https://itwire.com/it-industry-news/strategy/datafast-to-become-eftel",
+          "label": "iTWire, 7 Dec 2005, on Datafast/EFTel; explicitly places the MyAccess acquisition in 2005."
         }
       ]
     },
@@ -4841,7 +5171,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2004,
-      "date_disp": "c. 2004",
+      "date_disp": "by Dec 2004",
       "notes": "Ompac Internet absorbed into Chariot Netconnect.",
       "from": "ompac-internet",
       "to": "chariot",
@@ -4850,15 +5180,25 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040728124948/http://www.ompac.net.au/",
+          "label": "ompac.net.au still branded Ompac on 28 Jul 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041204185325/http://www.ompac.net.au/",
+          "label": "By 4 Dec 2004 ompac.net.au serves a Chariot Netconnect-branded page; later captures title 'Ompac - Chariot Netconnect'."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2004,
-      "date_disp": "by 2004",
-      "notes": "Better Net acquired by Chariot (-> TPG).",
+      "year": 2003,
+      "date_disp": "Mar 2003",
+      "notes": "Better Net acquired by Chariot (-> TPG.",
       "from": "better-net",
       "to": "chariot",
       "refs": [
@@ -4866,6 +5206,16 @@
           "kind": "news",
           "url": "https://whirlpool.net.au/news/index.cfm?id=1048",
           "label": "Whirlpool News: iiBorg assimilates eastern ISPs (Jan 2003)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.theage.com.au/national/chariot-gallops-off-with-four-isp-acquisitions-20030313-gdvda1.html",
+          "label": "The Age, 13 Mar 2003, reports agreements to acquire four ISPs including Better.Net."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/chariot-acquires-two-isps-20030808-gdh8cw.html",
+          "label": "SMH, 8 Aug 2003, confirms better.net among completed Chariot acquisitions."
         }
       ]
     },
@@ -4875,7 +5225,7 @@
       "to": "chariot",
       "year": 2004,
       "date_disp": "1 Jun 2004",
-      "notes": "Acquired by Chariot as 'Broadnet' on 1 Jun 2004 (2004 Annual Report Note 35); announced publicly 11 May 2004 (SMH).",
+      "notes": "Acquired by Chariot as 'Broadnet' on 1 Jun 2004 (2004 Annual Report Note 35; announced publicly 11 May 2004 (SMH.",
       "refs": [
         {
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
@@ -4887,8 +5237,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2005,
-      "date_disp": "by 2005",
-      "notes": "Hotlinks acquired by EFTel (-> TPG).",
+      "date_disp": "by Feb 2005",
+      "notes": "Hotlinks acquired by EFTel (-> TPG.",
       "from": "hotlinks-internet-services",
       "to": "eftel",
       "refs": [
@@ -4896,6 +5246,16 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050206132416/http://hotlinks.net.au/",
+          "label": "By 6 Feb 2005 hotlinks.net.au already served EFTel-branded content."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050306024926/http://hotlinks.net.au/",
+          "label": "On 6 Mar 2005 hotlinks.net.au 302-redirected to w3.eftel.com, confirming the Eftel takeover."
         }
       ]
     },
@@ -4903,8 +5263,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "notes": "ORAC Global Internet folded into APEX Internet \u2014 APEX branding on orac.net.au by May 2001. (APEX was Canberra ACT, not WA.)",
+      "date_disp": "by May 2001",
+      "notes": "ORAC Global Internet folded into APEX Internet \u2014 APEX branding on orac.net.au by May 2001. (APEX was Canberra ACT, not WA.. between Feb and Mar 2001.",
       "from": "orac-global-internet",
       "to": "apex-internet",
       "refs": [
@@ -4917,15 +5277,20 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20020523052857/http://www.orac.net.au/",
           "label": "orac.net.au (Wayback May 2002): 'APEX Internet 6 Lonsdale Street, Braddon ACT'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010202074100/http://www.orac.net.au/",
+          "label": "Still ORAC-branded on 2 Feb 2001."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2004,
-      "date_disp": "c. 2003-04",
-      "notes": "NetEffect (Canberra) customers absorbed by APEX Internet; circumstantial technical evidence (effect.net.au resolved to APEX branding; effectmx.apex.net.au in Apex's netblock). No explicit announcement found; 2004 timing approximate.",
+      "year": 2000,
+      "date_disp": "by Oct 2000",
+      "notes": "NetEffect (Canberra customers absorbed by APEX Internet; circumstantial technical evidence (effect.net.au resolved to APEX branding; effectmx.apex.net.au in Apex's netblock. No explicit announcement found; 2004 timing approximate.",
       "from": "neteffect-internet",
       "to": "apex-internet",
       "refs": [
@@ -4938,6 +5303,16 @@
           "kind": "community",
           "url": "https://ipinfo.io/ips/203.20.62.0/24",
           "label": "ipinfo.io: Apex netblock carries effectmx.apex.net.au"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20001012030208/http://effect.net.au/",
+          "label": "On 12 Oct 2000 effect.net.au 302-redirected to apex.net.au; earlier 5 Sep 2000 capture was a standalone site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020528022042/http://www.effect.net.au/",
+          "label": "2002 captures of effect.net.au continue to reference apex.net.au."
         }
       ]
     },
@@ -4946,7 +5321,7 @@
       "arm_label": "renamed",
       "year": 2000,
       "date_disp": "2000",
-      "notes": "Mission Internet renamed/incorporated as Internet Vision Technologies (IVT).",
+      "notes": "Mission Internet renamed/incorporated as Internet Vision Technologies (IVT.",
       "from": "mission-internet",
       "to": "internet-vision-technologies",
       "refs": [
@@ -4962,7 +5337,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "c. 2000",
-      "notes": "SENET (>35,000 customers) absorbed into the OzEmail/UUNet group.",
+      "notes": "SENET (>35,000 customers absorbed into the OzEmail/UUNet group.",
       "from": "senet",
       "to": "ozemail",
       "refs": [
@@ -4975,6 +5350,11 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Steve_Baxter_(entrepreneur)",
           "label": "Wikipedia: Steve Baxter \u2014 SE Net acquired by OzEmail/UUNet"
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/287227",
+          "label": "Whirlpool forum post 13 Jan 2005 stating SENET was acquired by OzEmail in 2000."
         }
       ]
     },
@@ -4983,7 +5363,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "Oct 1999",
-      "notes": "InterACT (Canberra) acquired by Asia Online (AFR, Oct 1999).",
+      "notes": "InterACT (Canberra acquired by Asia Online (AFR, Oct 1999.",
       "from": "interact-technology-group",
       "to": "asia-online",
       "refs": [
@@ -4999,7 +5379,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "Oct 1999",
-      "notes": "Internet Access Australia (Melbourne) acquired by Asia Online (AFR, Oct 1999).",
+      "notes": "Internet Access Australia (Melbourne acquired by Asia Online (AFR, Oct 1999.",
       "from": "internet-access-australia",
       "to": "asia-online",
       "refs": [
@@ -5015,7 +5395,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "Oct 1999",
-      "notes": "Internet Company of New Zealand acquired by Asia Online (AFR, Oct 1999).",
+      "notes": "Internet Company of New Zealand acquired by Asia Online (AFR, Oct 1999.",
       "from": "internet-company-nz",
       "to": "asia-online",
       "refs": [
@@ -5029,9 +5409,9 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2001,
-      "date_disp": "c. 2000-01",
-      "notes": "Dove (SA) acquired by Asia Online (per user report).",
+      "year": 1999,
+      "date_disp": "early Oct 1999",
+      "notes": "Dove (SA acquired by Asia Online (per user report.",
       "from": "dove-australia",
       "to": "asia-online",
       "refs": [
@@ -5039,15 +5419,25 @@
           "kind": "news",
           "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
           "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/asia-online-acquires-three-more-australian-isps/",
+          "label": "InternetNews, 11 Oct 1999, naming Dove among three new Asia Online acquisitions."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.techmonitor.ai/technology/asia_online_buys_three_more_australian_isps",
+          "label": "Tech Monitor, 13 Oct 1999."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2001,
-      "date_disp": "c. 2000-01",
-      "notes": "Brisbane Internet Technology acquired by Asia Online (per user report).",
+      "year": 1999,
+      "date_disp": "early Oct 1999",
+      "notes": "Brisbane Internet Technology acquired by Asia Online (per user report.",
       "from": "brisbane-internet-technology",
       "to": "asia-online",
       "refs": [
@@ -5055,15 +5445,20 @@
           "kind": "news",
           "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
           "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/asia-online-acquires-three-more-australian-isps/",
+          "label": "InternetNews, 11 Oct 1999."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2001,
-      "date_disp": "c. 2000-01",
-      "notes": "Message Exchange (NSW) acquired by Asia Online (per user report).",
+      "year": 1999,
+      "date_disp": "early Oct 1999",
+      "notes": "Message Exchange (NSW acquired by Asia Online (per user report.",
       "from": "message-exchange",
       "to": "asia-online",
       "refs": [
@@ -5071,6 +5466,11 @@
           "kind": "news",
           "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
           "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/asia-online-acquires-three-more-australian-isps/",
+          "label": "InternetNews, 11 Oct 1999; TMX described as a ten-year-old industry pioneer."
         }
       ]
     },
@@ -5079,7 +5479,7 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "c. 2000-01",
-      "notes": "Spirit Networks (Canberra) acquired by Asia Online.",
+      "notes": "Spirit Networks (Canberra acquired by Asia Online.",
       "from": "spirit-networks",
       "to": "asia-online",
       "refs": [
@@ -5093,8 +5493,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2022,
-      "date_disp": "c. 2022",
+      "year": 2021,
+      "date_disp": "30 Nov 2021",
       "notes": "Connexus acquired by Pennytel.",
       "from": "connexus",
       "to": "pennytel",
@@ -5103,15 +5503,20 @@
           "kind": "news",
           "url": "https://pennytel.com.au/pennytel-australia-acquires-b2b-focused-telco-connexus-as-rapid-expansion-continues/",
           "label": "Pennytel press release 30 Nov 2021 - acquires Connexus"
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pennytel",
+          "label": "Corroboration."
         }
       ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2010,
-      "date_disp": "c. 2010",
-      "notes": "ZettaServe's ISP arm (formerly Highway 1) formed Zettagrid; Highway 1 ceased as an ISP.",
+      "year": 2007,
+      "date_disp": "Dec 2007",
+      "notes": "ZettaServe's ISP arm (formerly Highway 1 formed Zettagrid; Highway 1 ceased as an ISP.",
       "from": "highway-1",
       "to": "zettagrid",
       "refs": [
@@ -5127,7 +5532,7 @@
       "arm_label": "ISP brand",
       "year": 2005,
       "date_disp": "Dec 2005",
-      "notes": "Cairns Net Services business linked to GetOnIt (shared Cairns phone (07) 4041 1617; later traded as part of the All Hours/AussieWide group). Claimed Dec 2005 date approximate.",
+      "notes": "Cairns Net Services business linked to GetOnIt (shared Cairns phone (07 4041 1617; later traded as part of the All Hours/AussieWide group. Claimed Dec 2005 date approximate.",
       "from": "cairns-network-services",
       "to": "getonit",
       "refs": [
@@ -5148,7 +5553,7 @@
       "arm_label": "100%",
       "year": 2008,
       "date_disp": "Mar 2008",
-      "notes": "GetOnIt taken over by All Hours Communications Group and amalgamated as AussieWide Internet (same Cairns address/phone); GETONIT PTY LTD's ABN was cancelled 31 Jan 2008.",
+      "notes": "GetOnIt taken over by All Hours Communications Group and amalgamated as AussieWide Internet (same Cairns address/phone; GETONIT PTY LTD's ABN was cancelled 31 Jan 2008.",
       "from": "getonit",
       "to": "all-hours-communications",
       "refs": [
@@ -5185,7 +5590,7 @@
       "arm_label": "customer base",
       "year": 2007,
       "date_disp": "Aug 2007",
-      "notes": "Internet Tasmania (Intas) took over all TrumpNet customers.",
+      "notes": "Internet Tasmania (Intas took over all TrumpNet customers.",
       "from": "trumpnet",
       "to": "intas",
       "refs": [
@@ -5201,7 +5606,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "late Feb 2012",
-      "notes": "Intas absorbed by iiNet directly (user report; no public announcement).",
+      "notes": "Intas absorbed by iiNet directly (user report; no public announcement.",
       "from": "intas",
       "to": "iinet",
       "refs": [
@@ -5233,7 +5638,7 @@
       "arm_label": "100%",
       "year": 2003,
       "date_disp": "Oct 2003",
-      "notes": "Amcom acquired the Amnet group (Amnet Internet Services, IT Services, IX, Ezsoftwrite).",
+      "notes": "Amcom acquired the Amnet group (Amnet Internet Services, IT Services, IX, Ezsoftwrite.",
       "from": "amnet",
       "to": "amcom",
       "refs": [
@@ -5263,9 +5668,9 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2003,
-      "date_disp": "by 2003",
-      "notes": "Personal Broadband Australia (ex-CKW Wireless) was a subsidiary of Commander.",
+      "year": 2005,
+      "date_disp": "29 Jun 2005",
+      "notes": "Personal Broadband Australia (ex-CKW Wireless was a subsidiary of Commander.",
       "from": "pbba",
       "to": "commander",
       "refs": [
@@ -5281,7 +5686,7 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "Jul 2001",
-      "notes": "Vivanet delisted; taken over by Datafast Telecommunications (later EFTel).",
+      "notes": "Vivanet delisted; taken over by Datafast Telecommunications (later EFTel.",
       "from": "vivanet",
       "to": "eftel",
       "refs": [
@@ -5297,7 +5702,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "Feb 1999",
-      "notes": "Davnet (DavTel) acquired ISP Magna Data.",
+      "notes": "Davnet (DavTel acquired ISP Magna Data.",
       "from": "magnadata",
       "to": "davnet",
       "refs": [
@@ -5313,7 +5718,7 @@
       "arm_label": "100%",
       "year": 2002,
       "date_disp": "2001-02",
-      "notes": "DavTel to NTT Australia (49% Dec 1999, remaining 51% completed ~Feb 2002).",
+      "notes": "DavTel to NTT Australia (49% Dec 1999, remaining 51% completed ~Feb 2002.",
       "from": "davnet",
       "to": "ntt-australia",
       "refs": [
@@ -5329,7 +5734,7 @@
       "arm_label": "brand",
       "year": 2009,
       "date_disp": "2009",
-      "notes": "vividwireless launched as retail brand on Unwired's 4G network (Seven Group).",
+      "notes": "vividwireless launched as retail brand on Unwired's 4G network (Seven Group.",
       "from": "unwired",
       "to": "vividwireless",
       "refs": [
@@ -5345,7 +5750,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "2012",
-      "notes": "Optus acquired vividwireless from Seven Group (A$230M).",
+      "notes": "Optus acquired vividwireless from Seven Group (A$230M.",
       "from": "vividwireless",
       "to": "optus",
       "refs": [
@@ -5377,7 +5782,7 @@
       "arm_label": "consumer ISP brand",
       "year": 1999,
       "date_disp": "1999",
-      "notes": "Primus Telecom launched the iPrimus consumer brand (1999) while retaining the Primus brand for business.",
+      "notes": "Primus Telecom launched the iPrimus consumer brand (1999 while retaining the Primus brand for business.",
       "from": "primus-telecom-australia",
       "to": "iprimus",
       "refs": [
@@ -5409,7 +5814,7 @@
       "arm_label": "100%",
       "year": 2007,
       "date_disp": "May 2007",
-      "notes": "PowerTel absorbed into AAPT (Telecom NZ), A$357m incl. debt.",
+      "notes": "PowerTel absorbed into AAPT (Telecom NZ, A$357m incl. debt.",
       "from": "powertel",
       "to": "aapt",
       "refs": [
@@ -5424,8 +5829,8 @@
       "type": "acquisition",
       "arm_label": "division",
       "year": 2002,
-      "date_disp": "by 2002",
-      "notes": "E-Wire operated as the residential-estate communications division of Broadcast Engineering Services (Australia) Pty Ltd.",
+      "date_disp": "by Jul 2002",
+      "notes": "E-Wire operated as the residential-estate communications division of Broadcast Engineering Services (Australia Pty Ltd.",
       "from": "e-wire",
       "to": "bes",
       "refs": [
@@ -5438,6 +5843,11 @@
           "kind": "official",
           "url": "https://www.accc.gov.au/system/files/OptiComm%20submission%20-%2023%20March%202012.pdf",
           "label": "ACCC: OptiComm submission listing Service Elements/Fuze/eWire/BES group"
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/24895",
+          "label": "Post by e-wire's own sales & marketing manager, 17 Jul 2002."
         }
       ]
     },
@@ -5445,8 +5855,8 @@
       "type": "split",
       "arm_label": "Ellenbrook HFC cable customers",
       "year": 2002,
-      "date_disp": "Apr 2002",
-      "notes": "iiNet sold its Ellenbrook (WA) HFC cable customers to Broadcast Engineering Services (BES)/Cable Engineering Services; service continued under the e-wire brand. iiNet had provided services over the BES-built cable under an earlier joint venture.",
+      "date_disp": "c. Jul 2002",
+      "notes": "iiNet sold its Ellenbrook (WA HFC cable customers to Broadcast Engineering Services (BES/Cable Engineering Services; service continued under the e-wire brand. iiNet had provided services over the BES-built cable under an earlier joint venture.",
       "from": "iinet",
       "to": "e-wire",
       "refs": [
@@ -5459,6 +5869,16 @@
           "kind": "archive",
           "url": "https://forums.whirlpool.net.au/archive/1120918",
           "label": "Whirlpool: 'Recommend any ISP for dsl in Ellenbrook' - iiNet withdrew, e-wire took over"
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/24895",
+          "label": "July 2002: e-wire running the Dalyellup (Bunbury) cable service on iiNet's infrastructure."
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/49791",
+          "label": "e-wire's manager confirming the handover of iiNet's Dalyellup services."
         }
       ]
     },
@@ -5466,8 +5886,8 @@
       "type": "split",
       "arm_label": "Dalyellup HFC cable network",
       "year": 2002,
-      "date_disp": "c. 2002",
-      "notes": "e-wire (BES) took over the Dalyellup (Bunbury, WA) cable service from iiNet; e-wire continued using iiNet's Dalyellup infrastructure while it upgraded the head-end.",
+      "date_disp": "c. Jul 2002",
+      "notes": "e-wire (BES took over the Dalyellup (Bunbury, WA cable service from iiNet; e-wire continued using iiNet's Dalyellup infrastructure while it upgraded the head-end.",
       "from": "iinet",
       "to": "e-wire",
       "refs": [
@@ -5488,7 +5908,7 @@
       "arm_label": "WA estate networks",
       "year": 2011,
       "date_disp": "Nov 2011",
-      "notes": "OptiComm acquired the rights to operate former E-Wire HFC/FTTH networks (e.g. Brighton estate) and upgraded the cable network to DOCSIS 3.0.",
+      "notes": "OptiComm acquired the rights to operate former E-Wire HFC/FTTH networks (e.g. Brighton estate and upgraded the cable network to DOCSIS 3.0.",
       "from": "e-wire",
       "to": "opticomm",
       "refs": [
@@ -5504,7 +5924,7 @@
       "arm_label": "100%",
       "year": 2019,
       "date_disp": "Aug 2019",
-      "notes": "Uniti acquired LBNCo (The Local Broadband Network Company), Australia's first FTTH operator, for $100m.",
+      "notes": "Uniti acquired LBNCo (The Local Broadband Network Company, Australia's first FTTH operator, for $100m.",
       "from": "lbnet",
       "to": "uniti-wireless",
       "refs": [
@@ -5536,7 +5956,7 @@
       "arm_label": "founded by Optus",
       "year": 1999,
       "date_disp": "1999",
-      "notes": "Optus established Dingo Blue as a wholly-owned subsidiary web-based telco/ISP retailer; sold to AGL (Dec 2000), wound up May 2002.",
+      "notes": "Optus established Dingo Blue as a wholly-owned subsidiary web-based telco/ISP retailer; sold to AGL (Dec 2000, wound up May 2002.",
       "from": "optus",
       "to": "dingo-blue",
       "refs": [
@@ -5552,7 +5972,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "Jul 2012",
-      "notes": "EFTel acquired West Australian Networks (trading as 'Westnet' on westnet.net.au); ~1,500 customers transferred from 2 Jul 2012, incl. the westnet.net.au domain.",
+      "notes": "EFTel acquired West Australian Networks (trading as 'Westnet' on westnet.net.au; ~1,500 customers transferred from 2 Jul 2012, incl. the westnet.net.au domain.",
       "from": "west-australian-networks",
       "to": "eftel",
       "refs": [
@@ -5568,7 +5988,7 @@
       "arm_label": "100%",
       "year": 2011,
       "date_disp": "Sep 2011",
-      "notes": "iiNet acquired Melbourne residential ISP Supernerd (early Sep 2011); ~4,000 customers migrated.",
+      "notes": "iiNet acquired Melbourne residential ISP Supernerd (early Sep 2011; ~4,000 customers migrated.",
       "from": "supernerd",
       "to": "iinet",
       "refs": [
@@ -5584,7 +6004,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Dec 2004",
-      "notes": "Comdek acquired Hobart satellite broadband ISP eSat Communications (agreement Sep 2004) for 5.3M shares + 6.7M convertible notes, gaining eSat's HiBIS regional accreditation.",
+      "notes": "Comdek acquired Hobart satellite broadband ISP eSat Communications (agreement Sep 2004 for 5.3M shares + 6.7M convertible notes, gaining eSat's HiBIS regional accreditation.",
       "from": "esat",
       "to": "comdek",
       "refs": [
@@ -5600,7 +6020,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "Aug 2012",
-      "notes": "EFTel acquired Sydney small-business voice/ISP provider Visage Telecom (announced 6 Aug 2012) for $450k.",
+      "notes": "EFTel acquired Sydney small-business voice/ISP provider Visage Telecom (announced 6 Aug 2012 for $450k.",
       "from": "visage-telecom",
       "to": "eftel",
       "refs": [
@@ -5616,7 +6036,7 @@
       "arm_label": "100%",
       "year": 2011,
       "date_disp": "Aug 2011",
-      "notes": "EFTel acquired wholesale aggregator Platform Networks (Aug 2011); brought 80 wholesale customers.",
+      "notes": "EFTel acquired wholesale aggregator Platform Networks (Aug 2011; brought 80 wholesale customers.",
       "from": "platform-networks",
       "to": "eftel",
       "refs": [
@@ -5632,7 +6052,7 @@
       "arm_label": "100%",
       "year": 2012,
       "date_disp": "Sep 2012",
-      "notes": "EFTel acquired Engin from Seven Group (24 Sep 2012, A$9.1m); 85,000 VoIP services.",
+      "notes": "EFTel acquired Engin from Seven Group (24 Sep 2012, A$9.1m; 85,000 VoIP services.",
       "from": "engin",
       "to": "eftel",
       "refs": [
@@ -5648,7 +6068,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Jan 2004",
-      "notes": "Neighbourhood Cable bought Geelong ISP Swift Internet (Jan 2004).",
+      "notes": "Neighbourhood Cable bought Geelong ISP Swift Internet (Jan 2004.",
       "from": "swift-internet",
       "to": "neighbourhood-cable",
       "refs": [
@@ -5664,7 +6084,7 @@
       "arm_label": "100%",
       "year": 2005,
       "date_disp": "Jul 2005",
-      "notes": "Clever Communications (then Access Providers) bought business internet provider Online 2000 (Jul 2005).",
+      "notes": "Clever Communications (then Access Providers bought business internet provider Online 2000 (Jul 2005.",
       "from": "online-2000",
       "to": "clever-communications",
       "refs": [
@@ -5680,7 +6100,7 @@
       "arm_label": "customer base",
       "year": 2010,
       "date_disp": "Apr 2010",
-      "notes": "Apr 2010: TSN (Port Macquarie) churned its non-NSW customers to Comcen; TSN kept its NSW base. (Partial churn only \u2014 not a full sale.)",
+      "notes": "Apr 2010: TSN (Port Macquarie churned its non-NSW customers to Comcen; TSN kept its NSW base. (Partial churn only \u2014 not a full sale.",
       "from": "tsn-communications",
       "to": "com-cen",
       "refs": [
@@ -5701,7 +6121,7 @@
       "arm_label": "DSL customers",
       "year": 2004,
       "date_disp": "Dec 2004",
-      "notes": "Destra, via subsidiary Techex Communications, acquired Veritel's DSL customers (Dec 2004).",
+      "notes": "Destra, via subsidiary Techex Communications, acquired Veritel's DSL customers (Dec 2004.",
       "from": "veritel",
       "to": "techex",
       "refs": [
@@ -5717,7 +6137,7 @@
       "arm_label": "100%",
       "year": 2019,
       "date_disp": "May 2019",
-      "notes": "Spirit Telecom acquired Building Connect for $300k, gaining a Western Sydney fixed-wireless network across 31 buildings/business parks (~200 business customers).",
+      "notes": "Spirit Telecom acquired Building Connect for $300k, gaining a Western Sydney fixed-wireless network across 31 buildings/business parks (~200 business customers.",
       "from": "building-connect",
       "to": "spirit-telecom",
       "refs": [
@@ -5733,7 +6153,7 @@
       "arm_label": "100%",
       "year": 2021,
       "date_disp": "21 Dec 2021",
-      "notes": "Field Solutions Group acquired TasmaNet (announced 29 Oct 2021; ~$13M upfront, up to $15M with earn-out).",
+      "notes": "Field Solutions Group acquired TasmaNet (announced 29 Oct 2021; ~$13M upfront, up to $15M with earn-out.",
       "from": "tasmanet",
       "to": "field-solutions-group",
       "refs": [
@@ -5749,7 +6169,7 @@
       "arm_label": "100% (from receivers)",
       "year": 2025,
       "date_disp": "May 2025",
-      "notes": "Comms Group signed a $10m deal (16 May 2025) to acquire TasmaNet from the receivers of collapsed Field Solutions Holdings; 30 FSG employees plus TasmaNet's fixed-wireless network, Hobart CBD fibre and cloud/data centres.",
+      "notes": "Comms Group signed a $10m deal (16 May 2025 to acquire TasmaNet from the receivers of collapsed Field Solutions Holdings; 30 FSG employees plus TasmaNet's fixed-wireless network, Hobart CBD fibre and cloud/data centres.",
       "from": "tasmanet",
       "to": "comms-group",
       "refs": [
@@ -5764,8 +6184,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "notes": "Northern Rivers Gateway (NRG, later NRG Internet) joined the Nornet/Linear G group (Nornet's site says Modulux had NRG under its umbrella since 2001); the NRG Internet brand kept trading until nrg.com.au redirected to nor.com.au (Jan 2009), reaching linearg.com with Nornet's Dec 2014 fold.",
+      "date_disp": "since 2001",
+      "notes": "Northern Rivers Gateway (NRG, later NRG Internet joined the Nornet/Linear G group (Nornet's site says Modulux had NRG under its umbrella since 2001; the NRG Internet brand kept trading until nrg.com.au redirected to nor.com.au (Jan 2009, reaching linearg.com with Nornet's Dec 2014 fold.",
       "from": "northern-rivers-gateway",
       "to": "linear-g",
       "refs": [
@@ -5786,7 +6206,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "1999",
-      "notes": "Nornet sold during 1999 by Norsearch Ltd (wholly owned by Southern Cross University) to a Lismore consortium that ran the Linear G group (later incorporated as Modulux Pty Ltd); Nornet kept its own brand until nor.com.au was folded into linearg.com (Dec 2014).",
+      "notes": "Nornet sold during 1999 by Norsearch Ltd (wholly owned by Southern Cross University to a Lismore consortium that ran the Linear G group (later incorporated as Modulux Pty Ltd; Nornet kept its own brand until nor.com.au was folded into linearg.com (Dec 2014.",
       "from": "nornet",
       "to": "linear-g",
       "refs": [
@@ -5806,8 +6226,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "notes": "Big River Internet (Grafton) joined the Nornet/Linear G group (Nornet's site says Modulux had BRI under its umbrella since 2001); kept trading under its own brand until bri.net.au was folded into linearg.com (Dec 2018).",
+      "date_disp": "since 2001",
+      "notes": "Big River Internet (Grafton joined the Nornet/Linear G group (Nornet's site says Modulux had BRI under its umbrella since 2001; kept trading under its own brand until bri.net.au was folded into linearg.com (Dec 2018.",
       "from": "big-river-internet",
       "to": "linear-g",
       "refs": [
@@ -5827,8 +6247,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "notes": "OMCS (Gold Coast) joined the Nornet/Linear G group (Nornet's site says Modulux had OMCS under its umbrella since 2001); kept trading until omcs.com.au redirected to nor.com.au (c. 2009), reaching linearg.com with Nornet's Dec 2014 fold.",
+      "date_disp": "since 2001",
+      "notes": "OMCS (Gold Coast joined the Nornet/Linear G group (Nornet's site says Modulux had OMCS under its umbrella since 2001; kept trading until omcs.com.au redirected to nor.com.au (c. 2009, reaching linearg.com with Nornet's Dec 2014 fold.",
       "from": "omcs",
       "to": "linear-g",
       "refs": [
@@ -5849,7 +6269,7 @@
       "arm_label": "100% (brand)",
       "year": 2015,
       "date_disp": "Mar 2015",
-      "notes": "Barefoot Telecom name/brand taken over by MATE Communicate (formerly Orofino); barefoottelecom.com.au now redirects to MATE.",
+      "notes": "Barefoot Telecom name/brand taken over by MATE Communicate (formerly Orofino; barefoottelecom.com.au now redirects to MATE.",
       "from": "barefoot-telecom",
       "to": "mate-communicate",
       "refs": [
@@ -5865,7 +6285,7 @@
       "arm_label": "Christmas Island service",
       "year": 2017,
       "date_disp": "Mar 2017",
-      "notes": "Speedcast took over running Christmas Island's wireless/4G internet after CIIA ceased services on 1 Mar 2017 (interim Australian Government agreement), operating until Oct 2021.",
+      "notes": "Speedcast took over running Christmas Island's wireless/4G internet after CIIA ceased services on 1 Mar 2017 (interim Australian Government agreement, operating until Oct 2021.",
       "from": "cia",
       "to": "speedcast",
       "refs": [
@@ -5881,7 +6301,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Feb 2004",
-      "notes": "Datafast Telecommunications Ltd (later EFTel) announced agreement to acquire NSW ISP Planet Netcom (15,000 accounts) 17 Feb 2004; finalised end Mar 2004.",
+      "notes": "Datafast Telecommunications Ltd (later EFTel announced agreement to acquire NSW ISP Planet Netcom (15,000 accounts 17 Feb 2004; finalised end Mar 2004.",
       "from": "planet-netcomm",
       "to": "eftel",
       "refs": [
@@ -5898,7 +6318,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "8 Oct 2004",
-      "notes": "Malleenet ISP / Malleenet Internet business names transferred to Connect West Pty Ltd ACN 073 156 779; by Dec 2006 domain served iiNet homepage (iiNet absorption).",
+      "notes": "Malleenet ISP / Malleenet Internet business names transferred to Connect West Pty Ltd ACN 073 156 779; by Dec 2006 domain served iiNet homepage (iiNet absorption.",
       "from": "malleenet",
       "to": "iinet",
       "refs": [
@@ -5915,7 +6335,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "Oct 2000",
-      "notes": "Austar (AUB) acquired certain assets of eisa Limited in Oct 2000 (SEC 20-F); the metro eisa assets became AustarMetro ('formerly EISA'). The regional AUSTARnet brand continued alongside (9,328 customers at Dec 2010 per ACCC) and was NOT absorbed by AustarMetro in 2000.",
+      "notes": "Austar (AUB acquired certain assets of eisa Limited in Oct 2000 (SEC 20-F; the metro eisa assets became AustarMetro ('formerly EISA'. The regional AUSTARnet brand continued alongside (9,328 customers at Dec 2010 per ACCC and was NOT absorbed by AustarMetro in 2000.",
       "from": "eisa-limited",
       "to": "austarmetro",
       "refs": [
@@ -5951,7 +6371,7 @@
       "arm_label": "100%",
       "year": 1999,
       "date_disp": "16 Aug 1999",
-      "notes": "AAPT acquired AT&T EasyLink Services Australia (B2B e-commerce/EDI); rebranded AAPT@commerce, integrated with connect.com.au.",
+      "notes": "AAPT acquired AT&T EasyLink Services Australia (B2B e-commerce/EDI; rebranded AAPT@commerce, integrated with connect.com.au.",
       "from": "att-easylink",
       "to": "aapt",
       "refs": [
@@ -5972,7 +6392,7 @@
       "arm_label": "100%",
       "year": 2000,
       "date_disp": "May 2000",
-      "notes": "Austar United Communications acquired Ultranet (~5,000 subscribers); customers migrated to austarnet.",
+      "notes": "Austar United Communications acquired Ultranet (~5,000 subscribers; customers migrated to austarnet.",
       "from": "ultranet",
       "to": "austarnet",
       "refs": [
@@ -5988,7 +6408,7 @@
       "arm_label": "Soul arm",
       "year": 2008,
       "date_disp": "Feb 2008",
-      "notes": "TPG and Soul announced merger (Feb 2008); SOUL brand absorbed into TPG group.",
+      "notes": "TPG and Soul announced merger (Feb 2008; SOUL brand absorbed into TPG group.",
       "from": "soul",
       "to": "tpg-internet",
       "refs": [
@@ -6004,7 +6424,7 @@
       "arm_label": "assets & business",
       "year": 2004,
       "date_disp": "1 Dec 2004",
-      "notes": "SP Telemedia (SPTCom Pty Ltd) acquired Comindico assets from receivers McGrathNicol for $27.5M; renamed SOULCom; SP Telemedia rebranded as SOUL.",
+      "notes": "SP Telemedia (SPTCom Pty Ltd acquired Comindico assets from receivers McGrathNicol for $27.5M; renamed SOULCom; SP Telemedia rebranded as SOUL.",
       "from": "comindico",
       "to": "soul",
       "refs": [
@@ -6025,7 +6445,7 @@
       "arm_label": "100%",
       "year": 2005,
       "date_disp": "21 Apr 2005",
-      "notes": "Kooee Communications Pty Ltd (100%) transferred to B Digital under SPT Strategic Alliance; Kooee was already part of the SPT/Soul group.",
+      "notes": "Kooee Communications Pty Ltd (100% transferred to B Digital under SPT Strategic Alliance; Kooee was already part of the SPT/Soul group.",
       "from": "kooee",
       "to": "soul",
       "refs": [
@@ -6057,7 +6477,7 @@
       "arm_label": "AOL|7 JV sold; AOL brand licensed to Primus",
       "year": 2004,
       "date_disp": "Feb 2004",
-      "notes": "AOL, Seven Network and AAPT sold the three-way AOL|7 joint venture to Primus Telecommunications for just over $23m; Primus took an exclusive licence to operate the AOL-branded ISP in Australia (~90,000 subscribers transferred per Summit Internet history). AAPT received $7.5m for its one-third stake and took sole management of ~48,000 smartchat dial-up/broadband customers back in-house; Seven received more than $23m cash including its i7 investment. AOL|7 was formed Oct 2001 from equal thirds of AOL, Seven (merging its i7 portal) and AAPT, which had itself become AOL's 50/50 JV partner in Mar 2000 after taking over Bertelsmann's stake.",
+      "notes": "AOL, Seven Network and AAPT sold the three-way AOL|7 joint venture to Primus Telecommunications for just over $23m; Primus took an exclusive licence to operate the AOL-branded ISP in Australia (~90,000 subscribers transferred per Summit Internet history. AAPT received $7.5m for its one-third stake and took sole management of ~48,000 smartchat dial-up/broadband customers back in-house; Seven received more than $23m cash including its i7 investment. AOL|7 was formed Oct 2001 from equal thirds of AOL, Seven (merging its i7 portal and AAPT, which had itself become AOL's 50/50 JV partner in Mar 2000 after taking over Bertelsmann's stake.",
       "from": "aol-australia",
       "to": "primus-telecom-australia",
       "refs": [
@@ -6083,7 +6503,7 @@
       "arm_label": "100%",
       "year": 2004,
       "date_disp": "Nov 2004",
-      "notes": "Datafast (later EFTel) acquired Bigfoot Internet's business and customer base.",
+      "notes": "Datafast (later EFTel acquired Bigfoot Internet's business and customer base.",
       "from": "bigfoot-internet",
       "to": "eftel",
       "refs": [
@@ -6097,9 +6517,9 @@
     {
       "type": "acquisition",
       "arm_label": "ISP division",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "notes": "Comswest ISP division sold to Westnet (iiNet group); Comswest parent continued as enterprise services.",
+      "year": 1999,
+      "date_disp": "by 17 Apr 1999",
+      "notes": "Comswest ISP division sold to Westnet (iiNet group; Comswest parent continued as enterprise services. page last updated 12 Apr 1999. site redirected to WestNet.",
       "from": "comswest",
       "to": "westnet",
       "refs": [
@@ -6107,6 +6527,26 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/iinet-acquires-westnet-for-81-million-170763",
           "label": "iTnews: iiNet acquires Westnet"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990417154056/http://www.comswest.net.au/",
+          "label": "Meta refresh (12s) to http://www.wn.com.au/ and logo link to wn.com.au. Comswest's own ISP site becomes a WestNet redirect by Apr 1999."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990129001521/http://www.comswest.net.au/",
+          "label": "Barely three months earlier the same domain was still Comswest International's own site; the 1300 786 068 number is WestNet's later support line."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000304192243/http://www.comswest.net.au/",
+          "label": "Confirms comswest.net.au fully served the WestNet site by Mar 2000."
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/3rvj77yr",
+          "label": "Long-time customer's account of the AGN -> Comswest -> Westnet absorption chain, no date given."
         }
       ]
     },
@@ -6125,7 +6565,7 @@
       "arm_label": "100%",
       "year": 2006,
       "date_disp": "c. mid-2006",
-      "notes": "AskAussie customer base transferred to Veridas Communications; Veridas itself collapsed Sep 2006 leaving customers to migrate to Wild IT and others.",
+      "notes": "AskAussie customer base transferred to Veridas Communications; Veridas itself collapsed Sep 2006 leaving customers to migrate to Wild IT and others. announced to customers by early Jul 2006.",
       "from": "askaussie",
       "to": "veridas",
       "refs": [
@@ -6140,8 +6580,8 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2000,
-      "date_disp": "c. 1999-2000",
-      "notes": "Aurum Internet acquired by WestNet.",
+      "date_disp": "by 16 Aug 2000",
+      "notes": "Aurum Internet acquired by WestNet. aurum.net.au serving the WestNet site.",
       "from": "aurum-internet",
       "to": "westnet",
       "refs": [
@@ -6149,6 +6589,16 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/iinet-acquires-westnet-for-81-million-170763",
           "label": "iTnews: iiNet acquires Westnet"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000816051745/http://www.aurum.net.au/",
+          "label": "aurum.net.au is by Aug 2000 a mirror of WestNet's Geraldton/Perth site, with WestNet tips, webmail and 08 92182600 contact."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990423084944/http://www.aurum.net.au/",
+          "label": "On 23 Apr 1999 the domain was still Aurum Internet's own Kalgoorlie site. No capture exists between Apr 1999 and Aug 2000, so the transfer falls in that window."
         }
       ]
     },
@@ -6174,7 +6624,7 @@
       "to": "velocity-internet",
       "year": 2024,
       "date_disp": "by Jan 2024",
-      "notes": "NetSpeed brand retired into sibling brand Velocity Internet; both were trading names of the same legal entity, ByteCard Pty Ltd (ABN 49 052 315 812). Evidence is archaeological: between 22 Dec 2023 and 30 Jan 2024 netspeed.com.au became a webmail-only portal with retail navigation removed; CIS directory subsequently 404; velocity.net.au continued trading afterwards. No public announcement of a formal customer transfer was found.",
+      "notes": "NetSpeed brand retired into sibling brand Velocity Internet; both were trading names of the same legal entity, ByteCard Pty Ltd (ABN 49 052 315 812. Evidence is archaeological: between 22 Dec 2023 and 30 Jan 2024 netspeed.com.au became a webmail-only portal with retail navigation removed; CIS directory subsequently 404; velocity.net.au continued trading afterwards. No public announcement of a formal customer transfer was found.",
       "refs": [
         {
           "kind": "archive",
@@ -6198,8 +6648,8 @@
       "from": "goldweb-internet",
       "to": "velocity-internet",
       "year": 2006,
-      "date_disp": "Apr 2006",
-      "notes": "Velocity Internet acquired Goldweb Internet (announced via media release 10 Apr 2006, posted to Goldweb's site 10 Jun 2006). Goldweb's domain became Velocity's web portal; the Goldweb brand was retired. Four years later Velocity itself was acquired by NetSpeed (2010).",
+      "date_disp": "10 April 2006",
+      "notes": "Velocity Internet acquired Goldweb Internet (announced via media release 10 Apr 2006, posted to Goldweb's site 10 Jun 2006. Goldweb's domain became Velocity's web portal; the Goldweb brand was retired. Four years later Velocity itself was acquired by NetSpeed (2010.",
       "refs": [
         {
           "kind": "archive",
@@ -6210,6 +6660,11 @@
           "kind": "forum",
           "url": "https://forums.whirlpool.net.au/archive/2073114",
           "label": "Whirlpool: RIP the Australian midsize ISP"
+        },
+        {
+          "kind": "news-primary-media-release",
+          "url": "https://forums.whirlpool.net.au/archive/503980",
+          "label": "Full media release reproduced by Velocity MD on Whirlpool, with a firm date and handover date."
         }
       ]
     },
@@ -6218,7 +6673,7 @@
       "arm_label": "100%",
       "year": 2016,
       "date_disp": "Jul 2016",
-      "notes": "Amaysim entered the broadband market by acquiring AusBBS for $4m (announced 19 Jul 2016), gaining its AAPT wholesale relationship.",
+      "notes": "Amaysim entered the broadband market by acquiring AusBBS for $4m (announced 19 Jul 2016, gaining its AAPT wholesale relationship.",
       "from": "aubbs",
       "to": "amaysim",
       "refs": [
@@ -6250,7 +6705,7 @@
       "arm_label": "100%",
       "year": 2021,
       "date_disp": "2021",
-      "notes": "Optus acquired Amaysim for $250m (agreement 2 Nov 2020); Amaysim delisted 6 Apr 2021.",
+      "notes": "Optus acquired Amaysim for $250m (agreement 2 Nov 2020; Amaysim delisted 6 Apr 2021.",
       "from": "amaysim",
       "to": "optus",
       "refs": [
@@ -6267,7 +6722,7 @@
       "to": "imagineering",
       "year": 1997,
       "date_disp": "Feb 1997",
-      "notes": "Tangent Internet's ISP operations folded into Imagineering Technologies Pty Ltd, co-founded by Tangent's managing director Matthew Proctor upon his departure (Jan 1994 - Feb 1997). Same-founder continuation; no ACN evidence of legal-entity continuity between the two companies was found.",
+      "notes": "Tangent Internet's ISP operations folded into Imagineering Technologies Pty Ltd, co-founded by Tangent's managing director Matthew Proctor upon his departure (Jan 1994 - Feb 1997. Same-founder continuation; no ACN evidence of legal-entity continuity between the two companies was found.",
       "refs": [
         {
           "kind": "official",
@@ -6282,7 +6737,7 @@
       "to": "primus-telecom-australia",
       "year": 2008,
       "date_disp": "Sep 2008",
-      "notes": "Primus Telecommunications (Australia) acquired Imagineering's data centre/hosting business (press release 8 Sep 2008). The Imagineering Data Centre name continued as a Primus business name until Jan 2021. Chain continues: Primus Australia -> M2 Group (2012) -> Vocus (2016).",
+      "notes": "Primus Telecommunications (Australia acquired Imagineering's data centre/hosting business (press release 8 Sep 2008. The Imagineering Data Centre name continued as a Primus business name until Jan 2021. Chain continues: Primus Australia -> M2 Group (2012 -> Vocus (2016.",
       "refs": [
         {
           "kind": "news",
@@ -6302,7 +6757,7 @@
       "to": "aardvark-internet",
       "year": 2012,
       "date_disp": "late 2012",
-      "notes": "Aardvark Internet (Noro Communications) acquired the FunnelWeb Internet business in late 2012; announced 13 Jan 2013, mailbox changeover completed 17 Jan 2013. atrax.net.au addresses continue via Aardvark's legacy webmail.",
+      "notes": "Aardvark Internet (Noro Communications acquired the FunnelWeb Internet business in late 2012; announced 13 Jan 2013, mailbox changeover completed 17 Jan 2013. atrax.net.au addresses continue via Aardvark's legacy webmail.",
       "refs": [
         {
           "kind": "archive",
@@ -6317,7 +6772,7 @@
       "to": "aardvark-internet",
       "year": 2012,
       "date_disp": "late 2012",
-      "notes": "Aardvark Internet (Noro Communications) acquired the Aspire Internet business in late 2012; announced 13 Jan 2013, mailbox changeover completed 17 Jan 2013. aspire.com.au addresses continue via Aardvark's legacy webmail.",
+      "notes": "Aardvark Internet (Noro Communications acquired the Aspire Internet business in late 2012; announced 13 Jan 2013, mailbox changeover completed 17 Jan 2013. aspire.com.au addresses continue via Aardvark's legacy webmail.",
       "refs": [
         {
           "kind": "archive",
@@ -6332,7 +6787,7 @@
       "to": "servers-australia",
       "year": 2017,
       "date_disp": "Oct 2017",
-      "notes": "Servers Australia acquired the group's dedicated server and cloud hosting business - then trading as Axelera, formerly BitCloud, and rooted in Connect Infobahn Australia (cia.com.au, 1996; renamed Bucan Holdings Apr 2000; brands incl. Host1, Dialup1, Virtual1/2, Webcity, Enetica) - announced 18 Oct 2017.",
+      "notes": "Servers Australia acquired the group's dedicated server and cloud hosting business - then trading as Axelera, formerly BitCloud, and rooted in Connect Infobahn Australia (cia.com.au, 1996; renamed Bucan Holdings Apr 2000; brands incl. Host1, Dialup1, Virtual1/2, Webcity, Enetica - announced 18 Oct 2017.",
       "refs": [
         {
           "kind": "news",
@@ -6351,7 +6806,7 @@
       "arm_label": "100% \u2014 BNS customers folded into iiNet SA",
       "year": 1996,
       "date_disp": "1996",
-      "notes": "Byron Network Services (Adelaide, John Lindsay) wound down as an ISP; customers folded into iiNet SA (opened Jun 1996).",
+      "notes": "Byron Network Services (Adelaide, John Lindsay wound down as an ISP; customers folded into iiNet SA (opened Jun 1996.",
       "from": "byron-network-services",
       "to": "iinet",
       "refs": [
@@ -6367,7 +6822,7 @@
       "arm_label": "100% \u2014 iiNet SA sold to OurWorld Global Network",
       "year": 1997,
       "date_disp": "Apr 1997",
-      "notes": "iiNet SA (Adelaide/Gawler dialup) sold to OurWorld Global Network (Sydney) as the foundation of its planned national Internet aggregation service.",
+      "notes": "iiNet SA (Adelaide/Gawler dialup sold to OurWorld Global Network (Sydney as the foundation of its planned national Internet aggregation service.",
       "from": "iinet",
       "to": "ourworld-global-network",
       "refs": [
@@ -6388,7 +6843,7 @@
       "arm_label": "100% \u2014 OGN customer base bought from the liquidator",
       "year": 1998,
       "date_disp": "1998",
-      "notes": "OurWorld Global Network failed quietly in 1998 and was liquidated; Chariot (via GM John Lindsay, ex-OGN) bought the customer base from the liquidator.",
+      "notes": "OurWorld Global Network failed quietly in 1998 and was liquidated; Chariot (via GM John Lindsay, ex-OGN bought the customer base from the liquidator.",
       "from": "ourworld-global-network",
       "to": "chariot",
       "refs": [
@@ -6404,7 +6859,7 @@
       "arm_label": "100% \u2014 OGN's retail arm (Auslink Communications)",
       "year": 1997,
       "date_disp": "by 1997",
-      "notes": "Auslink Communications Pty Ltd (ACN 077 048 938) was OurWorld Global Network's retail flat-rate ISP arm (same GPO Box 4773 Sydney; GM Samantha Teh at OGN's phone); launched a national flat-rate service in May 1998 on OGN's satellite backbone, built on the iiNet SA base OGN bought Apr 1997.",
+      "notes": "Auslink Communications Pty Ltd (ACN 077 048 938 was OurWorld Global Network's retail flat-rate ISP arm (same GPO Box 4773 Sydney; GM Samantha Teh at OGN's phone; launched a national flat-rate service in May 1998 on OGN's satellite backbone, built on the iiNet SA base OGN bought Apr 1997.",
       "from": "ourworld-global-network",
       "to": "auslink",
       "refs": [
@@ -6421,7 +6876,7 @@
       "to": "chariot",
       "year": 2004,
       "date_disp": "1 Apr 2004",
-      "notes": "Acquired by Chariot on 1 Apr 2004 (2004 Annual Report Note 35); announced publicly 11 May 2004 (SMH).",
+      "notes": "Acquired by Chariot on 1 Apr 2004 (2004 Annual Report Note 35; announced publicly 11 May 2004 (SMH.",
       "refs": [
         {
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
@@ -6435,7 +6890,7 @@
       "to": "chariot",
       "year": 2003,
       "date_disp": "1 Aug 2003",
-      "notes": "Acquired by Chariot as 'Bluepin' on 1 Aug 2003 (2004 Annual Report Note 35). = Northnet, Armidale NSW.",
+      "notes": "Acquired by Chariot as 'Bluepin' on 1 Aug 2003 (2004 Annual Report Note 35. = Northnet, Armidale NSW.",
       "refs": [
         {
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
@@ -6448,8 +6903,8 @@
       "from": "qld-net",
       "to": "chariot",
       "year": 2005,
-      "date_disp": "by Mar 2005 (FY2004-05)",
-      "notes": "BY-DATE: qldnet.com.au rebranded as Chariot's QLD 'netconnect' portal by 25 Mar 2005. Not in FY2003-04 acquisitions list (2004 Annual Report) -> FY2004-05. Exact deal date not publicly announced.",
+      "date_disp": "by Mar 2005",
+      "notes": "BY-DATE: qldnet.com.au rebranded as Chariot's QLD 'netconnect' portal by 25 Mar 2005. Not in FY2003-04 acquisitions list (2004 Annual Report -> FY2004-05. Exact deal date not publicly announced.",
       "refs": [
         {
           "kind": "archive",
@@ -6468,8 +6923,8 @@
       "from": "technet-2000",
       "to": "chariot",
       "year": 2005,
-      "date_disp": "by Mar 2005 (FY2004-05)",
-      "notes": "BY-DATE: technet2000.com.au is a Chariot netconnect customer mail domain (25 Mar 2005 portal capture). Not in FY2003-04 acquisitions list (2004 Annual Report) -> FY2004-05. Exact deal date not publicly announced.",
+      "date_disp": "by Mar 2005",
+      "notes": "BY-DATE: technet2000.com.au is a Chariot netconnect customer mail domain (25 Mar 2005 portal capture. Not in FY2003-04 acquisitions list (2004 Annual Report -> FY2004-05. Exact deal date not publicly announced.",
       "refs": [
         {
           "kind": "archive",
@@ -6488,8 +6943,8 @@
       "from": "mackay-internet",
       "to": "chariot",
       "year": 2005,
-      "date_disp": "by Mar 2005 (FY2004-05)",
-      "notes": "BY-DATE: mackay.net.au is a Chariot netconnect customer mail domain in the QLD portal webmail dropdown (25 Mar 2005 capture). Not in Chariot's FY2003-04 acquisitions list (2004 Annual Report) -> FY2004-05. Exact announcement date not publicly released.",
+      "date_disp": "by Mar 2005",
+      "notes": "BY-DATE: mackay.net.au is a Chariot netconnect customer mail domain in the QLD portal webmail dropdown (25 Mar 2005 capture. Not in Chariot's FY2003-04 acquisitions list (2004 Annual Report -> FY2004-05. Exact announcement date not publicly released.",
       "refs": [
         {
           "kind": "archive",
@@ -6509,7 +6964,7 @@
       "to": "chariot",
       "year": 2003,
       "date_disp": "Mar 2003",
-      "notes": "eCITE Internet (inside the City of Adelaide) among four ISPs Chariot executed agreements to acquire, announced 12 Mar 2003 with Cyberwizards, Mr Bean (Mackay) and Better.Net (Murwillumbah).",
+      "notes": "eCITE Internet (inside the City of Adelaide among four ISPs Chariot executed agreements to acquire, announced 12 Mar 2003 with Cyberwizards, Mr Bean (Mackay and Better.Net (Murwillumbah.",
       "refs": [
         {
           "kind": "news",
@@ -6524,7 +6979,7 @@
       "to": "chariot",
       "year": 2003,
       "date_disp": "Mar 2003",
-      "notes": "Cyberwizards (Cairns and North Queensland market) among four ISPs acquired, announced 12 Mar 2003 (with Mr Bean, Better.Net, eCITE).",
+      "notes": "Cyberwizards (Cairns and North Queensland market among four ISPs acquired, announced 12 Mar 2003 (with Mr Bean, Better.Net, eCITE.",
       "refs": [
         {
           "kind": "news",
@@ -6539,7 +6994,7 @@
       "to": "chariot",
       "year": 2003,
       "date_disp": "1 Aug 2003",
-      "notes": "Brisbane-based Squirrel Net (Squirrel Internet) acquired by Chariot on 1 Aug 2003 - the 2004 Annual Report records this as 'Ozenetcom' (Note 35, $241k) while the directors' report calls it 'Squirrel Net (Brisbane, Queensland)': one deal, two names. Squirrel Internet and Ozenetcom were both operated by The It Farm Pty Ltd (ACN 100 815 414) from 1 Jul 2002. Announced publicly 8 Aug 2003 with Blue Pin Internet.",
+      "notes": "Brisbane-based Squirrel Net (Squirrel Internet acquired by Chariot on 1 Aug 2003 - the 2004 Annual Report records this as 'Ozenetcom' (Note 35, $241k while the directors' report calls it 'Squirrel Net (Brisbane, Queensland': one deal, two names. Squirrel Internet and Ozenetcom were both operated by The It Farm Pty Ltd (ACN 100 815 414 from 1 Jul 2002. Announced publicly 8 Aug 2003 with Blue Pin Internet.",
       "refs": [
         {
           "kind": "archive",
@@ -6564,7 +7019,7 @@
       "to": "chariot",
       "year": 2004,
       "date_disp": "1 Jan 2004",
-      "notes": "Acquired by Chariot on 1 Jan 2004 (2004 Annual Report Note 35).",
+      "notes": "Acquired by Chariot on 1 Jan 2004 (2004 Annual Report Note 35.",
       "refs": [
         {
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
@@ -6577,8 +7032,8 @@
       "from": "bunbury-internet-service",
       "to": "ciphertel",
       "year": 2008,
-      "date_disp": "by 4 Sep 2008 (address space transfer)",
-      "notes": "Bunbury Internet Service's /21 (203.18.248.0-203.18.255.255, the 1997 BUNBURYINT-AU block) is registered in APNIC whois to Ciphertel Pty Ltd (Bunbury), network object registered 4 Sep 2008. UNCERTAIN: whether this was an acquisition of Bunbury Internet Service's business by Ciphertel or a pivot/continuation of the same business under the Ciphertel name \u2014 the block transfer is the documented evidence, the customer-base relationship is inferred. 'Gateway Internet' (a separate repo entry) has no established link to this block.",
+      "date_disp": "by 4 Sep 2008",
+      "notes": "Bunbury Internet Service's /21 (203.18.248.0-203.18.255.255, the 1997 BUNBURYINT-AU block is registered in APNIC whois to Ciphertel Pty Ltd (Bunbury, network object registered 4 Sep 2008. UNCERTAIN: whether this was an acquisition of Bunbury Internet Service's business by Ciphertel or a pivot/continuation of the same business under the Ciphertel name \u2014 the block transfer is the documented evidence, the customer-base relationship is inferred. 'Gateway Internet' (a separate repo entry has no established link to this block. address space transfer.",
       "refs": [
         {
           "kind": "official",
@@ -6594,7 +7049,7 @@
       "arm_label": "100%",
       "year": 1996,
       "date_disp": "Mar 1996",
-      "notes": "Telstra bought Microsoft's 50% shareholding in the On Australia JV (Mar 1996), assuming 100% control of the entity's equity and of Internet access; the entity continued as the vehicle for the 'Telstra Big Pond' brand until its ABN was cancelled 6 Aug 2004.",
+      "notes": "Telstra bought Microsoft's 50% shareholding in the On Australia JV (Mar 1996, assuming 100% control of the entity's equity and of Internet access; the entity continued as the vehicle for the 'Telstra Big Pond' brand until its ABN was cancelled 6 Aug 2004.",
       "refs": [
         {
           "kind": "news",
@@ -6614,7 +7069,7 @@
       "to": "chariot",
       "year": 2004,
       "date_disp": "1 Jan 2004",
-      "notes": "One Earth Internet (Wollongong NSW) acquired by Chariot on 1 Jan 2004 (2004 Annual Report Note 35, ~500 customers), alongside Speedlink (same date).",
+      "notes": "One Earth Internet (Wollongong NSW acquired by Chariot on 1 Jan 2004 (2004 Annual Report Note 35, ~500 customers, alongside Speedlink (same date.",
       "refs": [
         {
           "kind": "archive",
@@ -6629,7 +7084,7 @@
       "to": "eftel",
       "year": 2000,
       "date_disp": "Jun 2000",
-      "notes": "Network Technology (Morwell/Gippsland, Phillip Britt's regional ISP, 10k customers) sold to Datafast Telecommunications Ltd (later EFTel) June 2000; Britt held 2.84% of Datafast (share register 14 Jul 2000).",
+      "notes": "Network Technology (Morwell/Gippsland, Phillip Britt's regional ISP, 10k customers sold to Datafast Telecommunications Ltd (later EFTel June 2000; Britt held 2.84% of Datafast (share register 14 Jul 2000.",
       "refs": [
         {
           "kind": "official",
@@ -6645,7 +7100,7 @@
       "arm_label": "100%",
       "year": 2001,
       "date_disp": "Sep 2001",
-      "notes": "Optus took control of the Excite@Home Australia venture in September 2001 (after Excite@Home's US parent collapsed), assuming 100% of the JV; the cable service continued under the Optus broadband umbrella.",
+      "notes": "Optus took control of the Excite@Home Australia venture in September 2001 (after Excite@Home's US parent collapsed, assuming 100% of the JV; the cable service continued under the Optus broadband umbrella.",
       "refs": [
         {
           "kind": "official",
@@ -6660,7 +7115,7 @@
       "to": "keypoint",
       "year": 2000,
       "date_disp": "c. mid-2000",
-      "notes": "Jade Communications Pty Ltd (ACN 071 725 856) folded into Labyrinth Connections Pty Ltd (ACN 069 211 678) - Labyrinth Connections Pty Ltd, which renamed to Key Point Pty Ltd (keypoint) c. 2002 ~mid-2000. Primary evidence: jade.net.au footer reverted from Jade's own company (Level 2, 77 Southbank Blvd, South Melbourne - as late as 4 Mar 2000) to 'C/o Labyrinth Connections Pty Ltd ACN 069 211 678, Level 10, 99 Queen St Melbourne 3000, info@labyrinth.net.au' (by 17 Sep 2000); jade.net.au served a Labyrinth-KeyPoint redirection page by 30 Oct 2003. Jade left no ABR record, consistent with deregistration at absorption.",
+      "notes": "Jade Communications Pty Ltd (ACN 071 725 856 folded into Labyrinth Connections Pty Ltd (ACN 069 211 678 - Labyrinth Connections Pty Ltd, which renamed to Key Point Pty Ltd (keypoint c. 2002 ~mid-2000. Primary evidence: jade.net.au footer reverted from Jade's own company (Level 2, 77 Southbank Blvd, South Melbourne - as late as 4 Mar 2000 to 'C/o Labyrinth Connections Pty Ltd ACN 069 211 678, Level 10, 99 Queen St Melbourne 3000, info@labyrinth.net.au' (by 17 Sep 2000; jade.net.au served a Labyrinth-KeyPoint redirection page by 30 Oct 2003. Jade left no ABR record, consistent with deregistration at absorption.",
       "refs": [
         {
           "kind": "archive",
@@ -6685,7 +7140,7 @@
       "to": "eisa-limited",
       "year": 2000,
       "date_disp": "c. 2000",
-      "notes": "Dynamite Internet (Dynamite Investments (ACT) Pty Ltd, Canberra, since 1991) acquired into Eisa Limited (Edge Internet Services Australia group). The 1997 IP index already linked Dynamite blocks to Edge's GPO Box 4658TT Melbourne (association by 1997); Eisa later registered 'EISA DYNAMITE' as a business name.",
+      "notes": "Dynamite Internet (Dynamite Investments (ACT Pty Ltd, Canberra, since 1991 acquired into Eisa Limited (Edge Internet Services Australia group. The 1997 IP index already linked Dynamite blocks to Edge's GPO Box 4658TT Melbourne (association by 1997; Eisa later registered 'EISA DYNAMITE' as a business name.",
       "refs": [
         {
           "kind": "official",
@@ -6705,7 +7160,7 @@
       "to": "eisa-limited",
       "year": 2000,
       "date_disp": "c. 2000",
-      "notes": "Topend.Com.Au (NT ISP, Katherine/Darwin) acquired into Eisa Limited (Edge Internet Services Australia group); Eisa registered 'EISA TOPEND' and 'TOPEND.COM.AU' business names.",
+      "notes": "Topend.Com.Au (NT ISP, Katherine/Darwin acquired into Eisa Limited (Edge Internet Services Australia group; Eisa registered 'EISA TOPEND' and 'TOPEND.COM.AU' business names.",
       "refs": [
         {
           "kind": "official",
@@ -6720,7 +7175,7 @@
       "to": "virtual-communities",
       "year": 2003,
       "date_disp": "c. 2003",
-      "notes": "AustarMetro customer base transferred to Virtual Communities (Melbourne) after Austar wound down its ISP brands; iiNet then bought the AustarMetro customer base from Virtual Communities in 2004 (see virtual-communities -> iinet). austarmetro.com.au had previously been eisametro.com.au and eisa.com.au.",
+      "notes": "AustarMetro customer base transferred to Virtual Communities (Melbourne after Austar wound down its ISP brands; iiNet then bought the AustarMetro customer base from Virtual Communities in 2004 (see virtual-communities -> iinet. austarmetro.com.au had previously been eisametro.com.au and eisa.com.au.",
       "refs": [
         {
           "kind": "archive",
@@ -6735,7 +7190,7 @@
       "to": "asia-online",
       "year": 2000,
       "date_disp": "22 Feb 2000",
-      "notes": "Asia Online Ltd via Asia Online-Australia Pty Ltd (ACN 089 444 691) acquired Fast Access Network Pty Ltd (ACN 070 043 131, Gold Coast QLD) \u2014 seventh Australian ISP acquisition, reported 16 Mar 2000; matches founder David Hughes Jan 2000 exit. Share sale agreement 22 Feb 2000 (A$2.34m + 208,600 Class C shares, Baker & McKenzie Sydney).",
+      "notes": "Asia Online Ltd via Asia Online-Australia Pty Ltd (ACN 089 444 691 acquired Fast Access Network Pty Ltd (ACN 070 043 131, Gold Coast QLD \u2014 seventh Australian ISP acquisition, reported 16 Mar 2000; matches founder David Hughes Jan 2000 exit. Share sale agreement 22 Feb 2000 (A$2.34m + 208,600 Class C shares, Baker & McKenzie Sydney.",
       "refs": [
         {
           "kind": "gov",
@@ -6764,7 +7219,7 @@
       "arm_label": "100%",
       "year": 2013,
       "date_disp": "9 Sep 2013",
-      "notes": "Conec2 Group acquired ispONE assets from Ferrier Hodgson (29 staff, 61,000 customers, DSL, iBOSS platform; debt excluded) via AsiaPAC Communications; Aldi Mobile continued, Kogan excluded.",
+      "notes": "Conec2 Group acquired ispONE assets from Ferrier Hodgson (29 staff, 61,000 customers, DSL, iBOSS platform; debt excluded via AsiaPAC Communications; Aldi Mobile continued, Kogan excluded.",
       "from": "ispone",
       "to": "conec2",
       "refs": [
@@ -6780,7 +7235,7 @@
       "arm_label": "iBoss/One Telecom arms",
       "year": 2014,
       "date_disp": "May 2014",
-      "notes": "iBoss + One Telecom (50,000 customers, ex-ispONE retail) sold to Vocus after Swindells/Adams court deadlock; Conec2 entered administration on the remaining debts.",
+      "notes": "iBoss + One Telecom (50,000 customers, ex-ispONE retail sold to Vocus after Swindells/Adams court deadlock; Conec2 entered administration on the remaining debts.",
       "from": "conec2",
       "to": "vocus",
       "refs": [
@@ -6797,7 +7252,7 @@
       "to": "eftel",
       "year": 2003,
       "date_disp": "late 2003",
-      "notes": "Datafast Telecommunications acquired Impaq in late 2003 (alongside KeyPoint and EZ Web); Datafast renamed EFTel Ltd Dec 2005.",
+      "notes": "Datafast Telecommunications acquired Impaq in late 2003 (alongside KeyPoint and EZ Web; Datafast renamed EFTel Ltd Dec 2005.",
       "refs": [
         {
           "kind": "wikipedia",
@@ -6817,7 +7272,7 @@
       "to": "eftel",
       "year": 2004,
       "date_disp": "Jun 2004",
-      "notes": "Datafast Telecommunications acquired Bunbury ISP OzzieNet (ozzienet) in Jun 2004; Datafast renamed EFTel Ltd Dec 2005.",
+      "notes": "Datafast Telecommunications acquired Bunbury ISP OzzieNet (ozzienet in Jun 2004; Datafast renamed EFTel Ltd Dec 2005.",
       "refs": [
         {
           "kind": "wikipedia",
@@ -6837,7 +7292,7 @@
       "to": "m2-group",
       "year": 2010,
       "date_disp": "1 May 2010",
-      "notes": "M2 Telecommunications acquired Clever Communications' SMB assets (off-net fixed/mobile/data/VPN contracts + dealers, ~$8m revenue) via People Telecom subsidiary; announced 15 Apr 2010, completed 1 May 2010, $5m (upfront+deferred). Remainder of Clever went to BigAir Jan 2011.",
+      "notes": "M2 Telecommunications acquired Clever Communications' SMB assets (off-net fixed/mobile/data/VPN contracts + dealers, ~$8m revenue via People Telecom subsidiary; announced 15 Apr 2010, completed 1 May 2010, $5m (upfront+deferred. Remainder of Clever went to BigAir Jan 2011.",
       "refs": [
         {
           "kind": "news",
@@ -6857,7 +7312,7 @@
       "to": "m2-group",
       "year": 2009,
       "date_disp": "Jun 2009",
-      "notes": "M2 Telecommunications acquired Commander Communications' SME/telco business under Asset Sale Deed 2 Jun 2009 (completed 15-16 Jun 2009): all SME contracts + OneStream data network + Commander/OneStream/Australia Star/Call Australia/Newtel brands + Unitel wholesale (bought Feb 2008); $19m ex-inventory.",
+      "notes": "M2 Telecommunications acquired Commander Communications' SME/telco business under Asset Sale Deed 2 Jun 2009 (completed 15-16 Jun 2009: all SME contracts + OneStream data network + Commander/OneStream/Australia Star/Call Australia/Newtel brands + Unitel wholesale (bought Feb 2008; $19m ex-inventory.",
       "refs": [
         {
           "kind": "official",
@@ -6877,7 +7332,7 @@
       "to": "commander",
       "year": 2003,
       "date_disp": "Mar 2003",
-      "notes": "Commander Communications acquired RSL COM Australia, announced 25 Mar 2003 ($59.9m cash).",
+      "notes": "Commander Communications acquired RSL COM Australia, announced 25 Mar 2003 ($59.9m cash.",
       "refs": [
         {
           "kind": "official",
@@ -6892,7 +7347,7 @@
       "to": "primus-telecom-australia",
       "year": 1998,
       "date_disp": "Apr 1998",
-      "notes": "Primus Telecommunications Group acquired Eclipse Telecommunications (announced 6 Apr 1998, ~$2.5m); became Primus data division.",
+      "notes": "Primus Telecommunications Group acquired Eclipse Telecommunications (announced 6 Apr 1998, ~$2.5m; became Primus data division.",
       "refs": [
         {
           "kind": "news",
@@ -6905,14 +7360,29 @@
       "type": "acquisition",
       "from": "new-tel",
       "to": "rslcom",
-      "year": 2002,
-      "date_disp": "late 2002",
-      "notes": "New Tel customer base to RSL COM late 2002 (administration 10 Dec 2002, PWC; liquidation Feb-Mar 2003).",
+      "year": 2003,
+      "date_disp": "early Mar 2003",
+      "notes": "New Tel customer base to RSL COM late 2002 (administration 10 Dec 2002, PWC; liquidation Feb-Mar 2003. New Tel in administration 10 Dec 2002. fixed-line customer base to RSL COM.",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.austlii.edu.au/au/cases/nsw/NSWSC/2003/128.html",
           "label": "AustLII NSWSC 2003/128 (Carter v New Tel)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.theage.com.au/national/commander-rings-the-changes-for-rsl-com-20030325-gdvfjv.html",
+          "label": "Dated 25 Mar 2003; 'earlier this month' places the customer-base transfer in early Mar 2003."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/national/new-tel-in-administration-20021211-gdfy4d.html",
+          "label": "Published 11 Dec 2002: administration occurred Tue 10 Dec 2002, the event that set up the later asset transfer."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/business/new-tel-rescue-to-cost-staff-20021121-gdfugk.html",
+          "label": "Nov 2002 outsourcing plan, the origin of the RSL COM relationship."
         }
       ]
     },
@@ -6922,7 +7392,7 @@
       "to": "commander",
       "year": 2004,
       "date_disp": "Feb 2004",
-      "notes": "Commander Communications acquired the Panaseer business (Jtec Pty Limited) from listed Panaseer Ltd (conditionally exchanged Jan 2004, completed ~16 Feb 2004).",
+      "notes": "Commander Communications acquired the Panaseer business (Jtec Pty Limited from listed Panaseer Ltd (conditionally exchanged Jan 2004, completed ~16 Feb 2004.",
       "refs": [
         {
           "kind": "news",
@@ -6937,7 +7407,7 @@
       "to": "eftel",
       "year": 2004,
       "date_disp": "Nov 2004",
-      "notes": "Datafast Telecommunications acquired Affinity Internet (9 Nov 2004, 12,000 Melbourne accounts); Datafast renamed EFTel Ltd Dec 2005.",
+      "notes": "Datafast Telecommunications acquired Affinity Internet (9 Nov 2004, 12,000 Melbourne accounts; Datafast renamed EFTel Ltd Dec 2005.",
       "refs": [
         {
           "kind": "news",
@@ -6967,7 +7437,7 @@
       "to": "m2-group",
       "year": 2007,
       "date_disp": "Oct 2007",
-      "notes": "M2 Group merged with Orion Telecommunications via scheme (approved Sep 2007, completed Oct 2007).",
+      "notes": "M2 Group merged with Orion Telecommunications via scheme (approved Sep 2007, completed Oct 2007.",
       "refs": [
         {
           "kind": "official",
@@ -6982,7 +7452,7 @@
       "to": "m2-group",
       "year": 2007,
       "date_disp": "Oct 2007",
-      "notes": "Southern Cross Telco came to M2 automatically via the Orion scheme (Orion's largest subsidiary since 2004), not a separate acquisition.",
+      "notes": "Southern Cross Telco came to M2 automatically via the Orion scheme (Orion's largest subsidiary since 2004, not a separate acquisition.",
       "refs": [
         {
           "kind": "wikipedia",
@@ -7012,7 +7482,7 @@
       "to": "m2-group",
       "year": 2008,
       "date_disp": "Feb 2008",
-      "notes": "M2 Telecommunications acquired Unitel Australia (announced 4 Feb 2008, completed 22 Feb 2008; $10m + up to $2.5m earnout).",
+      "notes": "M2 Telecommunications acquired Unitel Australia (announced 4 Feb 2008, completed 22 Feb 2008; $10m + up to $2.5m earnout.",
       "refs": [
         {
           "kind": "official",
@@ -7027,7 +7497,7 @@
       "to": "vocus",
       "year": 2014,
       "date_disp": "May 2014",
-      "notes": "Vocus Communications bought the businesses+customers 6-7 May 2014 (~$147k, ~50k customers), joint deal with iBOSS and One Telecom.",
+      "notes": "Vocus Communications bought the businesses+customers 6-7 May 2014 (~$147k, ~50k customers, joint deal with iBOSS and One Telecom.",
       "refs": [
         {
           "kind": "news",
@@ -7042,7 +7512,7 @@
       "to": "vocus",
       "year": 2014,
       "date_disp": "May 2014",
-      "notes": "Joint acquisition with AsiaPAC Communications and One Telecom by Vocus, 6-7 May 2014 (see AsiaPAC).",
+      "notes": "Joint acquisition with AsiaPAC Communications and One Telecom by Vocus, 6-7 May 2014 (see AsiaPAC.",
       "refs": [
         {
           "kind": "news",
@@ -7057,7 +7527,7 @@
       "to": "vocus",
       "year": 2014,
       "date_disp": "May 2014",
-      "notes": "Joint acquisition with AsiaPAC Communications and iBOSS International by Vocus, 6-7 May 2014 (see AsiaPAC). Not One.Tel.",
+      "notes": "Joint acquisition with AsiaPAC Communications and iBOSS International by Vocus, 6-7 May 2014 (see AsiaPAC. Not One.Tel.",
       "refs": [
         {
           "kind": "news",
@@ -7072,7 +7542,7 @@
       "to": "m2-group",
       "year": 2005,
       "date_disp": "Feb 2005",
-      "notes": "M2 Telecommunications acquired Protel Communications International in Feb 2005 (M2's first major acquisition).",
+      "notes": "M2 Telecommunications acquired Protel Communications International in Feb 2005 (M2's first major acquisition.",
       "refs": [
         {
           "kind": "news",
@@ -7087,7 +7557,7 @@
       "to": "iinet",
       "year": 2002,
       "date_disp": "2002",
-      "notes": "iiNet acquired Granite Internet (Fleurieu Peninsula SA) in its 2002 regional acquisition round; RuralNet (Mildura VIC) was itself acquired by iiNet (announced 31 Dec 2002) \u2014 the earlier 'userbase mostly to RuralNet' claim was wrong on both ends.",
+      "notes": "iiNet acquired Granite Internet (Fleurieu Peninsula SA in its 2002 regional acquisition round; RuralNet (Mildura VIC was itself acquired by iiNet (announced 31 Dec 2002 \u2014 the earlier 'userbase mostly to RuralNet' claim was wrong on both ends.",
       "refs": [
         {
           "kind": "wikipedia",
@@ -7107,7 +7577,7 @@
       "to": "planet-ozi",
       "year": 2013,
       "date_disp": "by 2013",
-      "notes": "kisser.net.au ran under the Planet Ozi umbrella by 2013 (My Account/CAT on cat.planetozi.com.au) and served the full Planet Ozi site by 2018; EscapeNet entered only via its ~Mar 2019 purchase of Planet Ozi \u2014 the earlier 'Escape.Net takeover Apr 2013' was wrong.",
+      "notes": "kisser.net.au ran under the Planet Ozi umbrella by 2013 (My Account/CAT on cat.planetozi.com.au and served the full Planet Ozi site by 2018; EscapeNet entered only via its ~Mar 2019 purchase of Planet Ozi \u2014 the earlier 'Escape.Net takeover Apr 2013' was wrong.",
       "refs": [
         {
           "kind": "archive",
@@ -7132,7 +7602,7 @@
       "to": "supernerd",
       "year": 2008,
       "date_disp": "Jun 2008",
-      "notes": "Blitz Telecom (Port Melbourne) collapsed into administration in Jun 2008, immediately after its buying spree (Wix, TelPacific, G-Node, Koala); customers were sold to SuperNerd.",
+      "notes": "Blitz Telecom (Port Melbourne collapsed into administration in Jun 2008, immediately after its buying spree (Wix, TelPacific, G-Node, Koala; customers were sold to SuperNerd.",
       "refs": [
         {
           "kind": "news",
@@ -7152,7 +7622,7 @@
       "to": "blitz-telecom",
       "year": 2008,
       "date_disp": "2008",
-      "notes": "G-Node was among the ISPs bought by Blitz Telecom (Port Melbourne) in its 2007-08 buying spree (with TelPacific, Koala, Wix); Blitz itself collapsed Jun 2008.",
+      "notes": "G-Node was among the ISPs bought by Blitz Telecom (Port Melbourne in its 2007-08 buying spree (with TelPacific, Koala, Wix; Blitz itself collapsed Jun 2008.",
       "refs": [
         {
           "kind": "forum",
@@ -7167,7 +7637,7 @@
       "to": "planet-ozi",
       "year": 2004,
       "date_disp": "Mar 2004",
-      "notes": "Planet Ozi Pty Ltd registered the business name 'TSN Internet.com.au' from Mar 2004; TSN continued as a brand (its non-NSW customers were churned to Comcen in Apr 2010); Whirlpool users describe TSN as Planet Ozi-owned before Planet Ozi's ~Mar 2019 sale to EscapeNet.",
+      "notes": "Planet Ozi Pty Ltd registered the business name 'TSN Internet.com.au' from Mar 2004; TSN continued as a brand (its non-NSW customers were churned to Comcen in Apr 2010; Whirlpool users describe TSN as Planet Ozi-owned before Planet Ozi's ~Mar 2019 sale to EscapeNet.",
       "refs": [
         {
           "kind": "forum",
@@ -7182,7 +7652,7 @@
       "to": "pennytel",
       "year": 2022,
       "date_disp": "May 2022",
-      "notes": "Sydney-based Pennytel Australia acquired Melbourne B2B telco MeshTelco (announced 12 May 2022), following its 2021 purchases of Focus Communications and Connexus.",
+      "notes": "Sydney-based Pennytel Australia acquired Melbourne B2B telco MeshTelco (announced 12 May 2022, following its 2021 purchases of Focus Communications and Connexus.",
       "refs": [
         {
           "kind": "news",
@@ -7252,7 +7722,7 @@
       "to": "matilda-internet",
       "year": 2010,
       "date_disp": "2010",
-      "notes": "Absorbed by Matilda Internet (Mackay).",
+      "notes": "Absorbed by Matilda Internet (Mackay.",
       "refs": [
         {
           "kind": "official",
@@ -7372,7 +7842,7 @@
       "to": "iinet",
       "year": 2008,
       "date_disp": "2008",
-      "notes": "Absorbed by Up'N'Away (later iiNet).",
+      "notes": "Absorbed by Up'N'Away (later iiNet.",
       "refs": [
         {
           "kind": "wikipedia",
@@ -7387,7 +7857,7 @@
       "to": "eftel",
       "year": 2001,
       "date_disp": "2001",
-      "notes": "Absorbed by Eftel (via Fleet Broadband/Datafast).",
+      "notes": "Absorbed by Eftel (via Fleet Broadband/Datafast.",
       "refs": [
         {
           "kind": "archive",

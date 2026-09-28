@@ -103,3 +103,9 @@ Full evidence: `docs/review/vd-research.json`; report `docs/review/vd-report.md`
 - 16 conflicts (current death set by a prior contributor/verification) and 21 cases where the ISP looks still-alive/undatable (current death event may need removing) need adjudication.
 - 177 low-confidence proposed changes held.
 - 222 high/medium changes are apply-ready.
+
+## 8. Vague-transition dates (139)
+
+Full evidence: `/tmp/vt_all.json` -> copied to `docs/review/vt-research.json`; report `docs/review/vt-report.md`.
+- 92 high/medium apply-candidates (83 materially change the date).
+- 47 low-confidence flagged (mostly terminus-only evidence, thin archives, or direction ambiguity).

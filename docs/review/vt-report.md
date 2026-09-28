@@ -1,0 +1,146 @@
+# Vague-transition date research (139)
+
+apply-candidates (high/med) 92 (material date changes 83) | flagged low 47
+
+## Flagged (low confidence) — advanced agent
+- acay -> ventraip: proposed 'by Dec 2013' | The brief's 'by 2012' cannot be verified due to the 2010-Nov 2013 capture gap; safest is 'by Dec 2013'.
+- apana-act -> apana: proposed 'c. 1994' | The 1994 figure matches the ACT node's establishment/incorporation into APANA; no dated news/registry event for the ACT node was found, so treat as a node-formation date rather than a documented acquisition.
+- apana-hunter -> apana: proposed 'c. 1998-1999' | Brief gives 1999 while from_birth is 1998; the node is only documented as part of national APANA by the 1 Oct 1998 page, so the exact transition year is uncertain.
+- apana-sa -> apana: proposed 'c. 1995' | 1995 treated as the SA node's formation/incorporation; no dated acquisition announcement found.
+- apana-wa -> apana: proposed 'c. 1994' | 1994 is best read as the WA node's formation/incorporation; no explicit dated transfer to the national body was located.
+- austarmetro -> virtual-communities: proposed 'c. 2003 (before iiNet's 2004 purchase from Virtual Communities)' | No direct date for the AustarMetro->Virtual Communities transfer; derived from the later iiNet purchase. Chain also includes eisa/ eisametro rebrands.
+- ballarat-netconnect -> chariot: proposed 'c. 2004' | Conflicting signals: ABR business-name records suggest a 1999 linkage, while the FY2003-04 annual report (brief) supports 2004. Treat date as uncertain.
+- blazenet -> hotkey: proposed 'c. 2001' | The Australian BlazeNet's own domain could not be confirmed in the Wayback CDX (blazenet.com is a separate US ISP); date rests mainly on the brief's Hotkey ref.
+- box-apana -> satech: proposed 'late 1995' | box.apana.org.au and lemon.apana.org.au have no Wayback captures; the late-1995 merger date is inferred and unverified by a direct primary source.
+- bunbury-internet-service -> ciphertel: proposed 'by 4 Sep 2008 (APNIC address-space registration)' | Address-space transfer is the documented evidence; whether it was an acquisition of the business or a continuation/rebrand under Ciphertel is inferred. Geographic match (Bunbury) and the 1997 BUNBURYINT-AU block make a handover likely.
+- crox-developments -> anittel: proposed 'c. 2010' | No source specifically documenting the Crox brand transfer to Anittel was located; date is inferred from the Anittel rebrand.
+- crystal-internet-services -> eftel: proposed 'c. 2011' | Crystal's own domain could not be confirmed (crystal.net.au appears to be a different operator); date rests on the brief and Eftel's acquisition activity.
+- cybanet-internet-services -> eftel: proposed 'by Jul 2008' | Brief's 'by 2012' is too late: CybaNet was already redirecting to eftel.com by 18 Jul 2008.
+- dynamite-internet -> eisa-limited: proposed 'by 17 Apr 2000 (EISA business-name registrations)' | Business-name registration is a proxy, not a deal announcement. A 1997 IP index already linked Dynamite blocks to Edge's Melbourne GPO box, so the relationship may predate 2000.
+- eepo -> ausconnect: proposed 'c. 2004-2005' | No explicit acquisition announcement located; the c.2005 date sits between the two captures.
+- emerge-technologies -> goldnet: proposed 'c. 2013' | No explicit spin-off/announcement found; the split is inferred from the two brands operating separately by mid-2013.
+- firestar -> concept-networks: proposed 'by mid-2005 (operator named as Conceptual Internet Australia)' | Precise takeover date within 2001-2005 is unconfirmed; brief's 'early 2004' rests on a copyright line, while operator change is only provable by 2005.
+- geko-internet -> hotkey: proposed 'c. 2002 - early 2003' | Exact month unknown; brief's 2002 is plausible but the first Hotkey-branded capture is May 2003.
+- giganet -> hotkey: proposed 'by May 2003' | The Australian GigaNet's domain was not confirmed (giganet.com is a separate US/Emelex entity, giganet.net.au has no old captures); date rests on the brief and Hotkey ref.
+- hartingdale -> iinet: proposed 'early 2002' | No dedicated announcement located; date carried over from Wikipedia's 'early 2000s'.
+- healey-communications -> ideal-internet: proposed 'c.2001-02' | Only secondary/brief evidence; exact date unconfirmed. Healey Communications is a Glebe (Sydney) business, consistent with a Campbelltown/Sydney customer transfer.
+- instant-communications -> eftel: proposed 'c. 2006-07' | Eftel's Wikipedia history does not name Instant Communications, so the 2006-07 date is inferred from the domain's disappearance plus Eftel's known acquisitions.
+- intas -> iinet: proposed '2012 (reported late Feb 2012)' | No public announcement found. The brief's 'late Feb 2012' is a user report; archive only confirms iiNet branding by 2014. Use low confidence.
+- interact-technology-group -> velocity-holdings: proposed 'c. 2018-19 (site Velocity-branded by 2009)' | The brief's 2018-19 date conflicts with the site already being run by 'Velocity Internet Pty Ltd' in 2009; 'Velocity Internet Holdings' may be a later entity, so confidence is low.
+- interconnect -> connect-com-au: proposed 'by 1996' | No precise acquisition date; only that InterConnect came under connect.com before connect.com itself went to AAPT.
+- karratha-internet -> planet-ozi: proposed 'by 7 Apr 2013 (kisser.net.au running on Planet Ozi customer tooling)' | Dates the Planet Ozi backend appearing under Karratha, not a documented acquisition. An intermediate www.kisser.net.au redirect to www.ispx.com.au (Jun 2012) suggests ISPX involvement before Planet Ozi; treat the edge as inferred and the 2013 date as a by-date.
+- lemon-apana -> satech: proposed 'late 1995' | Same limitation as the box-apana edge: no primary capture of the lemon.apana.org.au node.
+- lets-go -> concept-networks: proposed 'from late 2006 (Lets Go discount brand of Concept Networks)' | letsgo.com.au was a separate Cairns ISP (LedaNet / Gibson Group, 1999-2004); the Concept Networks 'Lets Go' discount brand relaunched on the domain around Oct 2006, so the brief's c.2001 date is not directly supported.
+- mackay-internet -> chariot: proposed 'by 25 Mar 2005 (FY2004-05)' | Domain-listing evidence only; no public deal date.
+- magnadata -> ntt-australia: proposed 'c. 1999-2002' | MagnaData's assets travelled via Davnet/Davtel; the brief's ASX ref (doc 1999-11-09) served no readable text and could not be verified, so the NTT Australia rename date is used as a proxy.
+- nella-networks -> beretvale: proposed 'Apr 2004' | No ABR record found for a 'Beretvale Pty Ltd', so the split from Beretvale is inferred from the new company's incorporation date.
+- netspeed -> velocity-internet: proposed 'by Jan 2024' | No public announcement of a formal customer transfer was found; this is archaeological (site function change between 22 Dec 2023 and 30 Jan 2024). Treat as a brand retirement rather than a sale.
+- ocean-broadband -> red-broadband: proposed 'mid-2015' | The thread does not name Ocean Broadband explicitly; attribution is circumstantial.
+- ourworld-global-network -> auslink: proposed 'by 1997' | Very thin sourcing. 'Split' is inferred from the two entities sharing OGN's Sydney GPO box and Auslink launching on OGN's satellite backbone (May 1998). The 1997 date is a by-date, not a documented incorporation/split event; the only capture of auslink.com.au in this period resolves to the unrelated 'Auslink Consulting'.
+- powerup -> ozemail: proposed 'c.1998-2000 (55% stake then remainder)' | Sources conflict (AFR 2005 says 1998; SMH 2009 says 2000). Control was acquired in stages, so a single date is ambiguous; brief's c.1999 is a reasonable midpoint.
+- qld-net -> chariot: proposed 'by 25 Mar 2005 (FY2004-05)' | Indirect evidence (portal domain listing) rather than a deal announcement. Chariot also absorbed Leadanet and Broadnet in the same QLD integration, per the same 2005 capture.
+- rocknet -> iinet: proposed 'early 2002' | iiNet's own online history does not mention RockNet explicitly, so 'early 2002' is only weakly supported.
+- ruralnet -> macarthurcook: proposed 'by 2002' | The transition is brand->parent, but the SMH ref documents iiNet's 1 Jan 2003 purchase of Local Telecom's Tassienet/Ruralnet customer base. MacarthurCook name only adopted 8 Apr 2004; exact date Local Telecom absorbed RuralNet is not firmly documented.
+- silver-telecom -> anittel: proposed 'c. 2010' | Silver Telecom Pty Ltd (ABN 48 110 105 667) is a separate cancelled entity; exact transfer date unknown.
+- spirit-networks -> asia-online: proposed 'by Mar 2001' | Brief cited the AFR 1999-10-04 article, which names InterACT (Canberra) rather than Spirit; no announcement naming Spirit was found, and the archive only brackets the change to between May 2000 and Mar 2001. Low confidence.
+- swisp -> westnet: proposed 'c.2001 (unconfirmed)' | Exact month/date not established; low confidence c.2001.
+- tassienet -> macarthurcook: proposed 'by 2002' | Same as RuralNet: Tassienet/TasAccess became a Local Telecom brand before the Jan 2003 iiNet resale; MacarthurCook name from Apr 2004.
+- technet-2000 -> chariot: proposed 'by 25 Mar 2005 (FY2004-05)' | Domain-listing evidence only; no public deal date. Bracket from Chariot's FY2003-04 acquisitions list places it in FY2004-05.
+- topend-com-au -> eisa-limited: proposed 'by 17 Apr 2000 (EISA business-name registrations)' | Business-name registration only; no deal announcement. NT ISP (Katherine/Darwin).
+- treko-internet -> westnet: proposed 'c.2001 (unconfirmed)' | Date not pinned; brief's c.2001 plausible but unsupported by the cited source.
+- useoz -> hotkey: proposed 'c. 2002' | Date is approximate; no single announcement located. 'After NDS administration' detail came from the brief and was not independently confirmed.
+- viper-internet -> ideal-internet: proposed 'c.2000' | Date relies on brief/secondary account; exact 2000 date not pinned. Distinguish from the separate 'Viper shell -> Independent Service Providers' edge.
+
+## Apply candidates (high/med)
+- access-one -> ozemail: -> 10 Nov 1997 (announced; due to close 24 Nov 1997) (high)
+- alphalink -> chariot: -> by 13 Sep 2009 (high)
+- apana-brisbane -> apana: -> c. 1994 (medium)
+- apana-melbourne -> apana: -> c. 1994 (medium)
+- apana-sydney -> apana: -> c. 1994 (medium)
+- arachnet -> amcom: -> 6 Sep 2005 (announced; settlement 16 Sep 2005) (high)
+- asgard-net -> instant-communications: -> c. 2002 (by Jan 2003) (medium)
+- asia-online -> ozemail: -> November 2001 (medium)
+- askaussie -> veridas: -> c. mid-2006 (announced to customers by early Jul 2006) (medium)
+- aspire -> aardvark-internet: -> late 2012 (announced 13 Jan 2013) (high)
+- aurum-internet -> westnet: -> by 16 Aug 2000 (aurum.net.au serving the WestNet site) (medium)
+- axs-internet-services -> hotkey: -> by 2003 (c. 2002) (medium)
+- better-net -> chariot: -> Mar 2003 (high)
+- big-river-internet -> linear-g: -> since 2001 (high)
+- bmr-net -> cnn-internet: -> c. 2001-2002 (medium)
+- box-internet -> chariot: -> c. late 2002 - by 7 Feb 2003 (medium)
+- braenet -> savtek: -> c. Jun 2003 (medium)
+- brisbane-internet-technology -> asia-online: -> early Oct 1999 (high)
+- bullet-internet -> sis-group-amaze: -> by 20 May 2017 (high)
+- chariot -> cirrus: -> 2008 (medium)
+- cobweb-internet -> chariot: -> by 19 Feb 2003 (high)
+- com-cen -> spintel: -> Feb-Apr 2012 (high)
+- comswest -> westnet: -> by 17 Apr 1999 (site redirected to WestNet; page last updated 12 Apr 1999) (medium)
+- concept-networks -> eftel: -> 8 Sep 2008 (high)
+- connect-direct -> chariot: -> by late 2004 (medium)
+- connexus -> pennytel: -> 30 Nov 2021 (high)
+- corplink -> lexicon-internet-services: -> by Aug 2004 (high)
+- dart-internet -> hotkey: -> c. Nov 2004 (medium)
+- dezzanet -> aardvark-internet: -> late 2005 - 2006 (medium)
+- dialix -> justnet: -> by Dec 2000 (medium)
+- dove-australia -> asia-online: -> early Oct 1999 (high)
+- dovenetq -> ispx: -> by Apr 2013 (medium)
+- dragnet -> eftel: -> early 2013 (by 8 Feb 2013) (high)
+- dragon-net -> bullet-internet: -> by 9 May 2006 (high)
+- e-wire -> bes: -> by Jul 2002 (medium)
+- ezweb -> eftel: -> late 2003 (medium)
+- fastrac -> shoalnet: -> by 15 May 2001 (likely 2000-01) (medium)
+- fleet-broadband -> eftel: -> c. 2002 (medium)
+- foxnet-australia -> satlink: -> by Dec 1998 (high)
+- free-net -> premiumnet: -> 21 March 2004 (high)
+- froggy -> flowcom: -> Dec 2003 (medium)
+- funnelweb-internet -> aardvark-internet: -> late 2012 (announced 13 Jan 2013) (high)
+- goldweb-internet -> velocity-internet: -> 10 April 2006 (high)
+- gotalk -> clubtelco: -> Sep 2010 (high)
+- highway-1 -> zettagrid: -> Dec 2007 (medium)
+- holohost -> nella-networks: -> Apr 2004 (medium)
+- hotlinks-internet-services -> eftel: -> by Feb 2005 (medium)
+- iclick -> upnaway: -> by Jan 2008 (medium)
+- iinet -> e-wire: -> c. Jul 2002 (medium)
+- impaq -> eftel: -> late 2003 (medium)
+- internet-plus -> zircon-systems: -> by Nov 1996 (medium)
+- interworld -> wantree: -> by 7 Nov 1996 (medium)
+- ispx -> planet-ozi: -> by Feb 2018 (medium)
+- jade-communications -> keypoint: -> c. mid-2000 (by 17 Sep 2000) (medium)
+- keypoint -> eftel: -> late 2003 (via Datafast; renamed Eftel 2005) (medium)
+- lexicon-internet-services -> eftel: -> by Feb 2005 (high)
+- message-exchange -> asia-online: -> early Oct 1999 (high)
+- mr-beans-internet -> chariot: -> 13 Mar 2003 (high)
+- my-wisp -> lisp: -> by Aug 2007 (c. mid-2007) (medium)
+- myaccess -> eftel: -> 2005 (high)
+- national-telecoms-group -> nexon: -> 6 Dec 2004 (medium)
+- neteffect-internet -> apex-internet: -> by Oct 2000 (medium)
+- netserv-communications -> silogen: -> from 29 Aug 2007 (302 to silogen.com.au) (medium)
+- netspeed -> velocity-holdings: -> Nov 2010 (high)
+- netstra -> hotkey: -> by 2 Aug 2002 (high)
+- netway-internet -> upnaway: -> by Jan 2008 (medium)
+- new-tel -> rslcom: -> early Mar 2003 (fixed-line customer base to RSL COM; New Tel in administration 10 Dec 2002) (medium)
+- newave -> chariot: -> by 22 Jan 2003 (high)
+- northern-rivers-gateway -> linear-g: -> since 2001 (high)
+- officelink-plus -> anittel: -> Mar 2010 (medium)
+- omcs -> linear-g: -> since 2001 (high)
+- omon -> indigo-networks: -> by Dec 2001 (medium)
+- ompac-internet -> chariot: -> by Dec 2004 (high)
+- orac-global-internet -> apex-internet: -> by May 2001 (between Feb and Mar 2001) (high)
+- paradox-digital -> fleet-broadband: -> 20 Apr 2001 (high)
+- parergon-technology -> keypoint: -> by Feb 2000 (medium)
+- pbba -> commander: -> 29 Jun 2005 (high)
+- picknowl -> chariot: -> by Jul 2002 (medium)
+- planet -> flowcom: -> by early 2002 (medium)
+- powerup -> webcentral: -> c.1996-97 (medium)
+- rpi-internet -> independent-service-providers: -> 20 Aug 2001 (high)
+- satech -> box-internet: -> c. 1997-1998 (medium)
+- satlink -> chariot: -> c. 2004 (ABN cancelled 1 Jul 2004) (medium)
+- senet -> ozemail: -> c. 2000 (medium)
+- southern-internet -> keypoint: -> late 2002 / Jan-Feb 2003 (medium)
+- starnet-internet -> planet: -> by 2 Oct 2000 (high)
+- swis -> eftel: -> by 2 Feb 2003 (medium)
+- universal-networks -> chariot: -> by mid-2005 (c) 2004 (medium)
+- velocity-internet -> velocity-holdings: -> Nov 2010 (high)
+- vision-internet -> eftel: -> by 23 May 2002 (medium)
+- webaxs -> keypoint: -> late 2002 (by 25 Nov 2002) (medium)
+- wix-telecommunications -> blitz-telecom: -> by Feb 2008 (medium)
