@@ -26,6 +26,12 @@
       "date_disp": "c. 2008",
       "precision": "approx",
       "details": "Defunct."
+    },
+    {
+      "kind": "note",
+      "year": 2006,
+      "date_disp": "2006",
+      "details": "Legal-entity candidate HELD: the only ABR match, KRYTECH PTY LTD (ACN 699 357 554, QLD 4157), is a 2026 company, while this regional-QLD ISP ran c.2006-08 under Ryan Krylyszyn (LinkedIn, 2000-07) - likely a sole trader or an earlier entity. Not added to summary pending verification."
     }
   ]
 }

@@ -94,6 +94,16 @@ g-node, lithoptix, harvest-road) for a future pass.
 
 ## Open follow-ups (to research later)
 
+- **ACN/ABN coverage (Sep 2026)** — `qa_report.py` now reports ISPs with no
+  ACN/ABN mention anywhere (baseline: **528** of 1073; 0 have an ABR/ASIC ref).
+  ABN-era entities (birth ≥2000) are the highest-ROI tier (179 with a website);
+  many of the pre-2000 files are sole traders with no company record at all.
+  Research each entity's operating company/sole trader via the ISP's own archived
+  footer ABN (gold standard), then ABN Lookup, then ASIC/registers. Guard against
+  same-name misattribution with the ACN era guide (`tools/check_acn_dates.py`).
+  Apply per `docs/DATA_MODEL.md`: legal-entity parenthetical in `summary` +
+  `gov` ref labelled `ABR: <ENTITY> ACN <nnn nnn nnn>`.
+
 - **Holodoc OZ / Beretvale** — confirmed ISP (added); HoloHost/Beretvale
   relationship to Nella Networks still to be fully untangled.
 - **IAP lineage (dates pending)** — IAP→Highway1 acquisition date still pending;

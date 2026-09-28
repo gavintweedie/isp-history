@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "linkone.net.au",
-  "summary": "Wholesale fixed-point wireless carrier; acquired by Spirit Telecom 2019; carrier licence surrendered.",
+  "summary": "Wholesale fixed-point wireless carrier; acquired by Spirit Telecom 2019; carrier licence surrendered (LINKONE PTY LIMITED, ACN 604 116 387).",
   "names": [
     {
       "name": "LinkOne",
@@ -26,6 +26,13 @@
       "date_disp": "2019",
       "precision": "exact",
       "details": "Acquired by Spirit Telecom (5th acquisition)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=86604116387",
+      "label": "ABR: LINKONE PTY LIMITED ACN 604 116 387"
     }
   ]
 }

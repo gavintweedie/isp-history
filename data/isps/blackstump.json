@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://blackstump.net.au",
-  "summary": "Regional telecom/ISP (ADSL1/2 broadband + fixed-line + VoIP bundles, from ~2005); retail site alive to 2011, hosting disabled by 2012, dead c. 2011.",
+  "summary": "Regional telecom/ISP (ADSL1/2 broadband + fixed-line + VoIP bundles, from ~2005); retail site alive to 2011, hosting disabled by 2012, dead c. 2011 (MATTSON CONSULTING PTY LTD & WICKS INDUSTRIES PTY LTD (partnership), ABN 63 832 712 870).",
   "names": [
     {
       "name": "Blackstump Solutions",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20110205142849/http://www.blackstump.net.au/",
       "label": "Blackstump Solutions (Wayback 5 Feb 2011)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=63832712870",
+      "label": "ABR: MATTSON CONSULTING PTY LTD & WICKS INDUSTRIES PTY LTD (PARTNERSHIP) ABN 63 832 712 870"
     }
   ]
 }

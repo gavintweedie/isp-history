@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://iclick.com.au",
-  "summary": "ISP acquired by Up'N'Away; later part of iiNet.",
+  "summary": "ISP acquired by Up'N'Away; later part of iiNet (INTEK PTY LTD, ACN 060 844 117).",
   "names": [
     {
       "name": "iClick",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2007",
       "precision": "approx",
       "details": "Acquired by Up'N'Away (with Power DSL and Netway)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=92060844117",
+      "label": "ABR: INTEK PTY LTD (TRADING AS UP N AWAY NET SOLUTIONS) ACN 060 844 117"
     }
   ]
 }

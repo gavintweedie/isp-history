@@ -4,7 +4,7 @@
   "birthplace": "Townsville/Cairns, QLD",
   "status": "inactive",
   "website": "https://regionalinternet.com.au",
-  "summary": "Regional QLD ISP (Regional Internet Australia / RAWNET), ADSL2+ + wireless + VoIP; active ~2006.",
+  "summary": "Regional QLD ISP (REGIONAL INTERNET AUSTRALIA PTY LTD, ACN 111 514 599; 'RAWNET'), ADSL2+ + wireless + VoIP; active ~2006.",
   "names": [
     {
       "name": "Regional Internet Australia",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20060428021129/http://www.regionalinternet.com.au/",
       "label": "RIA (Wayback 2006)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=22111514599",
+      "label": "ABR: REGIONAL INTERNET AUSTRALIA PTY LTD ACN 111 514 599"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://dataozsolutions.com.au",
-  "summary": "Nationwide dialup + ADSL + phone ISP (dataozsolutions.com.au); retail 2008-2011, parked by 2012.",
+  "summary": "Nationwide dialup + ADSL + phone ISP (dataozsolutions.com.au); retail 2008-2011, parked by 2012 (J.R HAWTHORN & L.W MCKAY (partnership), ABN 60 261 608 958).",
   "names": [
     {
       "name": "Data Oz Solutions",
@@ -33,6 +33,13 @@
         "https://web.archive.org/web/20110205080535id_/http://dataozsolutions.com.au/",
         "https://web.archive.org/web/20120221092229id_/http://dataozsolutions.com.au/"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=60261608958",
+      "label": "ABR: J.R HAWTHORN & L.W MCKAY (PARTNERSHIP) ABN 60 261 608 958"
     }
   ]
 }

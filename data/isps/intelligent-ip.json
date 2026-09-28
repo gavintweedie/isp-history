@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "intelligentip.com.au",
-  "summary": "IP/network business (IIPC, Intelligent IP, founded Aug 2005); acquired BroadbandNet's network + customer base Dec 2008; acquired by BigAir Aug 2013.",
+  "summary": "IP/network business (IIPC, Intelligent IP, founded Aug 2005); acquired BroadbandNet's network + customer base Dec 2008; acquired by BigAir Aug 2013 (INTELLIGENT IP COMMUNICATIONS PTY LTD, ACN 115 730 526).",
   "names": [
     {
       "name": "Intelligent IP",
@@ -26,6 +26,13 @@
       "date_disp": "Aug 2013",
       "precision": "exact",
       "details": "Acquired by BigAir (6 Aug 2013)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=93115730526",
+      "label": "ABR: INTELLIGENT IP COMMUNICATIONS PTY LTD ACN 115 730 526"
     }
   ]
 }

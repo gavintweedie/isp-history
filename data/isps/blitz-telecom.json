@@ -4,7 +4,7 @@
   "birthplace": "Port Melbourne, VIC",
   "status": "inactive",
   "website": "https://blitztelecom.com.au",
-  "summary": "Telecom reseller (Port Melbourne VIC; acquired Koala Telecom's business Aug 2007, then Wix/TelPacific/G-Node in 2007-08); collapsed into administration Jun 2008, customers sold to SuperNerd; domain later reused by AINS Telecommunications.",
+  "summary": "Telecom reseller (Port Melbourne VIC; acquired Koala Telecom's business Aug 2007, then Wix/TelPacific/G-Node in 2007-08); collapsed into administration Jun 2008, customers sold to SuperNerd; domain later reused by AINS Telecommunications (BLITZ TELECOM OPERATIONS PTY LTD, ACN 123 769 880).",
   "names": [
     {
       "name": "Blitz Telecom (Australia)",
@@ -18,7 +18,7 @@
       "year": 2007,
       "date_disp": "Aug 2007",
       "precision": "exact",
-      "details": "Blitz Telecom (Australia) Pty Ltd; acquired Koala Telecom business.",
+      "details": "Blitz Telecom Operations Pty Ltd; acquired Koala Telecom business.",
       "source": [
         "https://web.archive.org/web/20080409214618/http://www.blitztelecom.com.au/"
       ]
@@ -50,6 +50,11 @@
       "kind": "forum",
       "url": "https://forums.whirlpool.net.au/archive/1000634",
       "label": "Whirlpool Jun 2008: Blitz buying spree (Wix, TelPacific, G-Node, Koala)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=97123769880",
+      "label": "ABR: BLITZ TELECOM OPERATIONS PTY LTD ACN 123 769 880"
     }
   ]
 }

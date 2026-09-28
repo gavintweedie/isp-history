@@ -4,7 +4,7 @@
   "birthplace": "WA / outer-metro",
   "status": "inactive",
   "website": "https://bushcom.com.au",
-  "summary": "Regional WA wireless + satellite + HiBIS broadband provider (by 2005); defunct c. 2006.",
+  "summary": "Regional WA wireless + satellite + HiBIS broadband provider (by 2005); defunct c. 2006 (BUSHCOM PTY LTD, ACN 111 288 647).",
   "names": [
     {
       "name": "BushCom",
@@ -33,6 +33,13 @@
         "https://web.archive.org/web/20060303044914/http://www.bushcom.com.au/",
         "Wayback CDX: only 9 captures, all 2005-Mar 2006"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=28111288647",
+      "label": "ABR: BUSHCOM PTY LTD ACN 111 288 647"
     }
   ]
 }

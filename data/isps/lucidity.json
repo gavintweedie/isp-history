@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://lucidity.net.au",
-  "summary": "Telecom reseller franchise ('Telco in a Box': voice, dialup, DSL, wireless, ~2005); defunct.",
+  "summary": "Telecom reseller franchise ('Telco in a Box': voice, dialup, DSL, wireless, ~2005); defunct (LUCIDITY ENTERPRISES PTY LTD (t/as Lucidity Communications), ACN 104 050 384).",
   "names": [
     {
       "name": "Lucidity Communications",
@@ -33,6 +33,13 @@
           "label": "Wayback: last ISP retail homepage"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=23104050384",
+      "label": "ABR: LUCIDITY ENTERPRISES PTY LTD (TRADING AS LUCIDITY COMMUNICATIONS) ACN 104 050 384"
     }
   ]
 }

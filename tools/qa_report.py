@@ -65,11 +65,18 @@ def main():
     year_disp_mismatch = []
     death_disp_mismatch = []
     bad_summary_type = []
+    missing_acn_abn = []
+
+    acn_abn_re = re.compile(r"\bACN\b|\bABN\b", re.IGNORECASE)
 
     for i in by.values():
         b = birth(i)
         d = death(i)
         deg = len(by_edges.get(i["id"], []))
+
+        # legal identity: no ACN/ABN mentioned anywhere in the entity
+        if not acn_abn_re.search(json.dumps(i, ensure_ascii=False)):
+            missing_acn_abn.append((i["name"], (b[0].get("date_disp") if b else "no birth")))
 
         if not b:
             no_birth.append(i["name"])
@@ -172,6 +179,7 @@ def main():
         "placeholders": len(placeholders),
         "no_birth": len(no_birth),
         "birth_by_only": len(birth_by_only),
+        "missing_acn_abn": len(missing_acn_abn),
         "inactive_no_death": len(inactive_no_death),
         "status_unknown": len(unknown_status),
         "leaf_nodes": len(leaf_nodes),
@@ -190,6 +198,7 @@ def main():
         "placeholders": sorted(i["name"] for i in placeholders),
         "no_birth": sorted(no_birth),
         "birth_by_only": sorted(birth_by_only),
+        "missing_acn_abn": sorted(missing_acn_abn),
         "inactive_no_death": sorted(inactive_no_death),
         "status_unknown": sorted(unknown_status),
         "leaf_nodes": sorted(leaf_nodes),
@@ -216,6 +225,7 @@ def main():
     print(f"  placeholders (Cynosure by-2002):      {c['placeholders']}")
     print(f"  no birth date:                        {c['no_birth']}")
     print(f"  birth 'by'-only (upper bound):         {c['birth_by_only']}")
+    print(f"  no ACN/ABN mention (no legal entity):  {c['missing_acn_abn']}")
     print(f"  inactive but no death event:          {c['inactive_no_death']}")
     print(f"  status unknown:                       {c['status_unknown']}")
     print(f"  leaf nodes (no transitions):          {c['leaf_nodes']}")
@@ -242,6 +252,7 @@ def main():
     show("PLACEHOLDERS", report["issues"]["placeholders"])
     show("NO BIRTH DATE", report["issues"]["no_birth"])
     show("BIRTH 'BY'-ONLY", report["issues"]["birth_by_only"])
+    show("NO ACN/ABN MENTION", report["issues"]["missing_acn_abn"])
     show("INACTIVE, NO DEATH", report["issues"]["inactive_no_death"])
     show("STATUS UNKNOWN", report["issues"]["status_unknown"])
     show("BIRTH > DEATH ANOMALIES", report["issues"]["birth_gt_death"])

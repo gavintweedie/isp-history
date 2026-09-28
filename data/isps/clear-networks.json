@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "clearnetworks.com.au",
-  "summary": "Melbourne (Blackburn North, VIC) satellite (HiBIS/Optus, later Sky Muster, IPSTAR) + fixed-wireless + NBN fibre ISP (Clear Networks Pty Ltd, sister co. of Day3 via acquisition of Canberra's RBBS); acquired by SkyMesh 2022; infrastructure sold to Summit Internet 2023.",
+  "summary": "Melbourne (Blackburn North, VIC) satellite (HiBIS/Optus, later Sky Muster, IPSTAR) + fixed-wireless + NBN fibre ISP (CLEAR NETWORKS PTY LTD, ACN 111 273 566; sister co. of Day3 via acquisition of Canberra's RBBS); acquired by SkyMesh 2022; infrastructure sold to Summit Internet 2023.",
   "names": [
     {
       "name": "Clear Networks",
@@ -45,6 +45,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20050206005022/http://www.clearnetworks.com.au/",
       "label": "Clear Networks (Wayback 6 Feb 2005): HiBIS satellite broadband"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=24418211265",
+      "label": "ABR: The trustee for Clear Networks Trust ABN 24 418 211 265 (operating co. Clear Networks Pty Ltd ACN 111 273 566)"
     }
   ]
 }

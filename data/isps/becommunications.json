@@ -4,7 +4,7 @@
   "birthplace": "Geelong, VIC",
   "status": "inactive",
   "website": "https://becom.com.au",
-  "summary": "Geelong BeWireless wireless broadband + business services + phone preselection (BeCom, ~2004); defunct.",
+  "summary": "Geelong BeWireless wireless broadband + business services + phone preselection (BeCom, ~2004); defunct (BE COMMUNICATIONS PTY LTD, ACN 106 281 707).",
   "names": [
     {
       "name": "BeCommunications",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20041126171301/http://www.becom.com.au/",
       "label": "BeCommunications (Wayback 26 Nov 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53106281707",
+      "label": "ABR: BE COMMUNICATIONS PTY LTD (NOW A.C.N. 106 281 707 PTY LTD) ACN 106 281 707"
     }
   ]
 }

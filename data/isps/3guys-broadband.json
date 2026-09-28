@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://3guys.com.au",
-  "summary": "Dialup + ADSL + hosting ISP with a community/sport-club focus ('Community Net'); only live capture 2006, defunct as an ISP by ~2007–2008 (domain later became an unrelated recipe site).",
+  "summary": "Dialup + ADSL + hosting ISP with a community/sport-club focus ('Community Net'); only live capture 2006, defunct as an ISP by ~2007–2008 (domain later became an unrelated recipe site) (J.S CARTER & R.W HOLT & M.H SHEPPARD (partnership), ABN 48 863 846 184).",
   "names": [
     {
       "name": "3Guys Broadband Internet",
@@ -36,6 +36,13 @@
         "Abandoned default IIS redirect 2008: https://web.archive.org/web/20080627010005/http://3guys.com.au/",
         "Unrelated In2Recipes site by 2013: https://web.archive.org/web/20130430021213/http://3guys.com.au/"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=48863846184",
+      "label": "ABR: J.S CARTER & R.W HOLT & M.H SHEPPARD (PARTNERSHIP) ABN 48 863 846 184"
     }
   ]
 }

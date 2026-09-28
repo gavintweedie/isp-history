@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://reachnet.com.au",
-  "summary": "Satellite broadband + voice ISP of Orion Satellite Systems Pty Ltd (~2006); no longer live (domain now a parking proxy).",
+  "summary": "Satellite broadband + voice ISP of ORION SATELLITE SYSTEMS PTY LIMITED (ACN 103 918 832, ~2006); no longer live (domain now a parking proxy).",
   "names": [
     {
       "name": "Reachnet",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2015",
       "precision": "approx",
       "details": "No longer live."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=26103918832",
+      "label": "ABR: ORION SATELLITE SYSTEMS PTY LIMITED ACN 103 918 832"
     }
   ]
 }

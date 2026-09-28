@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.xenion.com.au",
-  "summary": "Perth ISP and network-design company: virtual hosting, VPS, colocation, caching and transit (Xenion Pty Ltd); WAIX-connected; defunct by the mid-2010s.",
+  "summary": "Perth ISP and network-design company: virtual hosting, VPS, colocation, caching and transit (XENION PTY LTD AS TRUSTEE FOR THE CHADD FAMILY TRUST, ACN 128 843 729); WAIX-connected; defunct by the mid-2010s.",
   "names": [
     {
       "name": "Xenion Communications",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20071012032534/http://www.waia.asn.au/waix/participants.shtml",
       "label": "WAIA WAIX participants (Wayback 2007)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=96070035842",
+      "label": "ABR: XENION PTY LTD (AS TRUSTEE FOR THE CHADD FAMILY TRUST) ACN 128 843 729"
     }
   ]
 }

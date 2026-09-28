@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "virginbroadband.com.au",
-  "summary": "Residential broadband brand run over Optus's network via the Virgin Mobile Australia JV; wound down by 2018.",
+  "summary": "Residential broadband brand run over Optus's network via the Virgin Mobile Australia JV (VIRGIN MOBILE (AUSTRALIA) PTY LTD, ACN 092 726 442); wound down by 2018.",
   "names": [
     {
       "name": "Virgin Broadband",
@@ -33,6 +33,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/Virgin_Mobile#Virgin_Mobile_Australia",
       "label": "Wikipedia: Virgin Mobile Australia"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=67092726442",
+      "label": "ABR: VIRGIN MOBILE (AUSTRALIA) PTY LIMITED (NOW OPTUS MOBILE MIGRATIONS PTY LIMITED) ACN 092 726 442"
     }
   ]
 }

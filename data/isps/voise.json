@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://voise.com.au",
-  "summary": "VoIP/internet-telephony provider (voise.com.au from 2005, archived to 2019); current status unverified.",
+  "summary": "VoIP/internet-telephony provider (voise.com.au from 2005, archived to 2019); current status unverified (VOISE PTY LTD, ACN 113 495 711).",
   "names": [
     {
       "name": "Voise",
@@ -26,6 +26,13 @@
       "date_disp": "by 2019",
       "precision": "by",
       "details": "Last archived 2019."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=85113495711",
+      "label": "ABR: VOISE PTY LTD ACN 113 495 711"
     }
   ]
 }

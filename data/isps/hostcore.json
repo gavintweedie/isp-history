@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://hostcore.com.au",
-  "summary": "Perth hosting/DSL/telecom (HostCore Australia, Daniel Mills, from 2006); ABNs cancelled 18 Oct 2007; ceased trading in odd circumstances (per Whirlpool).",
+  "summary": "Perth hosting/DSL/telecom (HostCore Australia, Daniel Joseph Mills (sole trader), ABN 36 039 919 648, from 2006); ABNs cancelled 18 Oct 2007; ceased trading in odd circumstances (per Whirlpool).",
   "names": [
     {
       "name": "HostCore",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2007/http://www.hostcore.com.au/",
       "label": "HostCore (Wayback 2007)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=36039919648",
+      "label": "ABR: DANIEL JOSEPH MILLS ABN 36 039 919 648"
     }
   ]
 }

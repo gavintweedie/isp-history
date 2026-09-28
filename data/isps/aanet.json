@@ -4,7 +4,7 @@
   "birthplace": "Capalaba (Brisbane), QLD",
   "status": "inactive",
   "website": "https://aanet.com.au",
-  "summary": "Independent specialist broadband ISP founded Jan 2004 by Lorraine Rose (Capalaba, Brisbane QLD); acquired by Perth-based Eftel in 2006 and carried on as an Eftel brand.",
+  "summary": "Independent specialist broadband ISP founded Jan 2004 by Lorraine Rose (Capalaba, Brisbane QLD); acquired by Perth-based Eftel in 2006 and carried on as an Eftel brand (AANET PTY LTD, ACN 087 864 882).",
   "names": [
     {
       "name": "aaNet",
@@ -44,6 +44,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20041231033220/http://www.aanet.com.au/",
       "label": "aaNet (Wayback 2004)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=60087864882",
+      "label": "ABR: AANET PTY LTD / AANET COMMUNICATIONS PTY LTD (NOW ORCHID FLOWER PTY LTD) ACN 087 864 882"
     }
   ]
 }

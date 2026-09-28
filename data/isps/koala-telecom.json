@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://koalatelecom.com.au",
-  "summary": "National ADSL/wireless/VoIP telco (Koala Telecom Pty Ltd); voluntary administration June 2007; business bought by Blitz Telecom (Australia) 25 Jul 2007; domain later served AINS Telecommunications.",
+  "summary": "National ADSL/wireless/VoIP telco (KOALA TELECOM (AUSTRALIA) PTY. LTD., ACN 126 702 029); voluntary administration June 2007; business bought by Blitz Telecom (Australia) 25 Jul 2007; domain later served AINS Telecommunications.",
   "names": [
     {
       "name": "Koala Telecom",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20080123222848/http://www.koalatelecom.com.au/contact_details.html",
       "label": "Koala Telecom (Wayback 2008)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=17126702029",
+      "label": "ABR: KOALA TELECOM (AUSTRALIA) PTY. LTD. ACN 126 702 029"
     }
   ]
 }

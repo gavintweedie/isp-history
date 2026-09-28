@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://brownbear.net.au",
-  "summary": "Budget national ISP (from $9.95; dialup + ADSL + ISDN + hosting, by 2005); defunct c. 2009-10.",
+  "summary": "Budget national ISP (from $9.95; dialup + ADSL + ISDN + hosting, by 2005); defunct c. 2009-10 (PHILIP PAUL BEACHLEY (sole trader), ABN 40 054 455 386).",
   "names": [
     {
       "name": "Brown Bear Internet",
@@ -33,6 +33,13 @@
         "https://web.archive.org/web/20091013224316/http://www.brownbear.net.au/",
         "Wayback CDX: 200 homepage captures 2005-2009, 301 from 2011"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=40054455386",
+      "label": "ABR: BEACHLEY, PHILIP PAUL ABN 40 054 455 386"
     }
   ]
 }

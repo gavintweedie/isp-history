@@ -4,7 +4,7 @@
   "birthplace": "North Richmond, NSW",
   "status": "inactive",
   "website": "http://www.buildingconnect.com.au",
-  "summary": "Sydney/Western Sydney wholesale telecoms carrier (Building Connect Pty Ltd, AS134093) with a fixed-wireless network covering 31 buildings and business parks and 200+ business customers; acquired by Spirit Telecom (May 2019, $300k).",
+  "summary": "Sydney/Western Sydney wholesale telecoms carrier (BUILDING CONNECT PTY LTD, ACN 158 716 137, AS134093) with a fixed-wireless network covering 31 buildings and business parks and 200+ business customers; acquired by Spirit Telecom (May 2019, $300k).",
   "aliases": [
     "Building Connect Pty Ltd"
   ],
@@ -46,6 +46,11 @@
       "kind": "news",
       "url": "https://www.crn.com.au/news/spirit-telecom-acquires-telco-wholesaler-building-connect-524878",
       "label": "CRN: Spirit Telecom acquires telco wholesaler Building Connect (2019)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=20158716137",
+      "label": "ABR: BUILDING CONNECT PTY LTD ACN 158 716 137"
     }
   ]
 }

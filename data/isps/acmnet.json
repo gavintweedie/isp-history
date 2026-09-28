@@ -4,7 +4,7 @@
   "birthplace": "Salisbury (Adelaide), SA",
   "status": "inactive",
   "website": "https://acmnet.com.au",
-  "summary": "Northern Adelaide wireless/ADSL ISP (ACMnet Pty Ltd, founded 2005); litigation with Ai Tel (2007); founders later established NuSkope; wound down.",
+  "summary": "Northern Adelaide wireless/ADSL ISP (ACMNET PTY. LTD., ACN 113 645 257, founded 2005); litigation with Ai Tel (2007); founders later established NuSkope; wound down.",
   "names": [
     {
       "name": "ACMNet",
@@ -42,6 +42,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20051214020948/http://www.acmnet.com.au/",
       "label": "ACMNet (Wayback 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=15113645257",
+      "label": "ABR: ACMNET PTY. LTD. ACN 113 645 257"
     }
   ]
 }

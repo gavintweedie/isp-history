@@ -4,7 +4,7 @@
   "birthplace": "Regional QLD",
   "status": "inactive",
   "website": "https://getonit.com.au",
-  "summary": "Regional QLD ISP ('formerly CairnsNet/AussieWide/GetOnIt'); took over the getonit.com.au domain from Feb 2011.",
+  "summary": "Regional QLD ISP ('formerly CairnsNet/AussieWide/GetOnIt'); took over the getonit.com.au domain from Feb 2011 (operated by PLANET OZI PTY LTD, ACN 108 139 037).",
   "names": [
     {
       "name": "RegionalConnect",
@@ -33,6 +33,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2011/http://www.regionalconnect.com.au/",
       "label": "RegionalConnect (Wayback 2011)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53108139037",
+      "label": "ABR: PLANET OZI PTY LTD (T/AS REGIONAL INTERNET CONNECT) ACN 108 139 037"
     }
   ]
 }

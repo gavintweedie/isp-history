@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://ispx.com.au",
-  "summary": "ISP that succeeded DoveNetQ (Uniting Church ISP) ~2012; brand later shown by Planet Ozi (2018).",
+  "summary": "ISP that succeeded DoveNetQ (Uniting Church ISP) ~2012; brand later shown by Planet Ozi (2018) (operated by PLANET OZI PTY LTD, ACN 108 139 037).",
   "names": [
     {
       "name": "ISPX",
@@ -26,6 +26,13 @@
       "date_disp": "by 2018",
       "precision": "by",
       "details": "Under Planet Ozi."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53108139037",
+      "label": "ABR: PLANET OZI PTY LTD ACN 108 139 037"
     }
   ]
 }

@@ -7175,6 +7175,21 @@
           "label": "Whirlpool Mar 2019: 'i signed up with TSN then they were bought by Planet Ozi who have now been bought by Escape Net'"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "from": "mesh-telco",
+      "to": "pennytel",
+      "year": 2022,
+      "date_disp": "May 2022",
+      "notes": "Sydney-based Pennytel Australia acquired Melbourne B2B telco MeshTelco (announced 12 May 2022), following its 2021 purchases of Focus Communications and Connexus.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.arnnet.com.au/article/1264505/pennytel-gains-momentum-with-meshtelco-buy.html",
+          "label": "ARN 12 May 2022: 'Pennytel gains momentum with MeshTelco buy'"
+        }
+      ]
     }
   ]
 }

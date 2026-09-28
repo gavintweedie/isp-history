@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://dotinfointernet.com.au",
-  "summary": "Dialup/nationwide ISP (~2005); defunct.",
+  "summary": "Dialup/nationwide ISP (~2005); defunct (CATHERINE MARIE DAVIS (sole trader), ABN 95 304 030 047).",
   "names": [
     {
       "name": "Dot Info Internet",
@@ -39,6 +39,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20051216111147/http://www.dotinfointernet.com.au/",
       "label": "Dot Info Internet (Wayback 16 Dec 2005)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=95304030047",
+      "label": "ABR: CATHERINE MARIE DAVIS ABN 95 304 030 047"
     }
   ]
 }

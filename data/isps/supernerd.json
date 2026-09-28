@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "http://www.supernerd.com.au",
-  "summary": "Melbourne residential ISP, sister company of enterprise ISP Australian Internet Services (both led by MD Steven Wong); acquired by iiNet (early Sep 2011) and ~4,000 customers migrated to iiNet's network.",
+  "summary": "Melbourne residential ISP, consumer arm of enterprise ISP Australia Internet Solutions (both led by MD Steven Wong); acquired by iiNet (early Sep 2011) and ~4,000 customers migrated to iiNet's network (AUSTRALIA INTERNET SOLUTIONS PTY. LTD., ACN 076 598 582).",
   "names": [
     {
       "name": "Supernerd",
@@ -33,6 +33,11 @@
       "kind": "news",
       "url": "https://www.itnews.com.au/news/iinet-acquires-melbourne-isp-supernerd-272632",
       "label": "iTnews: iiNet acquires Melbourne ISP Supernerd (Sep 2011)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=59076598582",
+      "label": "ABR: AUSTRALIA INTERNET SOLUTIONS PTY. LTD. ACN 076 598 582"
     }
   ]
 }

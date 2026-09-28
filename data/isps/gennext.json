@@ -4,7 +4,7 @@
   "birthplace": "Nambucca Valley (Macksville), NSW",
   "status": "inactive",
   "website": "https://gennext.net.au/",
-  "summary": "Nambucca Valley local ISP (unlimited NBN + cloud-hosted business phone); acquired by Fantel Pty Ltd.",
+  "summary": "Nambucca Valley local ISP (unlimited NBN + cloud-hosted business phone); acquired by Fantel Pty Ltd (GENNEXT ENTERPRISES PTY LTD, ACN 607 188 616).",
   "names": [
     {
       "name": "GenNext",
@@ -26,6 +26,13 @@
       "date_disp": "c. 2023",
       "precision": "approx",
       "details": "Acquired by Fantel Pty Ltd."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=55607188616",
+      "label": "ABR: GENNEXT ENTERPRISES PTY LTD ACN 607 188 616"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://metromesh.com.au",
-  "summary": "Perth CBD WiFi hotzone/roaming provider (by aCure Technology, launched 2005); defunct.",
+  "summary": "Perth CBD WiFi hotzone/roaming provider (by ACURE TECHNOLOGY PTY LTD, ACN 103 327 340, launched 2005); defunct.",
   "names": [
     {
       "name": "metromesh",
@@ -38,6 +38,13 @@
           "label": "Wayback: first webmail-only / parked homepage"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=89103327340",
+      "label": "ABR: ACURE TECHNOLOGY PTY LTD ACN 103 327 340"
     }
   ]
 }

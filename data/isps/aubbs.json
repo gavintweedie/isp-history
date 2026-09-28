@@ -3,7 +3,7 @@
   "slug": "aubbs",
   "status": "inactive",
   "website": "aubbs.com.au",
-  "summary": "NBN-focused ISP (Australian Broadband Services Pty Limited), founded April 2012 by Rob Appel (ex-OzEmail); cited as the first purely cloud-based ISP and the first to offer unlimited NBN plans; acquired by Amaysim July 2016 for $4m.",
+  "summary": "NBN-focused ISP (AUSTRALIAN BROADBAND SERVICES PTY LTD, ACN 150 723 354), founded April 2012 by Rob Appel (ex-OzEmail); cited as the first purely cloud-based ISP and the first to offer unlimited NBN plans; acquired by Amaysim July 2016 for $4m.",
   "aliases": [
     "Australian Broadband Services Pty Ltd"
   ],
@@ -45,6 +45,11 @@
       "kind": "wikipedia",
       "url": "https://en.wikipedia.org/wiki/AusBBS",
       "label": "Wikipedia: AusBBS"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=97150723354",
+      "label": "ABR: AUSTRALIAN BROADBAND SERVICES PTY LTD ACN 150 723 354"
     }
   ]
 }

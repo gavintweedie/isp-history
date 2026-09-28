@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://bfm.net.au",
-  "summary": "Community-fundraising telecom + ISP (phone + internet + mobile, by 2007); wound down c. 2012.",
+  "summary": "Community-fundraising telecom + ISP (phone + internet + mobile, by 2007); wound down c. 2012 (PAUL DAVID JACOBS (sole trader), ABN 36 004 636 874).",
   "names": [
     {
       "name": "BFM Telecoms",
@@ -40,6 +40,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20070403011243/http://www.bfm.net.au/",
       "label": "BFM Telecoms — phone/internet/mobile + community fundraising (Wayback 3 Apr 2007)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=36004636874",
+      "label": "ABR: JACOBS, PAUL DAVID (SOLE TRADER) ABN 36 004 636 874"
     }
   ]
 }
