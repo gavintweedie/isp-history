@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2014,
-      "date_disp": "by 2014",
-      "precision": "by",
-      "details": "Defunct."
+      "year": 2012,
+      "date_disp": "30 June 2012",
+      "precision": "exact",
+      "details": "Ceased operating.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20141218133638/http://interdomain.net.au/",
+          "label": "Company's own closure notice gives an exact cessation date of 30 June 2012."
+        }
+      ]
     }
   ],
   "refs": [

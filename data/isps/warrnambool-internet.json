@@ -28,12 +28,17 @@
       "year": 2000,
       "date_disp": "by Dec 2000",
       "precision": "by",
-      "details": "Datafast Half Yearly Report 31 Dec 2000 references 'divestment of our Warrnambool and Ballarat retail operations'; ACN 074018554 cancelled 2022.",
+      "details": "Absorbed — Warrnambool/Ballarat retail operations divested.",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=244462",
           "label": "ASX/Datafast: Divestment of Warrnambool retail operations (pre-Dec 2000)"
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=41074018554",
+          "label": "Company shell survived to 2022, but retail ISP had long since been divested."
         }
       ]
     }

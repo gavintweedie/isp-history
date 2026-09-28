@@ -23,12 +23,24 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Last DCC-branded homepage Nov 2000 (Brisbane, ph 07 3219 4540); by 2001 dcc.net.au redirected to successor 'Clockwork'; domain later parked ('under construction').",
+      "date_disp": "by mid-2001",
+      "precision": "by",
+      "details": "Acquired by Clockwork — redirected to successor 'Clockwork'.",
       "source": [
         "https://web.archive.org/web/20001109091900/http://www.dcc.net.au/ (DCC homepage, Nov 2000)",
         "https://web.archive.org/web/20011130205801/http://dcc.net.au/ (redirect to Clockwork, 2001)"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20001121045600/http://www.dcc.net.au/",
+          "label": "DCC-branded homepage still live 21 Nov 2000."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010516030231/http://dcc.net.au/",
+          "label": "By 16 May 2001 dcc.net.au redirected to successor Clockwork."
+        }
       ]
     }
   ],

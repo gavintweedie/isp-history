@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2023,
+      "date_disp": "31 March 2023",
+      "precision": "exact",
+      "details": "Ceased operating — explicit closure notice.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20230607030606/http://www.ispdr.net.au/",
+          "label": "Explicit closure notice on the homepage."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=94065087354",
+          "label": "Operating company (trading as ISP DOCTOR) remained active after site closure."
+        }
+      ]
     }
   ],
   "refs": [

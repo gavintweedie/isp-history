@@ -24,8 +24,25 @@
       "kind": "death",
       "year": 2009,
       "date_disp": "Jul 2009",
-      "precision": "approx",
-      "details": "Voluntary administration Jul 2009; no acquirer found."
+      "precision": "exact",
+      "details": "Entered administration.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.abc.net.au/news/2009-07-29/billing-row-forces-telco-into-administration/1370768",
+          "label": "ABC News, 29 Jul 2009"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/ecomtel-folds-blames-telstra-adsl-billing-dispute-151448",
+          "label": "iTnews, Jul 2009"
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/1250976",
+          "label": "Whirlpool archive; customer emails posted 2009-07-28"
+        }
+      ]
     }
   ],
   "refs": [

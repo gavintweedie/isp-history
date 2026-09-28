@@ -22,12 +22,24 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2007",
-      "precision": "approx",
-      "details": "DC Box appliance site captured 2000-05; by 2006-07 dcbox.com.au showed \"Digivation\" (engineering/computing consulting at the same Ashwood address) promoting a \"DC Server\" product; DC Box brand ended c.2006-07.",
+      "year": 2003,
+      "date_disp": "by Dec 2003",
+      "precision": "by",
+      "details": "Ceased operating — trading ceased; notice posted on site.",
       "source": [
         "https://web.archive.org/web/20070830160845id_/http://dcbox.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031217151904/http://www.dcbox.com.au/",
+          "label": "DCBOX-branded site explicitly states the company is no longer operating; 17 Dec 2003."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040327232824/http://www.dcbox.com.au/",
+          "label": "Same notice still up 27 Mar 2004; brand wound up."
+        }
       ]
     }
   ],

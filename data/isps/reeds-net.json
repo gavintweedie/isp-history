@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
+      "year": 2017,
+      "date_disp": "c. 2017",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Website gone (no live site) — last real site Oct 2017; 'Index of /' by Feb 2018.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041024075632/http://www.reeds.net.au/",
+          "label": "Live ISP site Oct 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20171014033651/http://www.reeds.net.au/",
+          "label": "Last real content capture Oct 2017."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20180225092619/http://reeds.net.au/",
+          "label": "By Feb 2018 a bare file index (still so in 2026)."
+        }
+      ]
     }
   ],
   "refs": [

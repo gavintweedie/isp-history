@@ -29,11 +29,23 @@
     {
       "kind": "death",
       "year": 2014,
-      "date_disp": "c. 2013-15",
+      "date_disp": "c. 2014",
       "precision": "approx",
-      "details": "Retail ISP wound down; no acquisition found. Exact wind-down date is uncertain — the access.net.au domain persisted with Wayback captures continuing into the 2020s.",
+      "details": "Website gone (no live site).",
       "source": [
         "Wayback CDX for access.net.au (captures continue past 2013-15): http://web.archive.org/cdx/search/cdx?url=access.net.au"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20131202060254/http://www.access.net.au/",
+          "label": "Still a live business-ISP site Dec 2013."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20141228090320/http://www.access.net.au/",
+          "label": "By Dec 2014 the domain was a frameset redirect to acecommunications.com.au; retail site gone."
+        }
       ]
     }
   ],

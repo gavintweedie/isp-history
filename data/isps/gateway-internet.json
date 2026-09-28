@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2003,
+      "date_disp": "2003",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Acquired by CipherTel Pty Ltd — business acquired by CipherTel.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.businessnews.com.au/Company/CipherTel",
+          "label": "Business News company profile."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20150207153712/http://gateway.net.au/",
+          "label": "gateway.net.au stayed branded until ~2014, then began redirecting to CipherTel; today gateway.net.au serves CipherTel."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View/65540299417",
+          "label": "Old partnership ABN cancelled 2001; the trading name was then carried by CipherTel from 2002-08-08."
+        }
+      ]
     }
   ],
   "refs": [

@@ -29,10 +29,27 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "c. 2010-15",
-      "precision": "approx",
-      "details": "Wound down; domain later parked."
+      "year": 2008,
+      "date_disp": "by May 2008",
+      "precision": "by",
+      "details": "Merged away.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080110233020/http://www.actonline.com.au/",
+          "label": "Still a live ACTOnline-branded ISP in Jan 2008."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080315043625/http://www.actonline.com.au/",
+          "label": "Still live mid-Mar 2008."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080527083418/http://www.actonline.com.au/",
+          "label": "By May 2008 folded into parent CyberOne; brand ceased."
+        }
+      ]
     }
   ],
   "refs": [

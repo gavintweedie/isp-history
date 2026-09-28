@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2016,
+      "date_disp": "c.2016",
       "precision": "approx",
-      "details": "Rebranded Wirefreebroadband."
+      "details": "Acquired by GTelecom — last live Jan 2016; 301 to gtelecom.com.au by 2018.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20160110012234/http://wirelessworks.com.au/",
+          "label": "Final genuine Wireless Works capture Jan 2016."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20181222025528id_/http://wirelessworks.com.au/",
+          "label": "By Dec 2018 the domain redirects to GTelecom."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=34109699050",
+          "label": "Company ABN cancelled 2014; site survived until 2016."
+        }
+      ]
     }
   ],
   "refs": [

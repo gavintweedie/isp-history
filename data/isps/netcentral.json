@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2015,
+      "date_disp": "between Dec 2014 and Feb 2015",
+      "precision": "by",
+      "details": "Website gone (no live site) — homepage reduced to an empty page.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20141218180558/http://netcentral.com.au/",
+          "label": "Full live Hunter Valley ISP site in Dec 2014."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20150226031417/http://netcentral.com.au/",
+          "label": "By Feb 2015 the homepage was an empty body; by Oct 2016 it was an easyDNS parked page."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=084085174",
+          "label": "Company deregistered two years after the site died."
+        }
+      ]
     }
   ],
   "refs": [

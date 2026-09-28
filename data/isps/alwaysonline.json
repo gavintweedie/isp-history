@@ -30,12 +30,29 @@
     {
       "kind": "death",
       "year": 2012,
-      "date_disp": "c. 2012",
-      "precision": "approx",
-      "details": "Retail ISP site last seen Feb 2011; replaced by a Tumblr placeholder by Jan 2012, then returned 404 by 2013.",
+      "date_disp": "by Aug 2012",
+      "precision": "by",
+      "details": "Website gone (no live site).",
       "source": [
         "https://web.archive.org/web/20110205134003/http://www.alwaysonline.net.au/",
         "https://web.archive.org/web/20120117023410/http://www.alwaysonline.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20120718045837/http://www.alwaysonline.net.au/",
+          "label": "Site still up as a blog in Jul 2012, announcing email migration to IFTelecom (Jun 2011)."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20120803011340/http://www.alwaysonline.net.au/",
+          "label": "By Aug 2012 the domain returned 404 (403 by 2015)."
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/14680",
+          "label": "Whirlpool thread confirms the ISP traded from ~2002."
+        }
       ]
     }
   ],

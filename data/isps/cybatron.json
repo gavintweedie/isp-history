@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 1998,
+      "date_disp": "by Aug 1998",
+      "precision": "by",
+      "details": "Acquired by Hotkey Internet Services (Primus Telecommunications).",
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20000603155303/http://www.cybatron.com.au/",
+          "label": "Notice signed 'Hotkey Internet Services Pty. Ltd.' and 'Last Updated: 28th August 1998', served on the cybatron homepage for years."
+        }
+      ]
     }
   ],
   "refs": [

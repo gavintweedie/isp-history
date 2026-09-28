@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
-      "precision": "approx",
-      "details": "Entity cancelled 18 Aug 2010."
+      "year": 2008,
+      "date_disp": "by Jul 2008",
+      "precision": "by",
+      "details": "Website gone (no live site). site replaced by Apache default page; company cancelled Aug 2010.",
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20020101000000/http://www.matrix.net.au/",
+          "label": "Live ISP site captured 2002."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20080721225815/http://www.matrix.net.au/",
+          "label": "By Jul 2008 the homepage was a bare Apache default page, i.e. the ISP site was gone."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20141219030700/http://matrix.net.au/",
+          "label": "Later captures are generic server defaults."
+        }
+      ]
     }
   ],
   "refs": [

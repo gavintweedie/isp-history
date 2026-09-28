@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2005,
+      "date_disp": "by Dec 2005",
+      "precision": "by",
+      "details": "Acquired by Integrity Network Solutions — Northlink site replaced by Integrity Network Solutions.",
+      "refs": [
+        {
+          "kind": "wayback-last-live",
+          "url": "https://web.archive.org/web/20050629115129/http://nlc.net.au/",
+          "label": "Jun 2005 still fully Northlink branded."
+        },
+        {
+          "kind": "wayback-first-other",
+          "url": "https://web.archive.org/web/20051208011634/http://www.nlc.net.au/",
+          "label": "By Dec 2005 nlc.net.au is Integrity Network Solutions; Northlink brand gone."
+        },
+        {
+          "kind": "wayback-liquidation",
+          "url": "https://web.archive.org/web/20120403190441/http://nlc.net.au/",
+          "label": "Integrity (Northlink's successor) itself later liquidated in Sep 2011."
+        }
+      ]
     }
   ],
   "refs": [

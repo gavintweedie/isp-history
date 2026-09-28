@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Taken over by WestNet; swisp.net.au redirected to westnet.com.au."
+      "year": 2003,
+      "date_disp": "by Oct 2003",
+      "precision": "by",
+      "details": "Acquired by WestNet — service rebranded to WestNet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031003120955/http://www.swisp.net.au/",
+          "label": "By 3 Oct 2003 swisp.net.au served WestNet branding."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050615081912/http://swisp.net.au/",
+          "label": "WestNet branding persists in 2005; domain later becomes a bare redirect."
+        }
+      ]
     }
   ],
   "refs": [

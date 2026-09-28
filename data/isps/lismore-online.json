@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2008,
+      "date_disp": "by mid-2008 lismoreonline.com.au served a Plesk default page",
+      "precision": "by",
+      "details": "Website gone (no live site). service had ceased.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20050205091349/http://www.lismoreonline.com.au/",
+          "label": "Still selling ADSL modems and dial-up in Feb 2005."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20080718203655/http://www.lismoreonline.com.au/",
+          "label": "By Jul 2008 the domain is a server default page; no captures after 2008."
+        }
+      ]
     }
   ],
   "refs": [

@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2003,
-      "date_disp": "c. 2000s",
+      "date_disp": "JTR Computers rebranded to Ossini Internet Solutions between Feb 2003 and Jan 2004",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Merged away.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20030202034156/http://www.jtr.net.au/",
+          "label": "Still trading as JTR Computers in Feb 2003."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20040129030017/http://www.jtr.net.au/",
+          "label": "By Jan 2004 the same jtr.net.au site is branded Ossini Internet Solutions (OSSINI PTY LTD, ACN 100 584 656)."
+        }
+      ]
     }
   ],
   "refs": [

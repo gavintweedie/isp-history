@@ -25,12 +25,22 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Sold Singapore/Malaysia assets 2004; shares last traded ~2005; wound down.",
+      "details": "Entered administration — domain for sale by Dec 2008.",
       "refs": [
         {
           "kind": "official",
           "url": "https://www.delisted.com.au/company/skynetglobal-limited/",
-          "label": "deListed Australia: SkyNetGlobal Limited (ASX:SKG) \u2014 renamed E-PAY Asia Limited 24 Nov 2005"
+          "label": "deListed Australia: SkyNetGlobal Limited (ASX:SKG) — renamed E-PAY Asia Limited 24 Nov 2005"
+        },
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20040608170650/http://www.skynetglobal.com/",
+          "label": "Assets sold 2004 and shares last traded ~2005."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "http://web.archive.org/web/20081228010624/http://www.skynetglobal.com/",
+          "label": "By Dec 2008 the domain was openly for sale, confirming the company had wound down."
         }
       ]
     }

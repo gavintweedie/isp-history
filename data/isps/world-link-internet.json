@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2000s",
-      "precision": "approx",
-      "details": "No later records found."
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "by",
+      "details": "Ceased operating — SURFINDAWEB Communications ABN cancelled 24 Oct 2004.",
+      "refs": [
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=91086769075",
+          "label": "Operating company behind world-link.com.au cancelled in Oct 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130409080805/http://worldlink.com.au/",
+          "label": "By 2013 the domain is a Crazy Domains parking page."
+        }
+      ]
     }
   ],
   "refs": [

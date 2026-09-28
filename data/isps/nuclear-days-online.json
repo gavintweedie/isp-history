@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2005,
+      "date_disp": "by Jun 2005",
+      "precision": "by",
+      "details": "Website gone (no live site) — domain placeholder.",
+      "refs": [
+        {
+          "kind": "wayback-last-live",
+          "url": "https://web.archive.org/web/20031214231830/http://www.nucleardaysonline.com.au/",
+          "label": "Dec 2003 active dialup/ADSL gaming ISP of the Lismore Online Group."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20050615041128/http://nucleardaysonline.com.au/",
+          "label": "By Jun 2005 (the domain's last capture) the site is a Plesk placeholder."
+        }
+      ]
     }
   ]
 }

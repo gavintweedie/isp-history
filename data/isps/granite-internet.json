@@ -25,7 +25,24 @@
       "year": 2002,
       "date_disp": "2002",
       "precision": "approx",
-      "details": "Acquired by iiNet in its 2002 regional acquisition round. The earlier 'userbase mostly to RuralNet' note was wrong - RuralNet (Mildura VIC) was itself acquired by iiNet (announced 31 Dec 2002)."
+      "details": "Acquired by iiNet — customer base acquired by iiNet.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/IiNet",
+          "label": "iiNet's acquisition list includes Granite Internet."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030203214914/http://www.granite.net.au/",
+          "label": "By 2003 granite.net.au was a bare index; brief's 2002 acquisition round is consistent."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View/48677850032",
+          "label": "Sole-trader ABN cancelled 2015."
+        }
+      ]
     }
   ],
   "refs": [

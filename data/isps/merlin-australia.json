@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "No later records found after the mid-2000s."
+      "year": 2001,
+      "date_disp": "by Mar 2001",
+      "precision": "by",
+      "details": "Acquired by Internode — merlin.net.au serving Internode pages.",
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/19961228135039/http://merlin.net.au/",
+          "label": "Live Merlin Australia site, Dec 1996."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20010301181116/http://www.merlin.net.au/",
+          "label": "By Mar 2001 merlin.net.au serves Internode content, indicating takeover/redirect."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=merlin.net.au",
+          "label": "Live 1996 capture then persistent 3xx redirects from 2001 onward."
+        }
+      ]
     }
   ],
   "refs": [

@@ -48,12 +48,17 @@
       "year": 2009,
       "date_disp": "by Feb 2009",
       "precision": "by",
-      "details": "norcom.net.au serving Concept Networks (site footer: Concept Networks 2008) by 23 Feb 2009; Norcom ISP ended, domain passed to Concept Networks. Closest Wayback snapshot to today remains Feb 2009; norcom.net.au and pilbara.net.au no longer resolve.",
+      "details": "Acquired by Concept Networks — norcom.net.au serving Concept Networks.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20090223202542/http://norcom.net.au/",
           "label": "norcom.net.au (Wayback 23 Feb 2009): Concept Networks content, ending the Norcom era"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20091030044634/http://norcom.net.au/",
+          "label": "Later the domain redirected to Eftel, consistent with Concept Networks folding into Eftel."
         }
       ]
     }

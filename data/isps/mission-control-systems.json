@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
-      "precision": "approx",
-      "details": "Operations to Professional Internet Services."
+      "year": 2016,
+      "date_disp": "by Feb 2016",
+      "precision": "by",
+      "details": "Website gone (no live site) — 404 error page.",
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20140511072956/http://www.mcs.net.au/",
+          "label": "In 2014 mcs.net.au was a live ISP (Mackay Computer Services / Redfox)."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20160228082614/http://www.mcs.net.au/",
+          "label": "By Feb 2016 the site returned a Joomla 404, i.e. the content was gone."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20250305084014/http://mcs.net.au/",
+          "label": "Later captures return 403/dead responses."
+        }
+      ]
     }
   ]
 }

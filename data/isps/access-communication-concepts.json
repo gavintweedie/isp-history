@@ -36,10 +36,22 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "ISP defunct; domain repurposed."
+      "year": 2011,
+      "date_disp": "by Feb 2011",
+      "precision": "by",
+      "details": "Website gone (no live site).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20101224101410/http://www.accc.net.au/",
+          "label": "Still advertising ADSL/Broadband connectivity in Dec 2010."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110205173227/http://www.accc.net.au/",
+          "label": "By Feb 2011 site had become a hosting/web company with no connectivity products."
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,15 +22,20 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "by Sep 2009",
-      "precision": "by",
-      "details": "Defunct.",
+      "year": 2016,
+      "date_disp": "closed on 31 January 2016, citing NBN overbuild of its wireless footprint",
+      "precision": "exact",
+      "details": "Ceased operating.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20090913042139/http://linknet.com.au/",
           "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.echo.net.au/2015/12/north-coast-isp-to-close-down-blames-nbn/",
+          "label": "The Echo (9 Dec 2015) reports the closure date of 31 Jan 2016."
         }
       ]
     }

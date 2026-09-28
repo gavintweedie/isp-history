@@ -49,12 +49,17 @@
       "year": 2004,
       "date_disp": "by 10 Aug 2004",
       "precision": "by",
-      "details": "ISP trading name MAPIT lapsed 10 Aug 2004; company later ran Shelly Beach Cafe (2006-2010). Dial-up ISP operation ended with the MAPIT name.",
+      "details": "Website gone (no live site) — the MAPIT ISP trading name lapsed.",
       "refs": [
         {
           "kind": "official",
           "url": "https://abr.business.gov.au/AbnHistory/View?id=67078688418",
           "label": "ABR: business name MAPIT 21 May 2001 - 10 Aug 2004; later Shelly Beach Cafe"
+        },
+        {
+          "kind": "archive",
+          "url": "https://archive.org/wayback/available?url=mullumbimby.net.au",
+          "label": "No website captures exist for mullumbimby.net.au (or .com.au), so the death is dated by the business-name lapse, not a site."
         }
       ]
     }

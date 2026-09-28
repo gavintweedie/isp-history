@@ -26,9 +26,21 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "c. early 2001",
       "precision": "approx",
-      "details": "ISP business acquired by Asia Online; entity later pivoted to Metabrowser Systems."
+      "details": "Acquired by Asia Online — ISP business acquired by Asia Online; last ISP homepage 2000.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000510012902/http://www.spirit.net.au/",
+          "label": "Last clearly Spirit-Networks ISP homepage (May 2000)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010331044338/http://www.spirit.net.au/",
+          "label": "By Mar 2001 spirit.net.au served Asia Online branding; by 2002 it was Metabrowser Systems."
+        }
+      ]
     }
   ],
   "refs": [

@@ -21,10 +21,32 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "No records after mid-2000s."
+      "year": 2013,
+      "date_disp": "c.2012/2013",
+      "precision": "by",
+      "details": "Website gone (no live site) — Internet Depot drops its 'Internet Access' product; the company continues as a host.",
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "http://web.archive.org/web/20010201051700/http://www.cybonet.com.au/",
+          "label": "Feb 2001 capture: the event that created/expanded Internet Depot, absorbing Cybonet's internet customers (the brief's Feb 2001 acquisition)."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "http://web.archive.org/web/20010331204205/http://cybonet.com.au/",
+          "label": "Confirms the customer cut-over to Internet Depot occurred in Feb 2001."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "http://web.archive.org/web/20120615135057/http://www.depot.com.au/",
+          "label": "Internet Depot's own site (depot.com.au) was still advertising an Internet Access product in Jun 2012."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "http://web.archive.org/web/20130408072631/http://depot.com.au/",
+          "label": "By Apr 2013 the Internet Access link/product was gone, i.e. the ISP arm had ended while the hosting business continued (still running in 2026)."
+        }
+      ]
     }
   ]
 }

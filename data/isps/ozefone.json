@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2010,
+      "date_disp": "by Feb 2011",
+      "precision": "by",
+      "details": "Website gone (no live site) — account suspended.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20090209000015/http://www.ozefone.com/",
+          "label": "Still trading site in Feb 2009."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20110202195206/http://ozefone.com/",
+          "label": "By Feb 2011 the hosting account was suspended."
+        }
+      ]
     }
   ],
   "refs": [

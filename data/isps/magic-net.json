@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "c. Apr–Jul 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Website gone (no live site) — homepage replaced by 'Directory Listing Denied'.",
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20010419192010/http://www.magicnet.net.au/",
+          "label": "Last capture with the live MagicNet homepage (Apr 2001)."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20010723124605/http://www.magicnet.net.au/",
+          "label": "By Jul 2001 the homepage index was gone (server up, no default page)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=magicnet.net.au",
+          "label": "No captures after Jul 2001."
+        }
+      ]
     }
   ],
   "refs": [

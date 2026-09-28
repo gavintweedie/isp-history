@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
-      "precision": "approx",
-      "details": "Brand absorbed."
+      "year": 2008,
+      "date_disp": "7 Feb 2008",
+      "precision": "exact",
+      "details": "Acquired by TPG Telecom (TPG Holdings) — merger with TPG announced; effective 22 Apr 2008.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/business/sp-telemedia-to-merge-with-tpg-20080207-1qte.html",
+          "label": "SP Telemedia traded as SOUL; merger announced 7 Feb 2008."
+        },
+        {
+          "kind": "report",
+          "url": "https://www.asx.com.au/asxpdf/20080407/pdf/318g2ypyzkwn6l.pdf",
+          "label": "ASX announcement confirming SOUL/SP Telemedia absorbed by TPG."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20081025082148/http://www.soul.com.au/",
+          "label": "soul.com.au had been repurposed to the Juniper apartment project by Oct 2008; ISP brand moved to soul.net.au."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190303194844/http://soul.net.au/",
+          "label": "SOUL ISP-brand site on soul.net.au still live 2019; domain captures end c. 4 Mar 2021."
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2005,
+      "date_disp": "c. mid-2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Acquired by Hotkey Internet Services — brand/site replaced by Hotkey Internet.",
+      "refs": [
+        {
+          "kind": "wayback-last-live",
+          "url": "https://web.archive.org/web/20050305170342/http://www.nobbys.net.au/",
+          "label": "Mar 2005 still Nobbys Net branded; already linked to Hotkey/Primus."
+        },
+        {
+          "kind": "wayback-first-redirect",
+          "url": "https://web.archive.org/web/20051028151140/http://www.nobbys.net.au/",
+          "label": "By Oct 2005 nobbys.net.au serves Hotkey branding, so the brand died between Mar and Oct 2005."
+        }
+      ]
     }
   ],
   "refs": [

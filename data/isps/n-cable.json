@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2011,
+      "date_disp": "between Feb and Jul 2011",
+      "precision": "by",
+      "details": "Acquired by TransACT — Neighbourhood Cable brand replaced by TransACT.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Neighbourhood_Cable",
+          "label": "Documents the 2007 acquisition and the mid-2011 brand retirement."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110205122822/http://www.ncable.net.au/_site/",
+          "label": "Still the Neighbourhood Cable site in Feb 2011."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110706123600/http://www.ncable.net.au/",
+          "label": "By 6 Jul 2011 ncable.net.au served the TransACT homepage, confirming the rebrand."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=000042295",
+          "label": "The ACN cited in the brief resolves to a TransACT entity, corroborating the acquirer."
+        }
+      ]
     }
   ],
   "refs": [

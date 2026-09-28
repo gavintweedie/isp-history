@@ -34,10 +34,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2003-04",
+      "year": 2000,
+      "date_disp": "between 8 and 28 Sep 2000",
       "precision": "approx",
-      "details": "Customers absorbed by APEX Internet."
+      "details": "Acquired by APEX Internet — domain began redirecting to APEX Internet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000908193016/http://www.effect.net.au/",
+          "label": "Last capture with NetEffect's own homepage (8 Sep 2000)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021122131811/http://www.effect.net.au/",
+          "label": "By Sep 2000 the domain was a meta-refresh to apex.net.au; the redirect persisted through the 2000s."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=075131458",
+          "label": "The shell company survived until 2014, long after the service ended."
+        }
+      ]
     }
   ],
   "refs": [

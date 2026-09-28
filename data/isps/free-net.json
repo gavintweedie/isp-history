@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "by 2006",
+      "year": 2003,
+      "date_disp": "by Dec 2003",
       "precision": "by",
-      "details": "Became PremiumNet, then gone."
+      "details": "Ceased — became PremiumNet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031213141503/http://www.free.net.au/",
+          "label": "By 13 Dec 2003 Free Net had become the paid ISP PremiumNet."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?id=82439200203",
+          "label": "PremiumNet trading name from Jun 2003; ABN cancelled Jan 2009."
+        }
+      ]
     }
   ],
   "refs": [

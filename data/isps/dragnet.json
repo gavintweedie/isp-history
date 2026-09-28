@@ -33,7 +33,29 @@
       "year": 2013,
       "date_disp": "c. 2013",
       "precision": "approx",
-      "details": "Customer base sold to Eftel (satellite business kept separate); deregistered 2015, ABN cancelled 2017."
+      "details": "Acquired by Eftel — customer base sold to Eftel; Eftel notice Jan 2014; deregistered 2015.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/enterprise-it-global-in-administration-275235",
+          "label": "DragNet's parent Enterprise IT Global went into voluntary administration in Sep 2011."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.bordermail.com.au/story/65565/local-it-company-in-administration/",
+          "label": "Local press confirms the administration of the DragNet operator."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20140114032348/http://dragnet.com.au/",
+          "label": "Jan 2014 Eftel notice confirms the acquisition of the customer base c. 2013."
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/1681100",
+          "label": "Whirlpool discussion of the 2011 Enterprise IT Global merger."
+        }
+      ]
     }
   ],
   "refs": [

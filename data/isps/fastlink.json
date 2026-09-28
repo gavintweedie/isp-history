@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Acquired by Hotkey Internet Services Pty Limited — rebranded to Hotkey.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060819225756/http://www.fastlink.com.au/",
+          "label": "By Aug 2006 fastlink.com.au served Hotkey branding entirely."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?id=54069755237",
+          "label": "Central Coast company (NSW 2250) cancelled 2012."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20180331084950/http://fastlink.com.au/",
+          "label": "Domain finally parked by Mar 2018, ending the Hotkey era on this domain."
+        }
+      ]
     }
   ]
 }

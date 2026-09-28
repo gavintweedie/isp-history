@@ -68,14 +68,24 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "c. Aug-Sep 2001",
       "precision": "approx",
-      "details": "Ceased trading ~Aug 2001; customers reportedly absorbed by Independent Service Providers (isp.net.au).",
+      "details": "Ceased operating.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19961223005045/http://www.rpi.net.au/",
           "label": "RPI Internet (Wayback 1996)"
+        },
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/19961223005045/http://www.rpi.net.au/",
+          "label": "Live ISP site captured from 23 Dec 1996."
+        },
+        {
+          "kind": "wayback-dead",
+          "url": "http://web.archive.org/web/20010927051222/http://rpi.net.au/",
+          "label": "After the 16 May 2001 capture the full ISP site disappears; records report ceasing trading ~Aug 2001 with customers absorbed by Independent Service Providers (i"
         }
       ]
     }

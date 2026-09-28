@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2014,
+      "date_disp": "c.2014",
       "precision": "approx",
-      "details": "ISP arm became Zettagrid; ended as an ISP."
+      "details": "Acquired by Zetta Pty Ltd — last live May 2014; 302 to zetta.com.au from Dec 2014.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20140517023316/http://zettaserve.com.au/",
+          "label": "Final genuine ZettaServe page May 2014."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20141218191302id_/http://zettaserve.com.au/",
+          "label": "From Dec 2014 the domain redirects to the Zetta holding brand."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=69106003490",
+          "label": "Same entity renamed Zetta; ISP arm became Zettagrid."
+        }
+      ]
     }
   ]
 }

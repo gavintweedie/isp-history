@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 1999,
-      "date_disp": "c. 1999",
-      "precision": "approx",
-      "details": "Gone from directory by ~1999."
+      "year": 2001,
+      "date_disp": "Nov 2001",
+      "precision": "exact",
+      "details": "Acquired by Camtech — domain 302-redirected to Camtech.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20011128000157/http://www.terra.net.au/",
+          "label": "28 Nov 2001; earlier 2001 captures still served Terra content."
+        }
+      ]
     }
   ],
   "refs": [

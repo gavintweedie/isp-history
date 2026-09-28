@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2005,
+      "date_disp": "by mid-2005",
+      "precision": "by",
+      "details": "Website gone (no live site) — site replaced by Apache test page.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010930230618/http://www.graftoninternet.com.au/",
+          "label": "2001: Grafton Internet ran under Lismore Online."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050717011822/http://graftoninternet.com.au/",
+          "label": "By Jul 2005 the site is a default Apache test page; only 17 captures ever, none after Jul 2005."
+        }
+      ]
     }
   ]
 }

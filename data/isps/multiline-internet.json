@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2016,
-      "date_disp": "c. Oct 2016",
-      "precision": "approx",
-      "details": "Voluntary deregistration (ASIC)."
+      "date_disp": "29 Jun 2016",
+      "precision": "by",
+      "details": "Ceased operating. ABN cancelled; a 'Multiline'-branded website outlived the entity.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=069815210",
+          "label": "Official ABN cancellation for the Multiline operator (ABN 78 069 815 210), narrowing the brief's '~Oct 2016' to 29 Jun 2016."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051025030437/http://www.multiline.com.au/",
+          "label": "Live ISP-era homepage."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190124221216/https://www.multiline.com.au/",
+          "label": "The domain kept serving a Multiline-branded WordPress site after the 2016 deregistration, so the brand outlived the company."
+        }
+      ]
     }
   ],
   "refs": [

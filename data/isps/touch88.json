@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2002,
-      "date_disp": "by 2002",
-      "precision": "by",
-      "details": "Last Wayback capture of touch88.com.au Jan 2002."
+      "date_disp": "c. 2001-2002",
+      "precision": "approx",
+      "details": "Acquired by EFTel — merged with EFTel.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020121094420/http://www.touch88.com.au/",
+          "label": "Homepage announced merger with EFTel; last live capture Jan 2002."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=12083103762",
+          "label": "Operating entity cancelled 2014, after the brand had already merged away."
+        }
+      ]
     }
   ]
 }

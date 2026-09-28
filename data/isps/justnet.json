@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010-11",
-      "precision": "approx",
-      "details": "Rebranded to Sublime IP (same company)."
+      "year": 2005,
+      "date_disp": "Justnet Pty Ltd renamed Sublime IP Pty Ltd on 10 November 2005",
+      "precision": "exact",
+      "details": "Merged away.",
+      "refs": [
+        {
+          "kind": "company-register",
+          "url": "https://www.aubiz.net/company/sublime-ip-pty-ltd-068467667/",
+          "label": "ABR main-name history shows the corporate rename from Justnet Pty Ltd to Sublime IP Pty Ltd on 10 Nov 2005."
+        },
+        {
+          "kind": "document",
+          "url": "https://caff.in/personal/about/What_is_the_history_of_DIALix.pdf",
+          "label": "Confirms JustNet is the earlier name of the same company."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20080718183515/http://just.net.au/",
+          "label": "By 2008 just.net.au was only a Sublime IP placeholder."
+        }
+      ]
     }
   ],
   "refs": [

@@ -96,3 +96,10 @@ Decide whether the proposal (with its new evidence) should override the existing
 ## Method note (for all future agents)
 
 When proposing a change to an existing value, compare not only against the current file but against its **git provenance** (`git log -S '"<current value>"' -- <file>`). The repo has multiple contributors (Gavin Tweedie, Ian Henderson, Lincoln Dale) plus verification passes; do not override a referenced/verified value on weaker evidence.
+
+## 7. Vague-death pass (527 entities)
+
+Full evidence: `docs/review/vd-research.json`; report `docs/review/vd-report.md`.
+- 16 conflicts (current death set by a prior contributor/verification) and 21 cases where the ISP looks still-alive/undatable (current death event may need removing) need adjudication.
+- 177 low-confidence proposed changes held.
+- 222 high/medium changes are apply-ready.

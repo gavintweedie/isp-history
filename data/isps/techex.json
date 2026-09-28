@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2004,
+      "date_disp": "6 Oct 2004",
+      "precision": "exact",
+      "details": "Acquired by Destra Corporation — acquired by Destra Corporation.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/national/destra-to-acquire-techex-communications-20041006-gdjvb7.html",
+          "label": "SMH, 6 Oct 2004."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.whtop.com/news/7744-destra-acquires-techex-communications",
+          "label": "Deal terms; entity later renamed Destra Communications Pty Ltd."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20110205111120/http://www.techex.com.au/",
+          "label": "techex.com.au later redirected to intrapower.com.au."
+        }
+      ]
     }
   ],
   "refs": [

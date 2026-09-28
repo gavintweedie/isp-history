@@ -35,12 +35,29 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
+      "year": 2004,
+      "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Last full-content homepage captured 22 Nov 2008; from 2009 only 302-redirect stubs remain (domain later parked/reused).",
+      "details": "Acquired by EFTel.",
       "source": [
         "Wayback CDX for acepia.net.au (last full homepage 22 Nov 2008): http://web.archive.org/cdx/search/cdx?url=acepia.net.au"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040403084104/http://www.acepia.net.au/",
+          "label": "Still trading as Acepia (Melbourne premium dialup/hosting) in Apr 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040510000000/http://www.acepia.net.au/",
+          "label": "By May 2004 the domain served EFTel branding."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040601000000/http://www.acepia.net.au/",
+          "label": "Confirms EFTel took over the brand mid-2004."
+        }
       ]
     }
   ],

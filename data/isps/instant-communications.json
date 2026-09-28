@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2007,
-      "date_disp": "c. 2006-07",
-      "precision": "approx",
-      "details": "Absorbed by EFTel."
+      "date_disp": "by 2007",
+      "precision": "by",
+      "details": "Acquired by EFTel.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20060610210048/http://in.com.au/",
+          "label": "Still a live Instant Communications ISP site in Jun 2006."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20071018041900/http://www.in.com.au/",
+          "label": "By Oct 2007 the domain redirected to EFTel."
+        }
+      ]
     }
   ],
   "refs": [

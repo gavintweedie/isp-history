@@ -34,10 +34,27 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "c. 2012",
+      "year": 2013,
+      "date_disp": "c. 2013",
       "precision": "approx",
-      "details": "Fate unverified."
+      "details": "Website gone (no live site) — HarbourSat brand replaced by 'Harbour ISP'; domain later 403/404.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20120201000000/http://www.harboursat.com.au/",
+          "label": "Last clear HarbourSat-branded site, Feb 2012."
+        },
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20130601000000/http://www.harboursat.com.au/",
+          "label": "By Jun 2013 same site had rebranded to Harbour ISP."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20150101000000/http://www.harboursat.com.au/",
+          "label": "HarbourSat domain abandoned; 404 by 2017."
+        }
+      ]
     }
   ],
   "refs": [

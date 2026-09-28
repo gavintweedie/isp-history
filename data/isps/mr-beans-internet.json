@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Under Chariot netconnect."
+      "date_disp": "between 28 Jan and 13 Apr 2004",
+      "precision": "by",
+      "details": "Acquired by Chariot netconnect (Chariot Limited) — homepage replaced by Chariot netconnect.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040128205655/http://www.mrbean.net.au/",
+          "label": "Last capture carrying the Mr Bean's own-brand homepage (28 Jan 2004); Chariot netconnect already named as partner."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040413025551/http://www.mrbean.net.au/",
+          "label": "By 13 Apr 2004 mrbean.net.au served Chariot netconnect's own homepage, so the Mr Bean's site was gone."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=31088377860",
+          "label": "ABR record for Chariot Limited, the entity behind the absorbing brand."
+        }
+      ]
     },
     {
       "kind": "note",

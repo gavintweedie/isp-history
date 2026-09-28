@@ -33,15 +33,25 @@
     {
       "kind": "death",
       "year": 2004,
-      "date_disp": "Feb 2004",
-      "precision": "approx",
-      "details": "Announced agreement to be acquired by Datafast Telecommunications Ltd 17 Feb 2004 (15,000 accounts); finalised end Mar 2004, merged into Datafast/EFTel group (later M2/Vocus).",
+      "date_disp": "16 Feb 2004",
+      "precision": "exact",
+      "details": "Acquired by Datafast Telecommunications Ltd — Datafast announced acquisition; finalised by end Mar 2004.",
       "refs": [
         {
           "kind": "news",
           "url": "https://www.afr.com/politics/fast-facts-20040217-k2cbl",
           "label": "AFR: Datafast to acquire Planet Netcom (17 Feb 2004)",
           "year": 2004
+        },
+        {
+          "kind": "asx",
+          "url": "https://announcements.asx.com.au/asxpdf/20040216/pdf/3kn2zsxjq5czm.pdf",
+          "label": "Datafast ASX announcement of the Planet Netcom acquisition."
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eftel",
+          "label": "Confirms Datafast/EFTel chain (later M2/Vocus)."
         }
       ]
     }

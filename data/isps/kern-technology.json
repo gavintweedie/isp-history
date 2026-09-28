@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2011,
+      "date_disp": "c. 2011",
       "precision": "approx",
-      "details": "ISP defunct; kern.com.au later a placeholder."
+      "details": "Acquired by Adam Internet. kern.com.au had become an Adam Internet page by Feb 2012 and redirected to adam.com.au/residential.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20100118125320/http://kern.com.au/",
+          "label": "Kern was still a standalone Adelaide ISP in Jan 2010."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20120221104838/http://www.kern.com.au/",
+          "label": "By Feb 2012 kern.com.au serves Adam Internet branding."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20130408130656/http://kern.com.au/",
+          "label": "From 2013 the domain redirects to Adam Internet's residential page."
+        }
+      ]
     }
   ],
   "refs": [

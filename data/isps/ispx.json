@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2018,
-      "date_disp": "by 2018",
+      "date_disp": "by Dec 2018",
       "precision": "by",
-      "details": "Under Planet Ozi."
+      "details": "Acquired by Planet Ozi Pty Ltd.",
+      "refs": [
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20181228050144/http://home.ispx.com.au/",
+          "label": "By 28 Dec 2018 the ISPX home host had been 301-redirected into planetozi.com.au, showing the brand had been absorbed by Planet Ozi."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20120407221513/http://www.ispx.com.au/",
+          "label": "ISPX (successor to DoveNetQ ~2012) was still itself in 2012-2013 before the later Planet Ozi absorption."
+        }
+      ]
     }
   ],
   "refs": [

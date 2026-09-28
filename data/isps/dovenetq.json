@@ -28,9 +28,21 @@
       "year": 2012,
       "date_disp": "c. 2012",
       "precision": "approx",
-      "details": "Rebranded ISPX; dovenetq.net.au homepage last captured Feb 2012, then 302-redirecting from Apr 2013 and 301-redirecting from 2018 (Planet Ozi era).",
+      "details": "Acquired by ISPX — homepage last Feb 2012; rebranded ISPX, 302 from 2013.",
       "source": [
         "http://web.archive.org/cdx/search/cdx?url=dovenetq.net.au"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130408074637/http://dovenetq.net.au/",
+          "label": "By Apr 2013 DoveNetQ redirected to ISPX, the rebranded successor."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2010/http://dovenetq.net.au/",
+          "label": "Brand's own homepage survived only to Feb 2012."
+        }
       ]
     }
   ],

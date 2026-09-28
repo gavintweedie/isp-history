@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2002,
-      "date_disp": "c. 2001-02",
+      "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Acquired by EFTel; vision.net.au redirected to eftel.com."
+      "details": "Acquired by EFTel (Datafast) — acquired by EFTel; AUSTRALIAN P.C. TECHNOLOGIES ABN cancelled 1 Apr 2002.",
+      "refs": [
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=16067543766",
+          "label": "Operating company cancelled Apr 2002."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031201000000/http://www.vision.net.au/",
+          "label": "Vision branding still present Dec 2003."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040101000000/http://www.vision.net.au/",
+          "label": "By 2004 the domain served EFTel."
+        }
+      ]
     }
   ],
   "refs": [

@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://firstlink.com.au",
-  "summary": "Sydney dialup + hosting + game zone ISP (First Link Communications Pty Ltd, George St, by 1997); the same trading name also registered 1997 as First Link Internet Services Pty Ltd (PO Box 4753, North Rocks NSW). By Jun 2003 the site served a Chinese-language (Big5) ISP at Haymarket/Chinatown ('\u7b2c\u4e00\u7db2\u7d61') self-described 'Founded in 1996'. Defunct c. 2003. NOTE: this is a DIFFERENT legal entity from the current 'First Link' business ISP on the same domain \u2014 that is First Link Pty Ltd (ex-Join Internet Corporation Pty Ltd, ACN 079 681 164), which adopted the name/domain from 2010 (see isps-draft/first-link-pty-ltd.json).",
+  "summary": "Sydney dialup + hosting + game zone ISP (First Link Communications Pty Ltd, George St, by 1997); the same trading name also registered 1997 as First Link Internet Services Pty Ltd (PO Box 4753, North Rocks NSW). By Jun 2003 the site served a Chinese-language (Big5) ISP at Haymarket/Chinatown ('第一網絡') self-described 'Founded in 1996'. Defunct c. 2003. NOTE: this is a DIFFERENT legal entity from the current 'First Link' business ISP on the same domain — that is First Link Pty Ltd (ex-Join Internet Corporation Pty Ltd, ACN 079 681 164), which adopted the name/domain from 2010 (see isps-draft/first-link-pty-ltd.json).",
   "names": [
     {
       "name": "Firstlink",
@@ -12,7 +12,7 @@
       "start_disp": "by 1997"
     },
     {
-      "name": "\u7b2c\u4e00\u7db2\u7d61 (First Link, Chinese-language Haymarket ISP)",
+      "name": "第一網絡 (First Link, Chinese-language Haymarket ISP)",
       "start_year": 2003,
       "start_disp": "by Jun 2003",
       "end_year": 2003,
@@ -45,10 +45,10 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "by Jun 2005",
-      "precision": "by",
-      "details": "Defunct as an ISP c. 2003 (existing DB profile). By Jun 2005 the domain showed a generic registrar frames page and by May 2008 it was parked. The domain was later taken up by the current First Link business (First Link Pty Ltd, ex-Join Internet Corporation, ACN 079 681 164 \u2014 a VIC company), which is modelled separately as isps-draft/first-link-pty-ltd.json.",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Website gone (no live site).",
       "refs": [
         {
           "kind": "archive",

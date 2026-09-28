@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2012,
+      "date_disp": "c. 2012",
       "precision": "approx",
-      "details": "ISP arm became Zettagrid (via ZettaServe)."
+      "details": "Acquired by ZettaServe / ZettaNet — brand replaced by ZettaNet/ZettaServe.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20110615000000/http://www.highway1.com.au/",
+          "label": "Highway 1 brand still live Jun 2011."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20130101000000/http://www.highway1.com.au/",
+          "label": "By Jan 2013 highway1.com.au served ZettaNet (redirects from Aug 2012)."
+        }
+      ]
     }
   ],
   "refs": [

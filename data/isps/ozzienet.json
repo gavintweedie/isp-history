@@ -25,7 +25,7 @@
       "year": 2004,
       "date_disp": "Jun 2004",
       "precision": "approx",
-      "details": "Acquired by Datafast Telecommunications in Jun 2004 (Bunbury 'OzzieNet' ISP); Datafast renamed Eftel Dec 2005.",
+      "details": "Acquired by Datafast Telecommunications / Eftel — acquired by Datafast.",
       "refs": [
         {
           "kind": "wikipedia",
@@ -36,6 +36,11 @@
           "kind": "news",
           "url": "https://www.owiki.org/wiki/Eftel",
           "label": "oWiki: Eftel acquisition history"
+        },
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20050717092412/http://ozzienet.com.au/",
+          "label": "Brand still on the domain in Jul 2005, so the visible site outlived the acquisition."
         }
       ]
     }

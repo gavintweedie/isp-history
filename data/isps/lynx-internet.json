@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2000,
+      "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Domain lapsed."
+      "details": "Website gone (no live site). lynx.net.au had been repurposed to Falcon Web Services by Jan 2001.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20000229152442/http://www.lynx.net.au/",
+          "label": "Still the Adelaide ISP in Feb 2000."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20010124190500/http://lynx.net.au/",
+          "label": "By Jan 2001 the domain hosts an unrelated Falcon Web Services site."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20080718173046/http://www.lynx.net.au/",
+          "label": "Domain changed hands again by 2008."
+        }
+      ]
     }
   ],
   "refs": [

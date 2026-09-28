@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2005,
+      "date_disp": "by Feb 2005",
+      "precision": "by",
+      "details": "Website gone (no live site).",
+      "refs": [
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20050204115524/http://www.iqnet.net.au/",
+          "label": "By 4 Feb 2005 the iqnet.net.au site had been redirected to iqconnect.net.au, i.e. the IQnet brand was folded/renamed by early 2005."
+        },
+        {
+          "kind": "wayback-range",
+          "url": "https://web.archive.org/web/2015/http://iqnet.net.au/",
+          "label": "Later captures (2021-2025) render blank/parked, consistent with the original brand being long gone."
+        }
+      ]
     }
   ],
   "refs": [

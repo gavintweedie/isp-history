@@ -30,9 +30,16 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Site last captured May 2001."
+      "date_disp": "by Jul 2001",
+      "precision": "by",
+      "details": "Ceased operating.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010711232003/http://www.aaanet.net.au/",
+          "label": "Explicit first-party statement that retail dialup had ceased by Jul 2001."
+        }
+      ]
     }
   ],
   "refs": [

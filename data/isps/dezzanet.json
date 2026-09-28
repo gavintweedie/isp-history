@@ -20,24 +20,41 @@
       "year": 1996,
       "date_disp": "27 Mar 1996",
       "precision": "exact",
-      "details": "DEZZANET PTY LTD ACN 073434698 registered 27 Mar 1996; site footer \u00a9 1996-1997 on Jan 1998 capture.",
+      "details": "DEZZANET PTY LTD ACN 073434698 registered 27 Mar 1996; site footer © 1996-1997 on Jan 1998 capture.",
       "refs": [
         {
           "kind": "official",
           "url": "https://creditorwatch.com.au/credit/profile/61073434698",
-          "label": "Dezzanet Pty Ltd ACN 073434698 \u2014 27 Mar 1996"
+          "label": "Dezzanet Pty Ltd ACN 073434698 — 27 Mar 1996"
         }
       ]
     },
     {
       "kind": "death",
       "year": 2005,
-      "date_disp": "late 2005",
+      "date_disp": "c. late 2005",
       "precision": "approx",
-      "details": "Still selling national dialup in Jul 2005 (new national dialup number from 1 Jul 2005); last DezzaNet-branded homepage Dec 2005; dezzanet.net.au redirected to aardvark.net.au by 2007. Customer/mail base absorbed by Aardvark Internet (Noro Communications Pty Ltd).",
+      "details": "Acquired by Aardvark Internet (Noro Communications Pty Ltd) — Jul 2005 live, Dec 2005 'now Aardvark'.",
       "source": [
         "https://web.archive.org/web/20050729084148/http://www.dezzanet.net.au/ (DezzaNet Pty Ltd national dialup, Jul 2005)",
         "https://web.archive.org/web/20070629114634/http://www.dezzanet.net.au/ (redirect to aardvark.net.au)"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050729084148/http://www.dezzanet.net.au/",
+          "label": "Still trading as DezzaNet 29 Jul 2005."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051230123246/http://www.dezzanet.net.au/",
+          "label": "By 30 Dec 2005 the domain framed to Aardvark; brand absorbed."
+        },
+        {
+          "kind": "official",
+          "url": "https://billing.noro.com.au",
+          "label": "Aardvark/Noro continues to operate the former DezzaNet mail/service base."
+        }
       ]
     }
   ],

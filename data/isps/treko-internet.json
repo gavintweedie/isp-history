@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "2001",
       "precision": "approx",
-      "details": "Folded into WestNet; treko.net.au served WestNet pages from July 2001."
+      "details": "Acquired by WestNet — folded into WestNet; WestNet pages served from 2001.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010428012532/http://www.treko.net.au/",
+          "label": "Still Treko-branded Apr 2001."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020326175556/http://www.treko.net.au/",
+          "label": "By Mar 2002 the domain served WestNet."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=14357741513",
+          "label": "Partnership ABN later cancelled (2016)."
+        }
+      ]
     }
   ],
   "refs": [

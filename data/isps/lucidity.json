@@ -22,15 +22,25 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "by Mar 2012",
-      "precision": "by",
-      "details": "Defunct.",
+      "year": 2021,
+      "date_disp": "operator Lucidity Enterprises Pty Ltd had ABN/GST cancelled on 6 August 2021",
+      "precision": "exact",
+      "details": "Ceased operating — stale website lingered.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20120320032601/http://lucidity.net.au/",
           "label": "Wayback: last ISP retail homepage"
+        },
+        {
+          "kind": "company-register",
+          "url": "https://www.aubiz.net/company/lucidity-enterprises-pty-ltd-104050384/",
+          "label": "ABN and GST cancellation on 6 Aug 2021 marks the end of trading."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20250124071641/https://lucidity.net.au/",
+          "label": "The same old site template is still served years after the ABN was cancelled."
         }
       ]
     }

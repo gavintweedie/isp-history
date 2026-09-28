@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2007,
-      "date_disp": "by Jul 2007",
+      "date_disp": "by 3 Jul 2007",
       "precision": "by",
-      "details": "Closure notice live by 3 Jul 2007: 'My WiSP is no longer operating... the equipment forming the My WiSP network is now being operated by LiSP Pty Ltd' (mywisp.net.au, Wayback 8 Aug 2007). LiSP was itself later absorbed by Cirrus Communications."
+      "details": "Acquired by LiSP Pty Ltd — closure notice; network taken over by LiSP.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070829221840/http://mywisp.net.au/",
+          "label": "First-party closure/takeover notice served on the domain."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=110247946",
+          "label": "The company lingered until 2010, but the service itself ended in 2007."
+        }
+      ]
     }
   ],
   "refs": [

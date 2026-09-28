@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "by Feb 2001",
-      "precision": "by",
-      "details": "Closed; APC Australia (c2o) formed 1997.",
+      "year": 1998,
+      "date_disp": "c. 1998-1999",
+      "precision": "approx",
+      "details": "Acquired by Optus (domain/content).",
       "refs": [
         {
           "kind": "archive",
@@ -36,6 +36,21 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20260611043426/http://pegasus.com.au/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/19981212031813/http://www.pegasus.com.au/",
+          "label": "Pegasus-branded site still live Dec 1998."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20000510232036/http://www.pegasus.com.au/",
+          "label": "By May 2000 pegasus.com.au redirected to OptusNet."
+        },
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pegasus_Networks",
+          "label": "Supports a late-1990s closure of the Pegasus ISP operation."
         }
       ]
     },

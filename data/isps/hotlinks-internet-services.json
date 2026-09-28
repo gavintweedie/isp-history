@@ -25,7 +25,19 @@
       "year": 2005,
       "date_disp": "by 2005",
       "precision": "by",
-      "details": "Acquired by EFTel (-> TPG)."
+      "details": "Acquired by EFTel — domain redirected to EFTel.",
+      "refs": [
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20031001000000/http://www.hotlinks.net.au/",
+          "label": "By Oct 2003 the Hotlinks site was a default Apache test page (403s from Aug 2002)."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20050206000000/http://www.hotlinks.net.au/",
+          "label": "By Feb 2005 hotlinks.net.au served EFTel (-> TPG)."
+        }
+      ]
     }
   ],
   "refs": [

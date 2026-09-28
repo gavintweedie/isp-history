@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. early-mid 2002",
-      "precision": "approx",
-      "details": "Absorbed by EFTel (site branded 'Visit our parent company — EFTel')."
+      "year": 2004,
+      "date_disp": "by Aug 2004",
+      "precision": "by",
+      "details": "Acquired by EFTEL — absorbed by EFTel.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040830132500/http://www.southwest.com.au/",
+          "label": "By 30 Aug 2004 southwest.com.au redirected to EFTel; earlier 2004 captures still served SWIS content."
+        },
+        {
+          "kind": "news",
+          "url": "https://sur.ly/i/southwest.com.au/",
+          "label": "Domain later resolved to EFTel (Vocus/Dodo) branding."
+        }
+      ]
     }
   ],
   "refs": [

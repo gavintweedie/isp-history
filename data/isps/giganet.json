@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "by May 2003",
-      "precision": "by",
-      "details": "Absorbed by Hotkey Internet."
+      "year": 1998,
+      "date_disp": "October 1998",
+      "precision": "exact",
+      "details": "Acquired by Hotkey Internet Services — customer base acquired by Hotkey.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000510035022/http://www.giga.net.au/",
+          "label": "Domain's own notice, captured 2000."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010330044041/http://www.giga.net.au/ie.htm",
+          "label": "By Mar 2001 the frame content is entirely Hotkey."
+        }
+      ]
     },
     {
       "kind": "note",

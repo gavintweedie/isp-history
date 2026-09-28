@@ -23,16 +23,28 @@
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19970719113503/http://www.eepo.com.au/eepo/history.html",
-          "label": "EEPO history page \u2014 1992-93 origins"
+          "label": "EEPO history page — 1992-93 origins"
         }
       ]
     },
     {
       "kind": "death",
       "year": 2005,
-      "date_disp": "c. 2005",
+      "date_disp": "c. 2005-2006",
       "precision": "approx",
-      "details": "Redirected to Ausconnect."
+      "details": "Acquired by Ausconnect.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20050404122615/http://www.eepo.com.au/",
+          "label": "last live EEPO capture, Apr 2005"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20060527172904/http://www.eepo.com.au/",
+          "label": "by May 2006 the site auto-redirected to Ausconnect"
+        }
+      ]
     }
   ],
   "refs": [

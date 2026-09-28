@@ -23,9 +23,16 @@
     {
       "kind": "death",
       "year": 2000,
-      "date_disp": "by Oct 2000",
-      "precision": "by",
-      "details": "Absorbed by Planet Internet."
+      "date_disp": "c. Jul 2000",
+      "precision": "approx",
+      "details": "Acquired by Planet Internet — absorbed by Planet Internet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000729050343/http://www.starnet.com.au/",
+          "label": "starnet.com.au was already 301-redirecting to Planet Internet by 29 Jul 2000; last live Starnet content captured 6 Jun 2000."
+        }
+      ]
     }
   ],
   "refs": [

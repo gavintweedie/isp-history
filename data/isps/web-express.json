@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2012,
+      "date_disp": "2012",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Website gone (no live site) — genuine ISP site last seen Feb 2012; bare 'Index of /' by Apr 2013.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120221155832/http://www.webexpress.net.au/",
+          "label": "Still a genuine ISP page in Feb 2012."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130409075432/http://webexpress.net.au/",
+          "label": "By Apr 2013 the site is just a directory listing; cPanel 'suspendedpage.cgi' follows in 2014, then 'Southern Ocean Systems - Coming Soon' by 2021."
+        }
+      ]
     }
   ]
 }

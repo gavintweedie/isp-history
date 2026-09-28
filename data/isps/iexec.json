@@ -38,10 +38,27 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Absorbed into Brennan IT (iexec.com.au served a Brennan homepage from Nov 2008)."
+      "year": 2007,
+      "date_disp": "by 2007",
+      "precision": "by",
+      "details": "Acquired by Brennan IT.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20060523182327/http://www.iexec.com.au/",
+          "label": "Still an iExec site in May 2006."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20070829121352/http://www.iexec.com.au/",
+          "label": "By Aug 2007 the domain redirected to Brennan; 2011 captures show a SecureTelecom/Brennan rebrand page."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20110216143745/http://www.iexec.com.au/",
+          "label": "Confirms absorption into Brennan."
+        }
+      ]
     }
   ],
   "refs": [

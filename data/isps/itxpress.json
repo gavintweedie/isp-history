@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Acquired by eTelecom (REDmedia).",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20061205014136/http://itxpress.com.au/",
+          "label": "itXpress was merged into eTelecom under the REDmedia group with a notice dated 2005, killing the itXpress brand."
+        }
+      ]
     }
   ],
   "refs": [

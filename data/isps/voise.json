@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2019,
-      "date_disp": "by 2019",
-      "precision": "by",
-      "details": "Last archived 2019."
+      "year": 2017,
+      "date_disp": "c. 2017",
+      "precision": "approx",
+      "details": "Entered administration — Voise Pty Ltd ABN cancelled 18 Aug 2017; site dormant/parked from ~2012.",
+      "refs": [
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=85113495711",
+          "label": "Company cancelled 2017."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20170529171235/http://voise.com.au/",
+          "label": "By 2017 the domain served a bare hosting default page."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110205122006/http://www.voise.com.au/",
+          "label": "Still a live VoIP site in 2011."
+        }
+      ]
     }
   ],
   "refs": [

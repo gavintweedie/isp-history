@@ -25,7 +25,14 @@
       "year": 2005,
       "date_disp": "by Dec 2005",
       "precision": "by",
-      "details": "Domain parked."
+      "details": "Website gone (no live site) — domain parked.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051202025007/http://www.streamnet2000.com/",
+          "label": "By Dec 2005 the hobby ISP's domain was a registrar parking page."
+        }
+      ]
     }
   ],
   "refs": [

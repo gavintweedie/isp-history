@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 1997,
-      "date_disp": "c. 1997",
-      "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 1997)."
+      "year": 2004,
+      "date_disp": "acquired by Hotkey Internet Services on Wednesday 29 September 2004",
+      "precision": "exact",
+      "details": "Acquired by Hotkey Internet Services Pty Ltd.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20040130151524/http://www.jeack.com.au/",
+          "label": "Capture of 30 Jan 2004 still shows the standalone Jeack site, before any acquirer notice."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20050205153648/http://www.jeack.com.au/",
+          "label": "First capture in the window (Feb 2005) already carries the acquisition notice; 29 Sep was a Wednesday in 2004, and the Jan 2004 capture predates it, pinning the"
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20260305164239/http://jeack.com.au/",
+          "label": "Domain later became a parked/for-sale page, long after the ISP itself was absorbed."
+        }
+      ]
     }
   ],
   "refs": [

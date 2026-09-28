@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "by Aug 2007",
-      "precision": "by",
-      "details": "Customer base transferred to Virtual Communities (Melbourne) after Austar wound down its ISP brands (c. 2003); iiNet then bought the AustarMetro customer base from Virtual Communities in 2004 (austarmetro -> virtual-communities -> iinet). austarmetro.com.au had previously been eisametro.com.au and eisa.com.au; by 2005 the domain resolved to iinet.",
+      "year": 2004,
+      "date_disp": "c. 2003-2004",
+      "precision": "approx",
+      "details": "Acquired by iiNet (via Virtual Communities) — customer base transferred.",
       "refs": [
         {
           "kind": "archive",
@@ -41,6 +41,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20070829154103/http://eisa.com.au/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "wayback-acquisition",
+          "url": "https://web.archive.org/web/20050717002514/http://austarmetro.com.au/",
+          "label": "By Jul 2005 austarmetro.com.au served iiNet/BigBlue content, showing the customer base had migrated to iiNet."
+        },
+        {
+          "kind": "wayback-first-parked",
+          "url": "https://web.archive.org/web/20090207024634/http://www.austarmetro.com.au/",
+          "label": "By Feb 2009 the domain was a WhyPark parked/aggregator page."
         }
       ]
     }

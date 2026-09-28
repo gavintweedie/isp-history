@@ -23,7 +23,7 @@
         {
           "kind": "official",
           "url": "https://creditorwatch.com.au/credit/profile/69075400529",
-          "label": "Dataline.net.au Pty Ltd ACN 075400529 \u2014 28 Aug 1996"
+          "label": "Dataline.net.au Pty Ltd ACN 075400529 — 28 Aug 1996"
         },
         {
           "kind": "gov",
@@ -34,10 +34,32 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2006,
+      "date_disp": "c. mid-2006",
       "precision": "approx",
-      "details": "Defunct after ACCC proceedings."
+      "details": "Website gone (no live site) — site collapsed to Apache directory listing between Jun and Sep 2006.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060613044556/http://dataline.net.au/",
+          "label": "Live Dataline VPN-branded homepage still served 13 Jun 2006."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060910004747/http://dataline.net.au/",
+          "label": "By 10 Sep 2006 the branded site was gone, leaving a bare directory listing."
+        },
+        {
+          "kind": "official",
+          "url": "https://www.accc.gov.au/media-release/accc-takes-action-against-internet-service-provider",
+          "label": "ACCC action (VISP/unconscionable conduct) began 2002; litigation continued to 2006."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.accc.gov.au/media-release/accc-to-appeal-decision-against-internet-service-provider",
+          "label": "Federal Court judgment Nov 2006, coincident with the brand's web collapse."
+        }
+      ]
     }
   ]
 }

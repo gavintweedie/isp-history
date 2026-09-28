@@ -29,11 +29,28 @@
     {
       "kind": "death",
       "year": 1997,
-      "date_disp": "c. 1997",
+      "date_disp": "1997",
       "precision": "approx",
-      "details": "Acquired by OzEmail (subsidiary by Dec 1997); by Feb 1999 aone.net.au was a meta-refresh redirect to ozemail.a1.com.au, confirming OzEmail ownership.",
+      "details": "Acquired by OzEmail.",
       "source": [
         "OzEmail redirect Feb 1999: https://web.archive.org/web/19990208003337id_/http://www.aone.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techmonitor.ai/technology/ozemail_pays_137m_to_buy_competitor_access_one_1",
+          "label": "Documents the 1997 OzEmail acquisition of Access One."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/australian-isp-ozemail-looks-for-us250m-in-foreign-backing/",
+          "label": "Confirms acquisition completed in 1997."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981207041811/http://www.aone.net.au/",
+          "label": "By Dec 1998 aone.net.au was already a redirect to OzEmail."
+        }
       ]
     }
   ],

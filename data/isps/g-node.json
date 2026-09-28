@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2009",
+      "year": 2008,
+      "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Website gone (no live site) — domain lapsed to Apache index page.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080104142858/http://www.g-node.com.au/",
+          "label": "Jan 2008: live gamer ADSL ISP site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080718163047/http://www.g-node.com.au/",
+          "label": "By Jul 2008 the site is a bare Apache directory listing; g-node website/ISP had lapsed. Domain was later reused by AINS Telecommunications (2012+)."
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/545093",
+          "label": "Confirms g-node operating as an ISP in Aug 2006."
+        }
+      ]
     },
     {
       "kind": "note",

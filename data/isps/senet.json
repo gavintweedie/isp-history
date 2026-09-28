@@ -25,10 +25,27 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "With >35,000 customers, acquired by OzEmail/UUNet (under future PM Malcolm Turnbull)."
+      "details": "Acquired by OzEmail/UUNet, brand later transferred to iiNet — brand wound into iiNet/OzEmail.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20040101031346/http://www.senet.com.au/",
+          "label": "Still operating as SE Net (SE Network Access) on 1 Jan 2004."
+        },
+        {
+          "kind": "wayback-dead",
+          "url": "http://web.archive.org/web/20060104044827/http://www.senet.com.au/",
+          "label": "By Jan 2006 the SE Net brand sat under iiNet/OzEmail and the customer transfer was complete."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20160109235659/http://www.senet.com.au/",
+          "label": "Later the domain simply redirected to iiNet."
+        }
+      ]
     }
   ],
   "refs": [

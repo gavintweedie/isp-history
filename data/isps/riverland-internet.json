@@ -34,10 +34,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2013,
+      "date_disp": "c. 2013",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Ceased operating — closed between Aug 2012 and Apr 2013.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20120822145620/http://www.riverland.net.au/",
+          "label": "Still trading as an ISP (net.au style dial-up/ADSL/email) on 22 Aug 2012."
+        },
+        {
+          "kind": "wayback-dead",
+          "url": "http://web.archive.org/web/20130409093442/http://riverland.net.au/",
+          "label": "Closure notice in place by 9 Apr 2013; web/email handed to local 'Riverland Web & Email Services'."
+        }
+      ]
     }
   ],
   "refs": [

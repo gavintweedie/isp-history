@@ -30,13 +30,25 @@
     {
       "kind": "death",
       "year": 2009,
-      "date_disp": "c. 2009",
-      "precision": "approx",
-      "details": "Ran under Asia Online branding c.2000-01, reverted to BIT.net (broadband/dialup/hosting) by 2005; retail homepage gone by ~2009, after which bit.net.au served only Allegro Networks webmail (a 'BITNET Mail Server' option remained) by 2012.",
+      "date_disp": "by Apr 2009",
+      "precision": "by",
+      "details": "Website gone (no live site).",
       "source": [
         "https://web.archive.org/web/20010401000000/http://www.bit.net.au/",
         "https://web.archive.org/web/20050601000000/http://www.bit.net.au/",
         "https://web.archive.org/web/20120601000000/http://www.bit.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20090913003215/http://bit.net.au/",
+          "label": "Last captures with 200 status (Sep 2009); first 301 at 1 Oct 2009."
+        },
+        {
+          "kind": "whirlpool",
+          "url": "https://forums.whirlpool.net.au/archive/1177377",
+          "label": "Whirlpool thread 'Important info for BIT.net users' confirms terminal winding-down of the BIT.net/Allegro service in April 2009."
+        }
       ]
     }
   ],

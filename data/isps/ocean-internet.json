@@ -29,10 +29,22 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "c. 2012",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2009,
+      "date_disp": "by Oct 2009",
+      "precision": "by",
+      "details": "Website gone (no live site) — domain advertised for sale.",
+      "refs": [
+        {
+          "kind": "wayback-last-live",
+          "url": "https://web.archive.org/web/20080309000000id_/http://www.oceaninternet.com.au/",
+          "label": "Mar 2008 active Mornington Peninsula hotspot/ADSL provider."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20091029073501/http://www.oceaninternet.com.au/",
+          "label": "By Oct 2009 the business site was gone and the domain for sale."
+        }
+      ]
     }
   ],
   "refs": [

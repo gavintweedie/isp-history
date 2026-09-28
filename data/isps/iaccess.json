@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2003,
+      "date_disp": "2003",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Website gone (no live site).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20030211010920/http://iaccess.com.au/",
+          "label": "Last capture is a live webmail login page; no captures after 11 Feb 2003."
+        }
+      ]
     }
   ],
   "refs": [

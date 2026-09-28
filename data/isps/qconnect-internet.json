@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2006,
+      "date_disp": "by Apr 2006",
+      "precision": "by",
+      "details": "Website gone (no live site) — last live Nov 2005; 302 by Apr 2006.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030215110026/http://www.qconnect.net.au/",
+          "label": "Live ISP site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051127024614/http://www.qconnect.net.au/",
+          "label": "By Nov 2005 qconnect was running a Hostbiz (HOSTBIZ PTY LTD, ACN 101 270 071) site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060402204722/http://qconnect.net.au/",
+          "label": "By Apr 2006 the ISP site had gone."
+        }
+      ]
     }
   ],
   "refs": [

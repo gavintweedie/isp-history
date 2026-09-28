@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2000,
+      "date_disp": "by Mar 2000",
+      "precision": "by",
+      "details": "Acquired by Legion (legion.com.au) — 301 redirect to legion.com.au.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=cyberlabs.com.au&fl=timestamp,statuscode&collapse=timestamp:6",
+          "label": "Last live 200 capture Jan 1998; every capture from Mar 2000 to Oct 2003 is a 301 redirect."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20000311112450/http://www.cyberlabs.com.au/",
+          "label": "Domain redirected to Legion by Mar 2000."
+        }
+      ]
     }
   ]
 }

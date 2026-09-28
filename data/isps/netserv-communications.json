@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2007",
-      "precision": "approx",
-      "details": "Absorbed by Silogen; netserv.net.au redirected to silogen.com.au."
+      "year": 2008,
+      "date_disp": "by 18 Jul 2008",
+      "precision": "by",
+      "details": "Acquired by Silogen — site redirects to Silogen.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060202214313/http://www.netserv.net.au/",
+          "label": "Live Busselton/Capes ISP site in 2006."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080718194550/http://www.netserv.net.au/",
+          "label": "By Jul 2008 the site had been handed over to Silogen."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=072995263",
+          "label": "Company outlived the service by seven years."
+        }
+      ]
     }
   ],
   "refs": [

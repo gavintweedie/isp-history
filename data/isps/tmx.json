@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2000,
+      "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Ceased operations (last capture Feb 2005)."
+      "details": "Acquired by Asia Online (later Nexon Asia Pacific) — redirected to Asia Online; company THE MESSAGE EXCHANGE cancelled 19 Oct 2004.",
+      "refs": [
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20000815225139/http://www.tmx.com.au/",
+          "label": "TMX brand began redirecting to Asia Online by Aug 2000."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021127002152/http://www.tmx.com.au/",
+          "label": "By 2002 the redirected destination served Nexon Asia Pacific content."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=66053463291",
+          "label": "Company cancelled 2004."
+        }
+      ]
     }
   ],
   "refs": [

@@ -36,11 +36,23 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "c. 2001-2002",
       "precision": "approx",
-      "details": "Last AcomNet-branded capture is the 2000 homepage; by 2003 the domain was repurposed by an unrelated 'TECH 2U Internet Services' (under construction), so AcomNet as an ISP was gone by ~2001–2002.",
+      "details": "Website gone (no live site).",
       "source": [
         "Domain repurposed to TECH 2U by 2003: https://web.archive.org/web/20040103064501id_/http://www.acomnet.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010116080100/http://www.acomnet.com.au/",
+          "label": "Last live AcomNet homepage, Jan 2001."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031006060108/http://www.acomnet.com.au/",
+          "label": "By Oct 2003 the domain was repurposed by unrelated TECH 2U."
+        }
       ]
     }
   ],

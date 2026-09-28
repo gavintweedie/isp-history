@@ -26,12 +26,29 @@
     {
       "kind": "death",
       "year": 2011,
-      "date_disp": "c. 2011",
-      "precision": "approx",
-      "details": "Crystal ISP retail (Perth WA) active through Feb 2011; www.crystal.com.au 302-redirected to w3.eftel.com.au from Oct 2011, confirming absorption into EFTel.",
+      "date_disp": "2011",
+      "precision": "by",
+      "details": "Acquired by EFTel.",
       "source": [
         "https://web.archive.org/web/20110205080238id_/http://crystal.com.au/",
         "302 redirect www.crystal.com.au -> w3.eftel.com.au (Wayback 16 Oct 2011)"
+      ],
+      "refs": [
+        {
+          "kind": "redirect-header",
+          "url": "https://web.archive.org/web/20111016122145/http://www.crystal.com.au/",
+          "label": "crystal.com.au began redirecting to EFTel in Oct 2011."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=crystal.com.au&output=json&fl=timestamp,original,statuscode&from=2007&to=2015",
+          "label": "Retail ISP live until Feb 2011, absorbed by EFTel later that year."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.dodo.com/eftel",
+          "label": "EFTel itself, the acquirer, later closed."
+        }
       ]
     }
   ],

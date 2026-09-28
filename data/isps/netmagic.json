@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2007,
+      "date_disp": "by Nov 2007",
+      "precision": "by",
+      "details": "Acquired by Eezi.Net — customer database moved to Eezi.Net.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20071112093949/http://www.netmagic.net.au/",
+          "label": "First-party notice that NetMagic's base was folded into Eezi.Net."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080214123517/http://www.netmagic.net.au/",
+          "label": "Last capture (Feb 2008) is a co-branded/transitional page; no later captures."
+        }
+      ]
     }
   ]
 }

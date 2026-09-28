@@ -25,7 +25,14 @@
       "year": 2006,
       "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Website gone (no live site) — last capture; site live Dec 2006.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20061205000000/http://www.hyperoz.com.au/",
+          "label": "Live ADSL ISP Dec 2006; no archival captures after 2006."
+        }
+      ]
     }
   ]
 }

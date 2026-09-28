@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2008,
-      "date_disp": "c. 2008",
+      "date_disp": "c. 2007-08",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Website gone (no live site) — site lapsed to hosting placeholder.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070807082708/http://www.gday.net/",
+          "label": "Aug 2007: still the Gday.net ISP site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080406032204/http://www.gday.net/",
+          "label": "By Apr 2008 the domain is an unconfigured hosting placeholder, then GoDaddy parking from 2012."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View/71101510418",
+          "label": "Company ABN cancelled 2014, long after the website died."
+        }
+      ]
     }
   ],
   "refs": [

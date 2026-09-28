@@ -29,10 +29,22 @@
     },
     {
       "kind": "death",
-      "year": 2011,
-      "date_disp": "c. 2011",
-      "precision": "approx",
-      "details": "Website last captured 2005; still listed on TIO/WAIX into 2011."
+      "year": 2005,
+      "date_disp": "by Jul 2005",
+      "precision": "by",
+      "details": "Acquired by Westlink Internet Services (Concept Group).",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20050717070901/http://avon.net.au/",
+          "label": "URL still branded Avon Global but service handed to Westlink, i.e. acquisition."
+        },
+        {
+          "kind": "abr-cancellation",
+          "url": "https://abr.business.gov.au/ABN/View?abn=41761316293",
+          "label": "Sole-trader ABN cancelled Jul 2005, tightening the brief's 'c.2011'."
+        }
+      ]
     }
   ],
   "refs": [

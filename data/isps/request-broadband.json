@@ -32,7 +32,24 @@
       "year": 2004,
       "date_disp": "Mar 2004",
       "precision": "approx",
-      "details": "Acquired by PowerTel (A$54m, announced Dec 2003, completed Mar 2004)."
+      "details": "Acquired by PowerTel — acquisition completed by PowerTel.",
+      "refs": [
+        {
+          "kind": "directory",
+          "url": "https://www.budde.com.au/Research/Request-Broadband-Pty-Ltd",
+          "label": "BuddeComm research entry on the Brisbane DSL provider."
+        },
+        {
+          "kind": "directory",
+          "url": "https://www.find-us-here.com/businesses/Powertel-Request-Broadband-Melbourne-Victoria-Australia/2926",
+          "label": "Post-acquisition listing showing the Request Broadband brand folded into PowerTel."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040205040752/http://www.request.com.au/",
+          "label": "Request.com.au live pre-acquisition (2004)."
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,13 +22,25 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "by 2012",
+      "year": 2008,
+      "date_disp": "by Jul 2008",
       "precision": "by",
-      "details": "Retail dialup site captured through 2003; by Feb 2012 www.cybanet.com.au 302-redirected to eftel.com, confirming absorption into EFTel.",
+      "details": "Acquired by EFTel — 302 redirect to eftel.com.",
       "source": [
         "https://web.archive.org/web/20030204110659id_/http://www.cybanet.com.au/",
         "302 redirect www.cybanet.com.au -> eftel.com (Wayback 21 Feb 2012)"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=cybanet.com.au&fl=timestamp,statuscode&collapse=timestamp:6",
+          "label": "Last live 200 capture Jul 2005; all captures from Jul 2008 onward are 302 redirects (gap means the switch cannot be pinpointed)."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20080718164827/http://www.cybanet.com.au/",
+          "label": "Confirms the domain was absorbed/redirected to EFTel by Jul 2008."
+        }
       ]
     }
   ],

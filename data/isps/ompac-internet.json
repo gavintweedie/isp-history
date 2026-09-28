@@ -30,9 +30,21 @@
     {
       "kind": "death",
       "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Absorbed by Chariot Netconnect."
+      "date_disp": "by Dec 2004",
+      "precision": "by",
+      "details": "Acquired by Chariot — absorbed into Chariot netconnect.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041224173722/http://www.ompac.net.au/",
+          "label": "By Dec 2004 ompac.net.au is a Chariot migration notice."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20061022105146/http://ompac.net.au/",
+          "label": "By Oct 2006 the domain redirects into Chariot's VIC portal."
+        }
+      ]
     }
   ],
   "refs": [

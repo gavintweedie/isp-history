@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Rebranded Concept Networks."
+      "year": 2005,
+      "date_disp": "by 2005",
+      "precision": "by",
+      "details": "Acquired by Concept Networks (Conceptual Internet Australia Pty Ltd) — Westlink brand replaced by Concept Networks.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030211175624/http://westlink.net.au/",
+          "label": "Still branded Westlink in Feb 2003."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051212233948/http://www.westlink.net.au/",
+          "label": "By Dec 2005 the same site is fully rebranded Concept Networks."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=49087624619",
+          "label": "Successor entity behind the Concept Networks rebrand."
+        }
+      ]
     }
   ],
   "refs": [

@@ -30,9 +30,9 @@
     {
       "kind": "death",
       "year": 2004,
-      "date_disp": "by Dec 2004",
+      "date_disp": "by Jan 2005",
       "precision": "by",
-      "details": "Acquired by Fleet Broadband; became DFT Wholesale under Datafast/Eftel.",
+      "details": "Acquired by Fleet Broadband / Datafast (DFT Wholesale) — site became DFT Wholesale.",
       "refs": [
         {
           "kind": "archive",
@@ -43,6 +43,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20260411180904/http://paradox.net.au/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20050102005537/http://www.paradox.net.au/",
+          "label": "By Jan 2005 the domain already carried Datafast's DFT Wholesale branding."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20120320075818/http://www.paradox.net.au/",
+          "label": "Later redirected into Eftel wholesale before the domain was repurposed."
         }
       ]
     }

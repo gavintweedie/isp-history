@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2012,
+      "date_disp": "c. 2012",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Acquired by Oracle Telecom — site became default page; domain then redirected to Oracle Telecom.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20080601000000/http://www.hinet.net.au/",
+          "label": "Still a live ISP site in 2008, well after the brief's c.2001."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20120115000000/http://www.hinet.net.au/",
+          "label": "Jan 2012 default control-panel page."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20130101000000/http://www.hinet.net.au/",
+          "label": "By Jan 2013 hinet.net.au served Oracle Telecom."
+        }
+      ]
     }
   ],
   "refs": [

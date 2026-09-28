@@ -36,12 +36,22 @@
       "year": 2004,
       "date_disp": "c. Jan 2004",
       "precision": "approx",
-      "details": "Last Wayback capture with ISP content 25 Jan 2004; subsequent captures show parked/reused domain (301/302 redirects).",
+      "details": "Website gone (no live site) — last live ISP content; domain later parked/for sale.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20040125070823/http://www.terrigal.net.au/",
-          "label": "Terrigal Net \u2014 last ISP capture 25 Jan 2004"
+          "label": "Terrigal Net — last ISP capture 25 Jan 2004"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040125070823/http://www1.terrigal.net.au/",
+          "label": "Last live ISP capture, 25 Jan 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20191214231620/http://terrigal.net.au/",
+          "label": "Domain later a Netfleet domain-sale parking page."
         }
       ]
     }

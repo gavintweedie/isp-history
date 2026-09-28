@@ -30,9 +30,21 @@
     {
       "kind": "death",
       "year": 1999,
-      "date_disp": "c. 1999",
-      "precision": "approx",
-      "details": "Defunct."
+      "date_disp": "by Oct 1999",
+      "precision": "by",
+      "details": "Website gone (no live site) — last of only 5 captures.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981212024249/http://www.dbnw.com.au/",
+          "label": "Full live ISP site Dec 1998."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991012152053/http://dbnw.com.au/",
+          "label": "Last capture 12 Oct 1999; domain then fell out of the archive."
+        }
+      ]
     }
   ],
   "refs": [

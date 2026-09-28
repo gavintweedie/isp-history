@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct (domain later Leading Edge Computers Longreach)."
+      "year": 2010,
+      "date_disp": "by Dec 2010",
+      "precision": "by",
+      "details": "Website gone (no live site) — redirected to Leading Edge Computers Longreach.",
+      "refs": [
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20101231034623/http://www.outbackqld.net.au/",
+          "label": "By end of 2010 the domain redirected to Leading Edge Computers Longreach."
+        },
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20091030033642/http://www.outbackqld.net.au/",
+          "label": "Still an OQi computer/IT business page in 2009, having pivoted away from the dialup ISP."
+        }
+      ]
     }
   ],
   "refs": [

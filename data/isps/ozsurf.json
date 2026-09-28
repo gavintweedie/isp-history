@@ -29,10 +29,22 @@
     },
     {
       "kind": "death",
-      "year": 1999,
-      "date_disp": "c. 1999",
+      "year": 2000,
+      "date_disp": "c. 1999-2000",
       "precision": "approx",
-      "details": "Gone from directory by ~1999."
+      "details": "Website gone (no live site) — ODDS superseded by EzyCast.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20010402045128/http://www.ozsurf.net.au/",
+          "label": "By Apr 2001 the site was a forwarding notice to EzyCast."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "http://web.archive.org/web/20221210044507/http://ozsurf.net.au/",
+          "label": "Long-parked afterwards (also Crazy Domains parking in 2013)."
+        }
+      ]
     }
   ],
   "refs": [

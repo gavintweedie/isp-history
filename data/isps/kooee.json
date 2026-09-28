@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 1999,
-      "date_disp": "c. 1999",
+      "year": 2000,
+      "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Collapsed."
+      "details": "Acquired by SP Telecommunications Ltd (Soul Pattinson group). Soul Pattinson group; the Kooee web brand lingered until c. 2006-2010.",
+      "refs": [
+        {
+          "kind": "annual-report",
+          "url": "https://www.tpg.com.au/about/pdfs/FY01_Annual%20Report.pdf",
+          "label": "FY01 (to mid-2001) report confirms Kooee's operations were absorbed into SP Telecommunications."
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/73463",
+          "label": "Corroborates the Soul Pattinson ownership/absorption."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20050103030859/http://www.kooee.com.au/",
+          "label": "Kooee-branded page still served in Jan 2005. First redirect appears Feb 2006; by 2010 the domain serves a bare 'It works!' default page."
+        },
+        {
+          "kind": "company-register",
+          "url": "https://www.aubiz.net/company/kooee-communications-pty-limited-001341331/",
+          "label": "Kooee business names were cancelled 2003-2009; the leftover company remains registered."
+        }
+      ]
     }
   ],
   "refs": [

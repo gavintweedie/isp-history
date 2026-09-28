@@ -29,12 +29,24 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Defunct as an ISP c. 2004; australink.com.au later reused (captures continue to 2011 and beyond).",
+      "year": 2002,
+      "date_disp": "by Dec 2002",
+      "precision": "by",
+      "details": "Ceased operating.",
       "source": [
         "https://web.archive.org/web/20110410160303/http://www.australink.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-site-gone",
+          "url": "https://web.archive.org/web/20020926180117/http://www.australink.com.au/",
+          "label": "By Sep 2002 the retail site was a skeleton 'coming back soon' stub."
+        },
+        {
+          "kind": "abr-cancellation",
+          "url": "https://abr.business.gov.au/ABN/View?abn=81078167192",
+          "label": "Company deregistered Dec 2002, tightening the brief's 'c.2004'."
+        }
       ]
     }
   ],

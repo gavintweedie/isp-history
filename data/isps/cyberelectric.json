@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2002,
+      "date_disp": "by Mar 2002",
+      "precision": "by",
+      "details": "Acquired by EvansCorp — 302 redirect to EvansCorp.",
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20020331123234/http://www.cyberelectric.net.au/",
+          "label": "First redirect capture (Mar 2002); last live 200 capture was Jan 2002, so the ISP died c. early 2002."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=cyberelectric.net.au&fl=timestamp,statuscode&collapse=timestamp:6",
+          "label": "Clean transition from live pages to 302 redirects in early 2002, sustained through 2005."
+        }
+      ]
     }
   ],
   "refs": [

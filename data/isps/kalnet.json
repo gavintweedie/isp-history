@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2011,
-      "date_disp": "c. 2011-12",
+      "year": 2016,
+      "date_disp": "c. 2016",
       "precision": "approx",
-      "details": "Rebranded from 'Internet Services' to 'Computer Services' (hosting)."
+      "details": "Website gone (no live site). kalnet.com.au redirected to ausmade.net.au as the owner pivoted from ISP to hosting.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20110205072019/http://www.kalnet.com.au/",
+          "label": "Still branded as an ISP in 2011."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20160110002139/http://kalnet.com.au/",
+          "label": "Jan 2016: kalnet.com.au begins redirecting."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20170204064706/http://kalnet.com.au/",
+          "label": "By Feb 2017 the domain redirects to the Ausmade hosting brand."
+        }
+      ]
     }
   ],
   "refs": [

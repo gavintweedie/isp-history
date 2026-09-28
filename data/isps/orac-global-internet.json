@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Merged into APEX Internet."
+      "year": 2011,
+      "date_disp": "by Apr 2012",
+      "precision": "by",
+      "details": "Acquired by APEX Telecom / APEX Internet — brand site retired 2011.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20110505015346/http://www.orac.net.au:80/",
+          "label": "ORAC site still resident on oracle/APEX infrastructure in May 2011."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20120403190448/http://orac.net.au/",
+          "label": "By Apr 2012 orac.net.au redirected to an APEX 'takeover' page."
+        }
+      ]
     }
   ],
   "refs": [

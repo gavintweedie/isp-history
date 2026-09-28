@@ -35,12 +35,17 @@
       "year": 2001,
       "date_disp": "by mid-2001",
       "precision": "by",
-      "details": "Parent One.Tel entered administration 29 May 2001 and collapsed; AS7617 reassigned (ALTDB entry changed 17 Feb 2002).",
+      "details": "Entered administration — parent One.Tel collapsed 29 May 2001.",
       "refs": [
         {
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/One-Tel",
           "label": "Wikipedia: One.Tel collapse May 2001"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010612113322id_/http://one.net.au/",
+          "label": "Jun 2001 one.net.au serving a One.Tel holding page after the collapse."
         }
       ]
     }

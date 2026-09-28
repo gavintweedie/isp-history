@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2004,
+      "date_disp": "Jan 2004",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Acquired by Datafast / EFTel — acquired by Datafast.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eftel",
+          "label": "Penrith NetCom Pty Ltd had become Planet Netcom; acquired Jan 2004."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20130208070435/http://pnc.com.au/",
+          "label": "Domain eventually folded into Eftel."
+        }
+      ]
     }
   ],
   "refs": [

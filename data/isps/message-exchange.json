@@ -35,10 +35,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2000-01",
-      "precision": "approx",
-      "details": "Acquired by Asia Online."
+      "year": 1999,
+      "date_disp": "Oct 1999",
+      "precision": "by",
+      "details": "Acquired by Asia Online — acquired by Asia Online.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.techmonitor.ai/technology/asia_online_buys_three_more_australian_isps",
+          "label": "Tech Monitor (CBR), 13 Oct 1999: Asia Online's acquisitions include The Message Exchange of Sydney."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=messageexchange.com.au",
+          "label": "The domain has no captures during the ISP era, so the news report is the primary dating evidence."
+        }
+      ]
     }
   ]
 }

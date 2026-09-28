@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2003,
-      "date_disp": "by Jan 2003",
+      "date_disp": "by 22 Jan 2003",
       "precision": "by",
-      "details": "Merged into Chariot (newave.net.au redirected to chariot.net.au)."
+      "details": "Acquired by Chariot — newave.net.au redirects to Chariot.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000301100753/http://www.newave.net.au/",
+          "label": "Live Adelaide dialup ISP before the merger."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030122144131/http://www.newave.net.au/",
+          "label": "By 22 Jan 2003 newave.net.au was redirecting to Chariot."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/SearchByAbn.aspx?SearchText=078991465",
+          "label": "The renamed Newave entity (ACN 078 991 465) was cancelled Feb 2002, consistent with an early-2003 wind-up."
+        }
+      ]
     }
   ],
   "refs": [

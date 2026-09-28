@@ -25,10 +25,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Acquired by Chariot (part of Chariot Netconnect by late 2002)."
+      "year": 2007,
+      "date_disp": "by Jan 2007",
+      "precision": "by",
+      "details": "Acquired by Chariot (TPG) — integrated with Chariot.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20070113104744/http://www.picknowl.com.au/",
+          "label": "By Jan 2007 the site was Chariot-branded; Chariot was TPG-owned."
+        },
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20081226051611/http://www.picknowl.com.au:80/",
+          "label": "Fully Chariot-branded by 2008."
+        }
+      ]
     }
   ],
   "refs": [

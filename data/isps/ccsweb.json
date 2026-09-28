@@ -22,12 +22,24 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2001-02",
+      "year": 2001,
+      "date_disp": "c. 2001-2002",
       "precision": "approx",
-      "details": "Retail site served 200 through 20 Jul 2001 (last live homepage capture); by 2007 the domain returned 403 Forbidden, indicating the ISP had ended.",
+      "details": "Website gone (no live site).",
       "source": [
         "https://web.archive.org/web/20010720021522id_/http://www.ccsweb.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20010720021522/http://ccsweb.com.au/",
+          "label": "Last live homepage capture (20 Jul 2001)."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "http://web.archive.org/web/20070828205458/http://ccsweb.com.au/",
+          "label": "By 2007 the domain returned 403 Forbidden, indicating the ISP had ended."
+        }
       ]
     }
   ],

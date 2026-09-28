@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2023,
-      "date_disp": "c. 2023",
+      "year": 2024,
+      "date_disp": "c. Nov-Dec 2024",
       "precision": "approx",
-      "details": "Acquired by Fantel Pty Ltd."
+      "details": "Acquired by Fantel Pty Ltd — acquired by Fantel.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20241113210216/https://gennext.net.au/",
+          "label": "13 Nov 2024: still independent."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20241213170356/https://gennext.net.au/",
+          "label": "Banner appears on the 13 Dec 2024 capture, so the acquisition closed Nov-Dec 2024."
+        },
+        {
+          "kind": "web",
+          "url": "https://fantel.com.au/acquisitions/gennext/",
+          "label": "Acquirer's own acquisition page."
+        }
+      ]
     }
   ],
   "refs": [

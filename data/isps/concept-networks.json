@@ -31,12 +31,29 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
-      "precision": "approx",
-      "details": "Last live retail Wayback capture of conceptual.net.au Apr 2009 (later captures parked/redirect); ABN 49 087 624 619 cancelled 5 Apr 2017.",
+      "year": 2009,
+      "date_disp": "2009",
+      "precision": "by",
+      "details": "Acquired by EFTel.",
       "source": [
         "https://abr.business.gov.au/ABN/View?abn=49087624619"
+      ],
+      "refs": [
+        {
+          "kind": "redirect-header",
+          "url": "https://web.archive.org/web/20090913094546/http://conceptual.net.au/",
+          "label": "conceptual.net.au began redirecting to EFTel in Sep 2009."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=conceptual.net.au&output=json&fl=timestamp,original,statuscode&from=2006&to=2018",
+          "label": "Retail site live until Apr 2009, then absorbed."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=49087624619",
+          "label": "Company later wound up."
+        }
       ]
     }
   ],

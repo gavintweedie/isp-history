@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2009",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2008,
+      "date_disp": "by Oct 2008",
+      "precision": "by",
+      "details": "Acquired by Concept Internet Services (hyp.net.au) — accounts migrated to Concept Internet Services / hyp.net.au.",
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20081012041626/http://www.maxxcomm.com.au/",
+          "label": "Final capture (Oct 2008) announces migration; no later captures."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=maxxcomm.com.au",
+          "label": "All captures are 200s between Apr 2007 and Oct 2008, then the domain disappears."
+        }
+      ]
     },
     {
       "kind": "note",

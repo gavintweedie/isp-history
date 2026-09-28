@@ -22,10 +22,17 @@
     },
     {
       "kind": "death",
-      "year": 1998,
-      "date_disp": "c. 1998",
-      "precision": "approx",
-      "details": "Defunct (few captures)."
+      "year": 2001,
+      "date_disp": "November 2001",
+      "precision": "exact",
+      "details": "Ceased operating.",
+      "refs": [
+        {
+          "kind": "wayback-dead",
+          "url": "http://web.archive.org/web/20160317221635/http://sensation.net.au/",
+          "label": "The operator (Rowan Crowe) left a closure notice on the domain; precise month stated."
+        }
+      ]
     }
   ],
   "refs": [

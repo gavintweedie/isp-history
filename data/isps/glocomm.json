@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2018,
+      "date_disp": "by early 2018",
+      "precision": "by",
+      "details": "Website gone (no live site) — site began returning 403.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20171014184554/http://glocomm.net.au/",
+          "label": "Oct 2017: still the Glocomm ISP site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20180317101824/http://www.glocomm.net.au/",
+          "label": "By Mar 2018 broken; domain later dropped."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View/28112776191",
+          "label": "ASIC voluntary deregistration notice published 03 Mar 2015."
+        }
+      ]
     }
   ]
 }

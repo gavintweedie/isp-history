@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2013,
-      "date_disp": "by 2013",
+      "date_disp": "absorbed into the Planet Ozi operation by 2013",
       "precision": "by",
-      "details": "kisser.net.au ran under the Planet Ozi umbrella by 2013 (My Account/CAT on cat.planetozi.com.au) and served the full Planet Ozi site by 2018; EscapeNet entered only via its ~Mar 2019 purchase of Planet Ozi - the earlier 'Escape.Net takeover Apr 2013' was wrong."
+      "details": "Acquired by Planet Ozi — kisser.net.au redirected to home.kisser.net.au under Planet Ozi.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20120221110329/http://www.kisser.net.au/",
+          "label": "Still an independent capture in Feb 2012."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20130408131805/http://kisser.net.au/",
+          "label": "By Apr 2013 kisser.net.au redirects into the Planet Ozi 'home.' subdomain."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20180225005530/http://kisser.net.au/",
+          "label": "Later captures continue under the Planet Ozi umbrella (EscapeNet only entered via its 2019 Planet Ozi purchase)."
+        }
+      ]
     }
   ],
   "refs": [

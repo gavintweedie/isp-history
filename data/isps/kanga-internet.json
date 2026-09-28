@@ -29,10 +29,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2005,
+      "date_disp": "Adelaide ISP ceased c. 2004-05",
       "precision": "approx",
-      "details": "Defunct (domain later reused by a bus company)."
+      "details": "Website gone (no live site). kanga.com.au repurposed to the unrelated Kanga Desktop design business by 2005.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20040127212358/http://www.kanga.com.au/",
+          "label": "Kanga Internet Services site still live in Jan 2004."
+        },
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20050210020612/http://www.kanga.com.au/",
+          "label": "By Feb 2005 the domain hosts a different (Sydney design) business, so the Adelaide ISP had ended."
+        }
+      ]
     }
   ],
   "refs": [

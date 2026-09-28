@@ -18,7 +18,7 @@
       "year": 2001,
       "date_disp": "2001",
       "precision": "approx",
-      "details": "Games On Demand Pty Ltd ACN 105421743 (ACN 105 series \u2248 2001); WAIX-class member.",
+      "details": "Games On Demand Pty Ltd ACN 105421743 (ACN 105 series ≈ 2001); WAIX-class member.",
       "refs": [
         {
           "kind": "official",
@@ -29,10 +29,27 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
+      "year": 2007,
+      "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "Site last captured Oct 2005; WAIRComm shows it operating into 2006."
+      "details": "Website gone (no live site) — site replaced by GAMEHEAD retailer.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060101035622/http://www.gamesondemand.com.au/",
+          "label": "Jan 2006: still the G.O.D. gaming network/ISP site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070828214827/http://www.gamesondemand.com.au/",
+          "label": "By Aug 2007 the domain serves GAMEHEAD, a game retailer; G.O.D. gone between Dec 2006 (last G.O.D. capture) and Aug 2007."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View/27105421743",
+          "label": "Company formality outlived the site by years."
+        }
+      ]
     }
   ],
   "refs": [

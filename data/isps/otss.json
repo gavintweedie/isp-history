@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2007,
+      "date_disp": "30 Sep 2007",
+      "precision": "exact",
+      "details": "Ceased operating — services ceased.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20070829053930/http://otss.com.au/",
+          "label": "Explicit wind-down notice for the ISP service."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "http://web.archive.org/web/20110205085650/http://otss.com.au/",
+          "label": "By Feb 2011 the domain was blank, confirming the ISP site was gone."
+        }
+      ]
     }
   ],
   "refs": [

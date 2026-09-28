@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2011,
-      "date_disp": "c. Feb 2011",
+      "date_disp": "c. 2011-2012",
       "precision": "approx",
-      "details": "Services cut off; customers churned to Platform Networks/PlanetOzi; ABN cancelled 2010."
+      "details": "Ceased operating. Operator ABN cancelled 2010.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20110218084500/http://www.silogen.com.au/",
+          "label": "Still a Silogen-branded site in Feb 2011 but content stale (2008 copyright), consistent with services being cut off ~Feb 2011."
+        },
+        {
+          "kind": "wayback-timemap",
+          "url": "http://web.archive.org/web/timemap/json/silogen.com.au",
+          "label": "From 14 Jan 2012 the domain began 302 redirecting, then 301 from 2017."
+        }
+      ]
     }
   ]
 }

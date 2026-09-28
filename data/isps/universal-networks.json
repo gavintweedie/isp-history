@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2004,
-      "date_disp": "c. 2004",
+      "date_disp": "c. 2003-2004",
       "precision": "approx",
-      "details": "Absorbed into Chariot netconnect."
+      "details": "Acquired by Chariot netconnect — absorbed into Chariot netconnect.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041204063429/http://www.universal.net.au/",
+          "label": "Homepage by Dec 2004 branded as part of Chariot."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030319030446/http://www.universal.net.au/",
+          "label": "Still independent in 2003."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=17080545437",
+          "label": "Company cancelled 2012."
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2016,
-      "date_disp": "c. 2014-16",
+      "year": 2014,
+      "date_disp": "c. 2014",
       "precision": "approx",
-      "details": "Part of Voice2net Telecom Group."
+      "details": "Acquired by Voice2net Telecom Group — absorbed into Voice2net Telecom Group.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20140109053336/http://www.futureweb.com.au/",
+          "label": "Jan 2014: still Futureweb's own ISP site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20140622004040/http://www.futureweb.com.au/",
+          "label": "By Jun 2014 the domain carries a Voice2net Telecom banner; acquisition therefore occurred between Jan and Jun 2014. Brief's c.2016 is too late."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20170204022218/http://www.futureweb.com.au/",
+          "label": "Later re-badged Q-Telecom, then eventually More Telecom (2025 captures)."
+        }
+      ]
     }
   ],
   "refs": [

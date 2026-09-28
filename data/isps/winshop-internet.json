@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2017,
+      "date_disp": "2017",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Website gone (no live site) — hosting suspended page; last live Oct 2016.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20161003065020/http://winshop.com.au/",
+          "label": "Final genuine capture Oct 2016."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20170204173154id_/http://winshop.com.au/",
+          "label": "By Feb 2017 the hosting account is suspended; a 2020 capture 301s to onthenet.com.au."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=56097149883",
+          "label": "Company ABN cancelled 2014 though the site ran until 2016."
+        }
+      ]
     }
   ]
 }

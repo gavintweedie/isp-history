@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "by 2006",
+      "year": 2005,
+      "date_disp": "by Jan 2005 lexicon.net.au redirected to w3.eftel.com",
       "precision": "by",
-      "details": "Absorbed into EFTel."
+      "details": "Acquired by EFTEL. absorbed into EFTel.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20020525104613/http://www.lexicon.net.au/",
+          "label": "Still a standalone Melbourne ISP capture in May 2002."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20050127083523/http://lexicon.net.au/",
+          "label": "By Jan 2005 the domain redirects to EFTel."
+        }
+      ]
     }
   ],
   "refs": [

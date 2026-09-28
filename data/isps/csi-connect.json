@@ -25,12 +25,29 @@
     },
     {
       "kind": "death",
-      "year": 2015,
-      "date_disp": "c. 2015",
-      "precision": "approx",
-      "details": "ISP brand defunct (csiconnect.com.au dead after ~2015).",
+      "year": 2014,
+      "date_disp": "by Jan 2014",
+      "precision": "by",
+      "details": "Website gone (no live site) — live retail site replaced by one-line placeholder.",
       "source": [
         "csiconnect.com.au no longer resolves (checked Sep 2026)"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20130523181001/http://csiconnect.com.au/",
+          "label": "Last capture with a full live ISP marketing site (ADSL, VoIP, WiFi, offsite backup)."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20140114025326/http://csiconnect.com.au/",
+          "label": "By Jan 2014 the site is reduced to a bare one-line placeholder; transition occurred between May 2013 and Jan 2014."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=csiconnect.com.au&from=2017",
+          "label": "Domain still resolved to the same placeholder until the last capture, Feb 2017."
+        }
       ]
     },
     {

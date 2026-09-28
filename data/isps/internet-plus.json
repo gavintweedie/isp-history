@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 1999,
+      "date_disp": "Oct 1999",
       "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 2001)."
+      "details": "Acquired by PSINet.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.internetnews.com/it-management/psinet-buys-australian-isp-reports-earnings/",
+          "label": "Published 26 Oct 1999; Internet Plus (ip.net.au) was a division of Zircon Systems."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20050223042311/http://www.ip.net.au/",
+          "label": "The ip.net.au domain continued to serve a Zircon page to 2005, but the ISP had already changed ownership in 1999."
+        }
+      ]
     }
   ],
   "refs": [

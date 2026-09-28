@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2002,
-      "date_disp": "c. 2001-02",
+      "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Closed ~2001-02; Campbelltown customers transferred to IDEAL Internet, Gosford customers to Terrigal Internet."
+      "details": "Acquired by AR Internet — domain redirected to AR Internet.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20010401000000/http://www.healey.com.au/",
+          "label": "Live Healey site in 2001."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20020529000000/http://www.healey.com.au/",
+          "label": "By May 2002 healey.com.au redirected to AR Internet with customer-transfer notice."
+        }
+      ]
     }
   ],
   "refs": [

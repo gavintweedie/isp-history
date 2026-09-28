@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 1999-2001",
-      "precision": "approx",
-      "details": "Became NTT Australia (via Davnet)."
+      "year": 1999,
+      "date_disp": "Feb 1999",
+      "precision": "by",
+      "details": "Acquired by Davnet Telecommunications (later NTT Australia) — acquired by Davnet; later NTT Australia.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.budde.com.au/Research/Davnet-International-Operations-Defunct",
+          "label": "BuddeComm Davnet report synopsis; Davnet (DavTel) was itself acquired by NTT Communications, becoming NTT Australia IP."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/davnet-takes-isp-on-board-19990204-k8k53",
+          "label": "AFR, 4 Feb 1999: Davnet takeover of the ISP (Magna Data)."
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20110815121522/http://magnadata.com.au/",
+          "label": "By 2011 magnadata.com.au was only an IIS default placeholder; no ISP-era homepage survives in the archive."
+        }
+      ]
     }
   ],
   "refs": [

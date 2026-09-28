@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Last capture Nov 2008."
+      "year": 2007,
+      "date_disp": "by 2007",
+      "precision": "by",
+      "details": "Acquired by EFTel.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20070829173602/http://icenet.com.au/",
+          "label": "By Aug 2007 icenet.com.au redirected to EFTel; by Nov 2008 it served an EFTel homepage."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20081121143720/http://www.icenet.com.au/",
+          "label": "Content confirms absorption into EFTel."
+        }
+      ]
     }
   ],
   "refs": [

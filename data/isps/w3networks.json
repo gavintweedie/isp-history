@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "c. 2012",
+      "year": 2020,
+      "date_disp": "Feb 2020",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Ceased operating — W3Networks brand retired; domain 301s to skyfibre.net.au.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20200119102815/http://www.w3networks.com.au/",
+          "label": "Last genuine W3Networks ISP page (W3 Network / Wireless / 5G plans)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20200218151738id_/http://www.w3networks.com.au/",
+          "label": "From Feb 2020 the domain permanently redirects to Sky Fibre."
+        },
+        {
+          "kind": "live",
+          "url": "http://w3networks.com.au/",
+          "label": "Still redirects to Sky Fibre in 2026; W3 Networks Pty Ltd (ABN 69 126 612 342) remains active."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View?abn=69126612342",
+          "label": "Same company continues; brand/domain retired rather than company wound up."
+        }
+      ]
     }
   ],
   "refs": [

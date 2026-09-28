@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2021,
+      "date_disp": "c. 2021-2022",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Acquired by More Telecom (Montimedia).",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20210802223618/http://snowy.net.au/",
+          "label": "Live for ~25 years (1997-2021) before redirecting."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20240326085713/http://snowy.net.au/",
+          "label": "The domain now redirects to More Telecom/Montimedia, named as the parent company."
+        }
+      ]
     }
   ],
   "refs": [

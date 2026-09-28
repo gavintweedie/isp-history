@@ -25,7 +25,7 @@
       "year": 2009,
       "date_disp": "by Sep 2009",
       "precision": "by",
-      "details": "Defunct.",
+      "details": "Website gone (no live site) — site degraded to an empty page.",
       "refs": [
         {
           "kind": "archive",
@@ -36,6 +36,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20090912041733/http://www.nowires.com.au/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20100209180108/http://www.nowires.com.au/",
+          "label": "Feb 2010 IIS 'Under Construction'."
         }
       ]
     }

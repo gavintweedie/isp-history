@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2018,
-      "date_disp": "c. 2018-19",
+      "year": 2004,
+      "date_disp": "Aug 2004",
       "precision": "approx",
-      "details": "Defunct; infrastructure to Velocity Internet/HostIT."
+      "details": "Acquired by Velocity Internet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20050403213300/http://www.interact.net.au/",
+          "label": "Merger announced 23 Aug 2004; Interact Broadband page carried the notice into 2005."
+        },
+        {
+          "kind": "whirlpool",
+          "url": "https://forums.whirlpool.net.au/archive/231684",
+          "label": "Corroborating merger report."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20080705022640/http://www.interact.net.au/",
+          "label": "By 2008 the domain pointed at Velocity's HostIT infrastructure."
+        }
+      ]
     }
   ],
   "refs": [

@@ -25,7 +25,24 @@
       "year": 2023,
       "date_disp": "c. 2023",
       "precision": "approx",
-      "details": "Absorbed/rebranded under Edge Centres Pty Ltd (between Mar-May 2023)."
+      "details": "Acquired by Edge Centres Pty Ltd — absorbed by Edge Centres; brand/site continued.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20230301000000/http://www.hostnetworks.com.au/",
+          "label": "Still trading under its own brand Mar 2023."
+        },
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20260401000000/http://www.hostnetworks.com.au/",
+          "label": "Brand still live 2026 under Edge Centres ownership."
+        },
+        {
+          "kind": "registry",
+          "url": "https://abr.business.gov.au/",
+          "label": "Brief records absorption by Edge Centres between Mar-May 2023."
+        }
+      ]
     }
   ],
   "refs": [

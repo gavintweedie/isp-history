@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "by Nov 2002",
-      "precision": "by",
-      "details": "Absorbed by Fuzion Pty Ltd."
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Acquired by Fuzion Pty Ltd. logicworld.com.au began 301-redirecting to fuzion.com.au from 20 October 2003.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20030807132351/http://www.logicworld.com.au/",
+          "label": "Still serving its own site Aug 2003."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20031020111256/http://www.logicworld.com.au/",
+          "label": "First redirect appears 20 Oct 2003."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20040204155224/http://www.logicworld.com.au/",
+          "label": "By Feb 2004 the redirect target is confirmed as Fuzion."
+        }
+      ]
     }
   ],
   "refs": [

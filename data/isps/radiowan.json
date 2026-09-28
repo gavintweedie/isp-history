@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2002,
-      "date_disp": "c. 2002",
-      "precision": "approx",
-      "details": "Died (domain parked)."
+      "date_disp": "by Sep 2002",
+      "precision": "by",
+      "details": "Website gone (no live site) — first 301 redirect.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020530033205/http://www.radiowan.net.au/",
+          "label": "Last live capture May 2002."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020928081331/http://www.radiowan.net.au/",
+          "label": "By Sep 2002 the site had gone."
+        }
+      ]
     }
   ],
   "refs": [

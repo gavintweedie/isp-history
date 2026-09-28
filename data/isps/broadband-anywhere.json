@@ -26,12 +26,24 @@
     {
       "kind": "death",
       "year": 2008,
-      "date_disp": "c. 2008",
+      "date_disp": "c. Aug 2008",
       "precision": "approx",
-      "details": "Retail homepage served content through ~Jul 2008; from Aug 2008 broadbandanywhere.com.au returned mostly 302 redirects (brief 200 revival Sep-Oct 2009), redirect-only through 2019. Defunct c. 2008.",
+      "details": "Website gone (no live site).",
       "source": [
         "https://web.archive.org/web/20080718224054/http://www.broadbandanywhere.com.au/",
         "Wayback CDX: 200 homepage through Jul 2008, 302 from Aug 2008"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20080718224054/http://broadbandanywhere.com.au/",
+          "label": "Last content-bearing capture (18 Jul 2008)."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "http://web.archive.org/web/20080829065305/http://broadbandanywhere.com.au/",
+          "label": "Redirect-only from 29 Aug 2008 (brief Sep-Oct 2009 revival aside) through 2019 - ISP defunct c. 2008."
+        }
       ]
     },
     {

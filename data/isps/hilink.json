@@ -25,7 +25,19 @@
       "year": 2004,
       "date_disp": "by 2004",
       "precision": "by",
-      "details": "Rebranded ClariNET Internet Solutions Pty Ltd."
+      "details": "Acquired by ClariNET Internet Solutions Pty Ltd — rebranded ClariNET Internet Solutions.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20040101000000/http://www.hilink.com.au/",
+          "label": "Explicit rebrand notice, Jan 2004."
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20120221000000/http://www.hilink.com.au/",
+          "label": "Still redirecting to clari.net.au in 2012."
+        }
+      ]
     }
   ],
   "refs": [

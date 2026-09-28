@@ -25,7 +25,24 @@
       "year": 2013,
       "date_disp": "c. 2013",
       "precision": "approx",
-      "details": "Quietly folded; domain no longer resolves."
+      "details": "Website gone (no live site) — site 404; domain later Sedo-parked.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20101229000000/http://www.holohost.net/",
+          "label": "Live hosting business Dec 2010."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20130603000000/http://www.holohost.net/",
+          "label": "404 from 2013."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20161101000000/http://www.holohost.net/",
+          "label": "Sedo parking page by 2016."
+        }
+      ]
     }
   ],
   "refs": [

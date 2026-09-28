@@ -29,15 +29,20 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "late 2012",
+      "year": 2013,
+      "date_disp": "Jan 2013",
       "precision": "approx",
-      "details": "Business acquired by Aardvark Internet (Noro Communications Pty Ltd, Melbourne); announced 13 Jan 2013 with customer databases integrated and services transferred to Aardvark's network. aspire.com.au email addresses continue via Aardvark's legacy webmail portal.",
+      "details": "Acquired by Aardvark Internet (Noro Communications Pty Ltd).",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20130408235801/http://aardvark.net.au/2013/01/13/aardvark-internet-acquires-aspire-internet-and-funnelweb-internet/",
           "label": "Aardvark blog (13 Jan 2013): acquisition of Aspire Internet and Funnelweb Internet"
+        },
+        {
+          "kind": "live-redirect",
+          "url": "http://aspire.com.au/",
+          "label": "aspire.com.au currently 301-redirects to aardvark.net.au."
         }
       ]
     }

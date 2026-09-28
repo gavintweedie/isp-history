@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2007",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2006,
+      "date_disp": "by 2006",
+      "precision": "by",
+      "details": "Website gone (no live site).",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20050615043037/http://everyonesinternet.com.au/",
+          "label": "live ISP site with dialup $9.90 and ADSL $29.95, Jun 2005"
+        },
+        {
+          "kind": "wayback-gone",
+          "url": "https://web.archive.org/web/20060502011103/http://www.everyonesinternet.com.au/",
+          "label": "HTTP 403 on 2006-05-02"
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "https://web.archive.org/web/20070830060422/http://everyonesinternet.com.au/",
+          "label": "bare frameset/placeholder page from 2007"
+        }
+      ]
     }
   ]
 }

@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. mid-2004",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Absorbed into Chariot Netconnect (ABN cancelled 1 Jul 2004)."
+      "details": "Acquired by Chariot Netconnect / Chariot Ltd (later TPG) — between Jan 2005 and Jan 2006.",
+      "refs": [
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/20050120033931/http://www.satlink.com.au/",
+          "label": "Still trading as Satlink on 20 Jan 2005."
+        },
+        {
+          "kind": "wayback-dead",
+          "url": "http://web.archive.org/web/20060101024954/http://www.satlink.com.au/",
+          "label": "By 1 Jan 2006 the domain served Chariot's site with satlink.com.au as a retained login domain."
+        }
+      ]
     }
   ],
   "refs": [

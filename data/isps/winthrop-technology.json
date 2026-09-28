@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
+      "year": 1998,
+      "date_disp": "1998",
       "precision": "approx",
-      "details": "Business name held by Alphawest (Feb-Nov 2000); lineage to Winthrop Australia."
+      "details": "Acquired by AlphaWest / Comswest International — Winthrop Technology pages replaced by Comswest by Dec 1998.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980209145417/http://www.wt.com.au/",
+          "label": "Still branded Winthrop Technology (a division of AlphaWest) in Feb 1998."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981201180044/http://www.wt.com.au/",
+          "label": "By Dec 1998 wt.com.au serves Comswest; later WestNet and a 404."
+        }
+      ]
     }
   ],
   "refs": [

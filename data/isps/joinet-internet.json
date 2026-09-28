@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2005-06",
-      "precision": "approx",
-      "details": "Dead."
+      "year": 2005,
+      "date_disp": "by 2005/06",
+      "precision": "by",
+      "details": "Website gone (no live site). last Wayback capture Jan 2005, domain later lapsed.",
+      "refs": [
+        {
+          "kind": "wayback-capture",
+          "url": "https://web.archive.org/web/20050131175201/http://joinet.net.au/",
+          "label": "Last live capture of the Perth ISP (31 Jan 2005)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=joinet.net.au&output=json&fl=timestamp,statuscode",
+          "label": "No captures after Jan 2005; the domain does not currently resolve."
+        }
+      ]
     }
   ],
   "refs": [

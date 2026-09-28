@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2012,
+      "date_disp": "c. 2012",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Ceased — rebranded Gtelecom.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120117081031/http://www.goldenit.net.au/",
+          "label": "Jan 2012: still GoldenIT branding."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120712180055/http://www.goldenit.net.au/",
+          "label": "By Jul 2012 rebranded Gtelecom; GTELECOM Pty Ltd (ACN 099 165 143) is still active."
+        },
+        {
+          "kind": "abr",
+          "url": "https://abr.business.gov.au/ABN/View/67099165143",
+          "label": "Company remains active under the Gtelecom brand."
+        }
+      ]
     }
   ],
   "refs": [
