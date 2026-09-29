@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://citynet.net.au",
-  "summary": "Perth dialup ISP; defunct ~2001-02.",
+  "summary": "Perth dialup ISP; defunct ~2001-02 (CITYPAK PTY LTD, ACN 009 418 339).",
   "names": [
     {
       "name": "City Net Internet Services",
@@ -39,6 +39,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981212023816/http://www.citynet.net.au/",
       "label": "City Net (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=63009418339",
+      "label": "ABR: CITYPAK PTY LTD"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=63009418339",
+      "label": "ABR history verified: the exact ISP name held in Perth exactly during the ISP's documented life (1998-c.2001-02)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000302222428/http://www.citynet.net.au/",
+      "label": "Domain confirmed live in era; archived pages carry no ABN, so the register entry is the identity anchor"
     }
   ]
 }

@@ -8,15 +8,15 @@
   "names": [
     {
       "name": "Snoopa Hervey Bay",
-      "start_year": 2005,
-      "start_disp": "by Jan 2005"
+      "start_year": 2003,
+      "start_disp": "c. Feb 2003"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2003,
-      "date_disp": "c. 2003",
+      "date_disp": "c. Feb 2003",
       "precision": "approx",
       "details": "Local ISP.",
       "refs": [
@@ -29,6 +29,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20050123214008/http://snoopa.com.au/",
           "label": "Site live by Jan 2005."
+        },
+        {
+          "kind": "official",
+          "url": "https://www.abn-lookup.com/firm/snooper-systems-pty-ltd-103690526/",
+          "label": "ABR/ASIC mirror — company incorporated 11 Feb 2003; ABR entity-name-from 15 Feb 2003; business name PHONE SNOOPA 12 Jun 2003"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/2006id_/http://www.snoopa.com.au/",
+          "label": "2006 capture shows it operating as an ISP (wireless broadband, VoIP, fixed line)"
         }
       ]
     },

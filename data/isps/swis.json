@@ -18,7 +18,7 @@
       "year": 1995,
       "date_disp": "1995",
       "precision": "exact",
-      "details": "Established in Mandurah WA by Paul Rolfe and Jurgen Steinert."
+      "details": "Established in Mandurah WA by Paul Rolfe and Jurgen Steinert. Owned by the Paul Rolfe / Jurgen Steinert partnership until the EFTel absorption, per its own 1998 about page."
     },
     {
       "kind": "death",
@@ -45,6 +45,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980210103858/http://www.southwest.com.au/about.html",
       "label": "SWIS about (Wayback 1998)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/2003id_/http://www.southwest.com.au/",
+      "label": "By 2003 SWIS was under EFTel; the SOUTH WEST INTERNET SYSTEMS business name now sits on EFTel Pty Ltd's ABN 47 073 238 178."
     }
   ]
 }

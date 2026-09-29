@@ -4,7 +4,7 @@
   "birthplace": "Grafton, NSW",
   "status": "inactive",
   "website": "https://graftoninternet.com.au",
-  "summary": "North-coast NSW dialup/broadband ISP run by Lismore Online (2001-03); defunct.",
+  "summary": "North-coast NSW dialup/broadband ISP run by Lismore Online (2001-03); defunct (SAUER, CHRISTOPHER MICHEAL (formerly SAWTELL, CRAIG JOHN) (t/a Lismore Online), ABN 84 723 024 730).",
   "names": [
     {
       "name": "Grafton Internet",
@@ -38,6 +38,23 @@
           "label": "By Jul 2005 the site is a default Apache test page; only 17 captures ever, none after Jul 2005."
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=84723024730",
+      "label": "ABR: SAUER, CHRISTOPHER MICHEAL (formerly SAWTELL, CRAIG JOHN) (t/a Lismore Online)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=84723024730",
+      "label": "ABR history verified: the operator identified by the project (Lismore Online, Northern Rivers NSW) is real and era-matched; Grafton is in the same region (NSW 2"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030529194904/http://www.graftoninternet.com.au/",
+      "label": "Verified the domain's live window 2001-2005; no on-site ABN/entity ever archived"
     }
   ]
 }

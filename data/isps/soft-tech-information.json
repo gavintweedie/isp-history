@@ -2,9 +2,9 @@
   "name": "Soft-Tech Information Services",
   "slug": "soft-tech-information",
   "birthplace": "Brisbane, QLD",
-  "status": "inactive",
+  "status": "active",
   "website": "https://st.net.au",
-  "summary": "Brisbane BBS + ISP (Soft-Tech, ~1996); defunct (AUSTRALIAN NATIONAL RESEARCH PTY LTD (T/A SOFT-TECH INFORMATION SERVICES), ACN 087 201 269).",
+  "summary": "Brisbane BBS + ISP (Soft-Tech, ~1996); still operating as of Sep 2026 as Soft-Tech Internet (st.net.au) — brand now operated by IntPay Pty Ltd, not the original AUSTRALIAN NATIONAL RESEARCH PTY LTD (ACN 087 201 269).",
   "names": [
     {
       "name": "Soft-Tech Information Services",
@@ -21,11 +21,33 @@
       "details": "BBS + ISP."
     },
     {
-      "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://st.net.au/",
+          "label": "Live Brisbane site selling ADSL, wireless broadband, NBN and hosting with © 2026 copyright"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=80106545073",
+          "label": "ABN shown on the site (80 106 545 073) belongs to IntPay Pty Ltd — still active; brand continued under a different entity after the original operator's ABN was "
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20251117210449/https://www.st.net.au/",
+          "label": "Nov 2025 archive capture of the operating Soft-Tech Internet site"
+        },
+        {
+          "kind": "official",
+          "url": "https://st.net.au",
+          "label": "Live site"
+        }
+      ]
     }
   ],
   "refs": [
@@ -33,6 +55,21 @@
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?id=32087201269",
       "label": "ABR: AUSTRALIAN NATIONAL RESEARCH PTY LTD (T/A SOFT-TECH INFORMATION SERVICES) ACN 087 201 269"
+    },
+    {
+      "kind": "official",
+      "url": "https://st.net.au/",
+      "label": "Live Brisbane site selling ADSL, wireless broadband, NBN and hosting with © 2026 copyright"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?id=80106545073",
+      "label": "ABN shown on the site (80 106 545 073) belongs to IntPay Pty Ltd — still active; brand continued under a different entity after the original operator's ABN was "
+    },
+    {
+      "kind": "archive",
+      "url": "http://web.archive.org/web/20251117210449/https://www.st.net.au/",
+      "label": "Nov 2025 archive capture of the operating Soft-Tech Internet site"
     }
   ]
 }

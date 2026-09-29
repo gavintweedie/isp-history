@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://nucleardaysonline.com.au",
-  "summary": "National gaming dialup + ADSL ISP of the Lismore Online Group (launched Nov 2002); defunct.",
+  "summary": "National gaming dialup + ADSL ISP of the Lismore Online Group (launched Nov 2002); defunct (SAUER, CHRISTOPHER MICHEAL (previously SAWTELL, CRAIG JOHN) (t/a Nuclear Days Online), ABN 84 723 024 730).",
   "names": [
     {
       "name": "Nuclear Days Online",
@@ -38,6 +38,23 @@
           "label": "By Jun 2005 (the domain's last capture) the site is a Plesk placeholder."
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=84723024730",
+      "label": "ABR: SAUER, CHRISTOPHER MICHEAL (previously SAWTELL, CRAIG JOHN) (t/a Nuclear Days Online)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=84723024730",
+      "label": "ABR history verified: Nuclear Days Online trading name sits on this exact ABN in Lismore across the ISP's era"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20040825120716/http://www.everyonesinternet.com.au/privacy.htm",
+      "label": "Sister brand's own page uses the nucleardaysonline.com mailbox from South Lismore, tying the operator identities together"
     }
   ]
 }

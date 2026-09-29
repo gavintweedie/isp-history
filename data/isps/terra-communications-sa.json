@@ -4,7 +4,7 @@
   "birthplace": "Aldinga Beach (Adelaide), SA",
   "status": "inactive",
   "website": "https://terra.net.au",
-  "summary": "SA local-call dialup (Adelaide, Gawler, Tanunda, Willunga, Port Lincoln) + business access ISP (principal Luke Vanderfluit); gone by ~1999.",
+  "summary": "SA local-call dialup (Adelaide, Gawler, Tanunda, Willunga, Port Lincoln) + business access ISP (principal Luke Vanderfluit); gone by ~1999 (TERRA COMMUNICATIONS (SA) PTY LTD, ACN 079 861 242).",
   "names": [
     {
       "name": "Terra Communications (SA)",
@@ -40,6 +40,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19990421000000/http://www.cynosure.com.au/isp/terra",
       "label": "Terra SA (Cynosure 1999)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000418165044id_/http://www.terra.net.au:80/Terraforma/signup/ti_signup.html",
+      "label": "Own signup page footer names the company."
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010907020038/http://www.camtech.net.au:80/transition/",
+      "label": "Camtech confirms the same legal entity and the Apr-1999 handover."
+    },
+    {
+      "kind": "official",
+      "url": "https://creditorwatch.com.au/credit/profile/079861242/terra-communications-sa-pty-ltd",
+      "label": "ASIC-derived registry data gives the ACN; deregistered 2001, before/without an ABN being issued, hence absent from ABR."
     }
   ]
 }

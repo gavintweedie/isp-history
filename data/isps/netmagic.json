@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://netmagic.net.au",
-  "summary": "Perth 56k dialup + ADSL ISP (by 2002); defunct.",
+  "summary": "Perth 56k dialup + ADSL ISP (by 2002); defunct (LEHNE, ANTHONY JAMES (sole trader, t/a NetMagic Internet), ABN 98 784 385 592).",
   "names": [
     {
       "name": "NetMagic",
@@ -38,6 +38,28 @@
           "label": "Last capture (Feb 2008) is a co-branded/transitional page; no later captures."
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=98784385592",
+      "label": "ABR: LEHNE, ANTHONY JAMES (sole trader, t/a NetMagic Internet)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030407075304/http://www.netmagic.net.au/",
+      "label": "Verified on the ISP's own Apr 2003 page: directly names Tony Lehne and Terminus Network Services as the operators"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=72083643556",
+      "label": "ABR: the JV partner 'Terminus Network Services' (Netcafe/Linux Consultants, Perth CBD) held the NETMAGIC INTERNET business name Jun 2002-Jul 2003 — the handover"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=98784385592",
+      "label": "ABR verified: Lehne takes over the exact business name the day Linux Consultants' registration ends"
     }
   ]
 }

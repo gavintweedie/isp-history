@@ -74,6 +74,16 @@
           "kind": "official",
           "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
           "label": "LinkedIn: John Lindsay — 'they failed fairly quietly in 1998. I bought the customers for Chariot from the liquidator'"
+        },
+        {
+          "kind": "wayback-live",
+          "url": "http://web.archive.org/web/19980213203050/http://www.ourworld.net:80/",
+          "label": "Live at first capture Feb 1998."
+        },
+        {
+          "kind": "wayback-parked",
+          "url": "http://web.archive.org/web/20160111211146/http://ourworld.net/",
+          "label": "Domain long outlived the ISP, so the 2016 capture is not the death; brief records 1998 liquidation and Chariot purchase of the customer base."
         }
       ]
     }

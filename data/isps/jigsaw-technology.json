@@ -25,7 +25,14 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "ISP era ~2000 (jigsaw.net.au last active 2006; domain later a NAV firm)."
+      "details": "ISP era ~2000 (jigsaw.net.au last active 2006; domain later a NAV firm).. Ceased as an ISP — domain repurposed to software consultancy..",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://jigsaw.com.au/",
+          "label": "jigsaw.com.au is now a Microsoft Dynamics consultancy transiting customers to MicroChannel — no internet access services"
+        }
+      ]
     }
   ],
   "refs": [

@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://dbnw.com.au",
-  "summary": "National dialup ISP (V.90) of phone reseller Dynamic Bell Telecommunications; defunct ~1999.",
+  "summary": "National dialup ISP (V.90) of phone reseller Dynamic Bell Telecommunications; defunct ~1999 (Universal Dynamics (t/a Dynamic Bell / DBNW - Dynamic Bell's NetWorld), ACN 064 416 673).",
   "names": [
     {
       "name": "Dynamic Bell's NetWorld",
@@ -52,6 +52,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19990429200028/http://www.dbnw.com.au/pop.html",
       "label": "DBNW (Wayback 1999)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19970630204656id_/http://www.dynamicbell.com.au:80/comppro.html",
+      "label": "Operator's own 1997 'Company Profile' page states legal name + ACN; ACN checksum-valid. Company ceased c.1999, pre-ABN (Nov 1999), so no ABN was ever issued - h"
     }
   ]
 }

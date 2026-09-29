@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://webexpress.net.au",
-  "summary": "Brisbane dialup ISP (8c/hour, web authoring, home page hosting, ~1997); defunct.",
+  "summary": "Brisbane dialup ISP (8c/hour, web authoring, home page hosting, ~1997); defunct (THE TRUSTEE FOR WEB EXPRESS UNIT TRUST (t/a Web Express Pty Ltd, trustee company ACN 105 458 605), ACN 105 458 605).",
   "names": [
     {
       "name": "Web Express",
@@ -38,6 +38,23 @@
           "label": "By Apr 2013 the site is just a directory listing; cPanel 'suspendedpage.cgi' follows in 2014, then 'Southern Ocean Systems - Coming Soon' by 2021."
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=37891836112",
+      "label": "ABR: THE TRUSTEE FOR WEB EXPRESS UNIT TRUST (t/a Web Express Pty Ltd, trustee company ACN 105 458 605)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20031101000000/http://www.webexpress.net.au/",
+      "label": "Verified verbatim: the ISP's own Nov 2003 page names the buyer Web Express Pty. Ltd., ACN 105 458 605"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=37891836112",
+      "label": "ABR verified: the trust trading as 'Web Express Pty Ltd' from 28 Jul 2003 — within a fortnight of the announced 8 Aug 2003 sale; Brisbane postcode matches the B"
     }
   ]
 }

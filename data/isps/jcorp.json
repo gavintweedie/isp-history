@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.jcorp.com.au",
-  "summary": "Perth ISP 'JCorp On-line' (JCORP Pty Ltd, later J-Corp Pty Ltd); WAIA WAIX-class member; ISP arm wound down ~2004-05.",
+  "summary": "Perth ISP 'JCorp On-line' (JCORP Pty Ltd, later J-Corp Pty Ltd); WAIA WAIX-class member; ISP arm wound down ~2004-05 (J-CORP. PTY LTD, ACN 009 063 076).",
   "names": [
     {
       "name": "J-Corp",
@@ -33,6 +33,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980514172503/http://www.jcorp.com.au/",
       "label": "JCorp On-line (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=54009063076",
+      "label": "ABR: J-CORP. PTY LTD"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990417140806/http://www.jcorp.com.au/",
+      "label": "Verified: the ISP's own 1999 page copyrights 'JCORP PTY LTD'"
+    },
+    {
+      "kind": "official",
+      "url": "https://whois.auda.org.au/",
+      "label": "Current auDA whois (Sep 2026): the domain is still registered to the candidate entity under its exact ACN (auDA whois for jcorp.com.au)"
     }
   ]
 }

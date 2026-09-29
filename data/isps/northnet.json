@@ -61,6 +61,11 @@
           "kind": "news",
           "url": "https://forums.whirlpool.net.au/archive/3l108xzv",
           "label": "Whirlpool Apr 2022: 'Chariot (which has owned Northnet for ages) is now part of TPG'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050101084747/http://www.northnet.com.au/",
+          "label": "By Jan 2005 northnet.com.au is a Chariot portal with an Armidale office and northnet.com.au mail domain."
         }
       ]
     }

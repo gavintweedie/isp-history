@@ -23,9 +23,9 @@
     {
       "kind": "death",
       "year": 2024,
-      "date_disp": "by 30 Jan 2024",
-      "precision": "by",
-      "details": "Website gone (no live site) — retail site replaced by a webmail-only portal.",
+      "date_disp": "between 17 Sep and 15 Oct 2024",
+      "precision": "approx",
+      "details": "Retail netspeed.com.au live 17 Sep 2024; replaced by a webmail-only portal by 15 Oct 2024 (Wayback captures). Earlier 'by 30 Jan 2024' was mis-dated (capture misread).",
       "refs": [
         {
           "kind": "archive",
@@ -46,6 +46,21 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20260101000000/https://www.netspeed.com.au/",
           "label": "In 2026 the domain is still a webmail-only page; owner ByteCard continues via the Velocity brand."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20240917123605/http://www.netspeed.com.au/",
+          "label": "Full retail site still live 17 Sep 2024 - three days after the brief's 'by Jan 2024' claim's terminus; the retirement is later than stated."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20241015142038/http://www.netspeed.com.au/",
+          "label": "Webmail-only portal 'Copyright 2024' by 15 Oct 2024 (apex 404s 3/10 Oct) - brand-retirement window 17 Sep-15 Oct 2024, i.e. intra-ByteCard consolidation (Veloci"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/netspeed-buys-canberra-isp-velocity-236940",
+          "label": "iTnews 1 Nov 2010: NetSpeed bought Velocity, so the 2024 'transition' is intra-company brand retirement, not a sale."
         }
       ]
     }

@@ -8,17 +8,24 @@
   "names": [
     {
       "name": "SafetyWeb",
-      "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_year": 1996,
+      "start_disp": "Sep 1996"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
-      "details": "Earliest Wayback capture of own domain (by 1997)."
+      "year": 1996,
+      "date_disp": "Sep 1996",
+      "precision": "approx",
+      "details": "Earliest Wayback capture of own domain (by 1997).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970331032212/http://www.safetyweb.com.au/",
+          "label": "own homepage (captured 31 Mar 1997) states formation month"
+        }
+      ]
     },
     {
       "kind": "death",

@@ -18,7 +18,7 @@
       "year": 1998,
       "date_disp": "c. 1998",
       "precision": "approx",
-      "details": "Dialup ISP + web directory."
+      "details": "Dialup ISP + web directory. Owned and operated by Jarrod Friedland t/a JATOGA Online (his own words). NB: his ZENWEB-listed ABN 97 641 180 034 never carried the JATOGA name — not stamped."
     },
     {
       "kind": "death",
@@ -26,6 +26,18 @@
       "date_disp": "c. 2002",
       "precision": "approx",
       "details": "Wound down."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20010123064400/http://www.jatoga.net.au:80/companyprof.html",
+      "label": "Own 2001 company-profile page states the sole-trader structure and ties the site to his ZENWEB trading names."
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=97641180034",
+      "label": "His sole-trader ABN (cancelled 31 Mar 2026); ABR lists ZENWEB names but not JATOGA, consistent with the same person's unregistered trading name."
     }
   ]
 }

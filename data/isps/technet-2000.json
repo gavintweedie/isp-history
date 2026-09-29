@@ -46,6 +46,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
           "label": "Chariot 2004 Annual Report: FY2003-04 acquisitions list (Technet 2000 not included — FY2004-05)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20061225064019/http://www.technet2000.com.au/",
+          "label": "By Dec 2006 the technet2000.com.au domain served Chariot's site."
         }
       ]
     }

@@ -18,7 +18,7 @@
       "year": 1999,
       "date_disp": "c. 1999",
       "precision": "approx",
-      "details": "Dialup, game servers."
+      "details": "Dialup, game servers. Operated by Mark Garland (Geraldton WA), per its own 1999 contact page."
     },
     {
       "kind": "death",
@@ -38,6 +38,18 @@
           "label": "Wayback: first webmail-only / parked homepage"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990508071056id_/http://www.modnet.com.au:80/contact/contact.htm",
+      "label": "Own 1999 contact page names Mark Garland as management/proprietor; no company or ABN printed on 1999-2005 pages."
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=modnet",
+      "label": "No ABR name matches the Geraldton ISP; directory listings (dlook/showmelocal/pinkpages) show 'Modnet Internet Services', Geraldton, (08) 9964 2722 but no entity"
     }
   ]
 }

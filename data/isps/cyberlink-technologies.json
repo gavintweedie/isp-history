@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://cyberlink.com.au",
-  "summary": "Perth dialup + satellite broadband ISP (since 1998; CyberLink Ultra via ihug); defunct.",
+  "summary": "Perth dialup + satellite broadband ISP (since 1998; CyberLink Ultra via ihug); defunct (CYBER NETWORKS PTY LTD (trading as Cyberlink Technologies), ACN 109 342 074).",
   "names": [
     {
       "name": "CyberLink Technologies",
@@ -37,6 +37,23 @@
         "https://web.archive.org/web/19961101201256id_/http://www.cyberlink.com.au/",
         "https://web.archive.org/web/20040729232553id_/http://www.cyberlink.com.au/"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=97109342074",
+      "label": "ABR: CYBER NETWORKS PTY LTD (trading as Cyberlink Technologies)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961101201256/http://www.cyberlink.com.au/",
+      "label": "cyberlink.com.au 1996-2003 actually belongs to CYBERlink Computing Services = CCS Unit Trust (QLD 4053, ABN 94 763 190 687, verified via ABR history) — a differ"
+    },
+    {
+      "kind": "official",
+      "url": "https://whois.auda.org.au/",
+      "label": "Current whois still points to the Computing Services business, not Cyber Networks (auDA whois for cyberlink.com.au)"
     }
   ]
 }

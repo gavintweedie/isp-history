@@ -2,9 +2,9 @@
   "name": "yless4u",
   "slug": "yless4u",
   "birthplace": "Bungendore/Canberra, ACT",
-  "status": "inactive",
+  "status": "active",
   "website": "https://yless4u.com.au",
-  "summary": "Fixed-wireless carrier/RSP (founder Anthony Goonan); acquired by CMvas 2024 (YLESS4U PTY LTD, ACN 110 836 425).",
+  "summary": "Fixed-wireless carrier/RSP (founder Anthony Goonan); acquired by CMVAS 2024; brand still operating as of Sep 2026 (YLESS4U PTY LTD, ACN 110 836 425, ABN 75 110 836 425).",
   "names": [
     {
       "name": "yless4u",
@@ -21,11 +21,18 @@
       "details": "Carrier licence Nov 2004; retail services launched Feb 2005."
     },
     {
-      "kind": "death",
-      "year": 2024,
-      "date_disp": "2024",
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
       "precision": "exact",
-      "details": "Acquired by CMvas (per owner info)."
+      "details": "Acquired by CMVAS in 2024 (see transition edge); the brand continues operating as a retail ISP — verified live yless4u.com.au with current internet pages, network status and portal as of Sep 2026.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://yless4u.com.au/",
+          "label": "Live site (Sep 2026): internet plans, network status, legal policies; footer ABN 75 110 836 425"
+        }
+      ]
     }
   ],
   "refs": [

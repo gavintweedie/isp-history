@@ -132,7 +132,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 1999,
-      "date_disp": "1999",
+      "date_disp": "Nov 1999",
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "omen-internet",
       "to": "iinet",
@@ -141,6 +141,11 @@
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=314653&documentDate=1999-11-29&documentNumber=170667",
           "label": "ASX: To Acquire Omen Internet and Net Trek Online Services"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/iinet-makes-key-purchases-in-wa-19991130-k92kc",
+          "label": "AFR 30 Nov 1999: iiNet announced purchase of Omen Internet and Net Trek Online (WA)"
         }
       ]
     },
@@ -164,7 +169,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 1999,
-      "date_disp": "1999",
+      "date_disp": "Nov 1999",
       "notes": "Post-IPO Perth-area acquisition.",
       "from": "nettrek",
       "to": "iinet",
@@ -173,6 +178,11 @@
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=text&issuerId=4105&announcementId=314653&documentDate=1999-11-29&documentNumber=170667",
           "label": "ASX: To Acquire Omen Internet and Net Trek Online Services"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/iinet-makes-key-purchases-in-wa-19991130-k92kc",
+          "label": "AFR 30 Nov 1999: iiNet announced purchase of Omen Internet and Net Trek Online (WA)"
         }
       ]
     },
@@ -291,8 +301,8 @@
     {
       "type": "acquisition",
       "arm_label": "brand",
-      "year": 2002,
-      "date_disp": "by 2002",
+      "year": 2000,
+      "date_disp": "FY1999-2000",
       "notes": "RuralNet operated as a brand of Local Telecom and Internet Ltd (later Macarthurcook Ltd.",
       "from": "ruralnet",
       "to": "macarthurcook",
@@ -301,6 +311,26 @@
           "kind": "news",
           "url": "https://www.smh.com.au/business/iinet-acquires-tasmanian-and-rural-victorian-isps-20030101-gdg1n5.html",
           "label": "SMH 1 Jan 2003: iiNet acquires Local Telecom and Internet's ISPs Tassienet and Ruralnet"
+        },
+        {
+          "kind": "asx",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=661967&display=text&documentDate=2000-09-13&documentNumber=126457&issuerId=4247",
+          "label": "Local Telecom & Internet Ltd Preliminary Final Report for FY1999-2000, lodged 13 Sep 2000 - hard documented purchase of the Ruralnet business within FY2000."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/iinet-acquires-tasmanian-and-rural-victorian-isps-20021231-gdg1l6.html",
+          "label": "SMH 31 Dec 2002: Local Telecom already owned both brands when iiNet bought the customer base."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030524124315/http://ruralnet.net.au/",
+          "label": "ruralnet.net.au 301s to iiNet from 24 May 2003 (own Ruralnet site to Sep 2002), consistent with the Dec 2002/Jan 2003 iiNet customer-base sale."
+        },
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/local-telecom-and-internet-limited/",
+          "label": "deListed ASX name history: Local Telecom renamed MacarthurCook 9 May 2003 (ABR records the legal name change 8 Apr 2004 - both post-date the Ruralnet purchase)."
         }
       ]
     },
@@ -317,6 +347,21 @@
           "kind": "news",
           "url": "https://www.smh.com.au/business/iinet-acquires-tasmanian-and-rural-victorian-isps-20030101-gdg1n5.html",
           "label": "SMH 1 Jan 2003: Local's two ISPs Tassienet and Ruralnet"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/iinet-acquires-tasmanian-and-rural-victorian-isps-20021231-gdg1l6.html",
+          "label": "SMH 31 Dec 2002: Local Telecom owned both brands by the iiNet customer-base announcement."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010424144853/http://www.tassie.net.au/",
+          "label": "tassie.net.au ran as Tas Access through Apr 2001 with no ownership change visible on the homepage; no dated Local-Telecom acquisition document found (sibling Ru"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.delisted.com.au/company/local-telecom-and-internet-limited/",
+          "label": "ASX name change to MacarthurCook 9 May 2003; ABR legal rename 8 Apr 2004."
         }
       ]
     },
@@ -372,7 +417,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2002,
-      "date_disp": "early 2002",
+      "date_disp": "by 21 Nov 2002",
       "notes": "Rockhampton ISP.",
       "from": "rocknet",
       "to": "iinet",
@@ -381,6 +426,21 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/IiNet",
           "label": "Wikipedia: iiNet acquisition history"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/?id=1048",
+          "label": "iiNet MD Michael Malone quoted in Whirlpool Broadband News, 2 Jan 2003."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021121100500/http://www.rocknet.net.au/",
+          "label": "rocknet.net.au meta-refreshes to a dedicated iiNet news page ('news/rocknet.html') by 21 Nov 2002; the domain still served its own 'RockISP' frameset on 3 Aug 2"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/iinet-acquires-national-status-260m-cap-13681",
+          "label": "iTnews 2 Dec 2003: iiNet's eastern-state acquisition spree began with the Rockhampton (RockNet) buy."
         }
       ]
     },
@@ -388,7 +448,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2002,
-      "date_disp": "early 2002",
+      "date_disp": "mid-2002",
       "notes": "Sydney ISP.",
       "from": "hartingdale",
       "to": "iinet",
@@ -397,6 +457,21 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/IiNet",
           "label": "Wikipedia: iiNet acquisition history"
+        },
+        {
+          "kind": "news",
+          "url": "https://whirlpool.net.au/news/?id=1048",
+          "label": "iiNet MD Michael Malone in Whirlpool Broadband News, 2 Jan 2003."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020604021853/http://hartingdale.com.au/",
+          "label": "hartingdale.com.au still the standalone North Sydney ISP on 4 Jun 2002."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020720045753/http://hartingdale.com.au/",
+          "label": "By 20 Jul 2002 the domain 302s straight to iinet.net.au - hard bracket 4 Jun-20 Jul 2002."
         }
       ]
     },
@@ -1845,6 +1920,16 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/hostech-buys-anittel-139004",
           "label": "iTnews: Hostech buys Anittel"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=77069288839",
+          "label": "ABR: the joint 'Officelink Plus & Silver Telecom' business name dates from 1 Nov 2008 under Officelink Plus Pty Ltd (ex-ACIS)."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.zdnet.com/article/hostech-continues-acquisition-rampage/",
+          "label": "ZDNet 9 Sep 2010: Hostech (renamed Anittel Group 26 Nov 2010, ABR) acquired OfficeLink Plus at end-2009 - the route by which Silver Telecom landed in the Anitte"
         }
       ]
     },
@@ -2490,18 +2575,39 @@
     {
       "type": "acquisition",
       "arm_label": "brand",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2005,
+      "date_disp": "mid-2005",
       "notes": "Lets Go was the discount ISP brand of Concept Networks.",
       "from": "lets-go",
       "to": "concept-networks",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050707104133/http://letsgo.com.au/",
+          "label": "The discount-brand Lets Go concept was already announced on letsgo.com.au by 7 Jul 2005 - earlier than the brief's 'relaunch around Oct 2006'."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051027005021/http://www.letsgo.com.au/",
+          "label": "Full discount-ISP site live by 27 Oct 2005 (copyright Lets Go 2005)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060210163031/http://www.letsgo.com.au:80/company.php",
+          "label": "Company Information page explicitly ties Lets Go to Concept Networks / Conceptual Internet Australia by 10 Feb 2006."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20031223094433/http://www.letsgo.com.au/",
+          "label": "The domain was still the Cairns LedaNet ISP on 23 Dec 2003, bounding the handover to Dec 2003-Jul 2005."
+        }
+      ]
     },
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2004,
-      "date_disp": "early 2004",
+      "year": 2005,
+      "date_disp": "mid-2005",
       "notes": "Firestar Internet absorbed into Concept Networks (LetsGo; firestar.com.au later redirected to letsgo.com.au (Aug 2006; Firestar was previously a wholesale dialup customer of WiredCity.",
       "from": "firestar",
       "to": "concept-networks",
@@ -2510,6 +2616,21 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20060827024946/http://www.firestar.com.au/",
           "label": "firestar.com.au redirect to letsgo.com.au (Wayback Aug 2006)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050411173921/http://firestar.com.au/info.htm",
+          "label": "info.htm still names FireSTAR Internet Pty Ltd on 11 Apr 2005."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050615132527/http://firestar.com.au/info.htm",
+          "label": "The same page names Concept Networks' entity as operator by 15 Jun 2005 - tight Apr-Jun 2005 bracket for the takeover."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040603010651/http://firestar.com.au/info.htm",
+          "label": "Site re-skinned from 'The Internet Company for the People' to the discount 'No Frills' look (Concept's style) between Feb and Jun 2004 - consistent with the tak"
         }
       ]
     },
@@ -2661,7 +2782,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "c.2001",
       "notes": "SWISP taken over by WestNet.",
       "from": "swisp",
       "to": "westnet",
@@ -2670,6 +2791,16 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/iinet-acquires-westnet-for-81-million-170763",
           "label": "iTnews: iiNet acquires Westnet"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010401084222/http://www.swisp.net.au/",
+          "label": "swisp.net.au still served the standalone SWISP site on 1 Apr 2001."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020401184014/http://www.swisp.net.au/",
+          "label": "By 1 Apr 2002 the domain is a WestNet-titled meta-refresh to westnet.com.au - SWISP was in WestNet's hands within that 12-month window (consistent with brief's "
         }
       ]
     },
@@ -2693,7 +2824,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "Q2-Q3 2001",
       "notes": "Treko folded into WestNet.",
       "from": "treko-internet",
       "to": "westnet",
@@ -2702,6 +2833,16 @@
           "kind": "news",
           "url": "https://www.itnews.com.au/news/iinet-acquires-westnet-for-81-million-170763",
           "label": "iTnews: iiNet acquires Westnet"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010506140007/http://www.treko.net.au/",
+          "label": "treko.net.au still the standalone Treko Internet site on 6 May 2001."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010925193220/http://treko.net.au/",
+          "label": "By 25 Sep 2001 (already by 22 Jul 2001 crawl) treko.net.au meta-refreshes to WestNet's secure1.wn.com.au/treko legacy-customer page - takeover completed May-Jul"
         }
       ]
     },
@@ -3047,8 +3188,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 1999,
-      "date_disp": "c. 1999",
+      "year": 2000,
+      "date_disp": "full control Mar-Apr 2000",
       "notes": "PowerUp sold to OzEmail (per founder Lloyd Ernst.",
       "from": "powerup",
       "to": "ozemail",
@@ -3057,6 +3198,16 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/OzEmail",
           "label": "Wikipedia: OzEmail"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/turnbull-buys-ozemails-prize-asset-20000331-k9cag",
+          "label": "AFR 31 Mar 2000: deal exchanging OzEmail's WebCentral stake for 100% control of PowerUp announced 30-31 Mar 2000; initial 55% bought c.1998 ('two years ago')."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/business/small-business/quick-on-the-draw-20090619-co3i.html",
+          "label": "SMH 19 Jun 2009 retrospective dates the full sale to 2000."
         }
       ]
     },
@@ -3243,8 +3394,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2012,
-      "date_disp": "by 2012",
+      "year": 2006,
+      "date_disp": "Aug 2006",
       "notes": "CybaNet domain/customers folded into EFTel.",
       "from": "cybanet-internet-services",
       "to": "eftel",
@@ -3253,6 +3404,16 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060804204735/http://www.cybanet.net.au/",
+          "label": "cybanet.net.au last standalone capture 4 Aug 2006."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060819003431/http://cybanet.net.au/",
+          "label": "Two weeks later (19 Aug 2006) the domain 302s to eftel.com - this replaces the brief's 'by Jul 2008' bound with a tight Aug 2006 window. Fits Eftel's 2006 acqui"
         }
       ]
     },
@@ -3260,11 +3421,17 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2001,
-      "date_disp": "Feb 2001",
+      "date_disp": "31 Jan 2001",
       "notes": "Cybonet sold its internet operations to Internet Depot.",
       "from": "cybonet-information-technology",
       "to": "internet-depot",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20010201051700/http://www.cybonet.com.au/",
+          "label": "Cybonet homepage notice (1 Feb 2001): 'Cybonet is now merging with Internet Depot ... at the end of this Month (31st January 2001)'"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -3351,7 +3518,7 @@
       "arm_label": "100%",
       "year": 2006,
       "date_disp": "10 April 2006",
-      "notes": "Goldweb acquired by Velocity Internet (per Whirlpool.",
+      "notes": "Goldweb acquired by Velocity Internet (per Whirlpool. Velocity Internet acquired Goldweb Internet (announced via media release 10 Apr 2006, posted to Goldweb's site 10 Jun 2006. Goldweb's domain became Velocity's web portal; the Goldweb brand was retired. Four years later Velocity itself was acquired by NetSpeed (2010.",
       "from": "goldweb-internet",
       "to": "velocity-internet",
       "refs": [
@@ -3364,6 +3531,11 @@
           "kind": "news-primary-media-release",
           "url": "https://forums.whirlpool.net.au/archive/503980",
           "label": "Full media release reproduced by Velocity MD on Whirlpool, with a firm date and handover date."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060926120206/http://www.goldweb.com.au/news.php",
+          "label": "Goldweb news page: 'Velocity Acquires Goldweb' media release, 10 Apr 2006"
         }
       ]
     },
@@ -3507,8 +3679,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2001,
+      "date_disp": "by late 2001",
       "notes": "EEPO brand redirected to Ausconnect.",
       "from": "eepo",
       "to": "ausconnect",
@@ -3517,6 +3689,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20060527172904/http://www.eepo.com.au/",
           "label": "eepo.com.au (Wayback May 2006): redirect page to the Ausconnect web page"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20011129021317/http://www.eepo.com.au/",
+          "label": "eepo.com.au already carried an @ausconnect.net contact by Nov 2001 (page self-dated 23 Sep 2001); the Oct 2000 capture has no Ausconnect reference - earlier tha"
         }
       ]
     },
@@ -3677,8 +3854,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2015,
-      "date_disp": "mid-2015",
+      "year": 2016,
+      "date_disp": "by Jan 2016",
       "notes": "Red Broadband acquired Ocean Broadband's network + customers.",
       "from": "ocean-broadband",
       "to": "red-broadband",
@@ -3687,6 +3864,16 @@
           "kind": "news",
           "url": "https://forums.whirlpool.net.au/archive/2412839",
           "label": "Whirlpool - Red Broadband (ISP Representative Daniel.M) thread"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20160111131659/http://oceanbroadband.net/",
+          "label": "First-party acquisition notice live by 11 Jan 2016 (own normal site 27 Feb 2015) - names Red Broadband explicitly, resolving the 'unnamed ISP' gap in the Whirlp"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20161008131136/http://oceanbroadband.net/",
+          "label": "Domain permanently redirects to Red Broadband by 8 Oct 2016."
         }
       ]
     },
@@ -3720,7 +3907,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 1996,
-      "date_disp": "by 1996",
+      "date_disp": "by Dec 1996",
       "notes": "InterConnect supported as a direct product of connect.com.au.",
       "from": "interconnect",
       "to": "connect-com-au",
@@ -3729,6 +3916,16 @@
           "kind": "news",
           "url": "http://www.rogerclarke.com/II/OzIHist.html",
           "label": "Roger Clarke Brief History of the Internet in Australia - Interconnect passed via connect.com to AAPT"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961230115711/http://www.interconnect.com.au/",
+          "label": "Earliest interconnect.com.au capture (30 Dec 1996) declares the connect.com.au takeover ('now' = late 1996), hard-dating Roger Clarke's historical note."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990420081127/http://www.interconnect.com.au/",
+          "label": "By Apr 1999 the domain redirects into connect.com.au hosting infrastructure - consistent with the 1996 handover."
         }
       ]
     },
@@ -3873,8 +4070,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 1999,
+      "date_disp": "1999",
       "notes": "NetConnect Communications (Ballarat principals joined Chariot by FY2003-04 (2004 Annual Report Executive Team lists former NetConnect CEO Ian as Chariot GM; Ballarat among Chariot offices. The 2010 date previously recorded was netconnect.com.au's redirect to chariot.net.au (brand last use, not the acquisition. NetConnect principals joined Chariot; brand became Chariot netconnect.",
       "from": "ballarat-netconnect",
       "to": "chariot",
@@ -3883,6 +4080,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
           "label": "Chariot 2004 Annual Report: NetConnect principals in Chariot Executive Team"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.thecourier.com.au/story/8800682/how-ballarat-netconnect-connected-rural-and-regional-australia-30-years-ago/",
+          "label": "The Courier (Ballarat), 25 Oct 2024, recounting with the founder: Chariot Internet acquired Ballarat NetConnect in 1999."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=31088377860",
+          "label": "Chariot Internet Limited (ABN 31 088 377 860) registered both names 29-30 Dec 1999, straight after its own ABN activation 1 Nov 1999."
         }
       ]
     },
@@ -4218,11 +4425,11 @@
       ]
     },
     {
-      "type": "rename",
+      "type": "acquisition",
       "arm_label": "division",
       "year": 1996,
       "date_disp": "by Nov 1996",
-      "notes": "Same-operator pairing ('Zircon Systems / Internet Plus', Mascot NSW \u2014 shared staff; sole AU distributor of Spry's Internet-in-a-Box. Not a third-party acquisition.",
+      "notes": "Same-operator pairing ('Zircon Systems / Internet Plus', Mascot NSW \u2014 shared staff; sole AU distributor of Spry's Internet-in-a-Box. Not a third-party acquisition. Internet Plus was a division of Zircon Systems, folded with the company in the PSINet deal.",
       "from": "internet-plus",
       "to": "zircon-systems",
       "refs": [
@@ -4383,8 +4590,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2000,
-      "date_disp": "c. 1999-2001",
+      "year": 2002,
+      "date_disp": "31 Jan 2002",
       "notes": "MagnaData became NTT Australia (via Davnet.",
       "from": "magnadata",
       "to": "ntt-australia",
@@ -4393,6 +4600,21 @@
           "kind": "official",
           "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=623500&display=text&documentDate=1999-11-09&documentNumber=154814&issuerId=3992",
           "label": "ASX Davnet/NTT Communications partnership 9 Nov 1999 + ASX Clarification 5 Feb 1999"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/davnet-takes-isp-on-board-19990204-k8k53",
+          "label": "AFR 4 Feb 1999: Davnet-Magna Data deal announced 3 Feb 1999 (completed ~Apr 1999 per techpartner 28 Nov 2005 interview with founder Jason Ashton)."
+        },
+        {
+          "kind": "asx",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=623443&display=text&documentDate=1999-02-05&documentNumber=145310&issuerId=3992",
+          "label": "Davnet Limited ASX filing 5 Feb 1999 confirming the acquisition of Magna Data (5,000 corporate / 8,000 total clients)."
+        },
+        {
+          "kind": "news",
+          "url": "https://www.techmonitor.ai/technology/ntt_communications_completes_acquisition_of_davtel_firms_name_to_be_changed_to_ntt_australia_ip",
+          "label": "NTT completed the Davtel buyout and renamed it NTT Australia IP on 31 Jan 2002 (it held 49% from Dec 1999) - the documented point Magna Data's assets joined the"
         }
       ]
     },
@@ -4740,6 +4962,21 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20130525002137id_/http://gold.net.au/",
           "label": "gold.net.au (Wayback May 2013): 'GoldNet is the first provider in the Goldfields to be issued with a carriers license'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130409024640/http://gold.net.au/about",
+          "label": "GoldNet-branded carrier operating by Apr 2013."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130810005333/http://www.emerge.com.au/",
+          "label": "Emerge presents purely as a managed-IT provider by Aug 2013."
+        },
+        {
+          "kind": "official",
+          "url": "https://bgp.gibir.net.tr/as/17635",
+          "label": "BGP registry associates AS17635 with both names - intertwined entities; no spin-off announcement exists."
         }
       ]
     },
@@ -4891,7 +5128,7 @@
       "type": "acquisition",
       "arm_label": "dialup base",
       "year": 2002,
-      "date_disp": "c. 2002",
+      "date_disp": "announced 2 Dec 2002",
       "notes": "useoz's dialup base acquired by HotKey Internet after NDS administration.",
       "from": "useoz",
       "to": "hotkey",
@@ -4900,6 +5137,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
           "label": "Hotkey Internet Services (Wayback)"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.smh.com.au/technology/primus-subsidiary-acquires-three-isps-20021202-gdfwiu.html",
+          "label": "SMH 2 Dec 2002: explicit dated announcement naming Hotkey's acquisition of UseOz out of administration - confirms the brief's 'after NDS administration' detail."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021126023756/http://useoz.com.au/",
+          "label": "useoz.com.au still served the standalone brand on 26 Nov 2002 - one week before the announcement."
         }
       ]
     },
@@ -4927,8 +5174,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2003,
+      "date_disp": "by 31 May 2003",
       "notes": "Geko Internet acquired by Hotkey Internet Services.",
       "from": "geko-internet",
       "to": "hotkey",
@@ -4937,6 +5184,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/2001/http://www.hotkey.net.au",
           "label": "Hotkey Internet Services (Wayback)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030531172108/http://www.geko.net.au/",
+          "label": "geko.net.au serves Hotkey-branded content by 31 May 2003 - the brand handover is dated no later than this."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020328042052/http://www.geko.net.au/",
+          "label": "Standalone Geko site 28 Mar 2002; only bare stubs between Nov 2002 and Apr 2003 - transition window Mar 2002-May 2003."
         }
       ]
     },
@@ -4959,8 +5216,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2007,
-      "date_disp": "c. 2006-07",
+      "year": 2006,
+      "date_disp": "by Dec 2006",
       "notes": "Instant Communications absorbed by EFTel.",
       "from": "instant-communications",
       "to": "eftel",
@@ -4969,6 +5226,16 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20061205040531/http://www.in.com.au/",
+          "label": "First-party redirect notice to Eftel on in.com.au by 5 Dec 2006 - directly dates the Eftel absorption (Wikipedia's acquisition list doesn't name Instant)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060606000000/http://www.in.com.au/",
+          "label": "Standalone site mid-2006 - transition window H2 2006."
         }
       ]
     },
@@ -4997,7 +5264,7 @@
       "type": "acquisition",
       "arm_label": "100%",
       "year": 2011,
-      "date_disp": "c. 2011",
+      "date_disp": "c.2011",
       "notes": "Crystal Internet Services absorbed by EFTel.",
       "from": "crystal-internet-services",
       "to": "eftel",
@@ -5006,6 +5273,21 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/Eftel",
           "label": "Wikipedia: Eftel acquisition history"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20101204112602/http://www.crystal.com.au/",
+          "label": "crystal.com.au was Crystal Internet Services' own Perth site (AIP) on 4 Dec 2010 - confirming it IS the Crystal domain (the brief's domain uncertainty is resolv"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120103145955/http://www.crystal.com.au/",
+          "label": "The domain serves the full Eftel site by 3 Jan 2012 - window Dec 2010-Jan 2012."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=95081304789",
+          "label": "ABR: Crystal Internet Services was the trading name of the AIP entity, Perth WA."
         }
       ]
     },
@@ -5049,12 +5331,28 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2018,
-      "date_disp": "c. 2018-19",
+      "year": 2006,
+      "date_disp": "c.2005-06",
       "notes": "InterACT infrastructure passed to Velocity Internet (HostIT.",
       "from": "interact-technology-group",
       "to": "velocity-holdings",
-      "refs": []
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040901235507/http://www.interact.com.au/",
+          "label": "interact.com.au still InterACT-branded on 1 Sep 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060502092120/http://www.interact.com.au/",
+          "label": "By 2 May 2006 the domain is a meta-refresh to velocity.net.au - the InterACT->Velocity switch happened Sep 2004-May 2006, not 2018 (the 2018 redirect to interac"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080612040353/http://www.interact.com.au/",
+          "label": "Velocity-branded site on the domain by Jun 2008 (Velocity Internet Pty Ltd, Canberra; entity renamed from Australian Online Wills on 7 May 2003 per ABR 94 090 7"
+        }
+      ]
     },
     {
       "type": "acquisition",
@@ -5477,8 +5775,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2001,
-      "date_disp": "c. 2000-01",
+      "year": 2000,
+      "date_disp": "c.2000",
       "notes": "Spirit Networks (Canberra acquired by Asia Online.",
       "from": "spirit-networks",
       "to": "asia-online",
@@ -5487,6 +5785,16 @@
           "kind": "news",
           "url": "https://www.afr.com/politics/asia-online-spreads-down-under-19991004-k922k",
           "label": "AFR: Asia Online spreads down under (Oct 1999)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/in/richardsiggs",
+          "label": "Founder/MD Richard Siggs (MD Jan 1995-Apr 2000, then Asia Online Apr 2000-Jan 2001): the trade sale occurred in 2000, ~April - precisely dating the transition."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010331044338/http://spirit.net.au/",
+          "label": "spirit.net.au serves the Asia Online page by 31 Mar 2001 (still 'Spirit Networks Homepage' 10 May 2000) - corroborates the 2000 sale."
         }
       ]
     },
@@ -5604,8 +5912,8 @@
     {
       "type": "acquisition",
       "arm_label": "100%",
-      "year": 2012,
-      "date_disp": "late Feb 2012",
+      "year": 2013,
+      "date_disp": "by May 2013",
       "notes": "Intas absorbed by iiNet directly (user report; no public announcement.",
       "from": "intas",
       "to": "iinet",
@@ -5614,6 +5922,16 @@
           "kind": "wikipedia",
           "url": "https://en.wikipedia.org/wiki/IiNet",
           "label": "Wikipedia: iiNet acquisition history"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20121020071627/http://www.intas.net.au/",
+          "label": "Still internal-only redirects on 20 Oct 2012."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130521021800/http://intas.net.au/",
+          "label": "By 21 May 2013 intas.net.au redirects to iiNet's webmail - the iiNet integration window is Oct 2012-May 2013 (the 'late Feb 2012' user report is not supported: "
         }
       ]
     },
@@ -6623,7 +6941,7 @@
       "from": "netspeed",
       "to": "velocity-internet",
       "year": 2024,
-      "date_disp": "by Jan 2024",
+      "date_disp": "c. early Oct 2024",
       "notes": "NetSpeed brand retired into sibling brand Velocity Internet; both were trading names of the same legal entity, ByteCard Pty Ltd (ABN 49 052 315 812. Evidence is archaeological: between 22 Dec 2023 and 30 Jan 2024 netspeed.com.au became a webmail-only portal with retail navigation removed; CIS directory subsequently 404; velocity.net.au continued trading afterwards. No public announcement of a formal customer transfer was found.",
       "refs": [
         {
@@ -6640,31 +6958,21 @@
           "kind": "forum",
           "url": "https://choice.community/t/nbn-alternatives-contract-performance-issues/15372",
           "label": "Choice community (2018): NetSpeed & Velocity both trading names of ByteCard Pty Ltd"
-        }
-      ]
-    },
-    {
-      "type": "acquisition",
-      "from": "goldweb-internet",
-      "to": "velocity-internet",
-      "year": 2006,
-      "date_disp": "10 April 2006",
-      "notes": "Velocity Internet acquired Goldweb Internet (announced via media release 10 Apr 2006, posted to Goldweb's site 10 Jun 2006. Goldweb's domain became Velocity's web portal; the Goldweb brand was retired. Four years later Velocity itself was acquired by NetSpeed (2010.",
-      "refs": [
+        },
         {
           "kind": "archive",
-          "url": "https://web.archive.org/web/20060926120206/http://www.goldweb.com.au/news.php",
-          "label": "Goldweb news page: 'Velocity Acquires Goldweb' media release, 10 Apr 2006"
+          "url": "https://web.archive.org/web/20240917123605/http://www.netspeed.com.au/",
+          "label": "Full retail site still live 17 Sep 2024 - three days after the brief's 'by Jan 2024' claim's terminus; the retirement is later than stated."
         },
         {
-          "kind": "forum",
-          "url": "https://forums.whirlpool.net.au/archive/2073114",
-          "label": "Whirlpool: RIP the Australian midsize ISP"
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20241015142038/http://www.netspeed.com.au/",
+          "label": "Webmail-only portal 'Copyright 2024' by 15 Oct 2024 (apex 404s 3/10 Oct) - brand-retirement window 17 Sep-15 Oct 2024, i.e. intra-ByteCard consolidation (Veloci"
         },
         {
-          "kind": "news-primary-media-release",
-          "url": "https://forums.whirlpool.net.au/archive/503980",
-          "label": "Full media release reproduced by Velocity MD on Whirlpool, with a firm date and handover date."
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/netspeed-buys-canberra-isp-velocity-236940",
+          "label": "iTnews 1 Nov 2010: NetSpeed bought Velocity, so the 2024 'transition' is intra-company brand retirement, not a sale."
         }
       ]
     },
@@ -6903,7 +7211,7 @@
       "from": "qld-net",
       "to": "chariot",
       "year": 2005,
-      "date_disp": "by Mar 2005",
+      "date_disp": "by 25 Mar 2005",
       "notes": "BY-DATE: qldnet.com.au rebranded as Chariot's QLD 'netconnect' portal by 25 Mar 2005. Not in FY2003-04 acquisitions list (2004 Annual Report -> FY2004-05. Exact deal date not publicly announced.",
       "refs": [
         {
@@ -6915,6 +7223,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
           "label": "Chariot 2004 Annual Report acquisitions list (Qld Net absent -> FY2004-05)"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=31088377860",
+          "label": "ABR: Chariot held the QLDNET business name until 7 Sep 2006 ('from' date is the entity's ABN-activation backfill, not evidence of a 1999 deal)."
         }
       ]
     },
@@ -6923,7 +7236,7 @@
       "from": "technet-2000",
       "to": "chariot",
       "year": 2005,
-      "date_disp": "by Mar 2005",
+      "date_disp": "by 25 Mar 2005",
       "notes": "BY-DATE: technet2000.com.au is a Chariot netconnect customer mail domain (25 Mar 2005 portal capture. Not in FY2003-04 acquisitions list (2004 Annual Report -> FY2004-05. Exact deal date not publicly announced.",
       "refs": [
         {
@@ -6935,6 +7248,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
           "label": "Chariot 2004 Annual Report acquisitions list (Technet 2000 absent -> FY2004-05)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070209220925/http://www.technet2000.com.au/",
+          "label": "Verified: technet2000.com.au 301s to chariot.net.au from 9 Feb 2007 (own content through 2006)."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=31088377860",
+          "label": "ABR name-history under Chariot corroborates the absorption (To 21 Sep 2004)."
         }
       ]
     },
@@ -6943,7 +7266,7 @@
       "from": "mackay-internet",
       "to": "chariot",
       "year": 2005,
-      "date_disp": "by Mar 2005",
+      "date_disp": "by 25 Mar 2005",
       "notes": "BY-DATE: mackay.net.au is a Chariot netconnect customer mail domain in the QLD portal webmail dropdown (25 Mar 2005 capture. Not in Chariot's FY2003-04 acquisitions list (2004 Annual Report -> FY2004-05. Exact announcement date not publicly released.",
       "refs": [
         {
@@ -6955,6 +7278,11 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20050208104927/http://chariot.net.au/2004agm/Annual_report.pdf",
           "label": "Chariot 2004 Annual Report acquisitions list (Mackay absent -> FY2004-05)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070205143500/http://www.mackay.net.au/",
+          "label": "Verified: mackay.net.au 301s to chariot.net.au from 5 Feb 2007."
         }
       ]
     },
@@ -7032,7 +7360,7 @@
       "from": "bunbury-internet-service",
       "to": "ciphertel",
       "year": 2008,
-      "date_disp": "by 4 Sep 2008",
+      "date_disp": "4 Sep 2008",
       "notes": "Bunbury Internet Service's /21 (203.18.248.0-203.18.255.255, the 1997 BUNBURYINT-AU block is registered in APNIC whois to Ciphertel Pty Ltd (Bunbury, network object registered 4 Sep 2008. UNCERTAIN: whether this was an acquisition of Bunbury Internet Service's business by Ciphertel or a pivot/continuation of the same business under the Ciphertel name \u2014 the block transfer is the documented evidence, the customer-base relationship is inferred. 'Gateway Internet' (a separate repo entry has no established link to this block. address space transfer.",
       "refs": [
         {
@@ -7139,7 +7467,7 @@
       "from": "dynamite-internet",
       "to": "eisa-limited",
       "year": 2000,
-      "date_disp": "c. 2000",
+      "date_disp": "by 17 Apr 2000",
       "notes": "Dynamite Internet (Dynamite Investments (ACT Pty Ltd, Canberra, since 1991 acquired into Eisa Limited (Edge Internet Services Australia group. The 1997 IP index already linked Dynamite blocks to Edge's GPO Box 4658TT Melbourne (association by 1997; Eisa later registered 'EISA DYNAMITE' as a business name.",
       "refs": [
         {
@@ -7159,7 +7487,7 @@
       "from": "topend-com-au",
       "to": "eisa-limited",
       "year": 2000,
-      "date_disp": "c. 2000",
+      "date_disp": "by 17 Apr 2000",
       "notes": "Topend.Com.Au (NT ISP, Katherine/Darwin acquired into Eisa Limited (Edge Internet Services Australia group; Eisa registered 'EISA TOPEND' and 'TOPEND.COM.AU' business names.",
       "refs": [
         {
@@ -7593,6 +7921,16 @@
           "kind": "forum",
           "url": "https://forums.whirlpool.net.au/archive/2789583",
           "label": "Whirlpool Mar 2019: 'they were bought by Planet Ozi who have now been bought by Escape Net'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130407135757/http://home.kisser.net.au/",
+          "label": "Karratha-branded site on Planet Ozi's CAT/webmail backend by 7 Apr 2013; an intervening Jun 2012 redirect to ispx.com.au suggests an ISPX stage first."
+        },
+        {
+          "kind": "official",
+          "url": "https://hypestat.com/info/kisser.net.au",
+          "label": "Domain whois later shows Planet Ozi Pty Ltd as registrant of kisser.net.au, corroborating the relationship."
         }
       ]
     },

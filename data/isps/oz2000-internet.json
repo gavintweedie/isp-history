@@ -4,7 +4,7 @@
   "birthplace": "Toongabbie (Sydney), NSW",
   "status": "inactive",
   "website": "https://oz2000.com",
-  "summary": "Sydney dialup ISP with national POPs; dormant ~2009.",
+  "summary": "Sydney dialup ISP with national POPs; dormant ~2009 (OZ 2000 PTY. LIMITED, ACN 067 710 730).",
   "names": [
     {
       "name": "OZ2000 Internet",
@@ -40,6 +40,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19981212031659/http://www.oz2000.com/",
       "label": "OZ2000 (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=57067710730",
+      "label": "ABR: OZ 2000 PTY. LIMITED"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=57067710730",
+      "label": "ABR verified: literal name match, incorporated 1994 (before the ISP's 1998 birth), alive until Jun 2010 (ISP dormant c.2009) — era alignment is exact"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/Search/ResultsAll?SearchText=OZ%202000&AllNames=True",
+      "label": "The alternative is regionally implausible; the Sydney CBD registration matches the ISP's city"
     }
   ]
 }

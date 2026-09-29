@@ -9,19 +9,31 @@
     {
       "name": "Best Telecom",
       "start_year": 2007,
-      "start_disp": "c. 2007"
+      "start_disp": "by Sep 2007"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2007,
-      "date_disp": "by 2007",
+      "date_disp": "by Sep 2007",
       "precision": "by",
       "details": "A.C.N. 127 715 360 PTY LTD, Gold Coast QLD; BEST Internet/BEST IT/BEST Telecom trading names registered 25 Sep 2007; earliest Wayback capture 15 Oct 2007.",
       "source": [
         "https://abr.business.gov.au/ABN/View?abn=18127715360",
         "https://web.archive.org/web/20071015014209/http://www.besttelecom.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=18127715360",
+          "label": "Company trading names registered together in Sep 2007."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20071015014209/http://www.besttelecom.com.au/",
+          "label": "Confirms the launch period."
+        }
       ]
     },
     {

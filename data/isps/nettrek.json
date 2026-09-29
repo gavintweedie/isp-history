@@ -18,7 +18,7 @@
       "year": 1996,
       "date_disp": "by May 1996",
       "precision": "by",
-      "details": "Company registered (ASIC)."
+      "details": "Company registered (ASIC). Run by Graham & Marisa O'Dell (Fremantle's first internet cafe/ISP); sold to iiNet Nov 1999 (AFR, 30 Nov 1999)."
     },
     {
       "kind": "death",
@@ -26,6 +26,18 @@
       "date_disp": "1999",
       "precision": "exact",
       "details": "Acquired by iiNet."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961222021232id_/http://nettrek.com.au/",
+      "label": "Own 1995-96 homepage names owner-operators Graham & Marisa O'Dell; no company on any capture."
+    },
+    {
+      "kind": "news",
+      "url": "https://www.afr.com/politics/iinet-makes-key-purchases-in-wa-19991130-k92kc",
+      "label": "AFR (30 Nov 1999) confirms iiNet's acquisition of Net Trek Online Services."
     }
   ]
 }

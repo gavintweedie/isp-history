@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": null,
-  "summary": "Perth computer support/sales company founded 1992 by Mark Siena; grew into the 5th ISP in Perth (20+ staff, network design, web creation, database work). Sold its ISP operations to iiNet c.1999 during iiNet's post-IPO Perth consolidation; the remaining business continued as Digital Ventures. Unrelated to US carrier PSINet/PSINet Australia.",
+  "summary": "Perth computer support/sales company founded 1992 by Mark Siena; grew into the 5th ISP in Perth (20+ staff, network design, web creation, database work). Sold its ISP operations to iiNet c.1999 during iiNet's post-IPO Perth consolidation; the remaining business continued as Digital Ventures. Unrelated to US carrier PSINet/PSINet Australia (The Trustee for DIGITAL VENTURES UNIT TRUST (formerly PSINET UNIT TRUST), ABN 71 286 296 831).",
   "aliases": [
     "Digital Ventures"
   ],
@@ -48,6 +48,23 @@
           "label": "iiNet corporate history: post-IPO Perth acquisitions context"
         }
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=71286296831",
+      "label": "ABR: The Trustee for DIGITAL VENTURES UNIT TRUST (formerly PSINET UNIT TRUST)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=71286296831",
+      "label": "Perth entity literally wore the PSInet name in the ABN era, then renamed exactly as the brief describes ('remaining business continued as Digital Ventures'); th"
+    },
+    {
+      "kind": "official",
+      "url": "https://linkedin.com/in/mark-siena-9a056261",
+      "label": "Founder Mark Siena's account matches the ABR name history PSINET UNIT TRUST -> DIGITAL VENTURES"
     }
   ]
 }

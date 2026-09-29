@@ -71,6 +71,11 @@
           "kind": "official",
           "url": "https://abr.business.gov.au/AbnHistory/View?id=71093338884",
           "label": "ABR: Hawknet Australia Licensing Pty Ltd (ACN 093 338 884; ABN active 16 Jun 2000; GST cancelled 1 Jan 2020)"
+        },
+        {
+          "kind": "wayback-live",
+          "url": "https://web.archive.org/web/20060901000000/http://www.hawknet.com.au/",
+          "label": "Farewell page announcing services cease from 16 Jun 2006, customers to Telstra BigPond."
         }
       ]
     }

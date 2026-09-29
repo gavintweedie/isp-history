@@ -7,15 +7,15 @@
   "names": [
     {
       "name": "AT&T EasyLink Services Australia",
-      "start_year": 1999,
-      "start_disp": "by 1999"
+      "start_year": 1992,
+      "start_disp": "by Nov 1992"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1999,
-      "date_disp": "by 1999",
+      "year": 1992,
+      "date_disp": "by Nov 1992",
       "precision": "by",
       "details": "Formerly owned by a consortium of AT&T, Qantas and CSC (Computer Sciences Corporation); provided business-to-business e-commerce/EDI plus data and voice telephony services. Exact founding date not established.",
       "refs": [
@@ -23,6 +23,11 @@
           "kind": "news",
           "url": "https://www2.computerworld.com.au/article/105904/aapt_buys_t_easylink_service/",
           "label": "Computerworld: AAPT buys AT&T EasyLink Service"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/property/at-and-t-group-for-orion-park-19921124-k56w5",
+          "label": "AFR, 24 Nov 1992 — described as a NEW joint venture"
         }
       ]
     },

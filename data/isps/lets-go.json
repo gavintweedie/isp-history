@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://letsgo.com.au",
-  "summary": "Discount ISP brand of Concept Networks (cheap ADSL, dialup, prepaid); parent Concept Networks bought by EFTel Sept 2008; Lets Go customers migrated to EFTel Feb 2009.",
+  "summary": "Discount ISP brand of Concept Networks (cheap ADSL, dialup, prepaid); parent Concept Networks bought by EFTel Sept 2008; Lets Go customers migrated to EFTel Feb 2009 (EFTEL PTY LTD, ACN 073 238 178).",
   "names": [
     {
       "name": "Lets Go",
@@ -33,6 +33,26 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19991129024135/http://letsgo.com.au/",
       "label": "Lets Go (Wayback 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=47073238178",
+      "label": "ABR: EFTEL PTY LTD"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20090113093427/http://www.letsgo.com.au/contact.php",
+      "label": "Decisive: the Lets Go ISP's own contact page prints the candidate's exact ABN"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20090130031923/http://letsgo.com.au/company.php",
+      "label": "Identifies the WA parent (Conceptual Internet Australia Pty Ltd / Concept Networks) absorbed into Eftel"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=47073238178",
+      "label": "ABR history verified: Eftel held the Concept Networks name from Jan 2003, covering the Lets Go era (site live 2005-Feb 2009)"
     }
   ]
 }

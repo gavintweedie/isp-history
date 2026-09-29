@@ -8,17 +8,29 @@
   "names": [
     {
       "name": "Online Information Systems",
-      "start_year": 1996,
-      "start_disp": "1996"
+      "start_year": 1993,
+      "start_disp": "c. Mar 1993"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1994,
-      "date_disp": "by Mar 1994",
-      "precision": "by",
-      "details": "Company registered (ASIC)."
+      "year": 1993,
+      "date_disp": "c. Mar 1993",
+      "precision": "approx",
+      "details": "Company registered (ASIC).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.aubiz.net/company/online-information-systems-pty-ltd-059612609/",
+          "label": "ASIC/ABR mirror — company registered 30 Mar 1993"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980224153402/http://www.iinet.net.au/about/timeline.html",
+          "label": "iiNet 1998 timeline"
+        }
+      ]
     },
     {
       "kind": "death",

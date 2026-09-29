@@ -4,7 +4,7 @@
   "birthplace": "Sarsfield (Latrobe Valley), VIC",
   "status": "inactive",
   "website": "http://www.gippsnet.com.au",
-  "summary": "Gippsland community information/networking service (gippsnet.com.au), run by Sarsfield Solutions, providing public internet terminals and local information; live by 1997; community net rather than a classic retail ISP.",
+  "summary": "Gippsland community information/networking service (gippsnet.com.au), run by Sarsfield Solutions, providing public internet terminals and local information; live by 1997; community net rather than a classic retail ISP (R.W McCracken & S.F McCracken (t/a Sarsfield Solutions), ABN 53 297 487 299).",
   "aliases": [
     "GippslandNet",
     "gippsnet.com.au"
@@ -44,6 +44,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2000/http://www.gippsnet.com.au/",
       "label": "GippsNET (Wayback)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=53297487299",
+      "label": "ABR: R.W McCracken & S.F McCracken (t/a Sarsfield Solutions)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020123073556/http://www.gippsnet.com.au/",
+      "label": "Verified verbatim: the ISP's own 2002 page names the operator and its Sarsfield VIC 3875 address"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=53297487299",
+      "label": "ABR verified: same trading name at the exact postcode, 2001-2004 — mid-life window of the 1997-2007 service"
     }
   ]
 }

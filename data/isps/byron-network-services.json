@@ -20,7 +20,7 @@
       "year": 1994,
       "date_disp": "1994",
       "precision": "exact",
-      "details": "Founded 1994 in Adelaide by John Lindsay; began as part of APANA (hobby), became commercial ISP bns.com.au with a link to the Internet via Camtech (Adelaide University); 30 modems at home, SLIP and PPP access."
+      "details": "Founded 1994 in Adelaide by John Lindsay; began as part of APANA (hobby), became commercial ISP bns.com.au with a link to the Internet via Camtech (Adelaide University); 30 modems at home, SLIP and PPP access. Owner: John Lindsay, per its own site."
     },
     {
       "kind": "note",
@@ -52,6 +52,11 @@
       "kind": "official",
       "url": "https://www.linkedin.com/in/bigjsl/details/experience/",
       "label": "LinkedIn: John Lindsay — Founder, Byron Network Services (1994–1996)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990125084901/http://bns.com.au/",
+      "label": "Own site names owner John Lindsay; users folded into iiNet ~1997/98. Pre-ABN hobby operation."
     }
   ]
 }

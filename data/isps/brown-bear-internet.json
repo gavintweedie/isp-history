@@ -8,19 +8,31 @@
   "names": [
     {
       "name": "Brown Bear Internet",
-      "start_year": 2005,
-      "start_disp": "c. 2005"
+      "start_year": 2004,
+      "start_disp": "by Jun 2004"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2005,
-      "date_disp": "by 2005",
+      "year": 2004,
+      "date_disp": "by Jun 2004",
       "precision": "by",
       "details": "Dialup + ADSL + ISDN + hosting; earliest Wayback capture 15 Jun 2005 (brownbear.net.au).",
       "source": [
         "https://web.archive.org/web/20050615132716/http://www.brownbear.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?abn=40054455386",
+          "label": "Trading-name registration gives a precise start date."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050615132716/http://www.brownbear.net.au/",
+          "label": "Site live by Jun 2005."
+        }
       ]
     },
     {

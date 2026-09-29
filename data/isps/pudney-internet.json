@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://pudney.net.au",
-  "summary": "Adelaide web dev (since 1993) + hosting (from 1995) provider (Pudney Pty Ltd, director Phillip Pudney); connected via Chariot.",
+  "summary": "Adelaide web dev (since 1993) + hosting (from 1995) provider (Pudney Pty Ltd, director Phillip Pudney); connected via Chariot (PUDNEY, PHILLIP, ABN 70 179 881 818).",
   "names": [
     {
       "name": "Pudney Internet Solutions",
@@ -33,6 +33,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19991014004641/http://www.pudney.net.au/about/",
       "label": "Pudney (Wayback 1999)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=70179881818",
+      "label": "ABR: PUDNEY, PHILLIP (sole trader)"
+    },
+    {
+      "kind": "official",
+      "url": "https://whois.auda.org.au/",
+      "label": "Current auDA whois (Sep 2026): the ISP's own domain is registered to Phillip Pudney under ABN 70 179 881 818 itself (auDA whois for pudney.net.au)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990430035802/http://www.pudney.net.au/",
+      "label": "Site names the same individual and Adelaide; ABN history shows the sole-trader ABN active Mar 2005 - Jul 2024 at SA 5062"
     }
   ]
 }

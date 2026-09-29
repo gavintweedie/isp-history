@@ -8,17 +8,34 @@
   "names": [
     {
       "name": "FX Network",
-      "start_year": 2002,
-      "start_disp": "2002"
+      "start_year": 2003,
+      "start_disp": "c. May 2003"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 2002,
-      "date_disp": "by Nov 2002",
-      "precision": "by",
-      "details": "Company registered (NZ Companies Office)."
+      "year": 2003,
+      "date_disp": "c. May 2003",
+      "precision": "approx",
+      "details": "Company registered (NZ Companies Office).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.takeovers.govt.nz/assets/Transactions/d8ebe9a281/FX-Networks-Limited-Takeover-offer-by-Vocus-Rule-21-IAR-by-KPMG-August-2014.pdf",
+          "label": "KPMG independent adviser's report to the NZ Takeovers Panel (Aug 2014)"
+        },
+        {
+          "kind": "news",
+          "url": "https://wiki.wlug.org.nz/MeetingTopics.2006-07-24.html",
+          "label": "Waikato Linux Users Group talk abstract by FX director Roger de Salis"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.companiesnz.com/company/1371006/vocus-new-zealand-limited",
+          "label": "NZ companies-register mirror — the FX Networks corporate shell incorporated 11 Aug 2003"
+        }
+      ]
     },
     {
       "kind": "death",

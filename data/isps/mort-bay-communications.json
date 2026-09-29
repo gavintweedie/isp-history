@@ -4,7 +4,7 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "https://mbcomms.net.au",
-  "summary": "Sydney web hosting + internet access + ColdFusion hosting + infrastructure (began as 'The Hub' BBS by Kym Kovan, ~1997); rebranded MBComms/MyBet Communications 2014.",
+  "summary": "Sydney web hosting + internet access + ColdFusion hosting + infrastructure (began as 'The Hub' BBS by Kym Kovan, ~1997); rebranded MBComms/MyBet Communications 2014 (MORT BAY COMMUNICATIONS PTY. LTD., ACN 094 657 271).",
   "names": [
     {
       "name": "Mort Bay Communications",
@@ -26,6 +26,18 @@
       "date_disp": "2014",
       "precision": "exact",
       "details": "Rebranded MBComms/MyBet Communications."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=14094657271",
+      "label": "ABR: MORT BAY COMMUNICATIONS PTY. LTD."
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20030525064641/http://mbcomms.net.au/",
+      "label": "Verified: the ISP's own 2002-2003 interim site copyrights 'mortbay communications pty ltd' — and exposes Microset as merely the web designer (explaining MICROSE"
     }
   ]
 }

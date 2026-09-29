@@ -2,9 +2,9 @@
   "name": "VoIPex",
   "slug": "voipex",
   "birthplace": "Australia",
-  "status": "inactive",
+  "status": "active",
   "website": "https://voipex.com.au",
-  "summary": "VoIP phone-to-phone + broadband + hardware provider (~2001); defunct (VOIPEX PTY LTD, ACN 102 443 532).",
+  "summary": "VoIP phone-to-phone + broadband + hardware provider (~2001); still operating as of Sep 2026 (VOIPEX PTY LTD, ACN 102 443 532).",
   "names": [
     {
       "name": "VoIPex",
@@ -21,11 +21,33 @@
       "details": "VoIP + broadband."
     },
     {
-      "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://voipex.com.au/",
+          "label": "Live Newcastle site selling NBN, mobile, VoIP/SIP and hosting with current pricing"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=102443532",
+          "label": "Operating entity ABN active"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20251214082415/https://voipex.com.au/",
+          "label": "Dec 2025 archive capture of the operating provider"
+        },
+        {
+          "kind": "official",
+          "url": "https://voipex.com.au",
+          "label": "Live site"
+        }
+      ]
     }
   ],
   "refs": [
@@ -33,6 +55,21 @@
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?id=66102443532",
       "label": "ABR: VOIPEX PTY LTD ACN 102 443 532"
+    },
+    {
+      "kind": "official",
+      "url": "https://voipex.com.au/",
+      "label": "Live Newcastle site selling NBN, mobile, VoIP/SIP and hosting with current pricing"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?id=102443532",
+      "label": "Operating entity ABN active"
+    },
+    {
+      "kind": "archive",
+      "url": "http://web.archive.org/web/20251214082415/https://voipex.com.au/",
+      "label": "Dec 2025 archive capture of the operating provider"
     }
   ]
 }

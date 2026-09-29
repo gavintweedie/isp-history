@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "https://interworld.com.au",
-  "summary": "Perth dialup + hosting ISP (Interworld Communications); acquired by Wantree Development by Nov 1996.",
+  "summary": "Perth dialup + hosting ISP (Interworld Communications); acquired by Wantree Development by Nov 1996 (WANTREE DEVELOPMENT PTY LTD (later PHASE THREE PTY LTD), ACN 066 482 406).",
   "names": [
     {
       "name": "Interworld",
@@ -33,6 +33,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19961107050544/http://www.interworld.com.au/",
       "label": "Interworld (Wayback 1996)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=59066482406",
+      "label": "ABR: WANTREE DEVELOPMENT PTY LTD (later PHASE THREE PTY LTD)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19961221003843/http://interworld.com.au/",
+      "label": "Verified: interworld.com.au's own Dec 1996 homepage is Wantree-branded with a Perth CBD address (WA 6000 = the ABR location)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=59066482406",
+      "label": "ABR history verified: the same corporate shell (ACN inc ~1994, renamed); Wantree's internet business was sold before the rename"
     }
   ]
 }

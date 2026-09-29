@@ -2,9 +2,9 @@
   "name": "Netbay Internet",
   "slug": "netbay-internet",
   "birthplace": "Australia",
-  "status": "inactive",
+  "status": "active",
   "website": "https://netbay.com.au",
-  "summary": "Home/business dialup + internet solutions ISP (Netbay Internet Pty Ltd, ~2000, ACN 093 981 321); defunct.",
+  "summary": "Home/business dialup + broadband ISP (Netbay Internet Pty Ltd, ~2000, ACN 093 981 321); still operating as of Sep 2026.",
   "names": [
     {
       "name": "Netbay Internet",
@@ -21,11 +21,33 @@
       "details": "Dialup."
     },
     {
-      "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.netbay.com.au/",
+          "label": "Live ISP site with business broadband/fibre plans and current telco regulatory documents (site assets updated Apr 2025)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=093981321",
+          "label": "Operating entity ABN active"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20260119032251/https://www.netbay.com.au/",
+          "label": "Jan 2026 archive capture of the operating ISP"
+        },
+        {
+          "kind": "official",
+          "url": "https://netbay.com.au",
+          "label": "Live site"
+        }
+      ]
     }
   ],
   "refs": [
@@ -33,6 +55,21 @@
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=20093981321",
       "label": "ABR: NETBAY INTERNET PTY LTD ACN 093 981 321"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.netbay.com.au/",
+      "label": "Live ISP site with business broadband/fibre plans and current telco regulatory documents (site assets updated Apr 2025)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?id=093981321",
+      "label": "Operating entity ABN active"
+    },
+    {
+      "kind": "archive",
+      "url": "http://web.archive.org/web/20260119032251/https://www.netbay.com.au/",
+      "label": "Jan 2026 archive capture of the operating ISP"
     }
   ]
 }

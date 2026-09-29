@@ -4,7 +4,7 @@
   "birthplace": "Regional Australia",
   "status": "inactive",
   "website": "https://ozisp.com.au",
-  "summary": "Regional dialup ISP ('for Country Australia', unlimited hours/downloads, ~2001); defunct (UNIWARE MANAGED SERVICES PTY LTD, ACN 003 434 277).",
+  "summary": "Regional dialup ISP ('for Country Australia', unlimited hours/downloads, ~2001); ceased internet services Sep 2017 (UNIWARE MANAGED SERVICES PTY LTD, ACN 003 434 277).",
   "names": [
     {
       "name": "OzISP",
@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2017,
+      "date_disp": "Sep 2017",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Announced 'Withdrawal of Internet Services' 28/09/2017 (service announcement archived on ozisp.com.au); owner Uniware pivoted to managed IT (UNIWARE MANAGED SERVICES PTY LTD, ACN 003 434 277, ABN active).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20190720053556/http://www.ozisp.com.au/",
+          "label": "OzISP's own site carried a 28/09/2017 'Withdrawal of Internet Services' announcement"
+        },
+        {
+          "kind": "official",
+          "url": "https://ozisp.com.au/",
+          "label": "Domain now serves Uniware managed-IT site — no internet plans (403 to bots, 200 with browser UA)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=003434277",
+          "label": "Owner company survives as an IT/ERP services firm, not an ISP"
+        }
+      ]
     }
   ],
   "refs": [

@@ -2,9 +2,9 @@
   "name": "Overflow Internet Services",
   "slug": "overflow-internet",
   "birthplace": "Logan Village, QLD",
-  "status": "inactive",
+  "status": "active",
   "website": "https://overflow.net.au",
-  "summary": "SE QLD web hosting + data comms + internet consulting/training (run by Brendan Pratt, ~1997); defunct as ISP (ABN 76 283 144 986).",
+  "summary": "SE QLD regional ISP (run by Brendan Pratt, ~1997); still operating as of Sep 2026 (ABN 76 283 144 986, GST-registered).",
   "names": [
     {
       "name": "Overflow Internet Services",
@@ -21,21 +21,31 @@
       "details": "Web hosting, data comms, consulting."
     },
     {
-      "kind": "death",
-      "year": 2006,
-      "date_disp": "by Dec 2006",
-      "precision": "by",
-      "details": "Defunct as ISP.",
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
       "refs": [
         {
-          "kind": "archive",
-          "url": "https://web.archive.org/web/20061231093048/http://overflow.net.au/",
-          "label": "Wayback: last ISP retail homepage"
+          "kind": "official",
+          "url": "https://overflow.net.au/access.htm",
+          "label": "Live Logan Village (QLD) site still offering ADSL plans and phone services with online-order links"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=76283144986",
+          "label": "Owner Brendan Pratt's ABN active and GST-registered (QLD 4207 = Logan Village, matching the site)"
         },
         {
           "kind": "archive",
-          "url": "https://web.archive.org/web/20260614131724/http://overflow.net.au/",
-          "label": "Wayback: first webmail-only / parked homepage"
+          "url": "http://web.archive.org/web/20251217123109/http://overflow.net.au/",
+          "label": "Dec 2025 archive capture identical to live site — business maintained"
+        },
+        {
+          "kind": "official",
+          "url": "https://overflow.net.au",
+          "label": "Live site"
         }
       ]
     }
@@ -45,6 +55,16 @@
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?id=76283144986",
       "label": "ABR: PRATT, BRENDAN LEITH ABN 76 283 144 986"
+    },
+    {
+      "kind": "official",
+      "url": "https://overflow.net.au/access.htm",
+      "label": "Live Logan Village (QLD) site still offering ADSL plans and phone services with online-order links"
+    },
+    {
+      "kind": "archive",
+      "url": "http://web.archive.org/web/20251217123109/http://overflow.net.au/",
+      "label": "Dec 2025 archive capture identical to live site — business maintained"
     }
   ]
 }

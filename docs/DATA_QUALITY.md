@@ -50,6 +50,13 @@ fails the load.)
 - **Names that look the same may be different companies** — see the "Escape"
   entities (WA Escape Net / Adelaide EscapeNet / Melbourne Escape Online Internet)
   and "On the Net" vs "OntheNet". When in doubt, research before merging.
+- **Dead-as-ISP ⇒ dead for the timeline** (user convention, Sep 2026): if the
+  entity survives doing something else (IT services, hosting-only, computer
+  sales), the ISP is still recorded as dead; the surviving business is a note in
+  the death details, not a reason to extend the death date. A still-trading
+  *internet-access* brand is the only thing that makes a record active again
+  (e.g. 12 wrongly-dead ISPs restored to active in the advanced-agent review,
+  Sep 2026 — e.g. Matilda Internet, Lizzy Internet, yourhub, RBE).
 
 ## ACN/ABN misattribution (systemic — check with `tools/check_acn_dates.py`)
 

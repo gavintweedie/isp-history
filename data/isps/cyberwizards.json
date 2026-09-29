@@ -47,6 +47,11 @@
           "kind": "news",
           "url": "https://www.theage.com.au/national/chariot-gallops-off-with-four-isp-acquisitions-20030313-gdvda1.html",
           "label": "The Age 13 Mar 2003: Chariot gallops off with four ISP acquisitions"
+        },
+        {
+          "kind": "wayback-page",
+          "url": "https://web.archive.org/web/20110205123155/http://www.cyberwizards.com.au/",
+          "label": "The domain survived as an independent site until ~2008, then redirected to Chariot."
         }
       ]
     }

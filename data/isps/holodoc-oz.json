@@ -4,7 +4,7 @@
   "birthplace": "East Doncaster, Melbourne, VIC",
   "status": "inactive",
   "website": "https://holodoc.net.au",
-  "summary": "Melbourne ISP/dial-up + web hosting (holodoc.net.au), also a medical-info portal; acquired by Amaze Communications Aug 2000.",
+  "summary": "Melbourne ISP/dial-up + web hosting (holodoc.net.au), also a medical-info portal; acquired by Amaze Communications Aug 2000 (AMAZE TECHNOLOGIES PTY LIMITED (trading as Amaze Communications), ACN 075 832 281).",
   "names": [
     {
       "name": "Holodoc OZ",
@@ -33,6 +33,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20000821230704/http://www.holodoc.net.au/",
       "label": "Holodoc OZ (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=69075832281",
+      "label": "ABR: AMAZE TECHNOLOGIES PTY LIMITED (trading as Amaze Communications)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000918040447/http://www.holodoc.net.au/amaze.htm",
+      "label": "Verified verbatim: the ISP's own site announces the acquisition and names both the acquirer and Holodoc's director"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20000609232532/http://www.holodoc.net.au/",
+      "label": "Pre-acquisition (Jun 2000) page: Melbourne north-east operation; no legal entity or ABN ever published before the sale"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "name": "Hyperwave",
   "slug": "hyperwave",
   "birthplace": "North Melbourne, VIC",
-  "status": "inactive",
+  "status": "active",
   "website": "https://hyperwave.com.au",
-  "summary": "Melbourne fixed-wireless + VoIP + ADSL/NBN resale ISP (Hyperwave, ~2016); defunct (BCD NETWORKS PTY LTD, ACN 610 851 851).",
+  "summary": "Melbourne fixed-wireless + VoIP + ADSL/NBN resale ISP (Hyperwave, ~2016); still operating as of Sep 2026 (BCD NETWORKS PTY LTD, ACN 610 851 851).",
   "names": [
     {
       "name": "Hyperwave",
@@ -21,16 +21,31 @@
       "details": "Fixed wireless, VoIP, NBN resale."
     },
     {
-      "kind": "death",
-      "year": 2023,
-      "date_disp": "by Oct 2023",
-      "precision": "by",
-      "details": "Defunct.",
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
       "refs": [
         {
+          "kind": "official",
+          "url": "https://hyperwave.com.au/",
+          "label": "Live React site with current fixed-wireless plan pricing and Critical Information Summaries (verified in site bundle)"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=610851851",
+          "label": "Operating entity ABN currently active"
+        },
+        {
           "kind": "archive",
-          "url": "https://web.archive.org/web/20231020053255/http://hyperwave.com.au/",
-          "label": "Wayback: last ISP retail homepage"
+          "url": "http://web.archive.org/web/20251203203921/https://www.hyperwave.com.au/",
+          "label": "Dec 2025 archive capture of the live ISP site"
+        },
+        {
+          "kind": "official",
+          "url": "https://hyperwave.com.au",
+          "label": "Live site"
         }
       ]
     }
@@ -40,6 +55,21 @@
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?id=68610851851",
       "label": "ABR: BCD NETWORKS PTY LTD ACN 610 851 851"
+    },
+    {
+      "kind": "official",
+      "url": "https://hyperwave.com.au/",
+      "label": "Live React site with current fixed-wireless plan pricing and Critical Information Summaries (verified in site bundle)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?id=610851851",
+      "label": "Operating entity ABN currently active"
+    },
+    {
+      "kind": "archive",
+      "url": "http://web.archive.org/web/20251203203921/https://www.hyperwave.com.au/",
+      "label": "Dec 2025 archive capture of the live ISP site"
     }
   ]
 }

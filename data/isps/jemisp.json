@@ -25,7 +25,19 @@
       "year": 2004,
       "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Ceased as an ISP — site relic offers computer sales/hosting only; no internet access for ~20 years.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://jemisp.com/",
+          "label": "Site is an abandoned early-2000s FrontPage frames relic ('New Page 3') offering hosting/computer sales, not internet access"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20250710010811/http://jemisp.com/",
+          "label": "Jul 2025 capture is the same untouched relic; no current ISP products"
+        }
+      ]
     }
   ],
   "refs": [

@@ -25,7 +25,14 @@
       "year": 2009,
       "date_disp": "c. 2009",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Ceased as an ISP — domain now a computer-support business..",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://izip.com.au/",
+          "label": "Domain now serves an unrelated Brisbane computer-repair business — no internet plans"
+        }
+      ]
     }
   ],
   "refs": [

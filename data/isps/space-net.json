@@ -8,17 +8,17 @@
   "names": [
     {
       "name": "space.net",
-      "start_year": 2000,
-      "start_disp": "May 2000"
+      "start_year": 1997,
+      "start_disp": "by 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1994,
-      "date_disp": "by 1994",
+      "year": 1997,
+      "date_disp": "by 1997",
       "precision": "by",
-      "details": "One of WA earliest commercial ISPs; earliest Wayback capture of space.net.au."
+      "details": "One of WA's earliest commercial ISPs; provable by 1997 (Cynosure Apr 1997 listing; space.net.au Wayback Dec 1997). Earlier 'by 1994' claim unsupportable — likely conflated with Munich's SpaceNet (founded Dec 1993)."
     },
     {
       "kind": "death",

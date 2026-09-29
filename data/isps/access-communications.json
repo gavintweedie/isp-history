@@ -4,21 +4,21 @@
   "birthplace": "WA",
   "status": "inactive",
   "website": "http://www.accesswa.com.au",
-  "summary": "Early Western Australian ISP (Access Communications (WA) Pty Ltd, ACN 068 763 609; website accesswa.com.au), acquired by iiNet c. Dec 1996 (some sources: Dec 1997).",
+  "summary": "Early Western Australian ISP (Access Communications (WA); website accesswa.com.au), acquired by iiNet c. Dec 1996 (some sources: Dec 1997).",
   "names": [
     {
       "name": "Access Communications",
-      "start_year": 1996,
-      "start_disp": "1996"
+      "start_year": 1997,
+      "start_disp": "by 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1995,
-      "date_disp": "by Mar 1995",
+      "year": 1997,
+      "date_disp": "by 1997",
       "precision": "by",
-      "details": "Access Communications (WA) Pty Ltd, ACN 068 763 609 (ASIC)."
+      "details": "Provable by Apr 1997 (Cynosure listing). NB: previously-cited 'ACN 068 763 609 / Access Communications (WA) Pty Ltd (ASIC)' is invalid (checksum fails, no such entity in ABN Lookup) — claim removed."
     },
     {
       "kind": "death",

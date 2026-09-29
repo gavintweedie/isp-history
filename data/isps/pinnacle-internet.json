@@ -4,7 +4,7 @@
   "birthplace": "Adelaide, SA",
   "status": "inactive",
   "website": "https://pinnacle.net.au",
-  "summary": "Adelaide ISP (pinnacle.net.au), active in the SA peering community by Feb 2000.",
+  "summary": "Adelaide ISP (pinnacle.net.au), active in the SA peering community by Feb 2000 (TRIPLE I INTERNET PTY LTD (later TRIPLE I CORPORATE SERVICES / I CORPORATE SERVICES PTY. LTD.), ACN 095 209 671).",
   "names": [
     {
       "name": "Pinnacle Internet",
@@ -33,6 +33,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2000/http://www.pinnacle.net.au/",
       "label": "Pinnacle (Wayback 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=12095209671",
+      "label": "ABR: TRIPLE I INTERNET PTY LTD (later TRIPLE I CORPORATE SERVICES / I CORPORATE SERVICES PTY. LTD.)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20021122042957/http://www.pinnacle.net.au/",
+      "label": "Verified: by Nov 2002 the domain was operated by Triple i"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=12095209671",
+      "label": "ABR history verified: a South Australian company literally named Triple I Internet, era covering the domain's final operating phase"
     }
   ]
 }

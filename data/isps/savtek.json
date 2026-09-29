@@ -18,7 +18,7 @@
       "year": 1997,
       "date_disp": "1997",
       "precision": "exact",
-      "details": "Founded by Eugene Savva in 1997 (own about page)."
+      "details": "Founded by Eugene Savva in 1997 (own about page). Founder/proprietor Eugene Savva, per its own about page."
     },
     {
       "kind": "death",
@@ -26,6 +26,18 @@
       "date_disp": "c. 2004-05",
       "precision": "approx",
       "details": "Closed ~2004-05."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020810163236/http://www.savtek.net:80/about/about_01.asp",
+      "label": "Own 2002 about page names founder Eugene Savva as proprietor."
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020819232605/http://www.savtek.net:80/signup/disclaimer.asp",
+      "label": "Terms name only the trading name 'Savtek Internet' throughout - no company."
     }
   ]
 }

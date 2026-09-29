@@ -25,7 +25,24 @@
       "year": 2008,
       "date_disp": "c. 2007-08",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Ceased as an ISP — domain has been a placeholder since Oct 2009; Integral Development Pty Ltd continues non-ISP..",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://integral.net.au/",
+          "label": "Current site is only a developer CSS-layout placeholder — no services"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20091030065719/http://www.integral.net.au/",
+          "label": "The same empty placeholder was already up by Oct 2009 (and still in the 2025-03 capture); ISP content was last seen c.2007-08"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=059156875",
+          "label": "Company survives but not as an ISP — placeholder domain confirms internet business abandoned"
+        }
+      ]
     }
   ],
   "refs": [

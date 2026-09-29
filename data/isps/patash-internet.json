@@ -25,7 +25,19 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Ceased as an ISP (c. 2000 stands) — Patash Pty Ltd survives as a hosting/DNS/mail provider (ABN active); no retail internet access..",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://myaccount.patash.com.au/whmcs/index.php",
+          "label": "patash.com.au redirects to a live, orderable WHMCS storefront for hosting/DNS/mail services under Patash Pty Ltd"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=007246988",
+          "label": "Operating entity ABN active and GST-registered"
+        }
+      ]
     }
   ],
   "refs": [

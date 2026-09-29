@@ -8,8 +8,8 @@
   "names": [
     {
       "name": "Web Ace",
-      "start_year": 2000,
-      "start_disp": "by Mar 2000",
+      "start_year": 1998,
+      "start_disp": "by May 1998",
       "end_year": 2013,
       "end_disp": "c. 2013"
     }
@@ -17,10 +17,22 @@
   "events": [
     {
       "kind": "birth",
-      "year": 2000,
-      "date_disp": "by Mar 2000",
+      "year": 1998,
+      "date_disp": "by May 1998",
       "precision": "by",
-      "details": "Earliest Wayback capture Mar 2000; dial-up access for the Perth metro area and web hosting; phone 08 9332 0011."
+      "details": "Earliest Wayback capture 17 May 1998 shows Web Ace dial-up/email services (PO Box 1497 Canningvale WA 6970, ph 9332-0011) — predates the previous by-Mar-2000 bound.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980517092816/http://webace.com.au/",
+          "label": "Earliest Wayback capture of webace.com.au."
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=29915448876",
+          "label": "ABR trading-name record for the Web Ace brand."
+        }
+      ]
     },
     {
       "kind": "death",

@@ -4,7 +4,7 @@
   "birthplace": "Australia",
   "status": "inactive",
   "website": "https://streamnet2000.com",
-  "summary": "Tiny personal/hobby ISP (streamnet internet services, 2002-03); domain parked by Dec 2005.",
+  "summary": "Tiny personal/hobby ISP (streamnet internet services, 2002-03); domain parked by Dec 2005 (STREAMNET PTY LTD, ACN 102 801 883).",
   "names": [
     {
       "name": "StreamNet2000",
@@ -40,6 +40,26 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20031120031053/http://www.streamnet2000.com/",
       "label": "StreamNet2000 (Wayback 2003)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=40102801883",
+      "label": "ABR: STREAMNET PTY LTD"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=40102801883",
+      "label": "ABR verified: exact name, registered Nov 2002 (the ISP's 2002 birth) and cancelled Jun 2006 (domain parked by Dec 2005) — era alignment is tight"
+    },
+    {
+      "kind": "archive",
+      "url": "http://web.archive.org/web/20031220222035id_/http://streamnet2000.com/",
+      "label": "Verified: tiny hobby ISP splash, no ABN/address ever published"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?abn=66787477564",
+      "label": "The look-alike sole trader starts two years after this ISP died — excluded as a coincidence"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "birthplace": "Melbourne, VIC",
   "status": "inactive",
   "website": "https://aone.net.au",
-  "summary": "Melbourne ISP strong in corporate sector; acquired by OzEmail (subsidiary by Dec 1997; aone.net.au redirected to OzEmail by early 1999); OzEmail was itself acquired by UUNET/WorldCom in 1999.",
+  "summary": "Melbourne ISP strong in corporate sector; acquired by OzEmail (subsidiary by Dec 1997; aone.net.au redirected to OzEmail by early 1999); OzEmail was itself acquired by UUNET/WorldCom in 1999 (ACCESS ONE PTY LTD (later CMIST PTY LTD), ACN 070 546 977).",
   "names": [
     {
       "name": "Access One",
@@ -59,6 +59,16 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19980111063029/http://www.aone.net.au/main.htm",
       "label": "Access One (Wayback 1998)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=44070546977",
+      "label": "ABR: ACCESS ONE PTY LTD (later CMIST PTY LTD)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=44070546977",
+      "label": "ABR history verified: an ACN incorporated ~1995 (matching the ISP's c.1995 birth), named Access One Pty Ltd in 2000, at NSW 2065 (St Leonards — OzEmail's own ba"
     }
   ]
 }

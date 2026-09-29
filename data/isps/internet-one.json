@@ -8,16 +8,16 @@
     {
       "name": "Internet One",
       "start_year": 1999,
-      "start_disp": "1999"
+      "start_disp": "by 1999"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1996,
-      "date_disp": "by 1996",
+      "year": 1999,
+      "date_disp": "by 1999",
       "precision": "by",
-      "details": "Earliest Wayback capture (isone.com.au)."
+      "details": "Acquired by IDEAL Internet end-1999 (per owner Darren Worley); IDEAL Internet Pty Ltd incorporated Feb 1999. Earlier basis ('earliest Wayback capture isone.com.au') is false — isone.com.au first captured 2021."
     },
     {
       "kind": "death",

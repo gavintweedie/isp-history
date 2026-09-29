@@ -8,17 +8,29 @@
   "names": [
     {
       "name": "InterConnect Australia",
-      "start_year": 1996,
-      "start_disp": "by 1996"
+      "start_year": 1994,
+      "start_disp": "by Mar 1994"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1995,
-      "date_disp": "by 1995",
+      "year": 1994,
+      "date_disp": "by Mar 1994",
       "precision": "by",
-      "details": "Early commercial ISP; earliest reference."
+      "details": "Early commercial ISP; earliest reference.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://www.rogerclarke.com/II/zik.faq.9403.html",
+          "label": "Zik Saleeba's 'Network Access in Australia FAQ', March 1994 edition (per Roger Clarke's OzIHist) — InterConnect Australia already operating nationally"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961230115711/http://www.interconnect.com.au/",
+          "label": "absorbed into connect.com.au by Dec 1996"
+        }
+      ]
     },
     {
       "kind": "death",

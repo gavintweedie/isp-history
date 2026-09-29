@@ -2,9 +2,9 @@
   "name": "EtherTech Online!",
   "slug": "ethertech-online",
   "birthplace": "Dandenong, VIC",
-  "status": "inactive",
+  "status": "active",
   "website": "https://ethertech.com.au",
-  "summary": "Melbourne dialup/ISDN + broadband DSL + VPN ISP since 1994; operated to at least 2008.",
+  "summary": "Melbourne dialup/ISDN + broadband DSL + VPN ISP since 1994; still operating as of Sep 2026.",
   "names": [
     {
       "name": "EtherTech Online!",
@@ -18,7 +18,7 @@
       "year": 1994,
       "date_disp": "c. 1994-95",
       "precision": "approx",
-      "details": "ACN 067528367 allocated ~1995; earliest Wayback capture 25 Jan 1999; footer \u00a9 1998-2005 EtherTech Pty Ltd.",
+      "details": "ACN 067528367 allocated ~1995; earliest Wayback capture 25 Jan 1999; footer © 1998-2005 EtherTech Pty Ltd.",
       "refs": [
         {
           "kind": "archive",
@@ -28,11 +28,23 @@
       ]
     },
     {
-      "kind": "death",
-      "year": 2008,
-      "date_disp": "by 2008",
-      "precision": "by",
-      "details": "Operated to at least 2008."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.ethertech.com.au/",
+          "label": "Live current site (200 OK) offering business NBN/fibre internet, cloud, hosting — a genuine operating ISP/telco"
+        },
+        {
+          "kind": "official",
+          "url": "https://ethertech.com.au",
+          "label": "Live site"
+        }
+      ]
     }
   ],
   "refs": [
@@ -40,6 +52,11 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/2008/http://www.ethertech.com.au/",
       "label": "EtherTech (Wayback 2008)"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.ethertech.com.au/",
+      "label": "Live current site (200 OK) offering business NBN/fibre internet, cloud, hosting — a genuine operating ISP/telco"
     }
   ]
 }

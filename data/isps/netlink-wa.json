@@ -4,7 +4,7 @@
   "birthplace": "Nedlands (Perth), WA",
   "status": "inactive",
   "website": "https://netlinkwa.com.au",
-  "summary": "Perth business internet access + server/network setup + hosting ISP; defunct.",
+  "summary": "Perth business internet access + server/network setup + hosting ISP; defunct (NETLINK COMPUTER RESOURCE MANAGEMENT PTY LTD (Netlink WA / Netlink CRM), ACN 055 311 110).",
   "names": [
     {
       "name": "Netlink WA",
@@ -40,6 +40,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/20001208000000/http://www.cynosure.com.au/isp/netlinkwa",
       "label": "Netlink WA (Cynosure 2000)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=45055311110",
+      "label": "ABR: NETLINK COMPUTER RESOURCE MANAGEMENT PTY LTD (Netlink WA / Netlink CRM)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20001208075600/http://www.cynosure.com.au/isp/netlinkwa",
+      "label": "Verified 1998 ISP directory listing with Perth address and the domain"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20020126013732/http://www.netlinkwa.com.au/",
+      "label": "Verified: netlinkwa.com.au already carried 'Netlink CRM' branding in 2001 and redirected to netlinkcrm.com.au by 2002"
     }
   ]
 }

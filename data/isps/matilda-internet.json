@@ -2,9 +2,9 @@
   "name": "Matilda Internet",
   "slug": "matilda-internet",
   "birthplace": "Australia",
-  "status": "inactive",
+  "status": "active",
   "website": "https://matilda.net.au",
-  "summary": "Dialup + hosting ISP with satellite link (matilda.net.au, ~1998, ACN 061 574 525); defunct.",
+  "summary": "Dialup + hosting ISP with satellite link (matilda.net.au, ~1998, ACN 061 574 525); still operating (Mackay NBN retailer) as of Sep 2026.",
   "names": [
     {
       "name": "Matilda Internet",
@@ -21,16 +21,31 @@
       "details": "Dialup, hosting, satellite."
     },
     {
-      "kind": "death",
-      "year": 2006,
-      "date_disp": "by Dec 2006",
-      "precision": "by",
-      "details": "Defunct.",
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
       "refs": [
         {
+          "kind": "official",
+          "url": "https://matilda.net.au/",
+          "label": "Live site selling NBN internet in Mackay plus Apple/PC repairs and web design"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=061574525",
+          "label": "Operating entity ABN active"
+        },
+        {
           "kind": "archive",
-          "url": "https://web.archive.org/web/20061205015918/http://matilda.net.au/",
-          "label": "Wayback: last ISP retail homepage"
+          "url": "http://web.archive.org/web/20260121154203/https://matilda.net.au/",
+          "label": "Jan 2026 archive capture of the operating business"
+        },
+        {
+          "kind": "official",
+          "url": "https://matilda.net.au",
+          "label": "Live site"
         }
       ]
     }
@@ -40,6 +55,21 @@
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?abn=40061574525",
       "label": "ABR: MATILDA INTERNET PTY LTD ACN 061 574 525"
+    },
+    {
+      "kind": "official",
+      "url": "https://matilda.net.au/",
+      "label": "Live site selling NBN internet in Mackay plus Apple/PC repairs and web design"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?id=061574525",
+      "label": "Operating entity ABN active"
+    },
+    {
+      "kind": "archive",
+      "url": "http://web.archive.org/web/20260121154203/https://matilda.net.au/",
+      "label": "Jan 2026 archive capture of the operating business"
     }
   ]
 }

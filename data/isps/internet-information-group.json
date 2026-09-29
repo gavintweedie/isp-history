@@ -2,9 +2,9 @@
   "name": "Internet Information Group",
   "slug": "internet-information-group",
   "birthplace": "Cairns, QLD",
-  "status": "inactive",
+  "status": "active",
   "website": "https://iig.com.au",
-  "summary": "Cairns dialup/broadband ISP + hosting + VoIP (IIG, ~1995); defunct by ~2009 (GRAHAM C MALTBY & KLAUS D BOEHME (partnership), ABN 53 062 958 873).",
+  "summary": "Cairns dialup/broadband ISP + hosting + VoIP (IIG, ~1995); still operating as of Sep 2026 (GRAHAM C MALTBY & KLAUS D BOEHME (partnership), ABN 53 062 958 873).",
   "names": [
     {
       "name": "Internet Information Group",
@@ -21,11 +21,33 @@
       "details": "Dialup/broadband ISP + hosting."
     },
     {
-      "kind": "death",
-      "year": 2009,
-      "date_disp": "by 2009",
-      "precision": "by",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://iig.com.au/",
+          "label": "Live Cairns ISP site selling NBN, ADSL, domains, WAN — © 2026"
+        },
+        {
+          "kind": "official",
+          "url": "https://abr.business.gov.au/ABN/View?id=53062958873",
+          "label": "Operating partnership ABN active and GST-registered in Cairns"
+        },
+        {
+          "kind": "official",
+          "url": "https://iig.au",
+          "label": "New IIG platform live with NBN/hosting/phone services"
+        },
+        {
+          "kind": "official",
+          "url": "https://iig.com.au",
+          "label": "Live site"
+        }
+      ]
     }
   ],
   "refs": [
@@ -33,6 +55,16 @@
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?id=53062958873",
       "label": "ABR: GRAHAM C MALTBY & KLAUS D BOEHME ABN 53 062 958 873"
+    },
+    {
+      "kind": "official",
+      "url": "https://iig.com.au/",
+      "label": "Live Cairns ISP site selling NBN, ADSL, domains, WAN — © 2026"
+    },
+    {
+      "kind": "official",
+      "url": "https://iig.au",
+      "label": "New IIG platform live with NBN/hosting/phone services"
     }
   ]
 }

@@ -2,9 +2,9 @@
   "name": "Velocity Internet",
   "slug": "velocity-internet",
   "birthplace": "Canberra, ACT",
-  "status": "inactive",
+  "status": "active",
   "website": "https://velocity.net.au",
-  "summary": "Canberra ISP (est. Aug 2003); acquired Goldweb Internet 2006, then merged into NetSpeed group c.2010 (VELOCITY INTERNET PTY LIMITED (LATER WASVI PTY LIMITED), ACN 090 776 579).",
+  "summary": "Canberra ISP (est. Aug 2003); acquired Goldweb Internet 2006, merged into NetSpeed group Nov 2010 (VELOCITY INTERNET PTY LIMITED (LATER WASVI PTY LIMITED), ACN 090 776 579); retail brand continues operating in Canberra as of Sep 2026 (ByteCard Pty Ltd t/a Velocity Internet, Mawson ACT).",
   "names": [
     {
       "name": "Velocity Internet",
@@ -21,11 +21,33 @@
       "details": "Commenced telecommunications operations August 2003."
     },
     {
-      "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
-      "precision": "approx",
-      "details": "Merged into Velocity Internet Holdings."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (current site retailing internet services; earlier death record removed).",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "http://velocity.net.au/",
+          "label": "Homesite live (200 OK) with ADSL and Longreach wireless plan pages and order forms"
+        },
+        {
+          "kind": "official",
+          "url": "http://velocity.net.au/myvelocity_contactus.html",
+          "label": "Contact page names current operator ByteCard Pty Ltd t/a Velocity Internet"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20260214143712/http://www.velocity.net.au/",
+          "label": "Feb 2026 archive capture of the operating ISP"
+        },
+        {
+          "kind": "official",
+          "url": "https://velocity.net.au",
+          "label": "Live site"
+        }
+      ]
     }
   ],
   "refs": [
@@ -33,6 +55,21 @@
       "kind": "gov",
       "url": "https://abr.business.gov.au/ABN/View?id=94090776579",
       "label": "ABR: VELOCITY INTERNET PTY LIMITED ACN 090 776 579"
+    },
+    {
+      "kind": "official",
+      "url": "http://velocity.net.au/",
+      "label": "Homesite live (200 OK) with ADSL and Longreach wireless plan pages and order forms"
+    },
+    {
+      "kind": "official",
+      "url": "http://velocity.net.au/myvelocity_contactus.html",
+      "label": "Contact page names current operator ByteCard Pty Ltd t/a Velocity Internet"
+    },
+    {
+      "kind": "archive",
+      "url": "http://web.archive.org/web/20260214143712/http://www.velocity.net.au/",
+      "label": "Feb 2026 archive capture of the operating ISP"
     }
   ]
 }

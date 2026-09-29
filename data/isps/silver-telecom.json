@@ -9,16 +9,33 @@
     {
       "name": "Silver Telecom",
       "start_year": 2002,
-      "start_disp": "by 2002"
+      "start_disp": "by Nov 2002"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 2002,
-      "date_disp": "by 2002",
+      "date_disp": "by Nov 2002",
       "precision": "by",
-      "details": "silverconnect.com.au online from 2002."
+      "details": "silverconnect.com.au online from 2002.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021127111733/http://www.silverconnect.com.au/",
+          "label": "first capture of silverconnect.com.au 27 Nov 2002"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090916011600/http://www.silvertelecom.com.au/",
+          "label": "2009 silvertelecom.com.au page embeds silverconnect.com.au — same operation"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.peeringdb.com/net/2035",
+          "label": "PeeringDB confirms OfficeLink+ AKA Silver Telecom identity"
+        }
+      ]
     },
     {
       "kind": "death",

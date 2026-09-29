@@ -4,7 +4,7 @@
   "birthplace": "Brisbane, QLD",
   "status": "inactive",
   "website": "https://krytech.net",
-  "summary": "Brisbane ADSL/dialup + phone + hosting ISP (launched May 2006); defunct.",
+  "summary": "Brisbane ADSL/dialup + phone + hosting ISP (launched May 2006); defunct (KRYLYSZYN, RYAN JOHN (sole trader t/a KRYTECH), ABN 21 680 115 485).",
   "names": [
     {
       "name": "KRYTECH",
@@ -32,6 +32,28 @@
       "year": 2006,
       "date_disp": "2006",
       "details": "Legal-entity candidate HELD: the only ABR match, KRYTECH PTY LTD (ACN 699 357 554, QLD 4157), is a 2026 company, while this regional-QLD ISP ran c.2006-08 under Ryan Krylyszyn (LinkedIn, 2000-07) - likely a sole trader or an earlier entity. Not added to summary pending verification."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=21680115485",
+      "label": "ABR: KRYLYSZYN, RYAN JOHN (sole trader t/a KRYTECH)"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20060902222944/http://www.krytech.net:80/contact.html",
+      "label": "The ISP's own 2006 contact page prints ABN 21 680 115 485"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=21680115485",
+      "label": "Sole trader active since Apr 2001 at QLD 4221 (Elanora — the ISP's own 2006 address); matches project note's operator Ryan Krylyszyn"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/ABN/View?id=98699357554",
+      "label": "Held candidate is a 2026 Brisbane company — ~18 years after the ISP ended and unrelated to the ABN the ISP itself published"
     }
   ]
 }

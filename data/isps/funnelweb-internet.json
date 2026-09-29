@@ -4,7 +4,7 @@
   "birthplace": "Canberra, ACT",
   "status": "inactive",
   "website": "https://atrax.net.au",
-  "summary": "Canberra dialup ISP (atrax.net.au, registrant Noel Prictor); website went stale after 2001 but the business continued operating; acquired by Melbourne micro-ISP Aardvark Internet in late 2012 (announced Jan 2013); atrax.net.au mail continues via Aardvark webmail.",
+  "summary": "Canberra dialup ISP (atrax.net.au, registrant Noel Prictor); website went stale after 2001 but the business continued operating; acquired by Melbourne micro-ISP Aardvark Internet in late 2012 (announced Jan 2013); atrax.net.au mail continues via Aardvark webmail (TRUE NORTH CONSULTING PTY LTD, ACN 076 837 039).",
   "names": [
     {
       "name": "FunnelWeb Internet (Canberra)",
@@ -45,6 +45,21 @@
       "kind": "archive",
       "url": "https://web.archive.org/web/19970410103150/http://www.cynosure.com.au/isp/funnelweb",
       "label": "FunnelWeb Canberra (Cynosure 1997)"
+    },
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=49076837039",
+      "label": "ABR: TRUE NORTH CONSULTING PTY LTD"
+    },
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20011128101558/http://www.atrax.net.au/",
+      "label": "Verified verbatim: the ISP's own domain titles itself 'True North Consulting & FunnelWeb Internet'"
+    },
+    {
+      "kind": "official",
+      "url": "https://www.woowhois.com/whois/atrax.net.au",
+      "label": "Domain registrant ID 076837039 equals the candidate's ACN 076 837 039"
     }
   ]
 }

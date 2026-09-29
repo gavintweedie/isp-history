@@ -3,7 +3,7 @@
   "slug": "backchannel-net",
   "birthplace": "Australia",
   "status": "inactive",
-  "summary": "ISP acquired by IDEAL Internet 1999 (per owner Darren Worley).",
+  "summary": "ISP acquired by IDEAL Internet 1999 (per owner Darren Worley) (Darren Christopher Worley, ABN 65 501 770 865).",
   "names": [
     {
       "name": "Backchannel Net",
@@ -33,6 +33,18 @@
         "Owner attestation (Darren Worley)",
         "https://web.archive.org/web/19990125090217id_/http://ideal.net.au/"
       ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "gov",
+      "url": "https://abr.business.gov.au/ABN/View?id=65501770865",
+      "label": "ABR: Darren Christopher Worley (sole trader)"
+    },
+    {
+      "kind": "official",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=65501770865",
+      "label": "The '2021' date is just a reactivation; the entity and its BACKCHANNEL NET name are era-contemporary (2000), overlapping the ISP's 1997-99 life and owner attest"
     }
   ]
 }

@@ -9,16 +9,28 @@
     {
       "name": "Generation IT",
       "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_disp": "by Jul 1997"
     }
   ],
   "events": [
     {
       "kind": "birth",
       "year": 1997,
-      "date_disp": "by 1997",
+      "date_disp": "by Jul 1997",
       "precision": "by",
-      "details": "In directory from 1997."
+      "details": "In directory from 1997.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970705004957/http://www.cynosure.com.au:80/isp/git",
+          "label": "Kim Davies ISP list entry, captured 5 Jul 1997"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19980216123315/http://git.com.au/",
+          "label": "git.com.au homepage (captured 16 Feb 1998) was last updated 20 Jul 1997"
+        }
+      ]
     },
     {
       "kind": "death",

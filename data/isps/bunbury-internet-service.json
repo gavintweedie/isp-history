@@ -8,23 +8,33 @@
   "names": [
     {
       "name": "Bunbury Internet Service",
-      "start_year": 1997,
-      "start_disp": "by 1997"
+      "start_year": 1995,
+      "start_disp": "17 Aug 1995"
     }
   ],
   "aliases": [],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by 1997",
-      "precision": "by",
+      "year": 1995,
+      "date_disp": "17 Aug 1995",
+      "precision": "exact",
       "details": "Existing by 1997: allocated the contiguous /21 BUNBURYINT-AU 203.18.248.0-203.18.255.255 (Bunbury WA) in the 1997 IP Network Index.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://files.retropc.se/sekalaiset/1997-IP-SUBNETS/c/203/203.html",
           "label": "IP Network Index 1997: BUNBURYINT-AU 203.18.248.0-203.18.255.255"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19961221142806/http://bis.net.au/",
+          "label": "own homepage (captured 21 Dec 1996) states public opening date; page counter 'since 19/1/96'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970410101613/http://www.cynosure.com.au:80/isp/bunbury",
+          "label": "Cynosure listing Apr 1997 corroborates"
         }
       ]
     },
@@ -39,6 +49,11 @@
           "kind": "official",
           "url": "https://rdap.apnic.net/ip/203.18.248.0",
           "label": "APNIC RDAP: 203.18.248.0/21 registered to Ciphertel Pty Ltd (Bunbury), object registered 4 Sep 2008"
+        },
+        {
+          "kind": "wayback-page",
+          "url": "http://web.archive.org/web/20090607011326/http://bunbury.net.au/",
+          "label": "bunbury.net.au from 2009 is a local information portal rather than the ISP's own site, so APNIC is the dating evidence for the business change."
         }
       ]
     }
