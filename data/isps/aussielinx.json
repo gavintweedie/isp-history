@@ -1,0 +1,45 @@
+{
+  "name": "AussieLinx",
+  "slug": "aussielinx",
+  "birthplace": "Blakehurst (Sydney), NSW",
+  "status": "inactive",
+  "website": "http://www.aussielinx.com.au/",
+  "summary": "Sydney micro-telco brand of the Aussie Dial Pty Ltd group (ABN 26 105 926 449, Blakehurst NSW; stable incl. AussieISP and AussiePCShop); AussieISP folded into it Jul 2014 (aussieisp.com 302). Group sites later went offline; closure date unverified.",
+  "names": [
+    {
+      "name": "AussieLinx",
+      "start_year": 2014,
+      "start_disp": "by 2014"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2014,
+      "date_disp": "by 2014",
+      "precision": "by",
+      "details": "aussielinx.com.au carrying the Aussie Dial group brands by late 2014 (Aussie Dial launched as newest addition Dec 2014).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20141217010246/http://aussiedial.com/",
+          "label": "Aussie Dial group page (Dec 2014)"
+        }
+      ]
+    },
+    {
+      "kind": "note",
+      "year": 2017,
+      "date_disp": "c. 2017",
+      "precision": "approx",
+      "details": "Group sites went offline later; exact closure unverified (no death event recorded)."
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20140718084742/http://aussieisp.com/",
+      "label": "aussieisp.com 302 -> www.aussielinx.com.au (Jul 2014)"
+    }
+  ]
+}

@@ -28,7 +28,7 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Brand reportedly succeeded by AustralianIT (unverified); directnet.com.au held a small static holding page 2002-2004, with minor placeholder captures through Aug 2007. The branded ISP homepage was still live and dynamically dated 5 Apr 2001 and was a bare Apache listing by 20 Jul 2001 — death is c. 2001, not 2005.",
+      "details": "Brand reportedly succeeded by AustralianIT (unverified); directnet.com.au held a small static holding page 2002-2004, with minor placeholder captures through Aug 2007. The branded ISP homepage was still live and dynamically dated 5 Apr 2001 and was a bare Apache listing by 20 Jul 2001 — death is c. 2001, not 2005. Later domain reuse by a Brisbane cloud firm (TheDC) is hosting-only and not an ISP takeover — no edge.",
       "source": [
         "http://web.archive.org/cdx/search/cdx?url=directnet.com.au"
       ],

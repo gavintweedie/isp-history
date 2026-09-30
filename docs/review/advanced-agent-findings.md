@@ -1,6 +1,6 @@
 # Advanced-agent review — findings & recommendations (Sep 2026)
 
-Status: **Phase 1 APPLIED** (commit with this doc). Phase 2 (structural: 2 merges, ~9 new nodes, cross-references) awaits user approval. Left-flagged items remain flagged.
+Status: **Phase 1 APPLIED; Phase 2 APPLIED** (2 merges done; 9 new nodes created; 18 edges incl. the 'safe four'; D-notes and 7 cross-reference pairs applied). Remaining flagged items: unresolved ACNs/transitions, goldnet/northcoast/lets-go records, ~441 un-mined leaves, 12 undatable deaths.
 
 Sources: fresh verification fetches (Wayback CDX, ABR, live sites, archived press) + git provenance checks.
 Rule applied throughout: higher-confidence or provenance-backed reference beats an unsourced value; a real override of a contributor-verified value is called out explicitly.

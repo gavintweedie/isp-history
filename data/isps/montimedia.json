@@ -1,0 +1,54 @@
+{
+  "name": "Montimedia",
+  "slug": "montimedia",
+  "birthplace": "Ballarat, VIC",
+  "status": "inactive",
+  "website": "http://www.montimedia.com.au/",
+  "summary": "Ballarat retail ISP/telco (ADSL2+/Naked DSL/dialup/phone/3G/hosting; IIA member); absorbed Cyberspace Corporation's operation c. 2010-11 (cyberspace.net.au 301 by Jan 2011); brand retired into parent More Telecom by May 2026 (montimedia.com.au reduced to a redirect + webmail link).",
+  "names": [
+    {
+      "name": "Montimedia",
+      "start_year": 2011,
+      "start_disp": "by 2011",
+      "end_year": 2026,
+      "end_disp": "by May 2026"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2011,
+      "date_disp": "by 2011",
+      "precision": "by",
+      "details": "Retail ISP site by 2012 (ADSL2+ bundles); cyberspace.net.au (Cyberspace Corporation) already 301-redirecting to montimedia.com.au by 14 Jan 2011.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120525142711/http://www.montimedia.com.au/",
+          "label": "Montimedia retail site (May 2012): ADSL2+ bundles"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2026,
+      "date_disp": "by May 2026",
+      "precision": "by",
+      "details": "montimedia.com.au reduced to a 'Redirecting to More Telecom' stub with a webmail-only link by 13 May 2026 (retail brand retired into parent More Telecom).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20260513181547/http://www.montimedia.com.au/",
+          "label": "Montimedia stub (13 May 2026): redirecting to parent company More Telecom"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20110114232457/http://www.cyberspace.net.au/",
+      "label": "cyberspace.net.au 301 -> montimedia.com.au (Jan 2011)"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Eezi.Net",
+  "slug": "eezi-net",
+  "birthplace": "Warwick (Perth), WA",
+  "status": "inactive",
+  "website": "http://www.eezi.net.au/",
+  "summary": "Perth dialup + ADSL ISP (eezi.net.au; est. ~2000, owner Eddie Daly); absorbed Netmagic's customer base 2007; joined EFTel (eezi.net.au 302-redirecting to w3.eftel.com.au by Sep 2010).",
+  "names": [
+    {
+      "name": "Eezi.Net",
+      "start_year": 2000,
+      "start_disp": "c. 2000",
+      "end_year": 2010,
+      "end_disp": "by Sep 2010"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2000,
+      "date_disp": "c. 2000",
+      "precision": "approx",
+      "details": "Perth dialup/ADSL ISP operated by Eddie Daly."
+    },
+    {
+      "kind": "death",
+      "year": 2010,
+      "date_disp": "by Sep 2010",
+      "precision": "by",
+      "details": "eezi.net.au 302-redirecting to w3.eftel.com.au by 16 Sep 2010 (EFTel group).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20100916093215/http://www.eezi.net.au/",
+          "label": "302 to w3.eftel.com.au (Sep 2010)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20070706230259/http://www.netmagic.net.au/",
+      "label": "Netmagic notice (Jul 2007): database moved to www.eezi.net.au"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Voice2net Telecom Group",
+  "slug": "voice2net",
+  "birthplace": "Sydney, NSW",
+  "status": "inactive",
+  "website": "http://www.voice2net.com.au/",
+  "summary": "Telco group (voice2net.com.au); absorbed FutureWeb Mar 2015 (own notice), then itself rebranded Q Telecom within the same month; the group later sat under parent Powercom Pacific (2021) and the brand line continues as More Telecom (more.com.au, from 2023).",
+  "names": [
+    {
+      "name": "Voice2net Telecom Group",
+      "start_year": 2015,
+      "start_disp": "by Mar 2015",
+      "end_year": 2015,
+      "end_disp": "Mar 2015"
+    },
+    {
+      "name": "Q Telecom",
+      "start_year": 2015,
+      "start_disp": "Mar 2015"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2015,
+      "date_disp": "by Mar 2015",
+      "precision": "by",
+      "details": "FutureWeb announced \"FutureWeb is now part of the Voice2net Telecom Group\" (13 Mar 2015 capture); Voice2net rebranded to Q Telecom by 20 Mar 2015.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20150309105326/http://www.futureweb.com.au/",
+          "label": "FutureWeb notice (Mar 2015): 'now part of the Voice2net Telecom Group'"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20150320090734/http://www.voice2net.com.au/",
+          "label": "Voice2net: \"Now Qtelecom\" (Mar 2015)"
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2023,
+      "date_disp": "c. 2023",
+      "precision": "approx",
+      "details": "Group brand line now More Telecom (futureweb.com.au 301s to more.com.au by May 2023); Powercom Pacific became group parent 2021.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20230512173546/http://www.futureweb.com.au/",
+          "label": "futureweb.com.au 301 -> more.com.au (May 2023)"
+        }
+      ]
+    }
+  ],
+  "refs": []
+}

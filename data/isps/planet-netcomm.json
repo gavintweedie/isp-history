@@ -4,24 +4,36 @@
   "birthplace": "Sydney, NSW",
   "status": "inactive",
   "website": "http://www.pnc.com.au",
-  "summary": "Sydney ISP (pnc.com.au, AS7694), a participant on the AusBone Sydney (SIX) exchange with a 2M DDS link; peering contact Luke McKinnon (PLANET NETCOM PTY. LIMITED, ACN 066 981 235).",
+  "summary": "Sydney ISP (pnc.com.au, AS7694; originally Penrith NetCom — Penrith local dialup ~1996; company renamed Planet Netcom Pty Ltd); AusBone Sydney (SIX) participant with a 2M DDS link; peering contact Luke McKinnon. Acquired by Datafast Telecommunications Ltd Feb 2004 (PENRITH NETCOM PTY LTD (NOW PLANET NETCOM PTY. LIMITED), ACN 066 981 235).",
   "aliases": [
+    "PENRITH NETCOM PTY LTD",
+    "Penrith NetCom",
+    "Penrith Netcom",
     "pnc.com.au"
   ],
   "names": [
     {
+      "name": "Penrith NetCom",
+      "start_year": 1996,
+      "start_disp": "c. 1996",
+      "end_year": 1997,
+      "end_disp": "by Jan 1997"
+    },
+    {
       "name": "Planet Netcomm",
       "start_year": 1997,
-      "start_disp": "by Jan 1997"
+      "start_disp": "by Jan 1997",
+      "end_year": 2004,
+      "end_disp": "16 Feb 2004"
     }
   ],
   "events": [
     {
       "kind": "birth",
-      "year": 1997,
-      "date_disp": "by Jan 1997",
-      "precision": "by",
-      "details": "AusBone Sydney (SIX) participant (AS7694, 2M DDS). Earliest verified Wayback capture 04 Jan 1997.",
+      "year": 1996,
+      "date_disp": "c. 1996",
+      "precision": "approx",
+      "details": "Penrith NetCom, local Penrith dialup (pnc.com.au) from ~1996; the company (ACN 066 981 235) renamed Planet Netcom Pty Ltd by Jan 1997 (earliest Planet Netcomm capture 4 Jan 1997).",
       "refs": [
         {
           "kind": "archive",

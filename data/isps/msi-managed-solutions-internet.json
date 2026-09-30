@@ -1,0 +1,43 @@
+{
+  "name": "Managed Solutions Internet (MSI)",
+  "slug": "msi-managed-solutions-internet",
+  "birthplace": "Taringa (Brisbane), QLD",
+  "status": "active",
+  "website": "https://www.msi.net.au/",
+  "summary": "Brisbane business ISP (MSI, msi.net.au; business NBN/fixed wireless/ADSL/EoC/fibre, hosting/domains, co-location, network services, Taringa QLD); absorbed Digital Connect Communications' customer funnel 2008 (dcc.net.au 302 by Jul 2008); still operating as of Sep 2026.",
+  "names": [
+    {
+      "name": "Managed Solutions Internet",
+      "start_year": 2008,
+      "start_disp": "by 2008"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2008,
+      "date_disp": "by 2008",
+      "precision": "by",
+      "details": "\"MSI: Managed Solutions Internet\" retailing internet connectivity/ADSL/wireless/hosting by Dec 2008; dcc.net.au already 302-redirecting to it by Jul 2008.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20081220214125/http://www.msi.net.au/",
+          "label": "MSI site (Dec 2008): ISP, internet connectivity, adsl, wireless, broadband, hosting"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080718185406/http://dcc.net.au/",
+          "label": "dcc.net.au 302 -> msi.net.au (Jul 2008)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "official",
+      "url": "https://www.msi.net.au/",
+      "label": "Live site (Sep 2026): business NBN/fixed wireless/ADSL/fibre"
+    }
+  ]
+}

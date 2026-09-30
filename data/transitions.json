@@ -8203,6 +8203,281 @@
           "label": "302 ... moved to http://www.eftelwholesale.net/"
         }
       ]
+    },
+    {
+      "type": "acquisition",
+      "from": "brown-bear-internet",
+      "to": "key-internet",
+      "year": 2011,
+      "date_disp": "2011",
+      "notes": "Brown Bear customers to Key Internet (Coffs Harbour) \u2014 brownbear.net.au 301 to key.net.au by Feb 2011; 'Brownbear Webmail' listed on Key's site.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110202070016/http://www.brownbear.net.au/",
+          "label": "brownbear.net.au 301 -> key.net.au (Feb 2011)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "one-net",
+      "to": "key-internet",
+      "year": 2012,
+      "date_disp": "2012",
+      "notes": "One.Net (AS7617) folded into Key Internet \u2014 one.net.au 301 to key.net.au by Feb 2012; 'ONE Webmail' on Key's site.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120221094347/http://www.one.net.au/",
+          "label": "one.net.au 301 -> key.net.au (Feb 2012)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "argonaut-bbs",
+      "to": "key-internet",
+      "year": 2018,
+      "date_disp": "by 2018",
+      "notes": "Argonaut domain 301-redirecting to Key Internet by Jun 2018; 'Argonaut Webmail' listed on key.net.au.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20141223035802/http://www.key.net.au/",
+          "label": "Key Internet webmail links incl. Argonaut (Dec 2014)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "key-internet",
+      "to": "jazi-group",
+      "year": 2018,
+      "date_disp": "2018",
+      "notes": "'Key Internet' business name registered to JAZI GROUP PTY LTD from 18 Apr 2018 (ABR).",
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?id=80164840859",
+          "label": "ABR: Jazi Group business-name registrations"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "break-free",
+      "to": "jazi-group",
+      "year": 2019,
+      "date_disp": "2019",
+      "notes": "Break Free (APCS stable) folded into Jazi Group's JaziNET \u2014 breakfree.net.au 301 to jazi.net by 27 May 2019.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190527083405/http://breakfree.net.au/",
+          "label": "breakfree.net.au 301 -> jazi.net (May 2019)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "netmagic",
+      "to": "eezi-net",
+      "year": 2007,
+      "date_disp": "2007",
+      "notes": "Netmagic customer database moved to Eezi.Net (Perth) \u2014 own notice Jul 2007.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070706230259/http://www.netmagic.net.au/",
+          "label": "Netmagic notice (Jul 2007): database moved to eezi.net.au"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "eezi-net",
+      "to": "eftel",
+      "year": 2010,
+      "date_disp": "by Sep 2010",
+      "notes": "Eezi.Net joined EFTel \u2014 eezi.net.au 302 to w3.eftel.com.au by 16 Sep 2010.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20100916093215/http://www.eezi.net.au/",
+          "label": "eezi.net.au 302 -> eftel (Sep 2010)"
+        }
+      ]
+    },
+    {
+      "type": "merger",
+      "from": "cynet-services",
+      "to": "subnet-internet-services",
+      "year": 1999,
+      "date_disp": "Jan 1999",
+      "notes": "Cynet merged with SubNet Internet Services (Jan 1999) \u2014 merger announced on both sites.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990428143649/http://www.cynet.net.au/",
+          "label": "Cynet announcement (Apr 1999)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990208234531/http://cynet.net.au/",
+          "label": "SubNet announcement (Feb 1999)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "subnet-internet-services",
+      "to": "eftel",
+      "year": 2006,
+      "date_disp": "by Aug 2006",
+      "notes": "SubNet folded into EFTel \u2014 sub.net.au 302 to w3.eftel.com by 4 Aug 2006.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060804001709/http://sub.net.au/",
+          "label": "sub.net.au 302 -> eftel (Aug 2006)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "iexec",
+      "to": "securetelecom",
+      "year": 2006,
+      "date_disp": "May 2006",
+      "notes": "SecureTelecom acquired iExec (iTnews, May 2006; iExec's 22 staff moved across).",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/securetelecom-acquires-iexec-38349",
+          "label": "iTnews (May 2006): SecureTelecom acquires iExec"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "aussie-isp",
+      "to": "aussielinx",
+      "year": 2014,
+      "date_disp": "2014",
+      "notes": "AussieISP folded into the Aussie Dial group's AussieLinx \u2014 aussieisp.com 302 to aussielinx.com.au by Jul 2014 (and to aussiedial.com by Dec 2014).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20140718084742/http://aussieisp.com/",
+          "label": "aussieisp.com 302 -> aussielinx.com.au (Jul 2014)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "cyberspace-corporation",
+      "to": "montimedia",
+      "year": 2011,
+      "date_disp": "by Jan 2011",
+      "notes": "Cyberspace Corporation's operation absorbed by Montimedia (Ballarat) \u2014 cyberspace.net.au 301 to montimedia.com.au by 14 Jan 2011.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110114232457/http://www.cyberspace.net.au/",
+          "label": "cyberspace.net.au 301 -> montimedia (Jan 2011)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "digital-connect-communications",
+      "to": "msi-managed-solutions-internet",
+      "year": 2008,
+      "date_disp": "2008",
+      "notes": "DCC's customer funnel moved to Managed Solutions Internet (Brisbane) \u2014 dcc.net.au 302 to msi.net.au by Jul 2008.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080718185406/http://dcc.net.au/",
+          "label": "dcc.net.au 302 -> msi.net.au (Jul 2008)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "futureweb",
+      "to": "voice2net",
+      "year": 2015,
+      "date_disp": "Mar 2015",
+      "notes": "FutureWeb announced it was now part of the Voice2net Telecom Group (Mar 2015); Voice2net rebranded Q Telecom the same month.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20150309105326/http://www.futureweb.com.au/",
+          "label": "FutureWeb notice (Mar 2015)"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "werple",
+      "to": "mira-networking",
+      "year": 1997,
+      "date_disp": "by Feb 1997",
+      "notes": "werple.net.au's own 1996-97 pages are branded 'Mira Networking Pty Ltd, Melbourne' \u2014 Werple ran as a Mira operation from by early 1997 (the node's Perth/WA framing needs review \u2014 domain evidence points to Mira).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19970213232441/http://www.werple.net.au/",
+          "label": "werple.net.au (Feb 1997): \"Mira Networking Pty Ltd \u2014 a Melbourne based Internet service provider\""
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "ram-network-services",
+      "to": "intrapower",
+      "year": 2008,
+      "date_disp": "1 Mar 2008",
+      "notes": "IntraPower acquired RAM Network Services (renamed AlchemyIT 2004), effective 1 March 2008 \u2014 own site notice.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20081009105533id_/http://www.ram.net.au/",
+          "label": "ram.net.au notice: \"IntraPower acquires AlchemyIT \u2014 Effective 1 March 2008\""
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "hc-internet",
+      "to": "hugonet",
+      "year": 2005,
+      "date_disp": "2005",
+      "notes": "HC Internet rebranded/became HugoNet (HugoNet's 2006 footer: 'HugoNet, formerly HC Internet'; first HugoNet capture Dec 2005).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060430042216/http://www.hugonet.com.au/",
+          "label": "HugoNet footer (Apr 2006): formerly HC Internet"
+        }
+      ]
+    },
+    {
+      "type": "acquisition",
+      "from": "officelink-plus",
+      "to": "bigair",
+      "year": 2016,
+      "date_disp": "1 Oct 2016",
+      "notes": "OfficeLink+ retail site 302-redirected to bigair.com.au from 1 Oct 2016 (company track separately went OfficeLink Plus -> Hostech/Anittel c. 2010; see the anittel edge).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20161001191031id_/http://officelink.net.au/",
+          "label": "officelink.net.au 302 -> bigair.com.au (1 Oct 2016)"
+        }
+      ]
     }
   ]
 }

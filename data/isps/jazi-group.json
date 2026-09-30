@@ -1,0 +1,48 @@
+{
+  "name": "Jazi Group (JaziNET)",
+  "slug": "jazi-group",
+  "birthplace": "Malaga, WA",
+  "status": "active",
+  "website": "https://jazi.net/",
+  "summary": "WA ISP/brand aggregator (JAZI GROUP PTY LTD, ABN 80 164 840 859, Malaga WA; active from 16 Jul 2013; 'JaziNET' business name from 2 Oct 2017). Acquired the APCS brands incl. Key Internet (2018) and Break Free (2019); also holds business names Nitro, D2, Argo, Conxx, Western Internet Services, Maxnet, Hot Internet. NB: a different company from the 1990s-2000s dialup-era JAZINET (see jazinet), whose 2009 death stands — jazi.net later passed to this company.",
+  "names": [
+    {
+      "name": "Jazi Group",
+      "start_year": 2013,
+      "start_disp": "16 Jul 2013"
+    },
+    {
+      "name": "JaziNET",
+      "start_year": 2017,
+      "start_disp": "Oct 2017"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 2013,
+      "date_disp": "16 Jul 2013",
+      "precision": "exact",
+      "details": "JAZI GROUP PTY LTD ABN active from 16 Jul 2013 (Malaga WA 6090).",
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?id=80164840859",
+          "label": "ABR: JAZI GROUP PTY LTD (active 16 Jul 2013) + business names"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/20190716111808/https://jazi.net/",
+      "label": "JaziNET retail ISP site (Jul 2019, Malaga WA)"
+    },
+    {
+      "kind": "official",
+      "url": "https://jazi.net/",
+      "label": "Live site (Sep 2026)"
+    }
+  ]
+}

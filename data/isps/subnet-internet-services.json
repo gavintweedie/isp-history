@@ -1,0 +1,54 @@
+{
+  "name": "SubNet Internet Services",
+  "slug": "subnet-internet-services",
+  "birthplace": "Melbourne, VIC",
+  "status": "inactive",
+  "website": "http://www.sub.net.au/",
+  "summary": "Melbourne dialup/web-hosting ISP (sub.net.au, live by ~1997); merged with Cynet Services Jan 1999 (announced on both sites); later absorbed into EFTel (sub.net.au 302 to w3.eftel.com by Aug 2006). NB: Key Point/Labyrinth's history also lists SubNet among its pre-2000 takeovers — the partial-transfer reconciliation is unresolved.",
+  "names": [
+    {
+      "name": "SubNet Internet Services",
+      "start_year": 1997,
+      "start_disp": "c. 1997",
+      "end_year": 2006,
+      "end_disp": "by Aug 2006"
+    }
+  ],
+  "events": [
+    {
+      "kind": "birth",
+      "year": 1997,
+      "date_disp": "c. 1997",
+      "precision": "approx",
+      "details": "Melbourne ISP; merged with Cynet Services in January 1999 (both sites carried the merger announcement).",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990208234531/http://cynet.net.au/",
+          "label": "Cynet page (Feb 1999): \"SubNet Internet Services — 28 Jan 99 - SubNet & Cynet Merge\""
+        }
+      ]
+    },
+    {
+      "kind": "death",
+      "year": 2006,
+      "date_disp": "by Aug 2006",
+      "precision": "by",
+      "details": "sub.net.au 302-redirecting to w3.eftel.com (EFTel) by 4 Aug 2006.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060804001709/http://sub.net.au/",
+          "label": "302 to w3.eftel.com (Aug 2006)"
+        }
+      ]
+    }
+  ],
+  "refs": [
+    {
+      "kind": "archive",
+      "url": "https://web.archive.org/web/19990428143649/http://www.cynet.net.au/",
+      "label": "Cynet announcement (Apr 1999): merged with SubNet Jan 1999"
+    }
+  ]
+}
