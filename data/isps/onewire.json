@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Rebranded Skyoptic; defunct."
+      "year": 2011,
+      "date_disp": "by Feb 2011",
+      "precision": "by",
+      "details": "Rebranded Skyoptic; defunct. Site live Jul 2008, parked by Feb 2011 with a total 2009-10 capture void — dying in 2008-2011, safely recorded as 'by Feb 2011'; confirms the proposal over the current c. 2006.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20080718183015id_/http://www.onewire.com.au/",
+          "label": "Fully live rural radio/satellite broadband ISP on 18 Jul 2008; CDX shows no captures at all in 2009-2010."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20110205125011id_/http://www.onewire.com.au/",
+          "label": "Domain a parked search page by 5 Feb 2011."
+        }
+      ]
     }
   ],
   "refs": [

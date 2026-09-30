@@ -32,11 +32,23 @@
       "year": 2013,
       "date_disp": "c. 2013",
       "precision": "approx",
-      "details": "Retail long outlasted 2005: the unlimited-dialup homepage persisted (same capture 2004-2008), then the site rebranded to 'CheapaDSL' offering unlimited ADSL (256/64 $45/mo) across 2009-2012 captures; company renamed PIP TOTAL IT SOLUTIONS PTY LTD 16 Apr 2014, by which point cheapanet.com.au was empty/parked.",
+      "details": "Retail long outlasted 2005: the unlimited-dialup homepage persisted (same capture 2004-2008), then the site rebranded to 'CheapaDSL' offering unlimited ADSL (256/64 $45/mo) across 2009-2012 captures; company renamed PIP TOTAL IT SOLUTIONS PTY LTD 16 Apr 2014, by which point cheapanet.com.au was empty/parked. Last retail page with plans is 8 Apr 2013; unrelated page by Jan 2016 - c. 2013 (last known alive) promoted.",
       "source": [
         "https://web.archive.org/web/20050205194717id_/http://cheapanet.com.au/",
         "https://web.archive.org/web/20090827222915id_/http://cheapanet.com.au/",
         "https://abr.business.gov.au/AbnHistory/View?id=52087951004"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20130408064038id_/http://cheapanet.com.au/",
+          "label": "retail ADSL plans/pricing (CheapaDSL) live 8 Apr 2013"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20160109180939id_/http://cheapanet.com.au/",
+          "label": "domain held a small unrelated 'rda creative' page by Jan 2016 (no captures of the site in between)"
+        }
       ]
     }
   ],

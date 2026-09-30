@@ -25,7 +25,19 @@
       "year": 1999,
       "date_disp": "by 1999",
       "precision": "by",
-      "details": "Ceased operating ~1998-99 (domain pointed to OzEmail by Jan 1999)."
+      "details": "Ceased operating ~1998-99 (domain pointed to OzEmail by Jan 1999).",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/19990125094613/http://www.cyrustech.com.au/",
+          "label": "The domain already served OzEmail's homepage on 25 Jan 1999 — Cyrus as an independent ISP was gone"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=cyrustech.com.au&output=json&collapse=digest&limit=200",
+          "label": "No pre-1999 baseline exists"
+        }
+      ]
     }
   ],
   "refs": [

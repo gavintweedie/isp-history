@@ -25,7 +25,24 @@
       "year": 2015,
       "date_disp": "by 2015",
       "precision": "by",
-      "details": "Last captured 2015."
+      "details": "Last captured 2015.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20150324235705/http://www.flexinet.com.au/",
+          "label": "last FlexiNet-branded retail ISP homepage, 24 Mar 2015"
+        },
+        {
+          "kind": "abn",
+          "url": "https://abr.business.gov.au/ABN/View?id=23112877488",
+          "label": "operator company cancelled Sep 2014; brand page lingered into 2015"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20181115204130/http://www.flexinet.com.au/",
+          "label": "domain serving the related ReddeNet brand by 15 Nov 2018"
+        }
+      ]
     }
   ],
   "refs": [

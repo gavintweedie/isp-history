@@ -32,6 +32,23 @@
       "source": [
         "https://web.archive.org/web/20051030033248/http://www.clockwork.com.au/",
         "https://web.archive.org/web/20060819075743/http://www.clockwork.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050604080226if_/http://www.clockwork.com.au/",
+          "label": "retail plans still offered on 4 Jun 2005"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051030033248if_/http://www.clockwork.com.au/",
+          "label": "by 30 Oct 2005 the homepage was webmail/support-only - retail offering ended Jun-Oct 2005"
+        },
+        {
+          "kind": "archive",
+          "url": "http://www.clockwork.com.au/",
+          "label": "the identical frozen splash is STILL served on the live domain today (checked Sep 2026) - it never 'went gone', so the c. 2011 site-gone proposal is rejected"
+        }
       ]
     },
     {

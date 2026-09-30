@@ -25,7 +25,19 @@
       "year": 2006,
       "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "http://web.archive.org/web/20050708215038id_/http://ozziehost.com.au/",
+          "label": "Full retail ISP homepage on 8 Jul 2005."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=ozziehost.com.au&output=json&limit=400",
+          "label": "No captures whatsoever after 8 Jul 2005 and the domain fails to connect today, so death c. 2005-06 is all the archive supports."
+        }
+      ]
     }
   ],
   "refs": [

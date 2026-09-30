@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2009-10",
+      "year": 2006,
+      "date_disp": "c. 2005-06",
       "precision": "approx",
-      "details": "Defunct (domain reused by unrelated medical group)."
+      "details": "Defunct (domain reused by unrelated medical group). The ISP retail face ended between Aug 2005 and Oct 2006 — earlier than both the current c. 2009-10 and the proposed c. 2008.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20050822060100/http://www.ipn.com.au/",
+          "label": "Homepage still an IPN-branded internet/IT services site on 22 Aug 2005 (last such version)."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20061021225322/http://www.ipn.com.au/",
+          "label": "By 21 Oct 2006 the homepage was 'Adept' (IT support/risk consulting), not an ISP; IIS 'Under Construction' by Dec 2007; unrelated 'Independent Practitioner Netw"
+        }
+      ]
     }
   ],
   "refs": [

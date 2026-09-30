@@ -18,7 +18,7 @@
       "year": 2000,
       "date_disp": "21 Aug 2000",
       "precision": "by",
-      "details": "Earliest Wayback capture 21 Aug 2000 (bondinet.com.au); footer \u00a92000.",
+      "details": "Earliest Wayback capture 21 Aug 2000 (bondinet.com.au); footer ©2000.",
       "refs": [
         {
           "kind": "archive",
@@ -35,9 +35,16 @@
       "year": 2002,
       "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Dead; only five bondinet.com.au captures exist (Aug 2000 to 30 Nov 2001), site dark thereafter.",
+      "details": "Dead; only five bondinet.com.au captures exist (Aug 2000 to 30 Nov 2001), site dark thereafter. Site dark after 30 Nov 2001 with no later archive record - death c. 2002 confirmed as the first full year with no live retail presence.",
       "source": [
         "http://web.archive.org/cdx/search/cdx?url=bondinet.com.au&output=json"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20011130120501if_/http://bondinet.com.au/",
+          "label": "full dialup retail page with plans/pricing/join-now on the final capture, 30 Nov 2001 (only five captures ever, Aug 2000-Nov 2001)"
+        }
       ]
     }
   ],

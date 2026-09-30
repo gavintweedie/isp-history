@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2003,
+      "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Content ends between Mar and Apr 2003 with a redirect stub, 404 by 2008 - proposal's 2003 verified rather than c. 2002.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20030214194552id_/http://www.werple.net.au:80/",
+          "label": "Last real page: Pacific Internet customer homepage directory, Mar 2003."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20030406040246id_/http://www.werple.net.au:80/",
+          "label": "From 6 Apr 2003 the domain is only a redirect stub (served to Feb 2005)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20080718185814id_/http://werple.net.au/",
+          "label": "Confirmed 404 by Jul 2008 replay."
+        }
+      ]
     }
   ],
   "refs": [

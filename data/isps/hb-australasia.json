@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2002,
+      "date_disp": "18 Nov 2002",
+      "precision": "exact",
+      "details": "Defunct. The southcom.com.au retail ISP identity (Southern Internet Services / Labyrinth Connections) was retired into KeyPoint with a hard launch date of 18 Nov 2002, beating both the current c. 2005 and the proposal's c. 2003. merged/rebranded into KeyPoint.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20021120113807/http://southcom.com.au/",
+          "label": "Nov 2002 homepage announces the merger and the exact KeyPoint launch date, 18 Nov 2002."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030202035649/http://southcom.com.au/",
+          "label": "By 2 Feb 2003 the southcom.com.au homepage was a KeyPoint redirect notice; raw HTTP 302 redirects to KeyPoint follow from Sep 2003 (CDX)."
+        }
+      ]
     }
   ]
 }

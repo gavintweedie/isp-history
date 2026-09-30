@@ -66,9 +66,9 @@
     {
       "kind": "death",
       "year": 1998,
-      "date_disp": "1998",
-      "precision": "approx",
-      "details": "Failed quietly in 1998 and was liquidated; customer base (incl. ex-iiNet SA) bought from the liquidator by Chariot (via John Lindsay).",
+      "date_disp": "1 Jun 1998",
+      "precision": "exact",
+      "details": "Failed quietly in 1998 and was liquidated; customer base (incl. ex-iiNet SA) bought from the liquidator by Chariot (via John Lindsay). OurWorld entered voluntary administration 1 Jun 1998 and its access service shut down in 1998; the 1998 death is confirmed and can now carry an exact date.",
       "refs": [
         {
           "kind": "official",
@@ -84,6 +84,16 @@
           "kind": "wayback-parked",
           "url": "http://web.archive.org/web/20160111211146/http://ourworld.net/",
           "label": "Domain long outlived the ISP, so the 2016 capture is not the death; brief records 1998 liquidation and Chariot purchase of the customer base."
+        },
+        {
+          "kind": "admin-press",
+          "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?by=issuerId&issuerId=7425&timeframe=Y&year=1998",
+          "label": "ASX announcement index: voluntary administration dated 1 Jun 1998."
+        },
+        {
+          "kind": "press",
+          "url": "https://web.archive.org/web/19980224153402/www.iinet.net.au/about/timeline.html",
+          "label": "Contemporary iiNet timeline (Feb 1998) corroborates a 1998 shutdown."
         }
       ]
     }

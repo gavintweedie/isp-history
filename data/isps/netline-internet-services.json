@@ -37,10 +37,27 @@
     },
     {
       "kind": "death",
-      "year": 2024,
-      "date_disp": "c. 2024",
-      "precision": "approx",
-      "details": "Last Wayback capture of netline.net.au on 9 Oct 2024; site did not respond when checked (Aug 2026)."
+      "year": 2004,
+      "date_disp": "by 31 Mar 2004",
+      "precision": "by",
+      "details": "Last Wayback capture of netline.net.au on 9 Oct 2024; site did not respond when checked (Aug 2026). The operator's ABN was cancelled 31 Mar 2004; the frozen © 1998 homepage lingering into 2005 does not extend the ISP's life. operator ABN cancelled.",
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?id=97097780615",
+          "label": "Official cancellation of the operator company's ABN"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050615035047/http://netline.net.au/",
+          "label": "A frozen Netline homepage lingered to Jun 2005 but there was no operating business"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060619034628/http://www.netline.net.au/",
+          "label": "By Jun 2006 the site was an 'under construction' stub; the domain was later reused by unrelated HoneyBee/HB Networks, which drove the erroneous c.2024 current v"
+        }
+      ]
     }
   ],
   "refs": [

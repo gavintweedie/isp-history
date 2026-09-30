@@ -26,13 +26,30 @@
     },
     {
       "kind": "death",
-      "year": 2023,
-      "date_disp": "c. 2023",
+      "year": 2011,
+      "date_disp": "c. 2010-13",
       "precision": "approx",
-      "details": "comvergence.net.au live with homepage captures through Mar 2021, then 301/302 redirects from 2024. The earlier 'defunct 2005-09' was a misreading of the site's '2005-2009' copyright range as a lifespan; COMVERGENCE PTY LTD (ABN 83 116 560 742) remains registered as active.",
+      "details": "comvergence.net.au live with homepage captures through Mar 2021, then 301/302 redirects from 2024. The earlier 'defunct 2005-09' was a misreading of the site's '2005-2009' copyright range as a lifespan; COMVERGENCE PTY LTD (ABN 83 116 560 742) remains registered as active. Retail ISP homepage last seen Jun 2010 and webmail-only by Mar 2013; the B2B telco persists behind a login shell but its public ISP face died c. 2010-13, not 2020 or 2023.",
       "source": [
         "https://web.archive.org/web/20210303184758/http://www.comvergence.net.au/",
         "https://abr.business.gov.au/ABN/View?abn=83116560742"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20100617012444/http://comvergence.net.au/",
+          "label": "Last real marketing homepage, 17 Jun 2010"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20130328045350/http://comvergence.net.au/",
+          "label": "Homepage was webmail-redirect-only by 28 Mar 2013 (and through Sep 2017) — dead per webmail-only convention"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20180803215025/http://comvergence.net.au/",
+          "label": "2018-2020: bare VoIP firewall/forms stubs; only redirect shells from Feb 2021 onward"
+        }
       ]
     }
   ],

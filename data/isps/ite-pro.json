@@ -36,6 +36,21 @@
           "kind": "official",
           "url": "https://abr.business.gov.au/ABN/View?id=70812559075",
           "label": "Entity survived as IT-services business; ISP product disappeared"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060618100701/http://www.itepro.com.au/",
+          "label": "Jun 2006 homepage advertised an 'ITEPro ISP' product at isp.itepro.com."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20070518031453/http://itepro.com.au/",
+          "label": "By 18 May 2007 the homepage offered only IT services/hosting/domains/repairs — the ISP offer had disappeared."
+        },
+        {
+          "kind": "abr-live-2026",
+          "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=IT%20ENGINEERING%20PRO",
+          "label": "Entity still active; full IT-services site live at itepro.com.au in 2026 (negotiated, managed IT, repairs — no retail internet access)."
         }
       ]
     }

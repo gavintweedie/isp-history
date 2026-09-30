@@ -34,11 +34,22 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "ISP Ltd (AS4752) parent of BlazeNet which folded into Hotkey Internet Services ~2004; last ispau.net capture Feb/Mar 2001.",
-      "refs": []
+      "details": "ISP Ltd (AS4752) parent of BlazeNet which folded into Hotkey Internet Services ~2004; last ispau.net capture Feb/Mar 2001. The ispau.net (AS4752) operation vanished from the web after mid-2001 — c. 2001 as proposed; the current c. 2004 is too late.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20010302112014/http://www.ispau.net/",
+          "label": "Homepage live 2 Mar 2001."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=ispau.net&matchType=domain&output=json",
+          "label": "Nothing is archived after 6 Jun 2001 and the domain is unreachable in 2026."
+        }
+      ]
     }
   ],
   "refs": [

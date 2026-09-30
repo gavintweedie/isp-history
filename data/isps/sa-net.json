@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct; domain redirected to webmail then parked."
+      "year": 2001,
+      "date_disp": "by Mar 2001",
+      "precision": "by",
+      "details": "Defunct; domain redirected to webmail then parked. Domain was a BoldWeb server-default stub by Mar 2001 and webmail-only by 2003, so the c. 2001 absorption proposal beats the current c. 2003.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/19961219010632id_/http://sanet.com.au/",
+          "label": "Real SA Net homepage, Dec 1996 (Jul 1997 already a 'Welcome to the Internet' placeholder)."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20010302110708id_/http://www.sanet.com.au/",
+          "label": "By 2 Mar 2001 the domain sat unconfigured on BoldWeb's Adelaide server - the ISP site was gone (acquired/absorbed by BoldWeb)."
+        },
+        {
+          "kind": "replay",
+          "url": "http://web.archive.org/web/20030212070104/http://www.sanet.com.au/",
+          "label": "By Feb 2003 only a webmail login remained - webmail-only = dead (prior evidence, confirmed consistent with 2001/2002 301s)."
+        }
+      ]
     }
   ],
   "refs": [

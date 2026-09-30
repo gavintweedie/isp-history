@@ -31,6 +31,23 @@
       "details": "Defunct; last substantive homepage capture Feb 2001, then no captures until a stub in 2006 and HTTP 403 by 2007.",
       "source": [
         "http://web.archive.org/cdx/search/cdx?url=dnet.com.au"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20000519224836/http://www.dnet.com.au/",
+          "label": "DNET-branded ISP frameset, May 2000"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20010331232716/http://www.dnet.com.au/",
+          "label": "Domain still serving ISP (Outpost-branded) content 31 Mar 2001; only stubs/403 afterwards"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060819170046/http://dnet.com.au/",
+          "label": "Domain redirected to the depressioNet charity by Aug 2006"
+        }
       ]
     }
   ],

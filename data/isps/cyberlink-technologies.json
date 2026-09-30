@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Both prior values were measured on the wrong domain (cyberlink.com.au, a Brisbane web-software firm unrelated to the Perth ISP); on the correct domain cltechnet.com the ISP was absorbed into Cyber Networks between Jun and Oct 2006.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20041112093724/http://www.cynosure.com.au/isp/cyberlink",
+          "label": "Australian ISP List shows the Perth ISP's real domain was cltechnet.com — brief's cyberlink.com.au is an unrelated Brisbane software/web firm ('Cyberlink Comput"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060622205028/http://www.cltechnet.com/",
+          "label": "Last full retail ISP homepage, 22 Jun 2006"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20061004075004/http://cltechnet.com/",
+          "label": "Meta-refresh splash to Cyber Networks by 4 Oct 2006 — brand absorbed; later a PlanetDomain registrar stub"
+        }
+      ]
     },
     {
       "kind": "note",

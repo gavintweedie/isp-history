@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2011,
+      "date_disp": "c. 2011",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Retail ISP homepage ran to Apr 2011 and was hollowed to an itgroup.net.au redirect by Aug 2011 — far later than the current c. 2005, tighter than the proposed 'by Dec 2014'.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20110423011636/http://www.itginternet.net.au/",
+          "label": "23 Apr 2011: full retail ISP site."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20110829180712/http://www.itginternet.net.au/",
+          "label": "By 29 Aug 2011 the homepage was a 292-byte meta-refresh stub into itgroup.net.au (an archived 301 to the same target by 1 Feb 2013); later years redirect into N"
+        }
+      ]
     }
   ],
   "refs": [

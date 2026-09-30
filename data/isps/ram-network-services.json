@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2000s",
+      "year": 2008,
+      "date_disp": "Mar 2008",
       "precision": "approx",
-      "details": "Domain later AlchemyIT."
+      "details": "Domain later AlchemyIT. ISP operation (Ram Network Services, renamed AlchemyIT 2004) was absorbed by IntraPower effective 1 Mar 2008; the ram.net parking evidence in the proposal concerns a domain the ISP never used.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20081009105533id_/http://www.ram.net.au/",
+          "label": "The real ISP site was ram.net.au: renamed AlchemyIT in 2004, acquired by IntraPower effective 1 Mar 2008; farewell page still up Oct 2008."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=ram.net.au&output=json&collapse=digest&limit=60",
+          "label": "ram.net.au 302-redirected by Sep 2009 and a Plesk default page by May 2013."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20031222095651id_/http://www.ram.net/",
+          "label": "The brief's ram.net domain was never the ISP's site: US Cingular WAP content by Dec 2003, Sedo-parked (for sale) by Dec 2014 through Dec 2025."
+        }
+      ]
     }
   ],
   "refs": [

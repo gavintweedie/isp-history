@@ -2,7 +2,7 @@
   "name": "ESC Internet",
   "slug": "esc-internet",
   "birthplace": "Keswick (Adelaide), SA",
-  "status": "inactive",
+  "status": "active",
   "website": "https://esc.net.au",
   "summary": "Adelaide ISP (esc.net.au, Keswick SA, operator Stavros Patiniotis); in the SA peering community by Feb 2000 (ESCAPENET TRUST (trust), ABN 27 133 173 957).",
   "names": [
@@ -21,11 +21,28 @@
       "details": "esc.net.au captured from Dec 1996."
     },
     {
-      "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2000s",
-      "precision": "approx",
-      "details": "No later records found."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (live site retailing internet services); earlier death record removed.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/19961226073030/http://www.esc.net.au/",
+          "label": "homepage branded 'Escape.Net' as early as 26 Dec 1996 — the site's brand was never 'ESC Internet'"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20020523011752/http://www.esc.net.au/",
+          "label": "actively selling access May 2002 — c.2000s death is wrong"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.itnews.com.au/news/south-australia-picks-escapenet-for-gigcity-network-466777",
+          "label": "trading as EscapeNet, Jun 2017"
+        }
+      ]
     }
   ],
   "refs": [

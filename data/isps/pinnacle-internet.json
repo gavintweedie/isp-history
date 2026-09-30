@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2000s",
-      "precision": "approx",
-      "details": "No later records found."
+      "year": 2000,
+      "date_disp": "by Aug 2000",
+      "precision": "by",
+      "details": "No later records found. Pinnacle's own homepage was already gone by Aug 2000 — earlier than even the proposed Mar 2001 Triple i replacement — so death is by mid-2000.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20000824035541id_/http://www.pinnacle.net.au/",
+          "label": "The ISP's site was already replaced by a bare Apache placeholder on 24 Aug 2000 — no Pinnacle content capture exists at any date."
+        },
+        {
+          "kind": "abr-entity",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=12095209671",
+          "label": "The successor entity that took over the domain (Triple i branding by 8 Mar 2001; Hotkey by Dec 2003) was only registered 13 Dec 2000, consistent with a late-200"
+        }
+      ]
     }
   ],
   "refs": [

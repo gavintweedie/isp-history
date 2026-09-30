@@ -34,10 +34,22 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "after 2000",
-      "precision": "unknown",
-      "details": "ISP subsequently defunct; the mac.com.au domain was later held by Apple Inc."
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "ISP subsequently defunct; the mac.com.au domain was later held by Apple Inc. Mountain Apple's page last appears mid-2002 and the domain belongs to Apple Inc by Feb 2005, so the ISP died somewhere in 2002-2004; the c.2003 midpoint proposal stands. mac.com.au to Apple Inc.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020601000000/http://www.mac.com.au/",
+          "label": "Mid-2002 still Mountain Apple's own (stale, Jan-2000 vintage) page"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050202103526/http://mac.com.au/",
+          "label": "By Feb 2005 the domain served Apple Inc's Australian site; no captures exist between mid-2002 and Feb 2005"
+        }
+      ]
     }
   ],
   "refs": [

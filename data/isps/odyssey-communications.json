@@ -52,10 +52,10 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2007,
+      "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "Last ISP-era capture of odyssey.com.au is a 404 page from 5 Jan 2001; no captures 2001-2015; by 2016-17 the domain served a WordPress site. ISP operations ceased some time between 2001 and 2016; exact closure/acquirer not located.",
+      "details": "Last ISP-era capture of odyssey.com.au is a 404 page from 5 Jan 2001; no captures 2001-2015; by 2016-17 the domain served a WordPress site. ISP operations ceased some time between 2001 and 2016; exact closure/acquirer not located. The Odyssey ISP homepage survived (static) until at least 29 Aug 2007 and was replaced by a develop.com.au frame-forward by Jul 2008, so the brand died c. 2007 — not 2001.",
       "refs": [
         {
           "kind": "archive",
@@ -66,6 +66,21 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20160302102251/http://www.odyssey.com.au/",
           "label": "Wayback 2 Mar 2016: odyssey.com.au as a WordPress site"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20070829164153id_/http://odyssey.com.au/",
+          "label": "The ISP-branded splash and framed site were still served on 29 Aug 2007."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=odyssey.com.au&output=json&limit=400",
+          "label": "CDX disproves the prior 'no captures 2001-2015' claim: the branded page stayed up for years (ILSKR digest 2001-04 to 2004-02, SWLH 2004-04 to 2007-08)."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20080718195103id_/http://odyssey.com.au/",
+          "label": "By 18 Jul 2008 the domain frame-forwarded to develop.com.au; by Oct 2009 it read 'Coming Soon'."
         }
       ]
     }

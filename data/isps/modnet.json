@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "by Jul 2004",
-      "precision": "by",
-      "details": "Defunct.",
+      "year": 2019,
+      "date_disp": "c. 2019",
+      "precision": "approx",
+      "details": "Defunct. The by-Jul-2004 current value is wrong: the original ModNet ISP site was still being served in June 2019 and was replaced by a placeholder by Mar 2020. site live Jun 2019; placeholder by Mar 2020.",
       "refs": [
         {
           "kind": "archive",
@@ -36,6 +36,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20040730235954/http://www.modnet.com.au:80/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190623075811/http://modnet.com.au/",
+          "label": "23 Jun 2019 still serving the original ModNet ISP portal"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20200306100436/http://modnet.com.au/",
+          "label": "By 6 Mar 2020 the site was reduced to a one-line host placeholder"
         }
       ]
     }

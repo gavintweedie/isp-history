@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 1999,
-      "date_disp": "c. 1999",
+      "year": 2003,
+      "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Sold to OzEmail; PowerUp split and WebCentral was formed."
+      "details": "Sold to OzEmail; PowerUp split and WebCentral was formed. The PowerUp brand survived the 1998/2000 OzEmail takeovers and was still served in Oct 2003, so death is c. 2003 — later than both the current 1999 and the proposed 1999-2000.",
+      "refs": [
+        {
+          "kind": "press",
+          "url": "https://www.afr.com/politics/turnbull-buys-ozemails-prize-asset-20000331-k9cag",
+          "label": "AFR, 31 Mar 2000: OzEmail took 100% of PowerUp (55% bought 1998) but kept operating the brand."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20031001074500id_/http://www.powerup.com.au/",
+          "label": "The PowerUp-branded homepage was still being served on 1 Oct 2003 under OzEmail; no 2004+ content captures."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20100505021257id_/http://www.powerup.com.au/",
+          "label": "By May 2010 the domain 301'd to iiNet (iiNet acquired OzEmail in 2005)."
+        }
+      ]
     }
   ],
   "refs": [

@@ -25,7 +25,24 @@
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Corporate arm wound down after WorldCom bankruptcy."
+      "details": "Corporate arm wound down after WorldCom bankruptcy. Both current and proposal converge on c. 2003; verified: AU site redirecting from 2002 and UUNET folded into MCI branding in 2003.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20010925174046id_/http://uunet.com.au:80/",
+          "label": "Last real UUNET Australia homepage Sep 2001."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=uunet.com.au&output=json&collapse=timestamp:6&limit=120",
+          "label": "Australian site reduced to redirects from Apr 2002."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20030608173354id_/http://www.uunet.com/",
+          "label": "Jun 2003: UUNET demoted to an MCI wholesale sub-brand after WorldCom collapse - end of UUNET as a distinct provider."
+        }
+      ]
     }
   ],
   "refs": [

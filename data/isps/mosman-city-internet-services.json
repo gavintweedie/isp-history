@@ -38,10 +38,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. mid-2002",
-      "precision": "approx",
-      "details": "Last successful Wayback capture of bb.com.au on 28 May 2002; no captures thereafter."
+      "year": 1999,
+      "date_disp": "by Oct 1999",
+      "precision": "by",
+      "details": "Last successful Wayback capture of bb.com.au on 28 May 2002; no captures thereafter. The Mosman ISP identity left bb.com.au in 1999 (redirecting to NetPro by Oct 1999), earlier than both the current c.mid-2002 and the c.2000 proposal. redirected to NetPro.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990418060011/http://www.bb.com.au/",
+          "label": "18 Apr 1999 last Mosman-branded retail ISP homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991012135404/http://bb.com.au/",
+          "label": "By 12 Oct 1999 bb.com.au simply redirected to NetPro; Jun 2000 still 'Welcome to Netpro Express!' frameset"
+        }
+      ]
     }
   ],
   "refs": [

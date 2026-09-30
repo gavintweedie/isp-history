@@ -37,10 +37,27 @@
     },
     {
       "kind": "death",
-      "year": 2021,
-      "date_disp": "by Dec 2021",
-      "precision": "by",
-      "details": "Last Wayback capture of emunet.com.au on 2 Dec 2021."
+      "year": 2000,
+      "date_disp": "c. 2000-01",
+      "precision": "approx",
+      "details": "Last Wayback capture of emunet.com.au on 2 Dec 2021. Proposal's 'substantive 2007 site' is Keevill Inc's developer page, not ISP content; branded ISP presence ended c.2000-01 and the domain was non-ISP by Aug 2006.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20001018050822/http://www.emunet.com.au/",
+          "label": "last Emunet-branded homepage, 18 Oct 2000 (same design 1998-2000)"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20060819211932/http://emunet.com.au/",
+          "label": "by 19 Aug 2006 the domain was web-developer Keevill Inc's Drupal client demo/login page — no ISP content (also true of the brief's 'substantive' Aug 2007 captur"
+        },
+        {
+          "kind": "abn",
+          "url": "https://abr.business.gov.au/ABN/View?id=20074937027",
+          "label": "company deregistered Sep 2022; domain 403 by Dec 2021"
+        }
+      ]
     }
   ],
   "refs": [

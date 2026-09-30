@@ -41,7 +41,7 @@
       "year": 2010,
       "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "ISP services wound down; company continues as cloud computing and IT consultancy (QV.1 data centre, GoPC.net cloud platform).. Ceased as an ISP — company still trades as an IT/cloud consultancy in West Perth; no internet-access products since ~2010..",
+      "details": "ISP services wound down; company continues as cloud computing and IT consultancy (QV.1 data centre, GoPC.net cloud platform).. Ceased as an ISP — company still trades as an IT/cloud consultancy in West Perth; no internet-access products since ~2010.. ISP descriptor vanished between Jan 2009 and the Aug 2010 rebrand pitch: ISP arm wound down c. 2010 while the company survives.",
       "refs": [
         {
           "kind": "official",
@@ -52,6 +52,21 @@
           "kind": "archive",
           "url": "http://web.archive.org/web/20250623163339/https://central-data.net/",
           "label": "Jun 2025 archive capture shows the same IT-services business; company continues but the ISP arm is gone (recorded c.2010)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090117091804if_/http://www.central-data.net/",
+          "label": "ISP services still part of the pitch in Jan 2009"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20100819224749if_/http://central-data.net/",
+          "label": "by Aug 2010 the site is cloud/hosting/IT-services only, with no ISP offering"
+        },
+        {
+          "kind": "archive",
+          "url": "https://www.central-data.net/",
+          "label": "the company still operates today in IT/cloud - survival on non-ISP business does not extend the ISP death"
         }
       ]
     }

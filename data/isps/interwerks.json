@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2021,
+      "date_disp": "c. 2021-22",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. ISP retail homepage archived into Dec 2021 with final captures Feb 2022 then total silence and an unreachable domain today — c. 2021-22 as proposed (the ABN died in 2015 while the site mouldered on).",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20210303164045/http://interwerks.net.au/",
+          "label": "Full retail ISP homepage live 3 Mar 2021 (2021-02-23 identical, revisit 8 Dec 2021); ADSL2/broadband/bundles pages and broadband appform PDFs still 200 during J"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=interwerks.net.au&matchType=domain&output=json&from=2022&limit=300",
+          "label": "Final Wayback trace of the domain is 19 Feb 2022; site is unreachable in 2026."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View/21097460270",
+          "label": "Company ABN actually cancelled Oct 2015 — the frozen ISP site outlived the registered company by years (page frozen since Feb 2012)."
+        }
+      ]
     }
   ],
   "refs": [

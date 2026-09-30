@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2016,
-      "date_disp": "c. 2016",
+      "year": 2009,
+      "date_disp": "early 2009",
       "precision": "approx",
-      "details": "Deregistered (ASIC notice Dec 2015)."
+      "details": "Deregistered (ASIC notice Dec 2015). Reynolds Technology Services migrated all ISP services to Bam Creative/Bekkers in early 2009; the 2015-2016 dates only track the zombie domain.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20100113112520id_/http://www.reynolds.net.au/",
+          "label": "The ISP's own notice: all internet access/IT went to Bekkers and hosting/design to Bam Creative - migration completed early 2009."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20150227093624id_/http://reynolds.net.au/",
+          "label": "By Feb 2015 the domain simply served Bam Creative - successor agency, not the ISP."
+        }
+      ]
     },
     {
       "kind": "note",

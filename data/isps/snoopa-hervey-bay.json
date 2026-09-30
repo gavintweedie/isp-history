@@ -44,10 +44,22 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2006,
+      "date_disp": "by Aug 2006",
+      "precision": "by",
+      "details": "Defunct. Domain went redirect-only from 19 Aug 2006, so c. 2006 (proposal) is evidenced while c. 2008 (current) has none.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "http://web.archive.org/web/20050123214008id_/http://snoopa.com.au/",
+          "label": "Jan 2005 the domain was just an H-Sphere hosting control panel - hosting box alive but no retail homepage is ever archived."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=snoopa.com.au&output=json&collapse=digest&limit=80",
+          "label": "Permanent 301 redirects from 19 Aug 2006 onward (only one blank 200 since, Dec 2021) - domain dead as a retail site by Aug 2006."
+        }
+      ]
     }
   ],
   "refs": [

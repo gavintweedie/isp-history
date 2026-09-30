@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct by ~2003 (no sale recorded)."
+      "details": "Defunct by ~2003 (no sale recorded). The homepage still pitched ISP services in Feb 2006 and was an SEO business by Nov 2006 — death c. 2006, so both the current and proposed c. 2003 dates are too early.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060209012100/http://www.academy.net.au/",
+          "label": "9 Feb 2006: homepage title still sells the business as an Adelaide ISP."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20061107081642/http://www.academy.net.au/",
+          "label": "By 7 Nov 2006 the homepage identity was an SEO/web business (same page persists at the live domain in 2026 — non-ISP survival does not extend ISP death)."
+        }
+      ]
     }
   ],
   "refs": [

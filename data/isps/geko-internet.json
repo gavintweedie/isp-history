@@ -23,9 +23,26 @@
     {
       "kind": "death",
       "year": 2002,
-      "date_disp": "c. 2002",
+      "date_disp": "c. 2001-02",
       "precision": "approx",
-      "details": "Acquired by Hotkey Internet Services."
+      "details": "Acquired by Hotkey Internet Services. Geko-branded ISP homepage last archived May 2001; geko.com.au had become a Hotkey-branded frame by ~Mar 2002, matching the c. 2001-02 absorption proposal. absorbed by Hotkey Internet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010516020144/http://www.geko.com.au/",
+          "label": "May 2001: homepage still titled 'Geko Internet' with Geko support/sales/'check your usage' sections - last Geko-branded capture."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020305/http://www.geko.com.au/ie.htm",
+          "label": "The geko.com.au homepage (JS redirector from 2002-01-26 per CDX) framed a fully Hotkey-branded site ('Join HOTKEY today') by early Mar 2002."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030623135137/http://www.geko.com.au/",
+          "label": "By Jun 2003 the domain openly served the Hotkey splash; Geko branding never returned."
+        }
+      ]
     }
   ],
   "refs": [

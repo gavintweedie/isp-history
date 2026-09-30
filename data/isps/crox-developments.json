@@ -25,12 +25,29 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2008,
+      "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Exited telecoms/ISP c.2010 (brand rode Anittel's AS7631); the underlying Crockett Family Trust itself did not die.",
+      "details": "Exited telecoms/ISP c.2010 (brand rode Anittel's AS7631); the underlying Crockett Family Trust itself did not die. Crox merged into Accord on 1 Jan 2008 and the brand was dropped 15 Sep 2008 — the ISP/telecoms line died in 2008; the 2009-10 redirect/parking is aftermath, so neither 2010 value is right.",
       "source": [
         "https://abr.business.gov.au/ABN/View?abn=34173885987"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20071130015537/http://www.crox.com.au/",
+          "label": "Last Crox-branded homepage, 30 Nov 2007"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20080621091510/http://www.crox.com.au/",
+          "label": "Merger effective 1 Jan 2008 announced on the site itself"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20081225044015/http://crox.com.au/",
+          "label": "Crox brand dropped 15 Sep 2008; domain only 302/403 from Sep 2009"
+        }
       ]
     },
     {

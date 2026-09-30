@@ -40,10 +40,22 @@
       "year": 2012,
       "date_disp": "c. 2012",
       "precision": "approx",
-      "details": "Homepage still 'Welcome to BFM Telecoms' through Jul 2010; by Feb 2012 replaced with an 'On Hold Message'; domain a HostGator default parking page by 2018.",
+      "details": "Homepage still 'Welcome to BFM Telecoms' through Jul 2010; by Feb 2012 replaced with an 'On Hold Message'; domain a HostGator default parking page by 2018. Retail site live Jul 2010, replaced by an explicit 'BFM is not running' on-hold notice by Feb 2012 - supports c. 2012 within the Jul 2010-Feb 2012 window.",
       "source": [
         "https://web.archive.org/web/20120221183654id_/http://www.bfm.net.au/",
         "https://web.archive.org/web/20180803215721id_/http://www.bfm.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20100727111644id_/http://www.bfm.net.au:80/",
+          "label": "full retail page (phone/internet/hosting plans, sign-up links) on 27 Jul 2010"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120221183654id_/http://www.bfm.net.au/",
+          "label": "on-hold notice already up by 21 Feb 2012"
+        }
       ]
     }
   ],

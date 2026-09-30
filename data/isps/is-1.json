@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2002,
+      "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. IS-1 branding ended between May 2002 and Sep-Nov 2002 when the homepage became MyISP — c. 2002 as proposed.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20020528064845/http://www.is-1.net.au/",
+          "label": "Homepage still IS-1-branded 28 May 2002."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20021130121116/http://is-1.net.au/",
+          "label": "By 30 Nov 2002 is-1.net.au served the MyISP Internet retail site with no IS-1 branding at all; the rebrand completed in late 2002."
+        }
+      ]
     }
   ]
 }

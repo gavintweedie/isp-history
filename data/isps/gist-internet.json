@@ -32,7 +32,24 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010926201445/http://www.gist.net.au/",
+          "label": "Last live (HTTP 200) capture of the ISP-era static homepage (1999 title: 'Global Link Internet Services & Training')."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020524102527/http://www.gist.net.au/",
+          "label": "From May 2002 the homepage 302-redirected into a new ASP.NET site."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060819005922/http://www.gist.net.au/",
+          "label": "The replacement site (already live by 2002) is purely PC sales/repair - no internet access services; death window Sep 2001-May 2002."
+        }
+      ]
     }
   ],
   "refs": [

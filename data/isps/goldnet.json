@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2015,
-      "date_disp": "c. 2015",
+      "year": 2000,
+      "date_disp": "c. 1999-2000",
       "precision": "approx",
-      "details": "Final end of the GoldNet brand."
+      "details": "Final end of the GoldNet brand. goldnet.com.au stopped showing any GoldNet retail-ISP content between Feb 1999 and Sep 2000 (not c. 2015 as both current and proposal claim); the successor company is alive at gold.net.au as a carrier, so the entity is flagged still-active while the retail ISP died c. 2000. retail ISP base passed to Origin Internet; company survives as a carrier.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19990125095651/http://www.goldnet.com.au/",
+          "label": "Jan/Feb 1999: last GoldNet-branded retail-ISP captures on the domain (CDX shows Origin Internet occupying it next)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000917085714/http://www.goldnet.com.au/",
+          "label": "By 17 Sep 2000 goldnet.com.au served Bendigo-based Origin Internet (which was absorbing regional ISPs); the domain later became an SA gold-trading site (2005-11"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View/42127052493",
+          "label": "Company (registered Aug 2007) still active."
+        },
+        {
+          "kind": "official",
+          "url": "https://gold.net.au/",
+          "label": "Business still trades from gold.net.au (Perth/Kalgoorlie) as an enterprise telecom carrier - not a retail ISP."
+        }
+      ]
     }
   ],
   "refs": [

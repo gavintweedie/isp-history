@@ -25,12 +25,29 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2018,
+      "date_disp": "c. 2018",
       "precision": "approx",
-      "details": "ISP exit (site became MyDesktop real-estate software only by Feb 2011); holding company COMMERCE HOLDINGS PTY LTD remains registered/active on ABR (active from 14 Jun 2000).",
+      "details": "ISP exit (site became MyDesktop real-estate software only by Feb 2011); holding company COMMERCE HOLDINGS PTY LTD remains registered/active on ABR (active from 14 Jun 2000). Site served ISP clients right up to its last-ever capture, 16 Apr 2018, then vanished - c. 2018 promoted over the c. 2010 current value.",
       "source": [
         "https://abr.business.gov.au/ABN/View?abn=70009215865"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20180416115252if_/http://www.ca.com.au/setup/index.shtml",
+          "label": "ISP services for existing ADSL/broadband/dialup clients still referenced in Apr 2018"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20180416115252/http://www.ca.com.au/",
+          "label": "final capture of the site, 16 Apr 2018 (capture range 4 Feb 1998 - 16 Apr 2018); the site has no archive record at all after this date"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=70009215865",
+          "label": "holding company remains registered - the death is that of the ISP operation/site, not the company"
+        }
       ]
     }
   ],

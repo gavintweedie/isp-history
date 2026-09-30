@@ -31,9 +31,21 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Same 'AngelNET Internet' homepage captured unchanged Dec 2003 - Jan 2005; no captures 2005-2013, then the domain returns only redirects/errors (301 in 2013, 403 in 2014-16, 500 in 2021) - parked/dead by 2013.",
+      "details": "Same 'AngelNET Internet' homepage captured unchanged Dec 2003 - Jan 2005; no captures 2005-2013, then the domain returns only redirects/errors (301 in 2013, 403 in 2014-16, 500 in 2021) - parked/dead by 2013. Both current and proposal say c. 2005; replayed evidence confirms the ISP was alive mid-2005 and the window to 2013 is otherwise empty. last live retail 29 Jul 2005; unrelated 'angelmail' site by Apr 2013.",
       "source": [
         "https://web.archive.org/cdx/search/cdx?url=angelnet.com.au&output=json (digest RQH6GM5EHQS4LXT3JMG3KTVFXIOWEGWZ across 2003-2005; 301/403/500 from 2013)"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050729085635/http://www.angelnet.com.au/",
+          "label": "Retail ISP fully live 29 Jul 2005 — pushing back on any pre-2005 death"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130409085759/http://www.angelnet.com.au/",
+          "label": "Domain serves unrelated 'angelmail' service by Apr 2013; probes confirm zero captures between Jul 2005 and Apr 2013, so last-live anchoring is the only datable "
+        }
       ]
     },
     {

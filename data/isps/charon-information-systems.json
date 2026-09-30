@@ -42,13 +42,25 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "charon.net.au still served the live 'Welcome to Charon Internet' ISP homepage (dialup + web hosting + broadband) at the 13 Feb 2008 capture; the domain had become a 301 redirect by the next capture (Feb 2012), so retail ended c.2008-2011.",
+      "details": "charon.net.au still served the live 'Welcome to Charon Internet' ISP homepage (dialup + web hosting + broadband) at the 13 Feb 2008 capture; the domain had become a 301 redirect by the next capture (Feb 2012), so retail ended c.2008-2011. Retail ISP site replaced by a content-farm comparison page during 2006 - earlier than the proposed c. 2008-2011 (the Feb 2008 'last live ISP capture' was actually this content farm).",
       "source": [
         "https://web.archive.org/web/20080213152708id_/http://charon.net.au/",
         "https://web.archive.org/cdx/search/cdx?url=charon.net.au&output=json"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051216104543if_/http://www.charon.net.au/",
+          "label": "genuine retail ISP homepage on 16 Dec 2005 (footer last-modified 30 Apr 2002)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20061231053021if_/http://www.charon.net.au/",
+          "label": "by 31 Dec 2006 the domain was an 'ISP comparison' SEO content page, not Charon's own ISP operation"
+        }
       ]
     },
     {

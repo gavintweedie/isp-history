@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "c. 2011-13",
+      "year": 2016,
+      "date_disp": "c. 2016",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Site live to early 2016, broken by Oct 2016, company ABN cancelled Aug 2017 — c. 2016 as proposed (the c. 2011-13 entry is too early).",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20160109233724/http://jbo.com.au/",
+          "label": "Full telco site live 9 Jan 2016 (identical content served since late 2014)."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20161007042620/http://jbo.com.au/",
+          "label": "By 7-8 Oct 2016 the site only emitted broken-Joomla SQL errors (final captures 8 Oct 2016); no later captures and domain unreachable in 2026."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View/85089726358",
+          "label": "Company ABN cancelled 30 Aug 2017, ten months after the site died."
+        }
+      ]
     }
   ]
 }

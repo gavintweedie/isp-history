@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Last branded homepage Dec 2000 and dead by May 2004; c. 2001 matches the convention better than 2002 (current) or 'by 2004' (proposal).",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20001207005000id_/http://www.synflux.com.au/",
+          "label": "Last branded ISP homepage (frameset shell), 7 Dec 2000; no captures at all 2001-03."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20040521190152id_/http://www.synflux.com.au/",
+          "label": "By 21 May 2004 the server returned Alexa's dead-crawl error page - site empty/down."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20130423054417id_/http://synflux.com.au",
+          "label": "From 2013 the domain was reused for generic filler/parked content - unrelated to the ISP; does not extend its life."
+        }
+      ]
     }
   ],
   "refs": [

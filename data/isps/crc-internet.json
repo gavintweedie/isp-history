@@ -32,7 +32,24 @@
       "year": 2001,
       "date_disp": "c. 2000-01",
       "precision": "approx",
-      "details": "Pivoted to web hosting/design; ISP wound down."
+      "details": "Pivoted to web hosting/design; ISP wound down.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20000229235435/http://www.crc.net.au/",
+          "label": "Last ISP-branded homepage, 29 Feb 2000"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20001211081500/http://www.crc.net.au/",
+          "label": "Site rebranded to Krystal Computing by 11 Dec 2000"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20020331121831/http://www.crc.net.au/",
+          "label": "Web-design/hosting content only through 2002 (non-retail-ISP); domain later reused by the WA Community Resource Centres network"
+        }
+      ]
     },
     {
       "kind": "note",

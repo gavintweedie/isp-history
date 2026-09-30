@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2007",
+      "year": 2010,
+      "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Highstream was alive Nov 2009 and a bare directory index by Feb 2011 with no captures between; the c. 2010 proposal correctly spans that gap (and fixes the current c. 2007). live site Nov 2009; bare Apache index by Feb 2011.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20091101000000/http://www.highstream.net.au/",
+          "label": "Last live capture (Nov 2009): VoIP/broadband reseller business fully operational."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110205000000/http://www.highstream.net.au/",
+          "label": "By Feb 2011 only an empty Apache directory listing remains; no captures exist in the intervening gap, so c. 2010 stands."
+        }
+      ]
     }
   ],
   "refs": [

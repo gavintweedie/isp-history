@@ -41,6 +41,16 @@
           "kind": "official",
           "url": "https://abr.business.gov.au/ABN/View?id=059156875",
           "label": "Company survives but not as an ISP — placeholder domain confirms internet business abandoned"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20050306134903/http://www.integral.net.au/",
+          "label": "ISP-branded homepage; the last branded version is archived 6 Sep 2005 before the placeholder era."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20081121203731/http://www.integral.net.au/",
+          "label": "By 21 Nov 2008 the homepage was a bare CSS-demo placeholder (unchanged to 2025; domain sits on US HostMonster with junk subdomains in 2023+)."
         }
       ]
     }

@@ -25,12 +25,24 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2003,
+      "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Defunct; substantial homepage through 1999, minimal placeholder by 2000-01, redirect from 2006.",
+      "details": "Defunct; substantial homepage through 1999, minimal placeholder by 2000-01, redirect from 2006. Blue Planet was demonstrably operational into late Jan 2003 and redirected to Eftel by Feb 2005, so death is c. 2003, not c. 2001.",
       "source": [
         "https://web.archive.org/web/20010201061500/http://bluep.com/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030128001741if_/http://bluep.com/index.asp",
+          "label": "fully operating retail site (pricing/plans, join-now, news dated 26 Jan 2003) - contradicts a c. 2001 death"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050203015915/http://www.bluep.com/",
+          "label": "domain redirected into Eftel by 3 Feb 2005 (Lexicon/Eftel orbit); 2004-era capture of www.bluep.com is already a bare refresh stub"
+        }
       ]
     },
     {

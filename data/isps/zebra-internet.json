@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
+      "year": 2009,
+      "date_disp": "c. 2009",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Current c.2006 is wrong - Zebra Internet was demonstrably retailing ADSL through Dec 2008-Sep 2009 (last retail ISP homepage 12 Sep 2009); per the last-retail-homepage convention death is c.2009 (proposal's c.2010 cannot be distinguished by any capture before 2023), and the live 2026 site is a revival by a different operator. last ISP homepage Sep 2009. zebrainternet.com.au returned from Dec 2024 as a revival by the unrelated Ultimate Communication Solutions Pty Ltd (UltimateBroadband) — does not extend this record.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20090912041625id_/http://zebrainternet.com.au/",
+          "label": "Last genuine retail ISP homepage for the original Zebra Internet operation, 12 Sep 2009."
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/1107550",
+          "label": "Confirms the ISP was trading into early 2009 and was already going unresponsive by Mar 2009; thread then dies."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=zebrainternet.com.au&output=json&collapse=digest&limit=400",
+          "label": "No Wayback captures at all between Sep 2009 and Aug 2023, i.e. the original ISP site simply vanished; hard evidence cannot separate 2009 from 2010."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20241227210529id_/https://zebrainternet.com.au/",
+          "label": "Domain revived by a different operator (Ultimate Communication Solutions) showing UltimateBroadband branding in Dec 2024."
+        }
+      ]
     }
   ],
   "refs": [

@@ -25,10 +25,27 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000s",
-      "precision": "approx",
-      "details": "Original ISP gone; domain reused by Kempsey operator from 2015."
+      "year": 1998,
+      "date_disp": "by Dec 1998",
+      "precision": "by",
+      "details": "Original ISP gone; domain reused by Kempsey operator from 2015. Best-supported death is by Dec 1998 (folded to Microplex/Optus), tightening both the current 'c. 2000s' and the proposal's 2000 endpoint beside its c. 1998-2000 range. AUSNet homepage redirected to Microplex's home.mpx.com.au; Optus had acquired Microplex in May 1998; domain served Optus Internet by May 2000.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19981212022953/http://www.ausnet.net.au/",
+          "label": "By 12 Dec 1998 AUSNet's own homepage was a plain pointer to Microplex — the brand's independent web presence ended here"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.afr.com/politics/microplex-buy-gives-optus-bigger-internet-focus-19980525-k82yy",
+          "label": "AFR 25 May 1998: the host AUSNet moved to was itself swallowed by Optus in 1998"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000520072539/http://www.ausnet.net.au/",
+          "label": "By May 2000 ausnet.net.au served an Optus Internet portal — original ISP fully absorbed"
+        }
+      ]
     },
     {
       "kind": "note",

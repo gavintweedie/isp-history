@@ -240,3 +240,13 @@ Phase 2 (structural — need user's explicit call):
 10. Cross-reference sentences for the 7 cluster pairs lacking them; APANA exception note.
 
 Left flagged for further review (no guessing): betem, connected-australia (birth); patash nuance (resolved as dead-as-ISP); adsl-4-you entity; 14 unresolved transitions (incl. 4 APANA formation edges); 6 unresolved ACNs; one-earth Chariot/ihug reconciliation detail; ~177 low deaths + ~441 un-mined leaves (future dedicated passes).
+
+## N. Low-confidence vague-death verification (204) — APPLIED
+
+Re-verified all held low-confidence deaths with replayed evidence (Wayback captures opened, ABR/ASIC, press). Verdicts: 82 promote, 75 adjust, 35 keep-current, 12 unresolved.
+- 157 death dates applied/changed with evidence refs; 35 confirmed values gained refs only.
+- Resurrected (verified by direct live-site checks): tech-info, esc-internet, norfolk-island-data-services.
+- Kept dead: total-network-support (survival claim unreproducible), gtbnet (operator VoIP-only, noted), zebra-internet (unrelated 2024 revival, noted).
+- Headline corrections incl. hotkey 2004->c. 2019; midcoast-internet 2000->Dec 2022; netline 2024->2004; exact: planet-ozi 7 Feb 2019, elders 1 Aug 2008, compuserve-pacific 31 Aug 2007, ourworld-global-network 1 Jun 1998, hb-australasia 18 Nov 2002.
+- New edge leads recorded for later: crox->Accord (Jan 2008), commnet->The Planet Internet (Jun 2002), officelink-plus->BigAir (Oct 2016), ram-network-services->IntraPower (Mar 2008), reachnet->IPSTAR rebrand (2023), is-1->MyISP, hc-internet->HugoNet; EscapeNet's login welcomes Teleron/Planet Ozi/Click & Motion/Australia Broadband books.
+- Still flagged: 12 unresolved deaths; goldnet record tangle (ISP vs carrier share ACN 127 052 493); northcoast-internet possible bad record; lets-go dual history.

@@ -25,7 +25,19 @@
       "year": 1999,
       "date_disp": "c. 1999",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/1999id_/http://swiftlink.net.au/",
+          "label": "Branded ISP homepage in 1999."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=swiftlink.net.au&matchType=domain&output=json&collapse=timestamp:6&fl=timestamp,original,statuscode&limit=60",
+          "label": "ALL content captures are Dec 1998 - Oct 1999; afterwards only a single robots.txt fetch in 2003 and nothing ever again."
+        }
+      ]
     }
   ]
 }

@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2007",
-      "precision": "approx",
-      "details": "ISP business wound down (~2007-08)."
+      "year": 2012,
+      "date_disp": "by Feb 2012",
+      "precision": "by",
+      "details": "ISP business wound down (~2007-08). Last branded homepage Dec 2004, domain forbidden by Feb 2012 and later just an SBS server default - 'by Feb 2012' is the hard upper bound.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20041212075444id_/http://www.quicknet.com.au/",
+          "label": "Last branded ISP homepage, 12 Dec 2004 (title-only splash)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=quicknet.com.au&output=json&collapse=digest&limit=100",
+          "label": "No captures 2005-2011; first 403 on 21 Feb 2012."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20130504130607id_/http://quicknet.com.au/",
+          "label": "May 2013 serves a Windows SBS 2003 default page - domain reduced to a server stub."
+        }
+      ]
     }
   ],
   "refs": [

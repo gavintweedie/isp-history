@@ -24,10 +24,32 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "HoloHost/Nella Networks became Nella Telecommunications, which separated out from Beretvale c.2004; Beretvale later deregistered."
+      "year": 2005,
+      "date_disp": "by Nov 2005",
+      "precision": "by",
+      "details": "HoloHost/Nella Networks became Nella Telecommunications, which separated out from Beretvale c.2004; Beretvale later deregistered. Proposal confirmed: the Beretvale/Nella ISP web presence last stood as a retail Nella Telecommunications homepage on 15 Jun 2005 (ABN footer matches) and was a Plesk placeholder by 5 Nov 2005, with the domain turning to the unrelated Comvergence by Feb 2007 - death by Nov 2005 (site-gone), replacing the too-early c.2004.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20050615034831id_/http://nella.net.au/",
+          "label": "Last retail homepage of the Beretvale-successor Nella Telecommunications operation (SmartVoice VoIP plus internet services T&Cs), 15 Jun 2005 - current c.2004 i"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20051105020458id_/http://www.nella.net.au/",
+          "label": "By 5 Nov 2005 the ISP web presence was gone (Plesk placeholder), exactly the proposal's bracket."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20070217074755id_/http://www.nella.net.au/",
+          "label": "From Feb 2007 the domain hosted Comvergence, a different company (founded 2005); non-Nella survival on the domain does not extend Beretvale/Nella's death."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=64108689541",
+          "label": "Corporate/administrative wind-up trails the web-presence death by ~3 years; site-level evidence (placeholder Nov 2005) governs the 2005 death."
+        }
+      ]
     },
     {
       "kind": "note",

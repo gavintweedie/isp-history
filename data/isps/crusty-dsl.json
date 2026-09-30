@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2009",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. The real Crusty DSL shopfront was replaced by a domain-forward stub between 19 Aug and 26 Sep 2006; the 2006-2014 'presence' cited in the proposal was only that stub.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060819222009/http://www.crustydsl.com.au/",
+          "label": "Last full retail ISP homepage, 19 Aug 2006"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060926115956/http://www.crustydsl.com.au/",
+          "label": "Bare domain-forward stub by 26 Sep 2006 — retail site gone"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=crustydsl.com.au&output=json&from=2010&to=2023",
+          "label": "Stub (later forwarding to Milnsbridge IT, same 1300 300 293) lingered to May 2014; it was never the retail site again"
+        }
+      ]
     }
   ],
   "refs": [

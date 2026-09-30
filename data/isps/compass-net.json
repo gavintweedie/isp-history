@@ -32,6 +32,23 @@
       "source": [
         "https://web.archive.org/web/20130601000000/http://www.compassnet.com.au/",
         "https://abr.business.gov.au/ABN/View?abn=93149872944"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060912121919/http://www.compassnet.com.au/",
+          "label": "ISP site structure live Sep 2006 (uncollapsed CDX: last capture 18 Sep 2006)"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=compassnet.com.au&output=json&from=2004&to=2011",
+          "label": "Archive silence after Sep 2006 despite regular 2004-06 captures"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20100908110644/http://www.compassnet.com.au/",
+          "label": "Domain reused by unrelated marine-rescue org by Sep 2010"
+        }
       ]
     }
   ],

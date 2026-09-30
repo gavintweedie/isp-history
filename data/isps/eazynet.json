@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2013,
-      "date_disp": "c. 2013",
+      "year": 2002,
+      "date_disp": "c. 2001-02",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. No archived ISP content after Jan 2002; 'by 2013' only dates the domain's departure; ISP homepage effectively ended c.2001-02 (archive silent until the 2013 reuse).",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20010928040143/http://eazy.net.au/",
+          "label": "full retail ISP page (EazyNet, 155 Walter Rd Dianella Perth WA), 28 Sep 2001"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20020120020631/http://www.eazy.net.au/",
+          "label": "last branded capture, 20 Jan 2002"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20130408081045/http://eazy.net.au/",
+          "label": "domain pointed at an unrelated interpreting business by Apr 2013"
+        }
+      ]
     }
   ],
   "refs": [

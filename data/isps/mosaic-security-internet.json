@@ -25,7 +25,19 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Renamed Qwestcom; defunct ~2004."
+      "details": "Renamed Qwestcom; defunct ~2004. The Mosaic Security and Internet Services brand disappeared from its domain between Apr 2001 and Jan 2002, confirming the c.2001 proposal. rebranded Qwestcom.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010401181901/http://www.atlaswest.com.au/",
+          "label": "1 Apr 2001 atlaswest.com.au still carried the Mosaic ISP identity"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020109141101/http://www.atlaswest.com.au/",
+          "label": "By 9 Jan 2002 the same domain had become Qwestcom; last Qwestcom capture Oct 2003"
+        }
+      ]
     }
   ],
   "refs": [

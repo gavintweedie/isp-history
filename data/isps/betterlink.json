@@ -32,13 +32,30 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Homepage content changed through Sep 2002; the Jun 2003 capture ('Betterlink Internet Service') then persists byte-identical to 2017, indicating retail wound down c. 2003 with the site frozen thereafter.",
+      "details": "Homepage content changed through Sep 2002; the Jun 2003 capture ('Betterlink Internet Service') then persists byte-identical to 2017, indicating retail wound down c. 2003 with the site frozen thereafter. The ISP actually ran at betterlink.net (updated as late as 2004-05), so c. 2003 is too early; retail homepage last confirmed Mar 2005, domain parked by Oct 2016 -> death c. 2005.",
       "source": [
         "https://web.archive.org/web/20030621153245id_/http://www.beterlnk.com.au/",
         "https://web.archive.org/web/20020926025234id_/http://www.beterlnk.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020926200033if_/http://www.beterlnk.com.au/",
+          "label": "beterlnk.com.au already redirected to betterlink.net in Sep 2002; later frameset alone proves nothing about death"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050306151155if_/http://www.betterlink.net/",
+          "label": "retail ISP homepage live 6 Mar 2005, with phone number changed since the 2004 capture, so still maintained into 2004-05"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20161001185450/http://betterlink.net/",
+          "label": "domain was Sedo parked by Oct 2016"
+        }
       ]
     }
   ],

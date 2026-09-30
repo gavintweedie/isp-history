@@ -25,12 +25,34 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2000,
+      "date_disp": "c. 2000-01",
       "precision": "approx",
-      "details": "Last 'Computers On The Run' homepage capture Mar 2000; still listed in the Cynosure ISP directory to Jun 2005; ontherun.com.au taken over by On The Run (Peregrine Corporation) convenience stores by Aug 2006. The earlier 'defunct ~Dec 2014' reflected the unrelated convenience-store site.",
+      "details": "Last 'Computers On The Run' homepage capture Mar 2000; still listed in the Cynosure ISP directory to Jun 2005; ontherun.com.au taken over by On The Run (Peregrine Corporation) convenience stores by Aug 2006. The earlier 'defunct ~Dec 2014' reflected the unrelated convenience-store site. Last retail ISP homepage archived 2 Mar 2000, followed by six years of total capture silence and re-use by the OTR convenience chain from Jan 2006 — best death estimate is c. 2000-01, not 2005.",
       "source": [
         "https://web.archive.org/web/20060820130015/http://www.ontherun.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20000302032627/http://www.ontherun.com.au/",
+          "label": "Last archived retail ISP homepage, 2 Mar 2000"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=ontherun.com.au&output=json&collapse=digest&limit=200",
+          "label": "Six-year archive silence implies the site itself was gone, not merely uncrawled (regular captures 1998-2000 and 2006+)"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060106132152/http://www.ontherun.com.au/",
+          "label": "By Jan 2006 the domain served the unrelated SA On The Run convenience chain"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20041215234243/http://www.cynosure.com.au/isp/ontherun",
+          "label": "Cynosure listing persisted to mid-2005 but is non-discriminative: ALL Cynosure ISP entries end mid-2005 (directory horizon), incl. long-dead ISPs"
+        }
       ]
     }
   ],

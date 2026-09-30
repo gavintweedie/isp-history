@@ -25,7 +25,24 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Last live ISP capture Feb 2005 with no captures afterward and the operator ABN cancelled 1 Jan 2007 - c. 2005 verified.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20050204204307id_/http://www.wondernet.com.au/",
+          "label": "Fully live retail ISP homepage 4 Feb 2005 (last of only four captures)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=wondernet.com.au&output=json&collapse=digest&limit=120",
+          "label": "Site already failing late Jan 2005 and gone after Feb 2005."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=73693040117",
+          "label": "Operator ABN cancelled 1 Jan 2007, shortly after the site vanished (linkage plausible but not independently proven)."
+        }
+      ]
     }
   ],
   "refs": [

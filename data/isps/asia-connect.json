@@ -38,9 +38,21 @@
       "year": 2002,
       "date_disp": "c. 2001-02",
       "precision": "approx",
-      "details": "Frameset splash last changed 2001; thereafter an identical placeholder frameset was captured unchanged through 2006 (site abandoned, not maintained).",
+      "details": "Frameset splash last changed 2001; thereafter an identical placeholder frameset was captured unchanged through 2006 (site abandoned, not maintained). Proposal/current agree on c. 2001-02 and the replayed captures support 'never a maintained retail site in the archive record' — domain now fails DNS. homepage an abandoned empty 'AsiaConnect.com.au' splash from first capture May 2001 through Aug 2007.",
       "source": [
         "https://web.archive.org/web/20040206103053/http://www.asiaconnect.com.au/ (identical placeholder, digest unchanged 2002-2006)"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010516034509/http://www.asiaconnect.com.au/",
+          "label": "Even the first capture (16 May 2001) is a content-free splash page"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070830095430/http://www.asiaconnect.com.au/",
+          "label": "Unchanged splash through Aug 2007 confirms an abandoned rather than operating ISP site from ~2001-02"
+        }
       ]
     }
   ],

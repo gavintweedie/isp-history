@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2000,
+      "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Foxgold Communications stopped being an ISP in 2000 (services transferred to YOURasp); the 2010-2013 dates describe the domain's later corporate-card/school-splash life.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.techpartner.news/feature/reseller-profile-yourasp-the-host-with-the-most-169194",
+          "label": "TechPartner reseller profile (Mar 2010): ISP transferred to YOURasp in 2000"
+        },
+        {
+          "kind": "official",
+          "url": "https://au.linkedin.com/in/alexanderliffers",
+          "label": "career record corroborates the 2000 ISP shutdown"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20060507022839/http://www.foxgold.net.au/",
+          "label": "by 2006 (and identically Feb 2012) the site listed property/MSP/licensing services — no ISP offering; Lesmurdie SHS splash by Apr 2013"
+        }
+      ]
     }
   ],
   "refs": [

@@ -39,10 +39,27 @@
     },
     {
       "kind": "death",
-      "year": 2014,
-      "date_disp": "c. 2014",
+      "year": 2011,
+      "date_disp": "c. Jun 2011",
       "precision": "approx",
-      "details": "Brand absorbed into the Anittel web; parent entity cancelled 2014."
+      "details": "Brand absorbed into the Anittel web; parent entity cancelled 2014. Absorbed into Anittel and the operating company deregistered ~Jun 2011 per ASIC gazette A027/11 - both current and proposal (2014) are too late.",
+      "refs": [
+        {
+          "kind": "admin",
+          "url": "https://download.asic.gov.au/media/4981203/a027_11.pdf",
+          "label": "ASIC gazette of 5 Apr 2011 lists Silver Telecom Pty Ltd (ACN 110 105 667) for deregistration in two months - company deregistered ~Jun 2011, not 2014."
+        },
+        {
+          "kind": "replay",
+          "url": "http://web.archive.org/web/20110404033110/http://www.silvertelecom.com.au/",
+          "label": "By Apr 2011 only a residual support page (prior evidence) - brand already absorbed."
+        },
+        {
+          "kind": "official",
+          "url": "https://www.peeringdb.com/asn/7631",
+          "label": "PeeringDB confirms Silver Telecom became part of Anittel's network (later Superloop)."
+        }
+      ]
     }
   ],
   "refs": [

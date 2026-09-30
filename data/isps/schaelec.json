@@ -25,7 +25,19 @@
       "year": 2006,
       "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "http://web.archive.org/web/20060423175406id_/http://www.schaelec.com.au/",
+          "label": "Full retail ISP homepage 23 Apr 2006 - the last."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20070829071753id_/http://schaelec.com.au/",
+          "label": "Already a Plesk placeholder by 29 Aug 2007 (the Jul 2008 capture in the proposal shares this digest)."
+        }
+      ]
     }
   ],
   "refs": [

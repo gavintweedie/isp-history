@@ -32,10 +32,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 2004)."
+      "year": 2016,
+      "date_disp": "by Oct 2016",
+      "precision": "by",
+      "details": "Last Wayback capture of own domain (c. 2004). Proposal's 2016-2017 window confirmed and sharpened to 'by Oct 2016' (site parked); the D&M ABN cancellation in Sep 2017 is the corporate full-stop. site retail — rebranded 'Aussielinx' — on 11 Aug 2015; 'Coming Soon' parked by 2 Oct 2016; original operator D&M Technologies deregistered 30 Sep 2017.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20150811103742/http://www.aussieisp.com/",
+          "label": "Last live retail capture (11 Aug 2015), now operating under the Aussielinx name — the ISP outlived the current 'c. 2004' death by a decade"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20161002100558/http://aussieisp.com/",
+          "label": "Parked by 2 Oct 2016; no captures exist between Aug 2015 and Oct 2016, so the end falls in that window"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=67095128966",
+          "label": "Original Blakehurst NSW operator (business name 'Aussie Internet Service Providers' 2001-04) formally deregistered 30 Sep 2017 — matches the proposal's corporat"
+        }
+      ]
     }
   ],
   "refs": [

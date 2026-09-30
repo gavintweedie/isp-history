@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2024,
+      "date_disp": "c. 2024",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Hi-Speed kept claiming 'Internet Service Provider (ISP)' services until the site broke in late 2023/2024, so the proposal's c. 2024 is promoted; the 2004 current date only marked the last dialup-era design refresh. site began returning HTTP 404; ISP status claimed until 2023.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20201202092207/http://hi-speed.net.au/",
+          "label": "Dec 2020: live site still listing ISP services alongside IT/security work."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20230303041510/https://hi-speed.net.au/",
+          "label": "Mar 2023: site still live with the same ISP service claims (CDX shows 200s through 5 Apr 2023)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20231021113549/https://hi-speed.net.au/",
+          "label": "From 21 Oct 2023 the homepage returns 404; CDX shows a continuous run of 404s/301s through 2024-2025 - the site died between Apr and Oct 2023, i.e. effectively "
+        }
+      ]
     }
   ]
 }

@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. The 2010-13 proposal relied on a zombie: the homepage still sold Samford dial-up in Jan 2006 but had become a computer shop by Apr 2007, so the ISP died c. 2006 (current c. 2005 is slightly early).",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20060101024017id_/http://isx.com.au/",
+          "label": "1 Jan 2006 entrance page still marketing Samford Internet dial-up/hosting - last ISP-facing homepage."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20070405102437id_/http://www.isx.com.au/",
+          "label": "By 5 Apr 2007 the homepage was a computer shop/internet lounge - non-ISP activity, which does not extend ISP death."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=isx.com.au&output=json&collapse=digest&limit=100",
+          "label": "One-word 'ISX' stub by Jul 2008; 403 by Apr 2017 - nothing ISP after 2006."
+        }
+      ]
     }
   ],
   "refs": [

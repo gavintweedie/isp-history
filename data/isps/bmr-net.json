@@ -25,13 +25,25 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2001-02",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Acquired by C&N/CNN Internet (Techcel); homepage live to Apr 2001, collapsed to a stub by Mar 2002.",
+      "details": "Acquired by C&N/CNN Internet (Techcel); homepage live to Apr 2001, collapsed to a stub by Mar 2002. Retail site died between Apr and Dec 2001 on the CNN Internet (Techcel) takeover, so late 2001 rather than c. 2001-02.",
       "source": [
         "https://web.archive.org/web/20010404062723/http://www.bmr.net.au/",
         "https://web.archive.org/web/20020324084136/http://bmr.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010429153557if_/http://www.bmr.net.au/",
+          "label": "full retail ISP homepage live 29 Apr 2001"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20011201000000id_/http://www.bmr.net.au/",
+          "label": "by Dec 2001 (and again Mar 2002) the domain was only a meta-refresh to the CNN Internet webmail login - webmail-only = dead"
+        }
       ]
     }
   ],

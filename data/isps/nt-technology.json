@@ -29,10 +29,27 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2004,
+      "date_disp": "c. 2004-05",
       "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 2003)."
+      "details": "Last Wayback capture of own domain (c. 2003). Last explicitly ISP-branded homepage is Jun 2004; by Jun 2005 the site is an IT reseller with support contracts, so the retail ISP died c. 2004-05 — earlier than the proposed 2009 and later than the current 2003.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20040611100204id_/http://www.nt-tech.com.au/",
+          "label": "Jun 2004 homepage still bills the firm as Katherine's ISP (same splash as Dec 2003)."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20050615041052id_/http://www.nt-tech.com.au/services.htm",
+          "label": "By 15 Jun 2005 the redesigned site (built Mar 2004) is a generic IT-services business with webmail but no retail internet plans."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20091029120835id_/http://nt-tech.com.au/internet-access.html",
+          "label": "Oct 2009: internet access sold only as a Telstra BigPond dealer (plus own 'NomadNet' Wi-Fi hotspots), i.e. reseller not ISP."
+        }
+      ]
     }
   ],
   "refs": [

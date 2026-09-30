@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2008,
+      "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Last retail ISP homepage Aug 2007; Goldlink-branded web-dev firm (c) 2008 by Sep 2009 - proposal's c. 2008 fits; company continued as non-ISP which does not extend death. domain repurposed to web development.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070829221351/http://goldlink.com.au/",
+          "label": "Aug 2007: still a live retail ISP (internet plans, phone, webmail)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090912053209/http://www.goldlink.com.au/",
+          "label": "By Sep 2009 the domain is purely a web-design firm; its 2008 copyright stamp points to a 2008 pivot (capture-free gap Aug 2007-Sep 2009)."
+        }
+      ]
     }
   ],
   "refs": [

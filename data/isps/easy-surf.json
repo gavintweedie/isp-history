@@ -36,6 +36,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20090912164614/http://www.easysurf.com.au/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20040131204239/http://www.easysurf.com.au/",
+          "label": "last retail ISP homepage, 31 Jan 2004"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20161002092205/http://easysurf.com.au/",
+          "label": "the proposal's Oct 2016 evidence dates the domain's death, not the ISP's"
         }
       ]
     }

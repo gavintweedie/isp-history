@@ -34,15 +34,35 @@
     },
     {
       "kind": "death",
-      "year": 2019,
-      "date_disp": "by May 2019",
-      "precision": "by",
-      "details": "Wayback captures show HTTP 200 content through 03 May 2019 — over 20 years of operation; domain subsequently parked.",
+      "year": 2003,
+      "date_disp": "c. 2003",
+      "precision": "approx",
+      "details": "Wayback captures show HTTP 200 content through 03 May 2019 — over 20 years of operation; domain subsequently parked. ISP retail page last seen Sep 2002 and homepage was webmail-only by Jun 2004; c. 2003 is the honest death year, well before either previous estimate.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/20190503154319/http://www.widebay.net.au/",
           "label": "Wide Bay Internet — last capture 3 May 2019"
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20020925213035id_/http://widebay.net.au:80/",
+          "label": "Fully live retail ISP homepage 25 Sep 2002 (last)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20040607002500id_/http://widebay.net.au/",
+          "label": "By Jun 2004 the homepage is a webmail-only redirect - dead per convention (webmail-only = dead)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20130409070919id_/http://widebay.net.au/",
+          "label": "Domain for-sale/parking by Apr 2013, refuting both current (by May 2019) and proposal (c.2012)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20190503154319id_/http://widebay.net.au/",
+          "label": "Still a parked for-sale page in May 2019 - the current 'by May 2019' date was just the last parking capture."
         }
       ]
     }

@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2015,
-      "date_disp": "c. 2015",
+      "year": 2023,
+      "date_disp": "c. early 2023",
       "precision": "approx",
-      "details": "No longer live."
+      "details": "No longer live. Reachnet's retail ISP brand died in the rebrand to IPSTAR Broadband between Oct 2022 and Feb 2023, not 2015 (current) or 2024 (proposal).",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20221025060848id_/https://reachnet.com.au/",
+          "label": "Last full Reachnet retail homepage, 25 Oct 2022."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20230223141136id_/https://reachnet.com.au/",
+          "label": "By 23 Feb 2023 the retail brand had been replaced by a rebrand notice (the same notice in the proposal's May 2024 capture - it was never a 'live' retail page)."
+        },
+        {
+          "kind": "admin",
+          "url": "https://www.abn-lookup.com/firm/ipstar-australia-pty-ltd-107338901/",
+          "label": "ABR business names for IPSTAR Australia Pty Ltd: IPSTAR Broadband name registered 25 May 2023; Reachnet name lingered on as a trading name only."
+        }
+      ]
     }
   ],
   "refs": [

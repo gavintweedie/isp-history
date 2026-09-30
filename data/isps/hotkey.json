@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2019,
+      "date_disp": "c. 2019",
       "precision": "approx",
-      "details": "Brand wound down after last acquisitions (still a Primus subsidiary)."
+      "details": "Brand wound down after last acquisitions (still a Primus subsidiary). HotKey kept selling broadband/dialup until its site was blanked between early 2019 and 25 Aug 2019, exactly matching the c. 2019 proposal. full retail ISP site into early 2019; homepage blanked by Aug 2019.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20160109000000/http://www.hotkey.net.au/",
+          "label": "Jan 2016 (and again through 2018/early 2019): full retail broadband ISP site, refuting the current c. 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190825000000/http://www.hotkey.net.au/",
+          "label": "By 25 Aug 2019 the homepage is an entirely blank HTML shell; CDX then shows only sporadic 302s - the brand had been wound down under Primus/M2/Vocus."
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
+      "year": 2022,
+      "date_disp": "Dec 2022",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Ecopost's Midcoast/Mid North Coast Internet was absorbed into Central Connect (Coull Network) with the Dec 2022 merger; the domain redirected to the successor by late 2023.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20160310134646/http://midcoast.com.au/kallos",
+          "label": "Same operator (Ecopost) still retailing NBN/ADSL on midcoast.com.au in 2016"
+        },
+        {
+          "kind": "official",
+          "url": "https://centralconnect.com.au/welcome-to-mid-coast-internet-clients/",
+          "label": "Merger announcement dated 1 Dec 2022"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20231129120825/http://midcoast.com.au/",
+          "label": "By Nov 2023 midcoast.com.au meta-refreshes to Central Connect"
+        }
+      ]
     }
   ],
   "refs": [

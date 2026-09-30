@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2000,
+      "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Gone (last ISP-era capture Mar 2000)."
+      "details": "Gone (last ISP-era capture Mar 2000). Last verifiable live ISP page is mid-2000; both cur (2002) and prop (2001) sit slightly beyond the record, so 2000 is the best-supported year. last live ISP homepage Mar-Jun 2000; no captures 2001-2015, domain later re-registered.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000302001615/http://www.aisl.com.au/",
+          "label": "Live retail ISP homepage; probes for 2001, 2003 and 2006 all resolve to this Mar 2000 capture, i.e. no later captures exist"
+        },
+        {
+          "kind": "archive",
+          "url": "https://aisl.com.au/",
+          "label": "Live check 29 Sep 2026: domain now serves an unrelated college site — the ISP is long gone"
+        }
+      ]
     }
   ],
   "refs": [

@@ -25,7 +25,19 @@
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20060620175025/http://www.regionalinternet.com.au/",
+          "label": "Homepage 302-redirected into its own store Mar 2006 - Feb 2007; store sold RAWNET/RAW2PLUS broadband plans (archived Aug 2006)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=regionalinternet.com.au&output=json&fl=timestamp,original,statuscode&limit=20",
+          "label": "Last live redirect 2 Feb 2007; the Sep 2009+ '200' rows share digest 3I42H3S6... = Wayback robots-block placeholder, so the proposal's 'last capture Sep 2009' i"
+        }
+      ]
     }
   ],
   "refs": [

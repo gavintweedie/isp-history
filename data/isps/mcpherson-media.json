@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "ISP arm wound down."
+      "year": 2017,
+      "date_disp": "by Feb 2017",
+      "precision": "by",
+      "details": "ISP arm wound down. The McMedia/McPherson Media ISP identity died when mcmedia.com.au rebranded to Goulburn Valley Telco between Aug 2016 and Feb 2017.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20160808110514/http://www.mcmedia.com.au/",
+          "label": "Aug 2016 still fully McMedia/McPherson Media branded retail telco site"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20170204082949/http://mcmedia.com.au/",
+          "label": "By 4 Feb 2017 the site had become Goulburn Valley Telco (Bendigo Telco group)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.australiacheck.com/vic/mcpherson-newspapers-proprietary",
+          "label": "ABN history shows the McMedia business name dropped in 2017"
+        }
+      ]
     }
   ],
   "refs": [

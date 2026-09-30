@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2019,
+      "date_disp": "by Mar 2019",
+      "precision": "by",
+      "details": "Defunct. Applying the last-retail-homepage convention: the frozen Miracom ISP homepage survived to Mar 2019; the c.2009 business stall is real but the homepage outlived it. site frozen from c.2009.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20190306191126/http://www.miracom.com.au/",
+          "label": "The same Miracom retail ISP homepage was still being served at the last capture, 6 Mar 2019"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20081227031140/http://www.miracom.com.au/",
+          "label": "Site unchanged from c.2009 onwards, so the business plainly wound down around 2009 but the homepage never disappeared before 2019"
+        }
+      ]
     }
   ],
   "refs": [

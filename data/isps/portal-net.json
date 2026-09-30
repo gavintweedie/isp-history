@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2000,
+      "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Last captures ~2001."
+      "details": "Last captures ~2001. portal.net.au was absorbed into iHug/iweb between Jun and Aug 2000, so the ISP died c. 2000; the 2011 'portal site' was an unrelated US company's domain.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20000611213814id_/http://www.portal.net.au/",
+          "label": "Live retail ISP homepage on 11 Jun 2000."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20000818174947id_/http://www.portal.net.au/",
+          "label": "By 18 Aug 2000 the domain meta-refreshed into iHug/iweb; CDX shows 301s/parking from 2002 onward."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20030321021857id_/http://portal.net/",
+          "label": "portal.net (no .au) belonged to Portal Software, Inc. of Cupertino — the prior 2011 evidence tracked the wrong company's domain."
+        }
+      ]
     }
   ],
   "refs": [

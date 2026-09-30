@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
-      "precision": "approx",
-      "details": "Site redirected to shoponline.com.au; wound down."
+      "year": 2004,
+      "date_disp": "by 2004",
+      "precision": "by",
+      "details": "Site redirected to shoponline.com.au; wound down. With iNature-branded content last archived May 2001 and ShopOnline occupying the domain by Dec 2004, the 'by 2004' proposal is promoted over the current c. 2005. domain folded into ShopOnline Australia.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20010515205001/http://www.inature.com.au/",
+          "label": "May 2001: last iNature-branded capture (an e-commerce/web-solutions company, not visibly selling internet access as early as 1998-2000)."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20041213230556/http://www.inature.com.au/",
+          "label": "By 13 Dec 2004 the domain serves/forwards the ShopOnline Australia directory (later Crazy Domains parked) - iNature identity gone."
+        }
+      ]
     }
   ],
   "refs": [

@@ -25,7 +25,24 @@
       "year": 2008,
       "date_disp": "c. 2007-08",
       "precision": "approx",
-      "details": "Acquired by Blitz Telecom."
+      "details": "Acquired by Blitz Telecom.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20070628044853id_/http://www.wix.com.au:80/",
+          "label": "Standalone ISP retail page live 28 Jun 2007 (Baulkham Hills NSW)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20080702062725id_/http://www.wix.com.au:80/",
+          "label": "By 2 Jul 2008 the homepage is a Blitz Webmail login - webmail-only = dead per convention."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20120109072808id_/http://wix.com.au/",
+          "label": "Domain later re-skinned as AINS Telecommunications (Jan 2012) - separate reuse, not Wix survival."
+        }
+      ]
     }
   ],
   "refs": [

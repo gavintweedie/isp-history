@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "Jul 2004",
-      "precision": "approx",
-      "details": "Absorbed into the Perth ispX, formed early July 2004 from Starwon Internet, Karratha Internet and Netserv Connect."
+      "year": 2017,
+      "date_disp": "by Sep 2017",
+      "precision": "by",
+      "details": "Absorbed into the Perth ispX, formed early July 2004 from Starwon Internet, Karratha Internet and Netserv Connect. The Starwon-branded homepage survived to ~2016 and the domain became Planet Ozi by Sep 2017 - the domain-level death, per proposal; retail content had thinned to a splash years earlier.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20160101id_/http://www.starwon.com.au/",
+          "label": "Branded homepage (admittedly a thin splash since ~2008) still in place into 2016; same content in Feb 2012."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20170912102020id_/http://starwon.com.au/",
+          "label": "By 12 Sep 2017 the domain served the Planet Ozi homepage - same umbrella consolidation as RegionalConnect that month."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=starwon.com.au&output=json&collapse=digest&limit=120",
+          "label": "Domain 403s by Dec 2021; the reported 2004 ispX absorption remains unverified in press and the branded site demonstrably outlived it."
+        }
+      ]
     }
   ],
   "refs": [

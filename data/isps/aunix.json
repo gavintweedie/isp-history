@@ -32,10 +32,27 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
+      "year": 2021,
+      "date_disp": "c. 2021-22",
       "precision": "approx",
-      "details": "Defunct; aunix.com.au still captured through Dec 2011 but no longer a live retail ISP site."
+      "details": "Defunct; aunix.com.au still captured through Dec 2011 but no longer a live retail ISP site. Both current (c. 2008) and proposal (c. 2018) are wrong: AuNix kept selling NBN plans into 2020-21 and its operator's ABN cancelled 1 Oct 2021. retail NBN/ADSL2 site live to Jul 2021; operator ABN cancelled 1 Oct 2021; webmail-only portal by May 2023.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20200811235635/https://aunix.net.au/",
+          "label": "The Nov 2018 302 of aunix.com.au → aunix.net.au was a domain migration, not a death — the new WP retail ISP site sold NBN/ADSL plans through at least Aug 2020 ("
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=69621500909",
+          "label": "Operator entity (name shown on the AuNix site) deregistered 1 Oct 2021 — the actual death trigger"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20230531001100/http://aunix.net.au/",
+          "label": "By May 2023 the site was reduced to webmail/member-login only — dead by the retail convention; same state today (2026)"
+        }
+      ]
     },
     {
       "kind": "note",

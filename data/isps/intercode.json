@@ -25,7 +25,19 @@
       "year": 2003,
       "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Company site Jun 2002, personal page by Oct 2003 — c. 2003 as proposed.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20020601203653/http://www.intercode.com.au/",
+          "label": "Company-branded page 1 Jun 2002."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20031008154432/http://www.intercode.com.au/",
+          "label": "By 8 Oct 2003 the domain was a personal notice page; the ISP-era site had ended (later reuse by an unrelated InterCode site 2014+, and an unrelated IT business "
+        }
+      ]
     }
   ]
 }

@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2019,
-      "date_disp": "c. 2019",
+      "year": 2025,
+      "date_disp": "c. 2025",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Retail ISP site alive May 2025 and erroring by Oct 2025, with ABN cancelled Aug 2026; service death c. 2025 sits between current (2019) and proposal (2026).",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20250524031739id_/https://thesignalco.com.au/",
+          "label": "Fully live retail ISP homepage 24 May 2025."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=thesignalco.com.au&output=json&collapse=digest&limit=150&from=20250801",
+          "label": "Site collapses between May and Oct 2025."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=34610880496",
+          "label": "Company ABN cancelled 27 Aug 2026 (confirmed) - administrative follow-through after the service died."
+        }
+      ]
     }
   ],
   "refs": [

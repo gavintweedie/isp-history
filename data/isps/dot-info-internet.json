@@ -31,6 +31,18 @@
       "details": "Defunct; dotinfointernet.com.au only ever captured as a 302 redirect (to mainintro.aspx), last seen 5 Jan 2007.",
       "source": [
         "http://web.archive.org/cdx/search/cdx?url=dotinfointernet.com.au"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060820054901/http://www.dotinfointernet.com.au/",
+          "label": "Live ISP landing splash, 20 Aug 2006"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20070320231259/http://dotinfointernet.com.au/",
+          "label": "By 20 Mar 2007 the domain redirected to the Dot Info Hosting brand; only 5 captures exist in total"
+        }
       ]
     }
   ],

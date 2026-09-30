@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2003,
+      "date_disp": "by 2003",
+      "precision": "by",
+      "details": "Defunct. iNFiNET branding last archived Mar 2001 (already stale since 1999) and Australia Connect occupied the domain by Nov 2003, promoting 'by 2003' over the current c. 2001. domain rebranded as Australia Connect.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20010307120959/http://www.infinet.net.au/",
+          "label": "Mar 2001: last iNFiNET-branded capture (a stale (c) 1996-1997 page unchanged since Feb 1999)."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20031124030716/http://www.infinet.net.au/",
+          "label": "By 24 Nov 2003 infinet.net.au served the Australia Connect brand - no iNFiNET mention; rebrand occurred within Mar 2001-Nov 2003."
+        }
+      ]
     }
   ],
   "refs": [

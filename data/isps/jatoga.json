@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Wound down."
+      "details": "Wound down. The retail ISP face ended during 1999-2000: full ISP site Apr 1999, holding notice Dec 2000, personal site from Sep 2002 — wind-down c. 2001, between the current c. 2002 and proposed c. 2003.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/19990424165620/http://www.jatoga.net.au/",
+          "label": "Last full retail ISP homepage, 24 Apr 1999."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20001212022600/http://www.jatoga.net.au/",
+          "label": "By 12 Dec 2000 the homepage was a 'being revitalised' holding notice; from Sep 2002 it was the operator's personal site (JMF Personal) with only webmail links, "
+        }
+      ]
     }
   ],
   "refs": [

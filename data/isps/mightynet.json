@@ -25,7 +25,19 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050311143616/http://www.mightynet.com.au/",
+          "label": "11 Mar 2005 live ISP homepage with signup links"
+        },
+        {
+          "kind": "archive",
+          "url": "https://archive.org/wayback/available?url=mightynet.com.au&timestamp=20150101",
+          "label": "No captures of the domain exist after Mar 2005; it dropped out of the archive"
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2014,
+      "date_disp": "by 2014",
+      "precision": "by",
+      "details": "Defunct. HugoNet's retail ISP site (on the https hostname after 2009) survived until 2013 and the domain showed Oracle Telecom by 2014, so death is adjusted to by 2014 - not 2008 (current) or 2009 (proposal). site rebranded to Oracle Telecom.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130601000000/https://www.hugonet.com.au/",
+          "label": "2013 capture: still a complete retail ISP (broadband/VoIP/dialup plans), not gone in 2008-09 as both current and proposal claim."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20150701000000/https://www.hugonet.com.au/",
+          "label": "The June 2014 and July 2015 captures serve Oracle Telecom with no HugoNet branding; the http root already ran SSL/301 redirects from Oct 2013 (CDX)."
+        }
+      ]
     }
   ],
   "refs": [

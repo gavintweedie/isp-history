@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. ISP homepage last seen Jan 2006 and domain Sedo-parked by Sep 2007; c. 2006 (proposal) verified over c. 2005.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20060104182805id_/http://www.triode.com.au:80/",
+          "label": "Live retail ISP homepage 4 Jan 2006 (Blakehurst NSW)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20070903162546id_/http://triode.com.au/",
+          "label": "Sedo parking page by 3 Sep 2007."
+        }
+      ]
     }
   ],
   "refs": [

@@ -40,6 +40,18 @@
         "https://web.archive.org/web/20080718202427id_/http://www.cynergic.net.au/",
         "https://web.archive.org/web/20130408071642id_/http://cynergic.net.au/",
         "https://web.archive.org/web/20140114020152/http://cynergic.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20130522204846/http://cynergic.net.au/",
+          "label": "Last full ICT/ISP homepage, 22 May 2013"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20140114020152/http://cynergic.net.au/",
+          "label": "Domain redirects to the .net successor by 14 Jan 2014"
+        }
       ]
     }
   ],

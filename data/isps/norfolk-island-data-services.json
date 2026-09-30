@@ -2,7 +2,7 @@
   "name": "Norfolk Island Data Services",
   "slug": "norfolk-island-data-services",
   "birthplace": "Norfolk Island",
-  "status": "inactive",
+  "status": "active",
   "website": "https://ni.net",
   "summary": "Norfolk Island's ISP (ni.net.nf online by Dec 1998); fate unverified (NIDS PTY LIMITED (Norfolk Island entity), ABN 53 843 802 983).",
   "names": [
@@ -28,11 +28,23 @@
       ]
     },
     {
-      "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (live site retailing internet services); earlier death record removed.",
+      "refs": [
+        {
+          "kind": "live-web",
+          "url": "https://www.norfolkislanddataservices.com/",
+          "label": "NIDS's real retail site is live today (checked 29 Sep 2026); it also runs the .nf ccTLD registry (nic.nf)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.nirc.gov.au/Corporate-finance/Norfolk-Telecom",
+          "label": "NIDS is a separate private ISP; ni.net.nf/NiNet is the government Norfolk Telecom, not NIDS — both the brief's 'ni.net' and the proposal's rebrand-to-Norfolk-Te"
+        }
+      ]
     }
   ],
   "refs": [

@@ -31,6 +31,23 @@
       "details": "ISP division sold to Westnet (later iiNet group) c.2003; the Comswest International Pty Ltd parent continued as corporate IT&T / enterprise services.",
       "source": [
         "https://www.itnews.com.au/news/iinet-acquires-westnet-for-81-million-170763"
+      ],
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=14067587508",
+          "label": "Entity wound up from late 2003: ABN cancelled Jan 2004, de-branded Feb 2005, liquidation Apr 2005"
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/3rvj77yr",
+          "label": "User lineage Atlas Global Net -> Comswest -> Westnet; LinkedIn CV: 'Alphawest purchased Comswest and sold the ISP division to Westnet'"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=comswest.com.au&output=json&collapse=digest&limit=200",
+          "label": "Domain essentially unarchived after Feb 1999 — no site trace to pin a later date"
+        }
       ]
     }
   ],

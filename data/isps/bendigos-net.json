@@ -25,7 +25,7 @@
       "year": 2007,
       "date_disp": "by Jul 2007",
       "precision": "by",
-      "details": "Defunct.",
+      "details": "Defunct. Proposal (== current) 'by Jul 2007' promoted: hard evidence shows guide-mode by Jun 2003 and a still-listed ISP brand in Jul 2007; applies to the ISP brand/service, not the domain. bwc.com.au running as 'Bendigo Web Central' city guide; guide-mode on record since at least Jun 2003; still listing 'Bendigos.Net - ISP' Jul 2007.",
       "refs": [
         {
           "kind": "archive",
@@ -36,6 +36,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20070709093132/http://bwc.com.au/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030621161725/http://www.bwc.com.au/",
+          "label": "City-guide content on the domain as early as 21 Jun 2003 — the ISP-to-guide transition substantially predates 2007"
+        },
+        {
+          "kind": "archive",
+          "url": "http://bwc.com.au/",
+          "label": "Live check 29 Sep 2026: even the city guide has since closed"
         }
       ]
     }

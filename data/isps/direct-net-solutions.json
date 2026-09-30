@@ -25,12 +25,29 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Brand reportedly succeeded by AustralianIT (unverified); directnet.com.au held a small static holding page 2002-2004, with minor placeholder captures through Aug 2007.",
+      "details": "Brand reportedly succeeded by AustralianIT (unverified); directnet.com.au held a small static holding page 2002-2004, with minor placeholder captures through Aug 2007. The branded ISP homepage was still live and dynamically dated 5 Apr 2001 and was a bare Apache listing by 20 Jul 2001 — death is c. 2001, not 2005.",
       "source": [
         "http://web.archive.org/cdx/search/cdx?url=directnet.com.au"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20010405051147/http://www.directnet.com.au/",
+          "label": "Last branded homepage — dynamically dated, so genuinely live 5 Apr 2001"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20010720185707/http://www.directnet.com.au/",
+          "label": "Bare directory listing by 20 Jul 2001 — site gone"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20020525024118/http://www.directnet.com.au/",
+          "label": "Company placeholder 2002; domain promoted 'AustralianIT Hosting' by Aug 2006"
+        }
       ]
     }
   ],

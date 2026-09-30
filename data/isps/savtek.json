@@ -25,7 +25,19 @@
       "year": 2005,
       "date_disp": "c. 2004-05",
       "precision": "approx",
-      "details": "Closed ~2004-05."
+      "details": "Closed ~2004-05.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20030621101225/http://www.savtek.net/",
+          "label": "Australian Savtek site still operating 21 Jun 2003 (redirect into its own /home pages)."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20080212113929id_/http://www.savtek.net/",
+          "label": "By 12 Feb 2008 the domain served an unrelated Russian construction firm - the AU ISP was dead well before; window Jun 2003 - Feb 2008 brackets c. 2004-05."
+        }
+      ]
     }
   ],
   "refs": [

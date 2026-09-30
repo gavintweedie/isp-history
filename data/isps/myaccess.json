@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "2005",
+      "year": 2009,
+      "date_disp": "c. 2009",
       "precision": "approx",
-      "details": "Acquired by Datafast Telecommunications/Eftel in 2005 (listed among Eftel's 2005 ISP acquisitions).",
+      "details": "Acquired by Datafast Telecommunications/Eftel in 2005 (listed among Eftel's 2005 ISP acquisitions). The MyAccess brand actually left its homepage between Dec 2008 and Sep 2009, earlier than the proposal's 2009-2011 window. MyAccess homepage gone by Sep 2009.",
       "refs": [
         {
           "kind": "news",
@@ -36,6 +36,16 @@
           "kind": "news",
           "url": "https://www.theage.com.au/business/eftel-buys-aanet-doubles-its-money-but-not-its-profit-20060715-ge2pyr.html",
           "label": "The Age Jul-2006: MyAccess among ISPs Eftel acquired in prior two years"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20081221144923/http://myaccess.com.au/",
+          "label": "21 Dec 2008 myaccess.com.au still served the MyAccess-branded ISP homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090913000649/http://www.myaccess.com.au/",
+          "label": "By 13 Sep 2009 the homepage was fully EFTel-branded (contrary to the proposal's 'still MyAccess in Sep 2009')"
         }
       ]
     }

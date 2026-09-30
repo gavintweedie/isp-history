@@ -29,10 +29,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2003-04",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Live ISP homepage 2 May 2001, reduced to 'under construction' by 22 Jan 2002, domain for sale by mid-2003; c.2003-04 was too late.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20010502091519/http://www.downunder.net.au/",
+          "label": "last live branded ISP homepage, 2 May 2001"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20020122073948/http://downunder.net.au/",
+          "label": "ISP site gone by 22 Jan 2002"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20030612025402/http://www.downunder.net.au/",
+          "label": "domain on the market by Jun 2003; by Apr 2005 reused by a migration-services business"
+        }
+      ]
     }
   ],
   "refs": [

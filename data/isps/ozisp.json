@@ -41,6 +41,16 @@
           "kind": "official",
           "url": "https://abr.business.gov.au/ABN/View?id=003434277",
           "label": "Owner company survives as an IT/ERP services firm, not an ISP"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "http://web.archive.org/web/20171026153047id_/https://www.ozisp.com.au/",
+          "label": "OzISP's own homepage carried an explicit customer notice dated 28 Sep 2017 announcing withdrawal of internet services."
+        },
+        {
+          "kind": "official",
+          "url": "https://www.ozisp.com.au/",
+          "label": "Today the domain serves the Uniware parent's ERP/managed-IT site, so 'still active' refers to the parent, not the ISP; retail ISP ended 28 Sep 2017."
         }
       ]
     }

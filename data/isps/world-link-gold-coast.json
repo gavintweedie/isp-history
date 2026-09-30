@@ -25,7 +25,24 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Gold Coast ISP page last live Apr 1999, 404 by Mar 2000, later reuse unrelated - c. 2000 verified.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/19990421234745id_/http://www.worldlink.com.au/",
+          "label": "Live retail ISP homepage 21 Apr 1999 (last)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20000304151741id_/http://www.worldlink.com.au/",
+          "label": "Confirmed 404 by 4 Mar 2000."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20130409080805id_/http://worldlink.com.au/",
+          "label": "2013+ captures are unrelated Crazy Domains parking/reuse."
+        }
+      ]
     }
   ],
   "refs": [

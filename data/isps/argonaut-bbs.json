@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "by Sep 2008",
-      "precision": "by",
-      "details": "Defunct.",
+      "year": 2009,
+      "date_disp": "c. 2009",
+      "precision": "approx",
+      "details": "Defunct. Both current (by 2008) and proposal (by 2018) are wrong as death dates; dial-up retail verified Oct 2009, gone (redirected) by Jun 2018 — argo.net.au today 301s to https://jazi.net/. last live dial-up retail 30 Oct 2009; domain 301s to Key Internet by Jun 2018.",
       "refs": [
         {
           "kind": "archive",
@@ -36,6 +36,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20080905170251/http://argo.net.au/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20091030134432/http://home.argo.net.au/",
+          "label": "Live Argonaut retail dial-up page 30 Oct 2009 — disproves the current 'by Sep 2008' death"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20180608072915/http://argo.net.au/",
+          "label": "Next capture of argo.net.au (8 Jun 2018) is a 301 to key.net.au; zero captures of argo.net.au/home.argo.net.au exist between Oct 2009 and Jun 2018, so the true "
         }
       ]
     }

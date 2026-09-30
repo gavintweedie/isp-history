@@ -23,16 +23,33 @@
         {
           "kind": "official",
           "url": "https://www.delisted.com.au/company/harvestroad-limited/",
-          "label": "deListed Australia: HarvestRoad Limited (ASX:HRD) \u2014 listed 7 Sep 1999"
+          "label": "deListed Australia: HarvestRoad Limited (ASX:HRD) — listed 7 Sep 1999"
         }
       ]
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Web-services arm gone; later e-learning software."
+      "year": 2000,
+      "date_disp": "by 2000",
+      "precision": "by",
+      "details": "Web-services arm gone; later e-learning software. No archived harvestroad.com.au capture ever shows a retail ISP; the pivot to software was complete by 2000 (enterprise content management by 2001-02), so both c. 2003 figures are ~3 years late; the later Giunti/Guilford corporate survival does not extend ISP death. site already a pure software company; ISP/web-services arm gone.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/19991012140256/http://harvestroad.com.au/",
+          "label": "From the earliest viewable capture (also Dec 1998) the site describes a software company (WebNOW!/PropertyLIVE!) - no retail internet access offering."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20001116222400/http://www.harvestroad.com.au/",
+          "label": "Aug 2000-Apr 2001: homepage reduced to a bare brand splash with no services at all."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020530170938/http://www.harvestroad.com.au/",
+          "label": "By May 2002 (and through the 2003-04 captures relied on by the current/proposal dates) the site was purely enterprise content-management/e-learning software."
+        }
+      ]
     },
     {
       "kind": "note",

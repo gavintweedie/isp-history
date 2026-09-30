@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 1997,
-      "date_disp": "c. 1997",
-      "precision": "approx",
-      "details": "Last Wayback capture of own domain (c. 1997)."
+      "year": 2009,
+      "date_disp": "by Jun 2009",
+      "precision": "by",
+      "details": "Last Wayback capture of own domain (c. 1997). Both c.1997 (current) and c.2000-02 (proposal) are wrong: NPGX ran actively through 2008 and its homepage became a GitGo Hosting redirect by Jun 2009. redirected to gitgohosting.com.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050615040634/http://www.npgx.com.au/npgx",
+          "label": "NPGX was actively operating in 2004-05 — the 'frozen since Jun 2000' welcome.htm was just a legacy page"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080621200022/http://www.npgx.com.au/",
+          "label": "21 Jun 2008 last NPGX-branded capture"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090612104407/http://npgx.com.au/",
+          "label": "By 12 Jun 2009 the domain redirected to GitGo Hosting; by 2015 to ostech.com.au; control-panel placeholder by 2019"
+        }
+      ]
     }
   ],
   "refs": [

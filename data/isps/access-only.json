@@ -41,6 +41,18 @@
       "details": "The full retail homepage was still being captured through 27 Oct 2009 (with intermittent 404s/parked stubs), so the ISP operated far later than the previously listed ~2006; defunct c.2009-2010.",
       "source": [
         "Wayback CDX for accessonly.com.au (retail homepage through Oct 2009): http://web.archive.org/cdx/search/cdx?url=accessonly.com.au"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20091030055515/http://www.accessonly.com.au/",
+          "label": "Retail ISP homepage live 30 Oct 2009 (Turramurra NSW operation)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130518163626/http://accessonly.com.au/",
+          "label": "Bare directory index by May 2013; probes confirm zero captures between Oct 2009 and Apr 2013, so no tighter date exists — current value anchored to last-live is"
+        }
       ]
     }
   ],

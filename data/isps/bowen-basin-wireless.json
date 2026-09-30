@@ -32,6 +32,18 @@
       "source": [
         "https://web.archive.org/web/20130408000000/http://www.bowenbasin.com.au/",
         "https://web.archive.org/web/20241219000000/http://www.bowenbasin.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080829050134if_/http://bowenbasin.com.au/",
+          "label": "live retail wireless-ISP site on 29 Aug 2008 - the sole live-era capture"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130408065126if_/http://bowenbasin.com.au/",
+          "label": "site reduced to a bare directory listing by 8 Apr 2013"
+        }
       ]
     }
   ],

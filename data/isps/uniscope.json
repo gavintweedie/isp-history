@@ -25,7 +25,29 @@
       "year": 2019,
       "date_disp": "c. 2019",
       "precision": "approx",
-      "details": "Wound down; WA assets acquired by Pentanet; ABN cancelled 2023."
+      "details": "Wound down; WA assets acquired by Pentanet; ABN cancelled 2023. Site live to Mar 2018, staff/IP assets with Pentanet by end-2019, company deregistered and site dead by 2021 - c. 2019 verified on multiple fronts.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20180331220409id_/https://uniscope.com.au/",
+          "label": "Last fully live retail ISP homepage 31 Mar 2018 (Wangara WA)."
+        },
+        {
+          "kind": "official",
+          "url": "https://forums.whirlpool.net.au/archive/9z8l5pr9",
+          "label": "Pentanet's Dec 2019 wrap-up lists Uniscope's network engineer as ex-staff, consistent with a ~2019 wind-down/absorption."
+        },
+        {
+          "kind": "official",
+          "url": "https://bgp.gibir.net.tr/as/133895",
+          "label": "Uniscope's ASN prefix is now a Pentanet resource - network assets did go to Pentanet."
+        },
+        {
+          "kind": "official",
+          "url": "https://australia-corp.com/co/uniscope-communications-pty-ltd",
+          "label": "Company deregistered."
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2007,
+      "date_disp": "by Aug 2007",
+      "precision": "by",
+      "details": "Defunct. Monkeynet's ISP site vanished between Jan 2006 and Aug 2007, by which time only a Plesk default page remained. Plesk default page.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060101000000/http://www.monkeynet.net.au/",
+          "label": "Live ISP site at the start of 2006 (news dated Nov 2005)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070829013959/http://monkeynet.net.au/",
+          "label": "By 29 Aug 2007 the domain served only a hosting control-panel default page; same in 2008"
+        }
+      ]
     }
   ],
   "refs": [

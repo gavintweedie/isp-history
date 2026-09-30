@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2015,
-      "date_disp": "c. 2015",
+      "year": 2017,
+      "date_disp": "c. Sep 2017",
       "precision": "approx",
-      "details": "Later wound down."
+      "details": "Later wound down. Regional Connect kept retailing until 2017 on its home subdomain and was folded into Planet Ozi branding by Sep 2017 - 2012 (prop) and c. 2015 (current) are both wrong.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20141218152823id_/http://home.regionalconnect.com.au/",
+          "label": "After www 302'd to home.regionalconnect.com.au in Oct 2012, the full Regional Connect retail site (ADSL2+/NBN/VoIP) ran there through 2014 and into 2017."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20170915id_/http://home.regionalconnect.com.au/",
+          "label": "By Sep 2017 the homepage served Planet Ozi - the ispX umbrella consolidation that also replaced starwon.com.au in Sep 2017."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20121025140803/http://www.regionalconnect.com.au/",
+          "label": "The Oct 2012 event was a move to the home subdomain, not a closure."
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2016,
+      "date_disp": "c. 2016",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Death neither c.2002 (ISP page ran to Feb 2015) nor c.2022 ABN date; the retail ISP page vanished between Feb 2015 and May 2017 - c. 2016.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20150226063044id_/http://www.giant.net.au/",
+          "label": "Classic ISP homepage (unchanged since 2002) still served Feb 2015."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20170507123545id_/http://www.giant.net.au/",
+          "label": "By May 2017 the site is purely a computer-repair shop (FergTech era), ISP offerings gone."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=55077546626",
+          "label": "Company deregistered Apr 2022 - admin end, after ISP retail had already ceased."
+        },
+        {
+          "kind": "official",
+          "url": "https://www.giant.net.au/",
+          "label": "Domain still live today as a computer-repair business with legacy webmail links; non-ISP survival does not extend ISP death."
+        }
+      ]
     }
   ],
   "refs": [

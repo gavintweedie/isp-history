@@ -25,7 +25,24 @@
       "year": 2004,
       "date_disp": "c. 2003-04",
       "precision": "approx",
-      "details": "Site down Dec 2003; replaced by Concept Networks 2004-06."
+      "details": "Site down Dec 2003; replaced by Concept Networks 2004-06.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "http://web.archive.org/web/20031012074446id_/http://www.pilbara.net.au/",
+          "label": "Own ISP brand site still served 12 Oct 2003."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20040131043338id_/http://www.pilbara.net.au/",
+          "label": "Domain serving a different operator's branding by 31 Jan 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=pilbara.net.au&output=json",
+          "label": "Concept Networks (Apr 2006) and the Norcom redirect (Dec 2006) were successor tenants post-dating the Pilbara brand's death."
+        }
+      ]
     }
   ],
   "refs": [

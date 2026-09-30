@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2013,
-      "date_disp": "c. 2011-13",
-      "precision": "approx",
-      "details": "Site dead ~2011; domain parked Jan 2014, later deleted."
+      "year": 1997,
+      "date_disp": "by Oct 1997",
+      "precision": "by",
+      "details": "Site dead ~2011; domain parked Jan 2014, later deleted. No archived retail-ISP homepage exists for flowernet.com.au — flower/horticulture content from the first capture (Oct 1997) onwards; the claimed 2011-13 death dates only the florist shop → parked domain transition.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/19971010164254/http://www.flowernet.com.au/",
+          "label": "even the earliest capture (10 Oct 1997) is a florist/horticulture page — no retail ISP content exists in the archive record"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20090323074752/http://www.flowernet.com.au/",
+          "label": "2007-2009: purely florist e-commerce; domain parked/blank by 14 Jan 2014"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.trademarkelite.com/australia/trademark/trademark-owner/The%20Flower%20Company%20Aus%20Pty%20Ltd/4987766_6226494/1",
+          "label": "Flowernet was a florist-network trademark (The Flower Company Aus Pty Ltd), filed Aug 1996"
+        }
+      ]
     }
   ],
   "refs": [

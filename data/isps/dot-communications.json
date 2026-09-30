@@ -25,12 +25,29 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2004,
+      "date_disp": "c. Apr 2004",
       "precision": "approx",
-      "details": "Retail ISP homepage last captured Jan 2001; dot.net.au began 302-redirecting in 2002 as the firm refocused on the Viper ISP billing platform. The domain was later reused for an unrelated site (live captures 2011-2025).",
+      "details": "Retail ISP homepage last captured Jan 2001; dot.net.au began 302-redirecting in 2002 as the firm refocused on the Viper ISP billing platform. The domain was later reused for an unrelated site (live captures 2011-2025). Retail portal was live until 7 Apr 2004 and 302-redirecting to dot.com.au by 17 Apr 2004, so death is Apr 2004, not 2002.",
       "source": [
         "http://web.archive.org/cdx/search/cdx?url=dot.net.au"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20031120194757/http://www.dot.net.au/",
+          "label": "Own live JSP portal Nov 2003; identical digest still served 7 Apr 2004 — last live capture"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20040417195745/http://www.dot.net.au/",
+          "label": "Redirecting to dot.com.au from 17 Apr 2004 — transition occurred 7-17 Apr 2004"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20070928174937/http://www.dot.net.au/",
+          "label": "By Sep 2007 the site was Dot's Viper B2B wholesale platform — not a retail ISP"
+        }
       ]
     }
   ],

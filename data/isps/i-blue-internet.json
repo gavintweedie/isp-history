@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
+      "year": 2005,
+      "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. The ISP homepage died between Dec 2004 and Feb 2005 and the domain is a GPS shop from Aug 2006, promoting the c. 2005 proposal over the current c. 2003. ISP content gone by Feb 2005; GPS shop by Aug 2006.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041203191331/http://iblue.com.au/",
+          "label": "Dec 2004: last full retail ISP homepage (dialup/ADSL plans, webmail)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050207152348/http://www.iblue.com.au/",
+          "label": "7 Feb 2005: homepage serves an empty HTML shell - ISP content already gone."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060813074804/http://iblue.com.au/",
+          "label": "By Aug 2006 the domain was purely a GPS/electronics shop, confirming the ISP era ended c. 2005."
+        }
+      ]
     }
   ],
   "refs": [

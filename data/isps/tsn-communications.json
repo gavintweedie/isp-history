@@ -39,10 +39,32 @@
     },
     {
       "kind": "death",
-      "year": 2021,
-      "date_disp": "c. 2021",
+      "year": 2012,
+      "date_disp": "c. 2011-12",
       "precision": "approx",
-      "details": "Site dead ~2021."
+      "details": "Site dead ~2021. Last live ISP page Oct 2011 with plans expiring 31/12/2011 and operator company cancelled the same day; c. 2011-12 (proposal) beats c. 2021.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20090913063432id_/http://www.tsninternet.com.au/",
+          "label": "Full teleco/ISP site live Sep 2009; ties TSN to Saunders Properties ABN."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20111026055158id_/http://www.tsninternet.com.au:80/",
+          "label": "Still actively selling plans Oct 2011; special expiry hints at end-2011 wind-down."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=97083037772",
+          "label": "Operating company cancelled exactly 31 Dec 2011 (Port Macquarie region)."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=tsninternet.com.au&output=json&collapse=digest&limit=150",
+          "label": "Site down/redirected by 2013; 'Mar 2012 last 200' claim slightly off."
+        }
+      ]
     }
   ],
   "refs": [

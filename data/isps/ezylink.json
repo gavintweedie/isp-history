@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2015,
+      "date_disp": "c. 2015",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. ISP (internet-access) retail ended around the company's Apr 2015 ABN cancellation and was off the homepage by Oct 2016 — neither c.2002 nor the domain-lingering 2022 dates the ISP.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20140114035720/http://ezylink.net.au/",
+          "label": "full retail ISP homepage 14 Jan 2014 — kills the c.2002 current value"
+        },
+        {
+          "kind": "abn",
+          "url": "https://abr.business.gov.au/ABN/View?id=52088827936",
+          "label": "the ISP company ceased Apr 2015 despite the site trading on"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20161001160516/http://ezylink.net.au/",
+          "label": "by 1 Oct 2016 the homepage no longer offers broadband — site became IT/hosting/domains only (domain broke Oct 2023; live 2026 as 'EzylinkNET' MSP — non-ISP surv"
+        }
+      ]
     }
   ],
   "refs": [

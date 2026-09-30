@@ -25,10 +25,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2003-04",
-      "precision": "approx",
-      "details": "Australian service phased out and shut down following AOL's 1998 global acquisition of CompuServe; compuserve.com.au later redirected to the global compuserve.com."
+      "year": 2007,
+      "date_disp": "31 Aug 2007",
+      "precision": "exact",
+      "details": "Australian service phased out and shut down following AOL's 1998 global acquisition of CompuServe; compuserve.com.au later redirected to the global compuserve.com. Service announced closed effective 31 Aug 2007; homepage (unchanged frameset) was still being served 1 Sep 2007 and redirects to global CompuServe by 2013-14 — 2007 is exact.",
+      "refs": [
+        {
+          "kind": "wikipedia",
+          "url": "https://en.wikipedia.org/wiki/CompuServe",
+          "label": "Fujitsu Australia-operated franchise; also mirrored on Alfawiki/wiki34"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20070901114830/http://compuserve.com.au/",
+          "label": "Homepage still live 1 Sep 2007, days after the announced closure date"
+        },
+        {
+          "kind": "wayback-redirect",
+          "url": "https://web.archive.org/web/20140110042228/http://www.compuserve.com.au/",
+          "label": "By Jan 2014 the AU domain redirected to the global CompuServe site"
+        }
+      ]
     }
   ],
   "refs": [

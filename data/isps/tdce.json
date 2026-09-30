@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2006,
+      "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. ISP/hosting content ran to Jul 2006, server placeholder by Jan 2007, parked by Sep 2007; death c. 2006 fits better than c.2001 (site very much alive 2004-06) or c.2007.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20050618003624id_/http://www.tdce.com.au/",
+          "label": "TDCE-branded ISP/business site still live Jun 2005."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20060703010945id_/http://www.tdce.com.au/",
+          "label": "Jul 2006: domain serves an 'ecoms' web-hosting page (last ISP/hosting content)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20070102022223id_/http://www.tdce.com.au/",
+          "label": "Jan 2007: bare server-default placeholder."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20070910064138id_/http://www.tdce.com.au/",
+          "label": "Sep 2007: keyword domain-parking page."
+        }
+      ]
     }
   ],
   "refs": [

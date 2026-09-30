@@ -25,12 +25,34 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2002,
+      "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "ISP homepage present in Wayback only 2001-02; no captures 2003-2013, then a minimal placeholder page 2014-2019 (not an active ISP). Exact closure unclear; retail ISP presence gone by mid-2000s.",
+      "details": "ISP homepage present in Wayback only 2001-02; no captures 2003-2013, then a minimal placeholder page 2014-2019 (not an active ISP). Exact closure unclear; retail ISP presence gone by mid-2000s. Full ISP site Jan 2002; acquisition-by-The-Planet-Internet announced on the homepage by 3 Jun 2002 and the site then vanished from the archive for 12 years; trading name dropped Feb 2003 — death is 2002, not 2003 or 2005.",
       "source": [
         "https://web.archive.org/web/20190302122201/http://www.commnet.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20020120045425/http://www.commnet.net.au/",
+          "label": "Last full retail ISP homepage, 20 Jan 2002"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20020603112002/http://www.commnet.net.au/",
+          "label": "3 Jun 2002: acquisition notice + webmail; then zero captures for 12 years (verified via CDX 2002-2013)"
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=24508910551",
+          "label": "Sole-trader (Kris Cranfield) wind-up tail confirms 2002 acquisition"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20140114014117/http://commnet.net.au/",
+          "label": "Jan 2014 placeholder, not an ISP"
+        }
       ]
     }
   ],

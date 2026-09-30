@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
+      "year": 2001,
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Folded into Bullet Internet (domain redirected from May 2006)."
+      "details": "Folded into Bullet Internet (domain redirected from May 2006). Comcen absorbed Dragon Net in early 2001 — Comcen content on dragon.net.au by 1 Apr 2001; ISP brand dead c.2001, earlier than both prior dates (2006/2004).",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20001022051443/http://dragon.net.au/",
+          "label": "last Dragon-branded homepage, 22 Oct 2000"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20010401152521/http://dragon.net.au/",
+          "label": "domain already serving Comcen's site by 1 Apr 2001"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20050207025907/http://www.dragon.net.au/",
+          "label": "takeover notice; domain later became a bare Apache index on angel.comcen.com.au by Dec 2002 and 302'd to Bullet from May 2006"
+        }
+      ]
     }
   ],
   "refs": [

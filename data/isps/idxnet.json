@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2012,
+      "date_disp": "by 2012",
+      "precision": "by",
+      "details": "Defunct. IDX-branded portal last alive Feb 2010 and third-party-operated by Feb 2012, promoting the 'c. 2012' proposal over the current c. 2001. IDX-branded portal handed to a third party.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20100215151343/http://idx.com.au/",
+          "label": "Feb 2010: the IDXNet-branded ISP portal still live at idx.com.au."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/20120221143619/http://www.idx.com.au/",
+          "label": "By Feb 2012 the same template portal runs with an unrelated third-party contact (tripleplayhub.com) - IDXNET identity gone."
+        }
+      ]
     }
   ],
   "refs": [

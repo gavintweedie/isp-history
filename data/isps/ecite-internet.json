@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2010,
+      "date_disp": "by Jul 2010",
+      "precision": "by",
+      "details": "Defunct. ISP access side was still sold in Aug 2006 (not 2004); hard end is the company's ABN cancellation 12 Jul 2010; webhosting continuation does not extend ISP death.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20050404195246/http://www.ecite.com.au/",
+          "label": "still retailing ADSL Apr 2005 — contradicts c.2004"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20060821005107/http://www.ecite.com.au/dsl.php",
+          "label": "ADSL/ADSL2+ pages still served 21 Aug 2006 — last retail-access evidence (archive gap until 2014)"
+        },
+        {
+          "kind": "abn",
+          "url": "https://abr.business.gov.au/ABN/View?id=23089386274",
+          "label": "operator company deregistered; homepage blank by Jan 2014 and hosting-only 'eCITE Online' since (still live 2026 — non-ISP survival)"
+        }
+      ]
     }
   ],
   "refs": [

@@ -35,7 +35,7 @@
       "year": 1999,
       "date_disp": "c. 1999",
       "precision": "approx",
-      "details": "ISP portion of the company sold to iiNet (founder record). Exact date not published; timing inferred from iiNet's post-IPO Perth consolidation immediately after its Sept 1999 listing (Wantree, Omen Internet, Networx, Nettrek, Infinite Data et al.) - iiNet's own history page does not name PSInet explicitly among those acquisitions. The remaining non-ISP business continued as Digital Ventures (Siena plus two partners) until at least Jan 2003.",
+      "details": "ISP portion of the company sold to iiNet (founder record). Exact date not published; timing inferred from iiNet's post-IPO Perth consolidation immediately after its Sept 1999 listing (Wantree, Omen Internet, Networx, Nettrek, Infinite Data et al.) - iiNet's own history page does not name PSInet explicitly among those acquisitions. The remaining non-ISP business continued as Digital Ventures (Siena plus two partners) until at least Jan 2003. The c.1999 acquisition death stands with hard evidence, with one refinement: PSInet (Perth) had rebranded to Infinite Data by Dec 1997 (its own homepage), and it was Infinite Data that iiNet acquired in late 1999 per iiNet's official history - the domain then lay parked by 2007.",
       "refs": [
         {
           "kind": "official",
@@ -46,6 +46,21 @@
           "kind": "official",
           "url": "https://www.iinet.net.au/about-us/history",
           "label": "iiNet corporate history: post-IPO Perth acquisitions context"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/19971012210851id_/http://www.psinet.net.au/",
+          "label": "12 Oct 1997 capture still PSInet-branded (Subiaco WA) - the Perth ISP was operating under its own name to late 1997."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/19971222072345id_/http://psinet.net.au/",
+          "label": "By 22 Dec 1997 the same domain fronted 'Infinite Data' (still so on the last 90s capture 19980506064729) - the PSInet Perth business had rebranded to Infinite D"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20070701001954id_/http://www.psinet.net.au/",
+          "label": "By Jul 2007 the domain was a PPC parked page (after a capture gap May 1998-Jul 2007), consistent with the business having been absorbed ~8 years earlier."
         }
       ]
     }

@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2007",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2006,
+      "date_disp": "by Aug 2006",
+      "precision": "by",
+      "details": "Defunct. Site was live in May 2005 and an empty 'Under Construction' stub by Aug 2006, tighter than both the c.2007 current value and the proposal.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050526153235/http://www.mic.net.au/",
+          "label": "Last capture serving the live MIC ISP site"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060820022202/http://www.mic.net.au/",
+          "label": "By 20 Aug 2006 mic.net.au served only an empty 'Under Construction' page (again in Mar 2008); domain parked by 2013"
+        }
+      ]
     }
   ],
   "refs": [

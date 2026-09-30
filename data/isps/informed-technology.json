@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "c. 2006",
-      "precision": "approx",
-      "details": "No evidence of operation after ~2006.. Ceased as an ISP — entity ABN cancelled 15 Jun 2010..",
+      "year": 2010,
+      "date_disp": "by Jun 2010",
+      "precision": "by",
+      "details": "No evidence of operation after ~2006.. Ceased as an ISP — entity ABN cancelled 15 Jun 2010.. Wayback holds no ISP-era homepage, but the domain answered with a control panel in Sep 2008 and the operator's ABN was cancelled 15 Jun 2010 — the current c. 2006 death is too early; settle by Jun 2010.",
       "refs": [
         {
           "kind": "official",
@@ -36,6 +36,16 @@
           "kind": "official",
           "url": "https://informed.net.au/",
           "label": "Domain responds 200/301 but serves a blank 114-byte page — no services offered"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20080914002714/http://www.informed.net.au/controlpanel/admin/index.php",
+          "label": "Hosting control-panel login live on the domain 14 Sep 2008; the ISP-era homepage itself is not archived (blank/parked from Oct 2016)."
+        },
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View/98085210564",
+          "label": "Operator entity (WA 6007) ABN cancelled 15 Jun 2010."
         }
       ]
     }

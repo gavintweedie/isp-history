@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2000s",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2000,
+      "date_disp": "by mid-2000",
+      "precision": "by",
+      "details": "Defunct. Both current (c. 2000s) and proposal (c. 2007) are too late: aussie.net itself stated it was no longer an ISP as of the Jul 2000 capture. homepage declared 'aussie.net is not an internet service provider' by Jul 2000; personal pages thereafter.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000706210809/http://www.aussie.net/intro.htm",
+          "label": "The very next frame after the shell page, captured 6 Jul 2000, explicitly disclaims ISP status — the ISP was already history by mid-2000"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090412111107/http://www.aussie.net/",
+          "label": "Personal placeholder in Apr 2009; domain today serves a 'Go Away' stub"
+        }
+      ]
     }
   ],
   "refs": [

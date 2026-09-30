@@ -29,10 +29,27 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
+      "year": 2004,
+      "date_disp": "c. Feb 2004",
       "precision": "approx",
-      "details": "Gone from directory by ~2000."
+      "details": "Gone from directory by ~2000. ABR business-name records harden the c. 2003-04 proposal: the SafetyWeb names lapsed 23 Feb / 28 Apr 2004 and the site carried OPC content from ~2004.",
+      "refs": [
+        {
+          "kind": "admin",
+          "url": "https://abr.business.gov.au/AbnHistory/View?id=29008657618",
+          "label": "ABR history for OPC IT Pty Limited (ABN 29 008 657 618): both SafetyWeb business names ended Feb-Apr 2004, marking the OPC absorption."
+        },
+        {
+          "kind": "replay",
+          "url": "http://web.archive.org/web/20020122201544/http://www.safetyweb.com.au/",
+          "label": "Still SafetyWeb-branded 22 Jan 2002 (prior evidence)."
+        },
+        {
+          "kind": "replay",
+          "url": "http://web.archive.org/web/20050206190245/http://www.safetyweb.com.au/",
+          "label": "By Feb 2005 the domain served OPC Canberra with 2004 copyright (prior evidence)."
+        }
+      ]
     }
   ],
   "refs": [

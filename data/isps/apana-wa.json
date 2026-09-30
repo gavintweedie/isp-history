@@ -25,10 +25,22 @@
     },
     {
       "kind": "death",
-      "year": 2023,
-      "date_disp": "c. 2023",
+      "year": 2013,
+      "date_disp": "c. 2013",
       "precision": "approx",
-      "details": "Regional nodes folded into the single National Region."
+      "details": "Regional nodes folded into the single National Region. Proposal's c. 2013 promoted over current c. 2023: the WA node site disappears from the record after Jul 2013 and its host no longer resolves. last WA node capture 27 Jul 2013; subdomain DNS now fails; APANA operates a single National Region.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130727105948/http://wa.apana.org.au/",
+          "label": "Last capture of the WA regional node site; probes for 2014 and 2016 both resolve to this Jul 2013 capture (nothing newer)"
+        },
+        {
+          "kind": "archive",
+          "url": "http://www.apana.org.au/",
+          "label": "Live check 29 Sep 2026: national APANA survives but explicitly under a National Region structure — the regional-node model (incl. the WA node) is superseded; wa"
+        }
+      ]
     }
   ],
   "refs": [

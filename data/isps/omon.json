@@ -25,7 +25,19 @@
       "year": 2001,
       "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Omon brand folded into Indigo Networks."
+      "details": "Omon brand folded into Indigo Networks.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20010708205326id_/http://www.omon.net.au/",
+          "label": "Omon-branded ISP portal (news, weather) live on 8 Jul 2001; ussr.net already pointed to this domain by Jul 2001."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20011202104624id_/http://www.omon.net.au/",
+          "label": "The same domain already served the Indigo Networks brand by 2 Dec 2001."
+        }
+      ]
     }
   ],
   "refs": [

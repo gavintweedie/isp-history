@@ -28,10 +28,27 @@
       "year": 2011,
       "date_disp": "c. 2011",
       "precision": "approx",
-      "details": "Full retail homepage still live Feb 2011; by Feb 2012 the site returned an InterWorx 'Site Disabled' (hosting suspended) page, parked thereafter.",
+      "details": "Full retail homepage still live Feb 2011; by Feb 2012 the site returned an InterWorx 'Site Disabled' (hosting suspended) page, parked thereafter. Real ISP site live Feb 2011, spam blog from Apr 2011 and suspended by Feb 2012 - the ISP died in 2011, confirming the proposal.",
       "source": [
         "https://web.archive.org/web/20110205142849/http://www.blackstump.net.au/",
         "https://web.archive.org/web/20120221155312/http://www.blackstump.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110205142849id_/http://www.blackstump.net.au/",
+          "label": "genuine ISP homepage (ADSL1/ADSL2/bundled phone plans, member login) on 5 Feb 2011"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110826003623id_/http://www.blackstump.net.au:80/",
+          "label": "by Aug 2011 (posts from 23 Apr 2011) domain was an SEO spam blog, not the ISP"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120221155312id_/http://www.blackstump.net.au/",
+          "label": "hosting account suspended by 21 Feb 2012"
+        }
       ]
     }
   ],

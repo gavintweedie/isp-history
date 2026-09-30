@@ -37,18 +37,35 @@
         {
           "kind": "official",
           "url": "https://companyau.com/078294130",
-          "label": "Asgard Computing Pty Ltd ACN 078294130 \u2014 incorporated 22 Apr 1997"
+          "label": "Asgard Computing Pty Ltd ACN 078294130 — incorporated 22 Apr 1997"
         }
       ]
     },
     {
       "kind": "death",
       "year": 2007,
-      "date_disp": "c. 2007",
+      "date_disp": "c. 2006-07",
       "precision": "approx",
-      "details": "Absorbed into EFTel (via Instant Communications); asgard.net.au served an Instant Communications page that then sat frozen (identical capture) from 2007 through 2023.",
+      "details": "Absorbed into EFTel (via Instant Communications); asgard.net.au served an Instant Communications page that then sat frozen (identical capture) from 2007 through 2023. Proposal's c. 2007 promoted with the Aug 2006 EFTel acquisition now hard-dated; the frozen Instant page persisted on the domain to Sep 2009 (asgard.net.au is an unrelated property group today). rebranded 'Instant Communications' by Jun 2005; EFTel acquired Instant Aug 2006; frozen Instant retail page still served to Sep 2009.",
       "source": [
         "https://web.archive.org/web/20070828192812/http://www.asgard.net.au/ (Instant Communications page, unchanged 2007-2023)"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20050629021009/http://asgard.net.au/",
+          "label": "asgard.net.au already rebranded to Instant Communications by 29 Jun 2005 — end of the Asgard.net brand"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.techpartner.news/news/eftel-buys-instant-communication-58119",
+          "label": "Hard acquisition date: EFTel bought Instant Communication on 14 Aug 2006 — the ISP's independent existence ended there"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090914103727/http://www.asgard.net.au/",
+          "label": "The (EFTel-owned) Instant retail page kept serving on asgard.net.au into Sep 2009 — a frozen remnant post-absorption, explaining the 'frozen from 2007' observat"
+        }
       ]
     }
   ],

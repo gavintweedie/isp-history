@@ -34,6 +34,18 @@
       "details": "Defunct as an ADSL ISP by the mid-2000s; by 18 Jul 2008 abcdsl.com.au was just an Apache directory-index of CMS demo folders (b2/, mambo/, wordpress/, xoops/), no longer a live ISP.",
       "source": [
         "https://web.archive.org/web/20080718201959id_/http://abcdsl.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030206134142/http://www.abcdsl.com.au/",
+          "label": "Last live ABCdsl retail capture"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070829065655/http://www.abcdsl.com.au/",
+          "label": "By Aug 2007 the domain served a different business; no captures exist between Feb 2003 and Aug 2007 (probes for 2004/2005 both resolve to these endpoints)"
+        }
       ]
     }
   ],

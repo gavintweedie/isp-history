@@ -49,12 +49,24 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2002,
+      "date_disp": "c. 2002",
       "precision": "approx",
-      "details": "Defunct.",
+      "details": "Defunct. Proposal's c. 2002 is right; current c. 2001 slightly early — the retail page definitely existed into 2000 and was gone by May 2002. ISP page replaced by stale ACS society page by May 2002; 'temporarily not available' placeholder by Jun 2003.",
       "source": [
         "Wayback CDX for acslink.net.au: http://web.archive.org/cdx/search/cdx?url=acslink.net.au"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020524235741/http://www.acslink.net.au/",
+          "label": "By May 2002 the acslink domain served a stale (1999-content) ACS parent page — ACS Link was run by the Australian Computer Society; no ISP retail page"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20030612023910/http://www.acslink.net.au/",
+          "label": "By Jun 2003 only an account-maintenance placeholder remained — service effectively wound up"
+        }
       ]
     }
   ],

@@ -29,6 +29,18 @@
       "source": [
         "https://web.archive.org/web/20001205165100/http://www.digitech.net.au/ (last live homepage, Dec 2000)",
         "https://web.archive.org/web/20080718185852/http://www.digitech.net.au/ (parked 'Car Insurance' page, 2008)"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20001205165100/http://www.digitech.net.au/",
+          "label": "Last live ISP homepage, 5 Dec 2000"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20080718185852/http://www.digitech.net.au/",
+          "label": "Domain parked by 18 Jul 2008; zero captures in the whole 2001-07 gap"
+        }
       ]
     }
   ],

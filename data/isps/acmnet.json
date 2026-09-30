@@ -31,9 +31,26 @@
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Wound down (founders later established NuSkope). Last live retail capture 29 Aug 2007; site then reduced to webmail/parked. (NuSkope founder link and 2007 Ai Tel litigation not independently verified via web archives.)",
+      "details": "Wound down (founders later established NuSkope). Last live retail capture 29 Aug 2007; site then reduced to webmail/parked. (NuSkope founder link and 2007 Ai Tel litigation not independently verified via web archives.) Proposal's c. 2008 confirmed: last capture Jan 2008, founders operating NuSkope from 2007. retail pages live to 19 Jan 2008; founders at successor NuSkope from 2007.",
       "source": [
         "Wayback CDX for acmnet.com.au (last retail capture 29 Aug 2007): http://web.archive.org/cdx/search/cdx?url=acmnet.com.au"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080119223220/http://www.acmnet.com.au/contacts.php",
+          "label": "Site still live 19 Jan 2008; CDX probes confirm no later captures"
+        },
+        {
+          "kind": "forum",
+          "url": "https://forums.whirlpool.net.au/archive/856128",
+          "label": "Nov 2007 thread: ACMNet founders had already launched NuSkope and absorbed the wireless customer base — consistent with a 2008 wind-down of the ACMNet brand"
+        },
+        {
+          "kind": "news",
+          "url": "https://announcements.asx.com.au/asxpdf/20170911/pdf/43m73grxl6b61z.pdf",
+          "label": "Superloop ASX announcement confirms successor established 2007"
+        }
       ]
     }
   ],

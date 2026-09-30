@@ -32,7 +32,19 @@
       "year": 2009,
       "date_disp": "c. 2009",
       "precision": "approx",
-      "details": "Dormant."
+      "details": "Dormant. The Jan 2009 live ISP homepage is the final content capture, so c. 2009 stands on hard evidence.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "http://web.archive.org/web/20090110213036id_/http://www.oz2000.com/",
+          "label": "ISP homepage still live 10 Jan 2009."
+        },
+        {
+          "kind": "wayback-availability",
+          "url": "https://archive.org/wayback/available?url=oz2000.com&timestamp=20090701",
+          "label": "No content captures exist after Jan 2009 (availability API returns the Jan 2009 snapshot for all later timestamps); domain a default nginx page by 2024."
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2014,
-      "date_disp": "c. 2014",
+      "year": 2016,
+      "date_disp": "c. 2016",
       "precision": "approx",
-      "details": "Parent entity renamed ACIS Consulting (Jul 2010), cancelled 2014."
+      "details": "Parent entity renamed ACIS Consulting (Jul 2010), cancelled 2014. The 2014 ABN cancellation did not take the brand down: the retail homepage ran until 4 Jun 2016 and redirected to BigAir from Oct 2016, so death is c. 2016.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20160604002559id_/http://www.officelink.net.au/",
+          "label": "Full OfficeLink+ retail ISP site still live on 4 Jun 2016 (unchanged ZNPF digest since Jan 2014)."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20161001191031id_/http://officelink.net.au/",
+          "label": "Domain began redirecting to bigair.com.au by 1 Oct 2016."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20170204101648id_/http://officelink.net.au/",
+          "label": "BigAir Group site served by Feb 2017."
+        }
+      ]
     }
   ],
   "refs": [

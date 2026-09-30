@@ -25,7 +25,24 @@
       "year": 2006,
       "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20050615085650id_/http://tisgroup.com.au/",
+          "label": "Fully live retail ISP homepage Jun 2005 (last)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20070829101841id_/http://www.tisgroup.com.au:80/",
+          "label": "By Aug 2007 the homepage is an emptied Apache directory listing."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20090912154452id_/http://www.tisgroup.com.au/",
+          "label": "Sep 2009 capture (proposal's anchor) is only an under-construction stub - not a live site."
+        }
+      ]
     }
   ],
   "refs": [

@@ -28,9 +28,21 @@
       "year": 2004,
       "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Static homepage (©1999 Breakfast Bytes) persisted on beehive.inoz.com to last capture 5 May 2004; content long frozen, so the operating ISP likely wound down earlier.",
+      "details": "Static homepage (©1999 Breakfast Bytes) persisted on beehive.inoz.com to last capture 5 May 2004; content long frozen, so the operating ISP likely wound down earlier. Proposal's c. 2004 = when the host disappeared, with the caveat (now evidenced) that real retail content froze in early 2002 under parent Breakfast Bytes/INOZ. host's last capture 5 May 2004 is a frozen 'MyName'/INOZ portal unchanged since Jul 2002; last distinct Beehive retail page 20 Jan 2002.",
       "source": [
         "https://web.archive.org/web/20040505134810/http://beehive.inoz.com/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020120125831/http://www.beehive.inoz.com/",
+          "label": "Last distinct Beehive-branded retail ISP page, 20 Jan 2002"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20040419130348/http://beehive.inoz.com/",
+          "label": "From mid-2002 the homepage was this frozen static 'MyName' portal; it persisted byte-identical until the final 5 May 2004 capture, after which the host vanishes"
+        }
       ]
     }
   ],

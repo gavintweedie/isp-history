@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2004,
+      "date_disp": "c. 2003-04",
       "precision": "approx",
-      "details": "Homepage last captured Dec 2004; ISP era ended ~2004-05."
+      "details": "Homepage last captured Dec 2004; ISP era ended ~2004-05. ISP webmail hosts dropped between Dec 2003 and Feb 2004 and the homepage carried home-builder branding by Dec 2004 — the ISP arm wound up c. 2003-04, marginally earlier than the entry's c. 2005.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=jcorp.com.au&matchType=domain&output=json",
+          "label": "The ISP-era webmail/gateway hosts still answered in Dec 2003 and were gone by Feb 2004."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20041204011514/http://www1.jcorp.com.au/",
+          "label": "By 4 Dec 2004 (content dated 2003) the homepage was the J-Corp home-builders brand; jcorp.com.au later redirected to bgchomes.com.au (2013)."
+        }
+      ]
     }
   ],
   "refs": [

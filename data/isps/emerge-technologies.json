@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2013,
-      "date_disp": "c. 2013",
+      "year": 2007,
+      "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "ISP side of the business spun back to GoldNet; Emerge continued as carrier-grade network services firm."
+      "details": "ISP side of the business spun back to GoldNet; Emerge continued as carrier-grade network services firm. Retail internet-account sales disappeared from the homepage between Feb and Aug 2007; the MSP business on emerge.net.au (and GoldNet on the network side) does not extend the ISP.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20070205132645/http://www.emerge.net.au/",
+          "label": "retail ISP homepage (new accounts/pricing/dialup numbers), 5 Feb 2007"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20070829131720/http://www.emerge.net.au/",
+          "label": "by 29 Aug 2007: IT consultancy + carrier/minesite services, webmail-only login — no retail ISP sales"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20210620151554/http://emerge.net.au/",
+          "label": "still an IT/MSP business in 2021 — non-ISP survival does not extend ISP death; network/ISP side lives on as GoldNet (sister operator)"
+        }
+      ]
     }
   ],
   "refs": [

@@ -23,9 +23,21 @@
     {
       "kind": "death",
       "year": 2019,
-      "date_disp": "Mar 2019",
-      "precision": "approx",
-      "details": "Creditors' voluntary liquidation appointed 7 Feb 2019 (ASIC, ACN 108 139 037); business/customers sold to EscapeNet (Adelaide) ~Mar 2019; residual site wound down by ~2021."
+      "date_disp": "7 Feb 2019",
+      "precision": "exact",
+      "details": "Creditors' voluntary liquidation appointed 7 Feb 2019 (ASIC, ACN 108 139 037); business/customers sold to EscapeNet (Adelaide) ~Mar 2019; residual site wound down by ~2021. Company liquidated 7 Feb 2019 with the base sold to EscapeNet — the proposed Feb 2019 date is confirmed exactly.",
+      "refs": [
+        {
+          "kind": "asic-notice",
+          "url": "https://publishednotices.asic.gov.au/browsesearch-notices/notice-details/Planet-Ozi-Pty-Ltd-108139037/d7d25971-246f-414c-a6c9-4ab988f9b706",
+          "label": "ASIC published-notices entry (s491(2)(b)) confirms creditors' voluntary liquidation appointment 7 Feb 2019."
+        },
+        {
+          "kind": "press",
+          "url": "https://www.productreview.com.au/listings/planet-ozi",
+          "label": "Corroborates closure; customers were taken over by EscapeNet around the liquidation."
+        }
+      ]
     }
   ],
   "refs": [

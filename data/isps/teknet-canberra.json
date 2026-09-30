@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2007-09",
+      "year": 2007,
+      "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "Dormant."
+      "details": "Dormant. actweb.net identity folded into WebOne by 2001 and became a bare redirect in Apr 2006; TekNet's company GST registration ended 29 Jun 2007, so c.2007 suits better than 2008 or 2007-09.",
+      "refs": [
+        {
+          "kind": "abn-lookup",
+          "url": "https://www.abn-lookup.com/firm/teknet-computer-services-pty-ltd-058198208/",
+          "label": "Canberra entity (ACT 2601/2602) GST registration ended 29 Jun 2007 (a later re-registration 2013-22 post-dates the ISP brand)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20001017122601id_/http://actweb.net:80/",
+          "label": "actweb's own identity ended by 2001."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20010925011032id_/http://actweb.net:80/",
+          "label": "actweb.net was already a WebOne portal Sep 2001; remains so to 2005."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20060406040317id_/http://actweb.net/",
+          "label": "From Apr 2006 actweb.net is only a redirect to WebOne (unchanged to Dec 2023)."
+        }
+      ]
     }
   ],
   "refs": [

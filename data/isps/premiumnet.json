@@ -34,10 +34,22 @@
     },
     {
       "kind": "death",
-      "year": 2006,
-      "date_disp": "by 2006",
+      "year": 2007,
+      "date_disp": "by Sep 2007",
       "precision": "by",
-      "details": "Defunct."
+      "details": "Defunct. PremiumNet's dial-up service demonstrably operated until Jun 2007 and was gone by Sep-Nov 2007 — 'by 2007' is correct, and the current 'by 2006' is too early.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20070612101512id_/http://www.free.net.au/",
+          "label": "free.net.au was still channelling dial-up customers to PremiumNet on 12 Jun 2007 — service live mid-2007."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20071130203132id_/http://free.net.au/",
+          "label": "By 30 Nov 2007 free.net.au hosted an unrelated community network (blog posts start Sep 2007); premiumnet.com.au had degenerated to a self-refresh stub by 29 Aug"
+        }
+      ]
     }
   ],
   "refs": [

@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2004,
-      "date_disp": "c. 2004",
+      "year": 2013,
+      "date_disp": "2012-2013",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Net2U's retail ISP homepage survived to Feb 2012 and was replaced by the AccsysIT corporate site by Apr 2013, as proposed. became AccsysIT.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120221115936/http://www.net2u.com.au/",
+          "label": "21 Feb 2012 still the Net2U retail ISP portal"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130410222659/http://www.net2u.com.au/",
+          "label": "By 10 Apr 2013 the domain carried AccsysIT's IT-services site; Net2U reduced to a hosting side-link"
+        }
+      ]
     }
   ],
   "refs": [

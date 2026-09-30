@@ -46,6 +46,16 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20031218233641/http://www.standard.net.au/",
           "label": "standard.net.au (Wayback 18 Dec 2003): Hotkey Southcoast content, ending the Standard.Net era"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20010118234300id_/http://www.standard.net.au/",
+          "label": "Last Standard.Net-branded homepage, 18 Jan 2001."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20031218233641id_/http://www.standard.net.au/",
+          "label": "By 18 Dec 2003 the domain served Hotkey Southcoast (a different Warrnambool ISP); later it became The Warrnambool Standard newspaper site."
         }
       ]
     }

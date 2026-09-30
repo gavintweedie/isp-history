@@ -25,13 +25,30 @@
     },
     {
       "kind": "death",
-      "year": 2010,
-      "date_disp": "c. 2010",
+      "year": 2006,
+      "date_disp": "c. Sep 2006",
       "precision": "approx",
-      "details": "Full dialup/ADSL/hosting ISP in 2004 (Wayback); by 2011 reduced to web hosting/web design/domain registration only (Come On Aussie Internet Services), and by 2013 to web design/promotion (principal Stephen Spry); retail access-ISP wound down in the late 2000s.",
+      "details": "Full dialup/ADSL/hosting ISP in 2004 (Wayback); by 2011 reduced to web hosting/web design/domain registration only (Come On Aussie Internet Services), and by 2013 to web design/promotion (principal Stephen Spry); retail access-ISP wound down in the late 2000s. Access-ISP died in the Sep-Oct 2006 Veridas collapse (site announcement is dated hard evidence), not c. 2010; Stephen Spry's hosting/design/directory businesses continued.",
       "source": [
         "https://web.archive.org/web/20110902013639/http://www.comeonaussie.net/",
         "https://web.archive.org/web/20131106182631/http://www.comeonaussie.net/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20061205020213if_/http://comeonaussie.net/",
+          "label": "announcement on the site by 5 Dec 2006"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070828210355if_/http://www.comeonaussie.net/iveridas.html",
+          "label": "the Veridas wholesale collapse from 20 Sep 2006 killed the access-ISP; decision to quit ISP services taken late Sep 2006"
+        },
+        {
+          "kind": "news",
+          "url": "http://www.theage.com.au/news/biztech/isp-leaves-thousands-in-the-lurch/2006/09/22/1158431892659.html",
+          "label": "The Age, 22 Sep 2006, on the Veridas failure (30,000+ customers, 80+ ISPs) - linked/described on CoA's own notice page"
+        }
       ]
     }
   ],

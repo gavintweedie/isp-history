@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2012,
-      "date_disp": "by 2012",
+      "year": 2021,
+      "date_disp": "by Sep 2021",
       "precision": "by",
-      "details": "Site last captured 2012."
+      "details": "Site last captured 2012. Retail ISP homepage ran to 27 Jul 2021 and was cut to members/webmail-only by 24 Sep 2021 — later than the current 'by 2012' and the proposed c. 2020.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20210727115930/https://isage.net.au/",
+          "label": "Full retail ISP marketing site as late as 27 Jul 2021."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20210924174457/https://www.isage.net.au/",
+          "label": "By 24 Sep 2021 the homepage was reduced to a members/webmail strip (unchanged through 2025 captures) — webmail-only = dead."
+        },
+        {
+          "kind": "live-2026",
+          "url": "https://isage.net.au/",
+          "label": "Live site today is the same login strip — public ISP presence gone since Sep 2021."
+        }
+      ]
     }
   ],
   "refs": [

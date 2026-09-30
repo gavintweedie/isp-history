@@ -25,7 +25,19 @@
       "year": 2008,
       "date_disp": "c. 2008",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Pivot from data-card/rental ISP to event technology completed across 2008-09; c. 2008 - as both current and proposal already recorded - is verified.",
+      "refs": [
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20080908004338id_/http://wiredsky.com.au/",
+          "label": "Sep 2008: page straddles the old data-card rental product and the new events/exhibition IT business."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20091023064347id_/http://www.wiredsky.com.au/",
+          "label": "Oct 2009: domain purely serves the Wired Sky Events business - the connectivity-provider arm is gone."
+        }
+      ]
     }
   ],
   "refs": [

@@ -36,6 +36,21 @@
           "kind": "archive",
           "url": "https://web.archive.org/web/20250404163439/http://metromesh.com.au/",
           "label": "Wayback: first webmail-only / parked homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110118000652/http://metromesh.com.au/",
+          "label": "18 Jan 2011 still the metromesh retail ISP homepage"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120124050121/http://metromesh.com.au/",
+          "label": "By 24 Jan 2012 the homepage was the aCure corporate site, the metromesh ISP brand gone"
+        },
+        {
+          "kind": "news",
+          "url": "https://www.itnews.com.au/news/amcom-buys-acure-data-centres-354380",
+          "label": "Aug 2013 Amcom acquisition killed aCure, but metromesh's ISP homepage had already vanished in 2011"
         }
       ]
     }

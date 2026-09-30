@@ -25,7 +25,24 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Company cancelled 30 Jun 2005, branding lingered to early 2006, Concept Networks took the domain over by 2007 - c. 2005 verified; brief 'c. 2005' and proposal align.",
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=33095674338",
+          "label": "Operating company cancelled 30 Jun 2005 (Perth - matches v-App's WA focus)."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20060101000000id_/http://www.v-app.com.au/",
+          "label": "v-App branding still present at the nearest capture to 1 Jan 2006."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20070829101611id_/http://www.v-app.com.au/",
+          "label": "By Aug 2007 the domain serves Concept Networks (copyright 2005), so the v-App brand turned over c. 2005-06."
+        }
+      ]
     }
   ],
   "refs": [

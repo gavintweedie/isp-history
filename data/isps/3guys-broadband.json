@@ -28,13 +28,25 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2007–2008",
+      "year": 2010,
+      "date_disp": "c. 2010",
       "precision": "approx",
-      "details": "Only functioning ISP capture is Feb 2006; site broken (HTTP 500) by Feb 2007; homepage was a 302 redirect to a default IIS/ASP page 2008–2012; domain repurposed as 'In2Recipes' WordPress site by 2013.",
+      "details": "Only functioning ISP capture is Feb 2006; site broken (HTTP 500) by Feb 2007; homepage was a 302 redirect to a default IIS/ASP page 2008–2012; domain repurposed as 'In2Recipes' WordPress site by 2013. Prior evidence misread the site as a 2007 redirect stub; in fact the retail store ran until late 2009 and was erroring by early 2011. retail store live 25 Oct 2009; site erroring by Feb 2011.",
       "source": [
         "Abandoned default IIS redirect 2008: https://web.archive.org/web/20080627010005/http://3guys.com.au/",
         "Unrelated In2Recipes site by 2013: https://web.archive.org/web/20130430021213/http://3guys.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20091025015349/http://www.3guys.com.au/",
+          "label": "CandyPress retail store still selling ADSL plans on 25 Oct 2009 — both the current (2007-08) and proposed (2007) deaths are too early"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20110205080112/http://www.3guys.com.au/",
+          "label": "Store's database dead by 5 Feb 2011; ISP defunct in the Oct 2009–Feb 2011 window"
+        }
       ]
     }
   ],

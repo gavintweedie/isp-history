@@ -63,9 +63,9 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001-02",
+      "date_disp": "c. 2001",
       "precision": "approx",
-      "details": "Acquired into the Edge/Eisa group c. 2000 (Eisa Limited, trading as Edge Internet Services Australia; see eisa-limited + acquisition transition; Eisa registered 'EISA DYNAMITE' and 'DYNAMITE INTERNET CONSULTING/RETAIL/WEB MASTERS' business names). Last Dynamite-branded snapshots early 2001; domain redirected to AustarMetro by 2002 (dynamite.net.au served AustarMetro content Jun 2002); ultimately reached iiNet via AustarMetro -> Virtual Communities (2004).",
+      "details": "Acquired into the Edge/Eisa group c. 2000 (Eisa Limited, trading as Edge Internet Services Australia; see eisa-limited + acquisition transition; Eisa registered 'EISA DYNAMITE' and 'DYNAMITE INTERNET CONSULTING/RETAIL/WEB MASTERS' business names). Last Dynamite-branded snapshots early 2001; domain redirected to AustarMetro by 2002 (dynamite.net.au served AustarMetro content Jun 2002); ultimately reached iiNet via AustarMetro -> Virtual Communities (2004). Dynamite brand survived on the sites until early-mid 2001; AustarMetro branding by late Mar 2002; c.2001 confirmed.",
       "refs": [
         {
           "kind": "official",
@@ -81,6 +81,21 @@
           "kind": "archive",
           "url": "https://forums.whirlpool.net.au/archive/408814",
           "label": "Whirlpool (Oct 2005): AustarMetro customer base -> Virtual Communities -> iiNet (2004)"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20010418154804/http://www2.dynamite.com.au/",
+          "label": "still Dynamite-branded 18 Apr 2001"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20020327232642/http://www.dynamite.com.au/",
+          "label": "domains rebranded AustarMetro/Austar Internet by 27 Mar 2002 (dynamite.net.au identical 28 Mar 2002)"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.linkedin.com/posts/harry-konstantinou_in-1989-when-i-was-15-i-started-a-bulletin-activity-7503364770633363457-COBi",
+          "label": "founder: Dynamite sold to Eisa 1999; Eisa taken over by Austar 2000, brand absorbed into AustarMetro ~2001"
         }
       ]
     }

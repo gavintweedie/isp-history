@@ -42,7 +42,24 @@
       "year": 2007,
       "date_disp": "c. 2007",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20061115121236/http://www.ezconnect.com.au/",
+          "label": "full retail ISP homepage, 15 Nov 2006"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20080718181128/http://www.ezconnect.com.au/",
+          "label": "by 18 Jul 2008 the site sold only calling cards (1900connect.com) — no internet access"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20090301234720/http://www.ezconnect.com.au/",
+          "label": "by Mar 2009 just a VoIP customer login = webmail-equivalent dead; the proposal's 2012 evidence only dates the calling-card site"
+        }
+      ]
     }
   ]
 }

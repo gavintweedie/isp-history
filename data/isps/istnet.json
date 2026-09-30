@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2002,
-      "date_disp": "c. 2002",
+      "year": 2012,
+      "date_disp": "c. 2012-13",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. ISTnet-branded site survived to Jun 2012 but the domain showed Red Dirt's RDC Broadband by Apr 2013 — takeover death c. 2012-13 as proposed, not 2002.",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20120618060018/http://www.istnet.net.au/",
+          "label": "18 Jun 2012: still an ISTnet-branded hosting/ISP site (post-takeover management since late 2010-11)."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20130408122839/http://istnet.net.au/",
+          "label": "By 8 Apr 2013 the domain served Red Dirt Communications' fixed-wireless 'RDC Broadband' site."
+        },
+        {
+          "kind": "registry-transfer",
+          "url": "https://bgp.tools/transfer-history/?org=Red%20Dirt%20Communications%20Pty%20Ltd",
+          "label": "ISTnet's IP blocks (103.6.208.0/22, 203.56.23.0/24) formally passed to Red Dirt on 19 Aug 2015; the original ISTnet company ABN 38 009 251 745 was cancelled 1 J"
+        }
+      ]
     }
   ],
   "refs": [

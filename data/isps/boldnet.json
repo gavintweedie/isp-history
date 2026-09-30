@@ -22,13 +22,25 @@
     },
     {
       "kind": "death",
-      "year": 2008,
-      "date_disp": "c. 2008",
-      "precision": "approx",
-      "details": "boldweb.com.au served a Sipura SPA (VoIP ATA) configuration/login portal by 2006, then a 'Boldweb Investments Pty Ltd' holding page by 2009.",
+      "year": 2002,
+      "date_disp": "by 2002",
+      "precision": "by",
+      "details": "boldweb.com.au served a Sipura SPA (VoIP ATA) configuration/login portal by 2006, then a 'Boldweb Investments Pty Ltd' holding page by 2009. No retail ISP page ever appears in the archive (webmail stub from Sep 2002 onward), making both the c. 2008 current and proposal unsupportable; dead by 2002.",
       "source": [
         "https://web.archive.org/web/20060819081419/http://boldweb.com.au/",
         "https://web.archive.org/web/20091012074038/http://www.boldweb.com.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020926204231if_/http://www.boldweb.com.au/",
+          "label": "the domain's earliest capture (26 Sep 2002, its birth year) is already a webmail/links stub; no retail ISP homepage is archived at any date"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060819081419if_/http://boldweb.com.au/",
+          "label": "by Aug 2006 the domain exposed a VoIP ATA device config portal - long past any retail use"
+        }
       ]
     },
     {

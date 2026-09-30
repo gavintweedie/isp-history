@@ -22,10 +22,32 @@
     },
     {
       "kind": "death",
-      "year": 2013,
-      "date_disp": "c. 2013",
+      "year": 2017,
+      "date_disp": "c. Apr-May 2017",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Last retail ISP homepage 23 Apr 2017, redirects from May 2017 — c.2017 for the brand despite the company's Oct 2015 wind-up; c.2013 is too early.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20170423082214/http://everynet.com.au/",
+          "label": "live retail ISP homepage with working signup funnel, 23 Apr 2017"
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=everynet.com.au&output=json&collapse=digest&limit=400",
+          "label": "site began redirecting away weeks after the Apr 2017 capture"
+        },
+        {
+          "kind": "official",
+          "url": "https://insolvencynotices.com.au/notice/everynet-pty-ltd",
+          "label": "Everynet Pty Ltd (ACN 147695654) wound up Oct 2015 — the brand site oddly outlived the company; ABN cancelled 4 Oct 2017"
+        },
+        {
+          "kind": "official",
+          "url": "https://www.everynet.com.au/",
+          "label": "domain dead today"
+        }
+      ]
     }
   ],
   "refs": [

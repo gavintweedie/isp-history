@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2007,
-      "date_disp": "c. 2007",
+      "year": 2004,
+      "date_disp": "c. 2004",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. With only two archived captures (Dec 2004 live ISP, Apr 2017 parked), the unsupported 2007 estimates give way to the last hard evidence of retail-ISP life in Dec 2004. last retail ISP homepage Dec 2004; parked by 2017.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20041212020147/http://www.helpnet.net.au/",
+          "label": "12 Dec 2004: the ONLY live capture of this micro Perth ISP-reseller; content last updated 29 Nov 2004."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20170428042812/http://helpnet.net.au/",
+          "label": "By Apr 2017 (the only other capture ever taken) the domain was a Netregistry parked 'BizCard' page; no 2005-2016 captures exist."
+        }
+      ]
     }
   ],
   "refs": [

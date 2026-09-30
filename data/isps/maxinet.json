@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2012,
+      "date_disp": "by May 2012",
+      "precision": "by",
+      "details": "Defunct. The c.2001 current value is far too early: the (frozen) MaxiNet retail ISP homepage was still served in May 2012 and never archived again.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120524053943/http://www.maxinet.com.au/",
+          "label": "24 May 2012 capture is still a full retail ISP homepage, frozen since c.2009; it is the last retail capture"
+        },
+        {
+          "kind": "archive",
+          "url": "https://archive.org/wayback/available?url=maxinet.com.au&timestamp=20150601",
+          "label": "No homepage captures after May 2012; only a much later domain redirect"
+        }
+      ]
     }
   ],
   "refs": [

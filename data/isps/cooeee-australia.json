@@ -28,6 +28,18 @@
       "details": "Dead.",
       "source": [
         "https://web.archive.org/web/20010722191805/http://www.cooeee.com/"
+      ],
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20010722191805/http://www.cooeee.com/",
+          "label": "Full ISP homepage (Perth dialup + webmail links), 22 Jul 2001 — last ISP-era capture"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20030927015049/http://cooeee.com/",
+          "label": "By 27 Sep 2003 the domain was a personal photo page; only a frames shell in 2006"
+        }
       ]
     },
     {

@@ -22,10 +22,10 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
+      "year": 2006,
+      "date_disp": "c. 2005-06",
       "precision": "approx",
-      "details": "Ceased as an ISP (c. 2000 stands) — Patash Pty Ltd survives as a hosting/DNS/mail provider (ABN active); no retail internet access..",
+      "details": "Ceased as an ISP (c. 2000 stands) — Patash Pty Ltd survives as a hosting/DNS/mail provider (ABN active); no retail internet access.. The retail ISP homepage died between Jul 2005 and Feb 2006; the 'still live' proposal confuses the surviving Patash hosting company with the defunct ISP.",
       "refs": [
         {
           "kind": "official",
@@ -36,6 +36,21 @@
           "kind": "official",
           "url": "https://abr.business.gov.au/ABN/View?id=007246988",
           "label": "Operating entity ABN active and GST-registered"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20050717092959id_/http://www.patash.com.au/",
+          "label": "Full retail ISP homepage on 17 Jul 2005."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20060204183812id_/http://www.patash.com.au/",
+          "label": "By 4 Feb 2006 the homepage was an empty stub (same FVAW digest through Dec 2006); Jul 2008 capture is webmail-only; 2015 site says 'Today the Patash mission is "
+        },
+        {
+          "kind": "official",
+          "url": "https://www.patash.com.au/",
+          "label": "Company still trades in 2026 as a hosting/domains business (WHMCS) with no internet-access plans — alive as a host, dead as an ISP."
         }
       ]
     }

@@ -25,7 +25,19 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Rebranded HugoNet."
+      "details": "Rebranded HugoNet. HugoNet's 'formerly HC Internet' footer plus HugoNet's first capture in Dec 2005 hard-evidences the HC Internet -> HugoNet rebrand c. 2005; the brief's connect.com.au citation is a red herring (that domain was always Connect Internet, Perth). rebranded as HugoNet.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20060430042216/http://www.hugonet.com.au/",
+          "label": "HugoNet's own 2006 footer states the rebrand outright."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20051221044925/http://www.hugonet.com.au/",
+          "label": "First-ever HugoNet capture (21 Dec 2005), already a Geelong retail ISP using the 'hc.css' stylesheet - consistent with HC Internet being rebranded into HugoNet "
+        }
+      ]
     }
   ]
 }

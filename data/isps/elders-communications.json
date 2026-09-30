@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Services discontinued."
+      "year": 2008,
+      "date_disp": "1 Aug 2008",
+      "precision": "exact",
+      "details": "Services discontinued. Elders' retail internet operations formally closed 1 Aug 2008 with customers moved to Harbour IT and People Telecom — c.2003 was far too early.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20080821103332/http://www.elderstelecommunications.com.au/",
+          "label": "official closure notice after the OPEL funding failure (1 Apr 2008); customers transitioned 1 Aug 2008"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20081010180024/http://www.elders.net.au/",
+          "label": "elders.net.au itself was Elders' agribusiness portal, not the retail ISP front (telco retail ran on elderstelecommunications.com.au)"
+        }
+      ]
     }
   ],
   "refs": [

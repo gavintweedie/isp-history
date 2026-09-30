@@ -25,7 +25,24 @@
       "year": 2006,
       "date_disp": "c. 2006",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20060610134947/http://femtech.com.au/",
+          "label": "last Femtech-branded homepage, 10 Jun 2006"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20090103095120/http://www.femtech.com.au/",
+          "label": "generic placeholder by 3 Jan 2009"
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20100830153918/http://www.femtech.com.au/",
+          "label": "domain relaunched as the Smelly Black Dog (SBDC) ISP by Aug 2010 (Cairns, 07 4015; same Scafe partnership) — that is the successor's birth, not Femtech's death"
+        }
+      ]
     }
   ],
   "refs": [

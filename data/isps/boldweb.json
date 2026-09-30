@@ -18,12 +18,12 @@
       "year": 1997,
       "date_disp": "Jun 1997",
       "precision": "approx",
-      "details": "About BOLD \u2014 Since Jun 1997 we have had total of about 30 minutes ...; Binary Logic Pty Ltd ACN 008092859; Ethernet to SAIX.",
+      "details": "About BOLD — Since Jun 1997 we have had total of about 30 minutes ...; Binary Logic Pty Ltd ACN 008092859; Ethernet to SAIX.",
       "refs": [
         {
           "kind": "archive",
           "url": "https://web.archive.org/web/19991009114346/http://www.bold.net.au/aboutus.htm",
-          "label": "Boldweb \u2014 Since Jun 1997"
+          "label": "Boldweb — Since Jun 1997"
         }
       ]
     },
@@ -36,6 +36,18 @@
       "source": [
         "https://web.archive.org/web/20020118184251/http://www.bold.net.au/",
         "https://web.archive.org/web/20070829043144/http://www.bold.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020802050555if_/http://www.bold.net.au/",
+          "label": "full retail homepage (join/services/broadband/webmail) live 2 Aug 2002"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20071104032312/http://www.bold.net.au/",
+          "label": "domain redirected to Amcom by 4 Nov 2007; there are no captures at all between Aug 2002 and Nov 2007, so the exact year is unpinned"
+        }
       ]
     }
   ],

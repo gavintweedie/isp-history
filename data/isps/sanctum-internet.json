@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2000,
-      "date_disp": "c. 2000",
+      "year": 2002,
+      "date_disp": "c. 2002-03",
       "precision": "approx",
-      "details": "Defunct."
+      "details": "Defunct. Sanctum's retail hosting homepage vanished between mid-2002 and mid-2003; a placeholder page lingering to 2014 does not make it a live ISP.",
+      "refs": [
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20020601000000id_/http://sanctum.com.au/",
+          "label": "Full retail hosting site still live in mid-2002."
+        },
+        {
+          "kind": "replay",
+          "url": "https://web.archive.org/web/20030601000000id_/http://sanctum.com.au/",
+          "label": "By mid-2003 the site was a 'Coming Soon' placeholder - retail gone; the same placeholder persists through mid-2014."
+        },
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/web/timemap/json/sanctum.com.au",
+          "label": "The proposal's c. 2014 only dates when the placeholder host finally 301'd; company ABN record still updated Dec 2017 - neither is the ISP death."
+        }
+      ]
     }
   ],
   "refs": [

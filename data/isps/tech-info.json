@@ -2,9 +2,9 @@
   "name": "Tech Info",
   "slug": "tech-info",
   "birthplace": "Briar Hill (Melbourne), VIC",
-  "status": "inactive",
+  "status": "active",
   "website": "https://techinfo.com.au",
-  "summary": "Melbourne ISP + PC/printer sales + networking + hosting (online since Mar 1997); defunct (CLARKE FAMILY TRUST (trust), ABN 39 391 183 625).",
+  "summary": "Melbourne ISP + PC/printer sales + networking + hosting (online since Mar 1997); still operating as of Sep 2026 (CLARKE FAMILY TRUST (trust), ABN 39 391 183 625).",
   "names": [
     {
       "name": "Tech Info",
@@ -21,11 +21,28 @@
       "details": "ISP + computer sales."
     },
     {
-      "kind": "death",
-      "year": 2003,
-      "date_disp": "c. 2003",
-      "precision": "approx",
-      "details": "Defunct."
+      "kind": "note",
+      "year": 2026,
+      "date_disp": "Sep 2026",
+      "precision": "exact",
+      "details": "Verified still operating as an ISP in Sep 2026 (live site retailing internet services); earlier death record removed.",
+      "refs": [
+        {
+          "kind": "official",
+          "url": "https://www.techinfo.com.au/",
+          "label": "Fetched live Sep 2026: NBN broadband ISP homepage of Tech Info, Briar Hill VIC, is up."
+        },
+        {
+          "kind": "archive-replay",
+          "url": "https://web.archive.org/web/20221003084023id_/https://www.techinfo.com.au/",
+          "label": "Same ISP homepage archived Oct 2022, refuting 'by Aug 2006' proposal."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/cdx/search/cdx?url=techinfo.com.au&output=json&collapse=digest&limit=200",
+          "label": "No capture gap; site never vanished."
+        }
+      ]
     }
   ],
   "refs": [

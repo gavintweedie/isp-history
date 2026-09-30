@@ -22,10 +22,22 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2003,
+      "date_disp": "c. 2003",
       "precision": "approx",
-      "details": "Last capture May 2001."
+      "details": "Last capture May 2001. Branded Jan 2003, parked with Domain Direct by Jun 2003 — c. 2003 as proposed (current c. 2001 and the prior note's 'Mar 2002 last' were both too early).",
+      "refs": [
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20030127180059/http://ion.com.au/",
+          "label": "Homepage still ION-branded 27 Jan 2003."
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20030606131604/http://ion.com.au/",
+          "label": "By 6 Jun 2003 the domain was a Domain Direct (GlobeCom) parking/reseller page — the ISP was gone."
+        }
+      ]
     }
   ],
   "refs": [

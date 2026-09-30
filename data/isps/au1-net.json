@@ -32,12 +32,24 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
+      "year": 2010,
+      "date_disp": "c. 2009-10",
       "precision": "approx",
-      "details": "Retail ISP wound down c.2001; au1.net domain still captured through 2012.",
+      "details": "Retail ISP wound down c.2001; au1.net domain still captured through 2012. Proposal c. 2009-10 right: Au1.Net slid from mixed web-design/ISP into pure web design/hosting between Jul 2008 and Dec 2010 (later premisesaus.com.au). 'ADSL ISP Services' still in homepage title Jul 2008; web-design/hosting-only by Dec 2010.",
       "source": [
         "https://web.archive.org/web/20120222010051/http://www.au1.net/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20080704054028/http://au1.net/",
+          "label": "ISP services still advertised 4 Jul 2008 — current c. 2001 death is wrong"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20101229125004/http://au1.net/",
+          "label": "By Dec 2010 all ISP offerings dropped from the page (probes show no captures between Jul 2008 and Dec 2010, so death = 2008-2010 window; c. 2009-10)"
+        }
       ]
     }
   ],

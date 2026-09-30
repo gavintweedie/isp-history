@@ -33,9 +33,21 @@
     {
       "kind": "death",
       "year": 2000,
-      "date_disp": "c. 2000",
-      "precision": "approx",
-      "details": "Arcom/ARCOMNET ISP wound down; site redirected to A&R Computer Services (aandr.com.au)."
+      "date_disp": "by mid-2000",
+      "precision": "by",
+      "details": "Arcom/ARCOMNET ISP wound down; site redirected to A&R Computer Services (aandr.com.au). Arcom's ISP retail page was already redirecting at the earliest surviving capture; A&R Computers the computer retailer survives (aandr.com.au live today). first capture, 1 Mar 2000, already a 'Page Has Moved' stub; 20 Jun 2000 page redirects into A&R Computers shop.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000301194441/http://www.aandr.com.au/",
+          "label": "Earliest archived capture of the Arcom/ARCOMNET site is already a moved-stub on 1 Mar 2000"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20000620091105/http://www.aandr.com.au/",
+          "label": "20 Jun 2000: page bounces visitors straight into the A&R Computers online shop; Jul 2001 capture is pure computer retail — the ISP was folded into A&R Computer "
+        }
+      ]
     },
     {
       "kind": "note",

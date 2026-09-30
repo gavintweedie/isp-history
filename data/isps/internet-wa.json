@@ -4,7 +4,7 @@
   "birthplace": "Perth, WA",
   "status": "inactive",
   "website": "http://www.wanet.net.au",
-  "summary": "Perth ISP 'WANET' on wanet.net.au (Internet WA Pty Ltd, ACN 090 110 222) \u2014 a different company from WAnet (wanet.com.au); WAIA/WAIX member; defunct c. 2005.",
+  "summary": "Perth ISP 'WANET' on wanet.net.au (Internet WA Pty Ltd, ACN 090 110 222) — a different company from WAnet (wanet.com.au); WAIA/WAIX member; defunct c. 2005.",
   "aliases": [
     "WANET",
     "Wa Net"
@@ -22,7 +22,7 @@
       "year": 2000,
       "date_disp": "c. 2000",
       "precision": "approx",
-      "details": "Perth ISP 'WANET' on wanet.net.au (Internet WA Pty Ltd, ACN 090110222 \u2014 ACN 090 series registered c. 1999-2000).",
+      "details": "Perth ISP 'WANET' on wanet.net.au (Internet WA Pty Ltd, ACN 090110222 — ACN 090 series registered c. 1999-2000).",
       "refs": [
         {
           "kind": "official",
@@ -36,7 +36,19 @@
       "year": 2005,
       "date_disp": "c. 2005",
       "precision": "approx",
-      "details": "Last live capture of wanet.net.au Feb 2005; ABN cancelled 2018."
+      "details": "Last live capture of wanet.net.au Feb 2005; ABN cancelled 2018. Archive traces stop Oct 2004 and the domain has been dead/unreachable ever since — c. 2005 as proposed.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "http://web.archive.org/cdx/search/cdx?url=wanet.net.au&matchType=domain&output=json",
+          "label": "Capture history ends 22 Oct 2004; the homepage itself was last archived as live on 1 Apr 2001."
+        },
+        {
+          "kind": "live-2026",
+          "url": "http://www.wanet.net.au/",
+          "label": "Domain dead in Sep 2026 checks."
+        }
+      ]
     }
   ],
   "refs": [

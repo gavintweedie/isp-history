@@ -64,9 +64,26 @@
       "year": 2015,
       "date_disp": "c. 2015",
       "precision": "approx",
-      "details": "ISP/carrier operations wound down with TPG's acquisition of iiNet (2015). The legal entity is not deregistered: ABR shows CHIME COMMUNICATIONS PTY LTD (ACN 073 119 285) still active, its address now TPG's North Sydney office (NSW 2060) — i.e. a dormant TPG-group subsidiary.",
+      "details": "ISP/carrier operations wound down with TPG's acquisition of iiNet (2015). The legal entity is not deregistered: ABR shows CHIME COMMUNICATIONS PTY LTD (ACN 073 119 285) still active, its address now TPG's North Sydney office (NSW 2060) — i.e. a dormant TPG-group subsidiary. Site redirect from 2009, carrier absorbed with iiNet into TPG on the Aug 2015 takeover completion - c. 2015 stands, with the legal entity surviving in TPG.",
       "source": [
         "https://abr.business.gov.au/ABN/View?abn=90073119285 (CHIME COMMUNICATIONS PTY LTD, ACN 073 119 285, active, NSW 2060)"
+      ],
+      "refs": [
+        {
+          "kind": "gov",
+          "url": "https://abr.business.gov.au/ABN/View?abn=90073119285",
+          "label": "carrier entity was never deregistered and sits at TPG's North Sydney address - the company survives inside TPG; death is of Chime as a distinct operation"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20090701000000id_/http://www.chime.net.au/",
+          "label": "chime.net.au already 301-redirected into iinet.net.au by mid-2009, so the website died c. 2008-09 while carrier operations (ACCC access seeker in determinations"
+        },
+        {
+          "kind": "news",
+          "url": "https://cencelx.com/internet/inside-the-downfall-of-iinet-sydney/",
+          "label": "TPG completed the iiNet takeover in Aug 2015; iiNet wholesale/carrier operations folded into the TPG group"
+        }
       ]
     }
   ]

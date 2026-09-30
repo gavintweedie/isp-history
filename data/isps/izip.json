@@ -22,15 +22,30 @@
     },
     {
       "kind": "death",
-      "year": 2009,
-      "date_disp": "c. 2009",
+      "year": 2013,
+      "date_disp": "c. 2013-14",
       "precision": "approx",
-      "details": "Ceased as an ISP — domain now a computer-support business..",
+      "details": "Ceased as an ISP — domain now a computer-support business.. iZIP sold ADSL/dialup/wireless into Apr 2013 and went repairs-only by May 2014 — ISP death c. 2013-14; the c. 2009 entry mistook the 2009 shop-closure notice for the ISP's end.",
       "refs": [
         {
           "kind": "official",
           "url": "https://izip.com.au/",
           "label": "Domain now serves an unrelated Brisbane computer-repair business — no internet plans"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20130408123157/http://izip.com.au/",
+          "label": "Homepage still offered retail internet access plans 8 Apr 2013 (the Aug 2009 'Specialty Shop closed' notice behind the current 2009 death referred only to the N"
+        },
+        {
+          "kind": "wayback-replay",
+          "url": "https://web.archive.org/web/20140516193756/http://izip.com.au/",
+          "label": "By 16 May 2014 the homepage was a computer-repairs WordPress site with no access plans; that support site persists to 2026."
+        },
+        {
+          "kind": "abr-live-2026",
+          "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=IZIP",
+          "label": "Operator entity active in 2026 (Brisbane QLD 4157, onsite computer support) — alive but no longer a retail ISP."
         }
       ]
     }

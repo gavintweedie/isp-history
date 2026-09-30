@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2001,
-      "date_disp": "c. 2001",
-      "precision": "approx",
-      "details": "Defunct."
+      "year": 2013,
+      "date_disp": "by 2013",
+      "precision": "by",
+      "details": "Defunct. HAL9000-branded content last seen Feb 2012; server default pages from Feb 2013, so death is fixed to by 2013 rather than the proposal's by 2012 (and far from the current c. 2001). own site gone; default server pages thereafter.",
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20070828205357/http://www.hal9000.net.au/",
+          "label": "2007: domain still served its own HAL9000-branded homepage."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20120221110944/http://www.hal9000.net.au/",
+          "label": "Feb 2012 (20120221110944): STILL the HAL9000-branded splash - rebuts prior claim of a default Apache page by 2012."
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130228123313/http://www.hal9000.net.au/",
+          "label": "By 28 Feb 2013 only a default Apache page; 2014-2019 captures are a bare '(DEFAULT) user1.hal9000.net.au' placeholder and 2025-26 captures just print the hostna"
+        }
+      ]
     }
   ],
   "refs": [

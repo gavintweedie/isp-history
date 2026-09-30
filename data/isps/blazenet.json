@@ -26,11 +26,23 @@
     {
       "kind": "death",
       "year": 2001,
-      "date_disp": "c. 2001",
+      "date_disp": "Dec 2001",
       "precision": "approx",
-      "details": "Folded into Hotkey Internet Services; last independent homepage Jan 2001, redirect by Mar 2002.",
+      "details": "Folded into Hotkey Internet Services; last independent homepage Jan 2001, redirect by Mar 2002. BlazeNet was absorbed into Hotkey Internet Services with customer migration on 10 Dec 2001 - death is Dec 2001, confirming the c. 2001 proposal.",
       "source": [
         "https://web.archive.org/web/20020324084905/http://blaze.net.au/"
+      ],
+      "refs": [
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20010516013854if_/http://www.blaze.net.au/",
+          "label": "independent BlazeNet retail homepage (Rates/Join/Members) live 16 May 2001"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20020324084905if_/http://blaze.net.au/",
+          "label": "by 24 Mar 2002 the domain resolved to the AusISP/Hotkey site carrying a customer-migration notice dated 10 Dec 2001"
+        }
       ]
     },
     {

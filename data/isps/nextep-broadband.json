@@ -22,10 +22,27 @@
     },
     {
       "kind": "death",
-      "year": 2005,
-      "date_disp": "c. 2005",
+      "year": 2013,
+      "date_disp": "c. 2013",
       "precision": "approx",
-      "details": "NEC venture; no clear record of end."
+      "details": "NEC venture; no clear record of end. The proposal's 2006 partnership-ABN cancellation is not the ISP death: Nextep traded on as an NEC division and then AAPT brand until its product homepage became a transition page around 2013-14. AAPT takeover Dec 2012; site reduced to migration page by May 2014.",
+      "refs": [
+        {
+          "kind": "news",
+          "url": "https://delimiter.com.au/2012/11/14/aapt-buys-necs-nextep-division/",
+          "label": "AAPT acquisition announced 14 Nov 2012 (completed Dec 2012)"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20130521201508/http://nextep.com.au/",
+          "label": "May 2013 still a complete Nextep-branded ISP product site under AAPT"
+        },
+        {
+          "kind": "archive",
+          "url": "https://web.archive.org/web/20140516201405/http://nextep.com.au/",
+          "label": "By May 2014 the homepage was only a migration notice; the 1 Jul 2006 partnership ABN cancellation (44 138 187 739, NEC Australia & XDSL) did not end the brand"
+        }
+      ]
     }
   ],
   "refs": [
