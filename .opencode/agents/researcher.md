@@ -1,7 +1,7 @@
 ---
 description: Standard research agent for Australian ISP-history data (Wayback/ABR/press evidence gathering). Writes verdict JSON to /tmp; never edits the repo.
 mode: subagent
-model: greenthread/deepseek-4.1-flash
+model: opencode-go/deepseek-v4.1-flash
 permissions:
   - action: edit
     resource: "data/**"
