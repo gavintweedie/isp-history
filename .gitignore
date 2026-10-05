@@ -7,3 +7,5 @@ data/exports/
 # legacy SQLite files from the pre-JSON data layout (not used by the app)
 *.db
 *.db-journal
+
+.research/
