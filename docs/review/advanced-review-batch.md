@@ -30,3 +30,54 @@ Items the standard research pass (`researcher`, DeepSeek V4.1 Flash) or the adva
 ## C. Carried-over flags (from earlier passes, still open)
 
 - 12 undatable deaths; 6 unresolved ACNs; goldnet/northcoast/lets-go (above); ~441 leaf-mining candidates (in progress); EscapeNet book brands partially resolved here.
+
+## D. Leaf-mining wave (CDX pre-scan, 568 leaf domains; 76 candidates researched)
+
+Method: local Wayback CDX pre-scan of every transition-less ISP domain -> 76 domains whose history showed an HTTP redirect to a different host; each verified by the standard research agent (DeepSeek V4.1 Flash) replaying the captures. Result: 17 edge proposals, 5 same-company consolidations, 51 no-edge, 2 unresolved, 1 new-node proposal.
+
+### D1. Clean edge recommendations (replayed 302/301 evidence)
+
+- **acepia -> eftel** — Jun 2004 (acquisition). Melbourne ISP Acepia was absorbed into Eftel (Datafast) by mid-2004; node already documents the acquisition but no transition edge exists.  
+  `https://web.archive.org/web/20040608032359id_/http://www.acepia.net.au/`
+- **ansonic -> eftel** — by May 2006 (acquisition). Warrnambool/Westvic ISP on ansonic.com.au was absorbed into Datafast (Eftel) by 2000 and finally 302s to w3.eftel.com from May 2006.  
+  `https://web.archive.org/web/20060502010438id_/http://www.ansonic.com.au/`
+- **blue-planet-internet -> eftel** — Feb 2005 (acquisition). Blue Planet's operating site was redirected into Eftel by 3 Feb 2005, consistent with an Eftel-orbit absorption.  
+  `https://web.archive.org/web/20050203015915id_/http://www.bluep.com/`
+- **gateway-internet -> ciphertel** — c. 2003 (acquisition). Gateway Internet's business was taken over by CipherTel (same ABN/trading name) around 2003 and the domain later 301s to ciphertel.com.  
+  `https://web.archive.org/web/20141218140501id_/http://www.gateway.net.au/`
+- **itconnect -> netspeed** — Apr 2008 (acquisition). ITConnect's domain redirected into NetSpeed by Apr 2008, matching the node's c.2007-08 acquisition.  
+  `https://web.archive.org/web/20080403033559id_/http://www.itconnect.net.au/`
+- **merlin-australia -> internode** — by Mar 2001 (acquisition). Merlin Australia was absorbed by Internode; merlin.net.au served Internode/on.net content from Mar 2001.  
+  `https://web.archive.org/web/20010301153853id_/http://www.on.net/`
+- **onedex -> concept-networks** — Apr 2006 (acquisition). Perth ISP Onedex redirected into Concept Networks (conceptual.net.au) from 28 Apr 2006.  
+  `https://web.archive.org/web/20060428100346id_/http://www.onedex.com.au/`
+- **pegasus-networks -> microplex** — 1996 (acquisition). Pegasus Networks was acquired by Microplex in 1996 (Microplex itself absorbed into OptusNet in 1998); record edge to Microplex.  
+  `http://www.rogerclarke.com/II/OzIHist.html`
+- **projectx -> eftel** — Aug 2006 (acquisition). ProjectX (KeyPoint Pty Ltd) migrated its customers to Eftel and the domain 302s to w3.eftel.com from Aug 2006.  
+  `https://web.archive.org/web/20060504003736id_/http://www.projectx.com.au/`
+- **terra-communications-sa -> camtech** — 19 Apr 1999 (acquisition). Genuine acquisition: Terra Communications (SA)'s customers were taken over by OzEmail Camtech on 19 Apr 1999.  
+  `https://web.archive.org/web/20000818174955/http://terra.net.au/`
+
+### D2. Structural / new-node decisions (for the batch)
+
+- **grafton-internet -> Lismore Online** (2001, rename) — Same-operator/sub-brand relationship; edge type (rename vs acquisition) is ambiguous.
+- **pintech -> iiNet** (by Sep 2009, acquisition) — Absorption date is approximate (last 200 Jul 2008, first lasting 301 to iiNet Sep 2009-2011) and an earlier transient 2001 redirect muddies the timeline.
+- **qconnect-internet -> Veridas Telecom & Internet / Veridas Communications (VTI)** (2005, merger) — Acquirer differs from the brief's prescan target (lamp-internet); requires a new merger edge to veridas.
+- **frontierisp -> Ai Tel Pty Ltd (aitel.net.au)** (by Sep 2009, rename) — New node proposed (Ai Tel); needs entity/ABN check and merge with FrontierISP records.
+- **world-wire -> ISP Ltd (ausisp.com)** (c. Nov 2001, acquisition) — Redirect target ausisp.com is ISP Ltd, which Hotkey purchased c.Nov 2001; no explicit World Wire notice - confirm whether the edge target should be isp-ltd or hotkey, and that World Wire was acquired rather than merely handed over.
+- **logic-world -> Fuzion Pty Ltd** (20 Oct 2003, acquisition) — Acquirer Fuzion Pty Ltd / fuzion.com.au has no dataset node - structural proposal to create one and wire logic-world -> fuzion.
+- **extremedsl -> Generation IT** (by Sep 2009, rename) — Likely same-operator brand consolidation (shared Subiaco/Perth site, git.com.au backends), so acquisition-vs-rename needs a call; also generation-it node currently dates its death to 2006 but generationit.com.au was a live ISP into 2012 - conflict with an existing dataset record.
+- **highlands-internet -> Oracle Telecom** (c. 2012 (by Jan 2013), acquisition) — Acquirer Oracle Telecom is not a dataset node; a new node is needed to attach the absorption edge.
+
+### D3. Advanced-review flags (identity conflicts, record conflicts, thin evidence, still-alive doubts)
+
+- **tdce** (unresolved) — Thin/single redirect evidence, possible BIT.net acquisition but domain shows unrelated later reuse.
+- **iqnet** (unresolved) — Identity/state conflict: Perth IQNET Pty Ltd (ABN cancelled 08 Dec 2004) redirected to Townsville QLD wireless ISP 'IQ Connect'; decide genuine rename/new node vs unrelated domain reuse.
+
+### D4. No-edge (51) and same-company consolidations (5)
+
+No absorptions found: domain afterlife/parking (e.g. mountain-apple → apple.com; charon → US iFriends), name collisions (gsn-net = US NH ISP; north-power = NZ Northpower; namadgi = Sydney game-dev), same-brand domain moves (highstream, icenet, jettech, greentreefrog, jazmin), or ordinary death. Same-company consolidations (no edge needed): arafura-internet, atlantic-digital, cm-internet, diverse-services, fish-internet.
+
+### D5. Coverage note
+
+The redirect method only finds HTTP-level moves. 381 further leaves had no HTTP redirect (213 internal/webmail, 123 none, 45 no captures) — meta-refresh absorptions are invisible to CDX status codes and would need digest-diff mining (future pass).
